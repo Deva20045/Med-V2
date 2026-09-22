@@ -1,0 +1,397 @@
+{
+  "chapter": 13,
+  "title": "IgG4 Related Disease",
+  "pageRange": "449-451",
+  "questions": [
+    {
+      "id": "MED-C13-01",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "recall",
+      "q": "Which condition heads the IgG4-related-disease spectrum as the most common manifestation on the next page?",
+      "opts": [
+        "Riedel thyroiditis",
+        "Mediastinal fibrosis",
+        "Periaortitis",
+        "Type 1 autoimmune pancreatitis"
+      ],
+      "ans": 3,
+      "exp": "The spectrum lists type 1 autoimmune pancreatitis, Mikulicz disease, Riedel thyroiditis, mediastinal fibrosis, primary sclerosing cholangitis and periaortitis; p450 calls type 1 AIP the most common manifestation. (Book p449)"
+    },
+    {
+      "id": "MED-C13-02",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "recall",
+      "q": "How is IgG4 characterised among IgG subclasses in the source?",
+      "opts": [
+        "Least common, under 5%",
+        "Most common, over 60%",
+        "Equal to IgG1",
+        "Absent in healthy individuals"
+      ],
+      "ans": 0,
+      "exp": "IgG4 is listed as least common (<5%). (Book p449)"
+    },
+    {
+      "id": "MED-C13-03",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "recall",
+      "q": "Which functional property of IgG4 is specifically stated?",
+      "opts": [
+        "It has one antigen-binding site",
+        "It has no complement-fixing function",
+        "It strongly activates C1q",
+        "It is the principal opsonin for bacteria"
+      ],
+      "ans": 1,
+      "exp": "IgG4 is anti-inflammatory, blocks IgG–C1q binding, does not fix complement, and is a bispecific antibody with two antigen-binding sites that binds/sequesters antigen. (Book p449)"
+    },
+    {
+      "id": "MED-C13-04",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "scenario",
+      "q": "A biopsy shows tumefactive plasma-cell-rich inflammation, storiform fibrosis and obliterative phlebitis. What disease is most strongly suggested?",
+      "opts": [
+        "ANCA vasculitis",
+        "Sarcoidosis",
+        "IgG4-related disease",
+        "Classic Sjogren syndrome"
+      ],
+      "ans": 2,
+      "exp": "Histology lists IgG4-predominant lymphoplasmacytic infiltrate, tumour-like lesions, storiform fibrosis, obliterative phlebitis and mild eosinophilia. (Book p449)"
+    },
+    {
+      "id": "MED-C13-05",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "recall",
+      "q": "Which cytokine is called the most potent fibrogenic cytokine in the pathogenesis flowchart?",
+      "opts": [
+        "IL-1",
+        "TNF-alpha",
+        "IFN-gamma",
+        "TGF-beta"
+      ],
+      "ans": 3,
+      "exp": "Antigenic stimuli → IgG4 plasma-lymphocytic infiltrate → myofibroblast activation → TGF-β/PDGF → fibrosis; TGF-β is called most potent fibrogenic cytokine. (Book p449)"
+    },
+    {
+      "id": "MED-C13-06",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "recall",
+      "q": "Obliterative phlebitis is noted as occurring in IgG4-related disease and which other disease?",
+      "opts": [
+        "Behcet disease",
+        "SLE",
+        "Rheumatoid arthritis",
+        "Gout"
+      ],
+      "ans": 0,
+      "exp": "The page's note pairs obliterative phlebitis with IgG4-related disease and Behcet disease. (Book p449)"
+    },
+    {
+      "id": "MED-C13-07",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "recall",
+      "q": "Which demographic pattern is given for IgG4-related disease?",
+      "opts": [
+        "Male predominance only after age 90",
+        "Men more than women, age 40–70, subacute onset",
+        "Women more than men, childhood onset",
+        "Equal sex distribution in adolescence"
+      ],
+      "ans": 1,
+      "exp": "Clinical features: M>F, age 40–70 years, subacute onset; symptoms weight loss and myalgia. (Book p449)"
+    },
+    {
+      "id": "MED-C13-08",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "page": 449,
+      "fmt": "oddoneout",
+      "q": "Which finding is listed as arguing against IgG4-related disease?",
+      "opts": [
+        "Subacute onset",
+        "Mild eosinophilia",
+        "Neutrophil involvement",
+        "Weight loss"
+      ],
+      "ans": 2,
+      "exp": "Features against IgG4-RD: fever, arthritis, neutrophil involvement and granuloma. Mild eosinophilia appears among histology/atopy-allergy history. (Book p449)"
+    },
+    {
+      "id": "MED-C13-09",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 450,
+      "fmt": "scenario",
+      "q": "A patient has obstructive jaundice, diffuse irregular pancreatic-duct narrowing on ERCP, and a ‘sausage pancreas’ with homogeneous enhancement on CT. What manifestation is most likely?",
+      "opts": [
+        "Primary Sjogren syndrome",
+        "Acute gallstone pancreatitis",
+        "Pancreatic adenocarcinoma",
+        "Type 1 autoimmune pancreatitis"
+      ],
+      "ans": 3,
+      "exp": "Type 1 autoimmune pancreatitis is most common in IgG4-RD and presents with obstructive jaundice; ERCP is IOC and CT shows sausage pancreas/homogeneous enhancement. (Book p450)"
+    },
+    {
+      "id": "MED-C13-10",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 450,
+      "fmt": "recall",
+      "q": "Type 1 autoimmune pancreatitis can be associated with which endocrine and exocrine consequences?",
+      "opts": [
+        "Type 3c diabetes and malabsorption",
+        "Type 1 diabetes and hyperabsorption",
+        "SIADH and nephrogenic DI",
+        "Hypothyroidism and hypercalcaemia"
+      ],
+      "ans": 0,
+      "exp": "AIP is associated with endocrine insufficiency → type 3c DM and exocrine insufficiency → malabsorption. (Book p450)"
+    },
+    {
+      "id": "MED-C13-11",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 450,
+      "fmt": "scenario",
+      "q": "A patient has bilateral painless submandibular enlargement but minimal sicca symptoms. Which IgG4 manifestation is represented?",
+      "opts": [
+        "Sarcoid uveitis",
+        "Salivary-gland involvement/Mikulicz disease",
+        "Classic primary Sjogren syndrome",
+        "Acute bacterial parotitis"
+      ],
+      "ans": 1,
+      "exp": "Salivary involvement is bilateral painless submandibular enlargement with minimal sicca symptoms. (Book p450)"
+    },
+    {
+      "id": "MED-C13-12",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 450,
+      "fmt": "recall",
+      "q": "What is the most common orbital manifestation of IgG4-related disease on the page?",
+      "opts": [
+        "Retinal vasculitis",
+        "Scleritis",
+        "Lacrimal-gland enlargement (dacryoadenitis)",
+        "Optic neuritis"
+      ],
+      "ans": 2,
+      "exp": "Orbital/periorbital lesions include orbital inflammatory pseudotumours; lacrimal enlargement/dacryoadenitis is marked most common orbital manifestation. (Book p450)"
+    },
+    {
+      "id": "MED-C13-13",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 450,
+      "fmt": "recall",
+      "q": "Which CNS manifestation is specified in postpartum women with raised intracranial tension?",
+      "opts": [
+        "Pachymeningitis",
+        "Meningioma",
+        "Cerebral vasculitis",
+        "Lymphocytic hypophysitis"
+      ],
+      "ans": 3,
+      "exp": "Minor CNS manifestations are lymphocytic hypophysitis (postpartum women with ↑ICT) and pachymeningitis without parenchymal involvement. (Book p450)"
+    },
+    {
+      "id": "MED-C13-14",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 450,
+      "fmt": "recall",
+      "q": "What is the most common renal manifestation of IgG4-related disease?",
+      "opts": [
+        "Tubulointerstitial disease",
+        "Membranous nephropathy",
+        "Rapidly progressive GN",
+        "Distal renal tubular acidosis"
+      ],
+      "ans": 0,
+      "exp": "Tubulointerstitial disease is most common renal manifestation, with minimal CKD risk and no renal tubular acidosis; membranous nephropathy is glomerular involvement. (Book p450)"
+    },
+    {
+      "id": "MED-C13-15",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "recall",
+      "q": "Which bile-duct manifestation is listed under IgG4-related disease?",
+      "opts": [
+        "Choledochal cyst",
+        "Primary sclerosing cholangitis",
+        "Primary biliary cholangitis only",
+        "Acute cholangitis from stones"
+      ],
+      "ans": 1,
+      "exp": "The organ list continues with bile duct: primary sclerosing cholangitis. (Book p451)"
+    },
+    {
+      "id": "MED-C13-16",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "recall",
+      "q": "Which lung finding is described for IgG4-related disease?",
+      "opts": [
+        "Diffuse alveolar haemorrhage",
+        "Isolated pleural effusion",
+        "NSIP with thickening of the bronchovascular bundle",
+        "LIP with cysts as the defining pattern"
+      ],
+      "ans": 2,
+      "exp": "Lung: non-specific interstitial pneumonia (NSIP) and thickening of bronchovascular bundle. (Book p451)"
+    },
+    {
+      "id": "MED-C13-17",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "recall",
+      "q": "Which vascular manifestation may be associated with a paravertebral mass?",
+      "opts": [
+        "Medium-vessel PAN",
+        "Takayasu arteritis",
+        "Raynaud phenomenon",
+        "Periaortitis"
+      ],
+      "ans": 3,
+      "exp": "Aorta manifestation is periaortitis, associated with paravertebral mass. (Book p451)"
+    },
+    {
+      "id": "MED-C13-18",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "scenario",
+      "q": "A patient has membranous nephropathy as an IgG4 manifestation. What complement pattern is noted?",
+      "opts": [
+        "Low complements",
+        "High C3/C4 only",
+        "No complement change ever",
+        "Isolated C1-esterase deficiency"
+      ],
+      "ans": 0,
+      "exp": "The page notes membranonephropathy manifestation of IgG4 disease → low complements. (Book p451)"
+    },
+    {
+      "id": "MED-C13-19",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "recall",
+      "q": "What three domains compose the RCD 2020 criteria as shown?",
+      "opts": [
+        "Symptoms, ESR and CRP only",
+        "Pathologic findings, serology and clinical features",
+        "ECG, MRI and angiography",
+        "Genetics, complement and urine microscopy"
+      ],
+      "ans": 1,
+      "exp": "RCD 2020 criteria show pathologic/histologic features + serology + clinical features; serum IgG4 correlates with activity and is elevated in 40% cases. (Book p451)"
+    },
+    {
+      "id": "MED-C13-20",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "recall",
+      "q": "Which ratio is stated to be a better marker than serum IgG4 alone?",
+      "opts": [
+        "C3/C4 ratio",
+        "ESR/CRP ratio",
+        "IgG4/IgG ratio",
+        "IgG1/IgM ratio"
+      ],
+      "ans": 2,
+      "exp": "Other findings: IgG4/IgG ratio is a better marker. (Book p451)"
+    },
+    {
+      "id": "MED-C13-21",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "recall",
+      "q": "Mikulicz disease involves enlargement of which glands?",
+      "opts": [
+        "Thyroid and adrenal glands",
+        "Pancreas and pituitary only",
+        "Sublingual gland only",
+        "Parotid, submandibular and lacrimal glands"
+      ],
+      "ans": 3,
+      "exp": "Mikulicz disease is enlargement of parotid, submandibular and lacrimal gland; history includes chronic sinusitis/nasal obstruction with eosinophilia. (Book p451)"
+    },
+    {
+      "id": "MED-C13-22",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "management",
+      "q": "What first-line treatment and relapse-prevention steroid-sparing agent are listed for IgG4-related disease?",
+      "opts": [
+        "Steroids first line; rituximab to prevent relapse",
+        "Hydroxychloroquine first line; methotrexate only",
+        "NSAIDs first line; IVIG for relapse",
+        "Cyclophosphamide for all cases"
+      ],
+      "ans": 0,
+      "exp": "Steroids are first line with good response within two weeks but relapse risk; rituximab is the steroid-sparing agent to prevent relapse. (Book p451)"
+    },
+    {
+      "id": "MED-C13-23",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "page": 451,
+      "fmt": "scenario",
+      "q": "A patient has pronounced salivary enlargement, little sicca, and good steroid response but relapse risk. Which diagnosis is favoured over Sjogren in the comparison table?",
+      "opts": [
+        "Sarcoidosis",
+        "IgG4-related disease",
+        "Primary Sjogren syndrome",
+        "SLE"
+      ],
+      "ans": 1,
+      "exp": "Comparison: IgG4 has increased salivary enlargement, decreased sicca, good steroid response and relapse risk; Sjogren has decreased enlargement, increased sicca and sicca symptoms not steroid responsive. (Book p451)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U13-1",
+      "ch": 13,
+      "n": 1,
+      "title": "1. IgG4 Biology, Pathology & Core Clinical Profile",
+      "sec": "IgG4 Biology, Pathology & Core Clinical Profile",
+      "guide": "IgG4’s unusual immunobiology is paired with its fibro-inflammatory pathology.\nThe disease spectrum and histological signature precede the demographic profile.\nNegative clues are included to distinguish mimics.",
+      "qs": [
+        "MED-C13-01",
+        "MED-C13-02",
+        "MED-C13-03",
+        "MED-C13-04",
+        "MED-C13-05",
+        "MED-C13-06",
+        "MED-C13-07",
+        "MED-C13-08"
+      ]
+    },
+    {
+      "id": "MED-U13-2",
+      "ch": 13,
+      "n": 2,
+      "title": "2. Organ Manifestations, Diagnosis & Treatment",
+      "sec": "Organ Manifestations, Diagnosis & Treatment",
+      "guide": "Autoimmune pancreatitis is tied to imaging and endocrine/exocrine consequences.\nSalivary, orbital, CNS, renal, biliary, pulmonary and aortic disease follow in sequence.\nRCD criteria and treatment are contrasted directly with Sjogren syndrome.",
+      "qs": [
+        "MED-C13-09",
+        "MED-C13-10",
+        "MED-C13-11",
+        "MED-C13-12",
+        "MED-C13-13",
+        "MED-C13-14",
+        "MED-C13-15",
+        "MED-C13-16",
+        "MED-C13-17",
+        "MED-C13-18",
+        "MED-C13-19",
+        "MED-C13-20",
+        "MED-C13-21",
+        "MED-C13-22",
+        "MED-C13-23"
+      ]
+    }
+  ]
+}

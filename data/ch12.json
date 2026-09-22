@@ -1,0 +1,791 @@
+{
+  "chapter": 12,
+  "title": "Sjogren's Syndrome",
+  "pageRange": "442-448",
+  "questions": [
+    {
+      "id": "MED-C12-01",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 442,
+      "fmt": "recall",
+      "q": "Within the connective-tissue-disorder map, which disorder is marked most common and which is second most common?",
+      "opts": [
+        "Rheumatoid arthritis first; Sjogren syndrome second",
+        "SLE first; Sjogren syndrome second",
+        "Sjogren syndrome first; RA second",
+        "Inflammatory muscle disease first; SLE second"
+      ],
+      "ans": 0,
+      "exp": "The CTD map marks rheumatoid arthritis as most common and Sjogren syndrome as second most common. (Book p442)"
+    },
+    {
+      "id": "MED-C12-02",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 442,
+      "fmt": "recall",
+      "q": "Which demographic profile is given for Sjogren syndrome?",
+      "opts": [
+        "Adolescent male predominance",
+        "Women aged 40–60 years with F:M about 9:1",
+        "Men aged 60–80 years with M:F 9:1",
+        "Equal-sex childhood disease"
+      ],
+      "ans": 1,
+      "exp": "Sjogren syndrome is described as a multisystem autoimmune inflammatory CTD in middle-aged females (40–60) with F:M = 9:1. (Book p442)"
+    },
+    {
+      "id": "MED-C12-03",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 442,
+      "fmt": "recall",
+      "q": "Secondary Sjogren syndrome is most strongly associated with which sequence of CTDs on the page?",
+      "opts": [
+        "Inflammatory muscle disease more than RA",
+        "Sarcoidosis more than RA",
+        "RA more than SLE more than inflammatory muscle disease",
+        "SLE more than RA more than systemic sclerosis"
+      ],
+      "ans": 2,
+      "exp": "Secondary Sjogren has CTD association, ranked RA > SLE > IMD; primary has no such association. (Book p442)"
+    },
+    {
+      "id": "MED-C12-04",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 442,
+      "fmt": "recall",
+      "q": "What proportion split is used for glandular and extraglandular Sjogren pathology?",
+      "opts": [
+        "90% glandular and 10% extraglandular",
+        "10% glandular and 90% extraglandular",
+        "No glandular component",
+        "Approximately 50% each"
+      ],
+      "ans": 3,
+      "exp": "Classification by pathology divides glandular (50%) and extraglandular (50%); extraglandular disease is multisystem and 15% is severe/life-threatening. (Book p442)"
+    },
+    {
+      "id": "MED-C12-05",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 442,
+      "fmt": "recall",
+      "q": "What clinical hallmark is highlighted before the pathology section?",
+      "opts": [
+        "Dry eye and dry mouth",
+        "Photosensitive rash and nephritis",
+        "Proximal muscle weakness",
+        "Inflammatory back pain"
+      ],
+      "ans": 0,
+      "exp": "The clinical hallmark is dry eye and dry mouth; thyroid is noted as the simple endocrine organ involved and Sjogren can be an extrahepatic manifestation of HCV. (Book p442)"
+    },
+    {
+      "id": "MED-C12-06",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 443,
+      "fmt": "recall",
+      "q": "Which is NOT listed among the page's extrahepatic manifestations of hepatitis C virus?",
+      "opts": [
+        "Cryoglobulinaemia",
+        "Uveitis",
+        "Cutaneous lichen planus",
+        "Porphyria cutanea tarda"
+      ],
+      "ans": 1,
+      "exp": "HCV extrahepatic manifestations listed are cutaneous lichen planus, porphyria cutanea tarda, cryoglobulinaemia, Sjogren syndrome and MPGN. (Book p443)"
+    },
+    {
+      "id": "MED-C12-07",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 443,
+      "fmt": "scenario",
+      "q": "A patient develops dry eye, xerostomia, dry skin, dry throat and vaginal dryness after autoimmune lymphocytic exocrinopathy. Which process directly precedes these clinical symptoms in the page’s pathogenesis flow?",
+      "opts": [
+        "Glomerular immune-complex deposition",
+        "Acute complement C1q deficiency",
+        "Activation of ductal epithelium",
+        "Complete destruction of B cells"
+      ],
+      "ans": 2,
+      "exp": "Genetic/environmental factors → autoantibodies → autoimmune lymphocytic exocrinopathy (periductal/perivascular) → ductal epithelial activation → the listed sicca symptoms. (Book p443)"
+    },
+    {
+      "id": "MED-C12-08",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 443,
+      "fmt": "recall",
+      "q": "Which HLA association is stated for Sjogren syndrome?",
+      "opts": [
+        "HLA-B27",
+        "HLA-DR4 only",
+        "HLA-DQ2",
+        "HLA-DR3"
+      ],
+      "ans": 3,
+      "exp": "Genetic factors list HLA-DR3; the note identifies SLE as another disease associated with HLA-DR3. (Book p443)"
+    },
+    {
+      "id": "MED-C12-09",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 443,
+      "fmt": "recall",
+      "q": "Which helper-T-cell direction is drawn in Sjogren inflammation?",
+      "opts": [
+        "Th1 greater than Th2, leading to B-cell involvement",
+        "Th2 greater than Th1 with absent B cells",
+        "Th17 only with no B-cell role",
+        "Treg dominance alone"
+      ],
+      "ans": 0,
+      "exp": "The inflammation line states T cell (Th1 > Th2) > B cell. (Book p443)"
+    },
+    {
+      "id": "MED-C12-10",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 443,
+      "fmt": "scenario",
+      "q": "Painless parotid enlargement in Sjogren is attributed to which cellular finding on the page?",
+      "opts": [
+        "CD8 depletion",
+        "IL-18-positive macrophages",
+        "Eosinophils invading acini",
+        "Neutrophilic abscesses"
+      ],
+      "ans": 1,
+      "exp": "IL-18-positive macrophages are linked to salivary-gland enlargement/painless parotid enlargement. (Book p443)"
+    },
+    {
+      "id": "MED-C12-11",
+      "sec": "Classification, Association & Pathogenesis",
+      "page": 443,
+      "fmt": "management",
+      "q": "A patient with anti-M3 muscarinic antibodies has troublesome dryness. Which pharmacologic class is linked to treatment in the source?",
+      "opts": [
+        "Loop diuretic",
+        "Class Ic antiarrhythmic",
+        "Cholinergic agonist such as cevimeline",
+        "Anti-TNF biologic"
+      ],
+      "ans": 2,
+      "exp": "Antibodies list anti-M3 (muscarinic) → cholinergic agonist cevimeline for treatment, and anti-α-fodrin. (Book p443)"
+    },
+    {
+      "id": "MED-C12-12",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "recall",
+      "q": "Which salivary-gland biopsy is the gold standard in Sjogren syndrome?",
+      "opts": [
+        "Major parotid biopsy",
+        "Lacrimal-gland biopsy",
+        "Thyroid biopsy",
+        "Minor salivary gland biopsy"
+      ],
+      "ans": 3,
+      "exp": "Histopathology states minor salivary gland is gold standard and shows focal lymphocytic sialadenitis with T cells; major gland has benign lymphoepithelial lesions with B cells. (Book p444)"
+    },
+    {
+      "id": "MED-C12-13",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "recall",
+      "q": "Which immunohistochemical marker is shown with B-cell infiltration in the major salivary-gland panel?",
+      "opts": [
+        "CD20",
+        "CD3",
+        "CD4",
+        "CD8"
+      ],
+      "ans": 0,
+      "exp": "The major-gland B-cell infiltration panel is labelled CD20; the T-cell infiltration panel is CD3. (Book p444)"
+    },
+    {
+      "id": "MED-C12-14",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "recall",
+      "q": "Which cellular pattern defines the minor-gland lesion of Sjogren in the source?",
+      "opts": [
+        "Amyloid deposition",
+        "Focal lymphocytic sialadenitis with T cells",
+        "Necrotising granulomas with giant cells",
+        "Eosinophilic vasculitis"
+      ],
+      "ans": 1,
+      "exp": "Minor salivary gland biopsy is gold standard and demonstrates focal lymphocytic sialadenitis with T-cell infiltration. (Book p444)"
+    },
+    {
+      "id": "MED-C12-15",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "scenario",
+      "q": "A patient describes a gritty, sandy eye sensation and glare. Which mechanism is named in the dry-eye section?",
+      "opts": [
+        "Optic neuritis",
+        "Corneal bacterial ulcer by definition",
+        "Aqueous plus lipid (meibomian-gland dysfunction) defect",
+        "Excess aqueous production alone"
+      ],
+      "ans": 2,
+      "exp": "Dry eyes are non-specific and may result from aqueous plus lipid/meibomian-gland dysfunction, producing irritation, gritty/sandy sensation and glare. (Book p444)"
+    },
+    {
+      "id": "MED-C12-16",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "numeric",
+      "q": "What Schirmer-test result is used for dry eye on the page?",
+      "opts": [
+        "Less than 10 mm after 1 minute",
+        "More than 15 mm after 5 minutes",
+        "Exactly 5 mm after 30 seconds",
+        "Less than 5 mm after 5 minutes"
+      ],
+      "ans": 3,
+      "exp": "Dry-eye diagnosis: Schirmer <5 mm after 5 min; tear-film breakup time <10 s; ocular staining may use lissamine green or fluorescein. (Book p444)"
+    },
+    {
+      "id": "MED-C12-17",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "numeric",
+      "q": "Which tear-film breakup time is marked abnormal for dry eye?",
+      "opts": [
+        "Below 10 seconds",
+        "Below 30 seconds",
+        "Above 10 seconds",
+        "Above 60 seconds"
+      ],
+      "ans": 0,
+      "exp": "The source marks tear-film breakup time <10 seconds as dry eye. (Book p444)"
+    },
+    {
+      "id": "MED-C12-18",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "recall",
+      "q": "Which statement correctly contrasts dry mouth with dry eyes in the clinical-features block?",
+      "opts": [
+        "Neither is linked to Sjogren",
+        "Dry mouth is more specific",
+        "Dry eyes are more specific",
+        "Both have identical specificity"
+      ],
+      "ans": 1,
+      "exp": "The source calls dry eyes non-specific and dry mouth more specific. (Book p444)"
+    },
+    {
+      "id": "MED-C12-19",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 444,
+      "fmt": "scenario",
+      "q": "A patient must drink water to swallow, has chewing difficulty and dental caries. Which Sjogren manifestation is most directly illustrated?",
+      "opts": [
+        "Interstitial nephritis",
+        "Raynaud phenomenon",
+        "Xerostomia/dry mouth",
+        "Acute uveitis"
+      ],
+      "ans": 2,
+      "exp": "Dry mouth manifestations: unable to swallow without water, chewing difficulty and dental caries. (Book p444)"
+    },
+    {
+      "id": "MED-C12-20",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "recall",
+      "q": "Which oral feature is listed alongside altered taste in Sjogren dry-mouth manifestations?",
+      "opts": [
+        "Geographic tongue only",
+        "Aphthous ulceration as the hallmark",
+        "Painless oral melanoma",
+        "Oral thrush"
+      ],
+      "ans": 3,
+      "exp": "Continuation lists oral thrush, altered taste, and 25% salivary-gland swelling. (Book p445)"
+    },
+    {
+      "id": "MED-C12-21",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "numeric",
+      "q": "About what proportion of Sjogren patients have salivary-gland swelling according to the page?",
+      "opts": [
+        "25%",
+        "5%",
+        "50%",
+        "90%"
+      ],
+      "ans": 0,
+      "exp": "The source gives 25% salivary-gland swelling, usually bilateral painless symmetric. (Book p445)"
+    },
+    {
+      "id": "MED-C12-22",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "scenario",
+      "q": "A child has recurrent episodes of acute parotitis due to duct blockade. Which source diagnosis context does this support?",
+      "opts": [
+        "Acute rheumatic fever",
+        "Childhood Sjogren syndrome",
+        "IgG4-related pancreatitis",
+        "Adult-onset Still disease"
+      ],
+      "ans": 1,
+      "exp": "Childhood Sjogren is described as recurrent acute parotitis due to duct blockage. (Book p445)"
+    },
+    {
+      "id": "MED-C12-23",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "scenario",
+      "q": "A Sjogren patient develops asymmetric painful nodular parotid swelling with palpable nodes. What complication must be suspected?",
+      "opts": [
+        "Benign early repolarisation",
+        "Acute bacterial sinusitis",
+        "B-cell lymphoma of extranodal marginal-zone type",
+        "Simple sicca progression only"
+      ],
+      "ans": 2,
+      "exp": "Asymmetric painful swelling with palpable nodules signals B-cell lymphoma (extranodal marginal-zone B-cell lymphoma), associated with cryoglobulinaemia and low C3/C4. (Book p445)"
+    },
+    {
+      "id": "MED-C12-24",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "recall",
+      "q": "Which laboratory pattern predicts extraglandular Sjogren on the page?",
+      "opts": [
+        "High complement without autoantibodies",
+        "Isolated anti-centromere antibody",
+        "Raised troponin with normal complements",
+        "Low C3/C4, anti-Ro/La, positive rheumatoid factor and cryoglobulins"
+      ],
+      "ans": 3,
+      "exp": "Predictors listed: low complement (C3/C4), anti-Ro/La (SS-A/SS-B), positive RF and cryoglobulins. (Book p445)"
+    },
+    {
+      "id": "MED-C12-25",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "scenario",
+      "q": "A diagnosed Sjogren patient has high anti-Ro/La titres and early onset/long duration. What prognostic association is stated?",
+      "opts": [
+        "Extraglandular disease, poorer prognosis, B-cell lymphoma risk and salivary enlargement",
+        "No clinical significance",
+        "Only isolated dry eyes",
+        "Protection from lymphoma"
+      ],
+      "ans": 0,
+      "exp": "Positive anti-Ro/La in diagnosed Sjogren indicates extraglandular disease, poorer prognosis, B-cell lymphoma risk and salivary-gland enlargement; ~5% may develop disease after 10–15 years. (Book p445)"
+    },
+    {
+      "id": "MED-C12-26",
+      "sec": "Histology & Glandular Clinical Features",
+      "page": 445,
+      "fmt": "recall",
+      "q": "Jaccoud arthropathy in Sjogren is characterised as:",
+      "opts": [
+        "Septic by definition",
+        "Non-erosive",
+        "Erosive with joint destruction",
+        "Crystal-proven"
+      ],
+      "ans": 1,
+      "exp": "Manifestations include fatigue and arthralgia/arthritis with non-erosive Jaccoud arthropathy. (Book p445)"
+    },
+    {
+      "id": "MED-C12-27",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "scenario",
+      "q": "A Sjogren patient develops dorsal-root-ganglion involvement with truncal ataxia. Which severe-system category is implicated?",
+      "opts": [
+        "Tubulointerstitial nephritis",
+        "Lymphocytic interstitial pneumonitis",
+        "CNS ganglionopathy",
+        "Primary biliary disease"
+      ],
+      "ans": 2,
+      "exp": "Severe manifestations (15%) include CNS ganglionopathy from dorsal-root-ganglion involvement, causing truncal ataxia. (Book p446)"
+    },
+    {
+      "id": "MED-C12-28",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "recall",
+      "q": "What is the most common interstitial lung pattern listed in Sjogren?",
+      "opts": [
+        "Usual interstitial pneumonia",
+        "Organising pneumonia",
+        "Diffuse alveolar haemorrhage",
+        "Non-specific interstitial pneumonia (NSIP)"
+      ],
+      "ans": 3,
+      "exp": "Lung: risk ILD; most common NSIP. Most characteristic is lymphocytic interstitial pneumonia (LIP) with GGO, cysts and nodules. (Book p446)"
+    },
+    {
+      "id": "MED-C12-29",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "scenario",
+      "q": "HRCT in Sjogren shows ground-glass opacity, cysts and nodules. Which lung disorder is described as most characteristic?",
+      "opts": [
+        "Lymphocytic interstitial pneumonia",
+        "NSIP",
+        "Pulmonary oedema",
+        "Sarcoid fibrosis"
+      ],
+      "ans": 0,
+      "exp": "LIP is marked most characteristic and has GGO, cyst and nodules. (Book p446)"
+    },
+    {
+      "id": "MED-C12-30",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "recall",
+      "q": "Which renal manifestation is specifically attributed to tubulointerstitial kidney disease in Sjogren?",
+      "opts": [
+        "Type 1 diabetes",
+        "Distal renal tubular acidosis",
+        "Nephrotic syndrome from amyloid",
+        "Rapidly progressive GN only"
+      ],
+      "ans": 1,
+      "exp": "Renal: tubulointerstitial kidney disease causes distal RTA and has minor CKD risk. (Book p446)"
+    },
+    {
+      "id": "MED-C12-31",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "scenario",
+      "q": "A patient reports Raynaud phenomenon that preceded sicca symptoms. Which additional warning is provided on the page?",
+      "opts": [
+        "It is restricted to the first week of disease",
+        "It requires no assessment",
+        "It may produce critical limb ischaemia",
+        "It proves an absence of vasculitis"
+      ],
+      "ans": 2,
+      "exp": "Raynaud may precede sicca in one-third and may produce critical limb ischaemia. (Book p446)"
+    },
+    {
+      "id": "MED-C12-32",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "recall",
+      "q": "What is the hallmark lesion of the most common vascular complication in Sjogren?",
+      "opts": [
+        "Aortic aneurysm",
+        "Digital clubbing",
+        "Erythema nodosum",
+        "Palpable purpura from small-vessel vasculitis"
+      ],
+      "ans": 3,
+      "exp": "Small-vessel vasculitis is most common and hallmark lesion is palpable purpura. Medium-vessel disease is severe, with ulcers/gangrene, MPGN and neuropathy. (Book p446)"
+    },
+    {
+      "id": "MED-C12-33",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "scenario",
+      "q": "A Sjogren patient develops ulceration, gangrene, MPGN and neuropathy. Which vascular category is indicated?",
+      "opts": [
+        "Severe medium-vessel vasculitis",
+        "Benign small-vessel vasculitis only",
+        "Isolated Raynaud phenomenon",
+        "No vascular involvement"
+      ],
+      "ans": 0,
+      "exp": "The source describes severe medium-vessel vasculitis with ulcer/gangrene and association with MPGN and neuropathy. (Book p446)"
+    },
+    {
+      "id": "MED-C12-34",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 446,
+      "fmt": "recall",
+      "q": "Which combination supports concern for B-cell lymphoma in Sjogren?",
+      "opts": [
+        "Isolated Schirmer positivity",
+        "Persistent asymmetric painful nodular parotid enlargement with lymphadenopathy",
+        "Symmetric painless gland swelling alone",
+        "High saliva flow with normal nodes"
+      ],
+      "ans": 1,
+      "exp": "Lymphadenopathy prompts exclusion of lymphoma; indicators include persistent asymmetric painful nodular parotid enlargement with nodes, cryoglobulinaemia, low C3/C4, high Ro/La, purpura and leukopenia. (Book p446)"
+    },
+    {
+      "id": "MED-C12-35",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "recall",
+      "q": "Which disorders are associated with lymphocytic interstitial pneumonitis according to the note?",
+      "opts": [
+        "IgG4 disease and pancreatitis only",
+        "Sarcoidosis and tuberculosis only",
+        "Sjogren syndrome and HIV",
+        "SLE and rheumatoid arthritis only"
+      ],
+      "ans": 2,
+      "exp": "Lymphocytic interstitial pneumonitis is associated with Sjogren and HIV. (Book p447)"
+    },
+    {
+      "id": "MED-C12-36",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "recall",
+      "q": "Which trio of disorders is listed as causing lung cysts?",
+      "opts": [
+        "NSIP, UIP and ARDS",
+        "Sarcoidosis, asthma and COPD",
+        "TB, pneumonia and bronchiectasis",
+        "LIP, Langerhans-cell histiocytosis and lymphangioleiomyomatosis"
+      ],
+      "ans": 3,
+      "exp": "Cysts in lung: LIP, Langerhans-cell histiocytosis and lymphangioleiomyomatosis. (Book p447)"
+    },
+    {
+      "id": "MED-C12-37",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "recall",
+      "q": "How often is ANA positive in Sjogren according to the investigation section?",
+      "opts": [
+        "About 85%",
+        "About 25%",
+        "About 50%",
+        "Nearly 100%"
+      ],
+      "ans": 0,
+      "exp": "ANA is a CTD screening test and is positive in 85% with Sjogren; if positive, ANA profile can detect anti-Ro/La. (Book p447)"
+    },
+    {
+      "id": "MED-C12-38",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "recall",
+      "q": "Which antibody has no independent diagnostic value in the source despite being positive in roughly one-third?",
+      "opts": [
+        "Anti-centromere",
+        "Anti-La",
+        "Anti-Ro",
+        "Anti-dsDNA"
+      ],
+      "ans": 1,
+      "exp": "Anti-Ro is positive in 50%; anti-La has no independent value despite 33% positivity. (Book p447)"
+    },
+    {
+      "id": "MED-C12-39",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "scenario",
+      "q": "ANA IIF shows fine-speckled pattern with negative metaphase cells. What does the source say this pattern suggests?",
+      "opts": [
+        "Definite systemic sclerosis",
+        "Acute infection",
+        "Anti-Ro/La and Sjogren syndrome",
+        "A result ruling out CTD"
+      ],
+      "ans": 2,
+      "exp": "Fine speckled is most common, metaphase cells negative, and suggests anti-Ro/La/Sjogren. Dense fine speckled has DFS-positive metaphase cells and rules out CTD. (Book p447)"
+    },
+    {
+      "id": "MED-C12-40",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "recall",
+      "q": "Which test is called the investigation of choice/gold standard for Sjogren in this section?",
+      "opts": [
+        "Sialography",
+        "Salivary-gland ultrasound",
+        "Serum ANA",
+        "Minor salivary-gland biopsy"
+      ],
+      "ans": 3,
+      "exp": "Minor salivary gland biopsy is IOC/gold standard and shows focal lymphocytic sialadenitis (T cell). (Book p447)"
+    },
+    {
+      "id": "MED-C12-41",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 447,
+      "fmt": "numeric",
+      "q": "What unstimulated salivary flow is given as abnormal in the (now less-used) sialography note?",
+      "opts": [
+        "Below 1.5 mL per 15 minutes",
+        "Below 5 mL per minute",
+        "Above 1.5 mL per minute",
+        "Below 0.1 mL per minute"
+      ],
+      "ans": 0,
+      "exp": "Sialography note: unstimulated salivary flow rate <1.5 mL/15 min; it is marked ‘not done now.’ Ultrasound shows loss of gland homogeneity. (Book p447)"
+    },
+    {
+      "id": "MED-C12-42",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 448,
+      "fmt": "recall",
+      "q": "In 2016 ACR/EULAR classification, which two findings each carry three points?",
+      "opts": [
+        "ANA positivity and parotid enlargement",
+        "Focal lymphocytic sialadenitis focus score ≥1/mm² and anti-Ro/SS-A positivity",
+        "Schirmer ≤5 mm and low salivary flow",
+        "Ocular staining and Rose Bengal score"
+      ],
+      "ans": 1,
+      "exp": "Score 3: histopathology focus score ≥1/mm² and anti-Ro/SS-A. Score 1: ocular staining/Rose Bengal, Schirmer ≤5 mm/5 min, and salivary flow <0.1 mL/min. (Book p448)"
+    },
+    {
+      "id": "MED-C12-43",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 448,
+      "fmt": "numeric",
+      "q": "What total is required for primary-Sjogren classification after at least one oral/ocular dryness symptom?",
+      "opts": [
+        "At least 6",
+        "Exactly 3",
+        "At least 4",
+        "At least 2"
+      ],
+      "ans": 2,
+      "exp": "Rules: at least one symptom of ocular/oral dryness plus total score ≥4. (Book p448)"
+    },
+    {
+      "id": "MED-C12-44",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 448,
+      "fmt": "oddoneout",
+      "q": "Which condition is NOT in the printed exclusion list for Sjogren classification?",
+      "opts": [
+        "Head/neck radiation treatment",
+        "Active PCR-confirmed hepatitis C",
+        "IgG4-related disease",
+        "Uncomplicated essential hypertension"
+      ],
+      "ans": 3,
+      "exp": "Exclusions include prior head/neck radiation, active HCV, AIDS, sarcoidosis, amyloidosis, GVHD and IgG4-related disease. (Book p448)"
+    },
+    {
+      "id": "MED-C12-45",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 448,
+      "fmt": "scenario",
+      "q": "A pregnant woman with high anti-Ro/La titres is counselled about which fetal risk stated in the note?",
+      "opts": [
+        "Congenital heart block (2–5%)",
+        "Neural-tube defect in 50%",
+        "Congenital cataract only",
+        "Tetralogy of Fallot in all pregnancies"
+      ],
+      "ans": 0,
+      "exp": "High anti-Ro/La in pregnancy increases congenital heart block risk (2–5%). The source contrasts offspring risk for CTD in Sjogren male versus SLE female contexts. (Book p448)"
+    },
+    {
+      "id": "MED-C12-46",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 448,
+      "fmt": "recall",
+      "q": "Which salivary-gland-enlargement differential pairs IgG4-related disease with the correct pathology/association?",
+      "opts": [
+        "Rheumatoid nodules with erosions",
+        "Storiform fibrosis, plasmacytic infiltrate and pancreatitis",
+        "Non-caseating granuloma with uveitis",
+        "Focal lymphocytic sialadenitis with dry eyes"
+      ],
+      "ans": 1,
+      "exp": "Differential: sarcoidosis = ILD + uveitis + hilar adenopathy; IgG4-RD = storiform fibrosis + plasmacytic infiltrate + pancreatitis. (Book p448)"
+    },
+    {
+      "id": "MED-C12-47",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "page": 448,
+      "fmt": "management",
+      "q": "Which treatment is assigned to severe life-threatening extraglandular Sjogren manifestations?",
+      "opts": [
+        "Only artificial tears",
+        "NSAIDs without further therapy",
+        "High-dose steroid plus immunosuppressant such as mycophenolate mofetil",
+        "Saliva substitute alone"
+      ],
+      "ans": 2,
+      "exp": "Treatment: glandular saliva substitute/cevimeline/artificial tears. Fatigue/arthralgia uses low-dose steroid <7.5 mg/day + NSAIDs + HCQ; severe life-threatening disease uses high-dose steroid + immunosuppressant/MMF. (Book p448)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U12-1",
+      "ch": 12,
+      "n": 1,
+      "title": "1. Classification, Association & Pathogenesis",
+      "sec": "Classification, Association & Pathogenesis",
+      "guide": "Sjogren syndrome is placed in the connective-tissue-disorder framework.\nPrimary/secondary and glandular/extraglandular classification are kept separate.\nThe HCV association and lymphocytic exocrinopathy mechanism lead into pathology.",
+      "qs": [
+        "MED-C12-01",
+        "MED-C12-02",
+        "MED-C12-03",
+        "MED-C12-04",
+        "MED-C12-05",
+        "MED-C12-06",
+        "MED-C12-07",
+        "MED-C12-08",
+        "MED-C12-09",
+        "MED-C12-10",
+        "MED-C12-11"
+      ]
+    },
+    {
+      "id": "MED-U12-2",
+      "ch": 12,
+      "n": 2,
+      "title": "2. Histology & Glandular Clinical Features",
+      "sec": "Histology & Glandular Clinical Features",
+      "guide": "Minor-gland pathology is distinguished from major-gland lesions.\nSicca symptoms are converted into diagnostic thresholds and patient presentations.\nParotid warning signs are kept distinct from routine painless enlargement.",
+      "qs": [
+        "MED-C12-12",
+        "MED-C12-13",
+        "MED-C12-14",
+        "MED-C12-15",
+        "MED-C12-16",
+        "MED-C12-17",
+        "MED-C12-18",
+        "MED-C12-19",
+        "MED-C12-20",
+        "MED-C12-21",
+        "MED-C12-22",
+        "MED-C12-23",
+        "MED-C12-24",
+        "MED-C12-25",
+        "MED-C12-26"
+      ]
+    },
+    {
+      "id": "MED-U12-3",
+      "ch": 12,
+      "n": 3,
+      "title": "3. Extraglandular Disease, Investigations & Classification",
+      "sec": "Extraglandular Disease, Investigations & Classification",
+      "guide": "Severe neurological, pulmonary, hepatobiliary, renal and vascular disease follows in printed order.\nTests and ANA patterns are interpreted before formal classification scoring.\nExclusions, pregnancy counselling, and source-directed treatment conclude the chapter.",
+      "qs": [
+        "MED-C12-27",
+        "MED-C12-28",
+        "MED-C12-29",
+        "MED-C12-30",
+        "MED-C12-31",
+        "MED-C12-32",
+        "MED-C12-33",
+        "MED-C12-34",
+        "MED-C12-35",
+        "MED-C12-36",
+        "MED-C12-37",
+        "MED-C12-38",
+        "MED-C12-39",
+        "MED-C12-40",
+        "MED-C12-41",
+        "MED-C12-42",
+        "MED-C12-43",
+        "MED-C12-44",
+        "MED-C12-45",
+        "MED-C12-46",
+        "MED-C12-47"
+      ]
+    }
+  ]
+}

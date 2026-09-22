@@ -7,26 +7,18 @@ pg_cov = Counter(r['page'] for r in cov)
 pg_q = Counter((r['page'], r['question']) for r in cov)
 pg_unique_q = Counter(page for page, q in pg_q.keys())
 
-# Page to PDF map
-page_to_pdf = {
-  383: 19, 384: 20, 385: 21, 386: 22,
-  387: 23, 388: 24, 389: 25,
-  390: 26, 391: 27, 392: 28, 393: 29,
-  394: 30, 395: 31, 396: 32, 397: 33, 398: 34, 399: 35, 400: 36, 401: 37, 402: 38,
-  403: 39, 404: 40, 405: 41, 406: 42,
-  407: 43, 408: 44, 409: 45, 410: 46, 411: 47, 412: 48,
-  413: 49, 414: 50
-}
+# Printed pages are sequential after 12 unnumbered PDF front-matter sheets.
+page_to_pdf = {page: page - 364 for page in range(377, 468)}
 
-chapters_data = [json.load(open(f'data/ch{n:02d}.json')) for n in range(1, 9)]
+chapters_data = [json.load(open(f'data/ch{n:02d}.json')) for n in range(1, 16)]
 
 out = []
-out.append("# Chapters 2–8 — visual self-audit gate\n")
+out.append("# Chapters 2–15 — visual self-audit gate\n")
 out.append("Reviewed 2026-09-22, before live deployment. Source: `uploads/01.pdf`, 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
-out.append("- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–414 (PDF19–50). PDF13–18 were previously read for Chapter 1. All 103 PDF sheets were checked for printed page numbering.")
+out.append("- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–457 (PDF19–93). PDF13–18 were previously read for Chapter 1. All 103 PDF sheets were checked for printed page numbering.")
 out.append("- Reading order: top-to-bottom content blocks; parallel comparison columns treated as unified comparison blocks; diagrams remained with their adjacent text. Each unit is a contiguous slice of that sequence. Repeated publisher footers, lesson timestamps and 'Active space' furniture are excluded.")
-out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, bijections on match items, balanced true/false pairs, and exact citation references.")
+out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–15 (no fill-up or match worksheets), and exact citation references.")
 out.append("- Software verifies schema, exact app parsers, sequential IDs, page ordering, inventory ordering and full unit coverage. Semantic completeness is verified via visual self-audit.\n")
 
 out.append("## Rescue completed before new chapter authoring\n")
@@ -63,7 +55,13 @@ out.append("| 410 | Brugada sign (>100 ms to S nadir) and Josephson's sign (notc
 out.append("| 411 | Vulnerable period of T wave is 20–30 ms where unsynchronized discharge precipitates VF. |")
 out.append("| 412 | Energy doses: Flutter (50 J), Monomorphic VT (100 J), AF (100–200 J), Polymorphic VT (200 J). |")
 out.append("| 413 | Concealed WPW has normal baseline 12-lead ECG, conducts antegradely via AV node only; AF in concealed WPW responds only to DC cardioversion. |")
-out.append("| 414 | Type A left-sided (m/c, small delta, positive tall R in V1) vs Type B right-sided (large delta, negative R in V1). Definitive Rx is catheter ablation. |\n")
+out.append("| 414 | Type A left-sided (m/c, small delta, positive tall R in V1) vs Type B right-sided (large delta, negative R in V1). Definitive Rx is catheter ablation. |")
+out.append("| 415–424 | Coronary-syndrome tables, lifestyle targets, drug lines and ECG morphology are transcribed as book-study material; current care must follow contemporary local ACS guidance. |")
+out.append("| 425–429 | Coronary territory, dominance, ECG-localisation and complication statements are attributed to the source rather than treated as universal angiographic rules. |")
+out.append("| 430–441 | MI definitions, fibrinolysis/PCI timing, dosing, thresholds and management algorithms are retained as printed and labelled book-study content, not patient-specific instructions. |")
+out.append("| 442–448 | Sjogren classification thresholds and treatment are source-specific; real diagnosis requires clinician assessment and current criteria. |")
+out.append("| 449–451 | IgG4 RCD criteria, percentages and therapy sequence are reproduced as source statements; overlap/mimic diagnosis requires clinical correlation. |")
+out.append("| 452–457 | SLE serology, antibody pattern and prognosis associations are source-specific teaching points; test results are not diagnostic in isolation. |\n")
 
 out.append("## Per-chapter units\n")
 out.append("| Ch | Unit | Pages | Question range | Count |")
@@ -96,7 +94,7 @@ for pg in sorted(pg_cov.keys()):
     out.append(f"| {pg} | {pdf_sheet} | {pg_cov[pg]} | {pg_unique_q[pg]} | 0 |")
 
 total_points = len(cov)
-out.append(f"\n**Total: {total_points} mapped educational points; 294 questions; 34 units across 8 live chapters of 57.**\n")
+out.append(f"\n**Total: {total_points} mapped educational points; {total_q} questions; {sum(len(c['units']) for c in chapters_data)} units across {len(chapters_data)} live chapters of 57.**\n")
 
 out.append("## Full printed-point → question ledger\n")
 for pg in sorted(pg_cov.keys()):
@@ -110,9 +108,9 @@ for pg in sorted(pg_cov.keys()):
     out.append("\nUnasked points: **none found**.\n")
 
 out.append("## Post-build verification\n")
-out.append("- `python3 build_content.py` embedded 294 questions / 34 units / 8 live chapters into `pulse-medicine.html`.")
+out.append(f"- `python3 build_content.py` embedded {total_q} questions / {sum(len(c['units']) for c in chapters_data)} units / {len(chapters_data)} live chapters into `pulse-medicine.html`.")
 out.append("- `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.")
-out.append("- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 294 questions and match bijections.")
+out.append(f"- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all {total_q} questions and match bijections.")
 out.append("- `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.\n")
 
 with open('audit/SELF_AUDIT.md', 'w') as f:

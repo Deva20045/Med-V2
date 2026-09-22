@@ -1,0 +1,551 @@
+{
+  "chapter": 15,
+  "title": "SLE - Diagnosis",
+  "pageRange": "455-457",
+  "questions": [
+    {
+      "id": "MED-C15-01",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "numeric",
+      "q": "How long before clinical features can antibodies appear in SLE according to the opening comparison?",
+      "opts": [
+        "About 28 days",
+        "About 3 years",
+        "About 10–15 years",
+        "Only after symptoms begin"
+      ],
+      "ans": 1,
+      "exp": "Antibodies can appear before clinical features: SLE 3 years; Sjogren syndrome 10–15 years. (Book p455)"
+    },
+    {
+      "id": "MED-C15-02",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "When ANA is positive, which technique is identified as useful for assessing pattern?",
+      "opts": [
+        "Western blot only",
+        "Flow cytometry only",
+        "Indirect immunofluorescence on HEp-2 cells",
+        "ELISA alone"
+      ],
+      "ans": 2,
+      "exp": "ANA methodology: ELISA is only for quantitative assessment; IIF/indirect IF on HEp-2 cells, with titre >1:80, is used to look for pattern. (Book p455)"
+    },
+    {
+      "id": "MED-C15-03",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "numeric",
+      "q": "What ANA titre threshold is shown in the positive-ANA flowchart before proceeding to pattern review?",
+      "opts": [
+        "Greater than 1:10",
+        "Greater than 1:640 only",
+        "Any detectable titre",
+        "Greater than 1:80"
+      ],
+      "ans": 3,
+      "exp": "The flowchart shows IIF (HEp-2) and titre >1:80, then look for pattern. (Book p455)"
+    },
+    {
+      "id": "MED-C15-04",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "scenario",
+      "q": "ANA shows dense fine speckling in mitotic-phase cells. What is the disease implication given in the table?",
+      "opts": [
+        "Rules out CTD",
+        "Strongly confirms Sjogren syndrome",
+        "Confirms SLE",
+        "Confirms systemic sclerosis"
+      ],
+      "ans": 0,
+      "exp": "Dense fine speckled pattern in mitotic-phase cells has no probable antibody listed and rules out CTD. (Book p455)"
+    },
+    {
+      "id": "MED-C15-05",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "scenario",
+      "q": "A fine-speckled ANA pattern is accompanied by anti-Ro/La. Which disease association should be selected?",
+      "opts": [
+        "CREST syndrome",
+        "Sjogren syndrome",
+        "SLE",
+        "Mixed connective-tissue disease"
+      ],
+      "ans": 1,
+      "exp": "Fine speckled pattern is linked to anti-Ro/La and Sjogren syndrome. (Book p455)"
+    },
+    {
+      "id": "MED-C15-06",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "A coarse-speckled ANA pattern with anti-Smith antibody is associated with which disease?",
+      "opts": [
+        "Systemic sclerosis",
+        "Polymyositis",
+        "SLE",
+        "Sjogren syndrome"
+      ],
+      "ans": 2,
+      "exp": "Coarse speckled patterns include anti-Smith → SLE, anti-U1 RNP → MCTD, and anti-RNA polymerase 3 → systemic sclerosis. (Book p455)"
+    },
+    {
+      "id": "MED-C15-07",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "Which antibody–disease association is correct for coarse-speckled ANA?",
+      "opts": [
+        "Anti-Ro/La → CREST syndrome",
+        "Anti-Jo-1 → SLE",
+        "Anti-dsDNA → polymyositis",
+        "Anti-U1 RNP → mixed connective-tissue disease"
+      ],
+      "ans": 3,
+      "exp": "The coarse-speckled table maps anti-U1 RNP to MCTD. (Book p455)"
+    },
+    {
+      "id": "MED-C15-08",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "A nucleolar ANA pattern with PM/Scl-70 points to which overlap?",
+      "opts": [
+        "Polymyositis–scleroderma overlap",
+        "SLE–Sjogren overlap",
+        "RA–vasculitis overlap",
+        "Myositis–MG overlap"
+      ],
+      "ans": 0,
+      "exp": "Nucleolar pattern with PM/Scl-70 is linked to polymyositis–scleroderma overlap. (Book p455)"
+    },
+    {
+      "id": "MED-C15-09",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "Which antibody is linked to cytoplasmic ANA pattern and antisynthetase syndrome?",
+      "opts": [
+        "Anti-centromere",
+        "Anti-Jo-1",
+        "Anti-Smith",
+        "Anti-Ro"
+      ],
+      "ans": 1,
+      "exp": "Cytoplasmic pattern with anti-Jo-1 is linked to polymyositis/dermatomyositis (antisynthetase syndrome). (Book p455)"
+    },
+    {
+      "id": "MED-C15-10",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "Which homogeneous ANA pairing is correctly stated?",
+      "opts": [
+        "Anti-Ro → DILE; antihistone → Sjogren",
+        "Anti-Jo-1 → SLE",
+        "Anti-dsDNA → SLE; antihistone → drug-induced SLE",
+        "Anti-centromere → SLE; anti-dsDNA → CREST"
+      ],
+      "ans": 2,
+      "exp": "Homogeneous pattern: anti-dsDNA associates with SLE and antihistone with drug-induced SLE. (Book p455)"
+    },
+    {
+      "id": "MED-C15-11",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "page": 455,
+      "fmt": "recall",
+      "q": "A centromere ANA pattern is associated with which disease?",
+      "opts": [
+        "SLE",
+        "Sjogren syndrome",
+        "Dermatomyositis",
+        "CREST syndrome/systemic sclerosis"
+      ],
+      "ans": 3,
+      "exp": "The final row maps centromere pattern to CREST syndrome (scleroderma). (Book p455)"
+    },
+    {
+      "id": "MED-C15-12",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "recall",
+      "q": "After a positive ANA and IIF pattern, what is the source’s next diagnostic step?",
+      "opts": [
+        "Further evaluation to confirm antibodies with ANA or ENA profile",
+        "Repeat the same ANA daily",
+        "Immediate renal biopsy in every patient",
+        "Ignore the result"
+      ],
+      "ans": 0,
+      "exp": "Clinical suspicion → ANA positive → IIF pattern → further evaluation to confirm antibodies, using ANA profile or ENA profile. (Book p456)"
+    },
+    {
+      "id": "MED-C15-13",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "recall",
+      "q": "Which statement describes the ANA profile on the page?",
+      "opts": [
+        "A six-antibody ENA panel only",
+        "Immunoblot-based, costly multiple-antibody analysis, done once without repeat values",
+        "A cheap bedside test repeated daily",
+        "A culture-based test for infection"
+      ],
+      "ans": 1,
+      "exp": "ANA profile: by immunoblot, costly/multiple antibody analysis, done once (no repeat values). ENA profile tests six antibodies. (Book p456)"
+    },
+    {
+      "id": "MED-C15-14",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "recall",
+      "q": "Which disease is stated to have ANA positivity in 100% of cases in the flowchart?",
+      "opts": [
+        "Sjogren syndrome only",
+        "IgG4-related disease only",
+        "Mixed connective-tissue disease, drug-induced lupus and type 1 autoimmune hepatitis",
+        "SLE alone"
+      ],
+      "ans": 2,
+      "exp": "ANA positivity chart: 100% MCTD, DILE and type 1 autoimmune hepatitis; 85% Sjogren; 50% IgG4-related disease. In SLE it is positive in 97%. (Book p456)"
+    },
+    {
+      "id": "MED-C15-15",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "recall",
+      "q": "What caution is given about ANA in rheumatoid arthritis?",
+      "opts": [
+        "ANA is 100% specific for RA",
+        "ANA excludes RA",
+        "ANA titre directs RA treatment",
+        "ANA is not diagnostic despite RA being the most common multisystem CTD"
+      ],
+      "ans": 3,
+      "exp": "The source says RA is the most common multisystem CTD but ANA is not diagnostic. (Book p456)"
+    },
+    {
+      "id": "MED-C15-16",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "scenario",
+      "q": "A patient has DILE. Which antibody and IIF pattern combination fits the source?",
+      "opts": [
+        "Antihistone antibody with homogeneous IIF pattern",
+        "Anti-Jo-1 with cytoplasmic pattern",
+        "Anti-centromere with nucleolar pattern",
+        "Anti-Ro with fine-speckled pattern"
+      ],
+      "ans": 0,
+      "exp": "DILE features: 100% ANA positive, homogeneous IIF pattern, antihistone antibody positive, and procainamide cause. (Book p456)"
+    },
+    {
+      "id": "MED-C15-17",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "recall",
+      "q": "Which drug is named as a cause of drug-induced lupus erythematosus?",
+      "opts": [
+        "Cevimeline",
+        "Procainamide",
+        "Hydroxychloroquine",
+        "Belimumab"
+      ],
+      "ans": 1,
+      "exp": "The DILE block lists procainamide as a cause. (Book p456)"
+    },
+    {
+      "id": "MED-C15-18",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "page": 456,
+      "fmt": "recall",
+      "q": "What atypical antibody pattern is noted in elderly SLE?",
+      "opts": [
+        "Antihistone positive only",
+        "Anti-centromere positive",
+        "Anti-Ro positive with ANA negative",
+        "Anti-dsDNA positive with low complement always"
+      ],
+      "ans": 2,
+      "exp": "Note: elderly SLE → anti-Ro positive and ANA negative. (Book p456)"
+    },
+    {
+      "id": "MED-C15-19",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Which technique is listed for anti-dsDNA titre measurement?",
+      "opts": [
+        "Direct Coombs test",
+        "Schirmer test",
+        "Sialography",
+        "ELISA"
+      ],
+      "ans": 3,
+      "exp": "Anti-dsDNA: ELISA for titre; Crithidia luciliae (flagella) is a qualitative IIF method marked obsolete. (Book p457)"
+    },
+    {
+      "id": "MED-C15-20",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Which test organism/method is used qualitatively for anti-dsDNA in the source, though marked obsolete?",
+      "opts": [
+        "Crithidia luciliae indirect immunofluorescence",
+        "HEp-2 ELISA",
+        "Western-blot anti-Jo-1",
+        "Minor salivary biopsy"
+      ],
+      "ans": 0,
+      "exp": "Crithidia luciliae (flagella) is specified as qualitative IIF, obsolete. (Book p457)"
+    },
+    {
+      "id": "MED-C15-21",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Which comparison of anti-dsDNA and anti-Smith is correct on the page?",
+      "opts": [
+        "Neither relates to SLE",
+        "Anti-dsDNA sensitivity 75% (preferred); anti-Smith 25% but more specific",
+        "Anti-Smith is 75% sensitive and anti-dsDNA 25% specific",
+        "Both are 100% sensitive"
+      ],
+      "ans": 1,
+      "exp": "Table: anti-dsDNA sensitivity 75% preferred; anti-Smith 25% more specific. (Book p457)"
+    },
+    {
+      "id": "MED-C15-22",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "scenario",
+      "q": "Serial anti-dsDNA titres are rising. Which risks are specifically noted to rise?",
+      "opts": [
+        "Only lymphoma",
+        "Only pancreatitis",
+        "Nephritis and vasculitis",
+        "Only congenital heart block"
+      ],
+      "ans": 2,
+      "exp": "The source states increased anti-dsDNA titres increase nephritis and vasculitis risk; no prognostic effect is listed for anti-Smith. (Book p457)"
+    },
+    {
+      "id": "MED-C15-23",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "What is the source’s general interpretation of anti-Ro/La in an asymptomatic person?",
+      "opts": [
+        "Definite SLE diagnosis",
+        "Definite nephritis",
+        "Mandatory anticoagulation",
+        "No significance"
+      ],
+      "ans": 3,
+      "exp": "Anti-Ro/La is non-specific in CTD and has no significance in asymptomatic patients. (Book p457)"
+    },
+    {
+      "id": "MED-C15-24",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "scenario",
+      "q": "In a patient with SLE, anti-Ro/La positivity indicates which associated condition?",
+      "opts": [
+        "Secondary Sjogren syndrome",
+        "IgG4-related disease",
+        "Type 1 autoimmune pancreatitis",
+        "Rheumatic fever"
+      ],
+      "ans": 0,
+      "exp": "Within SLE, anti-Ro/La indicates secondary Sjogren; it is also linked to pregnancy CHB, SCLE/HLA-DR3/photosensitive lesions, good prognosis and lupus myocarditis. (Book p457)"
+    },
+    {
+      "id": "MED-C15-25",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "numeric",
+      "q": "What congenital-heart-block risk is given for pregnancy with anti-Ro/La positivity?",
+      "opts": [
+        "No risk",
+        "2–5%, increased in a female child",
+        "20–30%, increased in a male child",
+        "50% in all pregnancies"
+      ],
+      "ans": 1,
+      "exp": "In pregnancy, anti-Ro/La is linked to 2–5% congenital heart block, increased in female child. (Book p457)"
+    },
+    {
+      "id": "MED-C15-26",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "scenario",
+      "q": "A patient with SCLE, photosensitive lesions and HLA-DR3 positivity has anti-Ro/La. What is the source’s renal/vascular prognosis association of higher titres?",
+      "opts": [
+        "No prognostic association",
+        "Definite renal failure",
+        "Lower risk of nephritis and vasculitis",
+        "Higher risk of nephritis and vasculitis"
+      ],
+      "ans": 2,
+      "exp": "Anti-Ro/La is associated with SCLE/HLA-DR3/photosensitivity and good prognosis: higher titres → reduced risk of nephritis/vasculitis; it is protective in skin/myocardium and linked to shrinking-lung syndrome. (Book p457)"
+    },
+    {
+      "id": "MED-C15-27",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "About what fraction of SLE patients have antiphospholipid-syndrome antibodies according to the page?",
+      "opts": [
+        "All patients",
+        "One-tenth",
+        "None",
+        "One-third"
+      ],
+      "ans": 3,
+      "exp": "APS antibodies are positive in one-third of SLE patients. (Book p457)"
+    },
+    {
+      "id": "MED-C15-28",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Warm-antibody autoimmune haemolytic anaemia in SLE is associated with which antibody?",
+      "opts": [
+        "Anti-RBC antibody",
+        "Anti-platelet antibody",
+        "Anti-ribosomal P antibody",
+        "Anti-Jo-1 antibody"
+      ],
+      "ans": 0,
+      "exp": "The antibody list identifies anti-RBC antibody in warm-antibody autoimmune haemolytic anaemia. (Book p457)"
+    },
+    {
+      "id": "MED-C15-29",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Anti-platelet antibody is listed in secondary ITP associated with which group?",
+      "opts": [
+        "Sarcoidosis only",
+        "SLE, HIV, hepatitis C, H. pylori and RA",
+        "SLE and diabetes only",
+        "IgG4 disease and pancreatitis only"
+      ],
+      "ans": 1,
+      "exp": "Secondary ITP list: SLE, HIV, hepatitis C, H. pylori and RA, with bleeding/anaemia. (Book p457)"
+    },
+    {
+      "id": "MED-C15-30",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Which antibody is specific for psychosis/depression in CNS lupus on the source page?",
+      "opts": [
+        "Anti-centromere antibody",
+        "Anti-M3 antibody",
+        "Anti-ribosomal P antibody",
+        "Antihistone antibody"
+      ],
+      "ans": 2,
+      "exp": "Anti-ribosomal P is specific for psychosis/depression in CNS lupus; anti-glutamate/anti-neuronal antibody is most common in CNS lupus. (Book p457)"
+    },
+    {
+      "id": "MED-C15-31",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "What is the most common CNS manifestation of lupus according to the note?",
+      "opts": [
+        "Seizure",
+        "Psychosis",
+        "Stroke",
+        "Cognitive decline"
+      ],
+      "ans": 3,
+      "exp": "The note names cognitive decline as the most common CNS manifestation in lupus. (Book p457)"
+    },
+    {
+      "id": "MED-C15-32",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "page": 457,
+      "fmt": "recall",
+      "q": "Which combination is listed as biomarkers of SLE disease activity?",
+      "opts": [
+        "Anti-dsDNA titre, low C3/C4, and raised ESR with low CRP",
+        "Anti-Ro titre, high C3/C4, and high CRP",
+        "Antihistone titre and normal ESR",
+        "CK-MB and BNP"
+      ],
+      "ans": 0,
+      "exp": "Biomarkers: anti-dsDNA titre, ↓C3/↓C4, and ↑ESR with ↓CRP. (Book p457)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U15-1",
+      "ch": 15,
+      "n": 1,
+      "title": "1. ANA Methodology, Titre & Pattern Interpretation",
+      "sec": "ANA Methodology, Titre & Pattern Interpretation",
+      "guide": "Antibody timing and ANA methodology come before the pattern table.\nCell-cycle staining, antigen specificity and CTD association are tested as clinical interpretations.\nThe chapter then moves from positive ANA to a targeted profile.",
+      "qs": [
+        "MED-C15-01",
+        "MED-C15-02",
+        "MED-C15-03",
+        "MED-C15-04",
+        "MED-C15-05",
+        "MED-C15-06",
+        "MED-C15-07",
+        "MED-C15-08",
+        "MED-C15-09",
+        "MED-C15-10",
+        "MED-C15-11"
+      ]
+    },
+    {
+      "id": "MED-U15-2",
+      "ch": 15,
+      "n": 2,
+      "title": "2. ANA Profile, DILE & Clinical Approach",
+      "sec": "ANA Profile, DILE & Clinical Approach",
+      "guide": "IIF-confirmed ANA leads to profile selection and test limitations.\nDisease-specific positivity frequencies are separated from diagnostic specificity.\nDrug-induced lupus retains its pattern, antibody and source-listed culprit.",
+      "qs": [
+        "MED-C15-12",
+        "MED-C15-13",
+        "MED-C15-14",
+        "MED-C15-15",
+        "MED-C15-16",
+        "MED-C15-17",
+        "MED-C15-18"
+      ]
+    },
+    {
+      "id": "MED-U15-3",
+      "ch": 15,
+      "n": 3,
+      "title": "3. SLE Antibodies, Prognosis & Activity",
+      "sec": "SLE Antibodies, Prognosis & Activity",
+      "guide": "Anti-dsDNA and anti-Smith are compared for sensitivity and prognostic value.\nAnti-Ro/La is positioned in pregnancy, cutaneous lupus and systemic associations.\nLess-common antibodies and source activity biomarkers close the diagnostic sequence.",
+      "qs": [
+        "MED-C15-19",
+        "MED-C15-20",
+        "MED-C15-21",
+        "MED-C15-22",
+        "MED-C15-23",
+        "MED-C15-24",
+        "MED-C15-25",
+        "MED-C15-26",
+        "MED-C15-27",
+        "MED-C15-28",
+        "MED-C15-29",
+        "MED-C15-30",
+        "MED-C15-31",
+        "MED-C15-32"
+      ]
+    }
+  ]
+}

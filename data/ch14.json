@@ -1,0 +1,317 @@
+{
+  "chapter": 14,
+  "title": "SLE - Basic Approach",
+  "pageRange": "452-454",
+  "questions": [
+    {
+      "id": "MED-C14-01",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 452,
+      "fmt": "recall",
+      "q": "Which population profile is given for SLE on the opening page?",
+      "opts": [
+        "Equal prevalence in childhood only",
+        "Postmenopausal women only",
+        "Women age 20–40 with F:M about 9:1",
+        "Men age 60–80 with M:F 9:1"
+      ],
+      "ans": 2,
+      "exp": "SLE is described as a disease of women of reproductive age (20–40) with 9:1 female predominance. (Book p452)"
+    },
+    {
+      "id": "MED-C14-02",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 452,
+      "fmt": "numeric",
+      "q": "What concordance is cited for identical twins in SLE?",
+      "opts": [
+        "Less than 5%",
+        "Exactly 10%",
+        "More than 90%",
+        "More than 40%"
+      ],
+      "ans": 3,
+      "exp": "The source lists positive concordance in >40% of identical twins and strong family history. (Book p452)"
+    },
+    {
+      "id": "MED-C14-03",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 452,
+      "fmt": "recall",
+      "q": "What lupus-nephritis frequency contrast is shown?",
+      "opts": [
+        "Adults 50–60%; childhood SLE 100%",
+        "Adults 10%; childhood 20%",
+        "Adults 100%; childhood 50%",
+        "Adults 25%; childhood 25%"
+      ],
+      "ans": 0,
+      "exp": "Lupus nephritis is shown in adults 50–60% and childhood SLE 100%. (Book p452)"
+    },
+    {
+      "id": "MED-C14-04",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 452,
+      "fmt": "scenario",
+      "q": "An elderly person develops new postmenopausal SLE. Which clinical profile is favoured in the source?",
+      "opts": [
+        "Mandatory anti-dsDNA positivity",
+        "Good prognosis with no CNS/renal symptoms and sicca/serositis/musculoskeletal symptoms",
+        "Severe nephritis with low complement in every case",
+        "Male-pattern poor prognosis"
+      ],
+      "ans": 1,
+      "exp": "Postmenopausal SLE has good prognosis, no CNS/renal symptoms, sicca/serositis/musculoskeletal symptoms, anti-Ro positive, anti-dsDNA negative and normal complements. (Book p452)"
+    },
+    {
+      "id": "MED-C14-05",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 452,
+      "fmt": "recall",
+      "q": "Which statement is made about prognosis and active-serology in SLE?",
+      "opts": [
+        "Active SLE has anti-Ro only with normal complement",
+        "Sex has no prognostic significance",
+        "Male SLE has poor prognosis; active SLE has anti-dsDNA positivity and low complement",
+        "Male SLE has better prognosis and high C3"
+      ],
+      "ans": 2,
+      "exp": "The bottom notes state male SLE has poor prognosis; active SLE markers are anti-dsDNA positive and low complements. (Book p452)"
+    },
+    {
+      "id": "MED-C14-06",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 453,
+      "fmt": "recall",
+      "q": "What defective-clearance substrates initiate the printed SLE pathogenesis pathway?",
+      "opts": [
+        "LDL and calcium crystals",
+        "Immune complexes only after nephritis",
+        "Bacterial exotoxin alone",
+        "Apoptotic debris and NETotic debris"
+      ],
+      "ans": 3,
+      "exp": "Genetic/environmental causes lead to defective clearance of apoptotic and NETotic debris, triggering immune dysregulation. (Book p453)"
+    },
+    {
+      "id": "MED-C14-07",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 453,
+      "fmt": "recall",
+      "q": "Which innate receptors are explicitly shown in the SLE pathogenesis diagram?",
+      "opts": [
+        "TLR-7 and TLR-9",
+        "TLR-2 and TLR-4",
+        "NOD2 and RIG-I",
+        "CD28 and CTLA-4"
+      ],
+      "ans": 0,
+      "exp": "TLR-7 and TLR-9 are labelled pattern-recognition receptors; hydroxychloroquine is drawn inhibiting this step. (Book p453)"
+    },
+    {
+      "id": "MED-C14-08",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 453,
+      "fmt": "recall",
+      "q": "What is called the central key pathogenic cytokine in SLE?",
+      "opts": [
+        "IL-17",
+        "Type I interferon (IFN-alpha)",
+        "IL-6",
+        "TGF-beta"
+      ],
+      "ans": 1,
+      "exp": "Activated plasmacytoid dendritic cells produce type I interferon/IFNα, identified as the central key pathogenic cytokine; anifrolumab is shown blocking it. (Book p453)"
+    },
+    {
+      "id": "MED-C14-09",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 453,
+      "fmt": "recall",
+      "q": "Which helper-T-cell balance is drawn in SLE?",
+      "opts": [
+        "Treg greater than all helper cells",
+        "Th1 absent",
+        "Th2 greater than Th17 with Th1 also shown",
+        "Th17 greater than Th2 only"
+      ],
+      "ans": 2,
+      "exp": "The diagram depicts Th1, Th2 > Th17; Th2 cytokines IL-4, IL-5 and IL-13 aid B-cell activation. (Book p453)"
+    },
+    {
+      "id": "MED-C14-10",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 453,
+      "fmt": "recall",
+      "q": "Which ligand/cytokine is marked upregulated in SLE and promotes B-cell stimulation?",
+      "opts": [
+        "Erythropoietin",
+        "Renin",
+        "IL-2 receptor only",
+        "B-lymphocyte stimulator (BLyS)"
+      ],
+      "ans": 3,
+      "exp": "BAFF/B-lymphocyte stimulator (BLyS) is shown upregulated in SLE; belimumab inhibits it. (Book p453)"
+    },
+    {
+      "id": "MED-C14-11",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "page": 453,
+      "fmt": "recall",
+      "q": "Immune-complex deposition in which three sites is depicted as type-III hypersensitivity?",
+      "opts": [
+        "Glomerulus, synovial cavity and vessels",
+        "Myocardium, lung alveoli and spleen",
+        "Skin only",
+        "CNS only"
+      ],
+      "ans": 0,
+      "exp": "B cells form immune complexes/type-III hypersensitivity that deposit in glomerulus (GN), synovial cavity (synovitis) and vessels (vasculitis). (Book p453)"
+    },
+    {
+      "id": "MED-C14-12",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "recall",
+      "q": "Which HLA alleles are listed as genetic factors for SLE?",
+      "opts": [
+        "HLA-DR4 only",
+        "HLA-DR3 and HLA-DR2",
+        "HLA-B27 and HLA-B8",
+        "HLA-DQ2 only"
+      ],
+      "ans": 1,
+      "exp": "HLA factors listed: HLA-DR3 (seen in subacute cutaneous lupus) and HLA-DR2. (Book p454)"
+    },
+    {
+      "id": "MED-C14-13",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "recall",
+      "q": "What is the strongest complement-deficiency risk factor ranking printed for SLE?",
+      "opts": [
+        "C3 deficiency only",
+        "Factor H deficiency only",
+        "C1q deficiency greater than C2 deficiency greater than C4 deficiency",
+        "C4 deficiency greater than C2 greater than C1q"
+      ],
+      "ans": 2,
+      "exp": "Early complement deficiency affects debris clearance; ranking is C1q > C2 > C4 deficiency. (Book p454)"
+    },
+    {
+      "id": "MED-C14-14",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "recall",
+      "q": "Which chromosome/gene association is explicitly given?",
+      "opts": [
+        "Chromosome 21: CFTR gene",
+        "Chromosome 7: HBB gene",
+        "Chromosome X: dystrophin gene",
+        "Chromosome 3: TREX gene"
+      ],
+      "ans": 3,
+      "exp": "Non-HLA factors include increased X-chromosome number → increased risk/IRAK gene, and chromosome 3 → TREX gene. (Book p454)"
+    },
+    {
+      "id": "MED-C14-15",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "recall",
+      "q": "Which environmental exposure is listed as an autoimmune trigger through stimulation of pulmonary alveolar macrophages?",
+      "opts": [
+        "Silicosis",
+        "Vitamin D deficiency",
+        "Smoking",
+        "Oral contraceptive use"
+      ],
+      "ans": 0,
+      "exp": "Environmental factors include OCP, HRT, UV-B, EBV, silicosis (stimulates pulmonary alveolar macrophage → autoimmune trigger), vitamin-D deficiency and smoking. (Book p454)"
+    },
+    {
+      "id": "MED-C14-16",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "oddoneout",
+      "q": "Which factor is labelled as having only minimal association in the source?",
+      "opts": [
+        "Silicosis",
+        "Vitamin D deficiency and smoking",
+        "Ultraviolet-B rays",
+        "Epstein–Barr virus"
+      ],
+      "ans": 1,
+      "exp": "A bracket labels vitamin-D deficiency and smoking as minimal association; the source separately lists OCP, HRT, UV-B, EBV and silicosis. (Book p454)"
+    },
+    {
+      "id": "MED-C14-17",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "recall",
+      "q": "Which hormonal exposures are listed among SLE environmental factors?",
+      "opts": [
+        "Glucocorticoids and hydroxychloroquine",
+        "ACE inhibitors and beta-blockers",
+        "Oral contraceptive pills and hormone replacement therapy",
+        "Insulin and thyroxine"
+      ],
+      "ans": 2,
+      "exp": "OCP and HRT head the environmental-factor list. (Book p454)"
+    },
+    {
+      "id": "MED-C14-18",
+      "sec": "Genetic & Environmental Etiology",
+      "page": 454,
+      "fmt": "recall",
+      "q": "Which drug is shown blocking TLR-7/TLR-9 in the SLE pathogenesis illustration?",
+      "opts": [
+        "Belimumab",
+        "Anifrolumab",
+        "Rituximab",
+        "Hydroxychloroquine"
+      ],
+      "ans": 3,
+      "exp": "HCQ is drawn over TLR-7/TLR-9; belimumab targets BLyS and anifrolumab blocks type-I interferon signalling in the diagram. (Book p454)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U14-1",
+      "ch": 14,
+      "n": 1,
+      "title": "1. SLE Profile & Clinical Phenotypes",
+      "sec": "SLE Profile & Clinical Phenotypes",
+      "guide": "The epidemiologic profile introduces renal burden and age/sex prognostic groups.\nPostmenopausal, male and active-SLE features are distinguished.\nPathogenesis begins with failed debris clearance and type-I interferon.",
+      "qs": [
+        "MED-C14-01",
+        "MED-C14-02",
+        "MED-C14-03",
+        "MED-C14-04",
+        "MED-C14-05",
+        "MED-C14-06",
+        "MED-C14-07",
+        "MED-C14-08",
+        "MED-C14-09",
+        "MED-C14-10",
+        "MED-C14-11"
+      ]
+    },
+    {
+      "id": "MED-U14-2",
+      "ch": 14,
+      "n": 2,
+      "title": "2. Genetic & Environmental Etiology",
+      "sec": "Genetic & Environmental Etiology",
+      "guide": "HLA and non-HLA genetic risks are ordered before environment.\nComplement deficiency is tied to failed debris clearance.\nThe source’s weak/minimal environmental associations are preserved rather than overstated.",
+      "qs": [
+        "MED-C14-12",
+        "MED-C14-13",
+        "MED-C14-14",
+        "MED-C14-15",
+        "MED-C14-16",
+        "MED-C14-17",
+        "MED-C14-18"
+      ]
+    }
+  ]
+}

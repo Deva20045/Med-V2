@@ -2410,5 +2410,1661 @@
     "page": 414,
     "point": "Post-conversion finding in manifest WPW: termination of AVRT or A.fib reveals sinus rhythm + delta wave, followed by electrophysiologist referral",
     "question": "MED-C8-14"
+  },
+  {
+    "chapter": 9,
+    "page": 415,
+    "point": "The ACS flowchart links rupture/erosion with critical fibrin-rich thrombosis to STEMI; incomplete platelet-rich thrombosis leads to NSTEMI.",
+    "question": "MED-C9-01"
+  },
+  {
+    "chapter": 9,
+    "page": 415,
+    "point": "Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side.",
+    "question": "MED-C9-02"
+  },
+  {
+    "chapter": 9,
+    "page": 415,
+    "point": "The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries.",
+    "question": "MED-C9-03"
+  },
+  {
+    "chapter": 9,
+    "page": 415,
+    "point": "Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP.",
+    "question": "MED-C9-04"
+  },
+  {
+    "chapter": 9,
+    "page": 415,
+    "point": "The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death.",
+    "question": "MED-C9-05"
+  },
+  {
+    "chapter": 9,
+    "page": 415,
+    "point": "Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X.",
+    "question": "MED-C9-06"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure.",
+    "question": "MED-C9-07"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia.",
+    "question": "MED-C9-08"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki.",
+    "question": "MED-C9-09"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors.",
+    "question": "MED-C9-10"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased.",
+    "question": "MED-C9-11"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL.",
+    "question": "MED-C9-12"
+  },
+  {
+    "chapter": 9,
+    "page": 416,
+    "point": "Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant.",
+    "question": "MED-C9-13"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction.",
+    "question": "MED-C9-14"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state.",
+    "question": "MED-C9-15"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis.",
+    "question": "MED-C9-16"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’",
+    "question": "MED-C9-17"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4.",
+    "question": "MED-C9-18"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%.",
+    "question": "MED-C9-19"
+  },
+  {
+    "chapter": 9,
+    "page": 418,
+    "point": "In the diagram, >70% plaque with symptoms leads to angiography/stenting; the asymptomatic branch is labelled ACS. A roughly 20–30% plaque may rupture and cause MI.",
+    "question": "MED-C9-20"
+  },
+  {
+    "chapter": 9,
+    "page": 418,
+    "point": "Chronic stable angina is exertional chest tightness/squeezing/burning behind or left of mediastinum, can radiate C8–T4, lasts <20 min, and responds well to SL/oral NTG; >30 min suggests ACS.",
+    "question": "MED-C9-21"
+  },
+  {
+    "chapter": 9,
+    "page": 418,
+    "point": "Treadmill testing is indicated in chronic stable angina and asymptomatic risk-factor patients; rest symptoms, aortic stenosis and HOCM are contraindications.",
+    "question": "MED-C9-22"
+  },
+  {
+    "chapter": 9,
+    "page": 418,
+    "point": "Positive treadmill test: 2 mm horizontal/downsloping ST segment before 6 minutes/before achieving maximum HR, followed by angiography.",
+    "question": "MED-C9-23"
+  },
+  {
+    "chapter": 9,
+    "page": 418,
+    "point": "The presentation block states radiation may involve any dermatome from C8 to T4.",
+    "question": "MED-C9-24"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation.",
+    "question": "MED-C9-25"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction.",
+    "question": "MED-C9-26"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions.",
+    "question": "MED-C9-27"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection.",
+    "question": "MED-C9-28"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line.",
+    "question": "MED-C9-29"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT.",
+    "question": "MED-C9-30"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator.",
+    "question": "MED-C9-31"
+  },
+  {
+    "chapter": 9,
+    "page": 420,
+    "point": "The stenting note lists abciximab, eptifibatide and tirofiban as GP IIb–IIIa inhibitors and favours tacrolimus/paclitaxel drug-eluting over bare-metal stents.",
+    "question": "MED-C9-32"
+  },
+  {
+    "chapter": 9,
+    "page": 420,
+    "point": "Prinzmetal angina is rest angina, lasts 5–15 min, has transient ST elevation and normal angiography; beta-blockers are to be avoided.",
+    "question": "MED-C9-33"
+  },
+  {
+    "chapter": 9,
+    "page": 420,
+    "point": "Kingmaker segment is stated to be the ST segment: end of J point to onset of T wave.",
+    "question": "MED-C9-34"
+  },
+  {
+    "chapter": 9,
+    "page": 420,
+    "point": "Systolic current from subepicardial/transmural injury flows toward injured myocardium and produces ST elevation (MI or pericarditis); subendocardial diastolic current flows away and produces non-localising ST depression.",
+    "question": "MED-C9-35"
+  },
+  {
+    "chapter": 9,
+    "page": 420,
+    "point": "The diagrams contrast non-concave/convex ST elevation in MI with concave/saddle-shaped elevation in pericarditis.",
+    "question": "MED-C9-36"
+  },
+  {
+    "chapter": 9,
+    "page": 421,
+    "point": "Listed alternatives are Prinzmetal angina, hyperkalaemia > hypokalaemia, LBBB, benign early repolarisation and LV aneurysm.",
+    "question": "MED-C9-37"
+  },
+  {
+    "chapter": 9,
+    "page": 421,
+    "point": "Convex and coved morphologies are labelled ACS; horizontal/plateau is ‘ACS unless proven otherwise’; oblique is <30% ACS and concave <15% ACS.",
+    "question": "MED-C9-38"
+  },
+  {
+    "chapter": 9,
+    "page": 421,
+    "point": "Significant V2–V3 elevation is ≥2.5 mm if <40 years, ≥2 mm if >40 years, and ≥1.5 mm in females; reciprocal changes must be present in the source's MI diagnosis note.",
+    "question": "MED-C9-39"
+  },
+  {
+    "chapter": 9,
+    "page": 421,
+    "point": "The sequence progresses from hyperacute T wave to hyperacute T waves with ST elevation, then pathological Q/decreasing R and further ST/T changes over hours to days.",
+    "question": "MED-C9-40"
+  },
+  {
+    "chapter": 9,
+    "page": 421,
+    "point": "The illustrated tracing is captioned ST elevation with reciprocal changes and marks a high lateral MI pattern.",
+    "question": "MED-C9-41"
+  },
+  {
+    "chapter": 9,
+    "page": 422,
+    "point": "Benign early repolarisation has ST elevation and J-point hook effect; PR depression supports pericarditis instead.",
+    "question": "MED-C9-42"
+  },
+  {
+    "chapter": 9,
+    "page": 422,
+    "point": "The pericarditis block gives clinical features/acute illness, global concave upward ST elevation, PR depression and no reciprocal changes.",
+    "question": "MED-C9-43"
+  },
+  {
+    "chapter": 9,
+    "page": 422,
+    "point": "Hypothermia is labelled with an Osborne wave. The page also illustrates post-DC-cardioversion tracing and Takotsubo cardiomyopathy.",
+    "question": "MED-C9-44"
+  },
+  {
+    "chapter": 9,
+    "page": 422,
+    "point": "Takotsubo cardiomyopathy is labelled catecholamine-induced cardiac failure/broken-heart syndrome and most common in middle-aged females.",
+    "question": "MED-C9-45"
+  },
+  {
+    "chapter": 9,
+    "page": 422,
+    "point": "The printed differential says BER has no PR depression; pericarditis has PR depression, global concave elevation and no reciprocal changes.",
+    "question": "MED-C9-46"
+  },
+  {
+    "chapter": 9,
+    "page": 423,
+    "point": "The summary panel lists LVH, LBBB, acute pericarditis, pseudo-infarction pattern (hyperkalaemia), acute anteroseptal MI, acute anterolateral MI and Brugada syndrome.",
+    "question": "MED-C9-47"
+  },
+  {
+    "chapter": 9,
+    "page": 423,
+    "point": "The summary labels horizontal ST depression ‘probable ischemia’; sloping ST is strain-related and scoop-shaped ST is digoxin-related.",
+    "question": "MED-C9-48"
+  },
+  {
+    "chapter": 9,
+    "page": 423,
+    "point": "The ‘scoop’ example is explicitly labelled digoxin related; morphology must be interpreted in clinical context.",
+    "question": "MED-C9-49"
+  },
+  {
+    "chapter": 9,
+    "page": 423,
+    "point": "The final tracing is captioned ‘de Winter T waves: evolves to MI.’",
+    "question": "MED-C9-50"
+  },
+  {
+    "chapter": 9,
+    "page": 424,
+    "point": "The page contrasts normal myocardium, tall/peaked T waves in subendocardial ischaemia, and deep symmetrical inversion in transmural ischaemia.",
+    "question": "MED-C9-51"
+  },
+  {
+    "chapter": 9,
+    "page": 424,
+    "point": "Deep symmetrical T inversion is labelled transmural ischaemia; tall/peaked T waves are subendocardial ischaemia.",
+    "question": "MED-C9-52"
+  },
+  {
+    "chapter": 9,
+    "page": 424,
+    "point": "The lower paired ECGs show hyperacute T waves progressing to STEMI.",
+    "question": "MED-C9-53"
+  },
+  {
+    "chapter": 9,
+    "page": 424,
+    "point": "The note beneath the strip states ‘U waves: Hypokalemia.’",
+    "question": "MED-C9-54"
+  },
+  {
+    "chapter": 9,
+    "page": 424,
+    "point": "The page presents serial ST-depression changes at 60, 90 and 120 minutes before its T-wave panels.",
+    "question": "MED-C9-55"
+  },
+  {
+    "chapter": 10,
+    "page": 425,
+    "point": "Right coronary circulation is linked to IWMI, PWMI and RVMI; left circulation is linked to AWMI, septal MI and LWMI.",
+    "question": "MED-C10-01"
+  },
+  {
+    "chapter": 10,
+    "page": 425,
+    "point": "Surface list: anterior sternocostal = RV; inferior diaphragmatic = RV+LV; posterior = LA.",
+    "question": "MED-C10-02"
+  },
+  {
+    "chapter": 10,
+    "page": 425,
+    "point": "Dominance is based on the artery supplying posterior interventricular sulcus/PDA: RCA gives right dominance (85%); LCx gives left dominance (15%).",
+    "question": "MED-C10-03"
+  },
+  {
+    "chapter": 10,
+    "page": 425,
+    "point": "Inferior leads are II, III, aVF; RV free-wall V3R/V4R/V5R and posterior V7/V8/V9 are not represented on a standard 12-lead ECG; lateral V5/V6 show reciprocal changes.",
+    "question": "MED-C10-04"
+  },
+  {
+    "chapter": 10,
+    "page": 425,
+    "point": "Right free-wall leads are V3R–V5R. The source separately lists V7–V9 for posterior wall assessment.",
+    "question": "MED-C10-05"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "The RCA is shown arising in the right AV sulcus.",
+    "question": "MED-C10-06"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "The SA nodal branch section states proximal RCA occlusion can cause sinus bradycardia; bradycardia can also reflect vagal stimulation or nodal ischaemia.",
+    "question": "MED-C10-07"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "Atrial branches run in the right atrioventricular sulcus; proximal RCA occlusion is linked to atrial arrhythmias.",
+    "question": "MED-C10-08"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "Occlusion relation to acute marginal artery: proximal means RVMI always positive and poorer prognosis; distal means RVMI always negative.",
+    "question": "MED-C10-09"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "The acute marginal artery supplies the RV free wall.",
+    "question": "MED-C10-10"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "The page's RVMI triangle is hypotension, clear lung fields and raised JVP, with management IV fluids.",
+    "question": "MED-C10-11"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "RCA occlusion flowchart: right dominant proximal → RVMI+IWMI±PWMI; right dominant distal → IWMI±PWMI. Left-dominant distal RCA causes no MI.",
+    "question": "MED-C10-12"
+  },
+  {
+    "chapter": 10,
+    "page": 426,
+    "point": "IWMI list includes SA node/AV node/complete heart block, atrial tachycardia, RVMI, and posteromedial papillary muscle rupture causing secondary MR.",
+    "question": "MED-C10-13"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "For RCA: ST↑ in II/III/aVF, reciprocal V1/V5/V6; III > II and ST↓ aVL > aVR. LCx instead has II > III.",
+    "question": "MED-C10-14"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "Proximal RCA: ST depression in V1 discordant to V2/V3 is marked RVMI positive. ‘Wrap around’ indicates RCA supplies all regions.",
+    "question": "MED-C10-15"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "The LCx note lists IWMI+PWMI and ST elevation in II > III; in left dominance, LCx lateral-wall supply may add LWMI.",
+    "question": "MED-C10-16"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "The page identifies papillary muscle rupture → secondary MR in post-IWMI PCI with CCF; it notes LV S3, absent murmur, good EF and normal/near-normal ECG.",
+    "question": "MED-C10-17"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "LCA branches into LCx and LAD; the LAD site is the left anterior interventricular sulcus.",
+    "question": "MED-C10-18"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "LCx/LAD branch map: D1 high lateral wall, S1 septal wall, D2 anterior wall, D3 lateral wall; D=diagonal and S=septal.",
+    "question": "MED-C10-19"
+  },
+  {
+    "chapter": 10,
+    "page": 427,
+    "point": "LAD/LCx lead map: anterior V2–V4, lateral V5–V6, high lateral I/aVL, septal V1>>V2, apical V1.",
+    "question": "MED-C10-20"
+  },
+  {
+    "chapter": 10,
+    "page": 428,
+    "point": "The localisation list proceeds: before D1; between D1 and S1; and below S1 (with branches S1–D2 or D2–D3).",
+    "question": "MED-C10-21"
+  },
+  {
+    "chapter": 10,
+    "page": 428,
+    "point": "For anteroseptal high-lateral MI: V2–V4 elevation indicates LAD, V1 elevation indicates above S1, and I/aVL elevation indicates before D1.",
+    "question": "MED-C10-22"
+  },
+  {
+    "chapter": 10,
+    "page": 428,
+    "point": "The wrap-around section says V2–V4 elevation is above D2; V1 no elevation is below S1; II/V5/V6 elevation identifies wrap-around.",
+    "question": "MED-C10-23"
+  },
+  {
+    "chapter": 10,
+    "page": 428,
+    "point": "The page explicitly labels II, V5 and V6 elevation as wrap-around phenomenon; course enters posterior interventricular sulcus and anastomoses with PDA.",
+    "question": "MED-C10-24"
+  },
+  {
+    "chapter": 10,
+    "page": 428,
+    "point": "The source states anterolateral MI has anatomical S1 before D1 and occlusion between S1 and D1.",
+    "question": "MED-C10-25"
+  },
+  {
+    "chapter": 10,
+    "page": 428,
+    "point": "The anteroseptal section labels V1 ST elevation as above S1 and I/aVL ST depression as between D1 and S1.",
+    "question": "MED-C10-26"
+  },
+  {
+    "chapter": 10,
+    "page": 429,
+    "point": "Proximal LCA occlusion: aVR ST elevation, all other leads ST depression, 100% mortality if untreated; immediate PCI is specified.",
+    "question": "MED-C10-27"
+  },
+  {
+    "chapter": 10,
+    "page": 429,
+    "point": "AWMI LV involvement includes VT, VF and sudden cardiac death; mechanical complications include external cardiac rupture and septal rupture, plus infra-Hisian blocks.",
+    "question": "MED-C10-28"
+  },
+  {
+    "chapter": 10,
+    "page": 429,
+    "point": "The AWMI complication list includes infra-Hisian blocks, in contrast to the nodal problems emphasised in IWMI.",
+    "question": "MED-C10-29"
+  },
+  {
+    "chapter": 11,
+    "page": 430,
+    "point": "The obsolete scheme maps critical fibrin-rich thrombus to STEMI/STE-ACS and incomplete platelet-rich thrombus to NSTE-ACS; normal enzymes mean unstable angina and raised enzymes NSTEMI.",
+    "question": "MED-C11-01"
+  },
+  {
+    "chapter": 11,
+    "page": 430,
+    "point": "The page replaces the older model with myocardial injury ± clinical evidence of myocardial ischaemia.",
+    "question": "MED-C11-02"
+  },
+  {
+    "chapter": 11,
+    "page": 430,
+    "point": "Myocardial injury is cardiac troponin T/I with at least one value above the 99th percentile and an acute rise and fall.",
+    "question": "MED-C11-03"
+  },
+  {
+    "chapter": 11,
+    "page": 430,
+    "point": "Non-cardiac causes listed include sepsis, subarachnoid haemorrhage, CKD, critical illness and pulmonary embolism. Cardiac causes include myocarditis, Takotsubo, defibrillator shocks, tachyarrhythmia and spasm/embolism/dissection.",
+    "question": "MED-C11-04"
+  },
+  {
+    "chapter": 11,
+    "page": 430,
+    "point": "The causes tree lists increased O2 demand from tachyarrhythmia and decreased supply from spasm, embolism or dissection.",
+    "question": "MED-C11-05"
+  },
+  {
+    "chapter": 11,
+    "page": 431,
+    "point": "Clinical evidence listed: symptoms, new ECG changes, pathological Q waves, imaging evidence of new RWMA, and angiographic evidence of coronary thrombus.",
+    "question": "MED-C11-06"
+  },
+  {
+    "chapter": 11,
+    "page": 431,
+    "point": "Type 1 is atherothrombotic occlusion; Type 2 is supply/demand mismatch (ICU patients, severe anaemia); Type 3 sudden cardiac death; Type 4 post-PCI; Type 5 post-CABG.",
+    "question": "MED-C11-07"
+  },
+  {
+    "chapter": 11,
+    "page": 431,
+    "point": "The list gives Type 4 as post-percutaneous coronary intervention and Type 5 as post-coronary artery bypass graft.",
+    "question": "MED-C11-08"
+  },
+  {
+    "chapter": 11,
+    "page": 431,
+    "point": "The graph note says ultrasensitive troponin assays can detect as low as 0.01 ng/mL of enzyme elevation.",
+    "question": "MED-C11-09"
+  },
+  {
+    "chapter": 11,
+    "page": 431,
+    "point": "Rise/fall with acute ischaemia is acute MI; the atherosclerosis/thrombosis arm is Type 1 (plaque rupture/erosion). Without acute ischaemia it is acute injury; stable troponin is chronic injury.",
+    "question": "MED-C11-10"
+  },
+  {
+    "chapter": 11,
+    "page": 431,
+    "point": "The stable-troponin branch is chronic myocardial injury and gives structural heart disease and CKD as examples.",
+    "question": "MED-C11-11"
+  },
+  {
+    "chapter": 11,
+    "page": 432,
+    "point": "The table defines reinfarction within 28 days and recurrence after 28 days.",
+    "question": "MED-C11-12"
+  },
+  {
+    "chapter": 11,
+    "page": 432,
+    "point": "Two troponin values are obtained immediately and 3–6 h later; a >20% increase is specified. The table says no role for CPK-MB.",
+    "question": "MED-C11-13"
+  },
+  {
+    "chapter": 11,
+    "page": 432,
+    "point": "Plaque rupture is 60–70% (most common), associated with men and elevated cholesterol; erosion 30–40% is associated with younger females and smoking.",
+    "question": "MED-C11-14"
+  },
+  {
+    "chapter": 11,
+    "page": 432,
+    "point": "Vulnerable plaque features: thin cap, necrotic lipid core >40%, increased macrophages, reduced smooth-muscle cell content and spotty calcification.",
+    "question": "MED-C11-15"
+  },
+  {
+    "chapter": 11,
+    "page": 432,
+    "point": "Hibernating myocardium is chronic, viable and has reduced function due to low perfusion; MRI should be used for evaluation.",
+    "question": "MED-C11-16"
+  },
+  {
+    "chapter": 11,
+    "page": 432,
+    "point": "Stunned myocardium is acute/post-ischaemic: restoring perfusion for a few hours precedes low function in viable tissue.",
+    "question": "MED-C11-17"
+  },
+  {
+    "chapter": 11,
+    "page": 433,
+    "point": "NSTEMI features listed are rest angina >20 min, new-onset severe/crescendo angina, ST depression/T inversion and elevated troponin.",
+    "question": "MED-C11-18"
+  },
+  {
+    "chapter": 11,
+    "page": 433,
+    "point": "The NSTEMI feature list states TIMI score determines mortality risk.",
+    "question": "MED-C11-19"
+  },
+  {
+    "chapter": 11,
+    "page": 433,
+    "point": "Clinical presentation states age 40–50 in India (50–60 outside), females > males in India (reverse outside), vague symptoms in females and absent classic pain in diabetic patients.",
+    "question": "MED-C11-20"
+  },
+  {
+    "chapter": 11,
+    "page": 433,
+    "point": "The lower ECG caption identifies significant ST depression as NSTEMI; the comparison example is non-significant ST depression.",
+    "question": "MED-C11-21"
+  },
+  {
+    "chapter": 11,
+    "page": 434,
+    "point": "The table gives right arm/shoulder radiation 4.7 (0.9–12.0), both arms 4.1, exertion 2.4, left arm 2.3, diaphoresis 2.0, nausea/vomiting 1.9 and pressure 1.3.",
+    "question": "MED-C11-22"
+  },
+  {
+    "chapter": 11,
+    "page": 434,
+    "point": "ACA note: new chest pain in middle-aged/elderly, night presentation or being forced awake and unable to sleep is ‘cardiac unless proved otherwise.’",
+    "question": "MED-C11-23"
+  },
+  {
+    "chapter": 11,
+    "page": 434,
+    "point": "Angina equivalents listed are dyspnoea, fatigue, diaphoresis and atypical-site pain.",
+    "question": "MED-C11-24"
+  },
+  {
+    "chapter": 11,
+    "page": 434,
+    "point": "Management continuum: pre-CCU morphine/sedation 30% one-month mortality; CCU beta-blocker/defibrillator 15%; reperfusion with thrombolysis/PCI 5%.",
+    "question": "MED-C11-25"
+  },
+  {
+    "chapter": 11,
+    "page": 434,
+    "point": "The source places thrombolysis and percutaneous intervention under reperfusion (since 1975).",
+    "question": "MED-C11-26"
+  },
+  {
+    "chapter": 11,
+    "page": 435,
+    "point": "STEMI salient feature: acute total occlusion due to plaque rupture (most common).",
+    "question": "MED-C11-27"
+  },
+  {
+    "chapter": 11,
+    "page": 435,
+    "point": "The artery list ranks LAD most common, then RCA, then LCx.",
+    "question": "MED-C11-28"
+  },
+  {
+    "chapter": 11,
+    "page": 435,
+    "point": "Golden hours are the first 6 h. After 6 h from pain onset, only one-sixth of myocardium remains viable in the source.",
+    "question": "MED-C11-29"
+  },
+  {
+    "chapter": 11,
+    "page": 435,
+    "point": "Before 6 h myocardium can be salvaged; after 6 h the stated aims are pain reduction and prevention of electrical/mechanical complications.",
+    "question": "MED-C11-30"
+  },
+  {
+    "chapter": 11,
+    "page": 435,
+    "point": "The graph says opening the artery is the primary goal (PCI/lysis) and time to treatment is critical for mortality/salvage.",
+    "question": "MED-C11-31"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "Determinants listed are collaterals, myocardial oxygen demand and ischaemic preconditioning.",
+    "question": "MED-C11-32"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "The source specifically notes reopening the artery is more important than the mode of reperfusion.",
+    "question": "MED-C11-33"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "The flowchart sets first medical contact <10 min and defines it as medical/paramedical staff able to take/interpret ECG and use a defibrillator.",
+    "question": "MED-C11-34"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "If a 24-hour PCI centre is available and diagnosis-to-wire crossing <60 min, wire crossing is to be done within 90 min (+30 min transfer).",
+    "question": "MED-C11-35"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "If timely transfer is not possible, thrombolysis within 10 min with tenecteplase or reteplase is shown, then transfer to a PCI centre.",
+    "question": "MED-C11-36"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "ST resolution >70% is successful and leads to pharmaco-invasive PCI; <70% is unsuccessful and calls for rescue/emergency PCI.",
+    "question": "MED-C11-37"
+  },
+  {
+    "chapter": 11,
+    "page": 436,
+    "point": "Successful lysis is followed by PCI within 2–24 hours to prevent recurrence of thrombus formation.",
+    "question": "MED-C11-38"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Streptokinase is non-specific, 50% potent, antigenic, has lowest ICH risk and is 1.5 million U in 100 mL NS over 1 hour.",
+    "question": "MED-C11-39"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Tenecteplase is specific (max), 75% potent, half-life 10–12 min, dose 0.5 mg/kg, and highest fibrin selectivity.",
+    "question": "MED-C11-40"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Reteplase is specific, 80% potent and dosed 10 U ×2, 30 min apart.",
+    "question": "MED-C11-41"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Alteplase is specific, 75% potent and has a very short 4–8 minute half-life.",
+    "question": "MED-C11-42"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "The source states effect within 1 h of ACS: thrombolysis = PCI, while PCI is otherwise more superior and mandatory after thrombolysis.",
+    "question": "MED-C11-43"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Thrombolysis benefits > risk within 6–12 h, risk > benefit after 12 h; pre-hospital lysis is noted to have a great outcome.",
+    "question": "MED-C11-44"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Loading-dose section gives aspirin 325 mg, non-enteric chewable; statins: atorvastatin 40–80 mg or rosuvastatin 20–40 mg.",
+    "question": "MED-C11-45"
+  },
+  {
+    "chapter": 11,
+    "page": 437,
+    "point": "Note: RVMI has hypotension, clear lung and raised JVP; IWMI has bradycardia due to proximal occlusion and V1–V2 discordance.",
+    "question": "MED-C11-46"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "For thrombolysis: clopidogrel 300 mg adult dose; age >75 receives 75 mg, with blood-cholesterol monitoring at 3–6 months.",
+    "question": "MED-C11-47"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "PCI section: aspirin/statin same dose; ticagrelor 180 mg best, clopidogrel 600 mg, prasugrel 60 mg.",
+    "question": "MED-C11-48"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "PCI aim is restore normal epicardial coronary flow (TIMI 3) and attain normal microvascular flow (MPG 3).",
+    "question": "MED-C11-49"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "Post-lysis hypotension + bradycardia indicates vessels reopening; hypertension + tachycardia suggests noncompliance/allergic reaction.",
+    "question": "MED-C11-50"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "Low BP causes listed: hypovolaemia → assess IVC; RVMI (IWMI) → IV fluids; cardiogenic shock → intra-aortic balloon pump.",
+    "question": "MED-C11-51"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "Prevention of recurrence: post-thrombolysis raw areas exposed → anticoagulants. LMWH: enoxaparin 30 mg bolus plus 1 mg/kg SC BD until revascularisation/8 days; UFH also listed.",
+    "question": "MED-C11-52"
+  },
+  {
+    "chapter": 11,
+    "page": 438,
+    "point": "Young thrombus responds better if lysed within 1–2 h; if primary PCI cannot be performed after STEMI diagnosis, fibrinolytic therapy is recommended within 12 h.",
+    "question": "MED-C11-53"
+  },
+  {
+    "chapter": 11,
+    "page": 439,
+    "point": "GP IIb–IIIa inhibitors are abciximab, tirofiban, eptifibatide; use is downstream bailout in cath lab if no TIMI 3/MPG 3 flow or high thrombus burden.",
+    "question": "MED-C11-54"
+  },
+  {
+    "chapter": 11,
+    "page": 439,
+    "point": "ACE inhibitors/beta-blockers have survival advantage if started within first 24 h, but are avoided with heart-failure signs/low-output state.",
+    "question": "MED-C11-55"
+  },
+  {
+    "chapter": 11,
+    "page": 439,
+    "point": "Available PCI centre branch lists aspirin 325 mg, ticagrelor 180 mg or clopidogrel 600 mg, rosuvastatin 40 mg, then cath lab.",
+    "question": "MED-C11-56"
+  },
+  {
+    "chapter": 11,
+    "page": 439,
+    "point": "No-centre branch: thrombolysis with clopidogrel 300 mg + tenecteplase 0.5 mg/kg, repeat ECG after 60–90 min, then enoxaparin 30 mg IV and pharmaco-invasive/rescue PCI.",
+    "question": "MED-C11-57"
+  },
+  {
+    "chapter": 11,
+    "page": 439,
+    "point": "CCU/discharge box: rosuvastatin 20 mg lifelong, aspirin 75 mg lifelong, clopidogrel 75 mg ×1 year.",
+    "question": "MED-C11-58"
+  },
+  {
+    "chapter": 11,
+    "page": 439,
+    "point": "Contraindications include intracranial haemorrhage/structural mass, recent stroke, bleeding disorder/aortic dissection, recent severe head/facial trauma, intracranial/intraspinal surgery, uncontrolled HTN, and recent streptokinase use.",
+    "question": "MED-C11-59"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "Hemodynamic complication: RVMI hypotension presents with raised JVP and clear lungs; management is IV fluids.",
+    "question": "MED-C11-60"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "Acute LVF is linked to 25% myocardial damage and proximal LAD lesion; cardiogenic shock to 40% damage/proximal LAD.",
+    "question": "MED-C11-61"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "Electrical complications: RCA lesion → atrial arrhythmias; proximal LAD lesion → VT/VF.",
+    "question": "MED-C11-62"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "Septal rupture is described as rare, after 3–5 days, with pain, new LLSB murmur and thrill.",
+    "question": "MED-C11-63"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "Free-wall rupture causes electromechanical dissociation/PEA, no BP/no pulse and tamponade, with poor prognosis.",
+    "question": "MED-C11-64"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "Acute MR: RCA involvement affects posteromedial papillary muscle and presents as acute pulmonary oedema.",
+    "question": "MED-C11-65"
+  },
+  {
+    "chapter": 11,
+    "page": 440,
+    "point": "NSTEMI pathogenesis is plaque rupture in elderly/comorbid people with critical/subtotal occlusion, ST/T changes, platelet-rich thrombus and decreased fibrin, so no thrombolytic role.",
+    "question": "MED-C11-66"
+  },
+  {
+    "chapter": 11,
+    "page": 441,
+    "point": "Clinical presentation on p441 describes increasing nature/duration (>20 min)/frequency and pain not relieved by nitrates/rest.",
+    "question": "MED-C11-67"
+  },
+  {
+    "chapter": 11,
+    "page": 441,
+    "point": "Treatment: O2 if SpO2<90%, aspirin 325 mg chewable non-enteric, rosuvastatin 40 mg, SL nitrate 5 mg repeated three times, morphine, PCI within 24 h (high risk within 2 h).",
+    "question": "MED-C11-68"
+  },
+  {
+    "chapter": 11,
+    "page": 441,
+    "point": "Landmark changes list intervention-based guideline: PCI TOC; angiography within 24 h (high risk 2 h), with P2Y12 inhibitor in cath lab.",
+    "question": "MED-C11-69"
+  },
+  {
+    "chapter": 11,
+    "page": 441,
+    "point": "Peri-interventional anticoagulation: enoxaparin 0.5 mg/kg bolus until cath lab.",
+    "question": "MED-C11-70"
+  },
+  {
+    "chapter": 11,
+    "page": 441,
+    "point": "Cath-lab loading options: prasugrel 60 mg, ticagrelor 180 mg, or clopidogrel 600 mg.",
+    "question": "MED-C11-71"
+  },
+  {
+    "chapter": 11,
+    "page": 441,
+    "point": "After discharge: aspirin 75 mg lifelong, rosuvastatin 20 mg lifelong, and ticagrelor 90 mg BD ×1 y or clopidogrel 75 mg OD ×1 y or prasugrel 10 mg ×1 y (best).",
+    "question": "MED-C11-72"
+  },
+  {
+    "chapter": 12,
+    "page": 442,
+    "point": "The CTD map marks rheumatoid arthritis as most common and Sjogren syndrome as second most common.",
+    "question": "MED-C12-01"
+  },
+  {
+    "chapter": 12,
+    "page": 442,
+    "point": "Sjogren syndrome is described as a multisystem autoimmune inflammatory CTD in middle-aged females (40–60) with F:M = 9:1.",
+    "question": "MED-C12-02"
+  },
+  {
+    "chapter": 12,
+    "page": 442,
+    "point": "Secondary Sjogren has CTD association, ranked RA > SLE > IMD; primary has no such association.",
+    "question": "MED-C12-03"
+  },
+  {
+    "chapter": 12,
+    "page": 442,
+    "point": "Classification by pathology divides glandular (50%) and extraglandular (50%); extraglandular disease is multisystem and 15% is severe/life-threatening.",
+    "question": "MED-C12-04"
+  },
+  {
+    "chapter": 12,
+    "page": 442,
+    "point": "The clinical hallmark is dry eye and dry mouth; thyroid is noted as the simple endocrine organ involved and Sjogren can be an extrahepatic manifestation of HCV.",
+    "question": "MED-C12-05"
+  },
+  {
+    "chapter": 12,
+    "page": 443,
+    "point": "HCV extrahepatic manifestations listed are cutaneous lichen planus, porphyria cutanea tarda, cryoglobulinaemia, Sjogren syndrome and MPGN.",
+    "question": "MED-C12-06"
+  },
+  {
+    "chapter": 12,
+    "page": 443,
+    "point": "Genetic/environmental factors → autoantibodies → autoimmune lymphocytic exocrinopathy (periductal/perivascular) → ductal epithelial activation → the listed sicca symptoms.",
+    "question": "MED-C12-07"
+  },
+  {
+    "chapter": 12,
+    "page": 443,
+    "point": "Genetic factors list HLA-DR3; the note identifies SLE as another disease associated with HLA-DR3.",
+    "question": "MED-C12-08"
+  },
+  {
+    "chapter": 12,
+    "page": 443,
+    "point": "The inflammation line states T cell (Th1 > Th2) > B cell.",
+    "question": "MED-C12-09"
+  },
+  {
+    "chapter": 12,
+    "page": 443,
+    "point": "IL-18-positive macrophages are linked to salivary-gland enlargement/painless parotid enlargement.",
+    "question": "MED-C12-10"
+  },
+  {
+    "chapter": 12,
+    "page": 443,
+    "point": "Antibodies list anti-M3 (muscarinic) → cholinergic agonist cevimeline for treatment, and anti-α-fodrin.",
+    "question": "MED-C12-11"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "Histopathology states minor salivary gland is gold standard and shows focal lymphocytic sialadenitis with T cells; major gland has benign lymphoepithelial lesions with B cells.",
+    "question": "MED-C12-12"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "The major-gland B-cell infiltration panel is labelled CD20; the T-cell infiltration panel is CD3.",
+    "question": "MED-C12-13"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "Minor salivary gland biopsy is gold standard and demonstrates focal lymphocytic sialadenitis with T-cell infiltration.",
+    "question": "MED-C12-14"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "Dry eyes are non-specific and may result from aqueous plus lipid/meibomian-gland dysfunction, producing irritation, gritty/sandy sensation and glare.",
+    "question": "MED-C12-15"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "Dry-eye diagnosis: Schirmer <5 mm after 5 min; tear-film breakup time <10 s; ocular staining may use lissamine green or fluorescein.",
+    "question": "MED-C12-16"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "The source marks tear-film breakup time <10 seconds as dry eye.",
+    "question": "MED-C12-17"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "The source calls dry eyes non-specific and dry mouth more specific.",
+    "question": "MED-C12-18"
+  },
+  {
+    "chapter": 12,
+    "page": 444,
+    "point": "Dry mouth manifestations: unable to swallow without water, chewing difficulty and dental caries.",
+    "question": "MED-C12-19"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "Continuation lists oral thrush, altered taste, and 25% salivary-gland swelling.",
+    "question": "MED-C12-20"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "The source gives 25% salivary-gland swelling, usually bilateral painless symmetric.",
+    "question": "MED-C12-21"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "Childhood Sjogren is described as recurrent acute parotitis due to duct blockage.",
+    "question": "MED-C12-22"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "Asymmetric painful swelling with palpable nodules signals B-cell lymphoma (extranodal marginal-zone B-cell lymphoma), associated with cryoglobulinaemia and low C3/C4.",
+    "question": "MED-C12-23"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "Predictors listed: low complement (C3/C4), anti-Ro/La (SS-A/SS-B), positive RF and cryoglobulins.",
+    "question": "MED-C12-24"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "Positive anti-Ro/La in diagnosed Sjogren indicates extraglandular disease, poorer prognosis, B-cell lymphoma risk and salivary-gland enlargement; ~5% may develop disease after 10–15 years.",
+    "question": "MED-C12-25"
+  },
+  {
+    "chapter": 12,
+    "page": 445,
+    "point": "Manifestations include fatigue and arthralgia/arthritis with non-erosive Jaccoud arthropathy.",
+    "question": "MED-C12-26"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "Severe manifestations (15%) include CNS ganglionopathy from dorsal-root-ganglion involvement, causing truncal ataxia.",
+    "question": "MED-C12-27"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "Lung: risk ILD; most common NSIP. Most characteristic is lymphocytic interstitial pneumonia (LIP) with GGO, cysts and nodules.",
+    "question": "MED-C12-28"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "LIP is marked most characteristic and has GGO, cyst and nodules.",
+    "question": "MED-C12-29"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "Renal: tubulointerstitial kidney disease causes distal RTA and has minor CKD risk.",
+    "question": "MED-C12-30"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "Raynaud may precede sicca in one-third and may produce critical limb ischaemia.",
+    "question": "MED-C12-31"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "Small-vessel vasculitis is most common and hallmark lesion is palpable purpura. Medium-vessel disease is severe, with ulcers/gangrene, MPGN and neuropathy.",
+    "question": "MED-C12-32"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "The source describes severe medium-vessel vasculitis with ulcer/gangrene and association with MPGN and neuropathy.",
+    "question": "MED-C12-33"
+  },
+  {
+    "chapter": 12,
+    "page": 446,
+    "point": "Lymphadenopathy prompts exclusion of lymphoma; indicators include persistent asymmetric painful nodular parotid enlargement with nodes, cryoglobulinaemia, low C3/C4, high Ro/La, purpura and leukopenia.",
+    "question": "MED-C12-34"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "Lymphocytic interstitial pneumonitis is associated with Sjogren and HIV.",
+    "question": "MED-C12-35"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "Cysts in lung: LIP, Langerhans-cell histiocytosis and lymphangioleiomyomatosis.",
+    "question": "MED-C12-36"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "ANA is a CTD screening test and is positive in 85% with Sjogren; if positive, ANA profile can detect anti-Ro/La.",
+    "question": "MED-C12-37"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "Anti-Ro is positive in 50%; anti-La has no independent value despite 33% positivity.",
+    "question": "MED-C12-38"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "Fine speckled is most common, metaphase cells negative, and suggests anti-Ro/La/Sjogren. Dense fine speckled has DFS-positive metaphase cells and rules out CTD.",
+    "question": "MED-C12-39"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "Minor salivary gland biopsy is IOC/gold standard and shows focal lymphocytic sialadenitis (T cell).",
+    "question": "MED-C12-40"
+  },
+  {
+    "chapter": 12,
+    "page": 447,
+    "point": "Sialography note: unstimulated salivary flow rate <1.5 mL/15 min; it is marked ‘not done now.’ Ultrasound shows loss of gland homogeneity.",
+    "question": "MED-C12-41"
+  },
+  {
+    "chapter": 12,
+    "page": 448,
+    "point": "Score 3: histopathology focus score ≥1/mm² and anti-Ro/SS-A. Score 1: ocular staining/Rose Bengal, Schirmer ≤5 mm/5 min, and salivary flow <0.1 mL/min.",
+    "question": "MED-C12-42"
+  },
+  {
+    "chapter": 12,
+    "page": 448,
+    "point": "Rules: at least one symptom of ocular/oral dryness plus total score ≥4.",
+    "question": "MED-C12-43"
+  },
+  {
+    "chapter": 12,
+    "page": 448,
+    "point": "Exclusions include prior head/neck radiation, active HCV, AIDS, sarcoidosis, amyloidosis, GVHD and IgG4-related disease.",
+    "question": "MED-C12-44"
+  },
+  {
+    "chapter": 12,
+    "page": 448,
+    "point": "High anti-Ro/La in pregnancy increases congenital heart block risk (2–5%). The source contrasts offspring risk for CTD in Sjogren male versus SLE female contexts.",
+    "question": "MED-C12-45"
+  },
+  {
+    "chapter": 12,
+    "page": 448,
+    "point": "Differential: sarcoidosis = ILD + uveitis + hilar adenopathy; IgG4-RD = storiform fibrosis + plasmacytic infiltrate + pancreatitis.",
+    "question": "MED-C12-46"
+  },
+  {
+    "chapter": 12,
+    "page": 448,
+    "point": "Treatment: glandular saliva substitute/cevimeline/artificial tears. Fatigue/arthralgia uses low-dose steroid <7.5 mg/day + NSAIDs + HCQ; severe life-threatening disease uses high-dose steroid + immunosuppressant/MMF.",
+    "question": "MED-C12-47"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "The spectrum lists type 1 autoimmune pancreatitis, Mikulicz disease, Riedel thyroiditis, mediastinal fibrosis, primary sclerosing cholangitis and periaortitis; p450 calls type 1 AIP the most common manifestation.",
+    "question": "MED-C13-01"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "IgG4 is listed as least common (<5%).",
+    "question": "MED-C13-02"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "IgG4 is anti-inflammatory, blocks IgG–C1q binding, does not fix complement, and is a bispecific antibody with two antigen-binding sites that binds/sequesters antigen.",
+    "question": "MED-C13-03"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "Histology lists IgG4-predominant lymphoplasmacytic infiltrate, tumour-like lesions, storiform fibrosis, obliterative phlebitis and mild eosinophilia.",
+    "question": "MED-C13-04"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "Antigenic stimuli → IgG4 plasma-lymphocytic infiltrate → myofibroblast activation → TGF-β/PDGF → fibrosis; TGF-β is called most potent fibrogenic cytokine.",
+    "question": "MED-C13-05"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "The page's note pairs obliterative phlebitis with IgG4-related disease and Behcet disease.",
+    "question": "MED-C13-06"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "Clinical features: M>F, age 40–70 years, subacute onset; symptoms weight loss and myalgia.",
+    "question": "MED-C13-07"
+  },
+  {
+    "chapter": 13,
+    "page": 449,
+    "point": "Features against IgG4-RD: fever, arthritis, neutrophil involvement and granuloma. Mild eosinophilia appears among histology/atopy-allergy history.",
+    "question": "MED-C13-08"
+  },
+  {
+    "chapter": 13,
+    "page": 450,
+    "point": "Type 1 autoimmune pancreatitis is most common in IgG4-RD and presents with obstructive jaundice; ERCP is IOC and CT shows sausage pancreas/homogeneous enhancement.",
+    "question": "MED-C13-09"
+  },
+  {
+    "chapter": 13,
+    "page": 450,
+    "point": "AIP is associated with endocrine insufficiency → type 3c DM and exocrine insufficiency → malabsorption.",
+    "question": "MED-C13-10"
+  },
+  {
+    "chapter": 13,
+    "page": 450,
+    "point": "Salivary involvement is bilateral painless submandibular enlargement with minimal sicca symptoms.",
+    "question": "MED-C13-11"
+  },
+  {
+    "chapter": 13,
+    "page": 450,
+    "point": "Orbital/periorbital lesions include orbital inflammatory pseudotumours; lacrimal enlargement/dacryoadenitis is marked most common orbital manifestation.",
+    "question": "MED-C13-12"
+  },
+  {
+    "chapter": 13,
+    "page": 450,
+    "point": "Minor CNS manifestations are lymphocytic hypophysitis (postpartum women with ↑ICT) and pachymeningitis without parenchymal involvement.",
+    "question": "MED-C13-13"
+  },
+  {
+    "chapter": 13,
+    "page": 450,
+    "point": "Tubulointerstitial disease is most common renal manifestation, with minimal CKD risk and no renal tubular acidosis; membranous nephropathy is glomerular involvement.",
+    "question": "MED-C13-14"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "The organ list continues with bile duct: primary sclerosing cholangitis.",
+    "question": "MED-C13-15"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "Lung: non-specific interstitial pneumonia (NSIP) and thickening of bronchovascular bundle.",
+    "question": "MED-C13-16"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "Aorta manifestation is periaortitis, associated with paravertebral mass.",
+    "question": "MED-C13-17"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "The page notes membranonephropathy manifestation of IgG4 disease → low complements.",
+    "question": "MED-C13-18"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "RCD 2020 criteria show pathologic/histologic features + serology + clinical features; serum IgG4 correlates with activity and is elevated in 40% cases.",
+    "question": "MED-C13-19"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "Other findings: IgG4/IgG ratio is a better marker.",
+    "question": "MED-C13-20"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "Mikulicz disease is enlargement of parotid, submandibular and lacrimal gland; history includes chronic sinusitis/nasal obstruction with eosinophilia.",
+    "question": "MED-C13-21"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "Steroids are first line with good response within two weeks but relapse risk; rituximab is the steroid-sparing agent to prevent relapse.",
+    "question": "MED-C13-22"
+  },
+  {
+    "chapter": 13,
+    "page": 451,
+    "point": "Comparison: IgG4 has increased salivary enlargement, decreased sicca, good steroid response and relapse risk; Sjogren has decreased enlargement, increased sicca and sicca symptoms not steroid responsive.",
+    "question": "MED-C13-23"
+  },
+  {
+    "chapter": 14,
+    "page": 452,
+    "point": "SLE is described as a disease of women of reproductive age (20–40) with 9:1 female predominance.",
+    "question": "MED-C14-01"
+  },
+  {
+    "chapter": 14,
+    "page": 452,
+    "point": "The source lists positive concordance in >40% of identical twins and strong family history.",
+    "question": "MED-C14-02"
+  },
+  {
+    "chapter": 14,
+    "page": 452,
+    "point": "Lupus nephritis is shown in adults 50–60% and childhood SLE 100%.",
+    "question": "MED-C14-03"
+  },
+  {
+    "chapter": 14,
+    "page": 452,
+    "point": "Postmenopausal SLE has good prognosis, no CNS/renal symptoms, sicca/serositis/musculoskeletal symptoms, anti-Ro positive, anti-dsDNA negative and normal complements.",
+    "question": "MED-C14-04"
+  },
+  {
+    "chapter": 14,
+    "page": 452,
+    "point": "The bottom notes state male SLE has poor prognosis; active SLE markers are anti-dsDNA positive and low complements.",
+    "question": "MED-C14-05"
+  },
+  {
+    "chapter": 14,
+    "page": 453,
+    "point": "Genetic/environmental causes lead to defective clearance of apoptotic and NETotic debris, triggering immune dysregulation.",
+    "question": "MED-C14-06"
+  },
+  {
+    "chapter": 14,
+    "page": 453,
+    "point": "TLR-7 and TLR-9 are labelled pattern-recognition receptors; hydroxychloroquine is drawn inhibiting this step.",
+    "question": "MED-C14-07"
+  },
+  {
+    "chapter": 14,
+    "page": 453,
+    "point": "Activated plasmacytoid dendritic cells produce type I interferon/IFNα, identified as the central key pathogenic cytokine; anifrolumab is shown blocking it.",
+    "question": "MED-C14-08"
+  },
+  {
+    "chapter": 14,
+    "page": 453,
+    "point": "The diagram depicts Th1, Th2 > Th17; Th2 cytokines IL-4, IL-5 and IL-13 aid B-cell activation.",
+    "question": "MED-C14-09"
+  },
+  {
+    "chapter": 14,
+    "page": 453,
+    "point": "BAFF/B-lymphocyte stimulator (BLyS) is shown upregulated in SLE; belimumab inhibits it.",
+    "question": "MED-C14-10"
+  },
+  {
+    "chapter": 14,
+    "page": 453,
+    "point": "B cells form immune complexes/type-III hypersensitivity that deposit in glomerulus (GN), synovial cavity (synovitis) and vessels (vasculitis).",
+    "question": "MED-C14-11"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "HLA factors listed: HLA-DR3 (seen in subacute cutaneous lupus) and HLA-DR2.",
+    "question": "MED-C14-12"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "Early complement deficiency affects debris clearance; ranking is C1q > C2 > C4 deficiency.",
+    "question": "MED-C14-13"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "Non-HLA factors include increased X-chromosome number → increased risk/IRAK gene, and chromosome 3 → TREX gene.",
+    "question": "MED-C14-14"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "Environmental factors include OCP, HRT, UV-B, EBV, silicosis (stimulates pulmonary alveolar macrophage → autoimmune trigger), vitamin-D deficiency and smoking.",
+    "question": "MED-C14-15"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "A bracket labels vitamin-D deficiency and smoking as minimal association; the source separately lists OCP, HRT, UV-B, EBV and silicosis.",
+    "question": "MED-C14-16"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "OCP and HRT head the environmental-factor list.",
+    "question": "MED-C14-17"
+  },
+  {
+    "chapter": 14,
+    "page": 454,
+    "point": "HCQ is drawn over TLR-7/TLR-9; belimumab targets BLyS and anifrolumab blocks type-I interferon signalling in the diagram.",
+    "question": "MED-C14-18"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Antibodies can appear before clinical features: SLE 3 years; Sjogren syndrome 10–15 years.",
+    "question": "MED-C15-01"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "ANA methodology: ELISA is only for quantitative assessment; IIF/indirect IF on HEp-2 cells, with titre >1:80, is used to look for pattern.",
+    "question": "MED-C15-02"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "The flowchart shows IIF (HEp-2) and titre >1:80, then look for pattern.",
+    "question": "MED-C15-03"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Dense fine speckled pattern in mitotic-phase cells has no probable antibody listed and rules out CTD.",
+    "question": "MED-C15-04"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Fine speckled pattern is linked to anti-Ro/La and Sjogren syndrome.",
+    "question": "MED-C15-05"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Coarse speckled patterns include anti-Smith → SLE, anti-U1 RNP → MCTD, and anti-RNA polymerase 3 → systemic sclerosis.",
+    "question": "MED-C15-06"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "The coarse-speckled table maps anti-U1 RNP to MCTD.",
+    "question": "MED-C15-07"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Nucleolar pattern with PM/Scl-70 is linked to polymyositis–scleroderma overlap.",
+    "question": "MED-C15-08"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Cytoplasmic pattern with anti-Jo-1 is linked to polymyositis/dermatomyositis (antisynthetase syndrome).",
+    "question": "MED-C15-09"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "Homogeneous pattern: anti-dsDNA associates with SLE and antihistone with drug-induced SLE.",
+    "question": "MED-C15-10"
+  },
+  {
+    "chapter": 15,
+    "page": 455,
+    "point": "The final row maps centromere pattern to CREST syndrome (scleroderma).",
+    "question": "MED-C15-11"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "Clinical suspicion → ANA positive → IIF pattern → further evaluation to confirm antibodies, using ANA profile or ENA profile.",
+    "question": "MED-C15-12"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "ANA profile: by immunoblot, costly/multiple antibody analysis, done once (no repeat values). ENA profile tests six antibodies.",
+    "question": "MED-C15-13"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "ANA positivity chart: 100% MCTD, DILE and type 1 autoimmune hepatitis; 85% Sjogren; 50% IgG4-related disease. In SLE it is positive in 97%.",
+    "question": "MED-C15-14"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "The source says RA is the most common multisystem CTD but ANA is not diagnostic.",
+    "question": "MED-C15-15"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "DILE features: 100% ANA positive, homogeneous IIF pattern, antihistone antibody positive, and procainamide cause.",
+    "question": "MED-C15-16"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "The DILE block lists procainamide as a cause.",
+    "question": "MED-C15-17"
+  },
+  {
+    "chapter": 15,
+    "page": 456,
+    "point": "Note: elderly SLE → anti-Ro positive and ANA negative.",
+    "question": "MED-C15-18"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Anti-dsDNA: ELISA for titre; Crithidia luciliae (flagella) is a qualitative IIF method marked obsolete.",
+    "question": "MED-C15-19"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Crithidia luciliae (flagella) is specified as qualitative IIF, obsolete.",
+    "question": "MED-C15-20"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Table: anti-dsDNA sensitivity 75% preferred; anti-Smith 25% more specific.",
+    "question": "MED-C15-21"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "The source states increased anti-dsDNA titres increase nephritis and vasculitis risk; no prognostic effect is listed for anti-Smith.",
+    "question": "MED-C15-22"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Anti-Ro/La is non-specific in CTD and has no significance in asymptomatic patients.",
+    "question": "MED-C15-23"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Within SLE, anti-Ro/La indicates secondary Sjogren; it is also linked to pregnancy CHB, SCLE/HLA-DR3/photosensitive lesions, good prognosis and lupus myocarditis.",
+    "question": "MED-C15-24"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "In pregnancy, anti-Ro/La is linked to 2–5% congenital heart block, increased in female child.",
+    "question": "MED-C15-25"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Anti-Ro/La is associated with SCLE/HLA-DR3/photosensitivity and good prognosis: higher titres → reduced risk of nephritis/vasculitis; it is protective in skin/myocardium and linked to shrinking-lung syndrome.",
+    "question": "MED-C15-26"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "APS antibodies are positive in one-third of SLE patients.",
+    "question": "MED-C15-27"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "The antibody list identifies anti-RBC antibody in warm-antibody autoimmune haemolytic anaemia.",
+    "question": "MED-C15-28"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Secondary ITP list: SLE, HIV, hepatitis C, H. pylori and RA, with bleeding/anaemia.",
+    "question": "MED-C15-29"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Anti-ribosomal P is specific for psychosis/depression in CNS lupus; anti-glutamate/anti-neuronal antibody is most common in CNS lupus.",
+    "question": "MED-C15-30"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "The note names cognitive decline as the most common CNS manifestation in lupus.",
+    "question": "MED-C15-31"
+  },
+  {
+    "chapter": 15,
+    "page": 457,
+    "point": "Biomarkers: anti-dsDNA titre, ↓C3/↓C4, and ↑ESR with ↓CRP.",
+    "question": "MED-C15-32"
   }
 ]

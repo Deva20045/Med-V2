@@ -1,0 +1,503 @@
+{
+  "chapter": 10,
+  "title": "ACS - Coronary Circulation",
+  "pageRange": "425-429",
+  "questions": [
+    {
+      "id": "MED-C10-01",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 425,
+      "fmt": "recall",
+      "q": "Which infarct territories are assigned to right coronary circulation on the source overview?",
+      "opts": [
+        "Apical, high-lateral and anterior MI only",
+        "Left-atrial and pulmonary infarction",
+        "Inferior, posterior and right-ventricular MI",
+        "Anterior, septal and lateral MI"
+      ],
+      "ans": 2,
+      "exp": "Right coronary circulation is linked to IWMI, PWMI and RVMI; left circulation is linked to AWMI, septal MI and LWMI. (Book p425)"
+    },
+    {
+      "id": "MED-C10-02",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 425,
+      "fmt": "recall",
+      "q": "Which chamber forms the anterior sternocostal surface of the heart in the source anatomy list?",
+      "opts": [
+        "Left ventricle",
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle"
+      ],
+      "ans": 3,
+      "exp": "Surface list: anterior sternocostal = RV; inferior diaphragmatic = RV+LV; posterior = LA. (Book p425)"
+    },
+    {
+      "id": "MED-C10-03",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 425,
+      "fmt": "scenario",
+      "q": "A patient has a posterior descending artery arising from the RCA. Which dominance pattern and approximate frequency does the page give?",
+      "opts": [
+        "Right dominance in about 85%",
+        "Left dominance in about 85%",
+        "Codominance in about 50%",
+        "Left dominance in about 15%"
+      ],
+      "ans": 0,
+      "exp": "Dominance is based on the artery supplying posterior interventricular sulcus/PDA: RCA gives right dominance (85%); LCx gives left dominance (15%). (Book p425)"
+    },
+    {
+      "id": "MED-C10-04",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 425,
+      "fmt": "recall",
+      "q": "Which leads are listed for inferior-wall involvement in right coronary circulation?",
+      "opts": [
+        "V7–V9 only",
+        "II, III and aVF",
+        "I, aVL and V5–V6",
+        "V1–V4"
+      ],
+      "ans": 1,
+      "exp": "Inferior leads are II, III, aVF; RV free-wall V3R/V4R/V5R and posterior V7/V8/V9 are not represented on a standard 12-lead ECG; lateral V5/V6 show reciprocal changes. (Book p425)"
+    },
+    {
+      "id": "MED-C10-05",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 425,
+      "fmt": "recall",
+      "q": "Which named lead group assesses right-ventricular free wall in this chapter?",
+      "opts": [
+        "V7, V8 and V9",
+        "I, II and III",
+        "V3R, V4R and V5R",
+        "V1, V2 and V3"
+      ],
+      "ans": 2,
+      "exp": "Right free-wall leads are V3R–V5R. The source separately lists V7–V9 for posterior wall assessment. (Book p425)"
+    },
+    {
+      "id": "MED-C10-06",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "recall",
+      "q": "What is the stated origin of the right coronary artery?",
+      "opts": [
+        "Left anterior interventricular sulcus",
+        "Posterior interventricular sulcus",
+        "Coronary sinus",
+        "Right atrioventricular sulcus"
+      ],
+      "ans": 3,
+      "exp": "The RCA is shown arising in the right AV sulcus. (Book p426)"
+    },
+    {
+      "id": "MED-C10-07",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "scenario",
+      "q": "An inferior MI is accompanied by sinus bradycardia after proximal RCA occlusion. Which RCA branch mechanism is most directly implicated?",
+      "opts": [
+        "SA nodal branch ischaemia",
+        "Acute marginal-artery obstruction",
+        "Diagonal branch occlusion",
+        "Left circumflex dominance"
+      ],
+      "ans": 0,
+      "exp": "The SA nodal branch section states proximal RCA occlusion can cause sinus bradycardia; bradycardia can also reflect vagal stimulation or nodal ischaemia. (Book p426)"
+    },
+    {
+      "id": "MED-C10-08",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "recall",
+      "q": "Atrial arrhythmias after proximal RCA occlusion are linked to compromise of which branch group?",
+      "opts": [
+        "PDA alone",
+        "Atrial branches in the right AV sulcus",
+        "Acute marginal artery",
+        "Posterobasal branch"
+      ],
+      "ans": 1,
+      "exp": "Atrial branches run in the right atrioventricular sulcus; proximal RCA occlusion is linked to atrial arrhythmias. (Book p426)"
+    },
+    {
+      "id": "MED-C10-09",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "scenario",
+      "q": "An RCA occlusion proximal to the acute marginal artery is most likely to have which implication?",
+      "opts": [
+        "Only isolated posterior MI occurs",
+        "No effect on prognosis",
+        "RVMI is present and prognosis is poorer",
+        "RVMI is absent by definition"
+      ],
+      "ans": 2,
+      "exp": "Occlusion relation to acute marginal artery: proximal means RVMI always positive and poorer prognosis; distal means RVMI always negative. (Book p426)"
+    },
+    {
+      "id": "MED-C10-10",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "recall",
+      "q": "Which structure does the acute marginal artery supply?",
+      "opts": [
+        "Interventricular septum",
+        "Left-ventricular apex",
+        "Left atrial appendage",
+        "Right-ventricular free wall"
+      ],
+      "ans": 3,
+      "exp": "The acute marginal artery supplies the RV free wall. (Book p426)"
+    },
+    {
+      "id": "MED-C10-11",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "scenario",
+      "q": "An IWMI patient is hypotensive, has clear lung fields and elevated JVP. What is the source's immediate management direction?",
+      "opts": [
+        "Give intravenous fluids for RVMI",
+        "Start high-dose diuresis",
+        "Treat as isolated LV failure",
+        "Use nitrates to reduce preload"
+      ],
+      "ans": 0,
+      "exp": "The page's RVMI triangle is hypotension, clear lung fields and raised JVP, with management IV fluids. (Book p426)"
+    },
+    {
+      "id": "MED-C10-12",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "recall",
+      "q": "In a right-dominant circulation, distal RCA occlusion produces which infarct pattern?",
+      "opts": [
+        "AWMI only",
+        "IWMI with or without PWMI",
+        "RVMI with IWMI and PWMI",
+        "No MI"
+      ],
+      "ans": 1,
+      "exp": "RCA occlusion flowchart: right dominant proximal → RVMI+IWMI±PWMI; right dominant distal → IWMI±PWMI. Left-dominant distal RCA causes no MI. (Book p426)"
+    },
+    {
+      "id": "MED-C10-13",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "page": 426,
+      "fmt": "recall",
+      "q": "Which complication group is listed under IWMI?",
+      "opts": [
+        "Aortic dissection and tamponade",
+        "LBBB with high-grade infra-His block only",
+        "SA/AV nodal dysfunction, complete heart block, atrial tachycardia, RVMI and posteromedial papillary-muscle rupture",
+        "VT/VF, external rupture and septal rupture only"
+      ],
+      "ans": 2,
+      "exp": "IWMI list includes SA node/AV node/complete heart block, atrial tachycardia, RVMI, and posteromedial papillary muscle rupture causing secondary MR. (Book p426)"
+    },
+    {
+      "id": "MED-C10-14",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "scenario",
+      "q": "Inferior ST elevation is greater in lead III than lead II, with ST depression in aVL greater than aVR. Which culprit artery does the source favour?",
+      "opts": [
+        "Left circumflex artery",
+        "Proximal LAD",
+        "Left main artery",
+        "Right coronary artery"
+      ],
+      "ans": 3,
+      "exp": "For RCA: ST↑ in II/III/aVF, reciprocal V1/V5/V6; III > II and ST↓ aVL > aVR. LCx instead has II > III. (Book p427)"
+    },
+    {
+      "id": "MED-C10-15",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "scenario",
+      "q": "An IWMI ECG has ST depression in V1 discordant to V2–V3. What associated extension does the page indicate?",
+      "opts": [
+        "RVMI with proximal RCA involvement",
+        "Pure lateral MI from LCx",
+        "Isolated septal MI",
+        "Benign early repolarisation"
+      ],
+      "ans": 0,
+      "exp": "Proximal RCA: ST depression in V1 discordant to V2/V3 is marked RVMI positive. ‘Wrap around’ indicates RCA supplies all regions. (Book p427)"
+    },
+    {
+      "id": "MED-C10-16",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "recall",
+      "q": "Which lead relationship favours LCx occlusion in an inferior/posterior MI pattern?",
+      "opts": [
+        "ST elevation restricted to V1",
+        "ST elevation in II greater than III",
+        "ST elevation in III greater than II",
+        "ST depression in aVL greater than aVR"
+      ],
+      "ans": 1,
+      "exp": "The LCx note lists IWMI+PWMI and ST elevation in II > III; in left dominance, LCx lateral-wall supply may add LWMI. (Book p427)"
+    },
+    {
+      "id": "MED-C10-17",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "scenario",
+      "q": "After an inferior MI and PCI, a patient has pulmonary congestion, an LV S3, no murmur, good EF, and a normal/near-normal ECG. Which mechanical diagnosis should still be suspected?",
+      "opts": [
+        "Ventricular septal rupture",
+        "Acute aortic regurgitation",
+        "Papillary-muscle rupture causing secondary MR",
+        "Free-wall rupture with tamponade"
+      ],
+      "ans": 2,
+      "exp": "The page identifies papillary muscle rupture → secondary MR in post-IWMI PCI with CCF; it notes LV S3, absent murmur, good EF and normal/near-normal ECG. (Book p427)"
+    },
+    {
+      "id": "MED-C10-18",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "recall",
+      "q": "Where does the LAD run according to the left-coronary-circulation diagram?",
+      "opts": [
+        "Right AV sulcus",
+        "Posterior AV groove",
+        "Coronary sinus",
+        "Left anterior interventricular sulcus"
+      ],
+      "ans": 3,
+      "exp": "LCA branches into LCx and LAD; the LAD site is the left anterior interventricular sulcus. (Book p427)"
+    },
+    {
+      "id": "MED-C10-19",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "recall",
+      "q": "Which branch–territory association is correctly stated?",
+      "opts": [
+        "D1 supplies high lateral wall and septal branches supply septal wall",
+        "D1 supplies posterior wall and S1 supplies lateral wall",
+        "D2 supplies only right ventricle",
+        "S1 supplies left atrium"
+      ],
+      "ans": 0,
+      "exp": "LCx/LAD branch map: D1 high lateral wall, S1 septal wall, D2 anterior wall, D3 lateral wall; D=diagonal and S=septal. (Book p427)"
+    },
+    {
+      "id": "MED-C10-20",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "page": 427,
+      "fmt": "recall",
+      "q": "Which lead grouping is designated as high lateral MI territory?",
+      "opts": [
+        "V7–V9",
+        "I and aVL",
+        "II, III and aVF",
+        "V1 and V2"
+      ],
+      "ans": 1,
+      "exp": "LAD/LCx lead map: anterior V2–V4, lateral V5–V6, high lateral I/aVL, septal V1>>V2, apical V1. (Book p427)"
+    },
+    {
+      "id": "MED-C10-21",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 428,
+      "fmt": "recall",
+      "q": "Which LAD-occlusion location is listed before the first diagonal (D1) branch?",
+      "opts": [
+        "Below S1 only",
+        "Between D2 and D3 only",
+        "Before D1",
+        "Between D1 and S1"
+      ],
+      "ans": 2,
+      "exp": "The localisation list proceeds: before D1; between D1 and S1; and below S1 (with branches S1–D2 or D2–D3). (Book p428)"
+    },
+    {
+      "id": "MED-C10-22",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 428,
+      "fmt": "scenario",
+      "q": "An anteroseptal high-lateral MI has ST elevation in V2–V4, V1, and I/aVL. Which localisation bundle does the page assign?",
+      "opts": [
+        "LAD below S1 only",
+        "Isolated LCx occlusion",
+        "Distal RCA occlusion",
+        "LAD above S1 and before D1"
+      ],
+      "ans": 3,
+      "exp": "For anteroseptal high-lateral MI: V2–V4 elevation indicates LAD, V1 elevation indicates above S1, and I/aVL elevation indicates before D1. (Book p428)"
+    },
+    {
+      "id": "MED-C10-23",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 428,
+      "fmt": "scenario",
+      "q": "ST elevation in V2–V4 is present but V1 lacks elevation. What LAD localisation does this support?",
+      "opts": [
+        "Below S1",
+        "Above S1",
+        "Before D1",
+        "Wrap-around LAD only"
+      ],
+      "ans": 0,
+      "exp": "The wrap-around section says V2–V4 elevation is above D2; V1 no elevation is below S1; II/V5/V6 elevation identifies wrap-around. (Book p428)"
+    },
+    {
+      "id": "MED-C10-24",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 428,
+      "fmt": "scenario",
+      "q": "An anterior infarct has ST elevation in II, V5 and V6 in addition to anterior leads. Which anatomical pattern is represented?",
+      "opts": [
+        "Posterior RCA only",
+        "Wrap-around LAD",
+        "Isolated septal LAD",
+        "Proximal LCx only"
+      ],
+      "ans": 1,
+      "exp": "The page explicitly labels II, V5 and V6 elevation as wrap-around phenomenon; course enters posterior interventricular sulcus and anastomoses with PDA. (Book p428)"
+    },
+    {
+      "id": "MED-C10-25",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 428,
+      "fmt": "recall",
+      "q": "An anterolateral MI is anatomically described as which relationship?",
+      "opts": [
+        "Occlusion before D1 only",
+        "Occlusion distal to D3",
+        "S1 before D1 with occlusion between S1 and D1",
+        "D1 before S1 with occlusion below S1"
+      ],
+      "ans": 2,
+      "exp": "The source states anterolateral MI has anatomical S1 before D1 and occlusion between S1 and D1. (Book p428)"
+    },
+    {
+      "id": "MED-C10-26",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 428,
+      "fmt": "scenario",
+      "q": "V1 ST elevation with ST depression in I and aVL is shown under which infarct localisation?",
+      "opts": [
+        "Anterolateral MI",
+        "Wrap-around MI",
+        "High-lateral MI",
+        "Anteroseptal MI above S1"
+      ],
+      "ans": 3,
+      "exp": "The anteroseptal section labels V1 ST elevation as above S1 and I/aVL ST depression as between D1 and S1. (Book p428)"
+    },
+    {
+      "id": "MED-C10-27",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 429,
+      "fmt": "scenario",
+      "q": "An ECG shows ST elevation in aVR with ST depression in all other leads. What urgent intervention does the source prescribe?",
+      "opts": [
+        "Immediate PCI for proximal left-coronary/left-main occlusion",
+        "Observation for early repolarisation",
+        "Thrombolysis only after 24 hours",
+        "Rate-control therapy"
+      ],
+      "ans": 0,
+      "exp": "Proximal LCA occlusion: aVR ST elevation, all other leads ST depression, 100% mortality if untreated; immediate PCI is specified. (Book p429)"
+    },
+    {
+      "id": "MED-C10-28",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 429,
+      "fmt": "recall",
+      "q": "Which electrical complications are listed for LV involvement in AWMI?",
+      "opts": [
+        "Complete AV nodal block only",
+        "Ventricular tachycardia, ventricular fibrillation and sudden cardiac death",
+        "Atrial flutter and sinus bradycardia only",
+        "AF with WPW only"
+      ],
+      "ans": 1,
+      "exp": "AWMI LV involvement includes VT, VF and sudden cardiac death; mechanical complications include external cardiac rupture and septal rupture, plus infra-Hisian blocks. (Book p429)"
+    },
+    {
+      "id": "MED-C10-29",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "page": 429,
+      "fmt": "recall",
+      "q": "Which conduction abnormality is named among AWMI complications?",
+      "opts": [
+        "First-degree AV block only",
+        "Short PR pre-excitation",
+        "Infra-Hisian block",
+        "SA nodal block only"
+      ],
+      "ans": 2,
+      "exp": "The AWMI complication list includes infra-Hisian blocks, in contrast to the nodal problems emphasised in IWMI. (Book p429)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U10-1",
+      "ch": 10,
+      "n": 1,
+      "title": "1. Coronary Territories, Dominance & Right Coronary Artery",
+      "sec": "Coronary Territories, Dominance & Right Coronary Artery",
+      "guide": "Coronary circulation is first mapped to infarct territory and heart surface.\nDominance is defined by the PDA, then RCA anatomy predicts ECG and complications.\nProximal-versus-distal logic is retained exactly as in the source.",
+      "qs": [
+        "MED-C10-01",
+        "MED-C10-02",
+        "MED-C10-03",
+        "MED-C10-04",
+        "MED-C10-05",
+        "MED-C10-06",
+        "MED-C10-07",
+        "MED-C10-08",
+        "MED-C10-09",
+        "MED-C10-10",
+        "MED-C10-11",
+        "MED-C10-12",
+        "MED-C10-13"
+      ]
+    },
+    {
+      "id": "MED-U10-2",
+      "ch": 10,
+      "n": 2,
+      "title": "2. Inferior MI Localisation & Left Coronary Anatomy",
+      "sec": "Inferior MI Localisation & Left Coronary Anatomy",
+      "guide": "Inferior-wall ECG details distinguish RCA and LCx occlusion.\nPapillary-muscle rupture is separated from global pump failure.\nLCA branches and lead territories are then mapped in anatomical order.",
+      "qs": [
+        "MED-C10-14",
+        "MED-C10-15",
+        "MED-C10-16",
+        "MED-C10-17",
+        "MED-C10-18",
+        "MED-C10-19",
+        "MED-C10-20"
+      ]
+    },
+    {
+      "id": "MED-U10-3",
+      "ch": 10,
+      "n": 3,
+      "title": "3. LAD Localisation, Left-Main Occlusion & Complications",
+      "sec": "LAD Localisation, Left-Main Occlusion & Complications",
+      "guide": "Sequential diagonal and septal branches localise LAD occlusion.\nWrap-around anatomy is tied to lead patterns.\nLeft-main ECG and lethal LV complications complete the chapter.",
+      "qs": [
+        "MED-C10-21",
+        "MED-C10-22",
+        "MED-C10-23",
+        "MED-C10-24",
+        "MED-C10-25",
+        "MED-C10-26",
+        "MED-C10-27",
+        "MED-C10-28",
+        "MED-C10-29"
+      ]
+    }
+  ]
+}
