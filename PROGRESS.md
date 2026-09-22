@@ -116,3 +116,11 @@ Source PDFs moved to `uploads/` (total 334 PDF pages including front matter, 326
 
 - Confirm exact book end page 702 vs 700 for Management of Stroke (PDF shows 701-702). Roadmap uses 700 as start, consistent.
 - 05.pdf only 1 page present; may need to re-split original PDFs to ensure full 698-702 coverage. Currently covered by 04.pdf tail + 05.pdf.
+
+## Chapter 1 — Introduction to ECG (Book p377-382) ✔ LIVE
+
+- Built 2026-09-22 on `arena/01a0c7c2-med-v2`, merged to `main`.
+- Page map verified visually: PDF13=377 (title), PDF14=378, PDF15=379, PDF16=380, PDF17=381, PDF18=382; PDF19=383 starts Ch 2.
+- `data/ch01.json`: 44 questions (15 match, 6 fillup, 6 truefalse, 5 oddoneout, 4 numeric, 3 scenario, 5 recall), 7 units, strict line-by-line book order, every exp cites (Book pX).
+- Units: 1 ECG Interpretation & the QRS Complex (377) · 2 Route of Depolarisation & Current Flow (378) · 3 Ventricular Vectors & Chest Lead Positions (379) · 4 Wide QRS Pathways, Rate & Regularity (379-380) · 5 P Wave, PR Segment & PR Interval (380) · 6 Approach to the QRS & the Limb Leads (381) · 7 Axis Determination & the QT Interval (382).
+- Validator (mirrors app parseMatch/fillup/matchOpt renderers) passes; build_content.py embed OK; chapter shows live:true in app.
