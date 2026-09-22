@@ -1,0 +1,929 @@
+{
+  "chapter": 9,
+  "title": "Introduction to ACS",
+  "pageRange": "415-424",
+  "questions": [
+    {
+      "id": "MED-C9-01",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "page": 415,
+      "fmt": "scenario",
+      "q": "A ruptured coronary plaque causes a critical, fibrin-rich occlusive thrombus. Which acute coronary syndrome is the source most directly linking to this lesion?",
+      "opts": [
+        "NSTEMI from an incomplete platelet-rich thrombus",
+        "Stable exertional angina from a fixed plaque",
+        "Variant angina caused by transient spasm",
+        "ST-elevation myocardial infarction (STEMI)"
+      ],
+      "ans": 3,
+      "exp": "The ACS flowchart links rupture/erosion with critical fibrin-rich thrombosis to STEMI; incomplete platelet-rich thrombosis leads to NSTEMI. (Book p415)"
+    },
+    {
+      "id": "MED-C9-02",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "page": 415,
+      "fmt": "scenario",
+      "q": "An angiogram identifies a coronary segment with a diameter of 450 micrometres. In the page's circulation scheme, this belongs to which compartment?",
+      "opts": [
+        "Macrovascular epicardial artery",
+        "Microvascular arteriole",
+        "Capillary exchange bed",
+        "Small artery below 400 micrometres"
+      ],
+      "ans": 0,
+      "exp": "Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side. (Book p415)"
+    },
+    {
+      "id": "MED-C9-03",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "page": 415,
+      "fmt": "recall",
+      "q": "Which pairing correctly states the dominant stimulus and principal function assigned to coronary epicardial arteries?",
+      "opts": [
+        "Neural tone; filtration",
+        "Flow; transport",
+        "Pressure; resistance regulation",
+        "Metabolites; gas exchange"
+      ],
+      "ans": 1,
+      "exp": "The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries. (Book p415)"
+    },
+    {
+      "id": "MED-C9-04",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "page": 415,
+      "fmt": "scenario",
+      "q": "A postmenopausal woman has exertional angina, a positive stress test, and normal or near-normal angiography. Antianginals help, whereas vasodilators have poor benefit. Which mechanism best fits the source's Syndrome X?",
+      "opts": [
+        "Acute plaque erosion with platelet-rich thrombosis",
+        "Fixed left-main stenosis with global subendocardial ischemia",
+        "Endothelial dysfunction with impaired coronary reserve",
+        "Increased resting coronary resistance from a thickened wall"
+      ],
+      "ans": 2,
+      "exp": "Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP. (Book p415)"
+    },
+    {
+      "id": "MED-C9-05",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "page": 415,
+      "fmt": "scenario",
+      "q": "A young male smoker has rest angina, a negative stress test, slow-flow angiography and an abnormal baseline ECG. Which source-labelled syndrome is represented?",
+      "opts": [
+        "Syndrome X",
+        "Classic stable angina",
+        "Acute transmural STEMI",
+        "Syndrome Y"
+      ],
+      "ans": 3,
+      "exp": "The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death. (Book p415)"
+    },
+    {
+      "id": "MED-C9-06",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "page": 415,
+      "fmt": "oddoneout",
+      "q": "Which feature is least compatible with the page's Syndrome Y column?",
+      "opts": [
+        "Benign prognosis with poor response to vasodilators",
+        "Young male smoker with rest angina",
+        "Slow-flow phenomenon on angiography",
+        "Good response to vasodilators"
+      ],
+      "ans": 0,
+      "exp": "Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X. (Book p415)"
+    },
+    {
+      "id": "MED-C9-07",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "recall",
+      "q": "Which set contains only determinants of myocardial oxygen demand in the source?",
+      "opts": [
+        "LDL concentration, CRP and calcium score",
+        "Systemic systolic BP, heart rate, contractility and wall stress",
+        "Coronary diameter, heart rate and perfusion pressure",
+        "Arteriolar metabolites, capillary exchange and venous pressure"
+      ],
+      "ans": 1,
+      "exp": "O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure. (Book p416)"
+    },
+    {
+      "id": "MED-C9-08",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "scenario",
+      "q": "A patient with central obesity, insulin resistance, hypertension and hyperlipidaemia is described as having the page's ‘Syndrome Z’. What associated condition is specifically listed?",
+      "opts": [
+        "Hypertrophic cardiomyopathy",
+        "Pulmonary embolism",
+        "Obstructive sleep apnoea syndrome",
+        "Autoimmune thyroiditis"
+      ],
+      "ans": 2,
+      "exp": "Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia. (Book p416)"
+    },
+    {
+      "id": "MED-C9-09",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "recall",
+      "q": "Which is listed as a non-plaque cause of large-vessel coronary artery disease?",
+      "opts": [
+        "Isolated sinus bradycardia",
+        "Mitral valve prolapse",
+        "Atrial septal defect",
+        "Coronary vasculitis such as Takayasu or Kawasaki disease"
+      ],
+      "ans": 3,
+      "exp": "Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki. (Book p416)"
+    },
+    {
+      "id": "MED-C9-10",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "scenario",
+      "q": "During preventive counselling, which exposure does the source call the most crucial preventable cause of plaque formation?",
+      "opts": [
+        "Smoking",
+        "Family history",
+        "Age 40–50 years",
+        "Female sex"
+      ],
+      "ans": 0,
+      "exp": "Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors. (Book p416)"
+    },
+    {
+      "id": "MED-C9-11",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "numeric",
+      "q": "An hs-CRP result is 3.4 mg/dL in the source's risk-factor scheme. How is this tier marked?",
+      "opts": [
+        "A value that excludes plaque formation",
+        "Markedly increased risk (↑↑↑)",
+        "Low-risk tier below 1 mg/dL",
+        "Intermediate tier at exactly 1–3 mg/dL"
+      ],
+      "ans": 1,
+      "exp": "The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased. (Book p416)"
+    },
+    {
+      "id": "MED-C9-12",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "recall",
+      "q": "Which lipoprotein pattern is specifically identified as a plaque risk factor on this page?",
+      "opts": [
+        "Low LDL with isolated hypertriglyceridaemia",
+        "Raised chylomicrons after a meal only",
+        "High LDL with small dense/oxidised LDL and low HDL",
+        "High HDL with large buoyant LDL"
+      ],
+      "ans": 2,
+      "exp": "The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL. (Book p416)"
+    },
+    {
+      "id": "MED-C9-13",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 416,
+      "fmt": "scenario",
+      "q": "A clinician finds a 65% coronary stenosis during assessment. How does the source classify this degree of stenosis?",
+      "opts": [
+        "A normal coronary variation",
+        "A microvascular-only disorder",
+        "A lesion too mild to cause angina",
+        "Significant atherosclerotic coronary vascular disease"
+      ],
+      "ans": 3,
+      "exp": "Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant. (Book p416)"
+    },
+    {
+      "id": "MED-C9-14",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 417,
+      "fmt": "scenario",
+      "q": "A ventricular segment has chronic persistent ischaemic dysfunction and viability assessment is needed to separate ischaemia from infarction. Which term and investigation pairing follows the source?",
+      "opts": [
+        "Hibernation; FDG-PET preferred over MRI",
+        "Stunning; exercise treadmill preferred over PET",
+        "Hibernation; coronary calcium score only",
+        "Stunning; angiography is the defining test"
+      ],
+      "ans": 0,
+      "exp": "Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction. (Book p417)"
+    },
+    {
+      "id": "MED-C9-15",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 417,
+      "fmt": "scenario",
+      "q": "After reperfusion of an acute ischaemic region, a patient has transient segmental dysfunction despite restored flow. This is best termed:",
+      "opts": [
+        "Demand angina",
+        "Myocardial stunning",
+        "Myocardial hibernation",
+        "Chronic scar formation"
+      ],
+      "ans": 1,
+      "exp": "Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state. (Book p417)"
+    },
+    {
+      "id": "MED-C9-16",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 417,
+      "fmt": "numeric",
+      "q": "Which lipid result meets the source's first listed statin indication and its stated target?",
+      "opts": [
+        "LDL above 70 mg/dL; target below 55 mg/dL",
+        "LDL above 250 mg/dL; target below 130 mg/dL",
+        "LDL above 190 mg/dL; target below 100 mg/dL",
+        "LDL above 130 mg/dL; target below 70 mg/dL"
+      ],
+      "ans": 2,
+      "exp": "The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis. (Book p417)"
+    },
+    {
+      "id": "MED-C9-17",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 417,
+      "fmt": "recall",
+      "q": "The HOPE trial note on this page associates ramipril with reduction in fatal and non-vascular events. Which drug class is highlighted as superior to ARBs in that note?",
+      "opts": [
+        "Calcium-channel blockers",
+        "Loop diuretics",
+        "Fibrates",
+        "ACE inhibitors"
+      ],
+      "ans": 3,
+      "exp": "The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’ (Book p417)"
+    },
+    {
+      "id": "MED-C9-18",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 417,
+      "fmt": "recall",
+      "q": "What does the Agatston score use to determine the degree of coronary calcification?",
+      "opts": [
+        "Coronary CT",
+        "Cardiac MRI",
+        "FDG-PET",
+        "Intravascular ultrasound"
+      ],
+      "ans": 0,
+      "exp": "Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4. (Book p417)"
+    },
+    {
+      "id": "MED-C9-19",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 417,
+      "fmt": "oddoneout",
+      "q": "Which dietary advice conflicts with the lifestyle recommendations on this page?",
+      "opts": [
+        "Soluble fibre above 10–25 g/day",
+        "Saturated fat should provide more than 15% of intake",
+        "Salt intake below 6 g/day",
+        "Protein intake about 1 g/kg/day"
+      ],
+      "ans": 1,
+      "exp": "The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%. (Book p417)"
+    },
+    {
+      "id": "MED-C9-20",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 418,
+      "fmt": "scenario",
+      "q": "A person with a plaque burden above 70% is asymptomatic. According to the patient-presentation flowchart, which outcome is linked to that branch?",
+      "opts": [
+        "Plaque rupture causing MI regardless of symptoms",
+        "No coronary risk",
+        "Acute coronary syndrome",
+        "Immediate stenting after angiography"
+      ],
+      "ans": 2,
+      "exp": "In the diagram, >70% plaque with symptoms leads to angiography/stenting; the asymptomatic branch is labelled ACS. A roughly 20–30% plaque may rupture and cause MI. (Book p418)"
+    },
+    {
+      "id": "MED-C9-21",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 418,
+      "fmt": "scenario",
+      "q": "A middle-aged patient reports squeezing retrosternal tightness with exertion, lasting 12 minutes, relieved promptly by sublingual nitroglycerin. Which presentation does this most support?",
+      "opts": [
+        "NSTEMI by duration alone",
+        "Prinzmetal angina",
+        "Acute pericarditis",
+        "Chronic stable angina"
+      ],
+      "ans": 3,
+      "exp": "Chronic stable angina is exertional chest tightness/squeezing/burning behind or left of mediastinum, can radiate C8–T4, lasts <20 min, and responds well to SL/oral NTG; >30 min suggests ACS. (Book p418)"
+    },
+    {
+      "id": "MED-C9-22",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 418,
+      "fmt": "management",
+      "q": "Which patient is specifically listed as unsuitable for an exercise treadmill test on the page?",
+      "opts": [
+        "A patient with rest symptoms",
+        "An asymptomatic patient with risk factors",
+        "A patient with chronic stable angina",
+        "A patient with a positive family history alone"
+      ],
+      "ans": 0,
+      "exp": "Treadmill testing is indicated in chronic stable angina and asymptomatic risk-factor patients; rest symptoms, aortic stenosis and HOCM are contraindications. (Book p418)"
+    },
+    {
+      "id": "MED-C9-23",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 418,
+      "fmt": "numeric",
+      "q": "Under the printed Bruce-protocol criterion, which treadmill finding is positive and warrants angiography?",
+      "opts": [
+        "T-wave flattening after recovery",
+        "2 mm horizontal/downsloping ST depression before 6 minutes or before maximum HR",
+        "1 mm transient ST elevation after maximum HR",
+        "Isolated sinus tachycardia at 10 minutes"
+      ],
+      "ans": 1,
+      "exp": "Positive treadmill test: 2 mm horizontal/downsloping ST segment before 6 minutes/before achieving maximum HR, followed by angiography. (Book p418)"
+    },
+    {
+      "id": "MED-C9-24",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "page": 418,
+      "fmt": "recall",
+      "q": "The radiation of chronic stable-angina pain is described as occurring in any dermatome spanning:",
+      "opts": [
+        "T10 to L2",
+        "L4 to S1",
+        "C8 to T4",
+        "C1 to C4"
+      ],
+      "ans": 2,
+      "exp": "The presentation block states radiation may involve any dermatome from C8 to T4. (Book p418)"
+    },
+    {
+      "id": "MED-C9-25",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "recall",
+      "q": "Which radionuclides are listed for myocardial perfusion scintigraphy (MPS)?",
+      "opts": [
+        "Iodine-131 or gallium",
+        "Fluorine-18 only",
+        "Gadolinium only",
+        "Technetium-99m or thallium"
+      ],
+      "ans": 3,
+      "exp": "MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation. (Book p419)"
+    },
+    {
+      "id": "MED-C9-26",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "scenario",
+      "q": "A patient needs separation of stunned myocardium from scarred myocardium. Which modality is specifically identified for that purpose?",
+      "opts": [
+        "FDG-PET",
+        "Electron-beam CT",
+        "MUGA scan",
+        "Coronary angiography"
+      ],
+      "ans": 0,
+      "exp": "FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction. (Book p419)"
+    },
+    {
+      "id": "MED-C9-27",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "recall",
+      "q": "Which test is assigned to assessment of cardiac volumes and function?",
+      "opts": [
+        "Coronary calcium score",
+        "Exercise radionuclide angiography/MUGA scan",
+        "Myocardial perfusion scintigraphy",
+        "Electron-beam CT"
+      ],
+      "ans": 1,
+      "exp": "The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions. (Book p419)"
+    },
+    {
+      "id": "MED-C9-28",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "recall",
+      "q": "Which investigation is called the investigation of choice for both myocardial fibrosis and ejection fraction, and the gold standard for ejection fraction?",
+      "opts": [
+        "Intravascular ultrasound",
+        "Coronary CT",
+        "Cardiac MRI",
+        "FDG-PET"
+      ],
+      "ans": 2,
+      "exp": "MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection. (Book p419)"
+    },
+    {
+      "id": "MED-C9-29",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "scenario",
+      "q": "A stable-angina patient has persistent symptoms after three sublingual NTG tablets over 20 minutes. What does the source flowchart direct the clinician to consider?",
+      "opts": [
+        "Immediate fibrinolysis without reassessment",
+        "Long-term ivabradine as the only option",
+        "No further action because the symptoms are stable",
+        "Acute coronary syndrome and first-line NTG plus beta-blocker strategy"
+      ],
+      "ans": 3,
+      "exp": "After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line. (Book p419)"
+    },
+    {
+      "id": "MED-C9-30",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "recall",
+      "q": "Which antianginal is listed as a funny-current inhibitor that can cause visual disturbance?",
+      "opts": [
+        "Ivabradine",
+        "Ranolazine",
+        "Trimetazidine",
+        "Fasudil"
+      ],
+      "ans": 0,
+      "exp": "Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT. (Book p419)"
+    },
+    {
+      "id": "MED-C9-31",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 419,
+      "fmt": "recall",
+      "q": "Which new antianginal drug is identified as a Rho-kinase inhibitor?",
+      "opts": [
+        "Eptifibatide",
+        "Fasudil",
+        "Nicorandil",
+        "Ranolazine"
+      ],
+      "ans": 1,
+      "exp": "Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator. (Book p419)"
+    },
+    {
+      "id": "MED-C9-32",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 420,
+      "fmt": "recall",
+      "q": "Which three agents are identified as GP IIb–IIIa inhibitors used around stenting to reduce periprocedural events?",
+      "opts": [
+        "Tenecteplase, reteplase and alteplase",
+        "Verapamil, esmolol and digoxin",
+        "Abciximab, eptifibatide and tirofiban",
+        "Aspirin, ticagrelor and prasugrel"
+      ],
+      "ans": 2,
+      "exp": "The stenting note lists abciximab, eptifibatide and tirofiban as GP IIb–IIIa inhibitors and favours tacrolimus/paclitaxel drug-eluting over bare-metal stents. (Book p420)"
+    },
+    {
+      "id": "MED-C9-33",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 420,
+      "fmt": "scenario",
+      "q": "A patient has recurrent midnight-to-early-morning rest pain lasting 10 minutes, transient ST elevation, normal angiography, and rapid nitrate relief. Which treatment precaution follows the source?",
+      "opts": [
+        "Avoid nitrates because they worsen spasm",
+        "Use thrombolysis as first-line therapy",
+        "Treat as fixed three-vessel obstruction",
+        "Avoid beta-blockers in Prinzmetal (vasospastic) angina"
+      ],
+      "ans": 3,
+      "exp": "Prinzmetal angina is rest angina, lasts 5–15 min, has transient ST elevation and normal angiography; beta-blockers are to be avoided. (Book p420)"
+    },
+    {
+      "id": "MED-C9-34",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 420,
+      "fmt": "recall",
+      "q": "What anatomical interval is also called the Kingmaker segment?",
+      "opts": [
+        "ST segment, from the end of J point to onset of T wave",
+        "PR segment, from end of P to QRS onset",
+        "QT interval, from QRS onset to T-wave end",
+        "TP segment, from T-wave end to P-wave onset"
+      ],
+      "ans": 0,
+      "exp": "Kingmaker segment is stated to be the ST segment: end of J point to onset of T wave. (Book p420)"
+    },
+    {
+      "id": "MED-C9-35",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 420,
+      "fmt": "scenario",
+      "q": "Subepicardial/transmural injury creates a current directed toward injured myocardium. Which ST change does the page associate with this direction?",
+      "opts": [
+        "Tall U waves",
+        "ST elevation",
+        "ST depression without localising value",
+        "Isolated PR depression"
+      ],
+      "ans": 1,
+      "exp": "Systolic current from subepicardial/transmural injury flows toward injured myocardium and produces ST elevation (MI or pericarditis); subendocardial diastolic current flows away and produces non-localising ST depression. (Book p420)"
+    },
+    {
+      "id": "MED-C9-36",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 420,
+      "fmt": "recall",
+      "q": "Which ST-elevation contour is attributed to pericarditis in the current-of-injury diagrams?",
+      "opts": [
+        "Downsloping depression",
+        "Digoxin-like scooped depression",
+        "Concave, saddle-shaped elevation",
+        "Convex, non-concave elevation"
+      ],
+      "ans": 2,
+      "exp": "The diagrams contrast non-concave/convex ST elevation in MI with concave/saddle-shaped elevation in pericarditis. (Book p420)"
+    },
+    {
+      "id": "MED-C9-37",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 421,
+      "fmt": "oddoneout",
+      "q": "Which condition is NOT listed among the page's other causes of ST elevation?",
+      "opts": [
+        "Transient Prinzmetal angina",
+        "LBBB",
+        "Benign early repolarisation",
+        "Acute hypocalcaemia"
+      ],
+      "ans": 3,
+      "exp": "Listed alternatives are Prinzmetal angina, hyperkalaemia > hypokalaemia, LBBB, benign early repolarisation and LV aneurysm. (Book p421)"
+    },
+    {
+      "id": "MED-C9-38",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 421,
+      "fmt": "recall",
+      "q": "Which ST-elevation morphology is treated as ACS on the figure rather than a low-likelihood pattern?",
+      "opts": [
+        "Convex or coved elevation",
+        "Concave elevation",
+        "Oblique elevation",
+        "A small isolated J-point notch"
+      ],
+      "ans": 0,
+      "exp": "Convex and coved morphologies are labelled ACS; horizontal/plateau is ‘ACS unless proven otherwise’; oblique is <30% ACS and concave <15% ACS. (Book p421)"
+    },
+    {
+      "id": "MED-C9-39",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 421,
+      "fmt": "numeric",
+      "q": "For a male older than 40 years, what precordial ST elevation in V2–V3 is the significant threshold printed on the page?",
+      "opts": [
+        "At least 3 mm",
+        "At least 2 mm",
+        "At least 2.5 mm",
+        "At least 1.5 mm"
+      ],
+      "ans": 1,
+      "exp": "Significant V2–V3 elevation is ≥2.5 mm if <40 years, ≥2 mm if >40 years, and ≥1.5 mm in females; reciprocal changes must be present in the source's MI diagnosis note. (Book p421)"
+    },
+    {
+      "id": "MED-C9-40",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 421,
+      "fmt": "recall",
+      "q": "Which ECG change appears earliest in the displayed STEMI evolution sequence?",
+      "opts": [
+        "Reduced R-wave amplitude",
+        "Deep terminal T-wave inversion",
+        "Hyperacute T wave",
+        "Pathological Q wave"
+      ],
+      "ans": 2,
+      "exp": "The sequence progresses from hyperacute T wave to hyperacute T waves with ST elevation, then pathological Q/decreasing R and further ST/T changes over hours to days. (Book p421)"
+    },
+    {
+      "id": "MED-C9-41",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 421,
+      "fmt": "scenario",
+      "q": "ST elevation is present in I and aVL with reciprocal ST depression in inferior leads. How is this ECG example labelled on the page?",
+      "opts": [
+        "Inferior MI",
+        "Posterior MI",
+        "Diffuse pericarditis",
+        "High lateral MI"
+      ],
+      "ans": 3,
+      "exp": "The illustrated tracing is captioned ST elevation with reciprocal changes and marks a high lateral MI pattern. (Book p421)"
+    },
+    {
+      "id": "MED-C9-42",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 422,
+      "fmt": "scenario",
+      "q": "An ECG shows ST elevation with J-point notching (‘hook effect’) but no PR-segment depression. Which diagnosis is most consistent with the source?",
+      "opts": [
+        "Benign early repolarisation",
+        "Acute pericarditis",
+        "Transmural STEMI",
+        "Hypothermia"
+      ],
+      "ans": 0,
+      "exp": "Benign early repolarisation has ST elevation and J-point hook effect; PR depression supports pericarditis instead. (Book p422)"
+    },
+    {
+      "id": "MED-C9-43",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 422,
+      "fmt": "scenario",
+      "q": "A patient with acute illness has diffuse concave-upward ST elevation, PR depression, and no reciprocal changes. What diagnosis fits best?",
+      "opts": [
+        "Brugada syndrome",
+        "Acute pericarditis",
+        "Benign early repolarisation",
+        "High lateral STEMI"
+      ],
+      "ans": 1,
+      "exp": "The pericarditis block gives clinical features/acute illness, global concave upward ST elevation, PR depression and no reciprocal changes. (Book p422)"
+    },
+    {
+      "id": "MED-C9-44",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 422,
+      "fmt": "recall",
+      "q": "Which ECG deflection is the classic marker of hypothermia on the page?",
+      "opts": [
+        "U wave",
+        "Epsilon wave",
+        "Osborne wave",
+        "Delta wave"
+      ],
+      "ans": 2,
+      "exp": "Hypothermia is labelled with an Osborne wave. The page also illustrates post-DC-cardioversion tracing and Takotsubo cardiomyopathy. (Book p422)"
+    },
+    {
+      "id": "MED-C9-45",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 422,
+      "fmt": "scenario",
+      "q": "A middle-aged woman develops catecholamine-induced cardiac failure after emotional stress and mimics ST elevation. Which source term applies?",
+      "opts": [
+        "Microvascular Syndrome X",
+        "Myocardial hibernation",
+        "Chronic stable angina",
+        "Takotsubo (broken-heart) cardiomyopathy"
+      ],
+      "ans": 3,
+      "exp": "Takotsubo cardiomyopathy is labelled catecholamine-induced cardiac failure/broken-heart syndrome and most common in middle-aged females. (Book p422)"
+    },
+    {
+      "id": "MED-C9-46",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "page": 422,
+      "fmt": "recall",
+      "q": "Which description best distinguishes the page's pericarditis tracing from benign early repolarisation?",
+      "opts": [
+        "PR-segment depression accompanies pericarditis",
+        "A J-point hook is obligatory in pericarditis",
+        "Reciprocal change is universal in pericarditis",
+        "Pericarditis produces no ST elevation"
+      ],
+      "ans": 0,
+      "exp": "The printed differential says BER has no PR depression; pericarditis has PR depression, global concave elevation and no reciprocal changes. (Book p422)"
+    },
+    {
+      "id": "MED-C9-47",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 423,
+      "fmt": "recall",
+      "q": "In the page's V1–V3 summary, which diagnosis is paired with a pseudo-infarction pattern due to hyperkalaemia?",
+      "opts": [
+        "Left ventricular hypertrophy",
+        "Hyperkalaemia",
+        "Acute pericarditis",
+        "Brugada syndrome"
+      ],
+      "ans": 1,
+      "exp": "The summary panel lists LVH, LBBB, acute pericarditis, pseudo-infarction pattern (hyperkalaemia), acute anteroseptal MI, acute anterolateral MI and Brugada syndrome. (Book p423)"
+    },
+    {
+      "id": "MED-C9-48",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 423,
+      "fmt": "scenario",
+      "q": "A depressed ST segment has a horizontal contour. What interpretation is written below that morphology?",
+      "opts": [
+        "Strain-related change",
+        "Normal early repolarisation",
+        "Probable ischaemia",
+        "Digoxin-related effect"
+      ],
+      "ans": 2,
+      "exp": "The summary labels horizontal ST depression ‘probable ischemia’; sloping ST is strain-related and scoop-shaped ST is digoxin-related. (Book p423)"
+    },
+    {
+      "id": "MED-C9-49",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 423,
+      "fmt": "scenario",
+      "q": "A patient on digoxin has a characteristically scooped ST depression. This contour should be attributed to:",
+      "opts": [
+        "Subendocardial NSTEMI alone",
+        "Acute pericarditis",
+        "Hyperkalaemia",
+        "Digoxin-related ST change"
+      ],
+      "ans": 3,
+      "exp": "The ‘scoop’ example is explicitly labelled digoxin related; morphology must be interpreted in clinical context. (Book p423)"
+    },
+    {
+      "id": "MED-C9-50",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 423,
+      "fmt": "recall",
+      "q": "What ECG pattern is noted to evolve to MI on the page?",
+      "opts": [
+        "de Winter T waves",
+        "Osborne waves",
+        "Delta waves",
+        "Epsilon waves"
+      ],
+      "ans": 0,
+      "exp": "The final tracing is captioned ‘de Winter T waves: evolves to MI.’ (Book p423)"
+    },
+    {
+      "id": "MED-C9-51",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 424,
+      "fmt": "scenario",
+      "q": "Tall, peaked T waves are illustrated as the repolarisation pattern of which ischaemic location?",
+      "opts": [
+        "Right bundle branch block",
+        "Subendocardial ischaemia",
+        "Transmural ischaemia",
+        "Chronic pericarditis"
+      ],
+      "ans": 1,
+      "exp": "The page contrasts normal myocardium, tall/peaked T waves in subendocardial ischaemia, and deep symmetrical inversion in transmural ischaemia. (Book p424)"
+    },
+    {
+      "id": "MED-C9-52",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 424,
+      "fmt": "scenario",
+      "q": "Deep, symmetrically inverted T waves most strongly indicate the source's:",
+      "opts": [
+        "Benign early repolarisation",
+        "Hyperkalaemia",
+        "Transmural ischaemia",
+        "Subendocardial ischaemia"
+      ],
+      "ans": 2,
+      "exp": "Deep symmetrical T inversion is labelled transmural ischaemia; tall/peaked T waves are subendocardial ischaemia. (Book p424)"
+    },
+    {
+      "id": "MED-C9-53",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 424,
+      "fmt": "recall",
+      "q": "In the illustrated progression, hyperacute T waves develop into which major acute ECG pattern?",
+      "opts": [
+        "Chronic LBBB",
+        "Atrial flutter",
+        "Complete AV block",
+        "STEMI"
+      ],
+      "ans": 3,
+      "exp": "The lower paired ECGs show hyperacute T waves progressing to STEMI. (Book p424)"
+    },
+    {
+      "id": "MED-C9-54",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 424,
+      "fmt": "recall",
+      "q": "A prominent U wave on the source strip points to which electrolyte disorder?",
+      "opts": [
+        "Hypokalaemia",
+        "Hyperkalaemia",
+        "Hypercalcaemia",
+        "Hypermagnesaemia"
+      ],
+      "ans": 0,
+      "exp": "The note beneath the strip states ‘U waves: Hypokalemia.’ (Book p424)"
+    },
+    {
+      "id": "MED-C9-55",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "page": 424,
+      "fmt": "recall",
+      "q": "The serial ST-depression tracings on the page are time-stamped at 60, 90 and:",
+      "opts": [
+        "24 hours",
+        "120 minutes",
+        "30 minutes",
+        "6 hours"
+      ],
+      "ans": 1,
+      "exp": "The page presents serial ST-depression changes at 60, 90 and 120 minutes before its T-wave panels. (Book p424)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U9-1",
+      "ch": 9,
+      "n": 1,
+      "title": "1. ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "sec": "ACS Mechanism, Vascular Beds & Cardiac Syndromes",
+      "guide": "Plaque disruption, thrombus composition, and the STEMI/NSTEMI divide.\nMacro- versus microcirculatory roles in coronary flow and resistance.\nSyndrome X and Syndrome Y phenotypes are kept distinct from ACS.",
+      "qs": [
+        "MED-C9-01",
+        "MED-C9-02",
+        "MED-C9-03",
+        "MED-C9-04",
+        "MED-C9-05",
+        "MED-C9-06"
+      ]
+    },
+    {
+      "id": "MED-U9-2",
+      "ch": 9,
+      "n": 2,
+      "title": "2. ACS Risk, Prevention & Chronic Stable Angina",
+      "sec": "ACS Risk, Prevention & Chronic Stable Angina",
+      "guide": "Supply–demand physiology and modifiable plaque risks precede the chronic-angina work-up.\nRisk-factor wording and threshold values follow the printed source.\nClinical presentation and treadmill testing are then applied in order.",
+      "qs": [
+        "MED-C9-07",
+        "MED-C9-08",
+        "MED-C9-09",
+        "MED-C9-10",
+        "MED-C9-11",
+        "MED-C9-12",
+        "MED-C9-13",
+        "MED-C9-14",
+        "MED-C9-15",
+        "MED-C9-16",
+        "MED-C9-17",
+        "MED-C9-18",
+        "MED-C9-19",
+        "MED-C9-20",
+        "MED-C9-21",
+        "MED-C9-22",
+        "MED-C9-23",
+        "MED-C9-24"
+      ]
+    },
+    {
+      "id": "MED-U9-3",
+      "ch": 9,
+      "n": 3,
+      "title": "3. Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "sec": "Imaging, Stable-Angina Therapy & ST-Segment Foundations",
+      "guide": "Functional imaging and invasive tests are tied to their stated indications.\nMedical therapy is organised by source-listed line and mechanism.\nST morphology, Prinzmetal angina, and currents of injury complete the chapter’s ECG base.",
+      "qs": [
+        "MED-C9-25",
+        "MED-C9-26",
+        "MED-C9-27",
+        "MED-C9-28",
+        "MED-C9-29",
+        "MED-C9-30",
+        "MED-C9-31",
+        "MED-C9-32",
+        "MED-C9-33",
+        "MED-C9-34",
+        "MED-C9-35",
+        "MED-C9-36",
+        "MED-C9-37",
+        "MED-C9-38",
+        "MED-C9-39",
+        "MED-C9-40",
+        "MED-C9-41",
+        "MED-C9-42",
+        "MED-C9-43",
+        "MED-C9-44",
+        "MED-C9-45",
+        "MED-C9-46"
+      ]
+    },
+    {
+      "id": "MED-U9-4",
+      "ch": 9,
+      "n": 4,
+      "title": "4. ST Depression, T-Waves & ACS Mimics",
+      "sec": "ST Depression, T-Waves & ACS Mimics",
+      "guide": "Summary morphology panels are converted to discriminating ECG questions.\nST depression is interpreted by contour and context.\nT-wave and U-wave changes close the source sequence.",
+      "qs": [
+        "MED-C9-47",
+        "MED-C9-48",
+        "MED-C9-49",
+        "MED-C9-50",
+        "MED-C9-51",
+        "MED-C9-52",
+        "MED-C9-53",
+        "MED-C9-54",
+        "MED-C9-55"
+      ]
+    }
+  ]
+}

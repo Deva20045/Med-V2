@@ -1,58 +1,77 @@
 # PULSE Medicine Vol 2 — Progress
 
-Updated 2026-09-22. Single offline HTML quiz for Medicine Vol 2, Book p377–702.
+Updated **2026-09-22**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0c840-med-v2`
+- Session branch: `arena/01a0c857-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
-- Source of truth: `data/chNN.json`; generated deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- Build status: **8 live chapters / 57**, **294 questions / 34 units**. Chapters 9–57 remain `live:false`.
+- Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
+- **Build status: 15 live chapters / 57 · 570 questions / 55 units.** Chapters 16–57 remain `live:false`.
 
-## This release (Chapters 5–8)
+## This release — Chapters 9–15
 
-1. Authored and verified four consecutive cardiology chapters from printed pages 394–414 of `uploads/01.pdf`:
-   - **Chapter 5: Tachyarrhythmias** (p394–402): 52 questions / 5 units.
-   - **Chapter 6: Atrial Fibrillation and Flutter** (p403–406): 33 questions / 4 units.
-   - **Chapter 7: Ventricular Arrhythmias** (p407–412): 36 questions / 3 units.
-   - **Chapter 8: WPW Syndrome** (p413–414): 14 questions / 2 units.
-2. Complete visual self-audit: **402 total educational point-to-question mappings** (262 existing + 140 new across p394–414), with **0 unasked points**.
-3. High-quality clinical question authoring: strictly non-predictable options, realistic clinical distractors, true/false balanced pairs, match bijections, exact `(Book pX)` citations.
-4. Schema, actual app regex parsers (`parseMatch`, `fillupHtml`, `matchOptHtml`, `splitExp`), bijections, unit coverage, and book-order validation all pass.
-5. All 294 questions and 34 units successfully compiled and embedded into standalone offline deliverable `pulse-medicine.html`.
-6. Full test suite passing: `python3 validate_content.py --embedded`, `tests/app_parsers.cjs`, and `python3 -m unittest discover -s tests -v`.
+Seven consecutive chapters have been written, visual-audited from the scans, source-ordered, and made live:
 
-Full evidence: [self-audit and page-by-page ledger](audit/SELF_AUDIT.md), [pre-build validation output](audit/PREBUILD_VALIDATION.txt), [machine-readable inventory](audit/coverage.json).
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 9 | Introduction to ACS | 415–424 | 55 | 4 |
+| 10 | ACS - Coronary Circulation | 425–429 | 29 | 3 |
+| 11 | ACS - Evaluation and Management | 430–441 | 72 | 4 |
+| 12 | Sjogren's Syndrome | 442–448 | 47 | 3 |
+| 13 | IgG4 Related Disease | 449–451 | 23 | 2 |
+| 14 | SLE - Basic Approach | 452–454 | 18 | 2 |
+| 15 | SLE - Diagnosis | 455–457 | 32 | 3 |
+| **Release total** |  | **43 pages** | **276** | **21** |
+
+### Quality and ordering contract delivered
+
+1. All pages were read in printed order (PDF51–93 = Book p415–457), including flowchart arms, comparison tables, numeric thresholds, diagrams, notes, morphology panels, contraindications and treatment branches.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 9–15 add **276 ordered mappings**, bringing the audited ledger to **678 mappings** for Chapters 2–15. Every target is marked asked.
+3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–15. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
+4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
+6. Chapters 9–15 are embedded in the standalone app and all seven roadmap flags are live.
+
+Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md), and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
 
 ## Verified PDF → printed-page map
 
-**Printed page numbers are ground truth.** All 103 pages of this copy of `uploads/01.pdf` were rendered with PyMuPDF `Matrix(2,2)` and visually checked. Full explicit mapping and source hash: [PAGE_MAP.md](audit/PAGE_MAP.md), [page-map.json](audit/page-map.json).
+Printed page numbers are ground truth. Every sheet of `uploads/01.pdf` was rendered at 2× and checked visually. The verified source is sequential after 12 unnumbered front-matter sheets; full mapping and hash are in [PAGE_MAP.md](audit/PAGE_MAP.md).
 
-- PDF1–12: unnumbered front-matter and Contents.
-- PDF13–18: 377–382 (Chapter 1).
-- PDF19–22: 383–386 (Chapter 2).
-- PDF23–25: 387–389 (Chapter 3).
-- PDF26–29: 390–393 (Chapter 4).
-- PDF30–38: 394–402 (Chapter 5: Tachyarrhythmias).
-- PDF39–42: 403–406 (Chapter 6: Atrial Fibrillation and Flutter).
-- PDF43–48: 407–412 (Chapter 7: Ventricular Arrhythmias).
-- PDF49–50: 413–414 (Chapter 8: WPW Syndrome).
-- PDF51–103: 415–467 (Chapter 9 onwards).
+- PDF13–18: Book p377–382 (Ch1)
+- PDF19–29: p383–393 (Ch2–4)
+- PDF30–38: p394–402 (Ch5)
+- PDF39–42: p403–406 (Ch6)
+- PDF43–48: p407–412 (Ch7)
+- PDF49–50: p413–414 (Ch8)
+- **PDF51–60: p415–424 (Ch9)**
+- **PDF61–65: p425–429 (Ch10)**
+- **PDF66–77: p430–441 (Ch11)**
+- **PDF78–84: p442–448 (Ch12)**
+- **PDF85–87: p449–451 (Ch13)**
+- **PDF88–90: p452–454 (Ch14)**
+- **PDF91–93: p455–457 (Ch15)**
+- PDF94–103: p458–467 (Ch16 onward)
 
 ## Schema and order contract
 
-- Chapter: `chapter`, exact roadmap `title`, `pageRange` beginning at the roadmap start, nonempty `questions` and `units`.
-- Question: sequential `MED-C<N>-<seq>` IDs; `sec`, integer `page`, `fmt` in recall/fillup/match/truefalse/scenario/oddoneout/numeric/management; `q`; exactly four unique options; integer `ans` 0–3; `exp` ending exactly `(Book pX)` matching `page`.
-- Unit: `MED-U<N>-<n>`, `ch`, `n`, `title`, `sec`, a 2–4-line `guide`; `qs` rebuilt from that section in question-array order. Flattened units must exactly equal the full chapter question sequence.
-- Fill-up stems contain `____`. Match grammar: `<prompt> — 1) left 2) left … A) right B) right`. No nested reserved item-label tokens. Every option covers all left items; the correct mapping is a bijection.
-- True/false has exactly two True and two False options. Answer options shuffle in the app; questions do not.
-- Inventory order follows printed page/content blocks. Software checks the inventory's sequence and references; visual review checks semantic coverage and within-page placement.
-- Source discrepancies are explicitly qualified in explanations. Questions are book-study material, not a substitute for current clinical guidelines.
+- Chapter: exact roadmap number/title, `pageRange` starts at the roadmap page, nonempty `questions` and `units`.
+- Question: sequential `MED-C<N>-<seq>` ID; section/page/format/stem; exactly four unique options; one answer; explanation ending exactly `(Book pX)` matching `page`.
+- Units: sequential `MED-U<N>-<n>` IDs; each has a 2–4-line guide; its IDs are rebuilt from exactly one section in original question order; flattened units equal the full chapter sequence.
+- Questions are in printed book-page order; all printed pages in every live chapter are represented.
+- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–15, in exact question order and with matching book page.
+- Questions are educational book-study material, not a substitute for current clinical guidelines or patient care.
 
-## Build / audit / test workflow
+## Build, audit and test workflow
 
 ```sh
-# Python 3 and Node required for the fail-closed build gate.
-python3 validate_content.py --ledger     # print every point before building
+# Generate/edit chapters 9–15 only when source artefacts need regeneration.
+python3 tools/generate_ch09_15.py
+python3 tools/generate_ch09_15_audit.py
+python3 tools/generate_self_audit.py
+
+# Fail-closed source gate, standalone-app build, and embedded-array gate.
+python3 validate_content.py --ledger
 python3 -m unittest discover -s tests -v
 python3 build_content.py
 python3 validate_content.py --embedded
@@ -96,6 +115,27 @@ python3 validate_content.py --embedded
 | 7 | 3. Polymorphic VT, Torsades de Pointes & Defibrillation | 411–412 | MED-C7-28–MED-C7-36 | 9 |
 | 8 | 1. Pathophysiology, ECG Manifestations & Types | 413 | MED-C8-01–MED-C8-06 | 6 |
 | 8 | 2. Vector Differentiation & Algorithmic Management | 414 | MED-C8-07–MED-C8-14 | 8 |
+| 9 | 1. ACS Mechanism, Vascular Beds & Cardiac Syndromes | 415 | MED-C9-01–MED-C9-06 | 6 |
+| 9 | 2. ACS Risk, Prevention & Chronic Stable Angina | 416–418 | MED-C9-07–MED-C9-24 | 18 |
+| 9 | 3. Imaging, Stable-Angina Therapy & ST-Segment Foundations | 419–422 | MED-C9-25–MED-C9-45 | 21 |
+| 9 | 4. ST Depression, T-Waves & ACS Mimics | 423–424 | MED-C9-46–MED-C9-55 | 10 |
+| 10 | 1. Coronary Territories, Dominance & Right Coronary Artery | 425–426 | MED-C10-01–MED-C10-13 | 13 |
+| 10 | 2. Inferior MI Localisation & Left Coronary Anatomy | 427 | MED-C10-14–MED-C10-20 | 7 |
+| 10 | 3. LAD Localisation, Left-Main Occlusion & Complications | 428–429 | MED-C10-21–MED-C10-29 | 9 |
+| 11 | 1. Universal MI Definition, Injury & MI Types | 430–431 | MED-C11-01–MED-C11-11 | 11 |
+| 11 | 2. Reinfarction, Vulnerable Plaque & NSTEMI Recognition | 432–433 | MED-C11-12–MED-C11-21 | 10 |
+| 11 | 3. Acute Chest Pain, STEMI Salvage & Reperfusion Timing | 434–436 | MED-C11-22–MED-C11-38 | 17 |
+| 11 | 4. Thrombolysis, PCI, Antithrombotics & STEMI Complications | 437–441 | MED-C11-39–MED-C11-72 | 34 |
+| 12 | 1. Classification, Association & Pathogenesis | 442–443 | MED-C12-01–MED-C12-11 | 11 |
+| 12 | 2. Histology & Glandular Clinical Features | 444–445 | MED-C12-12–MED-C12-26 | 15 |
+| 12 | 3. Extraglandular Disease, Investigations & Classification | 446–448 | MED-C12-27–MED-C12-47 | 21 |
+| 13 | 1. IgG4 Biology, Pathology & Core Clinical Profile | 449 | MED-C13-01–MED-C13-08 | 8 |
+| 13 | 2. Organ Manifestations, Diagnosis & Treatment | 450–451 | MED-C13-09–MED-C13-23 | 15 |
+| 14 | 1. SLE Profile & Clinical Phenotypes | 452–453 | MED-C14-01–MED-C14-11 | 11 |
+| 14 | 2. Genetic & Environmental Etiology | 454 | MED-C14-12–MED-C14-18 | 7 |
+| 15 | 1. ANA Methodology, Titre & Pattern Interpretation | 455 | MED-C15-01–MED-C15-11 | 11 |
+| 15 | 2. ANA Profile, DILE & Clinical Approach | 456 | MED-C15-12–MED-C15-18 | 7 |
+| 15 | 3. SLE Antibodies, Prognosis & Activity | 457 | MED-C15-19–MED-C15-32 | 14 |
 
 ## Full roadmap
 
@@ -109,52 +149,11 @@ python3 validate_content.py --embedded
 | 6 | Atrial Fibrillation and Flutter | 403 | Live |
 | 7 | Ventricular Arrhythmias | 407 | Live |
 | 8 | WPW Syndrome | 413 | Live |
-| 9 | Introduction to ACS | 415 | Soon |
-| 10 | ACS - Coronary Circulation | 425 | Soon |
-| 11 | ACS - Evaluation and Management | 430 | Soon |
-| 12 | Sjogren's Syndrome | 442 | Soon |
-| 13 | IgG4 Related Disease | 449 | Soon |
-| 14 | SLE - Basic Approach | 452 | Soon |
-| 15 | SLE - Diagnosis | 455 | Soon |
-| 16 | SLE - Clinical Profile and Management | 458 | Soon |
-| 17 | Antiphospholipid Syndrome | 466 | Soon |
-| 18 | Systemic Sclerosis | 470 | Soon |
-| 19 | Inflammatory Muscle Diseases | 477 | Soon |
-| 20 | Sarcoidosis and Mixed Connective Tissue Disease | 484 | Soon |
-| 21 | Classification of Vasculitis and Large Vessel Vasculitis | 491 | Soon |
-| 22 | Small Vessel Vasculitis | 499 | Soon |
-| 23 | Henoch-Schonlein Purpura V/S Cryoglobulinemia | 509 | Soon |
-| 24 | Variable Vessel Vasculitis | 514 | Soon |
-| 25 | Basic Approach to Arthritis | 519 | Soon |
-| 26 | Rheumatoid Arthritis | 521 | Soon |
-| 27 | Spondyloarthritis | 532 | Soon |
-| 28 | Crystal Arthropathies | 543 | Soon |
-| 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | Soon |
-| 30 | Frontal Lobe | 555 | Soon |
-| 31 | Praxicons | 560 | Soon |
-| 32 | Temporal and Occipital Lobe | 563 | Soon |
-| 33 | Language V/S Speech | 566 | Soon |
-| 34 | Memory | 569 | Soon |
-| 35 | Dementia : Part 1 | 572 | Soon |
-| 36 | Dementia : Part 2 | 577 | Soon |
-| 37 | Parkinson's Disease | 583 | Soon |
-| 38 | Headache | 593 | Soon |
-| 39 | Seizure Semiology | 602 | Soon |
-| 40 | Generalised Tonic-Clonic Seizure | 608 | Soon |
-| 41 | CNS Infections | 613 | Soon |
-| 42 | LMN Approach : Part 1 | 618 | Soon |
-| 43 | LMN Approach : Part 2 | 624 | Soon |
-| 44 | Inherited Neuropathies | 627 | Soon |
-| 45 | Guillain-Barre Syndrome | 632 | Soon |
-| 46 | LMN Approach : Part 3 | 637 | Soon |
-| 47 | Muscular Dystrophies | 642 | Soon |
-| 48 | Myasthenia Gravis | 646 | Soon |
-| 49 | Amyotrophic Lateral Sclerosis | 650 | Soon |
-| 50 | Anatomy of Spinal Cord | 653 | Soon |
-| 51 | Diseases of Spinal Cord | 660 | Soon |
-| 52 | Multiple Sclerosis | 668 | Soon |
-| 53 | Vascular Anatomy of Brain | 674 | Soon |
-| 54 | Approach to UMN Lesion | 681 | Soon |
-| 55 | Approach to Stroke | 686 | Soon |
-| 56 | Brainstem Stroke | 691 | Soon |
-| 57 | Management of Stroke | 700 | Soon |
+| 9 | Introduction to ACS | 415 | **Live** |
+| 10 | ACS - Coronary Circulation | 425 | **Live** |
+| 11 | ACS - Evaluation and Management | 430 | **Live** |
+| 12 | Sjogren's Syndrome | 442 | **Live** |
+| 13 | IgG4 Related Disease | 449 | **Live** |
+| 14 | SLE - Basic Approach | 452 | **Live** |
+| 15 | SLE - Diagnosis | 455 | **Live** |
+| 16–57 | Remaining Volume 2 roadmap | 458–700 | Soon |

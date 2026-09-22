@@ -1,0 +1,1201 @@
+{
+  "chapter": 11,
+  "title": "ACS - Evaluation and Management",
+  "pageRange": "430-441",
+  "questions": [
+    {
+      "id": "MED-C11-01",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 430,
+      "fmt": "recall",
+      "q": "After fixed plaque rupture, which thrombus–clinical-syndrome pairing is correct in the source's older ACS flowchart?",
+      "opts": [
+        "Platelet-rich incomplete occlusion → chronic stable angina",
+        "Critical fibrin-rich occlusion → STEMI/STE-ACS",
+        "Incomplete platelet-rich occlusion → STEMI/STE-ACS",
+        "Critical fibrin-rich occlusion → unstable angina with normal enzymes"
+      ],
+      "ans": 1,
+      "exp": "The obsolete scheme maps critical fibrin-rich thrombus to STEMI/STE-ACS and incomplete platelet-rich thrombus to NSTE-ACS; normal enzymes mean unstable angina and raised enzymes NSTEMI. (Book p430)"
+    },
+    {
+      "id": "MED-C11-02",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 430,
+      "fmt": "recall",
+      "q": "What is the current universal definition of acute MI stated on the page?",
+      "opts": [
+        "ST elevation in a single ECG lead",
+        "A fixed plaque found on angiography",
+        "Myocardial injury plus or minus clinical evidence of myocardial ischaemia",
+        "Any chest pain with a positive stress test"
+      ],
+      "ans": 2,
+      "exp": "The page replaces the older model with myocardial injury ± clinical evidence of myocardial ischaemia. (Book p430)"
+    },
+    {
+      "id": "MED-C11-03",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 430,
+      "fmt": "numeric",
+      "q": "Which troponin pattern fulfils the page's definition of myocardial injury?",
+      "opts": [
+        "A stable value below the 50th percentile",
+        "Any isolated CK-MB elevation",
+        "One high troponin with no serial measurement",
+        "At least one value above the 99th percentile with an acute rise and fall"
+      ],
+      "ans": 3,
+      "exp": "Myocardial injury is cardiac troponin T/I with at least one value above the 99th percentile and an acute rise and fall. (Book p430)"
+    },
+    {
+      "id": "MED-C11-04",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 430,
+      "fmt": "scenario",
+      "q": "A septic ICU patient has elevated troponin without evidence of acute coronary ischaemia. Which category of cause is the page illustrating?",
+      "opts": [
+        "Non-cardiac cause of increased troponin",
+        "Type 1 plaque-rupture MI",
+        "Definite reinfarction",
+        "Chronic stable angina"
+      ],
+      "ans": 0,
+      "exp": "Non-cardiac causes listed include sepsis, subarachnoid haemorrhage, CKD, critical illness and pulmonary embolism. Cardiac causes include myocarditis, Takotsubo, defibrillator shocks, tachyarrhythmia and spasm/embolism/dissection. (Book p430)"
+    },
+    {
+      "id": "MED-C11-05",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 430,
+      "fmt": "scenario",
+      "q": "A patient with sustained tachyarrhythmia develops myocardial oxygen demand excess and troponin elevation. Which mechanism category is explicitly shown?",
+      "opts": [
+        "A false-positive assay",
+        "Increased oxygen demand",
+        "Plaque erosion with thrombosis",
+        "Chronic myocardial injury only"
+      ],
+      "ans": 1,
+      "exp": "The causes tree lists increased O2 demand from tachyarrhythmia and decreased supply from spasm, embolism or dissection. (Book p430)"
+    },
+    {
+      "id": "MED-C11-06",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 431,
+      "fmt": "recall",
+      "q": "Which clinical finding is one of the page's five forms of evidence for myocardial ischaemia?",
+      "opts": [
+        "Normal coronary angiography",
+        "Stable troponin without symptoms",
+        "Development of pathological Q waves",
+        "Isolated sinus tachycardia"
+      ],
+      "ans": 2,
+      "exp": "Clinical evidence listed: symptoms, new ECG changes, pathological Q waves, imaging evidence of new RWMA, and angiographic evidence of coronary thrombus. (Book p431)"
+    },
+    {
+      "id": "MED-C11-07",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 431,
+      "fmt": "recall",
+      "q": "Which MI subtype is defined by demand–supply mismatch, with ICU patients and severe anaemia given as examples?",
+      "opts": [
+        "Type 1 MI",
+        "Type 3 MI",
+        "Type 4 MI",
+        "Type 2 MI"
+      ],
+      "ans": 3,
+      "exp": "Type 1 is atherothrombotic occlusion; Type 2 is supply/demand mismatch (ICU patients, severe anaemia); Type 3 sudden cardiac death; Type 4 post-PCI; Type 5 post-CABG. (Book p431)"
+    },
+    {
+      "id": "MED-C11-08",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 431,
+      "fmt": "recall",
+      "q": "Which universal MI subtype is related to percutaneous coronary intervention?",
+      "opts": [
+        "Type 4",
+        "Type 2",
+        "Type 3",
+        "Type 5"
+      ],
+      "ans": 0,
+      "exp": "The list gives Type 4 as post-percutaneous coronary intervention and Type 5 as post-coronary artery bypass graft. (Book p431)"
+    },
+    {
+      "id": "MED-C11-09",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 431,
+      "fmt": "recall",
+      "q": "Ultra-sensitive troponin assays can detect enzyme elevation down to approximately which concentration in the source?",
+      "opts": [
+        "100 ng/mL",
+        "0.01 ng/mL",
+        "1 ng/mL",
+        "10 ng/mL"
+      ],
+      "ans": 1,
+      "exp": "The graph note says ultrasensitive troponin assays can detect as low as 0.01 ng/mL of enzyme elevation. (Book p431)"
+    },
+    {
+      "id": "MED-C11-10",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 431,
+      "fmt": "scenario",
+      "q": "A rising/falling troponin above the 99th-percentile URL occurs with acute ischaemia and plaque rupture/erosion. What diagnosis does the source flowchart assign?",
+      "opts": [
+        "Chronic myocardial injury",
+        "Myocarditis by definition",
+        "Acute myocardial infarction (Type 1 mechanism)",
+        "Acute myocardial injury without infarction"
+      ],
+      "ans": 2,
+      "exp": "Rise/fall with acute ischaemia is acute MI; the atherosclerosis/thrombosis arm is Type 1 (plaque rupture/erosion). Without acute ischaemia it is acute injury; stable troponin is chronic injury. (Book p431)"
+    },
+    {
+      "id": "MED-C11-11",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "page": 431,
+      "fmt": "scenario",
+      "q": "A stable troponin elevation in a patient with structural heart disease or chronic kidney disease is classified as:",
+      "opts": [
+        "Type 1 MI",
+        "Type 2 MI",
+        "Reinfarction",
+        "Chronic myocardial injury"
+      ],
+      "ans": 3,
+      "exp": "The stable-troponin branch is chronic myocardial injury and gives structural heart disease and CKD as examples. (Book p431)"
+    },
+    {
+      "id": "MED-C11-12",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 432,
+      "fmt": "numeric",
+      "q": "How does the page distinguish reinfarction from recurrence by timing?",
+      "opts": [
+        "Reinfarction within 28 days; recurrence after 28 days",
+        "Reinfarction after 90 days; recurrence within 90 days",
+        "Reinfarction within 24 hours; recurrence after one week",
+        "No time distinction is made"
+      ],
+      "ans": 0,
+      "exp": "The table defines reinfarction within 28 days and recurrence after 28 days. (Book p432)"
+    },
+    {
+      "id": "MED-C11-13",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 432,
+      "fmt": "numeric",
+      "q": "For suspected reinfarction/recurrence, what serial troponin change is requested by the source?",
+      "opts": [
+        "CK-MB elevation alone",
+        "More than 20% increase between immediate and 3–6-hour values",
+        "Any 5% rise at 24 hours",
+        "A fall of more than 50% over 7 days"
+      ],
+      "ans": 1,
+      "exp": "Two troponin values are obtained immediately and 3–6 h later; a >20% increase is specified. The table says no role for CPK-MB. (Book p432)"
+    },
+    {
+      "id": "MED-C11-14",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 432,
+      "fmt": "recall",
+      "q": "Which culprit-lesion process is most common and more associated with men and elevated cholesterol?",
+      "opts": [
+        "Spontaneous coronary dissection",
+        "Coronary vasculitis",
+        "Plaque rupture",
+        "Plaque erosion"
+      ],
+      "ans": 2,
+      "exp": "Plaque rupture is 60–70% (most common), associated with men and elevated cholesterol; erosion 30–40% is associated with younger females and smoking. (Book p432)"
+    },
+    {
+      "id": "MED-C11-15",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 432,
+      "fmt": "recall",
+      "q": "Which feature is part of the page's vulnerable-plaque profile?",
+      "opts": [
+        "Thick fibrous cap with abundant smooth muscle",
+        "Absent macrophage infiltration",
+        "Diffuse dense calcification only",
+        "Necrotic lipid core greater than 40%"
+      ],
+      "ans": 3,
+      "exp": "Vulnerable plaque features: thin cap, necrotic lipid core >40%, increased macrophages, reduced smooth-muscle cell content and spotty calcification. (Book p432)"
+    },
+    {
+      "id": "MED-C11-16",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 432,
+      "fmt": "scenario",
+      "q": "A chronically underperfused myocardium has reduced function but viable tissue on evaluation. Which term is correct?",
+      "opts": [
+        "Hibernating myocardium",
+        "Stunned myocardium",
+        "Irreversible scar",
+        "Acute myocarditis"
+      ],
+      "ans": 0,
+      "exp": "Hibernating myocardium is chronic, viable and has reduced function due to low perfusion; MRI should be used for evaluation. (Book p432)"
+    },
+    {
+      "id": "MED-C11-17",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 432,
+      "fmt": "scenario",
+      "q": "After relief of acute ischaemia, perfusion is restored but function remains reduced for several hours in viable tissue. Which term applies?",
+      "opts": [
+        "Papillary-muscle rupture",
+        "Stunned myocardium",
+        "Hibernating myocardium",
+        "Chronic myocardial injury"
+      ],
+      "ans": 1,
+      "exp": "Stunned myocardium is acute/post-ischaemic: restoring perfusion for a few hours precedes low function in viable tissue. (Book p432)"
+    },
+    {
+      "id": "MED-C11-18",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 433,
+      "fmt": "scenario",
+      "q": "A patient has rest angina lasting more than 20 minutes, new severe crescendo symptoms, ST depression/T inversion and elevated troponin. What diagnosis is most consistent?",
+      "opts": [
+        "Prinzmetal angina with normal enzymes",
+        "Acute pericarditis",
+        "NSTEMI",
+        "Stable angina"
+      ],
+      "ans": 2,
+      "exp": "NSTEMI features listed are rest angina >20 min, new-onset severe/crescendo angina, ST depression/T inversion and elevated troponin. (Book p433)"
+    },
+    {
+      "id": "MED-C11-19",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 433,
+      "fmt": "recall",
+      "q": "Which score determines mortality risk in NSTEMI according to this page?",
+      "opts": [
+        "CHA2DS2-VASc score",
+        "Wells score",
+        "MELD score",
+        "TIMI score"
+      ],
+      "ans": 3,
+      "exp": "The NSTEMI feature list states TIMI score determines mortality risk. (Book p433)"
+    },
+    {
+      "id": "MED-C11-20",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 433,
+      "fmt": "scenario",
+      "q": "An Indian patient in the source's typical NSTEMI age range presents with atypical symptoms; what sex pattern is stated for India?",
+      "opts": [
+        "Females more than males",
+        "Males more than females",
+        "Equal sex distribution",
+        "Only postmenopausal women"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation states age 40–50 in India (50–60 outside), females > males in India (reverse outside), vague symptoms in females and absent classic pain in diabetic patients. (Book p433)"
+    },
+    {
+      "id": "MED-C11-21",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "page": 433,
+      "fmt": "recall",
+      "q": "Significant ST depression in the page's examples is associated with which acute coronary syndrome?",
+      "opts": [
+        "Chronic stable angina",
+        "NSTEMI",
+        "STEMI only",
+        "Unstable angina with normal enzymes"
+      ],
+      "ans": 1,
+      "exp": "The lower ECG caption identifies significant ST depression as NSTEMI; the comparison example is non-significant ST depression. (Book p433)"
+    },
+    {
+      "id": "MED-C11-22",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 434,
+      "fmt": "recall",
+      "q": "Which chest-pain descriptor has the highest positive likelihood ratio for AMI in the source table?",
+      "opts": [
+        "Nausea or vomiting",
+        "Diaphoresis",
+        "Radiation to the right arm or shoulder",
+        "Pain described as pressure"
+      ],
+      "ans": 2,
+      "exp": "The table gives right arm/shoulder radiation 4.7 (0.9–12.0), both arms 4.1, exertion 2.4, left arm 2.3, diaphoresis 2.0, nausea/vomiting 1.9 and pressure 1.3. (Book p434)"
+    },
+    {
+      "id": "MED-C11-23",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 434,
+      "fmt": "scenario",
+      "q": "A middle-aged patient is woken by new chest pain and cannot return to sleep. How does the source frame this presentation?",
+      "opts": [
+        "Low-risk musculoskeletal pain",
+        "Classic reflux until proved otherwise",
+        "Definite Prinzmetal angina",
+        "Cardiac unless proved otherwise"
+      ],
+      "ans": 3,
+      "exp": "ACA note: new chest pain in middle-aged/elderly, night presentation or being forced awake and unable to sleep is ‘cardiac unless proved otherwise.’ (Book p434)"
+    },
+    {
+      "id": "MED-C11-24",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 434,
+      "fmt": "recall",
+      "q": "Which symptom is included as an angina equivalent?",
+      "opts": [
+        "Dyspnoea",
+        "Hemoptysis",
+        "Focal weakness",
+        "Haematemesis"
+      ],
+      "ans": 0,
+      "exp": "Angina equivalents listed are dyspnoea, fatigue, diaphoresis and atypical-site pain. (Book p434)"
+    },
+    {
+      "id": "MED-C11-25",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 434,
+      "fmt": "numeric",
+      "q": "The page gives which one-month mortality rate for care after reperfusion?",
+      "opts": [
+        "50%",
+        "5%",
+        "15%",
+        "30%"
+      ],
+      "ans": 1,
+      "exp": "Management continuum: pre-CCU morphine/sedation 30% one-month mortality; CCU beta-blocker/defibrillator 15%; reperfusion with thrombolysis/PCI 5%. (Book p434)"
+    },
+    {
+      "id": "MED-C11-26",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 434,
+      "fmt": "management",
+      "q": "Which two measures are listed under the source's reperfusion arm?",
+      "opts": [
+        "Beta-blockers and defibrillator only",
+        "Oral nitrates and statins only",
+        "Thrombolysis and percutaneous intervention",
+        "Morphine and sedation"
+      ],
+      "ans": 2,
+      "exp": "The source places thrombolysis and percutaneous intervention under reperfusion (since 1975). (Book p434)"
+    },
+    {
+      "id": "MED-C11-27",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 435,
+      "fmt": "recall",
+      "q": "What is the most common immediate lesion in STEMI/STE-ACS according to the page?",
+      "opts": [
+        "Slow-flow microvascular resistance",
+        "Chronic fixed noncritical plaque",
+        "Coronary venous thrombosis",
+        "Acute total occlusion due to plaque rupture"
+      ],
+      "ans": 3,
+      "exp": "STEMI salient feature: acute total occlusion due to plaque rupture (most common). (Book p435)"
+    },
+    {
+      "id": "MED-C11-28",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 435,
+      "fmt": "recall",
+      "q": "Which artery is listed as most commonly involved in STEMI?",
+      "opts": [
+        "Left anterior descending artery",
+        "Left circumflex artery",
+        "Right coronary artery",
+        "Posterior descending artery"
+      ],
+      "ans": 0,
+      "exp": "The artery list ranks LAD most common, then RCA, then LCx. (Book p435)"
+    },
+    {
+      "id": "MED-C11-29",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 435,
+      "fmt": "numeric",
+      "q": "What time window is called the ‘golden hours’ for progression of myocardial damage?",
+      "opts": [
+        "First 24 hours",
+        "First 6 hours",
+        "First 30 minutes",
+        "First 12 hours"
+      ],
+      "ans": 1,
+      "exp": "Golden hours are the first 6 h. After 6 h from pain onset, only one-sixth of myocardium remains viable in the source. (Book p435)"
+    },
+    {
+      "id": "MED-C11-30",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 435,
+      "fmt": "scenario",
+      "q": "Reperfusion is performed after 6 hours of chest pain. Which source-stated benefit remains the emphasis?",
+      "opts": [
+        "Eliminate the need for monitoring",
+        "Reverse chronic fibrosis immediately",
+        "Reduce pain and prevent electrical/mechanical complications",
+        "Salvage all myocardium at risk"
+      ],
+      "ans": 2,
+      "exp": "Before 6 h myocardium can be salvaged; after 6 h the stated aims are pain reduction and prevention of electrical/mechanical complications. (Book p435)"
+    },
+    {
+      "id": "MED-C11-31",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 435,
+      "fmt": "recall",
+      "q": "The central primary goal of PCI/lysis is expressed how on the mortality-salvage graph?",
+      "opts": [
+        "Suppressing every arrhythmia",
+        "Normalising troponin immediately",
+        "Avoiding all antiplatelets",
+        "Opening the artery"
+      ],
+      "ans": 3,
+      "exp": "The graph says opening the artery is the primary goal (PCI/lysis) and time to treatment is critical for mortality/salvage. (Book p435)"
+    },
+    {
+      "id": "MED-C11-32",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "recall",
+      "q": "Which is listed as a determinant of salvageable myocardium?",
+      "opts": [
+        "Collateral circulation",
+        "Baseline LDL alone",
+        "Serum sodium",
+        "Left atrial size"
+      ],
+      "ans": 0,
+      "exp": "Determinants listed are collaterals, myocardial oxygen demand and ischaemic preconditioning. (Book p436)"
+    },
+    {
+      "id": "MED-C11-33",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "recall",
+      "q": "What principle is emphasised above the STEMI target-time flowchart?",
+      "opts": [
+        "ECG may be deferred until after transfer",
+        "Reopening the artery matters more than the mode of reperfusion",
+        "Thrombolysis is always superior to PCI",
+        "Only pharmacotherapy determines salvage"
+      ],
+      "ans": 1,
+      "exp": "The source specifically notes reopening the artery is more important than the mode of reperfusion. (Book p436)"
+    },
+    {
+      "id": "MED-C11-34",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "numeric",
+      "q": "From chest pain to first medical contact, what target is printed?",
+      "opts": [
+        "Less than 60 minutes",
+        "Less than 120 minutes",
+        "Less than 10 minutes",
+        "Less than 30 minutes"
+      ],
+      "ans": 2,
+      "exp": "The flowchart sets first medical contact <10 min and defines it as medical/paramedical staff able to take/interpret ECG and use a defibrillator. (Book p436)"
+    },
+    {
+      "id": "MED-C11-35",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "scenario",
+      "q": "A 24-hour PCI centre is available and diagnosis-to-wire-crossing time can be below 60 minutes. What route does the source direct?",
+      "opts": [
+        "Immediate thrombolysis only",
+        "Wait for 24-hour serial biomarkers",
+        "Outpatient stress testing",
+        "Wire crossing within 90 minutes (with 30 minutes allowed for transfer)"
+      ],
+      "ans": 3,
+      "exp": "If a 24-hour PCI centre is available and diagnosis-to-wire crossing <60 min, wire crossing is to be done within 90 min (+30 min transfer). (Book p436)"
+    },
+    {
+      "id": "MED-C11-36",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "scenario",
+      "q": "A patient cannot be shifted to a PCI centre within 120 minutes. What reperfusion option and time are specified?",
+      "opts": [
+        "Thrombolysis within 10 minutes with tenecteplase or reteplase",
+        "Delayed PCI after 48 hours only",
+        "Aspirin alone for 24 hours",
+        "IV beta-blockade only"
+      ],
+      "ans": 0,
+      "exp": "If timely transfer is not possible, thrombolysis within 10 min with tenecteplase or reteplase is shown, then transfer to a PCI centre. (Book p436)"
+    },
+    {
+      "id": "MED-C11-37",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "scenario",
+      "q": "After lysis, ST resolution at 60–90 minutes is below 70%. Which next step is listed?",
+      "opts": [
+        "Permanent anticoagulation alone",
+        "Rescue/emergency PCI",
+        "Routine discharge",
+        "No further intervention because lysis is successful"
+      ],
+      "ans": 1,
+      "exp": "ST resolution >70% is successful and leads to pharmaco-invasive PCI; <70% is unsuccessful and calls for rescue/emergency PCI. (Book p436)"
+    },
+    {
+      "id": "MED-C11-38",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "page": 436,
+      "fmt": "numeric",
+      "q": "Following successful thrombolysis, the pharmaco-invasive approach schedules PCI within:",
+      "opts": [
+        "48–72 hours",
+        "One week",
+        "2–24 hours",
+        "30 minutes"
+      ],
+      "ans": 2,
+      "exp": "Successful lysis is followed by PCI within 2–24 hours to prevent recurrence of thrombus formation. (Book p436)"
+    },
+    {
+      "id": "MED-C11-39",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "recall",
+      "q": "Which thrombolytic is non-fibrin-specific, antigenic, and has the lowest source-listed risk of intracranial haemorrhage?",
+      "opts": [
+        "Tenecteplase",
+        "Reteplase",
+        "Alteplase",
+        "Streptokinase"
+      ],
+      "ans": 3,
+      "exp": "Streptokinase is non-specific, 50% potent, antigenic, has lowest ICH risk and is 1.5 million U in 100 mL NS over 1 hour. (Book p437)"
+    },
+    {
+      "id": "MED-C11-40",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "recall",
+      "q": "Which thrombolytic is described as having maximal fibrin specificity and highest fibrin selectivity?",
+      "opts": [
+        "Tenecteplase",
+        "Streptokinase",
+        "Reteplase",
+        "Alteplase"
+      ],
+      "ans": 0,
+      "exp": "Tenecteplase is specific (max), 75% potent, half-life 10–12 min, dose 0.5 mg/kg, and highest fibrin selectivity. (Book p437)"
+    },
+    {
+      "id": "MED-C11-41",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "numeric",
+      "q": "What reteplase regimen is printed in the agent table?",
+      "opts": [
+        "20 mg/kg over 10 minutes",
+        "10 U in two doses 30 minutes apart",
+        "0.5 mg/kg as a single bolus",
+        "1.5 million U over one hour"
+      ],
+      "ans": 1,
+      "exp": "Reteplase is specific, 80% potent and dosed 10 U ×2, 30 min apart. (Book p437)"
+    },
+    {
+      "id": "MED-C11-42",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "recall",
+      "q": "What characteristic distinguishes alteplase in the table?",
+      "opts": [
+        "Highest potency of 100%",
+        "Mandatory two 10-U doses",
+        "Very short half-life of 4–8 minutes",
+        "Non-specific fibrin action"
+      ],
+      "ans": 2,
+      "exp": "Alteplase is specific, 75% potent and has a very short 4–8 minute half-life. (Book p437)"
+    },
+    {
+      "id": "MED-C11-43",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "scenario",
+      "q": "Within the first hour of ACS, how does the source compare thrombolysis with PCI for effect?",
+      "opts": [
+        "Thrombolysis is always superior",
+        "PCI has no role",
+        "Neither should be used",
+        "Their effect is considered comparable"
+      ],
+      "ans": 3,
+      "exp": "The source states effect within 1 h of ACS: thrombolysis = PCI, while PCI is otherwise more superior and mandatory after thrombolysis. (Book p437)"
+    },
+    {
+      "id": "MED-C11-44",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "recall",
+      "q": "What is the source’s timing comparison for thrombolysis?",
+      "opts": [
+        "Benefits exceed risk within 6–12 h; risk exceeds benefits after 12 h",
+        "Benefits begin only after 24 h",
+        "Risk always exceeds benefit",
+        "Only the first 15 minutes are useful"
+      ],
+      "ans": 0,
+      "exp": "Thrombolysis benefits > risk within 6–12 h, risk > benefit after 12 h; pre-hospital lysis is noted to have a great outcome. (Book p437)"
+    },
+    {
+      "id": "MED-C11-45",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "numeric",
+      "q": "Which initial aspirin dose and formulation are listed for thrombolysis?",
+      "opts": [
+        "81 mg slow-release aspirin",
+        "325 mg non-enteric chewable aspirin",
+        "75 mg enteric-coated aspirin",
+        "600 mg IV aspirin"
+      ],
+      "ans": 1,
+      "exp": "Loading-dose section gives aspirin 325 mg, non-enteric chewable; statins: atorvastatin 40–80 mg or rosuvastatin 20–40 mg. (Book p437)"
+    },
+    {
+      "id": "MED-C11-46",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 437,
+      "fmt": "scenario",
+      "q": "An IWMI patient is bradycardic after a proximal RCA lesion and shows V1–V2 discordance. Which associated diagnosis is noted?",
+      "opts": [
+        "Anterior STEMI",
+        "Pericarditis",
+        "RVMI",
+        "LV aneurysm"
+      ],
+      "ans": 2,
+      "exp": "Note: RVMI has hypotension, clear lung and raised JVP; IWMI has bradycardia due to proximal occlusion and V1–V2 discordance. (Book p437)"
+    },
+    {
+      "id": "MED-C11-47",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "numeric",
+      "q": "What clopidogrel loading dose is stated for an adult undergoing thrombolysis?",
+      "opts": [
+        "75 mg",
+        "600 mg",
+        "60 mg",
+        "300 mg"
+      ],
+      "ans": 3,
+      "exp": "For thrombolysis: clopidogrel 300 mg adult dose; age >75 receives 75 mg, with blood-cholesterol monitoring at 3–6 months. (Book p438)"
+    },
+    {
+      "id": "MED-C11-48",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "recall",
+      "q": "For PCI, which P2Y12 loading strategy is marked ‘best’ on the page?",
+      "opts": [
+        "Ticagrelor 180 mg",
+        "Clopidogrel 300 mg",
+        "Prasugrel 10 mg",
+        "Aspirin 75 mg"
+      ],
+      "ans": 0,
+      "exp": "PCI section: aspirin/statin same dose; ticagrelor 180 mg best, clopidogrel 600 mg, prasugrel 60 mg. (Book p438)"
+    },
+    {
+      "id": "MED-C11-49",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "recall",
+      "q": "What two flow goals define the stated aim of PCI?",
+      "opts": [
+        "No ST change and zero troponin",
+        "TIMI 3 epicardial flow and MPG 3 microvascular flow",
+        "TIMI 1 and MPG 1 to prevent bleeding",
+        "Normal venous flow and lymphatic drainage"
+      ],
+      "ans": 1,
+      "exp": "PCI aim is restore normal epicardial coronary flow (TIMI 3) and attain normal microvascular flow (MPG 3). (Book p438)"
+    },
+    {
+      "id": "MED-C11-50",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "scenario",
+      "q": "After thrombolysis a patient develops hypotension and bradycardia. What does the source interpret this combination as?",
+      "opts": [
+        "Cardiogenic shock by definition",
+        "Failed thrombolysis",
+        "Vessel reopening",
+        "Noncompliance/allergic reaction"
+      ],
+      "ans": 2,
+      "exp": "Post-lysis hypotension + bradycardia indicates vessels reopening; hypertension + tachycardia suggests noncompliance/allergic reaction. (Book p438)"
+    },
+    {
+      "id": "MED-C11-51",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "scenario",
+      "q": "Post-lysis blood pressure is low and prognosis is poor. Which cause–action pairing is correct?",
+      "opts": [
+        "Hypovolaemia → intra-aortic balloon pump",
+        "Cardiogenic shock → assess IVC diameter only",
+        "Successful lysis → increase plaque contact",
+        "RVMI (IWMI) → IV fluids"
+      ],
+      "ans": 3,
+      "exp": "Low BP causes listed: hypovolaemia → assess IVC; RVMI (IWMI) → IV fluids; cardiogenic shock → intra-aortic balloon pump. (Book p438)"
+    },
+    {
+      "id": "MED-C11-52",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "management",
+      "q": "Why are anticoagulants continued after thrombolysis according to the flowchart?",
+      "opts": [
+        "Raw plaque areas are exposed and recurrence must be prevented",
+        "They dissolve chronic calcification",
+        "They replace antiplatelet therapy entirely",
+        "They treat U waves"
+      ],
+      "ans": 0,
+      "exp": "Prevention of recurrence: post-thrombolysis raw areas exposed → anticoagulants. LMWH: enoxaparin 30 mg bolus plus 1 mg/kg SC BD until revascularisation/8 days; UFH also listed. (Book p438)"
+    },
+    {
+      "id": "MED-C11-53",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 438,
+      "fmt": "recall",
+      "q": "Within what timeframe does the note say young thrombus responds better to lysis?",
+      "opts": [
+        "One week",
+        "1–2 hours",
+        "6–12 hours",
+        "24–48 hours"
+      ],
+      "ans": 1,
+      "exp": "Young thrombus responds better if lysed within 1–2 h; if primary PCI cannot be performed after STEMI diagnosis, fibrinolytic therapy is recommended within 12 h. (Book p438)"
+    },
+    {
+      "id": "MED-C11-54",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 439,
+      "fmt": "recall",
+      "q": "Which agents are the GP IIb–IIIa inhibitors listed for downstream bailout therapy?",
+      "opts": [
+        "Tenecteplase, reteplase and alteplase",
+        "Metoprolol, enalapril and statin",
+        "Abciximab, tirofiban and eptifibatide",
+        "Aspirin, clopidogrel and ticagrelor"
+      ],
+      "ans": 2,
+      "exp": "GP IIb–IIIa inhibitors are abciximab, tirofiban, eptifibatide; use is downstream bailout in cath lab if no TIMI 3/MPG 3 flow or high thrombus burden. (Book p439)"
+    },
+    {
+      "id": "MED-C11-55",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 439,
+      "fmt": "recall",
+      "q": "When initiated within the first 24 hours, which two drug classes are stated to confer survival advantage?",
+      "opts": [
+        "Nitrates and calcium-channel blockers",
+        "Fibrates and diuretics",
+        "GP IIb–IIIa inhibitors and digoxin",
+        "ACE inhibitors and beta-blockers"
+      ],
+      "ans": 3,
+      "exp": "ACE inhibitors/beta-blockers have survival advantage if started within first 24 h, but are avoided with heart-failure signs/low-output state. (Book p439)"
+    },
+    {
+      "id": "MED-C11-56",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 439,
+      "fmt": "scenario",
+      "q": "A PCI centre is available for a STEMI patient. Which initial regimen matches the source algorithm?",
+      "opts": [
+        "Aspirin 325 mg, ticagrelor 180 mg or clopidogrel 600 mg, and rosuvastatin 40 mg",
+        "Clopidogrel 75 mg alone and delayed statin",
+        "Tenecteplase 0.5 mg/kg before angiography in all cases",
+        "Aspirin 75 mg only"
+      ],
+      "ans": 0,
+      "exp": "Available PCI centre branch lists aspirin 325 mg, ticagrelor 180 mg or clopidogrel 600 mg, rosuvastatin 40 mg, then cath lab. (Book p439)"
+    },
+    {
+      "id": "MED-C11-57",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 439,
+      "fmt": "scenario",
+      "q": "No PCI centre is available. Which thrombolysis branch is printed?",
+      "opts": [
+        "Prasugrel 10 mg only",
+        "Clopidogrel 300 mg plus tenecteplase 0.5 mg/kg, then repeat ECG in 60–90 min",
+        "Ticagrelor 90 mg BD without reperfusion",
+        "Aspirin 75 mg and observe"
+      ],
+      "ans": 1,
+      "exp": "No-centre branch: thrombolysis with clopidogrel 300 mg + tenecteplase 0.5 mg/kg, repeat ECG after 60–90 min, then enoxaparin 30 mg IV and pharmaco-invasive/rescue PCI. (Book p439)"
+    },
+    {
+      "id": "MED-C11-58",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 439,
+      "fmt": "recall",
+      "q": "After normal TIMI 3 and MPG 3 flow, which long-term schedule is shown?",
+      "opts": [
+        "Ticagrelor 180 mg lifelong without aspirin",
+        "Warfarin only for one month",
+        "Rosuvastatin 20 mg and aspirin 75 mg lifelong; clopidogrel 75 mg for one year",
+        "All drugs stopped at discharge"
+      ],
+      "ans": 2,
+      "exp": "CCU/discharge box: rosuvastatin 20 mg lifelong, aspirin 75 mg lifelong, clopidogrel 75 mg ×1 year. (Book p439)"
+    },
+    {
+      "id": "MED-C11-59",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 439,
+      "fmt": "oddoneout",
+      "q": "Which item is NOT listed as a contraindication to thrombolysis on the page?",
+      "opts": [
+        "Intracranial haemorrhage or structural cerebrovascular mass",
+        "Stroke within three months (except acute stroke within 4.5 h)",
+        "Severe uncontrolled hypertension",
+        "Uncomplicated remote appendicectomy ten years ago"
+      ],
+      "ans": 3,
+      "exp": "Contraindications include intracranial haemorrhage/structural mass, recent stroke, bleeding disorder/aortic dissection, recent severe head/facial trauma, intracranial/intraspinal surgery, uncontrolled HTN, and recent streptokinase use. (Book p439)"
+    },
+    {
+      "id": "MED-C11-60",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "scenario",
+      "q": "An RVMI patient is hypotensive with elevated JVP and clear lungs. Which hemodynamic treatment appears on the STEMI-complication page?",
+      "opts": [
+        "Intravenous fluids",
+        "Aggressive nitrate infusion",
+        "Immediate diuresis",
+        "Fluid restriction"
+      ],
+      "ans": 0,
+      "exp": "Hemodynamic complication: RVMI hypotension presents with raised JVP and clear lungs; management is IV fluids. (Book p440)"
+    },
+    {
+      "id": "MED-C11-61",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "numeric",
+      "q": "How much myocardial damage is associated with acute LV failure in the source complication chart?",
+      "opts": [
+        "About 75%",
+        "About 25%",
+        "About 5%",
+        "About 40%"
+      ],
+      "ans": 1,
+      "exp": "Acute LVF is linked to 25% myocardial damage and proximal LAD lesion; cardiogenic shock to 40% damage/proximal LAD. (Book p440)"
+    },
+    {
+      "id": "MED-C11-62",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "recall",
+      "q": "Which lesion–electrical-complication pair is correct?",
+      "opts": [
+        "Proximal LAD lesion → isolated atrial flutter",
+        "LCx lesion → no electrical complication",
+        "RCA lesion → atrial arrhythmias",
+        "RCA lesion → ventricular fibrillation only"
+      ],
+      "ans": 2,
+      "exp": "Electrical complications: RCA lesion → atrial arrhythmias; proximal LAD lesion → VT/VF. (Book p440)"
+    },
+    {
+      "id": "MED-C11-63",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "scenario",
+      "q": "Three to five days after MI, a patient develops pain and a new murmur at the left lower sternal border with a thrill. Which mechanical complication is described?",
+      "opts": [
+        "Free-wall rupture",
+        "Acute MR from papillary muscle",
+        "Dressler syndrome",
+        "Septal rupture"
+      ],
+      "ans": 3,
+      "exp": "Septal rupture is described as rare, after 3–5 days, with pain, new LLSB murmur and thrill. (Book p440)"
+    },
+    {
+      "id": "MED-C11-64",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "scenario",
+      "q": "Sudden pulseless electrical activity with no BP/pulse and tamponade after infarction is most suggestive of:",
+      "opts": [
+        "Free-wall rupture",
+        "Ventricular septal rupture",
+        "Acute RVMI",
+        "Unstable angina"
+      ],
+      "ans": 0,
+      "exp": "Free-wall rupture causes electromechanical dissociation/PEA, no BP/no pulse and tamponade, with poor prognosis. (Book p440)"
+    },
+    {
+      "id": "MED-C11-65",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "scenario",
+      "q": "Acute pulmonary oedema after an RCA infarct is attributed to involvement of which structure?",
+      "opts": [
+        "Interventricular septum alone",
+        "Posteromedial papillary muscle causing acute MR",
+        "Anterolateral papillary muscle only",
+        "SA node"
+      ],
+      "ans": 1,
+      "exp": "Acute MR: RCA involvement affects posteromedial papillary muscle and presents as acute pulmonary oedema. (Book p440)"
+    },
+    {
+      "id": "MED-C11-66",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 440,
+      "fmt": "recall",
+      "q": "Why does the page state thrombolytics have no role in NSTEMI?",
+      "opts": [
+        "All NSTEMI cases have normal ECGs",
+        "Thrombolysis cannot affect fibrin",
+        "The thrombus is platelet-rich with reduced fibrin content",
+        "NSTEMI has no thrombus"
+      ],
+      "ans": 2,
+      "exp": "NSTEMI pathogenesis is plaque rupture in elderly/comorbid people with critical/subtotal occlusion, ST/T changes, platelet-rich thrombus and decreased fibrin, so no thrombolytic role. (Book p440)"
+    },
+    {
+      "id": "MED-C11-67",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 441,
+      "fmt": "scenario",
+      "q": "Chest pain has increased in nature, duration beyond 20 minutes and frequency and is not relieved by nitrates or rest. Which presentation is being described?",
+      "opts": [
+        "Chronic stable angina",
+        "Prinzmetal angina",
+        "Pericarditis",
+        "NSTE-ACS/unstable angina spectrum"
+      ],
+      "ans": 3,
+      "exp": "Clinical presentation on p441 describes increasing nature/duration (>20 min)/frequency and pain not relieved by nitrates/rest. (Book p441)"
+    },
+    {
+      "id": "MED-C11-68",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 441,
+      "fmt": "management",
+      "q": "Which initial treatment bundle is listed for NSTE-ACS on this page?",
+      "opts": [
+        "Oxygen if SpO2 <90%, aspirin 325 mg, rosuvastatin 40 mg, SL nitrate and morphine",
+        "Routine thrombolysis and discharge",
+        "Only beta-blocker without antiplatelet",
+        "High-dose diuretic and no ECG"
+      ],
+      "ans": 0,
+      "exp": "Treatment: O2 if SpO2<90%, aspirin 325 mg chewable non-enteric, rosuvastatin 40 mg, SL nitrate 5 mg repeated three times, morphine, PCI within 24 h (high risk within 2 h). (Book p441)"
+    },
+    {
+      "id": "MED-C11-69",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 441,
+      "fmt": "recall",
+      "q": "What is the source’s treatment of choice in its NSTE-ACS ‘landmark changes’ note?",
+      "opts": [
+        "Long-term nitrate alone",
+        "PCI",
+        "Routine thrombolysis",
+        "Streptokinase only"
+      ],
+      "ans": 1,
+      "exp": "Landmark changes list intervention-based guideline: PCI TOC; angiography within 24 h (high risk 2 h), with P2Y12 inhibitor in cath lab. (Book p441)"
+    },
+    {
+      "id": "MED-C11-70",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 441,
+      "fmt": "recall",
+      "q": "Which peri-interventional enoxaparin dose is written for NSTE-ACS before reaching the cath lab?",
+      "opts": [
+        "1 mg/kg SC once daily",
+        "No anticoagulant before cath lab",
+        "0.5 mg/kg bolus",
+        "30 mg fixed IV dose"
+      ],
+      "ans": 2,
+      "exp": "Peri-interventional anticoagulation: enoxaparin 0.5 mg/kg bolus until cath lab. (Book p441)"
+    },
+    {
+      "id": "MED-C11-71",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 441,
+      "fmt": "recall",
+      "q": "Which P2Y12 loading dose is given for prasugrel in the NSTE-ACS cath-lab list?",
+      "opts": [
+        "10 mg",
+        "75 mg",
+        "180 mg",
+        "60 mg"
+      ],
+      "ans": 3,
+      "exp": "Cath-lab loading options: prasugrel 60 mg, ticagrelor 180 mg, or clopidogrel 600 mg. (Book p441)"
+    },
+    {
+      "id": "MED-C11-72",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "page": 441,
+      "fmt": "recall",
+      "q": "After discharge, which source schedule is stated for dual antiplatelet therapy?",
+      "opts": [
+        "Ticagrelor 90 mg BD for one year, or clopidogrel 75 mg OD for one year, or prasugrel 10 mg for one year",
+        "Ticagrelor 180 mg BD lifelong",
+        "Clopidogrel 600 mg weekly",
+        "No antiplatelet after PCI"
+      ],
+      "ans": 0,
+      "exp": "After discharge: aspirin 75 mg lifelong, rosuvastatin 20 mg lifelong, and ticagrelor 90 mg BD ×1 y or clopidogrel 75 mg OD ×1 y or prasugrel 10 mg ×1 y (best). (Book p441)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U11-1",
+      "ch": 11,
+      "n": 1,
+      "title": "1. Universal MI Definition, Injury & MI Types",
+      "sec": "Universal MI Definition, Injury & MI Types",
+      "guide": "The obsolete plaque-only model is contrasted with the current injury-plus-ischaemia definition.\nTroponin kinetics and non-ischaemic causes are separated from acute MI.\nUniversal MI subtypes follow immediately after the diagnostic framework.",
+      "qs": [
+        "MED-C11-01",
+        "MED-C11-02",
+        "MED-C11-03",
+        "MED-C11-04",
+        "MED-C11-05",
+        "MED-C11-06",
+        "MED-C11-07",
+        "MED-C11-08",
+        "MED-C11-09",
+        "MED-C11-10",
+        "MED-C11-11"
+      ]
+    },
+    {
+      "id": "MED-U11-2",
+      "ch": 11,
+      "n": 2,
+      "title": "2. Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "sec": "Reinfarction, Vulnerable Plaque & NSTEMI Recognition",
+      "guide": "Timing differentiates reinfarction from recurrence.\nCulprit pathology and plaque morphology are then ordered before NSTEMI features.\nSource-specific prevalence and demographic statements are preserved.",
+      "qs": [
+        "MED-C11-12",
+        "MED-C11-13",
+        "MED-C11-14",
+        "MED-C11-15",
+        "MED-C11-16",
+        "MED-C11-17",
+        "MED-C11-18",
+        "MED-C11-19",
+        "MED-C11-20",
+        "MED-C11-21"
+      ]
+    },
+    {
+      "id": "MED-U11-3",
+      "ch": 11,
+      "n": 3,
+      "title": "3. Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "sec": "Acute Chest Pain, STEMI Salvage & Reperfusion Timing",
+      "guide": "Likelihood features of chest pain precede the treatment-mortality timeline.\nSTEMI pathophysiology is tied to time-dependent salvage.\nThe page’s ESC target-time flowchart is represented as decision scenarios.",
+      "qs": [
+        "MED-C11-22",
+        "MED-C11-23",
+        "MED-C11-24",
+        "MED-C11-25",
+        "MED-C11-26",
+        "MED-C11-27",
+        "MED-C11-28",
+        "MED-C11-29",
+        "MED-C11-30",
+        "MED-C11-31",
+        "MED-C11-32",
+        "MED-C11-33",
+        "MED-C11-34",
+        "MED-C11-35",
+        "MED-C11-36",
+        "MED-C11-37",
+        "MED-C11-38"
+      ]
+    },
+    {
+      "id": "MED-U11-4",
+      "ch": 11,
+      "n": 4,
+      "title": "4. Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "sec": "Thrombolysis, PCI, Antithrombotics & STEMI Complications",
+      "guide": "Agent properties, comparative timing and loading doses are kept separate.\nPost-lysis physiological changes guide interpretation and anticoagulation.\nMechanical, electrical and NSTE-ACS management follow source order.",
+      "qs": [
+        "MED-C11-39",
+        "MED-C11-40",
+        "MED-C11-41",
+        "MED-C11-42",
+        "MED-C11-43",
+        "MED-C11-44",
+        "MED-C11-45",
+        "MED-C11-46",
+        "MED-C11-47",
+        "MED-C11-48",
+        "MED-C11-49",
+        "MED-C11-50",
+        "MED-C11-51",
+        "MED-C11-52",
+        "MED-C11-53",
+        "MED-C11-54",
+        "MED-C11-55",
+        "MED-C11-56",
+        "MED-C11-57",
+        "MED-C11-58",
+        "MED-C11-59",
+        "MED-C11-60",
+        "MED-C11-61",
+        "MED-C11-62",
+        "MED-C11-63",
+        "MED-C11-64",
+        "MED-C11-65",
+        "MED-C11-66",
+        "MED-C11-67",
+        "MED-C11-68",
+        "MED-C11-69",
+        "MED-C11-70",
+        "MED-C11-71",
+        "MED-C11-72"
+      ]
+    }
+  ]
+}
