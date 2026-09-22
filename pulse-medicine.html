@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0e0a14">
+<title>PULSE · Medicine Vol 2 — Marrow Edition 8 Companion (p377-702)</title>
+<style>
+  :root{
+    --bg:#0e0a14; --card:#1c1528; --card2:#251c34; --line:#3d3156;
+    --txt:#f7f2fc; --mut:#a898bf; --pink:#e0607e; --gold:#d4a85a;
+    --teal:#5fd0b5; --good:#3ddc84; --bad:#ff5d6c;
+    --serif:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,'Times New Roman',serif;
+    --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  html{color-scheme:dark; scroll-behavior:smooth;}
+  body{margin:0; font-family:var(--sans); color:var(--txt); min-height:100vh;
+    background:
+      radial-gradient(920px 460px at 50% -120px,#3a2154 0%,transparent 62%),
+      radial-gradient(640px 280px at 100% 110%,#1a1230 0%,transparent 55%),
+      var(--bg);
+    padding-bottom:env(safe-area-inset-bottom);}
+  .wrap{max-width:620px; margin:0 auto; padding:0 18px 88px;}
+  header.top{position:sticky; top:0; z-index:20; display:flex; align-items:center; gap:10px;
+    padding:12px 16px; max-width:620px; margin:0 auto;
+    background:#0e0a14d9; backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px);
+    border-bottom:1px solid var(--line);}
+  header.top .brand{font-weight:800; font-size:18px; letter-spacing:.2px; flex:1;}
+  header.top .back{font-size:26px; cursor:pointer; color:var(--mut); padding:2px 8px 2px 0; line-height:1;}
+  .hstat{font-weight:800; font-size:12.5px; white-space:nowrap;
+    background:var(--card); border:1px solid var(--line); padding:6px 10px; border-radius:999px;}
+  .hidden{display:none !important;}
+  .hero{background:linear-gradient(165deg,#3c2550 0%,#221830 58%,#1a1326 100%);
+    border:1px solid var(--line); border-radius:24px; padding:28px 22px; margin:16px 0;
+    box-shadow:0 18px 40px #0004;}
+  .hero .kick{font-size:11px; letter-spacing:2.6px; color:var(--gold); font-weight:800;}
+  .hero h1{font-family:var(--serif); font-size:44px; margin:8px 0 10px; line-height:1.02; letter-spacing:-.6px;}
+  .hero p{color:#d4c8e6; font-size:15px; line-height:1.55; margin:0 0 12px;}
+  .hero a{color:var(--pink); font-weight:700; text-decoration:none; font-size:15px; cursor:pointer;}
+  .stats{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin:0 0 12px;}
+  .stat{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px 6px; text-align:center;}
+  .stat b{font-size:22px; display:block; letter-spacing:-.3px;} .stat span{font-size:11.5px; color:var(--mut);}
+  .btn{display:block; width:100%; margin-top:12px; padding:15px; font-size:16px; font-weight:800;
+    color:#1a0f14; background:linear-gradient(135deg,#f0788f,var(--pink)); border:0; border-radius:14px;
+    cursor:pointer; letter-spacing:.2px; touch-action:manipulation;}
+  .btn:active{transform:scale(.98);}
+  .btn.ghost{background:transparent; color:var(--txt); border:1.5px solid var(--line);}
+  .btn.gold{background:linear-gradient(135deg,#e8c070,var(--gold)); color:#1d1405;}
+  h2.page{font-family:var(--serif); font-size:30px; margin:18px 0 2px; letter-spacing:-.3px;}
+  p.sub{color:var(--mut); margin:0 0 14px; font-size:14px;}
+  .chrow{display:flex; align-items:center; gap:12px; background:var(--card); border:1px solid var(--line);
+    border-radius:16px; padding:14px; margin:10px 0; cursor:pointer; transition:border-color .15s, transform .15s;}
+  .chrow:not(.locked):hover{border-color:#6a5488; transform:translateY(-1px);}
+  .chrow.locked{opacity:.45; cursor:default;}
+  .chnum{min-width:44px; height:44px; border-radius:13px; display:grid; place-items:center;
+    font-weight:800; font-size:17px; background:linear-gradient(135deg,#d96a84,#b34a62); color:#fff;}
+  .chrow.locked .chnum{background:#3a2f4d; color:var(--mut);}
+  .chrow .t{flex:1; font-weight:700; font-size:15.5px; line-height:1.35;}
+  .chrow .u{font-size:12.5px; color:var(--teal); white-space:nowrap; font-weight:700;}
+  .chrow.locked .u{color:var(--mut);}
+  .pathsec{text-align:center; color:var(--mut); font-size:11px; letter-spacing:2.5px; margin:26px 0 6px;
+    display:flex; align-items:center; gap:10px; font-weight:700;}
+  .pathsec::before,.pathsec::after{content:""; flex:1; height:1px; background:var(--line);}
+  .node{display:flex; flex-direction:column; align-items:center; position:relative; padding:10px 0 4px;}
+  .node:not(:last-child)::after{content:""; width:3px; height:26px; margin-top:10px; border-radius:2px;
+    background:repeating-linear-gradient(180deg,var(--line) 0 5px,transparent 5px 10px);}
+  .ball{width:86px; height:86px; border-radius:50%; display:grid; place-items:center;
+    font-size:30px; font-weight:800; cursor:pointer; border:4px solid transparent;}
+  .ball.done{background:#1d3a2a; border-color:var(--good); color:var(--good); font-size:32px;}
+  .ball.current{background:radial-gradient(circle at 35% 30%,#e8c070,var(--gold) 70%);
+    color:#fff; box-shadow:0 0 0 6px #d4a85a33, 0 8px 24px #d4a85a55; animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 6px #d4a85a33;}50%{box-shadow:0 0 0 12px #d4a85a18;}}
+  .ball.locked{background:#241c33; border-color:#171224; color:#6f6386; cursor:default; font-size:30px;}
+  .ntitle{margin-top:8px; font-weight:700; font-size:14.5px; text-align:center; max-width:230px; line-height:1.35;}
+  .ncount{font-size:12px; color:var(--mut); margin-top:2px;}
+  .guide{background:linear-gradient(180deg,#2a203c,var(--card)); border:1px solid var(--line);
+    border-radius:22px; padding:24px 22px; margin-top:16px; box-shadow:0 18px 40px #0004;}
+  .guide .kick{font-size:11px; letter-spacing:2px; color:var(--gold); font-weight:800;}
+  .guide h2{font-family:var(--serif); font-size:26px; margin:8px 0 10px; line-height:1.25;}
+  .guide p{color:#d8cde9; line-height:1.65; font-size:15.5px;}
+  .gfrow{display:flex; flex-wrap:wrap; gap:6px; margin:4px 0 10px;}
+  .chip{font-size:11px; font-weight:800; letter-spacing:.4px; color:#e8dff5;
+    border:1px solid var(--line); background:#2a213c; border-radius:999px; padding:4px 10px;}
+  .qmeta{display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-top:14px;}
+  .qcount{font-size:11px; letter-spacing:2px; color:var(--mut); font-weight:800;}
+  .qhud{display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end;}
+  .qhud span{font-size:11.5px; font-weight:800; color:#dccff0; background:var(--card);
+    border:1px solid var(--line); border-radius:999px; padding:4px 8px;}
+  .qbar{height:8px; background:var(--card2); border:1px solid var(--line); border-radius:999px; overflow:hidden; margin:10px 0 8px;}
+  .qbar i{display:block; height:100%; width:0; border-radius:inherit;
+    background:linear-gradient(90deg,#f0788f,var(--gold)); box-shadow:0 0 12px #e0607e66;
+    transition:width .35s cubic-bezier(.2,.8,.2,1);}
+  .qdots{display:flex; gap:4px; margin:0 0 14px;}
+  .qdots i{flex:1; height:4px; border-radius:99px; background:#2a213c;}
+  .qdots i.now{background:var(--pink);}
+  .qdots i.ok{background:var(--good);}
+  .qdots i.no{background:var(--bad);}
+  .qpills{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:0 0 6px;}
+  .qfmt{display:inline-block; font-size:10.5px; font-weight:800; letter-spacing:1.4px; text-transform:uppercase;
+    color:#1d1405; background:linear-gradient(135deg,#e8c070,var(--gold)); border-radius:999px; padding:4px 10px;}
+  .qtag{display:inline-block; font-size:11.5px; color:var(--teal); border:1px solid #5fd0b555;
+    border-radius:999px; padding:3px 10px; font-weight:700;}
+  .qstage{animation:in .32s ease;}
+  @keyframes in{from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:none;}}
+  .qtext{font-family:var(--serif); font-size:24px; line-height:1.38; margin:10px 0 16px; letter-spacing:-.25px;}
+  .qtext.hasboard{font-size:20px; color:#efe6f8; margin-bottom:12px;}
+  .qtext.clinical{background:linear-gradient(180deg,#261c36,#1c1528); border:1px solid var(--line);
+    border-left:3px solid var(--gold); border-radius:16px; padding:16px 16px 16px 18px; font-size:20px;}
+  .blank{display:inline-block; min-width:92px; height:.95em; margin:0 5px -2px; vertical-align:-2px;
+    border-bottom:2.5px solid var(--gold); background:linear-gradient(180deg,transparent 62%, #d4a85a2e 62%);
+    border-radius:2px;}
+  .qboard{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:0 0 16px;}
+  .mcol{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:12px 12px 8px; min-width:0;}
+  .mhd{font-size:10.5px; letter-spacing:1.8px; font-weight:800; color:var(--gold); margin:0 0 8px;}
+  .mrow{display:flex; gap:8px; align-items:flex-start; font-size:13.5px; line-height:1.4;
+    padding:7px 0; border-top:1px solid #3a2d5233; color:#e9def6;}
+  .mrow:first-of-type{border-top:0;}
+  .mrow i{min-width:22px; height:22px; border-radius:7px; display:grid; place-items:center;
+    font-style:normal; font-weight:800; font-size:11px; background:#32284a; color:#f0e6fb; flex-shrink:0;}
+  .opt{display:flex; align-items:flex-start; gap:12px; width:100%; text-align:left; margin:9px 0; padding:14px 14px;
+    font-size:15.5px; color:var(--txt); background:var(--card); border:1.5px solid var(--line); border-radius:16px;
+    cursor:pointer; line-height:1.4; font-family:inherit; animation:optin .35s ease both;
+    transition:border-color .15s, background .15s, transform .15s, box-shadow .15s; touch-action:manipulation;}
+  @keyframes optin{from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:none;}}
+  .opt:not(:disabled):hover{border-color:#6a5488; background:#241a34; transform:translateY(-1px);}
+  .opt:not(:disabled):active{border-color:var(--pink);}
+  .opt:disabled{cursor:default; opacity:.72;}
+  .opt.correct,.opt.wrong{opacity:1;}
+  .opt.correct{border-color:var(--good); background:#3ddc8418; box-shadow:0 0 0 1px #3ddc8466, 0 10px 24px #3ddc8420;}
+  .opt.wrong{border-color:var(--bad); background:#ff5d6c16; animation:shake .35s ease;}
+  @keyframes shake{0%,100%{transform:translateX(0);} 25%{transform:translateX(-5px);} 75%{transform:translateX(5px);}}
+  .okey{min-width:32px; height:32px; border-radius:10px; display:grid; place-items:center;
+    font-weight:800; font-size:13px; background:#2f2644; color:#d7cbe8; flex-shrink:0;}
+  .opt.correct .okey{background:#1d3a2a; color:var(--good);}
+  .opt.wrong .okey{background:#3a1a22; color:var(--bad);}
+  .otxt{flex:1; padding-top:4px; min-width:0;}
+  .mpair{display:inline-flex; align-items:center; gap:5px; margin:2px 8px 2px 0; padding:4px 8px;
+    background:#2a213c; border:1px solid var(--line); border-radius:999px; font-size:13px; font-weight:700;}
+  .mpair em{font-style:normal; color:var(--gold);}
+  .mpair span{color:var(--mut);}
+  .mpair b{color:var(--teal); font-weight:800;}
+  .fb{margin-top:12px; padding:0; border-radius:16px; font-size:14.5px; line-height:1.6; display:none; overflow:hidden;}
+  .fb.show{display:block; animation:in .28s ease;}
+  .fb.good{background:#3ddc8412; border:1px solid #3ddc8466;}
+  .fb.bad{background:#ff5d6c12; border:1px solid #ff5d6c66;}
+  .fbhd{font-weight:800; font-size:13px; letter-spacing:.3px; padding:11px 15px 0;}
+  .fb.good .fbhd{color:var(--good);}
+  .fb.bad .fbhd{color:var(--bad);}
+  .fbbd{padding:8px 15px 10px; color:#e9def6;}
+  .fbcite{display:inline-block; margin:0 15px 12px; font-size:11px; font-weight:800; letter-spacing:1.2px;
+    color:var(--gold); border:1px solid #d4a85a55; border-radius:999px; padding:3px 10px;}
+  #nextBtn{position:sticky; bottom:16px; z-index:8; box-shadow:0 12px 28px #0008, 0 0 0 6px #0e0a1488;}
+  .qkeys{text-align:center; color:var(--mut); font-size:12px; letter-spacing:.3px; margin-top:14px;}
+  .donebox{text-align:center; padding:22px 6px 10px;}
+  .donebox .big{font-size:64px;}
+  .donebox h2{font-family:var(--serif); font-size:30px; margin:10px 0 4px;}
+  .grade{font-weight:800; color:var(--gold); letter-spacing:.8px; font-size:13px; margin:0 0 6px;}
+  .ring{width:132px; height:132px; border-radius:50%; margin:8px auto 14px; padding:10px;
+    background:conic-gradient(var(--good) 0 0%, var(--card2) 0 100%);}
+  .ringin{width:100%; height:100%; border-radius:50%; background:var(--bg); display:flex;
+    flex-direction:column; align-items:center; justify-content:center; border:1px solid var(--line);}
+  .ringin b{font-size:28px; letter-spacing:-.5px; line-height:1;}
+  .ringin span{font-size:11px; color:var(--mut); margin-top:4px; font-weight:700;}
+  .rev{margin:8px 0; padding:14px 15px; border:1px solid var(--line); border-radius:14px;
+    font-size:13.5px; background:var(--card); line-height:1.5; text-align:left;}
+  .rev b{color:var(--good);}
+  .revq{font-weight:700; color:#efe6f8; margin-bottom:8px;}
+  .reva{color:var(--good); font-weight:700; margin-bottom:6px;}
+  .reve{color:#d8cde9;}
+  .revp{margin-top:8px; font-size:11px; font-weight:800; letter-spacing:1px; color:var(--gold);}
+  footer{text-align:center; color:var(--mut); font-size:12px; margin-top:22px; line-height:1.7;}
+  .float{position:fixed; font-weight:800; pointer-events:none; animation:rise 1s ease-out forwards; z-index:50;}
+  @keyframes rise{from{opacity:1; transform:translateY(0);} to{opacity:0; transform:translateY(-46px);}}
+  .conf{position:fixed; top:-10px; width:7px; height:11px; border-radius:2px; z-index:80;
+    pointer-events:none; animation:fall 1.35s ease-in forwards;}
+  @keyframes fall{to{transform:translateY(105vh) rotate(220deg); opacity:0;}}
+  @media (max-width:430px){
+    .qboard{grid-template-columns:1fr;}
+    .qtext{font-size:22px;}
+    .hero h1{font-size:38px;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *,*::before,*::after{animation:none !important; transition:none !important;}
+  }
+</style>
+
+</head>
+<body>
+<header class="top">
+  <span class="back hidden" id="backBtn" onclick="goBack()">‹</span>
+  <span class="brand" id="brand">PULSE</span>
+  <span class="hstat">🔥 <span id="hStreak">0</span></span>
+  <span class="hstat">✦ <span id="hXP">0</span></span>
+</header>
+<div class="wrap">
+
+  <!-- HOME -->
+  <div id="home">
+    <div class="hero">
+      <div class="kick">MARROW EDITION 8 · COMPANION</div>
+      <h1>Medicine</h1>
+      <p id="heroSub"></p>
+      <a onclick="show('chapters')">Browse chapters →</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="sXP">0</b><span>Total XP</span></div>
+      <div class="stat"><b id="sStreak">0</b><span>Day streak</span></div>
+      <div class="stat"><b id="sUnits">0</b><span>Units done</span></div>
+    </div>
+    <button class="btn ghost" onclick="unlockAll()">🔓 Unlock all units (testing)</button>
+    <button class="btn" onclick="continueLearning()">▶ Continue learning</button>
+  </div>
+
+  <!-- CHAPTERS -->
+  <div id="chapters" class="hidden">
+    <h2 class="page">Chapters</h2>
+    <p class="sub" id="chSub"></p>
+    <div id="chList"></div>
+  </div>
+
+  <!-- PATH -->
+  <div id="path" class="hidden">
+    <p class="sub" id="pathKick" style="margin-top:16px;"></p>
+    <h2 class="page" id="pathTitle" style="margin-top:0;"></h2>
+    <p class="sub" id="pathSub"></p>
+    <div id="nodes"></div>
+  </div>
+
+  <!-- GUIDE -->
+  <div id="guide" class="hidden">
+    <div class="guide">
+      <div class="kick" id="gKick"></div>
+      <h2 id="gTitle"></h2>
+      <p id="gText"></p>
+      <div class="gfrow" id="gFmts"></div>
+      <p class="sub" id="gCount"></p>
+      <button class="btn gold" onclick="beginUnit()">Start unit →</button>
+    </div>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" class="hidden">
+    <div class="qmeta">
+      <div class="qcount" id="qcount"></div>
+      <div class="qhud" id="qhud"></div>
+    </div>
+    <div class="qbar"><i id="qbar"></i></div>
+    <div class="qdots" id="qdots"></div>
+    <div class="qpills">
+      <span class="qfmt" id="qfmt"></span>
+      <span class="qtag" id="qtag"></span>
+    </div>
+    <div class="qstage" id="qstage">
+      <div class="qtext" id="qtext"></div>
+      <div class="qboard hidden" id="qboard"></div>
+    </div>
+    <div id="opts"></div>
+    <div class="fb" id="fb"></div>
+    <button class="btn hidden" id="nextBtn" onclick="nextQ()">Continue →</button>
+    <div class="qkeys" id="qkeys">Press 1 – 4 to answer</div>
+  </div>
+
+  <!-- UNIT DONE -->
+  <div id="unitdone" class="hidden">
+    <div class="donebox">
+      <div class="ring" id="dRing"></div>
+      <div class="grade" id="dGrade"></div>
+      <h2 id="dHead">Unit complete!</h2>
+      <p class="sub" id="dSub"></p>
+      <div class="stats">
+        <div class="stat"><b id="dScore">–</b><span>Score</span></div>
+        <div class="stat"><b id="dXP">–</b><span>XP earned</span></div>
+        <div class="stat"><b id="dAcc">–</b><span>Accuracy</span></div>
+      </div>
+      <div id="dRev"></div>
+      <button class="btn" onclick="afterUnit()">Continue →</button>
+      <button class="btn ghost" onclick="openGuide(curUnit)">↻ Redo unit</button>
+    </div>
+  </div>
+
+  <footer>PULSE · Medicine Vol 2 (p377-702) · fixed question sequence · source review in progress<br>options shuffled every run · progress saved on this device</footer>
+</div>
+
+<script>
+const QUESTIONS = [];
+const UNITS = [];
+const CHAPTERS = [
+  {
+    "n": 1,
+    "t": "Introduction to ECG",
+    "p": 377,
+    "live": false
+  },
+  {
+    "n": 2,
+    "t": "Approach to Hypertrophy and Blocks",
+    "p": 383,
+    "live": false
+  },
+  {
+    "n": 3,
+    "t": "SA Nodal Dysfunction",
+    "p": 387,
+    "live": false
+  },
+  {
+    "n": 4,
+    "t": "AV Blocks",
+    "p": 390,
+    "live": false
+  },
+  {
+    "n": 5,
+    "t": "Tachyarrhythmias",
+    "p": 394,
+    "live": false
+  },
+  {
+    "n": 6,
+    "t": "Atrial Fibrillation and Flutter",
+    "p": 403,
+    "live": false
+  },
+  {
+    "n": 7,
+    "t": "Ventricular Arrhythmias",
+    "p": 407,
+    "live": false
+  },
+  {
+    "n": 8,
+    "t": "WPW Syndrome",
+    "p": 413,
+    "live": false
+  },
+  {
+    "n": 9,
+    "t": "Introduction to ACS",
+    "p": 415,
+    "live": false
+  },
+  {
+    "n": 10,
+    "t": "ACS - Coronary Circulation",
+    "p": 425,
+    "live": false
+  },
+  {
+    "n": 11,
+    "t": "ACS - Evaluation and Management",
+    "p": 430,
+    "live": false
+  },
+  {
+    "n": 12,
+    "t": "Sjogren's Syndrome",
+    "p": 442,
+    "live": false
+  },
+  {
+    "n": 13,
+    "t": "IgG4 Related Disease",
+    "p": 449,
+    "live": false
+  },
+  {
+    "n": 14,
+    "t": "SLE - Basic Approach",
+    "p": 452,
+    "live": false
+  },
+  {
+    "n": 15,
+    "t": "SLE - Diagnosis",
+    "p": 455,
+    "live": false
+  },
+  {
+    "n": 16,
+    "t": "SLE - Clinical Profile and Management",
+    "p": 458,
+    "live": false
+  },
+  {
+    "n": 17,
+    "t": "Antiphospholipid Syndrome",
+    "p": 466,
+    "live": false
+  },
+  {
+    "n": 18,
+    "t": "Systemic Sclerosis",
+    "p": 470,
+    "live": false
+  },
+  {
+    "n": 19,
+    "t": "Inflammatory Muscle Diseases",
+    "p": 477,
+    "live": false
+  },
+  {
+    "n": 20,
+    "t": "Sarcoidosis and Mixed Connective Tissue Disease",
+    "p": 484,
+    "live": false
+  },
+  {
+    "n": 21,
+    "t": "Classification of Vasculitis and Large Vessel Vasculitis",
+    "p": 491,
+    "live": false
+  },
+  {
+    "n": 22,
+    "t": "Small Vessel Vasculitis",
+    "p": 499,
+    "live": false
+  },
+  {
+    "n": 23,
+    "t": "Henoch-Schonlein Purpura V/S Cryoglobulinemia",
+    "p": 509,
+    "live": false
+  },
+  {
+    "n": 24,
+    "t": "Variable Vessel Vasculitis",
+    "p": 514,
+    "live": false
+  },
+  {
+    "n": 25,
+    "t": "Basic Approach to Arthritis",
+    "p": 519,
+    "live": false
+  },
+  {
+    "n": 26,
+    "t": "Rheumatoid Arthritis",
+    "p": 521,
+    "live": false
+  },
+  {
+    "n": 27,
+    "t": "Spondyloarthritis",
+    "p": 532,
+    "live": false
+  },
+  {
+    "n": 28,
+    "t": "Crystal Arthropathies",
+    "p": 543,
+    "live": false
+  },
+  {
+    "n": 29,
+    "t": "Adult-Onset Still's Disease and Septic Arthritis",
+    "p": 552,
+    "live": false
+  },
+  {
+    "n": 30,
+    "t": "Frontal Lobe",
+    "p": 555,
+    "live": false
+  },
+  {
+    "n": 31,
+    "t": "Praxicons",
+    "p": 560,
+    "live": false
+  },
+  {
+    "n": 32,
+    "t": "Temporal and Occipital Lobe",
+    "p": 563,
+    "live": false
+  },
+  {
+    "n": 33,
+    "t": "Language V/S Speech",
+    "p": 566,
+    "live": false
+  },
+  {
+    "n": 34,
+    "t": "Memory",
+    "p": 569,
+    "live": false
+  },
+  {
+    "n": 35,
+    "t": "Dementia : Part 1",
+    "p": 572,
+    "live": false
+  },
+  {
+    "n": 36,
+    "t": "Dementia : Part 2",
+    "p": 577,
+    "live": false
+  },
+  {
+    "n": 37,
+    "t": "Parkinson's Disease",
+    "p": 583,
+    "live": false
+  },
+  {
+    "n": 38,
+    "t": "Headache",
+    "p": 593,
+    "live": false
+  },
+  {
+    "n": 39,
+    "t": "Seizure Semiology",
+    "p": 602,
+    "live": false
+  },
+  {
+    "n": 40,
+    "t": "Generalised Tonic-Clonic Seizure",
+    "p": 608,
+    "live": false
+  },
+  {
+    "n": 41,
+    "t": "CNS Infections",
+    "p": 613,
+    "live": false
+  },
+  {
+    "n": 42,
+    "t": "LMN Approach : Part 1",
+    "p": 618,
+    "live": false
+  },
+  {
+    "n": 43,
+    "t": "LMN Approach : Part 2",
+    "p": 624,
+    "live": false
+  },
+  {
+    "n": 44,
+    "t": "Inherited Neuropathies",
+    "p": 627,
+    "live": false
+  },
+  {
+    "n": 45,
+    "t": "Guillain-Barre Syndrome",
+    "p": 632,
+    "live": false
+  },
+  {
+    "n": 46,
+    "t": "LMN Approach : Part 3",
+    "p": 637,
+    "live": false
+  },
+  {
+    "n": 47,
+    "t": "Muscular Dystrophies",
+    "p": 642,
+    "live": false
+  },
+  {
+    "n": 48,
+    "t": "Myasthenia Gravis",
+    "p": 646,
+    "live": false
+  },
+  {
+    "n": 49,
+    "t": "Amyotrophic Lateral Sclerosis",
+    "p": 650,
+    "live": false
+  },
+  {
+    "n": 50,
+    "t": "Anatomy of Spinal Cord",
+    "p": 653,
+    "live": false
+  },
+  {
+    "n": 51,
+    "t": "Diseases of Spinal Cord",
+    "p": 660,
+    "live": false
+  },
+  {
+    "n": 52,
+    "t": "Multiple Sclerosis",
+    "p": 668,
+    "live": false
+  },
+  {
+    "n": 53,
+    "t": "Vascular Anatomy of Brain",
+    "p": 674,
+    "live": false
+  },
+  {
+    "n": 54,
+    "t": "Approach to UMN Lesion",
+    "p": 681,
+    "live": false
+  },
+  {
+    "n": 55,
+    "t": "Approach to Stroke",
+    "p": 686,
+    "live": false
+  },
+  {
+    "n": 56,
+    "t": "Brainstem Stroke",
+    "p": 691,
+    "live": false
+  },
+  {
+    "n": 57,
+    "t": "Management of Stroke",
+    "p": 700,
+    "live": false
+  }
+];
+const QBYID = {}; QUESTIONS.forEach(q=>QBYID[q.id]=q);
+const $=id=>document.getElementById(id);
+const FMT_LABEL = {
+  recall:'Recall', fillup:'Fill up', match:'Match', truefalse:'True / False',
+  scenario:'Clinical', oddoneout:'Odd one out', numeric:'Numeric', management:'Management'
+};
+function store(k,v){try{if(v===undefined){const r=localStorage.getItem(k);return r==null?null:JSON.parse(r);}localStorage.setItem(k,JSON.stringify(v));}catch(e){return v===undefined?null:undefined;}}
+const S = {
+  get xp(){return store('pulseMed_xp')||0;}, set xp(v){store('pulseMed_xp',v);},
+  get done(){return store('pulseMed_done')||[];}, set done(v){store('pulseMed_done',v);},
+  get unlock(){return !!store('pulseMed_unlock');}, set unlock(v){store('pulseMed_unlock',v);},
+  streak(){const t=store('pulseMed_streak')||{n:0,day:''};return t;},
+  bumpStreak(){const today=new Date().toISOString().slice(0,10);let s=this.streak();
+    if(s.day===today)return s.n;
+    const y=new Date(Date.now()-864e5).toISOString().slice(0,10);
+    s={n:(s.day===y?s.n+1:1),day:today};store('pulseMed_streak',s);return s.n;}
+};
+const nav={stack:['home']};
+function show(id){nav.stack.push(id);render();}
+function goBack(){if(nav.stack.length>1)nav.stack.pop();render();}
+function render(){
+  const cur=nav.stack[nav.stack.length-1];
+  ['home','chapters','path','guide','quiz','unitdone'].forEach(s=>$(s).classList.toggle('hidden',s!==cur));
+  $('backBtn').classList.toggle('hidden',cur==='home');
+  if(cur==='quiz' && curUnit) $('brand').textContent='Unit '+curUnit.n;
+  else if(cur==='guide' && curUnit) $('brand').textContent='Unit '+curUnit.n;
+  else if(cur==='path') $('brand').textContent='Ch '+curCh;
+  else if(cur==='unitdone') $('brand').textContent='Done';
+  else $('brand').textContent='PULSE';
+  refreshStats();
+  if(cur==='home')renderHome();
+  if(cur==='chapters')renderChapters();
+  if(cur==='path')renderPath();
+}
+function refreshStats(){
+  $('hXP').textContent=S.xp; $('hStreak').textContent=S.streak().n;
+  $('sXP').textContent=S.xp; $('sStreak').textContent=S.streak().n; $('sUnits').textContent=S.done.length;
+}
+function renderHome(){
+  const live=CHAPTERS.filter(c=>c.live).length;
+  $('heroSub').textContent=live+' of '+CHAPTERS.length+' chapters built so far — original questions, guides, and unit-by-unit mastery for each.';
+}
+function unitsOf(ch){return UNITS.filter(u=>u.ch===ch).sort((a,b)=>a.n-b.n);}
+function renderChapters(){
+  $('chSub').textContent=CHAPTERS.length+' chapters · Full chapter-by-chapter exam pass';
+  const box=$('chList'); box.innerHTML='';
+  CHAPTERS.forEach(c=>{
+    const us=c.live?unitsOf(c.n):[];
+    const dn=us.filter(u=>S.done.includes(u.id)).length;
+    const d=document.createElement('div');
+    d.className='chrow'+(c.live?'':' locked');
+    d.innerHTML='<div class="chnum">'+c.n+'</div><div class="t">'+escapeHtml(c.t)+'</div><div class="u">'+(c.live?dn+'/'+us.length+' units':'Soon')+'</div>';
+    if(c.live)d.onclick=()=>{curCh=c.n;show('path');};
+    box.appendChild(d);
+  });
+}
+let curCh=1, curUnit=null;
+function unitState(u,us){
+  if(S.done.includes(u.id))return 'done';
+  if(S.unlock)return 'current';
+  const i=us.findIndex(x=>x.id===u.id);
+  if(i===0)return 'current';
+  return S.done.includes(us[i-1].id)?'current':'locked';
+}
+function renderPath(){
+  const c=CHAPTERS.find(x=>x.n===curCh), us=unitsOf(curCh);
+  $('pathKick').textContent='CHAPTER '+c.n;
+  $('pathTitle').textContent=c.t;
+  $('pathSub').textContent=us.filter(u=>S.done.includes(u.id)).length+' of '+us.length+' units done · in book order';
+  const box=$('nodes'); box.innerHTML='';
+  let lastSec='';
+  us.forEach(u=>{
+    if(u.sec!==lastSec){lastSec=u.sec;
+      const s=document.createElement('div');s.className='pathsec';s.textContent=u.sec;box.appendChild(s);}
+    const st=unitState(u,us);
+    const d=document.createElement('div');d.className='node';
+    d.innerHTML='<div class="ball '+st+'">'+(st==='done'?'✓':st==='locked'?'🔒':u.n)+'</div><div class="ntitle">'+escapeHtml(u.title)+'</div><div class="ncount">'+u.qs.length+' questions</div>';
+    if(st!=='locked')d.querySelector('.ball').onclick=()=>openGuide(u);
+    box.appendChild(d);
+  });
+}
+function openGuide(u){curUnit=u;
+  $('gKick').textContent='CHAPTER '+u.ch+' · UNIT '+u.n+' · '+u.sec.toUpperCase();
+  $('gTitle').textContent=u.title;
+  $('gText').textContent=u.guide;
+  $('gCount').textContent=u.qs.length+' questions · fixed source sequence';
+  const gf=$('gFmts');
+  if(gf){
+    const fmts=[];
+    u.qs.forEach(id=>{const f=(QBYID[id]||{}).fmt; if(f && fmts.indexOf(f)<0) fmts.push(f);});
+    gf.innerHTML=fmts.map(f=>'<span class="chip">'+escapeHtml(FMT_LABEL[f]||f)+'</span>').join('');
+  }
+  show('guide');
+}
+let order=[],idx=0,xpGain=0,streak=0,correct=0,wrongList=[],locked=false,verdict=[];
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function beginUnit(){
+  // FIXED book order — only options shuffle (anti-bias)
+  order=curUnit.qs.map(id=>{const q=QBYID[id];return {q,opts:shuffle(q.opts.map((t,i)=>({t,ok:i===q.ans})))};});
+  idx=0;xpGain=0;streak=0;correct=0;wrongList=[];verdict=[];
+  show('quiz');renderQ();
+}
+function parseMatch(stem){
+  const m=String(stem).match(/^(.*?)\s+[—–-]\s+1\)\s+([\s\S]+?)\s+(?:…|\.{3})\s+A\)\s+([\s\S]+)$/);
+  if(!m) return null;
+  const left=('1) '+m[2]).split(/\s+(?=\d+\))\s*/).map(x=>x.replace(/^\d+\)\s*/,'').trim()).filter(Boolean);
+  const right=('A) '+m[3]).split(/\s+(?=[A-Z]\)\s+\S)\s*/).map(x=>x.replace(/^[A-Z]\)\s*/,'').trim()).filter(Boolean);
+  if(left.length<2||right.length<2) return null;
+  return {prompt:m[1].trim(), left, right};
+}
+function fillupHtml(stem){
+  return escapeHtml(String(stem).replace(/^Fill up:\s*/i,'')).replace(/_{3,}/g,'<span class="blank"></span>');
+}
+function matchOptHtml(text){
+  const parts=String(text).split(/\s*,\s*/);
+  if(!parts.length || !/^\d\s*[-–]/.test(parts[0])) return escapeHtml(text);
+  return parts.map(p=>{
+    const mm=p.match(/(\d)\s*[-–]\s*([A-Z])/);
+    if(!mm) return escapeHtml(p);
+    return '<span class="mpair"><em>'+mm[1]+'</em><span>→</span><b>'+mm[2]+'</b></span>';
+  }).join('');
+}
+function splitExp(exp){
+  const m=String(exp).match(/^(.*?)\s*\(Book p(\d+)\)\s*$/);
+  if(!m) return {body:exp, page:null};
+  return {body:m[1], page:m[2]};
+}
+function paintDots(){
+  const box=$('qdots'); if(!box) return;
+  box.innerHTML='';
+  order.forEach((_,i)=>{
+    const s=document.createElement('i');
+    if(verdict[i]===1) s.className='ok';
+    else if(verdict[i]===0) s.className='no';
+    else if(i===idx) s.className='now';
+    box.appendChild(s);
+  });
+}
+function paintHud(){
+  const hud=$('qhud'); if(!hud) return;
+  const answered=verdict.filter(v=>v===0||v===1).length;
+  const ok=verdict.filter(v=>v===1).length;
+  const acc=answered?Math.round(ok/answered*100)+'%':'—';
+  hud.innerHTML='<span>🔥 '+streak+'</span><span>✦ '+xpGain+' XP</span><span>'+acc+'</span>';
+}
+function paintBar(){
+  const n=order.length||1;
+  $('qbar').style.width=((locked?idx+1:idx)/n*100)+'%';
+}
+function renderBoard(parsed){
+  const box=$('qboard'); if(!box) return;
+  if(!parsed){box.classList.add('hidden'); box.innerHTML=''; return;}
+  const col=(title,items,letters)=>{
+    let h='<div class="mcol"><div class="mhd">'+title+'</div>';
+    items.forEach((t,i)=>{h+='<div class="mrow"><i>'+letters[i]+'</i><span>'+escapeHtml(t)+'</span></div>';});
+    return h+'</div>';
+  };
+  box.innerHTML=col('List I', parsed.left, parsed.left.map((_,i)=>String(i+1)))+col('List II', parsed.right, parsed.right.map((_,i)=>String.fromCharCode(65+i)));
+  box.classList.remove('hidden');
+}
+function renderQ(){
+  locked=false;
+  const cur=order[idx],q=cur.q;
+  paintBar();
+  $('qcount').textContent='QUESTION '+(idx+1)+' OF '+order.length;
+  $('qtag').textContent=q.sec+' · Book p'+q.page;
+  const fmtEl=$('qfmt');
+  if(fmtEl) fmtEl.textContent=FMT_LABEL[q.fmt]||'Recall';
+  const parsed=(q.fmt==='match')?parseMatch(q.q):null;
+  const qt=$('qtext');
+  qt.className='qtext'+(parsed?' hasboard':'')+(q.fmt==='scenario'?' clinical':'');
+  if(parsed){ qt.textContent=parsed.prompt; }
+  else if(q.fmt==='fillup'){ qt.innerHTML=fillupHtml(q.q); }
+  else { qt.textContent=q.q; }
+  renderBoard(parsed);
+  const box=$('opts'); box.innerHTML='';
+  cur.opts.forEach((o,i)=>{
+    const b=document.createElement('button');
+    b.type='button';
+    b.className='opt';
+    b.style.animationDelay=(i*0.045)+'s';
+    const body=(q.fmt==='match')?matchOptHtml(o.t):escapeHtml(o.t);
+    b.innerHTML='<span class="okey">'+'ABCD'[i]+'</span><span class="otxt">'+body+'</span>';
+    b.onclick=()=>answer(o,b);
+    box.appendChild(b);
+  });
+  $('fb').className='fb'; $('fb').innerHTML='';
+  $('nextBtn').classList.add('hidden');
+  $('nextBtn').textContent=idx===order.length-1?'Finish ✓':'Continue →';
+  const keys=$('qkeys'); if(keys) keys.textContent='Press 1 – 4 to answer · Enter to continue';
+  paintDots(); paintHud();
+  if(typeof window!=='undefined' && typeof window.scrollTo==='function') window.scrollTo(0,0);
+  const stage=$('qstage');
+  if(stage && stage.classList){ stage.classList.remove('in'); void stage.offsetWidth; stage.classList.add('in'); }
+}
+function escapeHtml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function answer(o,btn){
+  if(locked)return;locked=true;
+  const cur=order[idx],q=cur.q,btns=$('opts').children;
+  const rightIdx=cur.opts.findIndex(x=>x.ok);
+  [...btns].forEach(b=>b.disabled=true);
+  btns[rightIdx].classList.add('correct');
+  const rightKey=btns[rightIdx].querySelector && btns[rightIdx].querySelector('.okey');
+  if(rightKey) rightKey.textContent='✓';
+  const fb=$('fb');
+  const exp=splitExp(q.exp);
+  const cite=exp.page?'<div class="fbcite">BOOK P'+exp.page+'</div>':'';
+  if(o.ok){correct++;streak++;
+    verdict[idx]=1;
+    const gain=10+Math.min(streak*2,10);xpGain+=gain;S.xp=S.xp+gain;
+    floatText(btn,'+'+gain+' XP','#e0607e');
+    fb.className='fb show good';
+    fb.innerHTML='<div class="fbhd">Correct · +'+gain+' XP'+(streak>1?' · '+streak+' streak':'')+'</div><div class="fbbd">'+escapeHtml(exp.body)+'</div>'+cite;
+  }else{btn.classList.add('wrong');streak=0;
+    verdict[idx]=0;
+    const wrongKey=btn.querySelector && btn.querySelector('.okey');
+    if(wrongKey) wrongKey.textContent='✕';
+    wrongList.push(q);
+    fb.className='fb show bad';
+    fb.innerHTML='<div class="fbhd">Not quite</div><div class="fbbd"><b>'+escapeHtml(cur.opts[rightIdx].t)+'</b><br>'+escapeHtml(exp.body)+'</div>'+cite;
+  }
+  refreshStats();
+  paintBar(); paintDots(); paintHud();
+  $('nextBtn').classList.remove('hidden');
+  const keys=$('qkeys'); if(keys) keys.textContent='Press Enter to continue';
+  if($('nextBtn') && typeof $('nextBtn').focus==='function') $('nextBtn').focus();
+}
+function floatText(el,txt,color){
+  if(!el || typeof el.getBoundingClientRect!=='function') return;
+  const r=el.getBoundingClientRect(),s=document.createElement('div');
+  s.className='float';s.textContent=txt;s.style.color=color;
+  s.style.left=(r.left+r.width/2-24)+'px';s.style.top=(r.top-6+(window.scrollY||0))+'px';
+  document.body.appendChild(s);setTimeout(()=>s.remove(),1000);
+}
+function nextQ(){idx++;if(idx>=order.length)finishUnit();else renderQ();}
+function burst(){
+  const colors=['#e0607e','#d4a85a','#5fd0b5','#3ddc84','#f0788f'];
+  for(let i=0;i<16;i++){
+    const s=document.createElement('i');
+    s.className='conf';
+    s.style.left=(12+Math.random()*76)+'%';
+    s.style.background=colors[i%colors.length];
+    s.style.animationDelay=(Math.random()*0.35)+'s';
+    document.body.appendChild(s);
+    setTimeout(()=>s.remove(),1600);
+  }
+}
+function finishUnit(){
+  const d=S.done;if(!d.includes(curUnit.id)){d.push(curUnit.id);S.done=d;}
+  S.bumpStreak();
+  const pct=Math.round(correct/order.length*100);
+  const grade=pct===100?'Mastered':pct>=85?'Excellent':pct>=70?'Solid':'Review this unit';
+  $('dSub').textContent=curUnit.title+' · '+correct+'/'+order.length+' correct';
+  $('dScore').textContent=correct+'/'+order.length;
+  $('dXP').textContent='+'+xpGain;$('dAcc').textContent=pct+'%';
+  const head=$('dHead'); if(head) head.textContent=pct===100?'Perfect unit':'Unit complete';
+  const g=$('dGrade'); if(g) g.textContent=grade;
+  const ring=$('dRing');
+  if(ring){
+    ring.style.background='conic-gradient(var(--good) 0 '+pct+'%, #2b2139 '+pct+'% 100%)';
+    ring.innerHTML='<div class="ringin"><b>'+pct+'%</b><span>'+grade+'</span></div>';
+  }
+  const box=$('dRev');box.innerHTML='';
+  if(wrongList.length){const h=document.createElement('p');h.className='sub';h.textContent='Missed — worth another look';box.appendChild(h);}
+  else {const h=document.createElement('p');h.className='sub';h.textContent='No misses. Clean pass.';box.appendChild(h);}
+  wrongList.forEach(q=>{
+    const r=document.createElement('div');r.className='rev';
+    const exp=splitExp(q.exp);
+    r.innerHTML='<div class="revq">'+escapeHtml(q.q)+'</div><div class="reva">'+escapeHtml(q.opts[q.ans])+'</div><div class="reve">'+escapeHtml(exp.body)+'</div><div class="revp">BOOK P'+q.page+'</div>';
+    box.appendChild(r);
+  });
+  show('unitdone');
+  if(pct>=80) burst();
+}
+function afterUnit(){nav.stack=['home','chapters','path'];render();}
+function continueLearning(){
+  const c=CHAPTERS.find(x=>x.live);
+  if(!c)return;curCh=c.n;
+  const us=unitsOf(c.n);
+  const nxt=us.find(u=>unitState(u,us)==='current')||us[0];
+  curUnit=nxt;nav.stack=['home'];openGuide(nxt);
+}
+function unlockAll(){S.unlock=true;render();}
+document.addEventListener('keydown',e=>{
+  if($('quiz').classList.contains('hidden'))return;
+  const k=parseInt(e.key);
+  if(k>=1&&k<=4&&!locked){const b=$('opts').children[k-1];if(b)b.click();}
+  else if(e.key==='Enter'&&locked)nextQ();
+});
+render();
+</script>
+</body>
+</html>
