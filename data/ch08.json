@@ -1,0 +1,253 @@
+{
+  "chapter": 8,
+  "title": "WPW Syndrome",
+  "pageRange": "413-414",
+  "questions": [
+    {
+      "id": "MED-C8-01",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "page": 413,
+      "fmt": "recall",
+      "q": "What is the characteristic sex predilection stated for Wolff-Parkinson-White (WPW) syndrome?",
+      "opts": [
+        "Male predominance (M > F)",
+        "Female predominance (F > M)",
+        "Strictly equal sex incidence (1:1)",
+        "Exclusive occurrence in postmenopausal females"
+      ],
+      "ans": 0,
+      "exp": "Under Features of WPW Syndrome: 'M > F'. (Book p413)"
+    },
+    {
+      "id": "MED-C8-02",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "page": 413,
+      "fmt": "oddoneout",
+      "q": "Which electrocardiographic finding is NOT part of the classic ECG pattern of WPW syndrome listed on page 413?",
+      "opts": [
+        "Prolonged PR interval exceeding 220 ms",
+        "Normal P wave",
+        "Short PR interval and delta waves",
+        "Near normal QRS with secondary ST and T wave changes"
+      ],
+      "ans": 0,
+      "exp": "ECG features: Normal P wave, Short PR interval, Delta waves, Near normal QRS, Secondary ST & T wave changes. PR is short, not prolonged. (Book p413)"
+    },
+    {
+      "id": "MED-C8-03",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "page": 413,
+      "fmt": "fillup",
+      "q": "The electrophysiological mechanism of WPW syndrome involves an aberrant accessory pathway known as the Bundle of ____ that causes pre-excitation of the ventricle.",
+      "opts": [
+        "Kent",
+        "His",
+        "James",
+        "Mahaim"
+      ],
+      "ans": 0,
+      "exp": "Mechanism: Bundle of Kent: Aberrant pathway -> Pre-excitation of ventricle. (Book p413)"
+    },
+    {
+      "id": "MED-C8-04",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "page": 413,
+      "fmt": "match",
+      "q": "Match each WPW type to its 12-lead ECG appearance and antegrade conduction pathway — 1) Concealed WPW 12-lead ECG 2) Concealed WPW antegrade limb 3) Manifest WPW 12-lead ECG 4) Manifest WPW antegrade limb … A) Normal B) Via AV node C) Abnormal D) Via Bundle of Kent (BOK)",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-D, 3-C, 4-B"
+      ],
+      "ans": 0,
+      "exp": "Types table: Concealed: 12-lead ECG Normal, Antegrade via AV node; Manifest: 12-lead ECG Abnormal, Antegrade via Bundle of Kent (BOK). (Book p413)"
+    },
+    {
+      "id": "MED-C8-05",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "page": 413,
+      "fmt": "recall",
+      "q": "Which two arrhythmias can be triggered by a premature atrial complex (PAC) in both concealed and manifest WPW syndrome?",
+      "opts": [
+        "Orthodromic AVRT and Atrial fibrillation (A.fib)",
+        "Atrial flutter and Ventricular bigeminy",
+        "Sinus arrest and Mobitz type II block",
+        "Multifocal atrial tachycardia and Parasystole"
+      ],
+      "ans": 0,
+      "exp": "Under Arrhythmias triggered by PAC: Both Concealed and Manifest forms can develop Orthodromic AVRT and A.fib. (Book p413)"
+    },
+    {
+      "id": "MED-C8-06",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "page": 413,
+      "fmt": "truefalse",
+      "q": "Which statement accurately reflects the clinical prognosis of Atrial Fibrillation occurring in concealed versus manifest WPW on page 413?",
+      "opts": [
+        "True — In concealed WPW, A.fib carries a bad prognosis and responds only to DC cardioversion, whereas manifest WPW has a better prognosis due to early diagnosis",
+        "True — In concealed WPW, A.fib responds promptly to intravenous verapamil and carries an excellent prognosis",
+        "False — Manifest WPW carries a uniformly fatal prognosis because early diagnosis cannot be achieved",
+        "False — A.fib in concealed WPW resolves spontaneously without requiring electrical cardioversion"
+      ],
+      "ans": 0,
+      "exp": "Prognosis: Concealed: A.fib: Bad prognosis, responds only to DC Cardioversion. Manifest: Better prognosis (d/t early diagnosis). (Book p413)"
+    },
+    {
+      "id": "MED-C8-07",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "recall",
+      "q": "In the classification of WPW by accessory pathway location, which is the most common anatomical subtype?",
+      "opts": [
+        "Left-sided WPW (Type A)",
+        "Right-sided WPW (Type B)",
+        "Mid-septal WPW (Type C)",
+        "Epicardial apex WPW (Type D)"
+      ],
+      "ans": 0,
+      "exp": "Left sided WPW is designated as Type A (m/c). (Book p414)"
+    },
+    {
+      "id": "MED-C8-08",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "scenario",
+      "q": "A 22-year-old male undergoes a routine sports physical. ECG shows a short PR interval, small delta wave, and a tall positive R wave in lead V1. What type of WPW is present and what is the direction of ventricular activation?",
+      "opts": [
+        "Left-sided WPW (Type A); Conduction proceeds from Left to Right",
+        "Right-sided WPW (Type B); Conduction proceeds from Right to Left",
+        "Concealed WPW; Conduction proceeds solely through the AV node",
+        "Mahaim fiber pre-excitation; Conduction proceeds from Apex to Base"
+      ],
+      "ans": 0,
+      "exp": "Left sided WPW (Type A): Delta wave small (less myocardial activation), Conduction Lt -> Rt, V1 lead: +ve tall R wave + delta wave. (Book p414)"
+    },
+    {
+      "id": "MED-C8-09",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "scenario",
+      "q": "An ECG reveals a large delta wave with a predominantly negative R wave / deep QS complex in lead V1. Which accessory pathway variant does this morphology indicate?",
+      "opts": [
+        "Right-sided WPW (Type B) with Right-to-Left conduction",
+        "Left-sided WPW (Type A) with Left-to-Right conduction",
+        "Anterior fascicular block with isolated septal pre-excitation",
+        "Typical AVNRT with slow-fast dual AV nodal physiology"
+      ],
+      "ans": 0,
+      "exp": "Right sided WPW (Type B): Delta wave large, Conduction Rt -> Lt, V1 lead: -ve R wave + delta wave. (Book p414)"
+    },
+    {
+      "id": "MED-C8-10",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "match",
+      "q": "Match each WPW variant to its delta wave size and lead V1 morphology — 1) Type A left-sided delta wave 2) Type A lead V1 appearance 3) Type B right-sided delta wave 4) Type B lead V1 appearance … A) Small (less myocardial activation) B) Positive tall R wave C) Large D) Negative R wave",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-D, 3-C, 4-B"
+      ],
+      "ans": 0,
+      "exp": "Type A: Small delta, +ve tall R wave in V1. Type B: Large delta, -ve R wave in V1. (Book p414)"
+    },
+    {
+      "id": "MED-C8-11",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "fillup",
+      "q": "In manifest WPW, the lack of delay across the Bundle of Kent initiates early ventricular pre-excitation (producing the short PR and delta wave), after which the AV nodal impulse ____ to complete a near-normal QRS duration.",
+      "opts": [
+        "catches up",
+        "blocks completely",
+        "reverses direction",
+        "dissolves entirely"
+      ],
+      "ans": 0,
+      "exp": "Manifest WPW diagram: Bundle of Kent (no delay) -> Pre-excitation (Short PR, delta wave); AV node -> Catch up -> Near normal QRS complex. (Book p414)"
+    },
+    {
+      "id": "MED-C8-12",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "management",
+      "q": "In a patient known to have concealed WPW who develops acute Atrial Fibrillation, what is the indicated management on page 414?",
+      "opts": [
+        "Synchronised DC cardioversion",
+        "Intravenous adenosine bolus",
+        "Intravenous verapamil infusion",
+        "Oral beta-blocker maintenance"
+      ],
+      "ans": 0,
+      "exp": "Under Management of Concealed WPW: If AVRT -> Adenosine -> Refer to Electrophysiologist; If A.fib -> Synchronised DC cardioversion. (Book p414)"
+    },
+    {
+      "id": "MED-C8-13",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "management",
+      "q": "What is the definitive curative treatment (Definitive Rx) for manifest WPW syndrome identified on early diagnosis?",
+      "opts": [
+        "Catheter ablation",
+        "Lifelong oral amiodarone therapy",
+        "Permanent dual-chamber pacemaker implantation",
+        "Surgical division of the AV node"
+      ],
+      "ans": 0,
+      "exp": "Under Manifest WPW management: Early Dx -> Catheter ablation: Definitive Rx. (Book p414)"
+    },
+    {
+      "id": "MED-C8-14",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "page": 414,
+      "fmt": "truefalse",
+      "q": "In manifest WPW, what electrocardiographic pattern is observed after acute tachycardia (AVRT or A.fib) is successfully terminated?",
+      "opts": [
+        "True — Conversion reveals sinus rhythm accompanied by the baseline delta wave, after which the patient is referred to an electrophysiologist",
+        "True — Conversion produces permanent complete AV block with an idioventricular escape pacemaker",
+        "False — Following cardioversion, the delta wave disappears permanently from all subsequent ECGs",
+        "False — Manifest WPW cannot be converted with adenosine or DC cardioversion"
+      ],
+      "ans": 0,
+      "exp": "In the flowchart for manifest WPW: AVRT treated with Adenosine and A.fib treated with Synchronised DC cardioversion both yield 'Sinus rhythm + delta wave', followed by 'Refer to Electrophysiologist'. (Book p414)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U8-1",
+      "ch": 8,
+      "n": 1,
+      "title": "1. Pathophysiology, ECG Manifestations & Types",
+      "sec": "Pathophysiology, ECG Manifestations & Types",
+      "guide": "Male predominance, classic ECG tetrad (normal P, short PR, delta wave, ST-T changes).\nBundle of Kent accessory atrioventricular pathway causing ventricular pre-excitation.\nConcealed versus manifest WPW: antegrade pathways, PAC triggers, and AF prognosis.",
+      "qs": [
+        "MED-C8-01",
+        "MED-C8-02",
+        "MED-C8-03",
+        "MED-C8-04",
+        "MED-C8-05",
+        "MED-C8-06"
+      ]
+    },
+    {
+      "id": "MED-U8-2",
+      "ch": 8,
+      "n": 2,
+      "title": "2. Vector Differentiation & Algorithmic Management",
+      "sec": "Vector Differentiation & Algorithmic Management",
+      "guide": "Type A left-sided (m/c, tall R in V1) versus Type B right-sided (negative R in V1) WPW.\nPre-excitation mechanism, AV nodal catch-up, and near-normal QRS formation.\nDefinitive catheter ablation, adenosine for AVRT, and synchronized cardioversion for AF.",
+      "qs": [
+        "MED-C8-07",
+        "MED-C8-08",
+        "MED-C8-09",
+        "MED-C8-10",
+        "MED-C8-11",
+        "MED-C8-12",
+        "MED-C8-13",
+        "MED-C8-14"
+      ]
+    }
+  ]
+}

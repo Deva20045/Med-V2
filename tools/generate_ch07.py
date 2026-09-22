@@ -1,0 +1,593 @@
+import json
+
+ch07 = {
+  "chapter": 7,
+  "title": "Ventricular Arrhythmias",
+  "pageRange": "407-412",
+  "questions": [
+    {
+      "id": "MED-C7-01",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "fillup",
+      "q": "In broad QRS tachyarrhythmias arising from the ventricle, impulses bypass specialized conduction fibers and propagate slowly via ____ transmission to widen the QRS complex.",
+      "opts": [
+        "cell-to-cell",
+        "internodal tract",
+        "His-Purkinje",
+        "retrograde nodal"
+      ],
+      "ans": 0,
+      "exp": "Pathophysiology: Source: Ventricle generates impulse -> Cell-to-cell transmission -> Broad QRS. (Book p407)"
+    },
+    {
+      "id": "MED-C7-02",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "match",
+      "q": "Match each ventricular rhythm to its characteristic rate range — 1) Idioventricular tachycardia (IVT) 2) Accelerated idioventricular tachycardia (AIVT) 3) Ventricular tachycardia (VT) … A) 15 – 40 bpm B) 40 – 100 bpm C) > 100 bpm",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Rate: IVT: 15-40 bpm; AIVT: 40-100 bpm; Ventricular Tachycardia (VT): > 100 bpm. (Book p407)"
+    },
+    {
+      "id": "MED-C7-03",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "scenario",
+      "q": "Following thrombolytic therapy for acute inferior STEMI, a patient develops a wide-complex rhythm at 75 bpm. What rhythm is this and what is its clinical significance?",
+      "opts": [
+        "Accelerated idioventricular tachycardia (AIVT); Sign of successful thrombolysis",
+        "Monomorphic VT; Sign of extensive reperfusion injury requiring immediate DC shock",
+        "Idioventricular escape rhythm; Sign of complete AV node necrosis",
+        "Antidromic AVRT; Sign of accessory pathway unmasking"
+      ],
+      "ans": 0,
+      "exp": "Accelerated Idioventricular Tachycardia (AIVT): rate 40-100 bpm, indicates successful thrombolysis. (Book p407)"
+    },
+    {
+      "id": "MED-C7-04",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "numeric",
+      "q": "Which QRS duration definitively indicates true ventricular tachycardia, as opposed to the intermediate 0.12–0.16 s range seen in SVT with BBB or antidromic AVRT?",
+      "opts": [
+        "QRS > 0.16 s",
+        "QRS 0.10 - 0.12 s",
+        "QRS < 0.12 s",
+        "QRS 0.08 - 0.10 s"
+      ],
+      "ans": 0,
+      "exp": "Causes: QRS > 0.16 s: VT; QRS 0.12 - 0.16 s: SupraVT with bundle branch block (BBB) or Antidromic AVRT (WPW syndrome). (Book p407)"
+    },
+    {
+      "id": "MED-C7-05",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "recall",
+      "q": "What is the defining electrophysiological mechanism of a ventricular premature complex (VPC / extrasystole)?",
+      "opts": [
+        "Premature discharge from ventricle occurring earlier than next anticipated sinus beat",
+        "Delayed conduction through AV node resulting in an escape ventricular contraction",
+        "Continuous macro re-entry circulating around the tricuspid valve ring",
+        "Triggered early afterdepolarisation arising from prolonged atrial repolarisation"
+      ],
+      "ans": 0,
+      "exp": "Mechanism of VPC: Extrasystole; Premature discharge from ventricle; Occurs earlier than next anticipated sinus beat. (Book p407)"
+    },
+    {
+      "id": "MED-C7-06",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "oddoneout",
+      "q": "Which finding is NOT among the six diagnostic criteria for VPC listed on page 407?",
+      "opts": [
+        "Preceded by a normal peaked P wave with short PR interval",
+        "Not preceded by P wave",
+        "Very wide QRS complex with ST/T changes in opposite direction",
+        "Always constant coupling interval between VPC and preceding QRS"
+      ],
+      "ans": 0,
+      "exp": "Criteria for VPC: 1. Not preceded by P wave; 2. Very wide QRS complex; 3. ST/T changes in opposite direction; 4. Coupling interval always constant; 5. Compensatory pause; 6. R on T phenomena. (Book p407)"
+    },
+    {
+      "id": "MED-C7-07",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "fillup",
+      "q": "In classic unifocal VPCs, the coupling interval (distance between the VPC and the preceding QRS complex) is characteristically ____.",
+      "opts": [
+        "always constant",
+        "highly variable",
+        "progressively lengthening",
+        "inversely proportional to heart rate"
+      ],
+      "ans": 0,
+      "exp": "Criteria: 4. Coupling interval: Distance b/w VPC & preceding QRS complex: Always constant. (Book p407)"
+    },
+    {
+      "id": "MED-C7-08",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "numeric",
+      "q": "On the ECG measuring a fully compensatory pause following a VPC, how does the distance between two sinus impulses across the VPC compare to normal sinus cycles?",
+      "opts": [
+        "Distance across VPC equals distance across two normal beats (2 × RR interval)",
+        "Distance across VPC is shorter than a single normal RR interval",
+        "Distance across VPC is exactly equal to one normal sinus RR interval",
+        "Distance across VPC equals three times the baseline QT interval"
+      ],
+      "ans": 0,
+      "exp": "Compensatory pause: Distance b/w 2 sinus impulses across VPC = Distance b/w 2 sinus impulses across normal beat (2 x RR; e.g. A = 1340 ms = B = 1340 ms). (Book p407)"
+    },
+    {
+      "id": "MED-C7-09",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 407,
+      "fmt": "scenario",
+      "q": "A monitoring strip captures a premature ventricular contraction falling directly upon the preceding T wave. What is this phenomenon called and what risk does it carry?",
+      "opts": [
+        "R-on-T phenomenon; Can precipitate ventricular fibrillation or polymorphic VT",
+        "Ashman phenomenon; Signifies physiological rate-dependent bundle aberrancy",
+        "Wenckebach phenomenon; Leads to progressive PR prolongation and sinus arrest",
+        "Concealed conduction; Guarantees immediate termination of all ventricular ectopy"
+      ],
+      "ans": 0,
+      "exp": "Criterion 6: R on T phenomena: VPC lies on previous wave (T wave), risking lethal ventricular arrhythmias. (Book p407)"
+    },
+    {
+      "id": "MED-C7-10",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 408,
+      "fmt": "scenario",
+      "q": "An ECG rhythm strip reveals frequent VPCs with variable coupling intervals measured at 760 ms, 640 ms, 580 ms, and 460 ms. What diagnosis does this variation establish?",
+      "opts": [
+        "Parasystole",
+        "Ventricular bigeminy",
+        "Interpolated VPCs",
+        "Monomorphic sustained VT"
+      ],
+      "ans": 0,
+      "exp": "Note: Parasystole: VPCs with different coupling intervals (tracing demonstrates varying intervals: 760 ms, 640 ms, 580 ms, 460 ms). (Book p408)"
+    },
+    {
+      "id": "MED-C7-11",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 408,
+      "fmt": "recall",
+      "q": "How are multifocal ventricular premature complexes defined on the electrocardiogram?",
+      "opts": [
+        "VPCs displaying different morphological configurations",
+        "VPCs occurring at different times of the diurnal cycle",
+        "VPCs that conduct retrogradely into both atria simultaneously",
+        "VPCs originating alternately from the left and right bundle branches"
+      ],
+      "ans": 0,
+      "exp": "Note: Multifocal VPC: VPCs with different morphologies. (Book p408)"
+    },
+    {
+      "id": "MED-C7-12",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 408,
+      "fmt": "fillup",
+      "q": "An ____ VPC is defined as a premature ventricular complex sandwiched between two normal sinus impulses without disturbing the sinus rhythm or creating a compensatory pause.",
+      "opts": [
+        "interpolated",
+        "ectopic",
+        "aberrant",
+        "antidromic"
+      ],
+      "ans": 0,
+      "exp": "Interpolated VPC: VPC sandwiched b/w 2 sinus impulses. (Book p408)"
+    },
+    {
+      "id": "MED-C7-13",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 408,
+      "fmt": "match",
+      "q": "Match each ventricular ectopy frequency pattern to its exact definition — 1) Ventricular bigeminy 2) Ventricular trigeminy 3) Couplet … A) Isolated VPB after every sinus beat B) Isolated VPB after every 2 sinus beats C) 2 VPBs in a row",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Frequency: Ventricular bigeminy: Isolated VPBs after every sinus beat; Ventricular trigeminy: Isolated VPBs after every 2 sinus beats; Couplet: 2 VPBs in a row. (Book p408)"
+    },
+    {
+      "id": "MED-C7-14",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 408,
+      "fmt": "numeric",
+      "q": "According to the frequency criteria on page 408, what consecutive run of VPBs and what heart rate threshold officially define Ventricular Tachycardia (VT)?",
+      "opts": [
+        "≥ 3 VPBs in a row + HR > 100 bpm",
+        "≥ 2 VPBs in a row + HR > 120 bpm",
+        "≥ 5 VPBs in a row + HR > 90 bpm",
+        "≥ 6 VPBs in a row + HR > 150 bpm"
+      ],
+      "ans": 0,
+      "exp": "Under Frequency: 'VT : ≥ 3 VPBs in a row + HR > 100 bpm.' (Book p408)"
+    },
+    {
+      "id": "MED-C7-15",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "page": 408,
+      "fmt": "management",
+      "q": "A patient with no structural heart disease is found to have asymptomatic isolated VPCs causing occasional palpitations. What is the indicated treatment and what is contraindicated?",
+      "opts": [
+        "No treatment required; Prophylactic anti-arrhythmics are contraindicated in absence of clinically significant VT",
+        "Immediate oral amiodarone loading; Beta-blockers are contraindicated",
+        "Elective catheter ablation within 2 weeks; Observation is contraindicated",
+        "Intravenous lidocaine infusion; Defibrillator implantation is contraindicated"
+      ],
+      "ans": 0,
+      "exp": "Treatment: No treatment required; Prophylactic anti-arrhythmics C/I in absence of clinically significant VT. (Book p408)"
+    },
+    {
+      "id": "MED-C7-16",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 409,
+      "fmt": "oddoneout",
+      "q": "Which clinical or ECG feature is NOT listed among the seven warning signs for malignant VPCs on page 409?",
+      "opts": [
+        "Complete suppression of ectopy during exercise stress testing",
+        "Increased frequency of episodes, multifocal VPCs, and bigeminy/couplets",
+        "First episode presenting at age > 40 years",
+        "Ectopy not affected by exercise, parasystole, and underlying LV dysfunction"
+      ],
+      "ans": 0,
+      "exp": "Warning signs: Increased frequency, multifocal, bigeminy/couplet, first episode > 40 years, NOT affected by exercise, parasystole, LV dysfunction. (Book p409)"
+    },
+    {
+      "id": "MED-C7-17",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 409,
+      "fmt": "recall",
+      "q": "What electrocardiographic criteria characterize monomorphic ventricular tachycardia?",
+      "opts": [
+        "Wide QRS tachycardia (> 0.16 s), Rate > 200 bpm, and all complexes look alike",
+        "Narrow QRS tachycardia (< 0.12 s), Rate 150 bpm, and changing polarities",
+        "Intermediate QRS (0.12–0.16 s), Rate 100 bpm, with sawtooth flutter waves",
+        "Irregular wide QRS complexes with continually twisting electrical axes"
+      ],
+      "ans": 0,
+      "exp": "Monomorphic VT ECG features: Wide QRS tachycardia: > 0.16 s; Rate > 200 bpm; All complexes look alike: monomorphic VT. (Book p409)"
+    },
+    {
+      "id": "MED-C7-18",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 409,
+      "fmt": "numeric",
+      "q": "What duration threshold defines sustained monomorphic ventricular tachycardia on page 409?",
+      "opts": [
+        "Sustained ≥ 30 s",
+        "Sustained ≥ 60 s",
+        "Sustained ≥ 15 s",
+        "Sustained ≥ 10 s"
+      ],
+      "ans": 0,
+      "exp": "The text states: 'Sustained monomorphic VT : Sustained ≥ 30s.' (Book p409)"
+    },
+    {
+      "id": "MED-C7-19",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 409,
+      "fmt": "truefalse",
+      "q": "Which statement regarding the transition shown on the 12-lead ECG panel at the bottom of page 409 is accurate?",
+      "opts": [
+        "True — The 12-lead ECG strip demonstrates an initial run of wide-complex VT transitioning directly into ventricular bigeminy",
+        "True — The 12-lead ECG strip shows typical AVNRT transitioning into normal sinus rhythm after adenosine",
+        "False — The tracing shows complete asystole transitioning into idioventricular escape rhythm",
+        "False — The ECG displays atrial flutter with 4:1 block converting to multifocal atrial tachycardia"
+      ],
+      "ans": 0,
+      "exp": "The annotated 12-lead ECG panel at the bottom of page 409 clearly demonstrates the run of 'VT' transitioning into 'Bigeminy'. (Book p409)"
+    },
+    {
+      "id": "MED-C7-20",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "scenario",
+      "q": "On a monitor strip of wide-complex tachycardia, one beat displays hybrid features of both a normal sinus impulse and a ventricular ectopic focus, while another beat is completely narrow where the sinus beat briefly captured the ventricles. What are these beats called?",
+      "opts": [
+        "Fusion beat and Capture beat",
+        "Escape beat and Interpolated beat",
+        "Parasystolic beat and Couplet beat",
+        "Echo beat and Reciprocal beat"
+      ],
+      "ans": 0,
+      "exp": "Cardinal features: Fusion beat: Features of both sinus + VPC; Capture beats: Point where sinus has taken over. (Book p410)"
+    },
+    {
+      "id": "MED-C7-21",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "numeric",
+      "q": "How is Brugada's sign defined when evaluating a wide QRS complex on the ECG?",
+      "opts": [
+        "Distance from onset of QRS complex to nadir of S wave > 100 ms",
+        "Distance from J-point to peak of T wave > 440 ms",
+        "PR interval duration exceeding 200 ms during tachycardia",
+        "Peak-to-peak amplitude of QRS complex > 25 mm in precordial leads"
+      ],
+      "ans": 0,
+      "exp": "Brugada sign: Distance from onset of QRS complex to nadir of S wave: > 100 ms. (Book p410)"
+    },
+    {
+      "id": "MED-C7-22",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "fillup",
+      "q": "The presence of distinct notching at the nadir of the S wave in a wide QRS tachycardia is designated as ____ sign.",
+      "opts": [
+        "Josephson's",
+        "Brugada's",
+        "Osborn's",
+        "Ewart's"
+      ],
+      "ans": 0,
+      "exp": "Josephson's sign: Notching at the nadir of S wave. (Book p410)"
+    },
+    {
+      "id": "MED-C7-23",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "recall",
+      "q": "What is meant by positive or negative precordial concordance, and what is its clinical significance in wide-complex tachycardia?",
+      "opts": [
+        "All precordial leads (V1–V6) show completely positive or completely negative QRS complexes; strongly indicates VT",
+        "Precordial leads alternate strictly between upright and inverted deflections; confirms SVT with aberrancy",
+        "Limb leads match chest leads in frontal axis direction; rules out structural heart disease",
+        "Lead V1 and V6 share identical RS ratios; diagnostic of uncomplicated bundle branch block"
+      ],
+      "ans": 0,
+      "exp": "Cardinal features list +ve or -ve concordance (all precordial leads positive or all negative), which points to ventricular tachycardia. (Book p410)"
+    },
+    {
+      "id": "MED-C7-24",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "truefalse",
+      "q": "Which statement regarding Brugada criteria for diagnosing VT on this page is accurate?",
+      "opts": [
+        "True — Brugada criteria include RS complex absent or > 100 ms, alongside no P waves / AV dissociation",
+        "True — Brugada criteria mandate normal PR interval and absence of S waves across all 12 leads",
+        "False — AV dissociation on ECG rules out ventricular tachycardia and confirms sinus mechanism",
+        "False — Brugada criteria apply exclusively to narrow QRS tachycardias lasting < 30 seconds"
+      ],
+      "ans": 0,
+      "exp": "Brugada criteria: RS complex absent OR > 100 ms; No P waves / A-V dissociation. (Book p410)"
+    },
+    {
+      "id": "MED-C7-25",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "management",
+      "q": "What is the drug of choice and infusion protocol for hemodynamically stable monomorphic VT in a patient with structural heart disease?",
+      "opts": [
+        "Amiodarone: 150 mg IV bolus × 10 min, followed by 1 mg/min × 6 hr and 0.5 mg/min × 18 hrs",
+        "Procainamide: 100 mg IV push every 2 minutes up to a maximum dose of 5 mg/kg",
+        "Lignocaine: 500 mg IV infusion over 1 hour followed by oral mexiletine",
+        "Adenosine: 6 mg rapid IV push followed immediately by 12 mg"
+      ],
+      "ans": 0,
+      "exp": "Stable VT in structural heart disease: Amiodarone: 150 mg IV bolus x 10min followed by 1 mg/min x 6 hr & 0.5 mg/min x 18 hrs. (Book p410)"
+    },
+    {
+      "id": "MED-C7-26",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "management",
+      "q": "In a hemodynamically stable patient with VT who has NO structural heart disease, which agent is the drug of choice (DOC) and what is its dosing?",
+      "opts": [
+        "Procainamide (DOC): 20 to 50 mg/min (max: 17 mg/kg)",
+        "Amiodarone (DOC): 300 mg rapid IV push over 30 seconds",
+        "Verapamil (DOC): 10 mg IV push repeated every 5 minutes",
+        "Digoxin (DOC): 0.5 mg IV bolus followed by maintenance infusion"
+      ],
+      "ans": 0,
+      "exp": "Procainamide (DOC if no heart disease): 20 to 50 mg/min (max: 17 mg/kg). (Book p410)"
+    },
+    {
+      "id": "MED-C7-27",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "page": 410,
+      "fmt": "management",
+      "q": "A patient in monomorphic VT becomes hemodynamically unstable with severe hypotension. What electrical therapy and energy range are indicated?",
+      "opts": [
+        "Synchronized DC Cardioversion 100 – 360 J",
+        "Unsynchronized defibrillation 50 J",
+        "Transcutaneous pacing at 60 bpm with 20 mA",
+        "Synchronized DC Cardioversion 10 – 25 J"
+      ],
+      "ans": 0,
+      "exp": "Hemodynamically unstable VT: Synchronized DC Cardioversion 100-360 J. (Book p410)"
+    },
+    {
+      "id": "MED-C7-28",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 411,
+      "fmt": "recall",
+      "q": "How is polymorphic ventricular tachycardia defined, and what condition is it typically associated with when accompanied by a prolonged QT interval?",
+      "opts": [
+        "Multiple different complexes with changing polarities; Torsades de pointes (TdP)",
+        "Identical uniform complexes at 150 bpm; Accelerated idioventricular rhythm",
+        "Narrow QRS complexes with absent P waves; Inappropriate sinus tachycardia",
+        "Sawtooth oscillations around baseline; Reverse typical atrial flutter"
+      ],
+      "ans": 0,
+      "exp": "Polymorphic VT: multiple different complexes with changing polarities; usually a/w prolonged QT: Torsades de pointes (TdP). (Book p411)"
+    },
+    {
+      "id": "MED-C7-29",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 411,
+      "fmt": "oddoneout",
+      "q": "Which factor is NOT listed under acquired causes of Torsades de pointes (TdP) on page 411?",
+      "opts": [
+        "Hyperkalemia",
+        "Myocardial infarction (MI)",
+        "Decreased K+, decreased Ca2+, decreased Mg2+, and hypothermia",
+        "Antiarrhythmics (Class Ia, Ic, III), macrolides (erythromycin), and terfenadine"
+      ],
+      "ans": 0,
+      "exp": "Acquired causes of TdP include MI, decreased K+, decreased Ca2+, decreased Mg2+, hypothermia, and drugs (Class Ia, Ic, III; erythromycin; terfenadine). Hyperkalemia is not an acquired cause of TdP. (Book p411)"
+    },
+    {
+      "id": "MED-C7-30",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 411,
+      "fmt": "fillup",
+      "q": "Under the causes of Torsades de pointes, the congenital category is represented by congenital ____ syndrome.",
+      "opts": [
+        "Long QT",
+        "Short QT",
+        "Brugada",
+        "Wolff-Parkinson-White"
+      ],
+      "ans": 0,
+      "exp": "Causes of TdP: Congenital: Long QT Syndrome. (Book p411)"
+    },
+    {
+      "id": "MED-C7-31",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 411,
+      "fmt": "oddoneout",
+      "q": "In the note contrasting short QT causes on page 411, which condition is NOT listed as a cause of short QT interval?",
+      "opts": [
+        "Hypocalcemia",
+        "Hypercalcemia",
+        "Digoxin",
+        "Hyperthermia"
+      ],
+      "ans": 0,
+      "exp": "Note: Short QT causes: Hypercalcemia, Digoxin, Hyperthermia. Hypocalcemia causes long QT, not short QT. (Book p411)"
+    },
+    {
+      "id": "MED-C7-32",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 411,
+      "fmt": "scenario",
+      "q": "A patient with severe hypokalemia collapses into Torsades de pointes. According to the management pathway on page 411, what is the immediate intervention, what drug is infused, and what is the subsequent stabilization?",
+      "opts": [
+        "Immediate defibrillation -> 2 g IV MgSO4 over 10 mins -> Rhythm stabilization (treatment of cause)",
+        "Synchronized cardioversion at 50 J -> IV amiodarone bolus -> Urgent overdrive pacing",
+        "High-dose atropine 2 mg IV -> Infusion of calcium gluconate -> DC shock at 360 J",
+        "Carotid sinus massage -> Adenosine 6 mg rapid push -> Maintenance verapamil"
+      ],
+      "ans": 0,
+      "exp": "Management of TdP: Immediate defibrillation -> 2 g IV MgSO4 over 10 mins -> Rhythm stabilization: Congenital -> β-blockers; Acquired -> Rx of Cause. (Book p411)"
+    },
+    {
+      "id": "MED-C7-33",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 411,
+      "fmt": "numeric",
+      "q": "In defibrillation, current is discharged asynchronously. What is the duration of the vulnerable period on the T wave during which a shock risks precipitating ventricular fibrillation?",
+      "opts": [
+        "20 – 30 ms on T wave",
+        "100 – 120 ms on T wave",
+        "5 – 10 ms on T wave",
+        "50 – 75 ms on T wave"
+      ],
+      "ans": 0,
+      "exp": "Defibrillation: Risk of V. Fib if current discharged at vulnerable period of T wave; Vulnerable period: 20 - 30 ms on T wave. (Book p411)"
+    },
+    {
+      "id": "MED-C7-34",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 412,
+      "fmt": "truefalse",
+      "q": "Which statement correctly distinguishes the procedural setup of synchronized cardioversion from unsynchronized defibrillation on page 412?",
+      "opts": [
+        "True — Synchronized cardioversion synchronizes with the patient's intrinsic rhythm, whereas unsynchronized requires no electrode connection to patient rhythm",
+        "True — Synchronized cardioversion can only be performed when electrodes are not connected to the patient",
+        "False — Unsynchronized defibrillation delivers current strictly at the peak of the patient's R wave",
+        "False — Synchronized cardioversion carries a higher risk of triggering VF during the T wave vulnerable period"
+      ],
+      "ans": 0,
+      "exp": "Procedure: Synchronized: Sync cardioverter/defibrillator with patient's rhythm; Unsynchronized: No need to connect electrode to patient. (Book p412)"
+    },
+    {
+      "id": "MED-C7-35",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 412,
+      "fmt": "fillup",
+      "q": "When applying defibrillator paddles to the chest, paddle 1 is placed at the right side of the upper sternum below the clavicle, and paddle 2 is placed at the apex of the heart, located ____ of the nipple.",
+      "opts": [
+        "left",
+        "right",
+        "superior",
+        "medial"
+      ],
+      "ans": 0,
+      "exp": "Paddles: 1. Right side of upper sternum below clavicle; 2. Apex of heart (Left of nipple). (Book p412)"
+    },
+    {
+      "id": "MED-C7-36",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "page": 412,
+      "fmt": "match",
+      "q": "Match each arrhythmia to its specified electrical cardioversion or defibrillation energy setting on page 412 — 1) Atrial Flutter 2) Monomorphic VT 3) Atrial Fibrillation 4) Polymorphic VT … A) 50 J B) 100 J C) 100 – 200 J D) 200 J",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-C, 3-B, 4-D"
+      ],
+      "ans": 0,
+      "exp": "Energy: Start with 50 J. A. Flutter: 50 J; Monomorphic VT: 100 J; A. Fib: 100-200 J; Polymorphic VT: 200 J. (Book p412)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U7-1",
+      "ch": 7,
+      "n": 1,
+      "title": "1. Broad QRS Mechanisms & Premature Complexes",
+      "sec": "Broad QRS Mechanisms & Premature Complexes",
+      "guide": "Cell-to-cell ventricular conduction, IVT, AIVT reperfusion marker, and VT definitions.\nSix diagnostic criteria for VPCs: lack of P wave, wide QRS, discordance, and constant coupling.\nCompensatory pauses (2xRR), R-on-T risk, parasystole, multifocal, bigeminy, and trigeminy.",
+      "qs": [
+        "MED-C7-01", "MED-C7-02", "MED-C7-03", "MED-C7-04", "MED-C7-05",
+        "MED-C7-06", "MED-C7-07", "MED-C7-08", "MED-C7-09", "MED-C7-10",
+        "MED-C7-11", "MED-C7-12", "MED-C7-13", "MED-C7-14", "MED-C7-15"
+      ]
+    },
+    {
+      "id": "MED-U7-2",
+      "ch": 7,
+      "n": 2,
+      "title": "2. Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "sec": "Warning Signs, Monomorphic VT & Diagnostic Signs",
+      "guide": "High-risk VPC warning signs, monomorphic VT features, and ≥30 s sustained cutoff.\nCapture beats, fusion beats, Brugada sign (>100 ms), and Josephson's notched S wave.\nPrecordial concordance, Brugada criteria, amiodarone, procainamide, and DC cardioversion.",
+      "qs": [
+        "MED-C7-16", "MED-C7-17", "MED-C7-18", "MED-C7-19", "MED-C7-20",
+        "MED-C7-21", "MED-C7-22", "MED-C7-23", "MED-C7-24", "MED-C7-25",
+        "MED-C7-26", "MED-C7-27"
+      ]
+    },
+    {
+      "id": "MED-U7-3",
+      "ch": 7,
+      "n": 3,
+      "title": "3. Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "sec": "Polymorphic VT, Torsades de Pointes & Defibrillation",
+      "guide": "Polymorphic VT twisting contours, long QT syndrome, and acquired vs congenital TdP.\nShort QT causes, emergency defibrillation, IV magnesium sulfate (2g), and beta-blockers.\nT-wave vulnerable period (20–30 ms), sternum/apex paddle sites, and energy doses.",
+      "qs": [
+        "MED-C7-28", "MED-C7-29", "MED-C7-30", "MED-C7-31", "MED-C7-32",
+        "MED-C7-33", "MED-C7-34", "MED-C7-35", "MED-C7-36"
+      ]
+    }
+  ]
+}
+
+with open("data/ch07.json", "w", encoding="utf-8") as f:
+    json.dump(ch07, f, indent=2, ensure_ascii=False)
+print("ch07.json generated successfully!")

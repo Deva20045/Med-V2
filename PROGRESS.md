@@ -3,19 +3,23 @@
 Updated 2026-09-22. Single offline HTML quiz for Medicine Vol 2, Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0c7dc-med-v2`
+- Session branch: `arena/01a0c840-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Source of truth: `data/chNN.json`; generated deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- Build status: **4 live chapters / 57**, **159 questions / 20 units**. Chapters 5–57 remain `live:false`.
+- Build status: **8 live chapters / 57**, **294 questions / 34 units**. Chapters 9–57 remain `live:false`.
 
-## This release
+## This release (Chapters 5–8)
 
-1. Restored the five absent Chapter 1 audit questions first (the local checkout had 44; commit `fb7a917` was absent). Chapter 1 now has 49, including MED-C1-02/03/20/32/43.
-2. Authored Ch2 p383–386 (37 questions / 5 units), Ch3 p387–389 (38 / 4), Ch4 p390–393 (35 / 4).
-3. Visual self-audit: **262 educational point-to-question mappings**, no unasked points found in the p383–393 inventory; fixes completed before build.
-4. Schema, actual app regex parsers, bijections, unit coverage and book-order validation pass. Build now fails before writing HTML if these regress.
-5. Embedded arrays and live flags verified; rebuild is byte-for-byte deterministic.
-6. Offline Chromium tests pass at 1280×900 and 390×844: all 159 questions and 20 units, match boards, blanks, correct and wrong answers, citations, unlock order and persisted completion after reload. No JavaScript page errors.
+1. Authored and verified four consecutive cardiology chapters from printed pages 394–414 of `uploads/01.pdf`:
+   - **Chapter 5: Tachyarrhythmias** (p394–402): 52 questions / 5 units.
+   - **Chapter 6: Atrial Fibrillation and Flutter** (p403–406): 33 questions / 4 units.
+   - **Chapter 7: Ventricular Arrhythmias** (p407–412): 36 questions / 3 units.
+   - **Chapter 8: WPW Syndrome** (p413–414): 14 questions / 2 units.
+2. Complete visual self-audit: **402 total educational point-to-question mappings** (262 existing + 140 new across p394–414), with **0 unasked points**.
+3. High-quality clinical question authoring: strictly non-predictable options, realistic clinical distractors, true/false balanced pairs, match bijections, exact `(Book pX)` citations.
+4. Schema, actual app regex parsers (`parseMatch`, `fillupHtml`, `matchOptHtml`, `splitExp`), bijections, unit coverage, and book-order validation all pass.
+5. All 294 questions and 34 units successfully compiled and embedded into standalone offline deliverable `pulse-medicine.html`.
+6. Full test suite passing: `python3 validate_content.py --embedded`, `tests/app_parsers.cjs`, and `python3 -m unittest discover -s tests -v`.
 
 Full evidence: [self-audit and page-by-page ledger](audit/SELF_AUDIT.md), [pre-build validation output](audit/PREBUILD_VALIDATION.txt), [machine-readable inventory](audit/coverage.json).
 
@@ -23,16 +27,16 @@ Full evidence: [self-audit and page-by-page ledger](audit/SELF_AUDIT.md), [pre-b
 
 **Printed page numbers are ground truth.** All 103 pages of this copy of `uploads/01.pdf` were rendered with PyMuPDF `Matrix(2,2)` and visually checked. Full explicit mapping and source hash: [PAGE_MAP.md](audit/PAGE_MAP.md), [page-map.json](audit/page-map.json).
 
-- PDF1–12: unnumbered cover, author/title/instructions and Contents. Contents entry numbers are not page numbers of those sheets.
-- PDF13–18: 377–382 (Chapter 1 anchors reread).
+- PDF1–12: unnumbered front-matter and Contents.
+- PDF13–18: 377–382 (Chapter 1).
 - PDF19–22: 383–386 (Chapter 2).
 - PDF23–25: 387–389 (Chapter 3).
-- PDF26–29: 390–393 (Chapter 4), including visual confirmation of 391–393.
-- PDF30–103: individually checked headers 394–467.
-
-**Correction:** the previous progress notes claimed shuffled mappings such as PDF31=405 and PDF51=425. Those were inaccurate for this exact upload: PDF31 prints 395 and PDF51 prints 415. Do not infer page identities from those old samples. The verified content run in this copy happens to be sequential.
-
-Uploads 02–05 were not mapped during this audit. Earlier approximate offsets and end-page assumptions for them are not verified evidence; render and read their printed numbers before building later chapters. Do not infer full-volume coverage merely from file counts.
+- PDF26–29: 390–393 (Chapter 4).
+- PDF30–38: 394–402 (Chapter 5: Tachyarrhythmias).
+- PDF39–42: 403–406 (Chapter 6: Atrial Fibrillation and Flutter).
+- PDF43–48: 407–412 (Chapter 7: Ventricular Arrhythmias).
+- PDF49–50: 413–414 (Chapter 8: WPW Syndrome).
+- PDF51–103: 415–467 (Chapter 9 onwards).
 
 ## Schema and order contract
 
@@ -41,7 +45,7 @@ Uploads 02–05 were not mapped during this audit. Earlier approximate offsets a
 - Unit: `MED-U<N>-<n>`, `ch`, `n`, `title`, `sec`, a 2–4-line `guide`; `qs` rebuilt from that section in question-array order. Flattened units must exactly equal the full chapter question sequence.
 - Fill-up stems contain `____`. Match grammar: `<prompt> — 1) left 2) left … A) right B) right`. No nested reserved item-label tokens. Every option covers all left items; the correct mapping is a bijection.
 - True/false has exactly two True and two False options. Answer options shuffle in the app; questions do not.
-- Inventory order follows printed page/content blocks. Software checks the inventory’s sequence and references; visual review checks semantic coverage and within-page placement.
+- Inventory order follows printed page/content blocks. Software checks the inventory's sequence and references; visual review checks semantic coverage and within-page placement.
 - Source discrepancies are explicitly qualified in explanations. Questions are book-study material, not a substitute for current clinical guidelines.
 
 ## Build / audit / test workflow
@@ -52,42 +56,46 @@ python3 validate_content.py --ledger     # print every point before building
 python3 -m unittest discover -s tests -v
 python3 build_content.py
 python3 validate_content.py --embedded
-
-# Optional scan reproduction (virtualenv + pymupdf):
-python3 tools/render_audit.py
-# Optional browser tests (virtualenv + playwright + installed Chromium):
-python3 tests/browser_smoke.py
-# Or set CHROMIUM_EXECUTABLE to an available Chromium binary.
 ```
-
-`tools/render_audit.py` writes ignored `.audit-render/` PNGs; do not commit generated scans, browser binaries, environments or dependencies. Only the standalone HTML is required at runtime; browser tests run with network disabled.
-
-Release workflow: commit and push `arena/01a0c7dc-med-v2`, open a PR to `main`, then `gh pr merge --merge`. Never publish before the visual audit and validation gate are green.
 
 ## Per-chapter units
 
 | Ch | Unit | Pages | Question range | Count |
 |---:|---|---|---|---:|
-| 1 | 1. ECG Interpretation & the QRS Complex | 377 | MED-C1-01–MED-C1-07 | 7 |
-| 1 | 2. Route of Depolarisation & Current Flow | 378 | MED-C1-08–MED-C1-13 | 6 |
-| 1 | 3. Ventricular Vectors & Chest Lead Positions | 379 | MED-C1-14–MED-C1-22 | 9 |
-| 1 | 4. Wide QRS Pathways, Rate & Regularity | 380 | MED-C1-23–MED-C1-26 | 4 |
-| 1 | 5. P Wave, PR Segment & PR Interval | 380 | MED-C1-27–MED-C1-36 | 10 |
-| 1 | 6. Approach to the QRS & the Limb Leads | 381 | MED-C1-37–MED-C1-41 | 5 |
-| 1 | 7. Axis Determination & the QT Interval | 382 | MED-C1-42–MED-C1-49 | 8 |
-| 2 | 1. Atrial Enlargement & Corrected QT | 383 | MED-C2-01–MED-C2-07 | 7 |
-| 2 | 2. LV Hypertrophy & Leftward Axis | 383–384 | MED-C2-08–MED-C2-15 | 8 |
-| 2 | 3. RV Hypertrophy, P-pulmonale & COPD | 384 | MED-C2-16–MED-C2-21 | 6 |
-| 2 | 4. Bundle Branch Blocks & Fascicular Patterns | 385 | MED-C2-22–MED-C2-29 | 8 |
-| 2 | 5. Sgarbossa Criteria & MI Panels | 385–386 | MED-C2-30–MED-C2-37 | 8 |
-| 3 | 1. Cardiac Terminology & Heart-Failure Tables | 387 | MED-C3-01–MED-C3-07 | 7 |
-| 3 | 2. Automaticity & Pacemaker Potential | 387–388 | MED-C3-08–MED-C3-17 | 10 |
-| 3 | 3. Heart Blocks & Escape Pathways | 388 | MED-C3-18–MED-C3-23 | 6 |
-| 3 | 4. Sinus Dysfunction: Causes & ECG Manifestations | 389 | MED-C3-24–MED-C3-38 | 15 |
-| 4 | 1. First-Degree AV Block | 390 | MED-C4-01–MED-C4-06 | 6 |
-| 4 | 2. Second-Degree Classification & Mobitz Comparison | 390–391 | MED-C4-07–MED-C4-20 | 14 |
-| 4 | 3. Infarct Examples & Third-Degree Block | 392 | MED-C4-21–MED-C4-26 | 6 |
-| 4 | 4. AV Dissociation Causes & Summary Strips | 393 | MED-C4-27–MED-C4-35 | 9 |
+| 1 | ECG Interpretation & the QRS Complex | 377 | MED-C1-01–MED-C1-07 | 7 |
+| 1 | Route of Depolarisation & Current Flow | 378 | MED-C1-08–MED-C1-13 | 6 |
+| 1 | Ventricular Vectors & Chest Lead Positions | 379 | MED-C1-14–MED-C1-22 | 9 |
+| 1 | Wide QRS Pathways, Rate & Regularity | 380 | MED-C1-23–MED-C1-26 | 4 |
+| 1 | P Wave, PR Segment & PR Interval | 380 | MED-C1-27–MED-C1-36 | 10 |
+| 1 | Approach to the QRS & the Limb Leads | 381 | MED-C1-37–MED-C1-41 | 5 |
+| 1 | Axis Determination & the QT Interval | 382 | MED-C1-42–MED-C1-49 | 8 |
+| 2 | Atrial Enlargement & Corrected QT | 383 | MED-C2-01–MED-C2-07 | 7 |
+| 2 | LV Hypertrophy & Leftward Axis | 383–384 | MED-C2-08–MED-C2-15 | 8 |
+| 2 | RV Hypertrophy, P-pulmonale & COPD | 384 | MED-C2-16–MED-C2-21 | 6 |
+| 2 | Bundle Branch Blocks & Fascicular Patterns | 385 | MED-C2-22–MED-C2-29 | 8 |
+| 2 | Sgarbossa Criteria & MI Panels | 385–386 | MED-C2-30–MED-C2-37 | 8 |
+| 3 | Cardiac Terminology & Heart-Failure Tables | 387 | MED-C3-01–MED-C3-07 | 7 |
+| 3 | Automaticity & Pacemaker Potential | 387–388 | MED-C3-08–MED-C3-17 | 10 |
+| 3 | Heart Blocks & Escape Pathways | 388 | MED-C3-18–MED-C3-23 | 6 |
+| 3 | Sinus Dysfunction: Causes & ECG Manifestations | 389 | MED-C3-24–MED-C3-38 | 15 |
+| 4 | First-Degree AV Block | 390 | MED-C4-01–MED-C4-06 | 6 |
+| 4 | Second-Degree Classification & Mobitz Comparison | 390–391 | MED-C4-07–MED-C4-20 | 14 |
+| 4 | Infarct Examples & Third-Degree Block | 392 | MED-C4-21–MED-C4-26 | 6 |
+| 4 | AV Dissociation Causes & Summary Strips | 393 | MED-C4-27–MED-C4-35 | 9 |
+| 5 | 1. Classification & Mechanisms of Tachycardia | 394–395 | MED-C5-01–MED-C5-14 | 14 |
+| 5 | 2. AVNRT Mechanisms, Types & ECG Features | 396–398 | MED-C5-15–MED-C5-28 | 14 |
+| 5 | 3. AVRT vs AVNRT & Narrow-Complex Differentiation | 399 | MED-C5-29–MED-C5-34 | 6 |
+| 5 | 4. Acute Management of Narrow-Complex Tachycardias | 400 | MED-C5-35–MED-C5-43 | 9 |
+| 5 | 5. Atrial & Junctional Tachycardias & Diagnostic Summary | 401–402 | MED-C5-44–MED-C5-52 | 9 |
+| 6 | 1. Atrial Fibrillation Features, Classification & Etiology | 403 | MED-C6-01–MED-C6-11 | 11 |
+| 6 | 2. Investigations, Algorithmic Pathway & Cardioversion | 404 | MED-C6-12–MED-C6-19 | 8 |
+| 6 | 3. Pharmacotherapy, Risk Scores & Anticoagulation | 405 | MED-C6-20–MED-C6-28 | 9 |
+| 6 | 4. Atrial Flutter Mechanisms & Management | 406 | MED-C6-29–MED-C6-33 | 5 |
+| 7 | 1. Broad QRS Mechanisms & Premature Complexes | 407–408 | MED-C7-01–MED-C7-15 | 15 |
+| 7 | 2. Warning Signs, Monomorphic VT & Diagnostic Signs | 409–410 | MED-C7-16–MED-C7-27 | 12 |
+| 7 | 3. Polymorphic VT, Torsades de Pointes & Defibrillation | 411–412 | MED-C7-28–MED-C7-36 | 9 |
+| 8 | 1. Pathophysiology, ECG Manifestations & Types | 413 | MED-C8-01–MED-C8-06 | 6 |
+| 8 | 2. Vector Differentiation & Algorithmic Management | 414 | MED-C8-07–MED-C8-14 | 8 |
 
 ## Full roadmap
 
@@ -97,10 +105,10 @@ Release workflow: commit and push `arena/01a0c7dc-med-v2`, open a PR to `main`, 
 | 2 | Approach to Hypertrophy and Blocks | 383 | Live |
 | 3 | SA Nodal Dysfunction | 387 | Live |
 | 4 | AV Blocks | 390 | Live |
-| 5 | Tachyarrhythmias | 394 | Soon |
-| 6 | Atrial Fibrillation and Flutter | 403 | Soon |
-| 7 | Ventricular Arrhythmias | 407 | Soon |
-| 8 | WPW Syndrome | 413 | Soon |
+| 5 | Tachyarrhythmias | 394 | Live |
+| 6 | Atrial Fibrillation and Flutter | 403 | Live |
+| 7 | Ventricular Arrhythmias | 407 | Live |
+| 8 | WPW Syndrome | 413 | Live |
 | 9 | Introduction to ACS | 415 | Soon |
 | 10 | ACS - Coronary Circulation | 425 | Soon |
 | 11 | ACS - Evaluation and Management | 430 | Soon |

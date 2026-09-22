@@ -73,8 +73,9 @@ def validate_ledger(chapters, ledger):
     indexed = {q['id']: q for c in chapters for q in c['questions']}
     seen_points = set()
     covered = []
+    audited_chapters = (2, 3, 4, 5, 6, 7, 8)
     for row in ledger:
-        require(row['chapter'] in (2, 3, 4), 'ledger: unexpected chapter')
+        require(row['chapter'] in audited_chapters, 'ledger: unexpected chapter')
         require(row['question'] in indexed, f"ledger: unknown {row['question']}")
         q = indexed[row['question']]
         require(row['question'].startswith(f"MED-C{row['chapter']}-"), 'ledger: chapter mismatch')
@@ -85,7 +86,7 @@ def validate_ledger(chapters, ledger):
         seen_points.add(point)
         if not covered or covered[-1] != q['id']:
             covered.append(q['id'])
-    expected = [q['id'] for c in chapters if c['chapter'] in (2, 3, 4) for q in c['questions']]
+    expected = [q['id'] for c in chapters if c['chapter'] in audited_chapters for q in c['questions']]
     require(covered == expected, 'ledger: inventory book order and complete question coverage')
 
 

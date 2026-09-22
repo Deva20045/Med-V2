@@ -1570,5 +1570,845 @@
     "page": 393,
     "point": "Summary complete AV block infranodal broad row",
     "question": "MED-C4-35"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Tachyarrhythmias definition: HR > 100 bpm",
+    "question": "MED-C5-01"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "QRS complex morphological classification: Narrow vs Wide",
+    "question": "MED-C5-01"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Three fundamental causes of tachycardia: enhanced automaticity, triggered activity, and re-entry",
+    "question": "MED-C5-02"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Ventricular origin above bifurcation of Bundle of His: Purkinje fibers -> B/L synchronous activation",
+    "question": "MED-C5-03"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Ventricular origin above His bifurcation: normal/narrow QRS complex (< 0.12 s)",
+    "question": "MED-C5-03"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Ventricular origin below bifurcation of Bundle of His: ventricular myocardium activates ventricles",
+    "question": "MED-C5-04"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Ventricular origin below His bifurcation: wide QRS complex (≥ 0.16 s)",
+    "question": "MED-C5-04"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Supraventricular origin associated with bundle branch block: QRS complex 0.12 - 0.16 s",
+    "question": "MED-C5-05"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Classification triad: SVT (narrow QRS), SVT with conduction block (slightly wide QRS), VT (wide QRS)",
+    "question": "MED-C5-06"
+  },
+  {
+    "chapter": 5,
+    "page": 394,
+    "point": "Enhanced automaticity normal mechanism: sinus tachycardia, normal sinus impulse originating from SA node",
+    "question": "MED-C5-07"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Abnormal automaticity: atrial tachycardia (focal/multifocal, has all 3 mechanisms), junctional tachycardia, ischemic VT",
+    "question": "MED-C5-08"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Paroxysmal atrial tachycardia with AV block: associated with digoxin toxicity, precipitated by hypokalemia, due to enhanced automaticity",
+    "question": "MED-C5-09"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Triggered activity early afterdepolarisation (EAD): Long QT Syndrome leading to Torsades de pointes",
+    "question": "MED-C5-10"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Triggered activity late afterdepolarisation (DAD): catecholamine sensitive arrhythmias d/t sympathetic activity and increased intracellular Ca2+",
+    "question": "MED-C5-11"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "DAD arrhythmias: RVOT VT, LVOT VT, and sympathetic VT",
+    "question": "MED-C5-11"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Re-entry mechanism: precipitated by PAC or PVC; highly responsive to DC cardioversion",
+    "question": "MED-C5-12"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Micro re-entry circuits: AVNRT, Brugada Syndrome, Atrial Fibrillation",
+    "question": "MED-C5-13"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Macro re-entry circuits: AVRT, Atrial Flutter, Scar VT",
+    "question": "MED-C5-13"
+  },
+  {
+    "chapter": 5,
+    "page": 395,
+    "point": "Causes based on QRS: wide QRS VT occurs only in structurally abnormal heart (prior infarction); narrow QRS encompasses automaticity and re-entry",
+    "question": "MED-C5-14"
+  },
+  {
+    "chapter": 5,
+    "page": 396,
+    "point": "Interpreting narrow QRS tachycardia: HR = 1500 / 10 = 150 bpm; every QRS preceded by P confirming SAN/atrial origin",
+    "question": "MED-C5-15"
+  },
+  {
+    "chapter": 5,
+    "page": 396,
+    "point": "Relative frequency hierarchy: m/c SVT: Sinus tachycardia > AF > AVNRT > AVRT > SART",
+    "question": "MED-C5-16"
+  },
+  {
+    "chapter": 5,
+    "page": 396,
+    "point": "AVNRT features: can occur in structurally normal heart, female predominance (F > M), good prognosis",
+    "question": "MED-C5-17"
+  },
+  {
+    "chapter": 5,
+    "page": 396,
+    "point": "Normal dual AV nodal pathways: fast pathway conducts rapidly with longer refractory period; slow pathway conducts slowly with shorter refractory period where impulse dissolves",
+    "question": "MED-C5-18"
+  },
+  {
+    "chapter": 5,
+    "page": 396,
+    "point": "AVNRT mechanism: premature SV impulse enters recovered slow pathway while fast pathway is refractory, splits to ventricles and retrograde fast pathway",
+    "question": "MED-C5-19"
+  },
+  {
+    "chapter": 5,
+    "page": 396,
+    "point": "AVNRT retrograde atrial activation produces inverted P waves in inferior leads II, III, and aVF",
+    "question": "MED-C5-20"
+  },
+  {
+    "chapter": 5,
+    "page": 397,
+    "point": "Simultaneous P & QRS formation in 2/3rd of AVNRT patients: P wave buried in QRS complex",
+    "question": "MED-C5-21"
+  },
+  {
+    "chapter": 5,
+    "page": 397,
+    "point": "Rate limits: sinus rhythm cannot maintain rate > 180 bpm; rate 200 - 250 bpm favors AVNRT >> AVRT",
+    "question": "MED-C5-22"
+  },
+  {
+    "chapter": 5,
+    "page": 397,
+    "point": "Typical AVNRT (95%, PAC trigger, Slow-Fast pathway) vs Atypical AVNRT (5%, PVC trigger, Fast-Slow pathway, D/d Atrial tachycardia)",
+    "question": "MED-C5-23"
+  },
+  {
+    "chapter": 5,
+    "page": 397,
+    "point": "Atypical AVNRT conduction limb: enters fast pathway and exits slow pathway",
+    "question": "MED-C5-24"
+  },
+  {
+    "chapter": 5,
+    "page": 398,
+    "point": "Typical AVNRT in 1/3rd patients: pseudo S wave (just outside QRS), pseudo r' wave (on r wave), pseudo Q wave (just before Q)",
+    "question": "MED-C5-25"
+  },
+  {
+    "chapter": 5,
+    "page": 398,
+    "point": "Pharmacological conversion of AVNRT to normal sinus rhythm by intravenous adenosine",
+    "question": "MED-C5-26"
+  },
+  {
+    "chapter": 5,
+    "page": 398,
+    "point": "AVRT clinical features: rarer than AVNRT, fundamentally associated with WPW syndrome",
+    "question": "MED-C5-27"
+  },
+  {
+    "chapter": 5,
+    "page": 398,
+    "point": "AVRT types: Orthodromic (entry AV node, exit Bundle of Kent, narrow QRS) vs Antidromic (entry Bundle of Kent, exit AV node, wide QRS)",
+    "question": "MED-C5-28"
+  },
+  {
+    "chapter": 5,
+    "page": 399,
+    "point": "Orthodromic AVRT mechanism: well timed PAC enters AV node slowly, ventricles activate synchronously, retrograde conduction via bypass tract re-enters AV node",
+    "question": "MED-C5-29"
+  },
+  {
+    "chapter": 5,
+    "page": 399,
+    "point": "Orthodromic AVRT ECG: RP interval 2 boxes ~ 80 - 100 ms (AVRT > AVNRT), P falls just outside QRS",
+    "question": "MED-C5-30"
+  },
+  {
+    "chapter": 5,
+    "page": 399,
+    "point": "AVNRT vs AVRT comparison: synchronous activation (+ in AVNRT, - in AVRT), P wave absent in 2/3rd vs outside QRS, structural heart disease absent vs WPW",
+    "question": "MED-C5-31"
+  },
+  {
+    "chapter": 5,
+    "page": 399,
+    "point": "RP intervals: AVNRT < 80 ms vs AVRT 80 - 100 ms; both categorized as short RP, long PR tachycardias",
+    "question": "MED-C5-32"
+  },
+  {
+    "chapter": 5,
+    "page": 399,
+    "point": "AVNRT hemodynamic stability (stable) vs AVRT (stable/unstable); micro re-entry circuit in AVNRT vs macro re-entry circuit in AVRT",
+    "question": "MED-C5-33"
+  },
+  {
+    "chapter": 5,
+    "page": 399,
+    "point": "Interval pattern note: Atrial tachycardia exhibits long RP and short PR interval",
+    "question": "MED-C5-34"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Management goal: AVNRT, AVRT, and Atrial tachycardia operate through AV node -> management is AV nodal block",
+    "question": "MED-C5-35"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Hemodynamically unstable narrow-complex tachycardia management: synchronised DC cardioversion",
+    "question": "MED-C5-36"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Hemodynamically stable DOC for AV nodal block: Adenosine (blocks PAC in AVNRT/AVRT, decreases HR in atrial tachycardia)",
+    "question": "MED-C5-37"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Adenosine pharmacokinetics: T1/2 = 6 s, arm to arm circulation = 15 s, arm to heart circulation = 7.5 s",
+    "question": "MED-C5-38"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Adenosine route and dose: 6 mg through brachial vein (repeat 12 mg + 12 mg, max 30 mg) followed by immediate saline flush",
+    "question": "MED-C5-39"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Adenosine administration procedure: 45° supine position -> administer adenosine -> shift to prone position + raise arm overhead",
+    "question": "MED-C5-40"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Safety protocol: have defibrillator ready; in AVRT, adenosine can induce AF -> VT -> VF -> Death",
+    "question": "MED-C5-41"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Adenosine contraindication in COPD / bronchial asthma (causes bronchospasm); alternatives: verapamil 2.5-5 mg IV (max 15 mg), metoprolol 5 mg IV (max 15 mg), esmolol",
+    "question": "MED-C5-42"
+  },
+  {
+    "chapter": 5,
+    "page": 400,
+    "point": "Special indication: Heart failure with AVNRT is managed with Digoxin",
+    "question": "MED-C5-43"
+  },
+  {
+    "chapter": 5,
+    "page": 401,
+    "point": "Atrial tachycardia features: structurally abnormal heart, chronic tachyarrhythmia-related cardiomyopathy, follows all 3 mechanisms (m/c enhanced automaticity)",
+    "question": "MED-C5-44"
+  },
+  {
+    "chapter": 5,
+    "page": 401,
+    "point": "Atrial tachycardia management: rate reduction to sinus rhythm via beta-blockers (metoprolol) or CCB (verapamil); antiarrhythmics on failure",
+    "question": "MED-C5-45"
+  },
+  {
+    "chapter": 5,
+    "page": 401,
+    "point": "Unifocal AT ECG: narrow QRS, rate ~150 bpm, regular rhythm, uniform abnormal P wave, long RP / short PR, and warm-up & cool-down phenomenon",
+    "question": "MED-C5-46"
+  },
+  {
+    "chapter": 5,
+    "page": 401,
+    "point": "Multifocal AT (MAT): irregular RR interval with ≥ 3 P wave morphologies; m/c cause COPD/theophylline; management: stop theophylline -> beta-blocker/CCB",
+    "question": "MED-C5-47"
+  },
+  {
+    "chapter": 5,
+    "page": 401,
+    "point": "Atrial tachycardia with AV block: association with digoxin toxicity",
+    "question": "MED-C5-48"
+  },
+  {
+    "chapter": 5,
+    "page": 402,
+    "point": "AT with AV block ECG: normal P wave + buried P wave, irregular RR intervals, conducted vs missed P waves in 2:1 block",
+    "question": "MED-C5-49"
+  },
+  {
+    "chapter": 5,
+    "page": 402,
+    "point": "Junctional tachyarrhythmia: absent P waves at HR ~100 - 110 bpm favors Junctional >> AVNRT/AVRT",
+    "question": "MED-C5-50"
+  },
+  {
+    "chapter": 5,
+    "page": 402,
+    "point": "Summary algorithm for irregular RR narrow tachycardias: MAT, Atrial flutter with variable block, Atrial fibrillation, and focal AT with varying AV block",
+    "question": "MED-C5-51"
+  },
+  {
+    "chapter": 5,
+    "page": 402,
+    "point": "Summary algorithm for regular RR narrow tachycardias: P wave present (sinus tachycardia, flutter 2:1, SVT short RP vs long RP) vs P wave absent (AVNRT, junctional)",
+    "question": "MED-C5-52"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Epidemiology of AF: 2nd most common sustained cardiac arrhythmia (1st is sinus tachycardia)",
+    "question": "MED-C6-01"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Mechanical dysfunction in AF: chaotic, disorganised, ineffective contractions causing blood stasis, embolism, and stroke",
+    "question": "MED-C6-02"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Risk factors for AF: Age and Hypertension",
+    "question": "MED-C6-03"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Anatomical site for thrombus formation in AF: Appendages (most common site)",
+    "question": "MED-C6-04"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "ECG findings in AF: narrow QRS tachycardia, variable ventricular rate with atrial rate 300 - 600 bpm, irregular RR intervals, fibrillatory waves",
+    "question": "MED-C6-05"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Classification: Paroxysmal (self terminating < 48 hrs or cardioverted < 7 days), Persistent (> 7 days), and Long standing persistent (> 1 year)",
+    "question": "MED-C6-06"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Permanent AF: LA dilated > 4 cm in structural heart disease; management strategy is rate control (accepting AF)",
+    "question": "MED-C6-07"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Valvular AF (mitral stenosis or prosthetic valve + AF) versus Non-valvular AF (all other AF)",
+    "question": "MED-C6-08"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Systemic etiology of AF: OSAS, CKD, Psoriasis, Thyroid disease, Alcohol, cardiopulmonary disease",
+    "question": "MED-C6-09"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Electrolyte disturbances triggering AF: Hypokalemia and Hypomagnesemia",
+    "question": "MED-C6-10"
+  },
+  {
+    "chapter": 6,
+    "page": 403,
+    "point": "Symptom pathophysiology in AF: Angina (increased demand), Syncope (decreased circulation), Dyspnea (decreased cardiac output), Palpitation (increased HR)",
+    "question": "MED-C6-11"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Heart rate calculation in irregular AF: 6 second marker rule (HR = number of QRS complexes in 30 large boxes x 10)",
+    "question": "MED-C6-12"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Differential diagnosis of AF on ECG: MAT (≥ 3 P wave morphologies) and Atrial tachycardia with AV block (conducted + missed P waves)",
+    "question": "MED-C6-13"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Treatment in hemodynamically unstable or WPW with AF: synchronised DC cardioversion (Start 100 J -> max 200 J)",
+    "question": "MED-C6-14"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Initial evaluation of stable AF: 2D Echo of LA; dilated LA > 4 cm directs to rate control",
+    "question": "MED-C6-15"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Stable AF with normal LA and onset < 48 hours: no risk of embolism -> direct rhythm control",
+    "question": "MED-C6-16"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Stable AF with onset > 48 hours or unknown: risk of embolism (+) -> Trans Esophageal Echo (TEE) / Cardiac CT to detect clot",
+    "question": "MED-C6-17"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "TEE clot positive protocol: 3 weeks of anticoagulants -> pharmacological rhythm control",
+    "question": "MED-C6-18"
+  },
+  {
+    "chapter": 6,
+    "page": 404,
+    "point": "Post-cardioversion protocol: 4 weeks of anticoagulants -> assess CHA2DS2-VASc score -> +/- long-term anticoagulation",
+    "question": "MED-C6-19"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "Class Ic antiarrhythmics for AF rhythm control: Flecainide and Propafenone",
+    "question": "MED-C6-20"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "Rhythm control DOC hierarchy: Vernakalant (DOC, not available in India) and Ibutilide (2nd DOC, m/c used: 1 mg IV over 10 mins)",
+    "question": "MED-C6-21"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "DOC for AF rhythm control in structurally abnormal heart: Amiodarone (150 mg IV bolus or 5 mg/kg over 1h -> 1 mg/kg over 8h -> 0.5 mg/kg over 16h)",
+    "question": "MED-C6-22"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "Rate control drugs: Verapamil (5-10 mg over 2 min, max 20 mg), Esmolol (500 mcg/kg over 1 min), Propranolol (1 mg over 2 min, max 5 mg), Digoxin (failed LV)",
+    "question": "MED-C6-23"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "CHA2DS2-VASc scoring components: CHF (1), HTN (1), Age ≥ 75 (2), DM (1), Stroke/TIA/embolus (2), Vascular disease (1), Age 65-75 (1), Female sex (1)",
+    "question": "MED-C6-24"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "CHA2DS2-VASc decision thresholds: Score ≥ 2 requires anticoagulants; Score = 1 ± anticoagulants",
+    "question": "MED-C6-25"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "Bleeding risk assessment tool: HAS-BLED score in AF",
+    "question": "MED-C6-26"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "Anticoagulants: DOC is Dabigatran; exception is Valvular AF and AF + ESRD where DOC is Warfarin",
+    "question": "MED-C6-27"
+  },
+  {
+    "chapter": 6,
+    "page": 405,
+    "point": "Pills in the pocket technique: oral flecainide + beta-blockers in paroxysmal AF taken at symptom onset",
+    "question": "MED-C6-28"
+  },
+  {
+    "chapter": 6,
+    "page": 406,
+    "point": "Typical atrial flutter: counterclockwise right atrial circuit, upward left atrial activation, inverted flutter waves in lead II",
+    "question": "MED-C6-29"
+  },
+  {
+    "chapter": 6,
+    "page": 406,
+    "point": "Reverse typical atrial flutter: clockwise right atrial circuit, downward left atrial activation, upright flutter waves in lead II",
+    "question": "MED-C6-30"
+  },
+  {
+    "chapter": 6,
+    "page": 406,
+    "point": "Atrial flutter features: lateral wall of right atrium (90%), onset < 1 week of open heart surgery, sawtooth ECG appearance",
+    "question": "MED-C6-31"
+  },
+  {
+    "chapter": 6,
+    "page": 406,
+    "point": "Atrial flutter management: DC Cardioversion is TOC (25 - 50 J), Ibutilide",
+    "question": "MED-C6-32"
+  },
+  {
+    "chapter": 6,
+    "page": 406,
+    "point": "Definitive catheter ablation for atrial flutter: targeting the cavotricuspid isthmus",
+    "question": "MED-C6-33"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Pathophysiology of broad QRS tachyarrhythmias: ventricular impulse -> cell-to-cell transmission -> broad QRS",
+    "question": "MED-C7-01"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Ventricular rhythms and rate ranges: IVT (15-40 bpm), AIVT (40-100 bpm), VT (> 100 bpm: monomorphic vs polymorphic)",
+    "question": "MED-C7-02"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Accelerated Idioventricular Tachycardia (AIVT) clinical marker: indicates successful thrombolysis / reperfusion",
+    "question": "MED-C7-03"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Etiology of wide QRS: QRS > 0.16 s indicates VT; QRS 0.12 - 0.16 s indicates SVT with BBB or Antidromic AVRT",
+    "question": "MED-C7-04"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "VPC mechanism: extrasystole, premature discharge from ventricle occurring earlier than next anticipated sinus beat",
+    "question": "MED-C7-05"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Criteria for VPC: not preceded by P wave, very wide QRS, and ST/T changes in opposite direction (discordance)",
+    "question": "MED-C7-06"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Coupling interval in unifocal VPC: distance between VPC and preceding QRS is always constant",
+    "question": "MED-C7-07"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "Compensatory pause in VPC: distance between 2 sinus impulses across VPC equals distance across normal beat (2 x RR interval)",
+    "question": "MED-C7-08"
+  },
+  {
+    "chapter": 7,
+    "page": 407,
+    "point": "R on T phenomenon: VPC lies on previous T wave, creating risk for ventricular fibrillation",
+    "question": "MED-C7-09"
+  },
+  {
+    "chapter": 7,
+    "page": 408,
+    "point": "Parasystole definition: VPCs with different / variable coupling intervals",
+    "question": "MED-C7-10"
+  },
+  {
+    "chapter": 7,
+    "page": 408,
+    "point": "Multifocal VPCs: premature ventricular complexes presenting with different morphologies",
+    "question": "MED-C7-11"
+  },
+  {
+    "chapter": 7,
+    "page": 408,
+    "point": "Interpolated VPC: premature ventricular complex sandwiched between two consecutive sinus impulses",
+    "question": "MED-C7-12"
+  },
+  {
+    "chapter": 7,
+    "page": 408,
+    "point": "Frequency patterns: Ventricular bigeminy (VPB after every sinus beat), trigeminy (VPB after every 2 sinus beats), couplet (2 VPBs in a row)",
+    "question": "MED-C7-13"
+  },
+  {
+    "chapter": 7,
+    "page": 408,
+    "point": "Definition of Ventricular Tachycardia: ≥ 3 VPBs in a row + HR > 100 bpm",
+    "question": "MED-C7-14"
+  },
+  {
+    "chapter": 7,
+    "page": 408,
+    "point": "Clinical features and management of VPCs: asymptomatic or palpitations; no treatment required; prophylactic antiarrhythmics contraindicated without significant VT",
+    "question": "MED-C7-15"
+  },
+  {
+    "chapter": 7,
+    "page": 409,
+    "point": "Warning signs for VPCs: increased frequency, multifocal, bigeminy/couplet, first episode > 40 yrs, not affected by exercise, parasystole, LV dysfunction",
+    "question": "MED-C7-16"
+  },
+  {
+    "chapter": 7,
+    "page": 409,
+    "point": "Monomorphic VT ECG criteria: wide QRS tachycardia (> 0.16 s), rate > 200 bpm, all complexes look alike",
+    "question": "MED-C7-17"
+  },
+  {
+    "chapter": 7,
+    "page": 409,
+    "point": "Sustained monomorphic VT definition: sustained duration ≥ 30 seconds",
+    "question": "MED-C7-18"
+  },
+  {
+    "chapter": 7,
+    "page": 409,
+    "point": "12-lead ECG panel demonstrating the transition from sustained monomorphic VT to ventricular bigeminy",
+    "question": "MED-C7-19"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Cardinal features of VT: fusion beats (features of both sinus + VPC) and capture beats (point where sinus takes over)",
+    "question": "MED-C7-20"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Brugada sign: distance from onset of QRS complex to nadir of S wave > 100 ms",
+    "question": "MED-C7-21"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Josephson's sign: characteristic notching at the nadir of the S wave",
+    "question": "MED-C7-22"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Precordial concordance: completely positive or completely negative concordance in chest leads indicating VT",
+    "question": "MED-C7-23"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Brugada criteria for VT: RS complex absent or > 100 ms; no P waves / AV dissociation",
+    "question": "MED-C7-24"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Stable VT management in structural heart disease: Amiodarone (150 mg IV bolus x 10 min, then 1 mg/min x 6h, then 0.5 mg/min x 18h)",
+    "question": "MED-C7-25"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Stable VT management without structural heart disease: Procainamide DOC (20-50 mg/min, max 17 mg/kg); Lignocaine post-MI without structural disease; Sotalol",
+    "question": "MED-C7-26"
+  },
+  {
+    "chapter": 7,
+    "page": 410,
+    "point": "Unstable VT management: synchronized DC cardioversion 100 - 360 J",
+    "question": "MED-C7-27"
+  },
+  {
+    "chapter": 7,
+    "page": 411,
+    "point": "Polymorphic VT: multiple different complexes with changing polarities; usually associated with prolonged QT (Torsades de pointes)",
+    "question": "MED-C7-28"
+  },
+  {
+    "chapter": 7,
+    "page": 411,
+    "point": "Acquired causes of TdP: MI, decreased K+, decreased Ca2+, decreased Mg2+, hypothermia, drugs (Class Ia, Ic, III; erythromycin; terfenadine)",
+    "question": "MED-C7-29"
+  },
+  {
+    "chapter": 7,
+    "page": 411,
+    "point": "Congenital etiology of TdP: congenital Long QT syndrome",
+    "question": "MED-C7-30"
+  },
+  {
+    "chapter": 7,
+    "page": 411,
+    "point": "Differential note on Short QT causes: Hypercalcemia, Digoxin, Hyperthermia",
+    "question": "MED-C7-31"
+  },
+  {
+    "chapter": 7,
+    "page": 411,
+    "point": "Management of TdP: immediate defibrillation -> 2 g IV MgSO4 over 10 min -> rhythm stabilization (beta-blockers for congenital, treat cause for acquired)",
+    "question": "MED-C7-32"
+  },
+  {
+    "chapter": 7,
+    "page": 411,
+    "point": "Cardioversion vs Defibrillation mechanism: current discharge at patient QRS vs machine discharge; T-wave vulnerable period (20 - 30 ms) risking VF",
+    "question": "MED-C7-33"
+  },
+  {
+    "chapter": 7,
+    "page": 412,
+    "point": "Synchronized cardioversion (syncs with patient rhythm) vs unsynchronized defibrillation (no need to connect patient rhythm)",
+    "question": "MED-C7-34"
+  },
+  {
+    "chapter": 7,
+    "page": 412,
+    "point": "Paddle placement positions: right side of upper sternum below clavicle and apex of heart (left of nipple)",
+    "question": "MED-C7-35"
+  },
+  {
+    "chapter": 7,
+    "page": 412,
+    "point": "Energy settings across arrhythmias: start with 50 J; A. Flutter (50 J), Monomorphic VT (100 J), A. Fib (100 - 200 J), Polymorphic VT (200 J)",
+    "question": "MED-C7-36"
+  },
+  {
+    "chapter": 8,
+    "page": 413,
+    "point": "WPW syndrome demographic profile: Male predominance (M > F)",
+    "question": "MED-C8-01"
+  },
+  {
+    "chapter": 8,
+    "page": 413,
+    "point": "Classic ECG findings of WPW: normal P wave, short PR interval, delta waves, near normal QRS, secondary ST & T wave changes",
+    "question": "MED-C8-02"
+  },
+  {
+    "chapter": 8,
+    "page": 413,
+    "point": "WPW mechanism: aberrant accessory pathway known as the Bundle of Kent causing ventricular pre-excitation",
+    "question": "MED-C8-03"
+  },
+  {
+    "chapter": 8,
+    "page": 413,
+    "point": "Concealed vs Manifest WPW: 12-lead ECG (normal vs abnormal) and antegrade conduction (via AV node vs via Bundle of Kent)",
+    "question": "MED-C8-04"
+  },
+  {
+    "chapter": 8,
+    "page": 413,
+    "point": "Arrhythmias triggered by PAC in concealed and manifest WPW: Orthodromic AVRT and Atrial Fibrillation",
+    "question": "MED-C8-05"
+  },
+  {
+    "chapter": 8,
+    "page": 413,
+    "point": "Prognosis of Atrial Fibrillation: bad prognosis in concealed WPW responding only to DC cardioversion; better prognosis in manifest WPW d/t early diagnosis",
+    "question": "MED-C8-06"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "WPW anatomical classification: Left sided WPW is Type A (most common)",
+    "question": "MED-C8-07"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Left-sided WPW (Type A): small delta wave, conduction Lt -> Rt, positive tall R wave and delta wave in lead V1",
+    "question": "MED-C8-08"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Right-sided WPW (Type B): large delta wave, conduction Rt -> Lt, negative R wave and delta wave in lead V1",
+    "question": "MED-C8-09"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Vector differentiation of Type A vs Type B: left-to-right vs right-to-left conduction and delta wave size",
+    "question": "MED-C8-10"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Manifest WPW activation sequence: Bundle of Kent causes short PR and delta wave; AV node catches up to produce near normal QRS complex",
+    "question": "MED-C8-11"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Concealed WPW management: AVRT treated with Adenosine and EP referral; A.fib treated with synchronised DC cardioversion",
+    "question": "MED-C8-12"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Manifest WPW management: Early diagnosis managed definitively by catheter ablation (definitive Rx)",
+    "question": "MED-C8-13"
+  },
+  {
+    "chapter": 8,
+    "page": 414,
+    "point": "Post-conversion finding in manifest WPW: termination of AVRT or A.fib reveals sinus rhythm + delta wave, followed by electrophysiologist referral",
+    "question": "MED-C8-14"
   }
 ]
