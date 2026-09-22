@@ -1,0 +1,651 @@
+{
+  "chapter": 2,
+  "title": "Approach to Hypertrophy and Blocks",
+  "pageRange": "383-386",
+  "questions": [
+    {
+      "id": "MED-C2-01",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "recall",
+      "q": "In the atrial-enlargement approach, an abnormal P wave localises the primary waveform abnormality to which origin?",
+      "opts": [
+        "AV junctional",
+        "His–Purkinje",
+        "Atrial",
+        "Ventricular free wall"
+      ],
+      "ans": 2,
+      "exp": "The atrial-enlargement section identifies abnormal P waves with pathology of atrial origin. (Book p383)"
+    },
+    {
+      "id": "MED-C2-02",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "scenario",
+      "q": "A patient with COPD has tall, peaked, pointed P waves. Which pairing matches this section?",
+      "opts": [
+        "P-mitrale — right atrial enlargement",
+        "P-mitrale — left atrial enlargement",
+        "P-pulmonale — left atrial enlargement",
+        "P-pulmonale — right atrial enlargement"
+      ],
+      "ans": 3,
+      "exp": "Pointed P is P-pulmonale and indicates right atrial enlargement; tall, peaked P waves are associated with COPD. (Book p383)"
+    },
+    {
+      "id": "MED-C2-03",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "numeric",
+      "q": "With an atrial-origin rhythm, which rate crosses the printed threshold for atrial tachycardia?",
+      "opts": [
+        "40 bpm",
+        "100 bpm",
+        "60 bpm",
+        "101 bpm"
+      ],
+      "ans": 3,
+      "exp": "The rate threshold printed here is greater than 100 bpm, not merely equal to 100. (Book p383)"
+    },
+    {
+      "id": "MED-C2-04",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "fillup",
+      "q": "The right-atrial-enlargement figure groups pointed P-wave panels in ____ alongside a V1 panel.",
+      "opts": [
+        "I, aVL and V6",
+        "II, III and aVF",
+        "V1, V2 and V3",
+        "I, II and aVL"
+      ],
+      "ans": 1,
+      "exp": "The labelled small panels are II, III, aVF and V1; the inferior panels and the marked full tracing illustrate P-pulmonale/right atrial enlargement. (Book p383)"
+    },
+    {
+      "id": "MED-C2-05",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "scenario",
+      "q": "A bifid rather than pointed P wave is identified. What is the book’s atrial-enlargement interpretation?",
+      "opts": [
+        "P-pulmonale — right atrial enlargement",
+        "P-mitrale — right atrial enlargement",
+        "P-mitrale — left atrial enlargement",
+        "P-pulmonale — left atrial enlargement"
+      ],
+      "ans": 2,
+      "exp": "Left atrial enlargement produces a bifid P wave, called P-mitrale. (Book p383)"
+    },
+    {
+      "id": "MED-C2-06",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "recall",
+      "q": "Which panel set belongs to the left-atrial-enlargement illustration, showing bifid P waves and a prominent terminal negative component in V1?",
+      "opts": [
+        "I, aVL, V5 and V6",
+        "I, II, aVF and V1",
+        "V1, V2, V3 and aVR",
+        "II, III, aVF and V6"
+      ],
+      "ans": 1,
+      "exp": "The left-atrial-enlargement panels are labelled I, II, aVF and V1; arrows/circles in the accompanying ECG draw attention to the abnormal P waves. (Book p383)"
+    },
+    {
+      "id": "MED-C2-07",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "page": 383,
+      "fmt": "fillup",
+      "q": "Complete the note’s corrected-QT equation: QTc = ____.",
+      "opts": [
+        "QT / √RR",
+        "RR / √QT",
+        "QT × √RR",
+        "QT / RR"
+      ],
+      "ans": 0,
+      "exp": "The note gives QTc = QT divided by the square root of RR. (Book p383)"
+    },
+    {
+      "id": "MED-C2-08",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 383,
+      "fmt": "fillup",
+      "q": "The LVH axis line places the leftward axis between ____ (the aVL angle is printed without a minus sign on this page).",
+      "opts": [
+        "aVR and lead III",
+        "Lead II and aVF",
+        "Lead III and aVF",
+        "aVL and lead I"
+      ],
+      "ans": 3,
+      "exp": "The line gives aVL (printed 30°) to lead I (0°), called leftward axis. The conventional aVL angle is −30°, as on p382; the missing sign is a source discrepancy. (Book p383)"
+    },
+    {
+      "id": "MED-C2-09",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 383,
+      "fmt": "truefalse",
+      "q": "True or false: LVH pushes the net vector leftward because left-sided muscle mass increases.",
+      "opts": [
+        "True — right-sided muscle mass increases and reverses the septal vector",
+        "False — increased left mass pushes the vector rightward",
+        "False — hypertrophy changes PR duration but not the net vector",
+        "True — the increased left mass pulls the net vector leftward"
+      ],
+      "ans": 3,
+      "exp": "The LVH flowchart links increased left muscle mass to a vector pushed to the left. (Book p383)"
+    },
+    {
+      "id": "MED-C2-10",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 383,
+      "fmt": "scenario",
+      "q": "The LVH tracing highlights large leftward forces. Which polarity pair follows the printed explanation?",
+      "opts": [
+        "Larger positive left-sided and larger negative right-sided deflections",
+        "Larger positive deflections on both sides",
+        "Larger negative left-sided and larger positive right-sided deflections",
+        "Larger negative deflections on both sides"
+      ],
+      "ans": 0,
+      "exp": "LVH increases positive deflections on the left and negative deflections on the right; the ECG is captioned left ventricular hypertrophy. (Book p383)"
+    },
+    {
+      "id": "MED-C2-11",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 384,
+      "fmt": "fillup",
+      "q": "The precordial Sokolow–Lyon expression printed here is ____.",
+      "opts": [
+        "S in V5 or V6 + S in V1 or V2",
+        "R in V5 or V6 + R in V1 or V2",
+        "R in V5 or V6 + S in V1 or V2",
+        "R in V1 or V2 + S in V5 or V6"
+      ],
+      "ans": 2,
+      "exp": "The expression adds the lateral R wave (V5 or V6) to the anterior S wave (V1 or V2), rather than swapping the wave types or lead groups. (Book p384)"
+    },
+    {
+      "id": "MED-C2-12",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 384,
+      "fmt": "numeric",
+      "q": "Under the book’s Sokolow–Lyon rule, R in V5 is 23 mm and S in V1 is 13 mm. Which interpretation fits?",
+      "opts": [
+        "Sum 36 mm — proves RVH using an R/S cutoff",
+        "Sum 36 mm — exceeds the >35 mm LVH cutoff",
+        "Sum 36 mm — below a >40 mm LVH cutoff",
+        "Difference 10 mm — fails a >11 mm precordial cutoff"
+      ],
+      "ans": 1,
+      "exp": "The book adds R in V5 or V6 to S in V1 or V2 and uses >35 mm for LVH. Here 23 + 13 = 36 mm. (Book p384)"
+    },
+    {
+      "id": "MED-C2-13",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 384,
+      "fmt": "fillup",
+      "q": "The alternative aVL voltage criterion for LVH is ____.",
+      "opts": [
+        ">25 mm",
+        ">5 mm",
+        ">11 mm",
+        ">35 mm"
+      ],
+      "ans": 2,
+      "exp": "The second printed Sokolow–Lyon line is aVL >11 mm → LVH. (Book p384)"
+    },
+    {
+      "id": "MED-C2-14",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 384,
+      "fmt": "scenario",
+      "q": "Which combination explains the secondary ST/T changes listed with LVH?",
+      "opts": [
+        "Primary PR shortening from aortic stenosis or chronic hypertension",
+        "Atrial repolarisation from mitral stenosis or SA exit block",
+        "Pressure-overload strain from aortic stenosis or chronic hypertension",
+        "Volume-overload strain from isolated COPD or sinus arrest"
+      ],
+      "ans": 2,
+      "exp": "Secondary ST/T changes accompany strain/pressure overload, with aortic stenosis and chronic hypertension as the listed examples. (Book p384)"
+    },
+    {
+      "id": "MED-C2-15",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "page": 384,
+      "fmt": "oddoneout",
+      "q": "Which proposed leftward-axis cause does NOT belong with the book’s LVH/LBBB list?",
+      "opts": [
+        "LVH with increased left-sided positive deflection",
+        "Left bundle branch block",
+        "Isolated RVH with axis between III and aVF",
+        "LVH with increased left muscle mass"
+      ],
+      "ans": 2,
+      "exp": "The two leftward-axis causes listed are LVH and LBBB; the next section places RVH between III and aVF. (Book p384)"
+    },
+    {
+      "id": "MED-C2-16",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "page": 384,
+      "fmt": "fillup",
+      "q": "The RVH axis is described between ____ and is termed rightward.",
+      "opts": [
+        "Lead II (+60°) and lead I (0°)",
+        "aVR (−150°) and aVL (−30°)",
+        "Lead III (+120°) and aVF (+90°)",
+        "Lead I (0°) and aVL (−30°)"
+      ],
+      "ans": 2,
+      "exp": "RVH is placed between lead III at 120° and aVF at 90°, a rightward axis. (Book p384)"
+    },
+    {
+      "id": "MED-C2-17",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "page": 384,
+      "fmt": "scenario",
+      "q": "A tracing with rightward axis has R taller than S in V1 and secondary ST changes in a patient with mitral stenosis. Which printed combination fits?",
+      "opts": [
+        "LBBB — V1 R/S >1, isolated P-wave changes with MS",
+        "LVH — V1 R/S <1, secondary ST changes with MS + LVH",
+        "RVH — V1 R/S <1, primary PR changes with MS",
+        "RVH — V1 R/S >1, secondary ST changes with MS + RVH"
+      ],
+      "ans": 3,
+      "exp": "The RVH section specifies V1 R/S >1 and secondary ST changes due to mitral stenosis plus RVH; its tracing is captioned RVH. (Book p384)"
+    },
+    {
+      "id": "MED-C2-18",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "page": 384,
+      "fmt": "recall",
+      "q": "For the P-pulmonale highlighted in the COPD tracing, which lead set and most-common association are listed?",
+      "opts": [
+        "V1, V2, V3 — chronic hypertension",
+        "II, III, aVF — COPD",
+        "I, aVL, V6 — COPD",
+        "II, III, aVF — aortic stenosis"
+      ],
+      "ans": 1,
+      "exp": "P-pulmonale is listed in II, III and aVF, most commonly with COPD; those inferior P waves are circled in the figure. (Book p384)"
+    },
+    {
+      "id": "MED-C2-19",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "page": 384,
+      "fmt": "scenario",
+      "q": "Which sequence reproduces the COPD axis flowchart?",
+      "opts": [
+        "Hyperinflated lung → diaphragm pushed upward → axis shifts to 120°",
+        "Hyperinflated lung → diaphragm pushed downward → axis shifts to −30°",
+        "Hyperinflated lung → diaphragm pushed upward → axis shifts to 0°",
+        "Hyperinflated lung → diaphragm pushed downward → axis shifts to 90°"
+      ],
+      "ans": 3,
+      "exp": "The flowchart runs COPD → hyperinflated lung → downward push of diaphragm → axis shifts to 90°. (Book p384)"
+    },
+    {
+      "id": "MED-C2-20",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "page": 384,
+      "fmt": "fillup",
+      "q": "At the end of that flowchart, prominent complexes occur in ____, while absent complexes in ____ define the lead I sign.",
+      "opts": [
+        "I and aVL; aVF",
+        "V5 and V6; I",
+        "aVF and II; I",
+        "III and aVR; II"
+      ],
+      "ans": 2,
+      "exp": "The two arms are prominent complexes in aVF and II, and absent complexes in I, called the lead I sign. (Book p384)"
+    },
+    {
+      "id": "MED-C2-21",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "page": 384,
+      "fmt": "oddoneout",
+      "q": "Which finding contradicts the four ECG signs of COPD listed here?",
+      "opts": [
+        "Poor R-wave progression from V1 to V6",
+        "Positive lead I sign",
+        "Wide QRS as the listed baseline QRS feature",
+        "P-pulmonale"
+      ],
+      "ans": 2,
+      "exp": "The listed signs are narrow QRS, poor R progression V1–V6, P-pulmonale and a positive lead I sign. (Book p384)"
+    },
+    {
+      "id": "MED-C2-22",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "scenario",
+      "q": "In the book’s RVH-with-RBBB example, R/S >1 accompanies an axis between I and aVL. What combined enlargement is inferred?",
+      "opts": [
+        "Isolated LVH — R/S >1 excludes RVH",
+        "No hypertrophy — RR′ alone explains the axis",
+        "Biventricular hypertrophy — RVH plus leftward axis",
+        "Isolated RVH — leftward axis excludes LVH"
+      ],
+      "ans": 2,
+      "exp": "The example labels R/S and RR′, assigns R/S >1 to RVH and I–aVL to leftward axis, then calls RVH plus leftward axis biventricular hypertrophy. (Book p385)"
+    },
+    {
+      "id": "MED-C2-23",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "match",
+      "q": "Match the RBBB morphology call-outs — 1) V1 terminal force 2) V6 terminal force 3) Blocked branch in the cartoon … A) Right bundle branch B) Wide S wave C) R′ wave",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 3,
+      "exp": "The RBBB cartoon marks the right bundle. V1 variants rr′, RR′ and rsR′ share terminal R′; V6 qRS/RS variants share a wide terminal S. (Book p385)"
+    },
+    {
+      "id": "MED-C2-24",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "fillup",
+      "q": "The morphology figure places ____ in V1 and ____ in V6.",
+      "opts": [
+        "rS / QS; broad isolated R only",
+        "Broad isolated R only; rS / QS",
+        "qRS / RS; rr′ / RR′ / rsR′",
+        "rr′ / RR′ / rsR′; qRS / RS"
+      ],
+      "ans": 3,
+      "exp": "The labelled RBBB panels give rr′, RR′, rsR′ in V1 and qRS, RS in V6. (Book p385)"
+    },
+    {
+      "id": "MED-C2-25",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "match",
+      "q": "Match the first three fascicular-classification lines — 1) RBBB alone 2) RBBB plus LAFB or LPFB 3) LBBB alone … A) Bifascicular combination with a left fascicular block B) Bifascicular block by itself C) Unifascicular block",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 3,
+      "exp": "The book calls RBBB alone unifascicular, RBBB with either left fascicular block bifascicular, and LBBB bifascicular by itself. (Book p385)"
+    },
+    {
+      "id": "MED-C2-26",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "truefalse",
+      "q": "True or false: the next line calls bifascicular block plus increased PR interval or Mobitz block trifascicular.",
+      "opts": [
+        "True — but only a shortened PR satisfies that line",
+        "False — only isolated RBBB is labelled trifascicular",
+        "False — the line instead calls this unifascicular",
+        "True — that is the printed classification"
+      ],
+      "ans": 3,
+      "exp": "The line says bifascicular block + increased PR interval/Mobitz block = trifascicular. This is source terminology; prolonged PR alone does not prove disease of the remaining fascicle. (Book p385)"
+    },
+    {
+      "id": "MED-C2-27",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "fillup",
+      "q": "For LBBB, the text gives an I–aVL leftward axis and asks you to inspect ____ for LBBB morphology.",
+      "opts": [
+        "II, III and aVF",
+        "V1, III and aVF",
+        "V1, V2 and aVR",
+        "V5, V6 and aVL"
+      ],
+      "ans": 3,
+      "exp": "The LBBB bullets give I–aVL leftward axis and V5, V6, aVL morphology; the adjacent tracing marks LVH and lateral LBBB features. (Book p385)"
+    },
+    {
+      "id": "MED-C2-28",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "match",
+      "q": "Match the LBBB figure’s morphology and conduction panels — 1) V1 rS / QS variants 2) V6 broad R / RR′ variants 3) Cartoon with left-sided conduction interruption … A) Left bundle branch block B) W pattern C) M pattern",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The left-bundle cartoons accompany a V1 W-pattern row and a V6 M-pattern row; the latter includes both notched RR′ and broad R forms. (Book p385)"
+    },
+    {
+      "id": "MED-C2-29",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "page": 385,
+      "fmt": "numeric",
+      "q": "Which timing pair agrees with the LBBB figure’s small-print call-outs?",
+      "opts": [
+        "R-peak time >0.16 s in both V1 and V6",
+        "R-peak time normal in V1; prolonged >0.05 s in V6",
+        "R-peak time >0.05 s in V1; normal in V6",
+        "R-peak time normal in V1; prolonged >0.12 s in V6"
+      ],
+      "ans": 1,
+      "exp": "The figure labels onset of intrinsicoid deflection (R-peak time) normal in V1 and prolonged in V6, measuring >0.05 seconds. (Book p385)"
+    },
+    {
+      "id": "MED-C2-30",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 385,
+      "fmt": "recall",
+      "q": "The Sgarbossa section addresses diagnosis of which combination?",
+      "opts": [
+        "Myocardial infarction with LBBB",
+        "RVH with RBBB",
+        "Sinus arrest with junctional escape",
+        "First-degree AV block with LVH"
+      ],
+      "ans": 0,
+      "exp": "Its stated purpose is to diagnose MI along with LBBB. (Book p385)"
+    },
+    {
+      "id": "MED-C2-31",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 385,
+      "fmt": "match",
+      "q": "Match the three ST-change descriptions in the text — 1) V1 or V2, concordant change 2) V1 or V2, discordant change 3) V5 or V6, concordant change … A) ST depression B) ST elevation with the QRS C) ST elevation opposite the QRS",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The text lists concordant ST depression and discordant ST elevation in V1/V2, and concordant ST elevation in V5/V6. (Book p385)"
+    },
+    {
+      "id": "MED-C2-32",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 385,
+      "fmt": "numeric",
+      "q": "Which pair reproduces numbered panels 1 and 2?",
+      "opts": [
+        "Concordant elevation >5 mm with positive QRS; concordant depression >5 mm in V1–V3",
+        "Concordant elevation >1 mm with positive QRS; concordant depression >1 mm in V1–V3",
+        "Discordant elevation >1 mm with positive QRS; concordant depression >5 mm in V5–V6",
+        "Concordant depression >1 mm with positive QRS; discordant elevation >1 mm in V1–V3"
+      ],
+      "ans": 1,
+      "exp": "Panel 1 labels concordant ST elevation >1 mm with positive QRS; panel 2 labels concordant ST depression >1 mm in V1–V3. (Book p385)"
+    },
+    {
+      "id": "MED-C2-33",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 385,
+      "fmt": "numeric",
+      "q": "At the labelled J point, discordant ST elevation is 5 mm and preceding S depth is 15 mm. Which calculation matches panel 3?",
+      "opts": [
+        "15/5 = 3 — below the >25% proportional threshold",
+        "5/15 = 0.33 — below the >50% printed threshold",
+        "5/15 = 0.03 — fails the >0.25 proportional threshold",
+        "5/15 = 0.33 — exceeds the >25% proportional threshold"
+      ],
+      "ans": 3,
+      "exp": "The figure divides J-point discordant STE height (5 mm) by preceding S-wave height (15 mm): 0.33, above 0.25 or 25%. This proportional panel is distinct from the absolute >5 mm criterion on the next page. (Book p385)"
+    },
+    {
+      "id": "MED-C2-34",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 386,
+      "fmt": "match",
+      "q": "Match each textual criterion to its lead group and threshold — 1) Concordant ST elevation 2) Discordant ST elevation 3) Concordant ST depression … A) V1/V2, >5 mm B) V1/V2, >1 mm C) V5/V6, >1 mm",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "The three textual criteria use strict > thresholds: lateral concordant elevation >1 mm, V1/V2 discordant elevation >5 mm and V1/V2 concordant depression >1 mm. (Book p386)"
+    },
+    {
+      "id": "MED-C2-35",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 386,
+      "fmt": "scenario",
+      "q": "In the V1–V3 morphology panels, which pair is labelled LBBB + acute MI rather than LBBB without MI?",
+      "opts": [
+        "Concordant ST elevation only in aVL or isolated P-mitrale",
+        "Concordant ST depression ≥1 mm or abnormally discordant elevation ≥5 mm",
+        "Ordinary discordant elevation or concordant depression <1 mm",
+        "Ordinary discordant depression or an isolated tall R in V1"
+      ],
+      "ans": 1,
+      "exp": "The left panel group contrasts ordinary discordant ST in LBBB without MI against concordant ST ≥1 mm and abnormally discordant ST ≥5 mm in LBBB + acute MI. These diagram labels use ≥, whereas the prose above uses >. (Book p386)"
+    },
+    {
+      "id": "MED-C2-36",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 386,
+      "fmt": "truefalse",
+      "q": "True or false: the V5, V6, II, III and aVF panels label concordant ST elevation ≥1 mm as LBBB + acute MI, in contrast to the no-MI discordant pattern.",
+      "opts": [
+        "False — those panels are labelled V1, V2 and V3",
+        "True — the no-MI panel also requires concordant elevation ≥1 mm",
+        "True — concordance and ≥1 mm identify the acute-MI panel",
+        "False — only discordant depression ≥5 mm is labelled acute MI"
+      ],
+      "ans": 2,
+      "exp": "The right-hand group is labelled V5, V6, II, III, aVF and contrasts discordant ST in LBBB without MI with concordant ST ≥1 mm in LBBB + acute MI. (Book p386)"
+    },
+    {
+      "id": "MED-C2-37",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "page": 386,
+      "fmt": "fillup",
+      "q": "The two bottom annotated ECGs are captioned, from left to right, ____ and ____.",
+      "opts": [
+        "LBBB without MI, concordant elevation >1 mm; ordinary discordant elevation <5 mm",
+        "Acute MI with LBBB, concordant elevation >1 mm; discordant elevation >5 mm",
+        "Acute MI with LBBB, discordant elevation >5 mm; concordant depression >1 mm",
+        "LVH, concordant elevation >5 mm; RVH, discordant elevation >1 mm"
+      ],
+      "ans": 1,
+      "exp": "The arrows and circles on the left mark concordant elevation >1 mm in acute MI with LBBB; the right caption is discordant elevation >5 mm. (Book p386)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U2-1",
+      "ch": 2,
+      "n": 1,
+      "title": "Atrial Enlargement & Corrected QT",
+      "sec": "Atrial Enlargement & Corrected QT",
+      "guide": "Distinguish pointed P-pulmonale from bifid P-mitrale using the labelled lead panels.\nKeep atrial origin, tachycardia rate and the corrected-QT equation separate.",
+      "qs": [
+        "MED-C2-01",
+        "MED-C2-02",
+        "MED-C2-03",
+        "MED-C2-04",
+        "MED-C2-05",
+        "MED-C2-06",
+        "MED-C2-07"
+      ]
+    },
+    {
+      "id": "MED-U2-2",
+      "ch": 2,
+      "n": 2,
+      "title": "LV Hypertrophy & Leftward Axis",
+      "sec": "LV Hypertrophy & Leftward Axis",
+      "guide": "Follow increased left muscle mass through vector displacement and lead polarity.\nThen apply both printed Sokolow–Lyon cutoffs and the pressure-overload association.",
+      "qs": [
+        "MED-C2-08",
+        "MED-C2-09",
+        "MED-C2-10",
+        "MED-C2-11",
+        "MED-C2-12",
+        "MED-C2-13",
+        "MED-C2-14",
+        "MED-C2-15"
+      ]
+    },
+    {
+      "id": "MED-U2-3",
+      "ch": 2,
+      "n": 3,
+      "title": "RV Hypertrophy, P-pulmonale & COPD",
+      "sec": "RV Hypertrophy, P-pulmonale & COPD",
+      "guide": "Separate RVH voltage and axis clues from the COPD axis mechanism.\nTrace hyperinflation to the lead I sign, then recognise all four listed COPD findings.",
+      "qs": [
+        "MED-C2-16",
+        "MED-C2-17",
+        "MED-C2-18",
+        "MED-C2-19",
+        "MED-C2-20",
+        "MED-C2-21"
+      ]
+    },
+    {
+      "id": "MED-U2-4",
+      "ch": 2,
+      "n": 4,
+      "title": "Bundle Branch Blocks & Fascicular Patterns",
+      "sec": "Bundle Branch Blocks & Fascicular Patterns",
+      "guide": "Read the RVH-with-RBBB example before the fascicular classification.\nCompare RBBB terminal forces with the LBBB W/M panels and R-peak timing.",
+      "qs": [
+        "MED-C2-22",
+        "MED-C2-23",
+        "MED-C2-24",
+        "MED-C2-25",
+        "MED-C2-26",
+        "MED-C2-27",
+        "MED-C2-28",
+        "MED-C2-29"
+      ]
+    },
+    {
+      "id": "MED-U2-5",
+      "ch": 2,
+      "n": 5,
+      "title": "Sgarbossa Criteria & MI Panels",
+      "sec": "Sgarbossa Criteria & MI Panels",
+      "guide": "Use concordance, lead group and magnitude together when reading the book’s LBBB/MI examples.\nDistinguish the text’s strict inequalities from the panels’ inclusive labels and the proportional criterion.",
+      "qs": [
+        "MED-C2-30",
+        "MED-C2-31",
+        "MED-C2-32",
+        "MED-C2-33",
+        "MED-C2-34",
+        "MED-C2-35",
+        "MED-C2-36",
+        "MED-C2-37"
+      ]
+    }
+  ]
+}

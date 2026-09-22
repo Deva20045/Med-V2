@@ -1,0 +1,609 @@
+{
+  "chapter": 4,
+  "title": "AV Blocks",
+  "pageRange": "390-393",
+  "questions": [
+    {
+      "id": "MED-C4-01",
+      "sec": "First-Degree AV Block",
+      "page": 390,
+      "fmt": "recall",
+      "q": "Which pair is listed under causes of first-degree AV block?",
+      "opts": [
+        "Beta-blockers and calcium channel blockers",
+        "Digoxin and loop diuretics only",
+        "Beta-agonists and calcium supplements",
+        "Ivabradine and adenosine only"
+      ],
+      "ans": 0,
+      "exp": "The two listed causes are beta-blockers and calcium channel blockers. (Book p390)"
+    },
+    {
+      "id": "MED-C4-02",
+      "sec": "First-Degree AV Block",
+      "page": 390,
+      "fmt": "oddoneout",
+      "q": "Which finding contradicts the clinical-feature list for first-degree block on this page?",
+      "opts": [
+        "Loud S1 as the listed first-heart-sound finding",
+        "Asymptomatic presentation",
+        "Cannon waves on JVP",
+        "Soft S1"
+      ],
+      "ans": 0,
+      "exp": "The source lists asymptomatic, soft S1 and cannon waves on JVP. Cannon waves are contextualised below by unusually prolonged PR; they are not a universal first-degree-block finding. (Book p390)"
+    },
+    {
+      "id": "MED-C4-03",
+      "sec": "First-Degree AV Block",
+      "page": 390,
+      "fmt": "management",
+      "q": "For the uncomplicated first-degree presentation described here, which management/prognosis pair is printed?",
+      "opts": [
+        "Immediate cardioversion; guarded prognosis",
+        "No treatment needed; very good prognosis",
+        "Permanent pacing for all; very good prognosis",
+        "No treatment needed; uniformly poor prognosis"
+      ],
+      "ans": 1,
+      "exp": "The management column states no Rx needed and very good prognosis; this is the book’s uncomplicated presentation, not a blanket rule for symptomatic patients. (Book p390)"
+    },
+    {
+      "id": "MED-C4-04",
+      "sec": "First-Degree AV Block",
+      "page": 390,
+      "fmt": "fillup",
+      "q": "The source prints delayed atria-to-ventricle conduction with prolonged PR and a threshold of ____; this question asks what is printed, not the usual diagnostic cutoff.",
+      "opts": [
+        ">160 ms",
+        ">200 ms",
+        ">100 ms",
+        ">120 ms"
+      ],
+      "ans": 2,
+      "exp": "The scanned line reads PR interval >100 ms and the figure marks prolonged PR. This appears inconsistent with the usual first-degree AV-block definition of PR >200 ms; retain the distinction rather than using >100 ms clinically. (Book p390)"
+    },
+    {
+      "id": "MED-C4-05",
+      "sec": "First-Degree AV Block",
+      "page": 390,
+      "fmt": "truefalse",
+      "q": "True or false: first-degree AV block here retains regular sinus rhythm, normal P/QRS morphology and a QRS after every P.",
+      "opts": [
+        "False — normal P waves must be replaced by absent P waves",
+        "True — conduction is delayed but every P is followed by QRS",
+        "True — the prolonged PR requires intermittent dropped QRS complexes",
+        "False — the defining feature is complete P–QRS independence"
+      ],
+      "ans": 1,
+      "exp": "The bullets specify regular sinus rhythm, normal P and QRS complexes and every P followed by QRS. (Book p390)"
+    },
+    {
+      "id": "MED-C4-06",
+      "sec": "First-Degree AV Block",
+      "page": 390,
+      "fmt": "scenario",
+      "q": "In the unusually prolonged-PR example, arrows mark P waves on T waves. Which consequence chain is printed?",
+      "opts": [
+        "Synchronous contraction → increased cardiac output and isolated giant v waves",
+        "Loss of all atrial activity → reduced output without any P waves",
+        "Synchronous atrial/ventricular contraction → reduced cardiac output and cannon JVP waves",
+        "Asynchronous atrial/ventricular contraction → increased cardiac output and absent JVP waves"
+      ],
+      "ans": 2,
+      "exp": "The source links P superimposed on T to synchronous contraction of atria and ventricles, then branches to decreased cardiac output and cannon waves on JVP. (Book p390)"
+    },
+    {
+      "id": "MED-C4-07",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 390,
+      "fmt": "fillup",
+      "q": "The second-degree flowchart divides into ____ and ____; the latter is described as not meeting the former’s criteria.",
+      "opts": [
+        "Mobitz (types I and II); advanced second-degree AV block",
+        "First-degree block; complete AV block",
+        "Mobitz type I; isolated sinus arrest",
+        "Sinoatrial block; trifascicular block"
+      ],
+      "ans": 0,
+      "exp": "Second-degree block branches to Mobitz (types I and II) and advanced second-degree block, with the note that Mobitz criteria are not met in the latter. (Book p390)"
+    },
+    {
+      "id": "MED-C4-08",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 390,
+      "fmt": "numeric",
+      "q": "What conducted/missed-beat pattern does the Mobitz branch specify at a time?",
+      "opts": [
+        "Only one beat missed with no conducted beats",
+        "Every third P missed regardless of the number conducted",
+        "Only one beat missed with at least two conducted",
+        "At least two beats missed with only one conducted"
+      ],
+      "ans": 2,
+      "exp": "The flowchart specifies only one beat missed and ≥2 beats conducted at a time. (Book p390)"
+    },
+    {
+      "id": "MED-C4-09",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "numeric",
+      "q": "The top-left Mobitz-I example brackets three conducted beats and one missed beat. What is the resulting atrial-to-conducted-beat ratio for that group?",
+      "opts": [
+        "3:2",
+        "4:3",
+        "3:1",
+        "2:1"
+      ],
+      "ans": 1,
+      "exp": "Three conducted plus one missed gives four atrial opportunities for three conducted ventricular beats; the figure labels three conducted and one missed. (Book p391)"
+    },
+    {
+      "id": "MED-C4-10",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "scenario",
+      "q": "Which pair of call-outs identifies the two advanced second-degree examples?",
+      "opts": [
+        "Exactly one missed; at least two conducted",
+        "More than one beat missed; fewer than two beats conducted",
+        "Exactly one missed; at least three conducted",
+        "No beats missed; all beats conducted"
+      ],
+      "ans": 1,
+      "exp": "The advanced examples are annotated >1 beat missed and <2 beats conducted, in contrast to the preceding Mobitz criteria. (Book p391)"
+    },
+    {
+      "id": "MED-C4-11",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "match",
+      "q": "Match the first three Mobitz comparison rows; each right item gives type I followed by type II — 1) Pathology 2) QRS complex 3) Etiology label … A) Benign / malignant B) Narrow / wide C) AV nodal / infranodal",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 1,
+      "exp": "In row order the table contrasts AV nodal with infranodal pathology, narrow with wide QRS and benign with malignant. These are source-characteristic patterns, not universal QRS-width requirements. (Book p391)"
+    },
+    {
+      "id": "MED-C4-12",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "scenario",
+      "q": "A strip shows progressive PR prolongation before a dropped beat. Which table entry and name fit?",
+      "opts": [
+        "Type II — AV dissociation",
+        "Type I — Wenckebach phenomenon",
+        "Type II — Wenckebach phenomenon",
+        "Type I — constant-PR phenomenon"
+      ],
+      "ans": 1,
+      "exp": "Type I shows progressive PR prolongation, named Wenckebach; type II has a constant PR in conducted beats. (Book p391)"
+    },
+    {
+      "id": "MED-C4-13",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "fillup",
+      "q": "The table describes RR intervals as ____ in type I and ____ in type II.",
+      "opts": [
+        "Constant; progressively lengthening",
+        "Progressively lengthening; constant",
+        "Constant; progressively shortening",
+        "Progressively shortening; constant"
+      ],
+      "ans": 3,
+      "exp": "The RR row says progressively shortens for type I and constant for type II. This describes the pattern among conducted beats, not the pause itself. (Book p391)"
+    },
+    {
+      "id": "MED-C4-14",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "scenario",
+      "q": "Which presentation pairing agrees with the Mobitz table?",
+      "opts": [
+        "Type I hemodynamic compromise; type II always asymptomatic",
+        "Type I Stokes–Adams syndrome; type II isolated soft S1 only",
+        "Type I asymptomatic; type II symptomatic with hemodynamic compromise or Stokes–Adams syndrome",
+        "Both types asymptomatic; syncope belongs only to sinus bradycardia"
+      ],
+      "ans": 2,
+      "exp": "The table contrasts asymptomatic type I with symptomatic type II, listing hemodynamic compromise and Stokes–Adams syndrome. (Book p391)"
+    },
+    {
+      "id": "MED-C4-15",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "fillup",
+      "q": "The associated-infarct row pairs type I with ____ and type II with ____.",
+      "opts": [
+        "Lateral-wall MI; posterior-wall MI",
+        "Inferior-wall MI; anterior-wall MI",
+        "Posterior-wall MI; lateral-wall MI",
+        "Anterior-wall MI; inferior-wall MI"
+      ],
+      "ans": 1,
+      "exp": "The table associates type I with inferior-wall MI and type II with anterior-wall MI. (Book p391)"
+    },
+    {
+      "id": "MED-C4-16",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "recall",
+      "q": "Which is the printed type-II cause list, while the type-I cell contains a dash?",
+      "opts": [
+        "Sx, COPD, decreased K, amyloid",
+        "Sx, SLE, increased K, amyloid",
+        "Sx, SLE, decreased K, aortic stenosis",
+        "SLE, hypothyroidism, decreased Ca, COPD"
+      ],
+      "ans": 1,
+      "exp": "The type-II cell reads Sx/SLE/↑K/Amyloid. “Sx” is retained as printed shorthand rather than silently expanded; type I has a dash. (Book p391)"
+    },
+    {
+      "id": "MED-C4-17",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "recall",
+      "q": "What do the site-of-block cartoons contrast?",
+      "opts": [
+        "Type I at sinus node; type II only at AV node",
+        "Type I at the AV node; type II at infranodal His/bundle levels",
+        "Both types confined to the sinus node",
+        "Type I at the ventricular apex; type II only in atria"
+      ],
+      "ans": 1,
+      "exp": "The type-I cartoon marks the AV nodal region; type-II cartoons show blocks below it along the His/bundle pathways. (Book p391)"
+    },
+    {
+      "id": "MED-C4-18",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "scenario",
+      "q": "In the ECG row, what distinguishes the left dropped-beat arrow from the right dropped-beat/star example?",
+      "opts": [
+        "Both: complete independence of all P and QRS complexes",
+        "Left: absent P throughout; right: absent T throughout",
+        "Left: constant PR before the drop; right: progressive PR before the drop",
+        "Left: progressive PR before the drop; right: constant conducted PR before a drop"
+      ],
+      "ans": 3,
+      "exp": "The type-I strip illustrates Wenckebach prolongation then a dropped QRS; the type-II strip marks P waves and a dropped complex with constant PR in conducted beats. (Book p391)"
+    },
+    {
+      "id": "MED-C4-19",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "truefalse",
+      "q": "True or false: the notes associate AWMI with infranodal block, described as rare and due to structural heart disease, and IWMI with AV nodal block.",
+      "opts": [
+        "True — both infarct types are described as exclusively SA nodal",
+        "False — the notes state that structural disease is never involved",
+        "False — AWMI is linked to AV nodal and IWMI to infranodal block",
+        "True — those are the two printed infarct-site associations"
+      ],
+      "ans": 3,
+      "exp": "The AWMI notes say infranodal, rare and due to structural heart disease; the IWMI note says AV nodal block. (Book p391)"
+    },
+    {
+      "id": "MED-C4-20",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "page": 391,
+      "fmt": "management",
+      "q": "Which pair reproduces the page’s management branches, rather than imposing a new protocol?",
+      "opts": [
+        "Both branches: observation only",
+        "Asymptomatic (type I > II): observe; symptomatic: permanent pacemaker",
+        "Asymptomatic: permanent pacemaker; symptomatic: observe",
+        "Asymptomatic: cardioversion; symptomatic: beta-blocker"
+      ],
+      "ans": 1,
+      "exp": "The printed branches are asymptomatic (type I > II) → observe, symptomatic → permanent pacemaker. This simplified source algorithm must not be read as permission to observe all asymptomatic Mobitz II/high-grade blocks; clinical pacing decisions require guideline-based assessment. (Book p391)"
+    },
+    {
+      "id": "MED-C4-21",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "page": 392,
+      "fmt": "scenario",
+      "q": "The upper ECG circles ST elevation in II, III and aVF and marks dropped ventricular beats in the rhythm strip. Which caption matches it?",
+      "opts": [
+        "IWMI with sinus arrest only",
+        "Lateral MI with ventricular tachycardia",
+        "IWMI with Mobitz AV block",
+        "AWMI with isolated first-degree AV block"
+      ],
+      "ans": 2,
+      "exp": "The inferior-lead ST elevations and rhythm-strip marks accompany the caption IWMI with Mobitz AV block; the bracket identifies second-degree AV block. (Book p392)"
+    },
+    {
+      "id": "MED-C4-22",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "page": 392,
+      "fmt": "numeric",
+      "q": "The second IWMI tracing marks alternate nonconducted P waves. What degree and ratio are printed in its caption?",
+      "opts": [
+        "First-degree AV block, 1:1",
+        "Third-degree AV block, 2:1",
+        "Advanced second-degree AV block, 2:1",
+        "Advanced second-degree AV block, 3:1"
+      ],
+      "ans": 2,
+      "exp": "The caption reads IWMI with advanced second-degree AV (2:1) block; stars identify nonconducted atrial activity. (Book p392)"
+    },
+    {
+      "id": "MED-C4-23",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "page": 392,
+      "fmt": "fillup",
+      "q": "Third-degree block can occur anywhere along the conduction system; no atrial impulse reaches the ventricle, producing ____.",
+      "opts": [
+        "Only PR prolongation with 1:1 conduction",
+        "AV dissociation",
+        "Only alternate P-wave conduction",
+        "Sinus arrest with absent atrial activity"
+      ],
+      "ans": 1,
+      "exp": "The features specify block anywhere along the conduction system and no impulse transmitted from atria to ventricle, leading to AV dissociation. (Book p392)"
+    },
+    {
+      "id": "MED-C4-24",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "page": 392,
+      "fmt": "truefalse",
+      "q": "True or false: complete AV dissociation can show regular P waves and regular QRS complexes even though the two are unrelated.",
+      "opts": [
+        "False — dissociation requires an irregular ventricular rhythm",
+        "True — regularity means every P must still conduct to a QRS",
+        "True — atrial and junctional/ventricular rhythms can each be regular independently",
+        "False — dissociation requires an irregular atrial rhythm"
+      ],
+      "ans": 2,
+      "exp": "The ECG bullets specify regular atrial P waves, regular junctional/ventricular QRS complexes and no relationship between P and QRS. (Book p392)"
+    },
+    {
+      "id": "MED-C4-25",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "page": 392,
+      "fmt": "fillup",
+      "q": "The escape-pathway diagram links junctional rhythm to ____ and ventricular rhythm to ____.",
+      "opts": [
+        "Short QT; prolonged PR with 1:1 conduction",
+        "Narrow QRS; wide QRS",
+        "Absent QRS; normal P waves",
+        "Wide QRS; narrow QRS"
+      ],
+      "ans": 1,
+      "exp": "Along the atria → AV node → bundle branch → ventricle diagram, junctional escape is linked to narrow QRS and ventricular escape to wide QRS. (Book p392)"
+    },
+    {
+      "id": "MED-C4-26",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "page": 392,
+      "fmt": "scenario",
+      "q": "Arrows on the complete-dissociation strip identify P waves appearing at differing positions relative to broad QRS complexes. What should be inferred?",
+      "opts": [
+        "Independent atrial activity and a ventricular escape rhythm",
+        "Progressive PR prolongation followed by a single dropped QRS",
+        "Sinus arrest with no continuing atrial depolarisation",
+        "A fixed prolonged PR with every P conducted"
+      ],
+      "ans": 0,
+      "exp": "The strip is captioned complete AV dissociation; arrows mark continuing P waves unrelated to the broad ventricular complexes. (Book p392)"
+    },
+    {
+      "id": "MED-C4-27",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "recall",
+      "q": "Which set reproduces the first three arms of the AV-dissociation cause flowchart?",
+      "opts": [
+        "Complete AV block; atrial flutter with fixed conduction; sinus arrest",
+        "Complete AV block; VT with complete AV dissociation; AIVR with complete AV dissociation",
+        "First-degree block; VT with 1:1 conduction; ordinary sinus bradycardia",
+        "Mobitz I; atrial tachycardia; AIVR with 1:1 atrial conduction"
+      ],
+      "ans": 1,
+      "exp": "The first three arms are complete AV block, ventricular tachycardia with complete AV dissociation, and accelerated idioventricular rhythm with complete AV dissociation. (Book p393)"
+    },
+    {
+      "id": "MED-C4-28",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "fillup",
+      "q": "The final two arms are ____ with complete AV dissociation.",
+      "opts": [
+        "Sinus tachycardia and sinus arrhythmia",
+        "Atrial flutter and atrial fibrillation",
+        "Junctional tachycardia and junctional rhythm",
+        "Sinus bradycardia and first-degree AV block"
+      ],
+      "ans": 2,
+      "exp": "Both junctional tachycardia and junctional rhythm with complete AV dissociation are separately listed. (Book p393)"
+    },
+    {
+      "id": "MED-C4-29",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "scenario",
+      "q": "The full ECG’s inferior-infarct pattern is accompanied by arrows marking independent P waves. Which printed diagnosis combines these findings?",
+      "opts": [
+        "AWMI with Mobitz I block",
+        "IWMI with isolated first-degree block",
+        "RVH with sinus arrest",
+        "IWMI with third-degree AV block"
+      ],
+      "ans": 3,
+      "exp": "The tracing is captioned IWMI with third-degree AV block; arrows on the rhythm strip emphasise the independent atrial activity. (Book p393)"
+    },
+    {
+      "id": "MED-C4-30",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "fillup",
+      "q": "In the first summary row, a P precedes every QRS with a consistently prolonged PR. The row is labelled ____.",
+      "opts": [
+        "First-degree AV block",
+        "Mobitz I second-degree AV block",
+        "Advanced 2:1 second-degree AV block",
+        "Complete AV block, AV nodal"
+      ],
+      "ans": 0,
+      "exp": "The first summary row is first-degree AV block, with delayed but retained 1:1 AV conduction. (Book p393)"
+    },
+    {
+      "id": "MED-C4-31",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "scenario",
+      "q": "In the next summary strip, PR lengthens before a missing ventricular complex. Which row is this?",
+      "opts": [
+        "Type I second-degree AV block",
+        "Type II second-degree AV block",
+        "Complete AV block, infranodal",
+        "Advanced 3:1 second-degree AV block"
+      ],
+      "ans": 0,
+      "exp": "The second summary row is type I second-degree AV block, showing the Wenckebach pattern. (Book p393)"
+    },
+    {
+      "id": "MED-C4-32",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "scenario",
+      "q": "The third summary row shows broad/notched conducted QRS complexes and an intermittent dropped QRS without progressive PR lengthening. Which label belongs to it?",
+      "opts": [
+        "Complete AV block, AV nodal",
+        "First-degree AV block",
+        "Type I second-degree AV block",
+        "Type II second-degree AV block"
+      ],
+      "ans": 3,
+      "exp": "The third row is type II second-degree AV block; the drawing uses broad/notched QRS complexes with intermittent nonconduction. (Book p393)"
+    },
+    {
+      "id": "MED-C4-33",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "numeric",
+      "q": "In the advanced 2:1 summary strip, how many atrial depolarisations correspond to each conducted QRS?",
+      "opts": [
+        "One",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "ans": 1,
+      "exp": "The fourth row is advanced 2:1 second-degree AV block: two atrial depolarisations for one conducted ventricular complex. (Book p393)"
+    },
+    {
+      "id": "MED-C4-34",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "numeric",
+      "q": "In the following advanced 3:1 summary strip, how many P waves fail to conduct between successive conducted beats?",
+      "opts": [
+        "Two",
+        "Three",
+        "None",
+        "One"
+      ],
+      "ans": 0,
+      "exp": "The fifth row is advanced 3:1 second-degree AV block: one conducted beat for three P waves, so two are nonconducted. (Book p393)"
+    },
+    {
+      "id": "MED-C4-35",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "page": 393,
+      "fmt": "fillup",
+      "q": "The final two summary rows show complete block with ____ QRS for the AV-nodal row and ____ QRS for the infranodal row.",
+      "opts": [
+        "Broad/notched; narrow",
+        "Narrow; broad/notched",
+        "Narrow; absent",
+        "Absent; narrow"
+      ],
+      "ans": 1,
+      "exp": "The final rows contrast complete AV block at AV-nodal level with narrow escape complexes and infranodal complete block with broad/notched escape complexes; P and QRS remain dissociated. (Book p393)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U4-1",
+      "ch": 4,
+      "n": 1,
+      "title": "First-Degree AV Block",
+      "sec": "First-Degree AV Block",
+      "guide": "Follow the first-degree causes, clinical features and management before interpreting the prolonged PR.\nKeep the printed >100 ms threshold separate from the usual clinical >200 ms definition.\nTrace unusually prolonged PR to P-on-T, reduced output and cannon waves.",
+      "qs": [
+        "MED-C4-01",
+        "MED-C4-02",
+        "MED-C4-03",
+        "MED-C4-04",
+        "MED-C4-05",
+        "MED-C4-06"
+      ]
+    },
+    {
+      "id": "MED-U4-2",
+      "ch": 4,
+      "n": 2,
+      "title": "Second-Degree Classification & Mobitz Comparison",
+      "sec": "Second-Degree Classification & Mobitz Comparison",
+      "guide": "Distinguish Mobitz from the book’s advanced-block examples by conducted and missed beats.\nRead each table row separately: site, QRS, behaviour, timing, presentation, infarct association and causes.\nFinish with the source’s observation-versus-pacing management branches.",
+      "qs": [
+        "MED-C4-07",
+        "MED-C4-08",
+        "MED-C4-09",
+        "MED-C4-10",
+        "MED-C4-11",
+        "MED-C4-12",
+        "MED-C4-13",
+        "MED-C4-14",
+        "MED-C4-15",
+        "MED-C4-16",
+        "MED-C4-17",
+        "MED-C4-18",
+        "MED-C4-19",
+        "MED-C4-20"
+      ]
+    },
+    {
+      "id": "MED-U4-3",
+      "ch": 4,
+      "n": 3,
+      "title": "Infarct Examples & Third-Degree Block",
+      "sec": "Infarct Examples & Third-Degree Block",
+      "guide": "Recognise the two inferior-infarct tracings before moving to complete block.\nSeparate regular atrial and escape rhythms from their absent relationship.\nUse the level of escape to interpret narrow versus wide QRS.",
+      "qs": [
+        "MED-C4-21",
+        "MED-C4-22",
+        "MED-C4-23",
+        "MED-C4-24",
+        "MED-C4-25",
+        "MED-C4-26"
+      ]
+    },
+    {
+      "id": "MED-U4-4",
+      "ch": 4,
+      "n": 4,
+      "title": "AV Dissociation Causes & Summary Strips",
+      "sec": "AV Dissociation Causes & Summary Strips",
+      "guide": "Read all five causes of AV dissociation without equating every dissociation with complete block.\nThen compare the seven summary rows in their printed order, including both advanced ratios and both escape widths.",
+      "qs": [
+        "MED-C4-27",
+        "MED-C4-28",
+        "MED-C4-29",
+        "MED-C4-30",
+        "MED-C4-31",
+        "MED-C4-32",
+        "MED-C4-33",
+        "MED-C4-34",
+        "MED-C4-35"
+      ]
+    }
+  ]
+}
