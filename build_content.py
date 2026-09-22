@@ -91,6 +91,11 @@ def between(text: str, start: str, end: str) -> tuple[int, int]:
 
 
 def main() -> None:
+    # Fail before touching the offline HTML if schema, inventory or app parsing
+    # regresses. The visual self-audit is recorded separately in audit/SELF_AUDIT.md.
+    from validate_content import validate_all
+    validate_all()
+
     questions: list[dict] = []
     units: list[dict] = []
     live: dict[int, dict] = {}

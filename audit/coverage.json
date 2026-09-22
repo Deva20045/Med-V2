@@ -1,0 +1,1574 @@
+[
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Atrial & Ventricular Enlargement heading",
+    "question": "MED-C2-01"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Atrial enlargement heading",
+    "question": "MED-C2-01"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Right atrial enlargement: abnormal P waves; pathology atrial origin",
+    "question": "MED-C2-01"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Pointed P: P-pulmonale; right atrial enlargement",
+    "question": "MED-C2-02"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Tall and peaked P: COPD",
+    "question": "MED-C2-02"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Rate >100 bpm: atrial tachycardia",
+    "question": "MED-C2-03"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Right atrial enlargement figure: II, III, aVF peaked P panels; V1 panel; full ECG arrows/circles",
+    "question": "MED-C2-04"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Left atrial enlargement heading",
+    "question": "MED-C2-05"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Bifid P: P mitrale",
+    "question": "MED-C2-05"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Left atrial enlargement figure: I, II, aVF, V1 panels and annotated tracing",
+    "question": "MED-C2-06"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Note: corrected QT interval QTc = QT / sqrt(RR)",
+    "question": "MED-C2-07"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Ventricular hypertrophy heading",
+    "question": "MED-C2-08"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "LVH: axis aVL (printed 30°) to lead I (0°), leftward",
+    "question": "MED-C2-08"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Leftward axis cause: LVH",
+    "question": "MED-C2-09"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Increased left muscle mass pushes vector left",
+    "question": "MED-C2-09"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "LVH: increased positive deflection on left",
+    "question": "MED-C2-10"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "Increased negative deflection on right",
+    "question": "MED-C2-10"
+  },
+  {
+    "chapter": 2,
+    "page": 383,
+    "point": "LVH ECG caption and circled I/aVL deflections",
+    "question": "MED-C2-10"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Sokolow–Lyon lead alternatives: R in V5 or V6 plus S in V1 or V2",
+    "question": "MED-C2-11"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Sokolow Lyon index: V5 or V6 R + V1 or V2 S >35 mm",
+    "question": "MED-C2-12"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Sokolow Lyon: aVL >11 mm gives LVH",
+    "question": "MED-C2-13"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Secondary ST/T changes due to strain/pressure overload",
+    "question": "MED-C2-14"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Aortic stenosis/chronic HTN",
+    "question": "MED-C2-14"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Leftward-axis cause 2: LBBB",
+    "question": "MED-C2-15"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Right ventricular hypertrophy heading",
+    "question": "MED-C2-16"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "RVH axis: III 120° to aVF 90°; rightward",
+    "question": "MED-C2-16"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Rightward axis cause RVH",
+    "question": "MED-C2-17"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "V1 R/S >1",
+    "question": "MED-C2-17"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Secondary ST changes with mitral stenosis + RVH",
+    "question": "MED-C2-17"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "RVH ECG caption",
+    "question": "MED-C2-17"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "P-pulmonale: II, III, aVF",
+    "question": "MED-C2-18"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Most common COPD",
+    "question": "MED-C2-18"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "COPD tracing circled inferior P waves",
+    "question": "MED-C2-18"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "COPD hyperinflated lung",
+    "question": "MED-C2-19"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Downward diaphragm push",
+    "question": "MED-C2-19"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Axis shifts to 90°",
+    "question": "MED-C2-19"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "90° flowchart: prominent complexes aVF and II",
+    "question": "MED-C2-20"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Absent lead I complexes: lead I sign",
+    "question": "MED-C2-20"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Signs of COPD: narrow QRS",
+    "question": "MED-C2-21"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "V1–V6 poor R progression",
+    "question": "MED-C2-21"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "P-pulmonale",
+    "question": "MED-C2-21"
+  },
+  {
+    "chapter": 2,
+    "page": 384,
+    "point": "Positive lead I sign",
+    "question": "MED-C2-21"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Bundle Branch Blocks heading",
+    "question": "MED-C2-22"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RBBB heading",
+    "question": "MED-C2-22"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RVH with RBBB: axis I–aVL leftward",
+    "question": "MED-C2-22"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "R/S >1 RVH",
+    "question": "MED-C2-22"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RVH + leftward axis = biventricular hypertrophy",
+    "question": "MED-C2-22"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RVH with RBBB tracing labels R/S and RR′",
+    "question": "MED-C2-22"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RBBB conduction cartoon",
+    "question": "MED-C2-23"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RBBB morphology: V1 rr′/RR′/rsR′ terminal R′",
+    "question": "MED-C2-23"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "V6 qRS/RS with wide terminal S",
+    "question": "MED-C2-23"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RBBB morphology variants rr′, RR′, rsR′ in V1 and qRS, RS in V6",
+    "question": "MED-C2-24"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Blocks: RBBB only unifascicular",
+    "question": "MED-C2-25"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "RBBB + LAFB/LPFB bifascicular",
+    "question": "MED-C2-25"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "LBBB itself bifascicular",
+    "question": "MED-C2-25"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Bifascicular + prolonged PR/Mobitz trifascicular",
+    "question": "MED-C2-26"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "LBBB heading",
+    "question": "MED-C2-27"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Axis I–aVL leftward",
+    "question": "MED-C2-27"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "LBBB morphology V5, V6, aVL",
+    "question": "MED-C2-27"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "LBBB ECG annotations LVH and LBBB",
+    "question": "MED-C2-27"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "LBBB conduction cartoons",
+    "question": "MED-C2-28"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "V1 W pattern: rS, QS variants",
+    "question": "MED-C2-28"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "V6 M pattern: RR′, R, RR′ variants",
+    "question": "MED-C2-28"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "LBBB onset intrinsicoid deflection R-peak time normal V1",
+    "question": "MED-C2-29"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "V6 R-peak time prolonged >0.05 seconds",
+    "question": "MED-C2-29"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Sgarbossa criteria heading",
+    "question": "MED-C2-30"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Purpose: diagnose MI along with LBBB",
+    "question": "MED-C2-30"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "ECG findings: V1/V2 concordant depression",
+    "question": "MED-C2-31"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "V1/V2 discordant elevation",
+    "question": "MED-C2-31"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "V5/V6 concordant elevation",
+    "question": "MED-C2-31"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Sgarbossa figure 1: concordant STE >1 mm with positive QRS",
+    "question": "MED-C2-32"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Figure 2: concordant STD >1 mm V1–V3",
+    "question": "MED-C2-32"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Figure 3: J point",
+    "question": "MED-C2-33"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Height of discordant STE 5 mm",
+    "question": "MED-C2-33"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "Height preceding S 15 mm",
+    "question": "MED-C2-33"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "STE/S >25% (>0.25)",
+    "question": "MED-C2-33"
+  },
+  {
+    "chapter": 2,
+    "page": 385,
+    "point": "5/15 =0.33 (>0.25)",
+    "question": "MED-C2-33"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "Criteria: V5/V6 concordant STE >1 mm",
+    "question": "MED-C2-34"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "V1/V2 discordant STE >5 mm",
+    "question": "MED-C2-34"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "V1/V2 concordant STD >1 mm",
+    "question": "MED-C2-34"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "V1–V3 panels: LBBB no MI discordant ST",
+    "question": "MED-C2-35"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "LBBB + acute MI concordant ST ≥1 mm",
+    "question": "MED-C2-35"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "Abnormally discordant ST ≥5 mm",
+    "question": "MED-C2-35"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "V5/V6/II/III/aVF panels: discordant ST no MI vs concordant ≥1 mm acute MI",
+    "question": "MED-C2-36"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "Bottom ECG left caption acute MI with LBBB concordant elevation >1 mm; arrows/circle",
+    "question": "MED-C2-37"
+  },
+  {
+    "chapter": 2,
+    "page": 386,
+    "point": "Bottom ECG right caption discordant elevation >5 mm; arrows/circles",
+    "question": "MED-C2-37"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Cardiac terminologies & Pacemaker potential heading",
+    "question": "MED-C3-01"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Chronotropy: heart rate",
+    "question": "MED-C3-01"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Chronotropy regulator SA node/pacemaker potential",
+    "question": "MED-C3-01"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Inotropy: myocardial contractility",
+    "question": "MED-C3-02"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Inotropy regulator ventricle Lt > Rt/ventricular potential",
+    "question": "MED-C3-02"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Dromotropy: conduction velocity",
+    "question": "MED-C3-03"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Bathmotropy: excitability",
+    "question": "MED-C3-03"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Lusitropy: relaxation",
+    "question": "MED-C3-03"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "These three regulator cells are dashes",
+    "question": "MED-C3-03"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "HF flowchart heading",
+    "question": "MED-C3-04"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Reduced EF HFrEF: EF <50%",
+    "question": "MED-C3-04"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Preserved EF HFpEF: EF >50%",
+    "question": "MED-C3-04"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Older classification: systolic impaired contractility",
+    "question": "MED-C3-05"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Diastolic impaired relaxation",
+    "question": "MED-C3-05"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Systolic always associated with diastolic dysfunction",
+    "question": "MED-C3-06"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Diastolic ± systolic dysfunction",
+    "question": "MED-C3-06"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Older table Rx options + systolic",
+    "question": "MED-C3-07"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "No drugs to Rx diastolic",
+    "question": "MED-C3-07"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Pacemaker potential heading",
+    "question": "MED-C3-08"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Automaticity: ability to beat without stimuli",
+    "question": "MED-C3-08"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Automaticity SA node pacemaker maximum potential",
+    "question": "MED-C3-09"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Automaticity distal AV node",
+    "question": "MED-C3-10"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Atrial cells",
+    "question": "MED-C3-10"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "His–Purkinje system",
+    "question": "MED-C3-10"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Ventricular myocardium",
+    "question": "MED-C3-10"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Phases: pacemaker potential",
+    "question": "MED-C3-11"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "TOK transient outward K closure",
+    "question": "MED-C3-11"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "IRK inward rectifying K opening",
+    "question": "MED-C3-11"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "HCN hyperpolarization activated cyclic nucleotide channel",
+    "question": "MED-C3-12"
+  },
+  {
+    "chapter": 3,
+    "page": 387,
+    "point": "Funny currents opening",
+    "question": "MED-C3-12"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "HCN continuation Na channels",
+    "question": "MED-C3-13"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Sites rods cones olfactory epithelium",
+    "question": "MED-C3-13"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Blocked by ivabradine",
+    "question": "MED-C3-13"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Pacemaker potential T-type calcium opening",
+    "question": "MED-C3-14"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Depolarisation L-type calcium",
+    "question": "MED-C3-14"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Repolarisation L-type calcium closure",
+    "question": "MED-C3-14"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "DRK delayed rectifier K opening",
+    "question": "MED-C3-14"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "PM potential graph membrane potential mV vs time s",
+    "question": "MED-C3-15"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Pacemaker slope and threshold",
+    "question": "MED-C3-15"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Upstroke increased Ca permeability/influx",
+    "question": "MED-C3-15"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Downstroke increased K and decreased Ca permeability/K efflux",
+    "question": "MED-C3-15"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "PM graph numbered call-out 1 maximum negative potential",
+    "question": "MED-C3-16"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Call-out 2 threshold transition",
+    "question": "MED-C3-16"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Call-out 3 upstroke",
+    "question": "MED-C3-16"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Call-out 4 repolarisation",
+    "question": "MED-C3-16"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "PM graph voltage scale −60 to +20 mV",
+    "question": "MED-C3-17"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "PM graph 800 msec cycle label",
+    "question": "MED-C3-17"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Heart Blocks heading",
+    "question": "MED-C3-18"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Bradyarrhythmias heading",
+    "question": "MED-C3-18"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Impulse pathway diagram sinus node atria AV node His bundle branches ventricles",
+    "question": "MED-C3-18"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Diagram dense fibrous tissues between atria/ventricles",
+    "question": "MED-C3-19"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "AV conduction system bracket AV node His bundle branches",
+    "question": "MED-C3-19"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Levels of block SA node",
+    "question": "MED-C3-20"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Sinoatrial block",
+    "question": "MED-C3-20"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "AV block 1°,2°,3°",
+    "question": "MED-C3-20"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Fascicular block",
+    "question": "MED-C3-20"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Unifascicular LAFB LPFB RBBB",
+    "question": "MED-C3-21"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Bifascicular RBBB + LAFB/LPFB or LBBB",
+    "question": "MED-C3-21"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Trifascicular bifascicular + increased PR",
+    "question": "MED-C3-21"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Sinus node dysfunction absent P waves",
+    "question": "MED-C3-22"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Figure A sinus node dysfunction flat continuation",
+    "question": "MED-C3-22"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Compensation junctional rhythm no P",
+    "question": "MED-C3-23"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Atrial rhythm abnormal P",
+    "question": "MED-C3-23"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Both 40–60 bpm",
+    "question": "MED-C3-23"
+  },
+  {
+    "chapter": 3,
+    "page": 388,
+    "point": "Junctional escape strip caption",
+    "question": "MED-C3-23"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Causes flowchart extrinsic/intrinsic",
+    "question": "MED-C3-24"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Extrinsic hyperkalemia",
+    "question": "MED-C3-24"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Extrinsic drugs digoxin beta blockers calcium channel blockers",
+    "question": "MED-C3-25"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Increased PaCO2 hypercapnia: obstructive sleep apnoea syndrome",
+    "question": "MED-C3-26"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Hypothermia",
+    "question": "MED-C3-27"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Hypothyroidism myxedema coma",
+    "question": "MED-C3-27"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Increased ICT bradycardia hypertension reflex",
+    "question": "MED-C3-27"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Intrinsic sick sinus syndrome",
+    "question": "MED-C3-28"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "SA nodal dysfunction figure hyperkalemia circled waves",
+    "question": "MED-C3-29"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Junctional rhythm circled complexes",
+    "question": "MED-C3-29"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Sinus bradycardia heading",
+    "question": "MED-C3-30"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Regular rhythm",
+    "question": "MED-C3-30"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Rate 40–60 bpm",
+    "question": "MED-C3-30"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Normal P",
+    "question": "MED-C3-30"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Extrinsic much more than intrinsic",
+    "question": "MED-C3-30"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Sinus bradycardia strip",
+    "question": "MED-C3-30"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Other ECG manifestations heading",
+    "question": "MED-C3-31"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Sinus pause/arrest diagram distance A > B",
+    "question": "MED-C3-31"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Sinoatrial exit block diagram distance A = B",
+    "question": "MED-C3-31"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Manifestation 3 tachy-brady syndrome and multi-lead strip",
+    "question": "MED-C3-32"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Idioventricular rhythm IVR → wide QRS",
+    "question": "MED-C3-33"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "IVR HR up to 40",
+    "question": "MED-C3-34"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "AIVR HR 40–100",
+    "question": "MED-C3-34"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "AIVR marker successful reperfusion",
+    "question": "MED-C3-35"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "VT HR >100",
+    "question": "MED-C3-36"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "AIVR figure circled broad complexes",
+    "question": "MED-C3-37"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "AV block absent QRS complexes",
+    "question": "MED-C3-38"
+  },
+  {
+    "chapter": 3,
+    "page": 389,
+    "point": "Figure B AV block continuing P waves",
+    "question": "MED-C3-38"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "First Degree AV Block heading/features",
+    "question": "MED-C4-01"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Causes beta blocker",
+    "question": "MED-C4-01"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Calcium channel blockers",
+    "question": "MED-C4-01"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Clinical features asymptomatic",
+    "question": "MED-C4-02"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Soft S1",
+    "question": "MED-C4-02"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Cannon waves JVP",
+    "question": "MED-C4-02"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Management no Rx needed",
+    "question": "MED-C4-03"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Very good prognosis",
+    "question": "MED-C4-03"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "ECG delay atria to ventricle",
+    "question": "MED-C4-04"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Prolonged PR interval",
+    "question": "MED-C4-04"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Printed PR >100 ms",
+    "question": "MED-C4-04"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "AV block prolonged PR tracing",
+    "question": "MED-C4-04"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Regular sinus rhythm",
+    "question": "MED-C4-05"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Normal P and QRS",
+    "question": "MED-C4-05"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Every P followed by QRS",
+    "question": "MED-C4-05"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Unusually prolonged PR",
+    "question": "MED-C4-06"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "P superimposed on T",
+    "question": "MED-C4-06"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Synchronous atrial and ventricular contraction",
+    "question": "MED-C4-06"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Decreased cardiac output arm",
+    "question": "MED-C4-06"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "JVP cannon waves arm",
+    "question": "MED-C4-06"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Lead II P arrows figure",
+    "question": "MED-C4-06"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Second Degree AV Block heading",
+    "question": "MED-C4-07"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Classification Mobitz Type I/Type II",
+    "question": "MED-C4-07"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Advanced second degree criteria Mobitz not met",
+    "question": "MED-C4-07"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "Mobitz at a time only 1 beat missed",
+    "question": "MED-C4-08"
+  },
+  {
+    "chapter": 4,
+    "page": 390,
+    "point": "At least 2 beats conducted",
+    "question": "MED-C4-08"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Top Mobitz I strip 3 beats conducted 1 missed",
+    "question": "MED-C4-09"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Advanced second degree strip >1 beat missed",
+    "question": "MED-C4-10"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Second strip <2 beats conducted",
+    "question": "MED-C4-10"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Advanced second degree caption",
+    "question": "MED-C4-10"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Mobitz table pathology: I AV nodal / II infranodal",
+    "question": "MED-C4-11"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "QRS: I narrow / II wide",
+    "question": "MED-C4-11"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Etiology: I benign / II malignant",
+    "question": "MED-C4-11"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "PR progressively prolonged I Wenckebach",
+    "question": "MED-C4-12"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "PR constant II",
+    "question": "MED-C4-12"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "RR progressively shortens I",
+    "question": "MED-C4-13"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "RR constant II",
+    "question": "MED-C4-13"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Presentation I asymptomatic",
+    "question": "MED-C4-14"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "II symptomatic hemodynamic compromise",
+    "question": "MED-C4-14"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "II Stokes Adams syndrome",
+    "question": "MED-C4-14"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Associated MI I inferior IWMI",
+    "question": "MED-C4-15"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Associated MI II anterior AWMI",
+    "question": "MED-C4-15"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Causes row Type I dash",
+    "question": "MED-C4-16"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Type II Sx/SLE/increased K/amyloid",
+    "question": "MED-C4-16"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Site-of-block cartoons I at AV node",
+    "question": "MED-C4-17"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "II below AV node at His/bundle levels",
+    "question": "MED-C4-17"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "ECG row I progressive PR/drop arrow",
+    "question": "MED-C4-18"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "ECG row II constant PR/drop star and P arrows",
+    "question": "MED-C4-18"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "AWMI infranodal block",
+    "question": "MED-C4-19"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Rare due to structural heart disease",
+    "question": "MED-C4-19"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "IWMI AV nodal block",
+    "question": "MED-C4-19"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Management asymptomatic Type I >II observe",
+    "question": "MED-C4-20"
+  },
+  {
+    "chapter": 4,
+    "page": 391,
+    "point": "Symptomatic permanent pacemaker",
+    "question": "MED-C4-20"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Upper tracing ST elevation II III aVF circles",
+    "question": "MED-C4-21"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Mobitz second degree AV block stars/bracket",
+    "question": "MED-C4-21"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "IWMI with Mobitz AV block caption",
+    "question": "MED-C4-21"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Second ECG IWMI advanced second degree 2:1 caption",
+    "question": "MED-C4-22"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Alternating nonconducted P stars",
+    "question": "MED-C4-22"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Third Degree AV Block heading",
+    "question": "MED-C4-23"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Block anywhere conduction system",
+    "question": "MED-C4-23"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "No impulse atria to ventricle",
+    "question": "MED-C4-23"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "AV dissociation",
+    "question": "MED-C4-23"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "ECG regular P atrial",
+    "question": "MED-C4-24"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Regular QRS junctional/ventricular",
+    "question": "MED-C4-24"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "P/QRS unrelated",
+    "question": "MED-C4-24"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Diagram atria AV node bundle branch ventricle",
+    "question": "MED-C4-25"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "AV node escape junctional narrow QRS",
+    "question": "MED-C4-25"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Ventricular escape wide QRS",
+    "question": "MED-C4-25"
+  },
+  {
+    "chapter": 4,
+    "page": 392,
+    "point": "Complete AV dissociation strip arrows mark independent P waves",
+    "question": "MED-C4-26"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Causes flowchart complete AV block",
+    "question": "MED-C4-27"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "VT with complete AV dissociation",
+    "question": "MED-C4-27"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "AIVR with complete AV dissociation",
+    "question": "MED-C4-27"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Causes flowchart junctional tachycardia with complete dissociation",
+    "question": "MED-C4-28"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Junctional rhythm with complete dissociation",
+    "question": "MED-C4-28"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "IWMI with 3° AV block ECG caption",
+    "question": "MED-C4-29"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Inferior leads and independent P arrows on rhythm strip",
+    "question": "MED-C4-29"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary row first degree",
+    "question": "MED-C4-30"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary row Type I second degree",
+    "question": "MED-C4-31"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary row Type II second degree broad/notched QRS intermittent drop",
+    "question": "MED-C4-32"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary advanced 2:1 second degree row",
+    "question": "MED-C4-33"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary advanced 3:1 second degree row",
+    "question": "MED-C4-34"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary complete AV block AV nodal narrow row",
+    "question": "MED-C4-35"
+  },
+  {
+    "chapter": 4,
+    "page": 393,
+    "point": "Summary complete AV block infranodal broad row",
+    "question": "MED-C4-35"
+  }
+]

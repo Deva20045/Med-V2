@@ -1,0 +1,657 @@
+{
+  "chapter": 3,
+  "title": "SA Nodal Dysfunction",
+  "pageRange": "387-389",
+  "questions": [
+    {
+      "id": "MED-C3-01",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "fillup",
+      "q": "The first table row defines chronotropy as ____ and assigns its regulation to ____.",
+      "opts": [
+        "Heart rate; SA node / pacemaker potential",
+        "Heart rate; ventricle / ventricular potential",
+        "Conduction velocity; SA node / ventricular potential",
+        "Myocardial contractility; ventricle / ventricular potential"
+      ],
+      "ans": 0,
+      "exp": "Chronotropy means heart rate; its regulator is the SA node through pacemaker potential. (Book p387)"
+    },
+    {
+      "id": "MED-C3-02",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "scenario",
+      "q": "Which meaning and regulator belong to the inotropy row?",
+      "opts": [
+        "Myocardial contractility; ventricle (left > right), ventricular potential",
+        "Myocardial relaxation; ventricle (right > left), ventricular potential",
+        "Myocardial contractility; atria (left > right), pacemaker potential",
+        "Heart rate; SA node, pacemaker potential"
+      ],
+      "ans": 0,
+      "exp": "Inotropy is myocardial contractility, regulated by the ventricle (Lt > Rt) and ventricular potential. (Book p387)"
+    },
+    {
+      "id": "MED-C3-03",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "match",
+      "q": "Match the remaining rows; all three regulator cells are printed as dashes — 1) Dromotropy 2) Bathmotropy 3) Lusitropy … A) Cardiac conduction velocity B) Cardiac excitability C) Cardiac relaxation",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Dromotropy is conduction velocity, bathmotropy excitability and lusitropy relaxation. Their regulator cells are all dashes; no regulator is supplied. (Book p387)"
+    },
+    {
+      "id": "MED-C3-04",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "numeric",
+      "q": "Using only this page’s printed heart-failure split, which pair is correct?",
+      "opts": [
+        "HFrEF: EF <40%; HFpEF: EF 40–49%",
+        "HFrEF: EF ≤50%; HFpEF: EF ≥50%",
+        "HFrEF: EF >50%; HFpEF: EF <50%",
+        "HFrEF: EF <50%; HFpEF: EF >50%"
+      ],
+      "ans": 3,
+      "exp": "The printed flowchart uses <50% and >50%, leaving exactly 50% unspecified. These are book-specific cutoffs, not the full contemporary EF classification. (Book p387)"
+    },
+    {
+      "id": "MED-C3-05",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "scenario",
+      "q": "In the older-classification table, impaired contractility and impaired relaxation map respectively to which dysfunctions?",
+      "opts": [
+        "Systolic; diastolic",
+        "Both diastolic only",
+        "Diastolic; systolic",
+        "Both systolic only"
+      ],
+      "ans": 0,
+      "exp": "The older table pairs systolic dysfunction with impaired contractility and diastolic dysfunction with impaired relaxation. (Book p387)"
+    },
+    {
+      "id": "MED-C3-06",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "truefalse",
+      "q": "True or false: the older table says diastolic dysfunction always requires accompanying systolic dysfunction.",
+      "opts": [
+        "True — impaired relaxation is another name for impaired contractility",
+        "False — diastolic may occur with or without systolic dysfunction; systolic is listed as always accompanied by diastolic",
+        "True — the table gives an obligatory systolic component for diastolic dysfunction",
+        "False — neither type can ever coexist with the other"
+      ],
+      "ans": 1,
+      "exp": "The systolic column says always associated with diastolic dysfunction; the diastolic column says ± systolic dysfunction. (Book p387)"
+    },
+    {
+      "id": "MED-C3-07",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "page": 387,
+      "fmt": "management",
+      "q": "Which treatment-row wording belongs to the book’s explicitly older classification (not current prescribing advice)?",
+      "opts": [
+        "Systolic: treatment options present; diastolic: “No drugs to Rx”",
+        "Systolic: no drugs; diastolic: treatment options present",
+        "Both columns: permanent pacemaker first-line",
+        "Both columns: no drugs to treat"
+      ],
+      "ans": 0,
+      "exp": "The older table prints Rx options + under systolic and No drugs to Rx under diastolic. The latter is a historical/source statement and must not be used as contemporary HFpEF treatment advice. (Book p387)"
+    },
+    {
+      "id": "MED-C3-08",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 387,
+      "fmt": "fillup",
+      "q": "Automaticity means the heart can beat ____.",
+      "opts": [
+        "In the absence of stimuli",
+        "Only after a ventricular stimulus",
+        "Only after an external stimulus",
+        "Only when AV conduction is intact"
+      ],
+      "ans": 0,
+      "exp": "The book defines automaticity as the ability of the heart to beat in the absence of stimuli. (Book p387)"
+    },
+    {
+      "id": "MED-C3-09",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 387,
+      "fmt": "recall",
+      "q": "Which listed site is singled out as the pacemaker with maximum potential?",
+      "opts": [
+        "SA node",
+        "Ventricular myocardium",
+        "Distal AV node",
+        "His–Purkinje system"
+      ],
+      "ans": 0,
+      "exp": "The SA node is specifically marked pacemaker (maximum potential). (Book p387)"
+    },
+    {
+      "id": "MED-C3-10",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 387,
+      "fmt": "oddoneout",
+      "q": "Which replacement would make the printed automaticity-site list incorrect?",
+      "opts": [
+        "Dense fibrous tissue instead of atrial cells",
+        "Distal AV node alongside the SA node",
+        "Ventricular myocardium alongside the His–Purkinje system",
+        "His–Purkinje system alongside atrial cells"
+      ],
+      "ans": 0,
+      "exp": "The listed sites are SA node, distal AV node, atrial cells, His–Purkinje system and ventricular myocardium—not dense fibrous tissue. (Book p387)"
+    },
+    {
+      "id": "MED-C3-11",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 387,
+      "fmt": "fillup",
+      "q": "For the pacemaker-potential phase, the book pairs transient outward K channels with ____ and inward rectifying K channels with ____.",
+      "opts": [
+        "Closure; closure",
+        "Closure; opening",
+        "Opening; closure",
+        "Opening; opening"
+      ],
+      "ans": 1,
+      "exp": "The printed sequence is TOK: transient outward K, closure; IRK: inward rectifying K, opening. This item tests the source’s channel wording rather than silently rewriting it. (Book p387)"
+    },
+    {
+      "id": "MED-C3-12",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 387,
+      "fmt": "fillup",
+      "q": "The funny-current channel is expanded as ____ and is listed as opening during pacemaker potential.",
+      "opts": [
+        "Depolarization-activated cyclic nucleotide channel",
+        "Hyperpolarization-activated calcium-selective channel",
+        "Hyperpolarization-activated cyclic nucleotide channel",
+        "Delayed rectifier potassium channel"
+      ],
+      "ans": 2,
+      "exp": "The line names hyperpolarization-activated cyclic nucleotide (HCN) channel and labels funny currents (opening). (Book p387)"
+    },
+    {
+      "id": "MED-C3-13",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 388,
+      "fmt": "recall",
+      "q": "Which combination matches all three continuation bullets for HCN/funny-current channels?",
+      "opts": [
+        "Na channels; rods, cones and olfactory epithelium; digoxin",
+        "Ca channels; rods, cones and atrial septum; ivabradine",
+        "Na channels; rods, cones and olfactory epithelium; ivabradine",
+        "K channels; rods, cones and olfactory epithelium; a beta-blocker"
+      ],
+      "ans": 2,
+      "exp": "The book lists Na channels, sites in rods/cones/olfactory epithelium, and blockade by ivabradine. HCN current is physiologically a mixed-cation current; “Na channels” is the source’s shorthand. (Book p388)"
+    },
+    {
+      "id": "MED-C3-14",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 388,
+      "fmt": "match",
+      "q": "Match each phase to the printed channel event — 1) Late pacemaker-potential sequence 2) Depolarisation 3) Repolarisation … A) L-type calcium channel activity B) L-type calcium closure plus delayed rectifier K opening C) T-type calcium channel opening",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "T-type calcium opening completes the pacemaker-potential list. Depolarisation uses L-type calcium; repolarisation closes L-type calcium and opens DRK, delayed rectifier K channels. (Book p388)"
+    },
+    {
+      "id": "MED-C3-15",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 388,
+      "fmt": "scenario",
+      "q": "On the pacemaker-potential graph, which reading correctly follows the labelled slope, upstroke and downstroke?",
+      "opts": [
+        "The pacemaker slope is flat; Na efflux drives the upstroke; K influx drives the downstroke",
+        "Membrane potential falls toward threshold; K influx drives the upstroke; Ca efflux drives the downstroke",
+        "Membrane potential rises toward threshold; Ca influx drives the upstroke; K efflux with reduced Ca permeability accompanies the downstroke",
+        "The slope starts only after the upstroke; Ca permeability falls on the upstroke and rises on the downstroke"
+      ],
+      "ans": 2,
+      "exp": "The axes are membrane potential (mV) against time (s). The labelled pacemaker slope approaches threshold; the upstroke is marked increased Ca permeability/influx, and repolarisation increased K with decreased Ca permeability and K efflux. (Book p388)"
+    },
+    {
+      "id": "MED-C3-16",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 388,
+      "fmt": "match",
+      "q": "Match the four numbered markers on the pacemaker-potential curve — 1) Marker 1 2) Marker 2 3) Marker 3 4) Marker 4 … A) Falling repolarisation limb B) Rapid rising limb C) Transition from slow slope to threshold/upstroke D) Near the most negative potential",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-D, 2-C, 3-A, 4-B",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-C, 2-D, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Markers 1–4 sit near the negative trough, the threshold transition, the rising limb and the falling limb respectively. They are diagram call-out numbers, not ventricular action-potential phase numbers. (Book p388)"
+    },
+    {
+      "id": "MED-C3-17",
+      "sec": "Automaticity & Pacemaker Potential",
+      "page": 388,
+      "fmt": "numeric",
+      "q": "Which pair reproduces the scale/time call-outs on the pacemaker-potential illustration?",
+      "opts": [
+        "Voltage scale −90 to +40 mV; time annotation 800 msec",
+        "Voltage scale −90 to +40 mV; time annotation 80 msec",
+        "Voltage scale −60 to +20 mV; time annotation 80 msec",
+        "Voltage scale −60 to +20 mV; time annotation 800 msec"
+      ],
+      "ans": 3,
+      "exp": "The figure’s membrane-potential scale runs from −60 to +20 mV and its time annotation reads 800 msec; these are figure labels, not universal cycle durations. (Book p388)"
+    },
+    {
+      "id": "MED-C3-18",
+      "sec": "Heart Blocks & Escape Pathways",
+      "page": 388,
+      "fmt": "fillup",
+      "q": "In the bradyarrhythmia impulse-pathway figure, the sequence after sinus node and atria is ____.",
+      "opts": [
+        "Bundle of His → AV node → bundle branches → ventricles",
+        "AV node → bundle of His → bundle branches → ventricles",
+        "AV node → bundle branches → bundle of His → ventricles",
+        "Bundle branches → bundle of His → AV node → ventricles"
+      ],
+      "ans": 1,
+      "exp": "The figure shows sinus node in the atria, then AV node, His bundle, bundle branches and ventricles. (Book p388)"
+    },
+    {
+      "id": "MED-C3-19",
+      "sec": "Heart Blocks & Escape Pathways",
+      "page": 388,
+      "fmt": "recall",
+      "q": "Which description correctly identifies the diagram’s bracket and separating tissue?",
+      "opts": [
+        "His and sinus node form the bracketed AV system; Purkinje fibres form the separating sheet",
+        "AV node, His and bundle branches form the bracketed AV system; dense fibrous tissue separates atria and ventricles",
+        "Only the ventricles form the bracketed AV system; atrial muscle is labelled dense fibrous tissue",
+        "Sinus node and atria form the bracketed AV system; ventricular muscle separates the chambers"
+      ],
+      "ans": 1,
+      "exp": "The bracket encloses AV node, bundle of His and bundle branches; dense fibrous tissue is labelled at the atrioventricular boundary. (Book p388)"
+    },
+    {
+      "id": "MED-C3-20",
+      "sec": "Heart Blocks & Escape Pathways",
+      "page": 388,
+      "fmt": "oddoneout",
+      "q": "Which is NOT one of the four level categories listed under heart blocks?",
+      "opts": [
+        "Fascicular block",
+        "SA-node dysfunction or sinoatrial block",
+        "Isolated ST-segment block",
+        "AV block of first, second or third degree"
+      ],
+      "ans": 2,
+      "exp": "The listed levels/categories are SA node, sinoatrial block, AV block (1°, 2°, 3°), and fascicular block. (Book p388)"
+    },
+    {
+      "id": "MED-C3-21",
+      "sec": "Heart Blocks & Escape Pathways",
+      "page": 388,
+      "fmt": "match",
+      "q": "Match each arm of the fascicular-block flowchart — 1) Unifascicular 2) Bifascicular 3) Trifascicular … A) LAFB, LPFB or RBBB alone B) Bifascicular block plus increased PR interval C) RBBB plus LAFB/LPFB, or LBBB",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "These are the three arms exactly as classified on this page. Prolonged PR alone does not establish the anatomical site of additional conduction delay. (Book p388)"
+    },
+    {
+      "id": "MED-C3-22",
+      "sec": "Heart Blocks & Escape Pathways",
+      "page": 388,
+      "fmt": "fillup",
+      "q": "The sinus-node-dysfunction strip A illustrates loss of ____ after the last displayed beat.",
+      "opts": [
+        "Only S waves with preserved sinus P waves",
+        "Sinus P waves",
+        "Only T waves with preserved sinus P waves",
+        "Only the PR segment with continuing normal beats"
+      ],
+      "ans": 1,
+      "exp": "The heading states absent P waves; strip A shows a preceding beat followed by a flat continuation, captioned sinus node dysfunction. (Book p388)"
+    },
+    {
+      "id": "MED-C3-23",
+      "sec": "Heart Blocks & Escape Pathways",
+      "page": 388,
+      "fmt": "scenario",
+      "q": "After sinus failure, a regular escape rhythm is 50 bpm with no P waves. Which comparison matches the compensation line?",
+      "opts": [
+        "Atrial escape has no P; junctional escape has abnormal P; both are 40–60 bpm",
+        "Junctional escape has no P; atrial escape has abnormal P; both are listed at 40–60 bpm",
+        "Both escape types require normal P waves and rates of 15–40 bpm",
+        "Junctional escape has normal P; atrial escape has absent P; both are 60–100 bpm"
+      ],
+      "ans": 1,
+      "exp": "The line gives junctional rhythm (no P wave) or atrial rhythm (abnormal P wave), 40–60 bpm; the illustrated strip is junctional escape rhythm. (Book p388)"
+    },
+    {
+      "id": "MED-C3-24",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "fillup",
+      "q": "The first extrinsic cause in the sinus-dysfunction flowchart is ____.",
+      "opts": [
+        "Hypocalcemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hypokalemia"
+      ],
+      "ans": 2,
+      "exp": "The causes branch into extrinsic and intrinsic; hyperkalemia heads the extrinsic list. (Book p389)"
+    },
+    {
+      "id": "MED-C3-25",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "oddoneout",
+      "q": "Which drug is NOT in this page’s three-item extrinsic drug list?",
+      "opts": [
+        "Ivabradine",
+        "Beta-blockers",
+        "Digoxin",
+        "Calcium channel blockers"
+      ],
+      "ans": 0,
+      "exp": "The printed drug list is digoxin, beta-blockers and calcium channel blockers. Ivabradine appears in the earlier HCN discussion, not this particular list; this is not a claim that it cannot cause bradycardia. (Book p389)"
+    },
+    {
+      "id": "MED-C3-26",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "fillup",
+      "q": "The increased-PaCO2 (hypercapnia) bullet names ____ as its associated syndrome.",
+      "opts": [
+        "Mitral stenosis",
+        "Obstructive sleep apnoea",
+        "Aortic stenosis",
+        "Central diabetes insipidus"
+      ],
+      "ans": 1,
+      "exp": "The extrinsic-cause list links increased PaCO2/hypercapnia to obstructive sleep apnoea syndrome. (Book p389)"
+    },
+    {
+      "id": "MED-C3-27",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "match",
+      "q": "Match the remaining extrinsic-cause lines — 1) Low body temperature 2) Myxedema coma 3) Increased intracranial tension … A) Bradycardia–hypertension reflex B) Hypothyroidism C) Hypothermia",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The remaining bullets are hypothermia, hypothyroidism (myxedema coma), and increased intracranial tension with the bradycardia–hypertension reflex. (Book p389)"
+    },
+    {
+      "id": "MED-C3-28",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "recall",
+      "q": "After the extrinsic list, which diagnosis occupies the intrinsic arm?",
+      "opts": [
+        "Myxedema coma",
+        "Sick sinus syndrome",
+        "Obstructive sleep apnoea syndrome",
+        "Raised intracranial tension"
+      ],
+      "ans": 1,
+      "exp": "The intrinsic arm contains sick sinus syndrome, in contrast to the preceding extrinsic metabolic, drug and systemic causes. (Book p389)"
+    },
+    {
+      "id": "MED-C3-29",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "scenario",
+      "q": "Which combination is explicitly marked on the upper-right SA-nodal-dysfunction tracing?",
+      "opts": [
+        "Hypothermia and first-degree AV block",
+        "Hypercalcemia and ventricular tachycardia",
+        "Hypokalemia and atrial flutter",
+        "Hyperkalemia and junctional rhythm"
+      ],
+      "ans": 3,
+      "exp": "The figure annotations identify hyperkalemia in the tall-wave area and junctional rhythm in the circled rhythm-strip complexes. (Book p389)"
+    },
+    {
+      "id": "MED-C3-30",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "scenario",
+      "q": "A regular 48-bpm tracing has normal P waves before its complexes. Which source-based interpretation and cause weighting fit?",
+      "opts": [
+        "Atrial escape; equal weighting of extrinsic and intrinsic causes",
+        "Sinus bradycardia; extrinsic causes far outweigh intrinsic causes",
+        "Junctional escape; intrinsic causes far outweigh extrinsic causes",
+        "Sinus bradycardia; intrinsic causes far outweigh extrinsic causes"
+      ],
+      "ans": 1,
+      "exp": "The sinus-bradycardia bullets specify regular rhythm, 40–60 bpm, normal P waves and extrinsic >> intrinsic causes; the adjacent strip illustrates this pattern. (Book p389)"
+    },
+    {
+      "id": "MED-C3-31",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "fillup",
+      "q": "In the two labelled pause diagrams, sinus pause/arrest has ____ and sinoatrial exit block has ____.",
+      "opts": [
+        "Distance A = B; distance A > B",
+        "Distance A < B; distance A = B",
+        "Distance A = B; distance A < B",
+        "Distance A > B; distance A = B"
+      ],
+      "ans": 3,
+      "exp": "The captions under the diagrams explicitly read distance A > B for sinus pause/arrest and distance A = B for sinoatrial exit block. These refer to the labelled diagram spans. (Book p389)"
+    },
+    {
+      "id": "MED-C3-32",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "recall",
+      "q": "The third manifestation’s strip alternates rapid activity with a slow phase. Which caption belongs to it?",
+      "opts": [
+        "Sinoatrial exit block alone",
+        "Tachy-brady syndrome",
+        "Persistent sinus bradycardia alone",
+        "Isolated idioventricular rhythm"
+      ],
+      "ans": 1,
+      "exp": "The third ECG manifestation is captioned tachy-brady syndrome. (Book p389)"
+    },
+    {
+      "id": "MED-C3-33",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "fillup",
+      "q": "The idioventricular-rhythm heading explicitly associates IVR with a ____ QRS complex.",
+      "opts": [
+        "Narrow with absent R waves",
+        "Narrow with shortened PR",
+        "Wide",
+        "Normal-width with mandatory bifid P"
+      ],
+      "ans": 2,
+      "exp": "IVR is followed by an arrow to wide QRS complex. (Book p389)"
+    },
+    {
+      "id": "MED-C3-34",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "numeric",
+      "q": "Which pair matches the first two printed ventricular-rate categories?",
+      "opts": [
+        "IVR up to 40 bpm; AIVR 40–100 bpm",
+        "IVR up to 60 bpm; AIVR 60–100 bpm",
+        "IVR 40–100 bpm; AIVR up to 40 bpm",
+        "IVR up to 40 bpm; AIVR >100 bpm"
+      ],
+      "ans": 0,
+      "exp": "The bullets give IVR up to 40 and accelerated IVR 40–100 bpm. Exactly 40 overlaps in the printed wording and is not a reliable discriminator here. (Book p389)"
+    },
+    {
+      "id": "MED-C3-35",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "scenario",
+      "q": "Following reperfusion, a wide-complex ventricular rhythm runs at 70 bpm. What does the AIVR sub-bullet suggest?",
+      "opts": [
+        "Ordinary IVR — a marker of failed reperfusion",
+        "Junctional escape — because all escape rhythms are 40–100 bpm",
+        "Ventricular tachycardia — because any rate above 40 is VT",
+        "Accelerated IVR — a marker of successful reperfusion"
+      ],
+      "ans": 3,
+      "exp": "The AIVR sub-bullet calls the rhythm a marker of successful reperfusion. (Book p389)"
+    },
+    {
+      "id": "MED-C3-36",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "numeric",
+      "q": "The final rate bullet labels a ventricular rhythm at 110 bpm ____.",
+      "opts": [
+        "Junctional escape rhythm",
+        "Accelerated idioventricular rhythm",
+        "Ordinary idioventricular rhythm",
+        "Ventricular tachycardia"
+      ],
+      "ans": 3,
+      "exp": "The book labels a ventricular rhythm with HR >100 bpm ventricular tachycardia. (Book p389)"
+    },
+    {
+      "id": "MED-C3-37",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "recall",
+      "q": "The adjacent wide-complex ECG with circled rhythm-strip complexes is captioned AIVR. Which expansion belongs to that caption?",
+      "opts": [
+        "Accelerated idioventricular rhythm",
+        "Atrioventricular independent rapid rhythm",
+        "Atrial impulse with ventricular response",
+        "Accelerated intraventricular repolarisation"
+      ],
+      "ans": 0,
+      "exp": "AIVR expands to accelerated idioventricular rhythm, the caption beneath the marked ECG. (Book p389)"
+    },
+    {
+      "id": "MED-C3-38",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "page": 389,
+      "fmt": "truefalse",
+      "q": "True or false: the bottom AV-block strip B contrasts with sinus dysfunction by showing absent QRS complexes while atrial P waves continue.",
+      "opts": [
+        "True — the AV-block bullet identifies absent QRS complexes",
+        "False — the missing components are only T waves",
+        "True — AV block is defined here by loss of all P waves as well",
+        "False — the AV-block caption refers to an isolated prolonged QT"
+      ],
+      "ans": 0,
+      "exp": "The AV-block heading says absent QRS complexes; its strip continues P waves without the corresponding ventricular complexes. (Book p389)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U3-1",
+      "ch": 3,
+      "n": 1,
+      "title": "Cardiac Terminology & Heart-Failure Tables",
+      "sec": "Cardiac Terminology & Heart-Failure Tables",
+      "guide": "Connect each cardiac term to its function and the regulator named in the table.\nRead the heart-failure cutoffs and older systolic/diastolic comparison as source-specific teaching, not a current treatment guideline.",
+      "qs": [
+        "MED-C3-01",
+        "MED-C3-02",
+        "MED-C3-03",
+        "MED-C3-04",
+        "MED-C3-05",
+        "MED-C3-06",
+        "MED-C3-07"
+      ]
+    },
+    {
+      "id": "MED-U3-2",
+      "ch": 3,
+      "n": 2,
+      "title": "Automaticity & Pacemaker Potential",
+      "sec": "Automaticity & Pacemaker Potential",
+      "guide": "Identify the tissues capable of automaticity and the SA node’s leading role.\nFollow the printed channel sequence across the page break, separating pacemaker slope, depolarisation and repolarisation.",
+      "qs": [
+        "MED-C3-08",
+        "MED-C3-09",
+        "MED-C3-10",
+        "MED-C3-11",
+        "MED-C3-12",
+        "MED-C3-13",
+        "MED-C3-14",
+        "MED-C3-15",
+        "MED-C3-16",
+        "MED-C3-17"
+      ]
+    },
+    {
+      "id": "MED-U3-3",
+      "ch": 3,
+      "n": 3,
+      "title": "Heart Blocks & Escape Pathways",
+      "sec": "Heart Blocks & Escape Pathways",
+      "guide": "Trace the AV conduction-system figure, including the insulating fibrous tissue.\nClassify each fascicular branch and distinguish absent sinus P waves from compensating atrial or junctional activity.",
+      "qs": [
+        "MED-C3-18",
+        "MED-C3-19",
+        "MED-C3-20",
+        "MED-C3-21",
+        "MED-C3-22",
+        "MED-C3-23"
+      ]
+    },
+    {
+      "id": "MED-U3-4",
+      "ch": 3,
+      "n": 4,
+      "title": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "sec": "Sinus Dysfunction: Causes & ECG Manifestations",
+      "guide": "Separate intrinsic sick sinus syndrome from the complete extrinsic-cause list.\nThen distinguish sinus bradycardia, pause/arrest, exit block and tachy-brady patterns.\nUse QRS width and rate to classify ventricular escape and recognise the AV-block contrast.",
+      "qs": [
+        "MED-C3-24",
+        "MED-C3-25",
+        "MED-C3-26",
+        "MED-C3-27",
+        "MED-C3-28",
+        "MED-C3-29",
+        "MED-C3-30",
+        "MED-C3-31",
+        "MED-C3-32",
+        "MED-C3-33",
+        "MED-C3-34",
+        "MED-C3-35",
+        "MED-C3-36",
+        "MED-C3-37",
+        "MED-C3-38"
+      ]
+    }
+  ]
+}

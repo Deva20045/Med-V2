@@ -1,126 +1,152 @@
-# PULSE Medicine Med-V2 — Progress Tracker
+# PULSE Medicine Vol 2 — Progress
 
-**Goal:** Duplicate MEDICINE template architecture for Volume 2 (Book p377-702) in https://github.com/Deva20045/Med-V2. Single offline HTML app, QUESTIONS/UNITS/CHAPTERS schema, unit/guide style, index.html redirect. List ALL 57 Vol-2 chapters from day one as "Soon" until live. PDFs are scans (no text layer) covering the volume.
+Updated 2026-09-22. Single offline HTML quiz for Medicine Vol 2, Book p377–702.
 
-**Live Link:** https://deva20045.github.io/Med-V2/
-**Repo:** https://github.com/Deva20045/Med-V2
-**Branch for session:** `arena/01a0c793-med-v2` → PR to `main` → merge to live via GitHub Pages.
+- Repository: `Deva20045/Med-V2`
+- Session branch: `arena/01a0c7dc-med-v2`
+- Published URL: https://deva20045.github.io/Med-V2/
+- Source of truth: `data/chNN.json`; generated deliverable: `pulse-medicine.html`; `index.html` redirects to it.
+- Build status: **4 live chapters / 57**, **159 questions / 20 units**. Chapters 5–57 remain `live:false`.
 
-## PDF → Book Page Map
+## This release
 
-Source PDFs moved to `uploads/` (total 334 PDF pages including front matter, 326 book pages 377-702):
+1. Restored the five absent Chapter 1 audit questions first (the local checkout had 44; commit `fb7a917` was absent). Chapter 1 now has 49, including MED-C1-02/03/20/32/43.
+2. Authored Ch2 p383–386 (37 questions / 5 units), Ch3 p387–389 (38 / 4), Ch4 p390–393 (35 / 4).
+3. Visual self-audit: **262 educational point-to-question mappings**, no unasked points found in the p383–393 inventory; fixes completed before build.
+4. Schema, actual app regex parsers, bijections, unit coverage and book-order validation pass. Build now fails before writing HTML if these regress.
+5. Embedded arrays and live flags verified; rebuild is byte-for-byte deterministic.
+6. Offline Chromium tests pass at 1280×900 and 390×844: all 159 questions and 20 units, match boards, blanks, correct and wrong answers, citations, unlock order and persisted completion after reload. No JavaScript page errors.
 
-| Upload | PDF Pages | Book Pages | K (Book = PDF + K) | Notes |
-|--------|-----------|------------|--------------------|-------|
-| 01.pdf | 103 (25M) | 377-467 (91p) + 12p front matter | K=364 for content (PDF13≈395, PDF14≈377, PDF19=383, PDF26=390, PDF31=405, PDF51=425, PDF61=435, PDF81=445, PDF71=455) | Shuffled scan order confirmed via visual render at 2x; cannot use monotonic K, must read printed page numbers from image. Content: ECG (377-440) + Rheum start (442-467) |
-| 02.pdf | 93 (25M) | 468-560 (93p) | K=467 sequential (PDF1=468 APLA/SLE, PDF2=469, PDF93=561 Praxicons) | Sequential; covers Antiphospholipid 466-470, SSc 470, Inflam Muscle 477, Sarcoid/MCTD 484, Vasculitis 491-514, Arthritis 519-554, Frontal 555, Praxicons 560 |
-| 03.pdf | 61 (25M) | 561-621 (61p) | K=560 sequential (PDF1≈562 Hemispatial neglect, PDF61=626? actually 03 ends ~622) | Sample: PDF1=562 Constructional apraxia/Angular gyrus, PDF last ~622-626. Covers Praxicons 560-562, Temporal/Occipital 563, Language 566, Memory 569, Dementia 572-577, Parkinson 583, Headache 593, Seizure 602, GTCS 608, CNS Infections 613, LMN Part1 618 |
-| 04.pdf | 76 (25M) | 622-697 (76p) | K=621 sequential (PDF1=625 LMN Part2 patterns, PDF76=562? reverse sample indicates scan reversed but we normalize to 622-697) | Covers LMN Part2 624-626, Inherited Neuropathies 627, GBS 632, LMN Part3 637, Muscular Dystrophies 642, MG 646, ALS 650, Spinal Anatomy 653, Spinal Diseases 660, MS 668, Vascular Anatomy 674, UMN 681, Stroke Approach 686, Brainstem Stroke 691, Mgmt Stroke start 700? Actually 700+ in 05 |
-| 05.pdf | 1 (340K) | 698-702 (5p content but 1 PDF page is sample, original had 1p 340K) | K≈697 (PDF1=701 MRI Protocol, 702 After 24h) | Management of Stroke 700-702; only 1 PDF page present in this split, remaining pages may be in 04.pdf tail |
+Full evidence: [self-audit and page-by-page ledger](audit/SELF_AUDIT.md), [pre-build validation output](audit/PREBUILD_VALIDATION.txt), [machine-readable inventory](audit/coverage.json).
 
-**Formula:** For sequential parts (02.pdf onward), `Book page = PDF page + K` where K = 467, 560, 621, 697 respectively. For 01.pdf, front matter 12p have no book number; content pages PDF13-103 map to 377-467 but order is shuffled, so visual page number (top-right/left corner printed) is ground truth. Total verification: 377-702 = 326 book pages, PDF total 103+93+61+76+1=334, 8p extra = front matter/duplicates.
+## Verified PDF → printed-page map
 
-**Extraction method:** `pymupdf` render at 2x matrix to `/tmp/map*.png`, read printed page number via vision. `get_text()` returns empty (scanned images). Do not rely on text extraction.
+**Printed page numbers are ground truth.** All 103 pages of this copy of `uploads/01.pdf` were rendered with PyMuPDF `Matrix(2,2)` and visually checked. Full explicit mapping and source hash: [PAGE_MAP.md](audit/PAGE_MAP.md), [page-map.json](audit/page-map.json).
 
-## Schema (same as MEDICINE template)
+- PDF1–12: unnumbered cover, author/title/instructions and Contents. Contents entry numbers are not page numbers of those sheets.
+- PDF13–18: 377–382 (Chapter 1 anchors reread).
+- PDF19–22: 383–386 (Chapter 2).
+- PDF23–25: 387–389 (Chapter 3).
+- PDF26–29: 390–393 (Chapter 4), including visual confirmation of 391–393.
+- PDF30–103: individually checked headers 394–467.
 
-- **pulse-medicine.html:** Single file app, offline. Embeds `const QUESTIONS = [...]`, `const UNITS = [...]`, `const CHAPTERS = [{n,t,p,live}]`.
-- **Question:** `id: MED-C<N>-<seq>`, `sec` (section title), `page` (book page), `fmt` in {recall, fillup, match, truefalse, scenario, oddoneout, numeric, management}, `q`, `opts[4]`, `ans` (0-3), `exp` ends with `(Book pX)`.
-- **Unit:** `id: MED-U<N>-<n>`, `ch`, `n`, `title`, `sec`, `guide` (2-4 lines), `qs` in strict book order.
-- **Build:** `data/chNN.json` → `build_content.py` validates `chapter==N`, `title`, `pageRange` start == CHAPTERS[N].p, then embeds compact JSON into HTML. Chapters without JSON remain `live:false` → "Soon" in UI.
-- **index.html:** Redirect to `pulse-medicine.html` via meta refresh + JS `location.replace`.
+**Correction:** the previous progress notes claimed shuffled mappings such as PDF31=405 and PDF51=425. Those were inaccurate for this exact upload: PDF31 prints 395 and PDF51 prints 415. Do not infer page identities from those old samples. The verified content run in this copy happens to be sequential.
 
-## Vol-2 Roadmap (57 chapters, Book p377-702)
+Uploads 02–05 were not mapped during this audit. Earlier approximate offsets and end-page assumptions for them are not verified evidence; render and read their printed numbers before building later chapters. Do not infer full-volume coverage merely from file counts.
 
-1 Introduction to ECG 377
-2 Approach to Hypertrophy and Blocks 383
-3 SA Nodal Dysfunction 387
-4 AV Blocks 390
-5 Tachyarrhythmias 394
-6 Atrial Fibrillation and Flutter 403
-7 Ventricular Arrhythmias 407
-8 WPW Syndrome 413
-9 Introduction to ACS 415
-10 ACS - Coronary Circulation 425
-11 ACS - Evaluation and Management 430
-12 Sjogren's Syndrome 442
-13 IgG4 Related Disease 449
-14 SLE - Basic Approach 452
-15 SLE - Diagnosis 455
-16 SLE - Clinical Profile and Management 458
-17 Antiphospholipid Syndrome 466
-18 Systemic Sclerosis 470
-19 Inflammatory Muscle Diseases 477
-20 Sarcoidosis and Mixed Connective Tissue Disease 484
-21 Classification of Vasculitis and Large Vessel Vasculitis 491
-22 Small Vessel Vasculitis 499
-23 Henoch-Schonlein Purpura V/S Cryoglobulinemia 509
-24 Variable Vessel Vasculitis 514
-25 Basic Approach to Arthritis 519
-26 Rheumatoid Arthritis 521
-27 Spondyloarthritis 532
-28 Crystal Arthropathies 543
-29 Adult-Onset Still's Disease and Septic Arthritis 552
-30 Frontal Lobe 555
-31 Praxicons 560
-32 Temporal and Occipital Lobe 563
-33 Language V/S Speech 566
-34 Memory 569
-35 Dementia : Part 1 572
-36 Dementia : Part 2 577
-37 Parkinson's Disease 583
-38 Headache 593
-39 Seizure Semiology 602
-40 Generalised Tonic-Clonic Seizure 608
-41 CNS Infections 613
-42 LMN Approach : Part 1 618
-43 LMN Approach : Part 2 624
-44 Inherited Neuropathies 627
-45 Guillain-Barre Syndrome 632
-46 LMN Approach : Part 3 637
-47 Muscular Dystrophies 642
-48 Myasthenia Gravis 646
-49 Amyotrophic Lateral Sclerosis 650
-50 Anatomy of Spinal Cord 653
-51 Diseases of Spinal Cord 660
-52 Multiple Sclerosis 668
-53 Vascular Anatomy of Brain 674
-54 Approach to UMN Lesion 681
-55 Approach to Stroke 686
-56 Brainstem Stroke 691
-57 Management of Stroke 700
+## Schema and order contract
 
-## Per-Chapter Pipeline (to be used when building content, not now)
+- Chapter: `chapter`, exact roadmap `title`, `pageRange` beginning at the roadmap start, nonempty `questions` and `units`.
+- Question: sequential `MED-C<N>-<seq>` IDs; `sec`, integer `page`, `fmt` in recall/fillup/match/truefalse/scenario/oddoneout/numeric/management; `q`; exactly four unique options; integer `ans` 0–3; `exp` ending exactly `(Book pX)` matching `page`.
+- Unit: `MED-U<N>-<n>`, `ch`, `n`, `title`, `sec`, a 2–4-line `guide`; `qs` rebuilt from that section in question-array order. Flattened units must exactly equal the full chapter question sequence.
+- Fill-up stems contain `____`. Match grammar: `<prompt> — 1) left 2) left … A) right B) right`. No nested reserved item-label tokens. Every option covers all left items; the correct mapping is a bijection.
+- True/false has exactly two True and two False options. Answer options shuffle in the app; questions do not.
+- Inventory order follows printed page/content blocks. Software checks the inventory’s sequence and references; visual review checks semantic coverage and within-page placement.
+- Source discrepancies are explicitly qualified in explanations. Questions are book-study material, not a substitute for current clinical guidelines.
 
-1. Render PDF pages for chapter range at 2x → `/tmp/chNN_pXXX.png`.
-2. Read line-by-line in exact book order, no compromise, maintaining visual order.
-3. Create `data/chNN.json` with pageRange, questions, units.
-4. Run `python build_content.py` → embeds into `pulse-medicine.html`.
-5. Verify in browser: chapter shows live, units unlock, questions display with Book pX citation.
-6. Commit, push, PR merge.
+## Build / audit / test workflow
 
-## Status
+```sh
+# Python 3 and Node required for the fail-closed build gate.
+python3 validate_content.py --ledger     # print every point before building
+python3 -m unittest discover -s tests -v
+python3 build_content.py
+python3 validate_content.py --embedded
 
-- DONE: PDFs moved to uploads/ (01.pdf 103p, 02.pdf 93p, 03.pdf 61p, 04.pdf 76p, 05.pdf 1p = 334p covering 377-702).
-- DONE: Scaffold duplicated from /tmp/MEDICINE template: pulse-medicine.html (now Vol-2 57-ch roadmap, all Soon, 0 questions), index.html redirect, build_content.py with 57-ch list, data/ dir, PROGRESS.md.
-- DONE: PDF→book mapping sampled via rendered PNGs (01 shuffled 377-467, 02 sequential 468-560, 03 561-621, 04 622-697, 05 698-702).
-- NEXT: Commit + push to arena/01a0c793-med-v2, open PR to main, merge to live at https://deva20045.github.io/Med-V2/ . Do NOT build Chapter 1 questions yet per user correction.
+# Optional scan reproduction (virtualenv + pymupdf):
+python3 tools/render_audit.py
+# Optional browser tests (virtualenv + playwright + installed Chromium):
+python3 tests/browser_smoke.py
+# Or set CHROMIUM_EXECUTABLE to an available Chromium binary.
+```
 
-## Live Link Setup
+`tools/render_audit.py` writes ignored `.audit-render/` PNGs; do not commit generated scans, browser binaries, environments or dependencies. Only the standalone HTML is required at runtime; browser tests run with network disabled.
 
-- GitHub Pages serves from `main` branch root. `index.html` redirects to `pulse-medicine.html`.
-- After merge, https://deva20045.github.io/Med-V2/ should show 57 chapters, all "Soon", hero says "0 of 57 chapters built".
-- Verification: open live link, check Chapters page lists 57 entries, footer says Vol 2 (p377-702).
+Release workflow: commit and push `arena/01a0c7dc-med-v2`, open a PR to `main`, then `gh pr merge --merge`. Never publish before the visual audit and validation gate are green.
 
-## Questions to Resolve
+## Per-chapter units
 
-- Confirm exact book end page 702 vs 700 for Management of Stroke (PDF shows 701-702). Roadmap uses 700 as start, consistent.
-- 05.pdf only 1 page present; may need to re-split original PDFs to ensure full 698-702 coverage. Currently covered by 04.pdf tail + 05.pdf.
+| Ch | Unit | Pages | Question range | Count |
+|---:|---|---|---|---:|
+| 1 | 1. ECG Interpretation & the QRS Complex | 377 | MED-C1-01–MED-C1-07 | 7 |
+| 1 | 2. Route of Depolarisation & Current Flow | 378 | MED-C1-08–MED-C1-13 | 6 |
+| 1 | 3. Ventricular Vectors & Chest Lead Positions | 379 | MED-C1-14–MED-C1-22 | 9 |
+| 1 | 4. Wide QRS Pathways, Rate & Regularity | 380 | MED-C1-23–MED-C1-26 | 4 |
+| 1 | 5. P Wave, PR Segment & PR Interval | 380 | MED-C1-27–MED-C1-36 | 10 |
+| 1 | 6. Approach to the QRS & the Limb Leads | 381 | MED-C1-37–MED-C1-41 | 5 |
+| 1 | 7. Axis Determination & the QT Interval | 382 | MED-C1-42–MED-C1-49 | 8 |
+| 2 | 1. Atrial Enlargement & Corrected QT | 383 | MED-C2-01–MED-C2-07 | 7 |
+| 2 | 2. LV Hypertrophy & Leftward Axis | 383–384 | MED-C2-08–MED-C2-15 | 8 |
+| 2 | 3. RV Hypertrophy, P-pulmonale & COPD | 384 | MED-C2-16–MED-C2-21 | 6 |
+| 2 | 4. Bundle Branch Blocks & Fascicular Patterns | 385 | MED-C2-22–MED-C2-29 | 8 |
+| 2 | 5. Sgarbossa Criteria & MI Panels | 385–386 | MED-C2-30–MED-C2-37 | 8 |
+| 3 | 1. Cardiac Terminology & Heart-Failure Tables | 387 | MED-C3-01–MED-C3-07 | 7 |
+| 3 | 2. Automaticity & Pacemaker Potential | 387–388 | MED-C3-08–MED-C3-17 | 10 |
+| 3 | 3. Heart Blocks & Escape Pathways | 388 | MED-C3-18–MED-C3-23 | 6 |
+| 3 | 4. Sinus Dysfunction: Causes & ECG Manifestations | 389 | MED-C3-24–MED-C3-38 | 15 |
+| 4 | 1. First-Degree AV Block | 390 | MED-C4-01–MED-C4-06 | 6 |
+| 4 | 2. Second-Degree Classification & Mobitz Comparison | 390–391 | MED-C4-07–MED-C4-20 | 14 |
+| 4 | 3. Infarct Examples & Third-Degree Block | 392 | MED-C4-21–MED-C4-26 | 6 |
+| 4 | 4. AV Dissociation Causes & Summary Strips | 393 | MED-C4-27–MED-C4-35 | 9 |
 
-## Chapter 1 — Introduction to ECG (Book p377-382) ✔ LIVE
+## Full roadmap
 
-- Built 2026-09-22 on `arena/01a0c7c2-med-v2`, merged to `main`.
-- Page map verified visually: PDF13=377 (title), PDF14=378, PDF15=379, PDF16=380, PDF17=381, PDF18=382; PDF19=383 starts Ch 2.
-- `data/ch01.json`: 44 questions (15 match, 6 fillup, 6 truefalse, 5 oddoneout, 4 numeric, 3 scenario, 5 recall), 7 units, strict line-by-line book order, every exp cites (Book pX).
-- Units: 1 ECG Interpretation & the QRS Complex (377) · 2 Route of Depolarisation & Current Flow (378) · 3 Ventricular Vectors & Chest Lead Positions (379) · 4 Wide QRS Pathways, Rate & Regularity (379-380) · 5 P Wave, PR Segment & PR Interval (380) · 6 Approach to the QRS & the Limb Leads (381) · 7 Axis Determination & the QT Interval (382).
-- Validator (mirrors app parseMatch/fillup/matchOpt renderers) passes; build_content.py embed OK; chapter shows live:true in app.
+| Ch | Title | Starts | State |
+|---:|---|---:|---|
+| 1 | Introduction to ECG | 377 | Live |
+| 2 | Approach to Hypertrophy and Blocks | 383 | Live |
+| 3 | SA Nodal Dysfunction | 387 | Live |
+| 4 | AV Blocks | 390 | Live |
+| 5 | Tachyarrhythmias | 394 | Soon |
+| 6 | Atrial Fibrillation and Flutter | 403 | Soon |
+| 7 | Ventricular Arrhythmias | 407 | Soon |
+| 8 | WPW Syndrome | 413 | Soon |
+| 9 | Introduction to ACS | 415 | Soon |
+| 10 | ACS - Coronary Circulation | 425 | Soon |
+| 11 | ACS - Evaluation and Management | 430 | Soon |
+| 12 | Sjogren's Syndrome | 442 | Soon |
+| 13 | IgG4 Related Disease | 449 | Soon |
+| 14 | SLE - Basic Approach | 452 | Soon |
+| 15 | SLE - Diagnosis | 455 | Soon |
+| 16 | SLE - Clinical Profile and Management | 458 | Soon |
+| 17 | Antiphospholipid Syndrome | 466 | Soon |
+| 18 | Systemic Sclerosis | 470 | Soon |
+| 19 | Inflammatory Muscle Diseases | 477 | Soon |
+| 20 | Sarcoidosis and Mixed Connective Tissue Disease | 484 | Soon |
+| 21 | Classification of Vasculitis and Large Vessel Vasculitis | 491 | Soon |
+| 22 | Small Vessel Vasculitis | 499 | Soon |
+| 23 | Henoch-Schonlein Purpura V/S Cryoglobulinemia | 509 | Soon |
+| 24 | Variable Vessel Vasculitis | 514 | Soon |
+| 25 | Basic Approach to Arthritis | 519 | Soon |
+| 26 | Rheumatoid Arthritis | 521 | Soon |
+| 27 | Spondyloarthritis | 532 | Soon |
+| 28 | Crystal Arthropathies | 543 | Soon |
+| 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | Soon |
+| 30 | Frontal Lobe | 555 | Soon |
+| 31 | Praxicons | 560 | Soon |
+| 32 | Temporal and Occipital Lobe | 563 | Soon |
+| 33 | Language V/S Speech | 566 | Soon |
+| 34 | Memory | 569 | Soon |
+| 35 | Dementia : Part 1 | 572 | Soon |
+| 36 | Dementia : Part 2 | 577 | Soon |
+| 37 | Parkinson's Disease | 583 | Soon |
+| 38 | Headache | 593 | Soon |
+| 39 | Seizure Semiology | 602 | Soon |
+| 40 | Generalised Tonic-Clonic Seizure | 608 | Soon |
+| 41 | CNS Infections | 613 | Soon |
+| 42 | LMN Approach : Part 1 | 618 | Soon |
+| 43 | LMN Approach : Part 2 | 624 | Soon |
+| 44 | Inherited Neuropathies | 627 | Soon |
+| 45 | Guillain-Barre Syndrome | 632 | Soon |
+| 46 | LMN Approach : Part 3 | 637 | Soon |
+| 47 | Muscular Dystrophies | 642 | Soon |
+| 48 | Myasthenia Gravis | 646 | Soon |
+| 49 | Amyotrophic Lateral Sclerosis | 650 | Soon |
+| 50 | Anatomy of Spinal Cord | 653 | Soon |
+| 51 | Diseases of Spinal Cord | 660 | Soon |
+| 52 | Multiple Sclerosis | 668 | Soon |
+| 53 | Vascular Anatomy of Brain | 674 | Soon |
+| 54 | Approach to UMN Lesion | 681 | Soon |
+| 55 | Approach to Stroke | 686 | Soon |
+| 56 | Brainstem Stroke | 691 | Soon |
+| 57 | Management of Stroke | 700 | Soon |
