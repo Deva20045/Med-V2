@@ -1,0 +1,891 @@
+{
+  "chapter": 5,
+  "title": "Tachyarrhythmias",
+  "pageRange": "394-402",
+  "questions": [
+    {
+      "id": "MED-C5-01",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "numeric",
+      "q": "By definition, tachyarrhythmias require a heart rate exceeding which threshold, and are morphologically classified into which two QRS complex durations?",
+      "opts": [
+        "> 100 bpm; Narrow and Wide",
+        "> 90 bpm; Regular and Irregular",
+        "> 120 bpm; Monomorphic and Polymorphic",
+        "> 100 bpm; Normal and Peaked"
+      ],
+      "ans": 0,
+      "exp": "Tachyarrhythmias are defined by HR > 100 bpm and are divided morphologically into narrow and wide QRS complexes. (Book p394)"
+    },
+    {
+      "id": "MED-C5-02",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "recall",
+      "q": "Which triad of fundamental electrophysiological mechanisms accounts for all tachyarrhythmias listed on this page?",
+      "opts": [
+        "Enhanced automaticity, triggered activity, and re-entry",
+        "Decreased threshold, delayed repolarisation, and conduction block",
+        "Early repolarisation, ion channel arrest, and sodium overload",
+        "Parasystole, accelerated conduction, and wandering pacemaker"
+      ],
+      "ans": 0,
+      "exp": "The three fundamental causes listed are enhanced automaticity, triggered activity, and re-entry. (Book p394)"
+    },
+    {
+      "id": "MED-C5-03",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "fillup",
+      "q": "Ventricular impulses originating above the bifurcation of the Bundle of His traverse Purkinje fibers to produce bilateral synchronous activation and a normal/narrow QRS complex lasting ____.",
+      "opts": [
+        "< 0.12 s",
+        "0.12 - 0.16 s",
+        "> 0.16 s",
+        "< 0.08 s"
+      ],
+      "ans": 0,
+      "exp": "Impulses originating above the His bifurcation conduct via Purkinje fibers yielding bilateral synchronous activation and a narrow QRS (< 0.12 s). (Book p394)"
+    },
+    {
+      "id": "MED-C5-04",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "recall",
+      "q": "When impulses arise below the bifurcation of the Bundle of His, how are the ventricles activated and what is the resulting QRS complex duration?",
+      "opts": [
+        "Ventricular myocardium activates ventricles; Wide QRS (≥ 0.16 s)",
+        "Purkinje fibers activate ventricles; Narrow QRS (< 0.12 s)",
+        "Accessory bypass tract conducts impulse; Intermediate QRS (0.10 - 0.12 s)",
+        "Bundle branches conduct synchronously; Slightly wide QRS (0.12 - 0.14 s)"
+      ],
+      "ans": 0,
+      "exp": "Below the His bifurcation, ventricular myocardium activates the ventricles directly, creating a wide QRS complex (≥ 0.16 s). (Book p394)"
+    },
+    {
+      "id": "MED-C5-05",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "scenario",
+      "q": "An ECG reveals an SVT conducted with an underlying bundle branch block. According to the origin-of-impulses section, what is the expected QRS complex duration?",
+      "opts": [
+        "0.12 – 0.16 s",
+        "< 0.12 s",
+        "≥ 0.20 s",
+        "< 0.08 s"
+      ],
+      "ans": 0,
+      "exp": "Supraventricular tachycardias associated with bundle branch block manifest with an intermediate QRS duration of 0.12 - 0.16 s. (Book p394)"
+    },
+    {
+      "id": "MED-C5-06",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "match",
+      "q": "Match each tachyarrhythmia category to its characteristic QRS complex morphology — 1) Supraventricular tachycardia (SVT) 2) SVT with conduction block (RBBB/LBBB) 3) Ventricular tachycardia (VT) … A) Narrow QRS complex B) Slightly wide QRS C) Wide QRS",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Under Classification: SVT yields narrow QRS; SVT with conduction block yields slightly wide QRS; VT yields wide QRS. (Book p394)"
+    },
+    {
+      "id": "MED-C5-07",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 394,
+      "fmt": "truefalse",
+      "q": "Which statement regarding normal enhanced automaticity is accurate according to the mechanism diagram?",
+      "opts": [
+        "True — Sinus tachycardia represents normal enhanced automaticity originating from normal sinus impulses at the SA node",
+        "True — Sinus tachycardia originates from ectopic atrial foci outside the SA node",
+        "False — Normal enhanced automaticity produces wide QRS complexes exceeding 0.16 s",
+        "False — Sinus tachycardia is driven exclusively by micro re-entry within the sinoatrial junction"
+      ],
+      "ans": 0,
+      "exp": "Normal enhanced automaticity corresponds to sinus tachycardia, where normal sinus impulses originate from the SA node. (Book p394)"
+    },
+    {
+      "id": "MED-C5-08",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "oddoneout",
+      "q": "Which finding is NOT correctly listed under abnormal enhanced automaticity on this page?",
+      "opts": [
+        "Atrial tachycardia is driven solely by enhanced automaticity and cannot exhibit re-entry",
+        "Atrial tachycardia can be focal or multifocal and has all 3 mechanisms of tachycardia",
+        "Junctional tachycardia is listed under abnormal enhanced automaticity",
+        "Ventricular tachycardia (specifically ischemic VT) is listed under abnormal enhanced automaticity"
+      ],
+      "ans": 0,
+      "exp": "The source specifically notes that atrial tachycardia (focal/multifocal) possesses all 3 mechanisms of tachycardia, not merely automaticity. (Book p395)"
+    },
+    {
+      "id": "MED-C5-09",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "scenario",
+      "q": "A heart failure patient receiving digoxin presents with paroxysmal atrial tachycardia with AV block. Which metabolic disturbance precipitates this condition and what is the underlying mechanism?",
+      "opts": [
+        "Hypokalemia; Tachycardia due to enhanced automaticity",
+        "Hyperkalemia; Tachycardia due to macro re-entry",
+        "Hypercalcemia; Tachycardia due to early afterdepolarisations",
+        "Hyponatremia; Tachycardia due to conduction block alone"
+      ],
+      "ans": 0,
+      "exp": "PAT with AV block is associated with digoxin toxicity, precipitated by hypokalemia, and occurs due to enhanced automaticity. (Book p395)"
+    },
+    {
+      "id": "MED-C5-10",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "recall",
+      "q": "Under triggered activity, early afterdepolarisation (EAD) is linked to which clinical entity?",
+      "opts": [
+        "Long QT syndrome leading to Torsades de pointes",
+        "Right ventricular outflow tract VT",
+        "Atrial flutter with 2:1 conduction",
+        "Brugada syndrome with pseudo-RBBB"
+      ],
+      "ans": 0,
+      "exp": "Early afterdepolarisation is specifically paired with Long QT Syndrome and Torsades de pointes. (Book p395)"
+    },
+    {
+      "id": "MED-C5-11",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "scenario",
+      "q": "A young athlete develops non-sustained VT during strenuous exertion. Electrophysiological testing demonstrates late afterdepolarisations driven by sympathetic tone and elevated intracellular calcium. Which rhythm fits this late afterdepolarisation category?",
+      "opts": [
+        "Right ventricular outflow tract VT (RVOT VT)",
+        "Torsades de pointes in Long QT type 1",
+        "Atrioventricular nodal re-entrant tachycardia (AVNRT)",
+        "Scar-related post-infarction VT"
+      ],
+      "ans": 0,
+      "exp": "Late afterdepolarisations cause catecholamine-sensitive arrhythmias (d/t sympathetic activity & elevated intracellular Ca2+), including RVOT VT, LVOT VT, and sympathetic VT. (Book p395)"
+    },
+    {
+      "id": "MED-C5-12",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "fillup",
+      "q": "Re-entry tachycardias are classically precipitated by premature complexes (PAC/PVC) and are characteristically highly responsive to ____.",
+      "opts": [
+        "DC cardioversion",
+        "Vagal maneuvers only",
+        "Intravenous magnesium sulfate",
+        "High-dose atropine infusion"
+      ],
+      "ans": 0,
+      "exp": "Re-entry is precipitated by premature complexes (PAC/PVC) and is highly responsive to DC cardioversion. (Book p395)"
+    },
+    {
+      "id": "MED-C5-13",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "match",
+      "q": "Match each arrhythmia to its re-entry circuit classification — 1) AVNRT 2) AVRT 3) Atrial fibrillation … A) Micro re-entry circuit in the AV node B) Macro re-entry circuit involving bypass tract C) Micro re-entry circuits in atrial tissue",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Micro re-entry: AVNRT, Brugada syndrome, Atrial Fibrillation. Macro re-entry: AVRT, Atrial Flutter, Scar VT. (Book p395)"
+    },
+    {
+      "id": "MED-C5-14",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "page": 395,
+      "fmt": "truefalse",
+      "q": "Which statement accurately reflects the structural heart requirements for wide QRS ventricular tachycardia on this page?",
+      "opts": [
+        "True — VT occurs only in a structurally abnormal heart (due to previous infarction or scar)",
+        "True — VT occurs primarily in completely normal hearts without pre-existing structural disease",
+        "False — Wide QRS tachycardias never arise from previous myocardial scars",
+        "False — Re-entrant narrow QRS tachycardias require prior extensive myocardial infarction"
+      ],
+      "ans": 0,
+      "exp": "Under causes based on QRS, wide QRS VT (Scar VT/Long QT) is annotated: 'VT: Occurs only in a structurally abnormal heart (D/t previous infarction)'. (Book p395)"
+    },
+    {
+      "id": "MED-C5-15",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 396,
+      "fmt": "numeric",
+      "q": "When interpreting a narrow QRS tachycardia with 10 small boxes between consecutive R waves, what heart rate is calculated using the 1500 small-box rule?",
+      "opts": [
+        "150 bpm",
+        "120 bpm",
+        "180 bpm",
+        "200 bpm"
+      ],
+      "ans": 0,
+      "exp": "HR calculation shown: HR = 1500 / 10 = 150 bpm, confirming tachycardia. (Book p396)"
+    },
+    {
+      "id": "MED-C5-16",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 396,
+      "fmt": "recall",
+      "q": "Which sequence correctly reflects the frequency hierarchy of supraventricular tachycardias (m/c SVT) stated on this page?",
+      "opts": [
+        "Sinus tachycardia > AF > AVNRT > AVRT > SART",
+        "AF > Sinus tachycardia > AVRT > AVNRT > SART",
+        "AVNRT > AVRT > AF > Sinus tachycardia > SART",
+        "Sinus tachycardia > AVNRT > AF > SART > AVRT"
+      ],
+      "ans": 0,
+      "exp": "The printed hierarchy is: m/c SVT: Sinus tachycardia > AF > AVNRT > AVRT > SART. (Book p396)"
+    },
+    {
+      "id": "MED-C5-17",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 396,
+      "fmt": "recall",
+      "q": "What are the baseline clinical features of AVNRT regarding cardiac structure, sex predilection, and clinical prognosis?",
+      "opts": [
+        "Can occur in structurally normal heart; F > M; Good prognosis",
+        "Requires severe structural heart disease; M > F; Guarded prognosis",
+        "Occurs only after extensive MI; Equal sex ratio; Poor prognosis",
+        "Always associated with congenital ASD; F > M; High mortality"
+      ],
+      "ans": 0,
+      "exp": "Features listed: Can occur in structurally normal heart; F > M; Good prognosis. (Book p396)"
+    },
+    {
+      "id": "MED-C5-18",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 396,
+      "fmt": "fillup",
+      "q": "In the dual AV nodal pathway model, the slow pathway conducts slowly and has a ____ refractory period, whereas the fast pathway conducts rapidly and has a longer refractory period.",
+      "opts": [
+        "shorter",
+        "longer",
+        "variable",
+        "permanent"
+      ],
+      "ans": 0,
+      "exp": "Slow pathway: conducts slowly, shorter refractory period. Fast pathway: conducts rapidly, longer refractory period. (Book p396)"
+    },
+    {
+      "id": "MED-C5-19",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 396,
+      "fmt": "scenario",
+      "q": "A premature supraventricular beat arrives when the fast AV nodal pathway is refractory but the slow pathway has recovered. How does the impulse circulate to sustain AVNRT?",
+      "opts": [
+        "Impulse enters slow pathway, activates ventricles, and joins fast pathway retrogradely to activate atria",
+        "Impulse enters fast pathway, activates atria antegradely, and exits via the accessory bypass tract",
+        "Impulse blocks antegradely in both pathways and travels down the His bundle via ventricular myocardium",
+        "Impulse circulates entirely within the left atrium without engaging the AV junction"
+      ],
+      "ans": 0,
+      "exp": "The premature impulse enters the recovered slow pathway, splits to reach ventricles (narrow QRS), and joins the fast pathway retrogradely to activate atria. (Book p396)"
+    },
+    {
+      "id": "MED-C5-20",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 396,
+      "fmt": "recall",
+      "q": "Due to retrograde activation of the atria via the fast pathway during AVNRT, what P-wave morphology is characteristically seen in the inferior leads (II, III, and aVF)?",
+      "opts": [
+        "P waves are inverted in leads II, III and aVF",
+        "P waves are peaked and upright > 2.5 mm in II, III and aVF",
+        "P waves are bifid with a terminal negative deflection in lead II",
+        "P waves are completely flat and isoelectric across all leads"
+      ],
+      "ans": 0,
+      "exp": "Retrograde activation of atria results in P waves that are inverted in leads II, III and aVF. (Book p396)"
+    },
+    {
+      "id": "MED-C5-21",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 397,
+      "fmt": "numeric",
+      "q": "In what proportion of AVNRT patients are the P and QRS complexes formed simultaneously, causing the P wave to be completely buried within the QRS complex?",
+      "opts": [
+        "2/3rd of patients",
+        "1/3rd of patients",
+        "1/10th of patients",
+        "95% of patients"
+      ],
+      "ans": 0,
+      "exp": "The text states: '2/3rd patients: P & QRS formed simultaneously -> P wave buried in QRS complex.' (Book p397)"
+    },
+    {
+      "id": "MED-C5-22",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 397,
+      "fmt": "numeric",
+      "q": "A regular narrow-complex tachycardia runs at a rate of 210 bpm. What physiological boundary excludes sinus tachycardia and which diagnosis is strongly favored?",
+      "opts": [
+        "Sinus cannot maintain rate > 180 bpm; Rate 200–250 bpm favors AVNRT >> AVRT",
+        "Sinus cannot maintain rate > 150 bpm; Rate > 200 bpm favors atrial flutter exclusively",
+        "Sinus cannot maintain rate > 220 bpm; Rate 200–250 bpm favors ventricular tachycardia",
+        "Sinus cannot maintain rate > 100 bpm; Rate > 200 bpm favors junctional tachycardia"
+      ],
+      "ans": 0,
+      "exp": "Sinus cannot maintain rate > 180 bpm; at a rate of 200 - 250 bpm, AVNRT >> AVRT. (Book p397)"
+    },
+    {
+      "id": "MED-C5-23",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 397,
+      "fmt": "match",
+      "q": "Match each feature of atypical AVNRT to its clinical detail — 1) Incidence of atypical AVNRT 2) Triggering premature beat 3) Differential diagnosis on ECG … A) 5% of cases B) Premature ventricular complex (PVC) C) Atrial tachycardia",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Table shows: Typical (95%, PAC, Slow-Fast) vs Atypical (5%, PVC trigger, Fast-Slow pathway, D/d Atrial tachycardia). (Book p397)"
+    },
+    {
+      "id": "MED-C5-24",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 397,
+      "fmt": "fillup",
+      "q": "While typical AVNRT enters via the slow pathway and exits via the fast pathway, atypical AVNRT conducts antegradely by entering the ____ pathway and exiting via the slow pathway.",
+      "opts": [
+        "Fast",
+        "Accessory",
+        "Mahaim",
+        "Kent"
+      ],
+      "ans": 0,
+      "exp": "Under Pathway in the table: Typical enters Slow; exit Fast. Atypical enters Fast; exit Slow. (Book p397)"
+    },
+    {
+      "id": "MED-C5-25",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 398,
+      "fmt": "oddoneout",
+      "q": "In the 1/3rd of typical AVNRT patients where P waves fall outside the QRS complex, which pseudo-wave description is NOT listed?",
+      "opts": [
+        "Pseudo delta wave: P wave distorting the initial PR segment",
+        "Pseudo S wave: P wave just outside QRS",
+        "Pseudo r' wave: P wave on r wave",
+        "Pseudo Q wave: P wave just before Q wave"
+      ],
+      "ans": 0,
+      "exp": "The three listed pseudo waves on p398 are Pseudo S wave, Pseudo r' wave, and Pseudo Q wave. Pseudo delta wave is not part of this list. (Book p398)"
+    },
+    {
+      "id": "MED-C5-26",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 398,
+      "fmt": "scenario",
+      "q": "A 28-year-old woman in regular narrow-complex tachycardia at 205 bpm receives a rapid IV push of adenosine. Which electrocardiographic response is demonstrated on the rhythm strip?",
+      "opts": [
+        "Conversion of AVNRT back to normal sinus rhythm",
+        "Immediate acceleration into ventricular fibrillation",
+        "Persistent tachycardia with progressive PR prolongation",
+        "Development of complete third-degree heart block requiring pacing"
+      ],
+      "ans": 0,
+      "exp": "The strip caption states: 'Can be converted to normal rhythm by adenosine', showing abrupt termination into normal sinus rhythm. (Book p398)"
+    },
+    {
+      "id": "MED-C5-27",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 398,
+      "fmt": "truefalse",
+      "q": "Which statement correctly describes the clinical associations and relative frequency of AVRT compared to AVNRT?",
+      "opts": [
+        "True — AVRT is rarer than AVNRT and is fundamentally associated with WPW syndrome",
+        "True — AVRT is far more common than AVNRT and occurs exclusively in elderly patients",
+        "False — AVRT has no association with Wolff-Parkinson-White syndrome or bypass tracts",
+        "False — AVNRT is an extranodal macro re-entry tachycardia whereas AVRT is strictly intranodal"
+      ],
+      "ans": 0,
+      "exp": "Under AVRT: Features: Rarer than AVNRT; Associated with WPW syndrome. (Book p398)"
+    },
+    {
+      "id": "MED-C5-28",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "page": 398,
+      "fmt": "match",
+      "q": "Match each AVRT subtype to its impulse entry limb and resulting QRS complex width — 1) Orthodromic AVRT entry 2) Orthodromic AVRT QRS 3) Antidromic AVRT entry 4) Antidromic AVRT QRS … A) AV node B) Narrow QRS C) Bundle of Kent D) Wide QRS",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-D, 3-C, 4-B"
+      ],
+      "ans": 0,
+      "exp": "Orthodromic AVRT: Entry AV node, Exit Bundle of Kent, Narrow QRS. Antidromic AVRT: Entry Bundle of Kent, Exit AV node, Wide QRS. (Book p398)"
+    },
+    {
+      "id": "MED-C5-29",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "page": 399,
+      "fmt": "scenario",
+      "q": "In orthodromic AVRT initiated by a well-timed PAC, which anatomical sequence describes the path of impulse propagation?",
+      "opts": [
+        "Enters AV node slowly, activates ventricles synchronously, conducts retrogradely via bypass tract, and re-enters AV node",
+        "Enters bypass tract rapidly, activates ventricles eccentrically, conducts retrogradely via AV node, and re-enters bypass tract",
+        "Blocks in AV node, travels down His bundle via slow pathway, and exits through ventricular myocardium",
+        "Enters pulmonary veins, activates left atrium, conducts retrogradely via sinus venosus, and terminates"
+      ],
+      "ans": 0,
+      "exp": "Orthodromic AVRT: PAC enters AV node (conducted slowly), both ventricles activated synchronously, impulse enters bypass tract from ventricles to atrium retrogradely, and re-enters AV node. (Book p399)"
+    },
+    {
+      "id": "MED-C5-30",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "page": 399,
+      "fmt": "numeric",
+      "q": "On the ECG of orthodromic AVRT, the retrograde P wave falls just outside the QRS complex with an RP interval measured as:",
+      "opts": [
+        "2 small boxes (~ 80 – 100 ms)",
+        "0.5 small box (~ 20 ms)",
+        "5 small boxes (~ 200 ms)",
+        "8 small boxes (~ 320 ms)"
+      ],
+      "ans": 0,
+      "exp": "ECG findings for orthodromic AVRT state: RP interval: 2 boxes ~ 80 - 100 ms, where P falls just outside QRS. (Book p399)"
+    },
+    {
+      "id": "MED-C5-31",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "page": 399,
+      "fmt": "oddoneout",
+      "q": "Comparing AVNRT versus AVRT in the summary table, which parameter is NOT correctly paired?",
+      "opts": [
+        "Underlying structural disease: AVNRT is linked to WPW syndrome, whereas AVRT has no structural link",
+        "Synchronous A-V activation: Present (+) in AVNRT, absent (-) in AVRT",
+        "RP interval: < 80 ms in AVNRT, 80 – 100 ms in AVRT",
+        "Re-entry circuit: Micro re-entry in AVNRT, macro re-entry in AVRT"
+      ],
+      "ans": 0,
+      "exp": "Structural heart disease is absent (-) in AVNRT and associated with WPW syndrome in AVRT. The option reverses this association. (Book p399)"
+    },
+    {
+      "id": "MED-C5-32",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "page": 399,
+      "fmt": "fillup",
+      "q": "Both AVNRT and AVRT are categorized overall as short RP, long PR tachycardias; however, AVNRT displays an ultra-short RP interval of ____, while AVRT exhibits an RP interval of 80–100 ms.",
+      "opts": [
+        "< 80 ms",
+        "> 120 ms",
+        "150 - 200 ms",
+        "< 20 ms"
+      ],
+      "ans": 0,
+      "exp": "In the comparison table, the RP interval is < 80 ms in AVNRT and 80 - 100 ms in AVRT. (Book p399)"
+    },
+    {
+      "id": "MED-C5-33",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "page": 399,
+      "fmt": "truefalse",
+      "q": "Which statement regarding the hemodynamic status of patients with AVNRT compared to AVRT is stated in the comparison table?",
+      "opts": [
+        "True — AVNRT patients are characteristically stable, whereas AVRT patients may be stable or unstable",
+        "True — AVNRT patients are uniformly hemodynamically unstable requiring immediate DC shocks",
+        "False — AVRT patients are never hemodynamically unstable regardless of heart rate",
+        "False — Both AVNRT and AVRT uniformly cause immediate cardiogenic shock"
+      ],
+      "ans": 0,
+      "exp": "In the table under Hemodynamic status: AVNRT is 'Stable', whereas AVRT is 'Stable/unstable'. (Book p399)"
+    },
+    {
+      "id": "MED-C5-34",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "page": 399,
+      "fmt": "recall",
+      "q": "According to the concluding note on page 399, what distinct interval pattern differentiates atrial tachycardia from AVNRT and AVRT?",
+      "opts": [
+        "Long RP, short PR",
+        "Short RP, long PR",
+        "Short RP, short PR",
+        "Long RP, long PR"
+      ],
+      "ans": 0,
+      "exp": "The note explicitly highlights: 'Atrial tachycardia: Long RP, short PR.' (Book p399)"
+    },
+    {
+      "id": "MED-C5-35",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "recall",
+      "q": "Why is producing an AV nodal block the shared primary therapeutic goal in AVNRT, AVRT, and atrial tachycardia?",
+      "opts": [
+        "Because all three tachyarrhythmias operate through the AV node",
+        "Because the AV node is the primary source of ectopic ventricular automaticity",
+        "Because AV nodal blockade eliminates sympathetic outflow to peripheral vessels",
+        "Because the AV node directly dissolves micro re-entry within the coronary sinus"
+      ],
+      "ans": 0,
+      "exp": "Under Goal: AVNRT, AVRT, Atrial tachycardia operate through AV Node -> mx: AV nodal block. (Book p400)"
+    },
+    {
+      "id": "MED-C5-36",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "management",
+      "q": "A patient in rapid narrow-complex tachycardia presents with severe hypotension (BP 70/40 mmHg) and acute pulmonary edema. What is the immediate treatment of choice?",
+      "opts": [
+        "Synchronised DC cardioversion",
+        "Intravenous adenosine 6 mg rapid push",
+        "Intravenous verapamil 5 mg infusion over 2 minutes",
+        "Oral metoprolol 50 mg loading dose"
+      ],
+      "ans": 0,
+      "exp": "For hemodynamically unstable patients, the indicated management is immediate synchronised DC cardioversion. (Book p400)"
+    },
+    {
+      "id": "MED-C5-37",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "management",
+      "q": "In a hemodynamically stable patient with SVT, which agent is the drug of choice (DOC) for AV nodal block, and what is its dual mechanism of action?",
+      "opts": [
+        "Adenosine; Blocks PAC in AVNRT/AVRT and decreases HR in atrial tachycardia",
+        "Verapamil; Prolongs ventricular refractoriness and terminates sinus node firing",
+        "Digoxin; Directly cardioverts macro re-entry and stimulates vagal tone",
+        "Amiodarone; Blocks fast sodium channels and inhibits thyroid release"
+      ],
+      "ans": 0,
+      "exp": "DOC for AV nodal block in stable patients is Adenosine. MOA: AVNRT/AVRT: Blocks PAC; Atrial tachycardia: decreases HR. (Book p400)"
+    },
+    {
+      "id": "MED-C5-38",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "numeric",
+      "q": "What are the elimination half-life, arm-to-arm transit time, and arm-to-heart circulation time of intravenous adenosine?",
+      "opts": [
+        "T1/2: 6 s; Arm to arm: 15 s; Arm to heart: 7.5 s",
+        "T1/2: 30 s; Arm to arm: 60 s; Arm to heart: 20 s",
+        "T1/2: 2 min; Arm to arm: 10 s; Arm to heart: 5 s",
+        "T1/2: 6 s; Arm to arm: 30 s; Arm to heart: 15 s"
+      ],
+      "ans": 0,
+      "exp": "Pharmacokinetics of adenosine: T1/2: 6 s; Arm to arm circulation: 15 s; Arm to heart circulation: 7.5 s. (Book p400)"
+    },
+    {
+      "id": "MED-C5-39",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "numeric",
+      "q": "What is the initial recommended bolus dose of adenosine via the brachial vein, and what is the cumulative maximum dose when repeated?",
+      "opts": [
+        "6 mg initial bolus; repeat 12 mg + 12 mg up to max 30 mg",
+        "3 mg initial bolus; repeat 6 mg + 6 mg up to max 15 mg",
+        "12 mg initial bolus; repeat 12 mg up to max 24 mg",
+        "6 mg initial bolus; repeat 6 mg up to max 18 mg"
+      ],
+      "ans": 0,
+      "exp": "Administration: 6 mg through brachial vein (Repeat: 12 mg + 12 mg, max: 30 mg), followed by immediate saline flush/push/chase. (Book p400)"
+    },
+    {
+      "id": "MED-C5-40",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "scenario",
+      "q": "During the administration of adenosine via a peripheral line, what procedural posture and arm position are instructed on page 400 to optimize drug delivery?",
+      "opts": [
+        "Put patient in 45° supine position, administer adenosine, then shift patient to prone position and raise arm overhead",
+        "Keep patient strictly upright at 90°, administer adenosine, and lower both arms below heart level",
+        "Position patient in steep Trendelenburg at -30° throughout administration with bilateral leg elevation",
+        "Place patient in left lateral decubitus with arm held flush against the chest wall"
+      ],
+      "ans": 0,
+      "exp": "Procedure: Put patient in 45° supine position -> Administer adenosine -> Shift patient to prone position + Raise arm overhead. (Book p400)"
+    },
+    {
+      "id": "MED-C5-41",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "scenario",
+      "q": "Why is it mandatory to have a defibrillator immediately ready when administering adenosine to a patient with suspected AVRT?",
+      "opts": [
+        "Adenosine can trigger atrial fibrillation which degenerates via the bypass tract: AF -> VT -> VF -> Death",
+        "Adenosine routinely precipitates rupture of the interventricular septum during SVT",
+        "Adenosine induces prolonged electrical systole and permanent electromechanical dissociation",
+        "Adenosine causes severe hypocalcemia triggering immediate asystole"
+      ],
+      "ans": 0,
+      "exp": "Safety protocol: Have defibrillator ready: If AVRT treated with adenosine -> AF -> VT -> VF -> Death. (Book p400)"
+    },
+    {
+      "id": "MED-C5-42",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "management",
+      "q": "A known patient with COPD and bronchial asthma develops stable AVNRT. Why is adenosine contraindicated, and which alternative drug dosages are listed?",
+      "opts": [
+        "Causes bronchospasm; alternatives are verapamil 2.5–5 mg IV (max 15 mg), metoprolol 5 mg IV (max 15 mg), or esmolol",
+        "Causes laryngospasm; alternatives are amiodarone 300 mg bolus or flecainide 100 mg orally",
+        "Causes metabolic acidosis; alternatives are atropine 1 mg IV or dopamine infusion",
+        "Causes coronary vasodilation; alternatives are digoxin 0.5 mg IV or sotalol 80 mg IV"
+      ],
+      "ans": 0,
+      "exp": "Adenosine is contraindicated in COPD/BA as it can cause bronchospasm. Alternatives: verapamil 2.5-5 mg IV (max 15 mg), metoprolol 5 mg IV (max 15 mg), or esmolol. (Book p400)"
+    },
+    {
+      "id": "MED-C5-43",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "page": 400,
+      "fmt": "management",
+      "q": "Which pharmacological agent is specifically indicated for managing AVNRT occurring in a patient with concurrent congestive heart failure?",
+      "opts": [
+        "Digoxin",
+        "Verapamil",
+        "Metoprolol",
+        "Esmolol"
+      ],
+      "ans": 0,
+      "exp": "Under alternatives/protocols on p400: 'Heart failure with AVNRT: Digoxin.' (Book p400)"
+    },
+    {
+      "id": "MED-C5-44",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 401,
+      "fmt": "recall",
+      "q": "What are the clinical features and underlying heart status in atrial tachycardia?",
+      "opts": [
+        "Structurally abnormal heart; chronic runs cause tachyarrhythmia-related cardiomyopathy; follows all 3 mechanisms (m/c enhanced automaticity)",
+        "Structurally normal heart; never causes cardiomyopathy; follows re-entry exclusively",
+        "Congenital accessory pathway; young athletic males; triggered early afterdepolarisations",
+        "Severe coronary calcification; elderly smokers; isolated macro re-entry circuits"
+      ],
+      "ans": 0,
+      "exp": "Features: Structurally abnormal heart; Chronic: Tachyarrhythmia related cardiomyopathy; Follows all 3 mechanisms of tachycardia (m/c: enhanced automaticity). (Book p401)"
+    },
+    {
+      "id": "MED-C5-45",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 401,
+      "fmt": "management",
+      "q": "What is the primary management strategy for atrial tachycardia to restore sinus rhythm, and what is reserved for rare failures?",
+      "opts": [
+        "Rate reduction using beta-blockers (metoprolol) or CCBs (verapamil); antiarrhythmics on failure",
+        "Immediate high-energy unsynchronized defibrillation followed by magnesium",
+        "Primary catheter ablation within 2 hours of symptom onset",
+        "Observation alone without pharmacological rate slowing"
+      ],
+      "ans": 0,
+      "exp": "Management: decrease Rate -> Sinus rhythm with beta-blockers (metoprolol) or CCB (verapamil); failure (rare) -> Antiarrhythmics. (Book p401)"
+    },
+    {
+      "id": "MED-C5-46",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 401,
+      "fmt": "scenario",
+      "q": "An ECG demonstrates a regular narrow-complex tachycardia at 150 bpm with uniform abnormal P waves, long RP, and short PR intervals. Over several minutes, the rate slowly accelerates before gradually slowing down. What rhythm and phenomenon does this represent?",
+      "opts": [
+        "Unifocal atrial tachycardia exhibiting warm-up and cool-down phenomenon",
+        "Typical AVNRT with sudden paroxysmal onset and termination",
+        "Orthodromic AVRT with variable accessory pathway conduction",
+        "Atrial flutter with fluctuating 3:1 and 4:1 AV block"
+      ],
+      "ans": 0,
+      "exp": "Unifocal AT: Narrow QRS, Rate ~150 bpm, regular rhythm, uniform abnormal P waves, RP Long, PR Short. Note: Warm up & cool down phenomenon (slow increase & decrease of rate). (Book p401)"
+    },
+    {
+      "id": "MED-C5-47",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 401,
+      "fmt": "scenario",
+      "q": "A COPD patient receiving theophylline develops an irregular rhythm. ECG shows irregular RR intervals with 3 distinct P-wave morphologies. What is the most common cause and the first step in management?",
+      "opts": [
+        "COPD / theophylline toxicity; Stop theophylline, then give beta-blocker/CCB to decrease heart rate",
+        "Digoxin toxicity; Administer digoxin-specific Fab fragments immediately",
+        "Severe hyperkalemia; Administer calcium gluconate followed by insulin-dextrose",
+        "Acute pulmonary embolism; Initiate systemic thrombolysis with alteplase"
+      ],
+      "ans": 0,
+      "exp": "Multifocal AT: RR interval irregular + ≥ 3 P wave morphologies. m/c cause: COPD/theophylline. mx: Stop theophylline -> Beta-blocker/CCB: decrease HR. (Book p401)"
+    },
+    {
+      "id": "MED-C5-48",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 401,
+      "fmt": "fillup",
+      "q": "Under the types of atrial tachycardia listed on page 401, atrial tachycardia with AV block is classically associated with ____.",
+      "opts": [
+        "digoxin",
+        "amiodarone",
+        "theophylline",
+        "verapamil"
+      ],
+      "ans": 0,
+      "exp": "Under Types: Unifocal AT, Multifocal AT, and AT with AV block: A/w digoxin. (Book p401)"
+    },
+    {
+      "id": "MED-C5-49",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 402,
+      "fmt": "scenario",
+      "q": "An ECG rhythm strip shows atrial tachycardia with 2:1 AV block. How do the P waves and RR intervals appear on this tracing?",
+      "opts": [
+        "Normal conducted P waves alternating with buried/missed P waves, producing an irregular RR interval",
+        "Uniformly absent P waves with a strictly regular ventricular rate > 200 bpm",
+        "Chaotic fibrillatory waves with no discernible discrete atrial deflections",
+        "Biphasic flutter waves at 300 bpm conducted in a constant 1:1 ratio"
+      ],
+      "ans": 0,
+      "exp": "AT with AV block: Normal P wave + Buried P wave; Irregular RR. Tracing annotates conducted P (circles) and missed P (squares) in 2:1 AV block. (Book p402)"
+    },
+    {
+      "id": "MED-C5-50",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 402,
+      "fmt": "numeric",
+      "q": "In a narrow-complex tachycardia without visible P waves, what ventricular heart rate favors junctional tachycardia over AVNRT or AVRT?",
+      "opts": [
+        "~ 100 – 110 bpm",
+        "~ 150 – 180 bpm",
+        "~ 200 – 250 bpm",
+        "> 300 bpm"
+      ],
+      "ans": 0,
+      "exp": "Junctional tachyarrhythmia: No P wave (seen in AVNRT, AVRT, Junctional tachycardia); HR ~ 100 - 110 bpm favors Junctional >> AVNRT/AVRT. (Book p402)"
+    },
+    {
+      "id": "MED-C5-51",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 402,
+      "fmt": "oddoneout",
+      "q": "According to the summary flowchart for narrow-complex tachycardia, which rhythm is classified under REGULAR R-R intervals rather than irregular R-R intervals?",
+      "opts": [
+        "Sinus tachycardia",
+        "Multifocal atrial tachycardia",
+        "Atrial flutter with variable block",
+        "Atrial fibrillation"
+      ],
+      "ans": 0,
+      "exp": "Irregular R-R: MAT, Atrial flutter with variable block, Atrial fibrillation, and Focal AT with varying block. Sinus tachycardia has regular R-R intervals. (Book p402)"
+    },
+    {
+      "id": "MED-C5-52",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "page": 402,
+      "fmt": "match",
+      "q": "In regular narrow-complex tachycardias with present P waves, match each interval configuration to its diagnosis — 1) Short RP (< 80 ms), long PR 2) Short RP (> 80 ms), long PR 3) Long RP, short PR … A) AVNRT B) AVRT C) Atrial tachycardia",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Summary tree: RP short, PR long -> AVRT (> 80 ms) and AVNRT; RP long, PR short -> Atrial tachycardia. (Book p402)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U5-1",
+      "ch": 5,
+      "n": 1,
+      "title": "1. Classification & Mechanisms of Tachycardia",
+      "sec": "Classification & Mechanisms of Tachycardia",
+      "guide": "Tachyarrhythmia definitions, His-bifurcation levels, and narrow vs wide QRS.\nEnhanced automaticity, triggered activity (EAD vs DAD), and re-entry circuits.\nMicro versus macro re-entry loops and structural-heart requirements.",
+      "qs": [
+        "MED-C5-01",
+        "MED-C5-02",
+        "MED-C5-03",
+        "MED-C5-04",
+        "MED-C5-05",
+        "MED-C5-06",
+        "MED-C5-07",
+        "MED-C5-08",
+        "MED-C5-09",
+        "MED-C5-10",
+        "MED-C5-11",
+        "MED-C5-12",
+        "MED-C5-13",
+        "MED-C5-14"
+      ]
+    },
+    {
+      "id": "MED-U5-2",
+      "ch": 5,
+      "n": 2,
+      "title": "2. AVNRT Mechanisms, Types & ECG Features",
+      "sec": "AVNRT Mechanisms, Types & ECG Features",
+      "guide": "ECG interpretation, SVT hierarchy, and dual AV nodal pathway physiology.\nTypical slow-fast versus atypical fast-slow AVNRT triggers and rates.\nPseudo S, pseudo r', and pseudo Q waves and orthodromic vs antidromic AVRT.",
+      "qs": [
+        "MED-C5-15",
+        "MED-C5-16",
+        "MED-C5-17",
+        "MED-C5-18",
+        "MED-C5-19",
+        "MED-C5-20",
+        "MED-C5-21",
+        "MED-C5-22",
+        "MED-C5-23",
+        "MED-C5-24",
+        "MED-C5-25",
+        "MED-C5-26",
+        "MED-C5-27",
+        "MED-C5-28"
+      ]
+    },
+    {
+      "id": "MED-U5-3",
+      "ch": 5,
+      "n": 3,
+      "title": "3. AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "sec": "AVRT vs AVNRT & Narrow-Complex Differentiation",
+      "guide": "Orthodromic AVRT activation sequence, bypass-tract re-entry, and RP intervals.\nDirect tabular comparison of AVNRT versus AVRT features and hemodynamics.\nShort-RP versus long-RP intervals distinguishing nodal re-entry from atrial tachycardia.",
+      "qs": [
+        "MED-C5-29",
+        "MED-C5-30",
+        "MED-C5-31",
+        "MED-C5-32",
+        "MED-C5-33",
+        "MED-C5-34"
+      ]
+    },
+    {
+      "id": "MED-U5-4",
+      "ch": 5,
+      "n": 4,
+      "title": "4. Acute Management of Narrow-Complex Tachycardias",
+      "sec": "Acute Management of Narrow-Complex Tachycardias",
+      "guide": "Synchronized cardioversion for instability versus adenosine for stable SVT.\nAdenosine pharmacokinetics, dosing protocols, positioning, and safety traps.\nManagement in COPD/asthma and decompensated heart failure.",
+      "qs": [
+        "MED-C5-35",
+        "MED-C5-36",
+        "MED-C5-37",
+        "MED-C5-38",
+        "MED-C5-39",
+        "MED-C5-40",
+        "MED-C5-41",
+        "MED-C5-42",
+        "MED-C5-43"
+      ]
+    },
+    {
+      "id": "MED-U5-5",
+      "ch": 5,
+      "n": 5,
+      "title": "5. Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "sec": "Atrial & Junctional Tachycardias & Diagnostic Summary",
+      "guide": "Unifocal AT, warm-up/cool-down, and multifocal AT with COPD/theophylline.\nAtrial tachycardia with AV block and junctional tachycardia diagnostic rates.\nComplete algorithmic flowchart for regular and irregular narrow tachycardias.",
+      "qs": [
+        "MED-C5-44",
+        "MED-C5-45",
+        "MED-C5-46",
+        "MED-C5-47",
+        "MED-C5-48",
+        "MED-C5-49",
+        "MED-C5-50",
+        "MED-C5-51",
+        "MED-C5-52"
+      ]
+    }
+  ]
+}
