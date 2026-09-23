@@ -1,0 +1,605 @@
+{
+  "chapter": 24,
+  "title": "Variable Vessel Vasculitis",
+  "pageRange": "514-518",
+  "questions": [
+    {
+      "id": "MED-C24-01",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 514,
+      "fmt": "recall",
+      "q": "Which two diseases are the types of variable vessel vasculitis on the title page?",
+      "opts": [
+        "Behcet disease and Cogan syndrome",
+        "GCA and Takayasu arteritis",
+        "PAN and Kawasaki disease",
+        "HSP and cryoglobulinemia"
+      ],
+      "ans": 0,
+      "exp": "Variable vessel vasculitis types are Behcet disease and Cogan syndrome. (Book p514)"
+    },
+    {
+      "id": "MED-C24-02",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 514,
+      "fmt": "recall",
+      "q": "Behcet disease was previously classified under what category in the source?",
+      "opts": [
+        "Antiphospholipid syndrome",
+        "Large-vessel vasculitis",
+        "Immune-complex small-vessel vasculitis",
+        "Crystal arthropathy"
+      ],
+      "ans": 1,
+      "exp": "The Behcet section notes it was previously classified under large-vessel vasculitis. (Book p514)"
+    },
+    {
+      "id": "MED-C24-03",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 514,
+      "fmt": "recall",
+      "q": "Which Takayasu-versus-Behcet contrast is printed?",
+      "opts": [
+        "Both have identical granulomatous lymphocytic lesions",
+        "Behcet is always necrotizing with RBC extravasation",
+        "Takayasu: panarteritis with lymphocytes and granulomas; Behcet: panarteritis with non-necrotizing inflammation, panniculitis, obliterative phlebitis, neutrophils and no granulomas",
+        "Takayasu: neutrophils and no granulomas; Behcet: lymphocytes and granulomas"
+      ],
+      "ans": 2,
+      "exp": "The comparison table lists Takayasu panarteritis with lymphocyte predominance and granulomas, while Behcet has panarteritis, non-necrotizing inflammation without fibrinoid necrosis/RBC extravasation, panniculitis, obliterative phlebitis, neutrophils and absent granulomas. (Book p514)"
+    },
+    {
+      "id": "MED-C24-04",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 514,
+      "fmt": "recall",
+      "q": "Which condition is a differential diagnosis for obliterative phlebitis?",
+      "opts": [
+        "Gout",
+        "HSP",
+        "Osteoarthritis",
+        "IgG4 disease"
+      ],
+      "ans": 3,
+      "exp": "The note states differential diagnosis for obliterative phlebitis is IgG4 disease. (Book p514)"
+    },
+    {
+      "id": "MED-C24-05",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 514,
+      "fmt": "oddoneout",
+      "q": "Which disease is listed under arteritis without granuloma rather than arteritis with granuloma?",
+      "opts": [
+        "Behcet disease",
+        "GPA",
+        "EGPA",
+        "Rheumatoid vasculitis"
+      ],
+      "ans": 0,
+      "exp": "The arteritis-without-granuloma column lists Behcet disease and MPA; the granuloma column lists large-vessel vasculitis, GPA, EGPA, rheumatoid vasculitis and Cogan syndrome. (Book p514)"
+    },
+    {
+      "id": "MED-C24-06",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 514,
+      "fmt": "recall",
+      "q": "Which HLA is highlighted as associated with Behcet disease?",
+      "opts": [
+        "HLA-DPB1-04 only",
+        "HLA-B51",
+        "HLA-DRB1-04 only",
+        "HLA-B52 only"
+      ],
+      "ans": 1,
+      "exp": "Risk factors list HLA-B51 as associated with Behcet disease, with other HLA-A26, HLA-B27 and HLA-B57. (Book p514)"
+    },
+    {
+      "id": "MED-C24-07",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "Which pathophysiology and immune-cell pattern is printed for Behcet disease?",
+      "opts": [
+        "ANCA-mediated NETosis only",
+        "Monoclonal IgM precipitation only",
+        "T-cell mediated inflammation with Th1 greater than Th17",
+        "IgA immune-complex deposition only"
+      ],
+      "ans": 2,
+      "exp": "Pathophysiology is T-cell mediated inflammation, Th1 greater than Th17. (Book p515)"
+    },
+    {
+      "id": "MED-C24-08",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "Which antibodies/factors are expressed in Behcet disease according to the source?",
+      "opts": [
+        "Anti-C1q only",
+        "Anti-PR3 and anti-MPO only",
+        "Anti-CCP and rheumatoid factor only",
+        "ASCA, anti-selenium binding protein, anti-enolase, MICA gene and ER aminopeptidase"
+      ],
+      "ans": 3,
+      "exp": "Factors expressed include ASCA antibody, anti-selenium binding protein, anti-enolase, MICA gene and ER aminopeptidase. (Book p515)"
+    },
+    {
+      "id": "MED-C24-09",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "What note links ASCA in Behcet disease to Crohn disease?",
+      "opts": [
+        "ASCA is also found in Crohn disease, so GIT manifestations are similar",
+        "ASCA excludes Crohn disease",
+        "ASCA is a marker of renal disease only",
+        "ASCA is diagnostic of Cogan syndrome"
+      ],
+      "ans": 0,
+      "exp": "The note states ASCA antibody is also found in Crohn disease and GIT manifestations are similar. (Book p515)"
+    },
+    {
+      "id": "MED-C24-10",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "Which clinical profile is printed for Behcet disease?",
+      "opts": [
+        "Female:male 9:1 pulseless disease",
+        "Most affected age 30–50, severe in young males, chronic relapsing multisystem autoimmune disease",
+        "Most affected age below 5, self-limiting only",
+        "Age above 70 with only shoulder stiffness"
+      ],
+      "ans": 1,
+      "exp": "Behcet disease most affected age group is 30–50 years, severe disease occurs in young males and it is chronic relapsing multisystem autoimmune disease. (Book p515)"
+    },
+    {
+      "id": "MED-C24-11",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "Which system is specifically spared in Behcet disease?",
+      "opts": [
+        "Neurological system",
+        "Genital tract",
+        "Kidney",
+        "Pulmonary artery"
+      ],
+      "ans": 2,
+      "exp": "The clinical manifestations line explicitly states Behcet spares the kidney. (Book p515)"
+    },
+    {
+      "id": "MED-C24-12",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "Which note lists pulmonary artery vasculitis/aneurysm in two diseases?",
+      "opts": [
+        "HSP and PMR",
+        "RA and OA",
+        "Gout and pseudogout",
+        "Takayasu arteritis and Behcet disease"
+      ],
+      "ans": 3,
+      "exp": "The note says pulmonary artery vasculitis/aneurysm is seen in Takayasu arteritis and Behcet disease. (Book p515)"
+    },
+    {
+      "id": "MED-C24-13",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "numeric",
+      "q": "Under the International Criteria for Behcet disease, what score establishes diagnosis?",
+      "opts": [
+        "Score at least 4",
+        "Score exactly 1",
+        "Score at least 10",
+        "No score is used"
+      ],
+      "ans": 0,
+      "exp": "The International criteria column states diagnosis is established by score ≥4. (Book p515)"
+    },
+    {
+      "id": "MED-C24-14",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 515,
+      "fmt": "recall",
+      "q": "In the International Criteria table, which manifestations score 2 points each?",
+      "opts": [
+        "Renal disease and pulmonary nodules",
+        "Oral aphthosis, genital aphthosis and ocular lesions",
+        "Skin lesion, neurologic manifestation and vascular manifestation",
+        "Positive pathergy test only"
+      ],
+      "ans": 1,
+      "exp": "The table assigns 2 points each to oral aphthosis, genital aphthosis and ocular lesions. (Book p515)"
+    },
+    {
+      "id": "MED-C24-15",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 516,
+      "fmt": "recall",
+      "q": "Which oral-ulcer statement is printed for Behcet disease?",
+      "opts": [
+        "Oral ulcers heal with scarring and spare lips",
+        "Oral ulcers are never used for diagnosis",
+        "Mandatory/pathognomonic recurrent painful ulcers at least 3 times/year at lips, buccal mucosa, tongue or soft palate",
+        "Painless hard-palate ulcers are mandatory"
+      ],
+      "ans": 2,
+      "exp": "Oral aphthous ulcers are mandatory/pathognomonic, recurrent ≥3 times/year painful ulcers, commonly at lips, buccal mucosa, tongue and soft palate. (Book p516)"
+    },
+    {
+      "id": "MED-C24-16",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 516,
+      "fmt": "recall",
+      "q": "Which note is printed while evaluating oral ulcers in Behcet disease?",
+      "opts": [
+        "Always diagnose SLE if ulcers are painful",
+        "Avoid examining the hard palate",
+        "Pathergy is contraindicated",
+        "Rule out HIV during diagnosis of ulcer"
+      ],
+      "ans": 3,
+      "exp": "The page notes to rule out HIV during diagnosis of ulcer. (Book p516)"
+    },
+    {
+      "id": "MED-C24-17",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 516,
+      "fmt": "oddoneout",
+      "q": "Which genital-ulcer feature is least compatible with Behcet disease in the source?",
+      "opts": [
+        "Spares scrotum and labia as the most common sites",
+        "More deeply situated and more painful",
+        "Less recurrent and heals with scarring",
+        "Spares glans penis and urethra"
+      ],
+      "ans": 0,
+      "exp": "Behcet genital ulcers most commonly involve scrotum and labia; they are deep, painful, less recurrent, heal with scarring and spare glans penis/urethra. (Book p516)"
+    },
+    {
+      "id": "MED-C24-18",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 516,
+      "fmt": "numeric",
+      "q": "How is a positive pathergy test performed and read in the source?",
+      "opts": [
+        "Skin biopsy; granuloma after 2 weeks",
+        "Oblique skin puncture with a 25-gauge needle; papule/pustule with erythema after 24–48 hours",
+        "Venepuncture with 18-gauge needle; halo sign immediately",
+        "Oral swab; ulcers after 7 days"
+      ],
+      "ans": 1,
+      "exp": "Pathergy test is hypersensitivity to long scratch/intradermal saline injection, oblique skin puncture using a 25-gauge needle, with papule/pustule and erythema after 24–48 hours. (Book p516)"
+    },
+    {
+      "id": "MED-C24-19",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 516,
+      "fmt": "numeric",
+      "q": "What sensitivity and specificity are printed for the pathergy test?",
+      "opts": [
+        "Both 100%",
+        "Both below 10%",
+        "Low sensitivity 60% and high specificity 80%",
+        "High sensitivity 95% and low specificity 20%"
+      ],
+      "ans": 2,
+      "exp": "The pathergy test is described as low sensitivity 60% and high specificity 80%. (Book p516)"
+    },
+    {
+      "id": "MED-C24-20",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 516,
+      "fmt": "recall",
+      "q": "Which cutaneous manifestation is most common in Behcet disease?",
+      "opts": [
+        "Saddle nose deformity",
+        "Rheumatoid nodule",
+        "Digital gangrene from RA vasculitis",
+        "Papulopustular lesions"
+      ],
+      "ans": 3,
+      "exp": "Cutaneous manifestations include all types of skin lesions and list papulopustular lesions as most common. (Book p516)"
+    },
+    {
+      "id": "MED-C24-21",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "Which note about erythema nodosum in sarcoidosis is printed?",
+      "opts": [
+        "All P's except pigmentation",
+        "Painful pretibial pigmented papule is specific to sarcoid",
+        "It is never seen in sarcoidosis",
+        "It excludes Behcet disease"
+      ],
+      "ans": 0,
+      "exp": "The note states erythema nodosum in sarcoidosis has all P's except pigmentation. (Book p517)"
+    },
+    {
+      "id": "MED-C24-22",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "Which ophthalmic table contrast is correct?",
+      "opts": [
+        "Both only involve anterior chamber",
+        "Both have chronic relapsing bilateral panuveitis; Behcet also has retinal vasculitis and hypopyon with PC > AC",
+        "Sarcoidosis has hypopyon and PC > AC; Behcet has AC > PC only",
+        "Behcet has no retinal vasculitis"
+      ],
+      "ans": 1,
+      "exp": "Ophthalmic table: characteristic feature is chronic relapsing bilateral panuveitis; Behcet has retinal vasculitis and hypopyon, and chamber involvement PC > AC, while sarcoidosis has AC > PC. (Book p517)"
+    },
+    {
+      "id": "MED-C24-23",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "Which joint manifestation is printed for Behcet disease?",
+      "opts": [
+        "DIP-predominant osteoarthritis",
+        "Bamboo spine only",
+        "Asymmetrical non-erosive oligoarthritis",
+        "Symmetric erosive small-joint polyarthritis"
+      ],
+      "ans": 2,
+      "exp": "Behcet joint manifestation is asymmetrical non-erosive oligoarthritis. (Book p517)"
+    },
+    {
+      "id": "MED-C24-24",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "Which warning-sign set is listed for Behcet disease?",
+      "opts": [
+        "Renal RPGN, pulmonary cavities and saddle nose only",
+        "Jaw claudication and optic disc pallor only",
+        "Tophi and pseudogout",
+        "Vascular thrombosis, GI involvement resembling Crohn, CNS involvement and very rare cardiac disease"
+      ],
+      "ans": 3,
+      "exp": "Warning signs include vascular thrombosis, GI involvement resembling Crohn disease, CNS involvement and very rare cardiac involvement. (Book p517)"
+    },
+    {
+      "id": "MED-C24-25",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "Behcet CNS involvement is under the influence of which cytokine, and which types are listed?",
+      "opts": [
+        "IL-6; vascular, parenchymal and brainstem encephalitis",
+        "TNF-alpha; only peripheral neuropathy",
+        "IL-10; only cognitive decline",
+        "IL-5; eosinophilic myocarditis only"
+      ],
+      "ans": 0,
+      "exp": "CNS involvement is under influence of IL-6 and types listed are vascular, parenchymal and brainstem encephalitis. (Book p517)"
+    },
+    {
+      "id": "MED-C24-26",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "Sweet syndrome is described how in Behcet disease?",
+      "opts": [
+        "An IgA nephritis syndrome",
+        "Acute febrile neutrophilic dermatosis only seen in Behcet",
+        "A chronic lymphocytic panniculitis seen only in Takayasu",
+        "A granulomatous keratitis syndrome"
+      ],
+      "ans": 1,
+      "exp": "Sweet syndrome is acute febrile neutrophilic dermatosis and is stated to be only seen in Behcet. (Book p517)"
+    },
+    {
+      "id": "MED-C24-27",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "page": 517,
+      "fmt": "recall",
+      "q": "What is MAGIC syndrome in the source?",
+      "opts": [
+        "Mitral regurgitation with rheumatoid arthritis",
+        "Multiple aneurysms in PAN",
+        "Mouth and genital ulcers with inflamed cartilage: Behcet plus relapsing polychondritis",
+        "Myalgia with arthralgia in cryoglobulinemia"
+      ],
+      "ans": 2,
+      "exp": "MAGIC syndrome is mouth and genital ulcers with inflamed cartilage, a combination of Behcet disease and relapsing polychondritis. (Book p517)"
+    },
+    {
+      "id": "MED-C24-28",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "recall",
+      "q": "How is Behcet disease diagnosed in the source?",
+      "opts": [
+        "It requires renal biopsy in every case",
+        "It requires ANCA positivity",
+        "It requires monoclonal cryoglobulin",
+        "It is a clinical diagnosis"
+      ],
+      "ans": 3,
+      "exp": "Diagnosis section states it is a clinical diagnosis. (Book p518)"
+    },
+    {
+      "id": "MED-C24-29",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "recall",
+      "q": "Which skin-lesion and immunoglobulin findings are printed for Behcet diagnosis?",
+      "opts": [
+        "Predominantly neutrophilic cutaneous leukocytoclastic vasculitis with mixed IgG/IgM/C3 infiltrate",
+        "Pure eosinophilic necrosis with no immunoglobulins",
+        "IgA-only deposits in all lesions",
+        "No inflammatory infiltrate"
+      ],
+      "ans": 0,
+      "exp": "Skin lesions are predominantly neutrophilic with cutaneous leukocytoclastic vasculitis; immunoglobulins are mixed infiltrate IgG/IgM/C3. (Book p518)"
+    },
+    {
+      "id": "MED-C24-30",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "management",
+      "q": "Which treatment is printed for mucocutaneous Behcet disease?",
+      "opts": [
+        "Methotrexate monotherapy only",
+        "Topical steroid plus PGE2 gel",
+        "Oral steroid plus MMF for every patient",
+        "Steroid plus antiviral plus plasma exchange"
+      ],
+      "ans": 1,
+      "exp": "The treatment table lists mucocutaneous disease as topical steroid plus PGE2 gel. (Book p518)"
+    },
+    {
+      "id": "MED-C24-31",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "management",
+      "q": "Which treatment is printed for severe mucocutaneous Behcet disease?",
+      "opts": [
+        "Rituximab alone",
+        "Acyclovir alone",
+        "Thalidomide plus methotrexate plus topical steroid",
+        "Topical steroid plus PGE2 gel only"
+      ],
+      "ans": 2,
+      "exp": "Severe mucocutaneous disease treatment is thalidomide plus methotrexate plus topical steroid. (Book p518)"
+    },
+    {
+      "id": "MED-C24-32",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "management",
+      "q": "Which systemic Behcet treatment statement is printed?",
+      "opts": [
+        "Topical PGE2 only for systemic disease",
+        "No treatment because disease is always self-limiting",
+        "Antiviral plus plasma exchange only",
+        "Oral prednisolone plus methotrexate or MMF, with MMF for more severe and methotrexate for less severe disease"
+      ],
+      "ans": 3,
+      "exp": "Systemic treatment includes oral steroid prednisolone plus methotrexate or MMF; more severe disease uses MMF and less severe uses methotrexate. (Book p518)"
+    },
+    {
+      "id": "MED-C24-33",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "numeric",
+      "q": "Which age group is printed for Cogan syndrome?",
+      "opts": [
+        "20–30 years",
+        "Below 5 years",
+        "Over 60 years",
+        "30–50 years"
+      ],
+      "ans": 0,
+      "exp": "Cogan syndrome age group is 20–30 years. (Book p518)"
+    },
+    {
+      "id": "MED-C24-34",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "recall",
+      "q": "What characteristic triad defines Cogan syndrome in the source?",
+      "opts": [
+        "Asthma, eosinophilia and neuropathy",
+        "Aortitis, interstitial keratitis and vestibulitis with SNHL similar to Meniere disease within less than 2 years",
+        "Oral aphthae, genital ulcers and pathergy",
+        "Purpura, arthralgia and myalgia"
+      ],
+      "ans": 1,
+      "exp": "The Cogan triad shows aortitis, interstitial keratitis and vestibulitis with sensorineural hearing loss similar to Meniere disease, with less than 2 years shown between ocular and vestibular components. (Book p518)"
+    },
+    {
+      "id": "MED-C24-35",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "recall",
+      "q": "Which clinical manifestations are listed for Cogan syndrome?",
+      "opts": [
+        "Symmetric erosive polyarthritis only",
+        "Ileoileal intussusception only",
+        "Fever/systemic manifestations and gaze-induced nystagmus",
+        "Saddle nose and DAH only"
+      ],
+      "ans": 2,
+      "exp": "Cogan clinical manifestations include fever with systemic manifestations and gaze-induced nystagmus. (Book p518)"
+    },
+    {
+      "id": "MED-C24-36",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "page": 518,
+      "fmt": "recall",
+      "q": "Sensorineural hearing loss in the Cogan section is also seen in which disease?",
+      "opts": [
+        "Osteoarthritis",
+        "HSP",
+        "Gout",
+        "Wegener granulomatosis"
+      ],
+      "ans": 3,
+      "exp": "The note says SNHL is also seen in Wegener granulomatosis. (Book p518)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U24-1",
+      "ch": 24,
+      "n": 1,
+      "title": "1. Behcet disease classification, criteria and manifestations",
+      "sec": "Behcet disease classification, criteria and manifestations",
+      "guide": "Variable-vessel vasculitis types lead into Behcet's comparison with Takayasu and granuloma tables.\nRisk factors, T-cell pathophysiology, antibodies and multisystem manifestations are preserved.\nDiagnostic criteria, oral/genital/pathergy/cutaneous/ocular/joint/warning signs follow source order.",
+      "qs": [
+        "MED-C24-01",
+        "MED-C24-02",
+        "MED-C24-03",
+        "MED-C24-04",
+        "MED-C24-05",
+        "MED-C24-06",
+        "MED-C24-07",
+        "MED-C24-08",
+        "MED-C24-09",
+        "MED-C24-10",
+        "MED-C24-11",
+        "MED-C24-12",
+        "MED-C24-13",
+        "MED-C24-14",
+        "MED-C24-15",
+        "MED-C24-16",
+        "MED-C24-17",
+        "MED-C24-18",
+        "MED-C24-19",
+        "MED-C24-20",
+        "MED-C24-21",
+        "MED-C24-22",
+        "MED-C24-23",
+        "MED-C24-24",
+        "MED-C24-25",
+        "MED-C24-26",
+        "MED-C24-27"
+      ]
+    },
+    {
+      "id": "MED-U24-2",
+      "ch": 24,
+      "n": 2,
+      "title": "2. Diagnosis, treatment and Cogan syndrome",
+      "sec": "Diagnosis, treatment and Cogan syndrome",
+      "guide": "Behcet diagnosis remains clinical with neutrophilic skin lesions and mixed immunoglobulin infiltrate.\nTreatment is separated into mucocutaneous, severe mucocutaneous and systemic disease.\nCogan syndrome age, triad, manifestations and SNHL note close the chapter.",
+      "qs": [
+        "MED-C24-28",
+        "MED-C24-29",
+        "MED-C24-30",
+        "MED-C24-31",
+        "MED-C24-32",
+        "MED-C24-33",
+        "MED-C24-34",
+        "MED-C24-35",
+        "MED-C24-36"
+      ]
+    }
+  ]
+}

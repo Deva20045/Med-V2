@@ -1,0 +1,871 @@
+{
+  "chapter": 22,
+  "title": "Small Vessel Vasculitis",
+  "pageRange": "499-508",
+  "questions": [
+    {
+      "id": "MED-C22-01",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 499,
+      "fmt": "recall",
+      "q": "Which ANCA-associated vasculitides are listed under small-vessel vasculitis?",
+      "opts": [
+        "GCA, Takayasu and isolated aortitis",
+        "PAN, Kawasaki and Behcet",
+        "GPA, MPA and AGPA/EGPA",
+        "HSP, cryoglobulinemia and HUV"
+      ],
+      "ans": 2,
+      "exp": "Small-vessel vasculitis is split into immune-complex mediated and ANCA-associated; ANCA-associated examples are GPA, MPA and allergic/eosinophilic GPA. (Book p499)"
+    },
+    {
+      "id": "MED-C22-02",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 499,
+      "fmt": "recall",
+      "q": "ANCA target antigens are located mainly where, and which two named antigens are listed?",
+      "opts": [
+        "Mitochondria; AMA and Ro",
+        "Basement membrane; collagen IV and elastin",
+        "Cytoplasmic ribosomes; dsDNA and Sm",
+        "Azurophilic granules of resting neutrophils more than monocyte lysosomes; PR3 and MPO"
+      ],
+      "ans": 3,
+      "exp": "ANCA targets are in azurophilic granules of resting neutrophils more than lysosomes of monocytes and include PR3 and MPO. (Book p499)"
+    },
+    {
+      "id": "MED-C22-03",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 499,
+      "fmt": "scenario",
+      "q": "An infection trigger leads to LPS antigen exposure, neutrophil priming with PR3/MPO expression, ANCA binding, alternate complement activation, degranulation and NETosis. Which pathogenesis is this?",
+      "opts": [
+        "Antibody-mediated ANCA vasculitis",
+        "Monoclonal cryoglobulin hyperviscosity",
+        "IgA-only HSP mechanism",
+        "Pure T-cell Behcet pathogenesis"
+      ],
+      "ans": 0,
+      "exp": "The ANCA pathogenesis flowchart starts with infection/LPS, primes neutrophils to express PR3/MPO and proceeds through ANCA, alternate complement activation, degranulation and NETosis. (Book p499)"
+    },
+    {
+      "id": "MED-C22-04",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 499,
+      "fmt": "recall",
+      "q": "In the NETosis arm of ANCA pathogenesis, ineffective NET degradation ultimately does what?",
+      "opts": [
+        "Converts disease to immune-complex HSP",
+        "Increases exposure of NET components, stimulates ANCA production and attacks primed neutrophils",
+        "Prevents inflammation permanently",
+        "Produces only hyperuricemia"
+      ],
+      "ans": 1,
+      "exp": "NETosis forms neutrophil extracellular traps; ineffective degradation exposes NET components, stimulates ANCA production and attacks primed neutrophils. (Book p499)"
+    },
+    {
+      "id": "MED-C22-05",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 500,
+      "fmt": "recall",
+      "q": "What is the screening test for ANCA in the source?",
+      "opts": [
+        "Conventional angiography",
+        "Synovial fluid WBC count",
+        "Indirect immunofluorescence",
+        "Temporal artery biopsy"
+      ],
+      "ans": 2,
+      "exp": "The ANCA screening test shown is indirect immunofluorescence. (Book p500)"
+    },
+    {
+      "id": "MED-C22-06",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 500,
+      "fmt": "recall",
+      "q": "A cytoplasmic ANCA pattern corresponds to which antibody and confirmatory test sequence?",
+      "opts": [
+        "Anti-MPO pattern followed by no confirmation",
+        "Anti-C1q pattern confirmed by skin biopsy",
+        "Anti-mitochondrial antibody by angiography",
+        "Anti-PR3 pattern followed by ELISA confirmation as true c-ANCA"
+      ],
+      "ans": 3,
+      "exp": "The cytoplasmic pattern is anti-PR3; confirmation is by ELISA, producing true c-ANCA positivity. (Book p500)"
+    },
+    {
+      "id": "MED-C22-07",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 500,
+      "fmt": "recall",
+      "q": "Which order is printed for causes of true c-ANCA positivity?",
+      "opts": [
+        "GPA > MPA > renal-limited vasculitis > EGPA",
+        "Renal-limited vasculitis > MPA > EGPA > GPA",
+        "Autoimmune hepatitis > IBD > cystic fibrosis",
+        "Goodpasture > hydralazine > minocycline"
+      ],
+      "ans": 0,
+      "exp": "True c-ANCA causes are ordered GPA > MPA > renal-limited vasculitis > EGPA. (Book p500)"
+    },
+    {
+      "id": "MED-C22-08",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 500,
+      "fmt": "recall",
+      "q": "True p-ANCA positivity against MPO is most strongly ordered with which diseases and drug examples?",
+      "opts": [
+        "Cryoglobulinemia only; acyclovir",
+        "Renal-limited vasculitis > MPA > EGPA > GPA; hydralazine, PTU, levamisole-adulterated cocaine and minocycline",
+        "GPA alone; penicillins and thiazides",
+        "SLE only; oral contraceptive pills"
+      ],
+      "ans": 1,
+      "exp": "True p-ANCA against MPO is ordered renal-limited vasculitis > MPA > EGPA > GPA and includes drug-induced hydralazine, PTU, levamisole-adulterated cocaine and minocycline. (Book p500)"
+    },
+    {
+      "id": "MED-C22-09",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 500,
+      "fmt": "oddoneout",
+      "q": "Which condition is listed under false p-ANCA positivity rather than true p-ANCA against MPO?",
+      "opts": [
+        "Propylthiouracil exposure",
+        "Goodpasture syndrome",
+        "Primary sclerosing cholangitis",
+        "Hydralazine exposure"
+      ],
+      "ans": 2,
+      "exp": "False p-ANCA causes include autoimmune hepatitis type 1, primary sclerosing cholangitis, RA, IBD, infective endocarditis and cystic fibrosis. (Book p500)"
+    },
+    {
+      "id": "MED-C22-10",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 500,
+      "fmt": "recall",
+      "q": "What skin biopsy/immunofluorescence note is printed for ANCA vasculitis?",
+      "opts": [
+        "IgA deposits are mandatory in every ANCA case",
+        "Biopsy is contraindicated in all vasculitis",
+        "Only angiography confirms ANCA vasculitis",
+        "Biopsy and immunofluorescence of skin are most preferred, with no deposits indicating pauci-immune disease"
+      ],
+      "ans": 3,
+      "exp": "Biopsy and immunofluorescence of skin are marked most preferred; no deposits indicate pauci-immune disease. (Book p500)"
+    },
+    {
+      "id": "MED-C22-11",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 501,
+      "fmt": "recall",
+      "q": "Which cutaneous lesion is called the hallmark feature of ANCA vasculitis?",
+      "opts": [
+        "Non-thrombocytopenic palpable purpura",
+        "Painless hard-palate ulcer",
+        "Bamboo spine",
+        "Tophus"
+      ],
+      "ans": 0,
+      "exp": "ANCA cutaneous palpable purpura is labelled non-thrombocytopenic palpable purpura and hallmark feature. (Book p501)"
+    },
+    {
+      "id": "MED-C22-12",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 501,
+      "fmt": "scenario",
+      "q": "A skin lesion is pinpoint, non-blanchable and due to capillary inflammation. Which source term fits?",
+      "opts": [
+        "Panniculitis",
+        "Petechiae",
+        "Bruit",
+        "Nodule of reticular dermis"
+      ],
+      "ans": 1,
+      "exp": "Petechiae are described as non-blanchable pinpoint macules due to capillary inflammation. (Book p501)"
+    },
+    {
+      "id": "MED-C22-13",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 501,
+      "fmt": "recall",
+      "q": "Which table pairing is correct for small-vessel vasculitis in skin?",
+      "opts": [
+        "Large vessels, bruits and pulse/BP asymmetry only",
+        "Dermal veins, oral ulcers and hypopyon only",
+        "Capillaries/post-capillary venules, superficial capillary dermis, purpura-petechiae-bulla-urticaria",
+        "Muscular arteries, reticular dermis, deep ulcers and mononeuritis multiplex"
+      ],
+      "ans": 2,
+      "exp": "Small-vessel involvement is capillaries and post-capillary venules in superficial capillary dermis with purpura, petechiae, bulla and urticaria. (Book p501)"
+    },
+    {
+      "id": "MED-C22-14",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 501,
+      "fmt": "recall",
+      "q": "Which features in the table point to medium-vessel vasculitis rather than small-vessel disease?",
+      "opts": [
+        "Purpura, petechiae, bulla and urticaria",
+        "Bruit and asymmetry of pulse/BP",
+        "Saddle nose deformity only",
+        "Nodules, gangrene, mononeuritis multiplex and deep ulcers"
+      ],
+      "ans": 3,
+      "exp": "Medium-vessel vasculitis involves muscular arteries in the reticular dermis and features nodules, gangrene, mononeuritis multiplex and deep ulcers. (Book p501)"
+    },
+    {
+      "id": "MED-C22-15",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "page": 501,
+      "fmt": "recall",
+      "q": "ANCA titres are noted as a predictor of what?",
+      "opts": [
+        "Relapse",
+        "Immediate remission",
+        "SLE diagnosis",
+        "Aortic aneurysm rupture"
+      ],
+      "ans": 0,
+      "exp": "The page states ANCA titres are a predictor of relapse. (Book p501)"
+    },
+    {
+      "id": "MED-C22-16",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 501,
+      "fmt": "recall",
+      "q": "Which feature combination defines GPA in the printed source?",
+      "opts": [
+        "Panarteritis without neutrophils",
+        "Necrotising vasculitis with fibrinoid necrosis and granuloma",
+        "Necrotising vasculitis without granuloma and ANCA negative",
+        "IgA leukocytoclastic vasculitis only"
+      ],
+      "ans": 1,
+      "exp": "GPA features include necrotising vasculitis plus fibrinoid necrosis due to neutrophils plus granuloma. (Book p501)"
+    },
+    {
+      "id": "MED-C22-17",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 501,
+      "fmt": "numeric",
+      "q": "Which antibody and demographic pattern is printed for GPA?",
+      "opts": [
+        "ANCA negative, children below 5 years",
+        "RF positive with female:male 9:1",
+        "c-ANCA about 70% greater than p-ANCA about 25%, age group over 40, male equals female",
+        "p-ANCA 90% in young females only"
+      ],
+      "ans": 2,
+      "exp": "GPA lists c-ANCA 70% > p-ANCA 25%, age group >40 years, sex M=F and HLA DPB1 04. (Book p501)"
+    },
+    {
+      "id": "MED-C22-18",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 502,
+      "fmt": "recall",
+      "q": "Upper respiratory tract involvement in GPA is printed as what frequency and key manifestation?",
+      "opts": [
+        "30% involvement with isolated sinusitis only",
+        "Rare involvement with no nasal disease",
+        "100% involvement with uveitis only",
+        "95% involvement with midline nasal deformities such as saddle nose"
+      ],
+      "ans": 3,
+      "exp": "GPA major manifestations list upper respiratory tract involvement in 95% with midline nasal deformities, including septal ulcers/crusting/perforation and saddle nose deformity. (Book p502)"
+    },
+    {
+      "id": "MED-C22-19",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 502,
+      "fmt": "recall",
+      "q": "Which GPA lower respiratory pattern is printed?",
+      "opts": [
+        "90% involvement with thick-walled cavitating nodules and diffuse alveolar hemorrhage",
+        "Only pleural effusion without nodules",
+        "Interstitial lung disease as the only chest imaging sign",
+        "Pulmonary artery aneurysm as the universal sign"
+      ],
+      "ans": 0,
+      "exp": "Lower respiratory involvement in GPA is 90%, with thick-walled cavitating nodules and DAH. (Book p502)"
+    },
+    {
+      "id": "MED-C22-20",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 502,
+      "fmt": "recall",
+      "q": "GPA renal involvement is described how?",
+      "opts": [
+        "Renal artery stenosis with no glomerulonephritis",
+        "60% with rapidly progressive glomerulonephritis, type 3 RPGN and pauci-immune pattern",
+        "100% immune-complex nephritis with IgA deposits",
+        "Rare renal disease with hyperviscosity only"
+      ],
+      "ans": 1,
+      "exp": "Renal involvement in GPA is 60%; RPGN is type 3 and pauci-immune. (Book p502)"
+    },
+    {
+      "id": "MED-C22-21",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 502,
+      "fmt": "recall",
+      "q": "Which minor manifestation set belongs to GPA?",
+      "opts": [
+        "Painless oral ulcers with genital scarring",
+        "Bamboo spine and sacroiliitis",
+        "Arthralgia, peripheral neuropathy, cutaneous non-thrombocytopenic palpable purpura, scleritis/orbital pseudotumour/rare lacrimal involvement",
+        "Only erosive DIP arthritis and tophi"
+      ],
+      "ans": 2,
+      "exp": "GPA minor systemic manifestations include joints arthralgia, CNS peripheral neuropathy, skin palpable purpura and ocular scleritis, orbital pseudotumour and rare lacrimal involvement. (Book p502)"
+    },
+    {
+      "id": "MED-C22-22",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 503,
+      "fmt": "recall",
+      "q": "Thick-walled cavitating nodules on chest imaging have which printed differential list?",
+      "opts": [
+        "HSP, PMR, OA and gout",
+        "SLE, dermatomyositis, Caplan syndrome and CPPD",
+        "Sarcoidosis only",
+        "Wegener granulomatosis, lung SCC, histoplasmosis and lung abscess"
+      ],
+      "ans": 3,
+      "exp": "The note lists thick-walled cavitating nodules in Wegener granulomatosis, SCC of lung, histoplasmosis and lung abscess. (Book p503)"
+    },
+    {
+      "id": "MED-C22-23",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 503,
+      "fmt": "recall",
+      "q": "Which profile is printed for microscopic polyangiitis?",
+      "opts": [
+        "Elderly 50–65 years, males more than females, necrotising fibrinoid vasculitis with no granuloma, p-ANCA > c-ANCA",
+        "Young females, granulomatous c-ANCA disease",
+        "Children, IgA deposition and abdominal colic only",
+        "Adults over 50 with temporal headache"
+      ],
+      "ans": 0,
+      "exp": "MPA is described in elderly 50–65 years, male>female, necrotising vasculitis with fibrinoid necrosis but no granuloma, and p-ANCA > c-ANCA. (Book p503)"
+    },
+    {
+      "id": "MED-C22-24",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 503,
+      "fmt": "numeric",
+      "q": "Which MPA organ-frequency statement is printed?",
+      "opts": [
+        "Renal 20–50% asymptomatic microhematuria only",
+        "Lower respiratory tract 50% with DAH, upper respiratory tract 30% sinusitis, renal 100% with type 3 RPGN",
+        "Upper respiratory tract 95% with saddle nose and renal 60%",
+        "Pulmonary infiltrates absent and renal rare"
+      ],
+      "ans": 1,
+      "exp": "MPA lists lower respiratory 50% DAH, upper respiratory 30% sinusitis and renal 100%, most commonly RPGN type 3. (Book p503)"
+    },
+    {
+      "id": "MED-C22-25",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 503,
+      "fmt": "recall",
+      "q": "Which minor manifestation pattern favors MPA in the source?",
+      "opts": [
+        "ENT disease usually favors MPA",
+        "CNS severe cranial neuropathy is universal",
+        "Ocular unlikely, joint not significant, skin more common than GPA, CNS minimal neuropathy",
+        "Ocular scleritis most common with orbital pseudotumour"
+      ],
+      "ans": 2,
+      "exp": "MPA minor manifestations are ocular unlikely, joints not significant, skin more common than GPA and CNS minimal neuropathy. (Book p503)"
+    },
+    {
+      "id": "MED-C22-26",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 504,
+      "fmt": "management",
+      "q": "Which induction regimen is printed as DOC for GPA and MPA?",
+      "opts": [
+        "Topical steroid plus PGE2 gel only",
+        "Acyclovir followed by rituximab only",
+        "NSAID monotherapy",
+        "Methylprednisolone IV 500 mg–1 g for 3 days then oral 1 mg/kg/day tapered over 2–3 months to 5 mg/day plus cyclophosphamide"
+      ],
+      "ans": 3,
+      "exp": "Induction shows methylprednisolone IV 500 mg–1 g for 3 days, then oral 1 mg/kg/day tapering over 2–3 months to 5 mg/day, plus cyclophosphamide as DOC. (Book p504)"
+    },
+    {
+      "id": "MED-C22-27",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 504,
+      "fmt": "management",
+      "q": "When is rituximab placed in GPA/MPA management?",
+      "opts": [
+        "If unwilling for cyclophosphamide or used in relapse",
+        "Only as first-line for minimal disease without steroids",
+        "Only for HCV-positive cryoglobulinemia",
+        "Never in ANCA vasculitis"
+      ],
+      "ans": 0,
+      "exp": "Rituximab is shown as an alternative if unwilling for cyclophosphamide and is used in relapse. (Book p504)"
+    },
+    {
+      "id": "MED-C22-28",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 504,
+      "fmt": "management",
+      "q": "Which minimal-disease and maintenance regimens are printed for GPA/MPA?",
+      "opts": [
+        "Minimal disease: no treatment; maintenance: colchicine",
+        "Minimal disease: steroid plus methotrexate; maintenance: low-dose steroid plus azathioprine",
+        "Minimal disease: plasma exchange alone; maintenance: acyclovir",
+        "Minimal disease: sulfasalazine; maintenance: hydroxychloroquine only"
+      ],
+      "ans": 1,
+      "exp": "Minimal disease is treated with steroid plus methotrexate; maintenance is low-dose steroid plus azathioprine. (Book p504)"
+    },
+    {
+      "id": "MED-C22-29",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 504,
+      "fmt": "recall",
+      "q": "Which plasma-exchange indication list is printed for GPA/MPA?",
+      "opts": [
+        "Positive pathergy test only",
+        "Isolated skin purpura without systemic disease",
+        "Ongoing DAH, serum creatinine >5.5 mg/dL and CNS involvement",
+        "Mild arthralgia only"
+      ],
+      "ans": 2,
+      "exp": "Plasma exchange indications are ongoing DAH, serum creatinine >5.5 mg/dL and CNS involvement. (Book p504)"
+    },
+    {
+      "id": "MED-C22-30",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 504,
+      "fmt": "numeric",
+      "q": "Which GPA classification score item has the highest positive value in the printed table?",
+      "opts": [
+        "Conductive or sensorineural hearing loss at +1",
+        "pANCA or anti-MPO positive at -1",
+        "Pulmonary nodule at +2",
+        "cANCA or anti-PR3 ANCA positive at +5"
+      ],
+      "ans": 3,
+      "exp": "In the GPA table, cANCA or anti-PR3 ANCA positive scores +5, higher than +3 or +2 items. (Book p504)"
+    },
+    {
+      "id": "MED-C22-31",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 505,
+      "fmt": "numeric",
+      "q": "What total score and test characteristics are printed for GPA classification?",
+      "opts": [
+        "Total score ≥5, sensitivity 93% and specificity 94%",
+        "Total score ≥2, sensitivity 60% and specificity 80%",
+        "Total score ≥10, sensitivity 100% and specificity 50%",
+        "No numeric score is printed"
+      ],
+      "ans": 0,
+      "exp": "For GPA, total score of ≥5 is needed, with sensitivity 93% and specificity 94%. (Book p505)"
+    },
+    {
+      "id": "MED-C22-32",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "page": 505,
+      "fmt": "numeric",
+      "q": "In the MPA classification table, which item is a negative score?",
+      "opts": [
+        "Fibrosis on chest imaging scores -4",
+        "Eosinophil count ≥1×10^9/L scores -4",
+        "pANCA or anti-MPO positivity scores -4",
+        "Pauci-immune glomerulonephritis scores -4"
+      ],
+      "ans": 1,
+      "exp": "The MPA table assigns eosinophil count ≥1×10^9/L a score of -4; pANCA/MPO is +6, pauci-immune GN +3 and fibrosis/ILD +3. (Book p505)"
+    },
+    {
+      "id": "MED-C22-33",
+      "sec": "EGPA and PAN",
+      "page": 505,
+      "fmt": "recall",
+      "q": "Churg-Strauss syndrome is also named which disease in the source?",
+      "opts": [
+        "Microscopic polyangiitis only",
+        "Cryoglobulinemia-associated vasculitis",
+        "Eosinophilic granulomatosis with polyangiitis or allergic granulomatosis with polyangiitis",
+        "Granulomatosis with polyangiitis only"
+      ],
+      "ans": 2,
+      "exp": "Churg-Strauss syndrome is AKA eosinophilic granulomatosis with polyangiitis and allergic granulomatosis with polyangiitis. (Book p505)"
+    },
+    {
+      "id": "MED-C22-34",
+      "sec": "EGPA and PAN",
+      "page": 505,
+      "fmt": "recall",
+      "q": "Which EGPA feature set is printed?",
+      "opts": [
+        "Panarteritis without granuloma and ANCA negative only",
+        "IgA vasculitis in children below 5 years",
+        "Large-vessel granulomatous arteritis in age over 50",
+        "Necrotising vasculitis, fibrinoid necrosis, extravascular granuloma, eosinophilic, predominantly ANCA negative"
+      ],
+      "ans": 3,
+      "exp": "EGPA features include necrotising vasculitis, fibrinoid necrosis, extravascular granuloma, eosinophilic disease and predominantly ANCA-negative status; ANCA positivity is bad prognosis. (Book p505)"
+    },
+    {
+      "id": "MED-C22-35",
+      "sec": "EGPA and PAN",
+      "page": 505,
+      "fmt": "recall",
+      "q": "Which manifestations belong to the asthmatic phase of EGPA?",
+      "opts": [
+        "Adolescent onset, recurrent allergic rhinitis plus asthma and migratory lung infiltrations on CXR",
+        "Eosinophilic myocarditis and cranial neuropathy only",
+        "Renal-limited RPGN alone",
+        "Upper-limb claudication and bruits"
+      ],
+      "ans": 0,
+      "exp": "The asthmatic phase is seen in adolescents and includes recurrent allergic rhinitis plus asthma and migratory lung infiltrations in CXR. (Book p505)"
+    },
+    {
+      "id": "MED-C22-36",
+      "sec": "EGPA and PAN",
+      "page": 505,
+      "fmt": "recall",
+      "q": "Which manifestations belong to the vasculitic phase of EGPA?",
+      "opts": [
+        "Only renal artery stenosis",
+        "Eosinophilic gastroenteritis, eosinophilic myocarditis and severe neuropathy that can involve cranial nerves",
+        "Only saddle nose deformity and septal perforation",
+        "Only non-erosive oligoarthritis"
+      ],
+      "ans": 1,
+      "exp": "The vasculitic phase includes eosinophilic gastroenteritis, eosinophilic myocarditis as the most common cause of death, and severe neuropathy including cranial nerves. (Book p505)"
+    },
+    {
+      "id": "MED-C22-37",
+      "sec": "EGPA and PAN",
+      "page": 505,
+      "fmt": "recall",
+      "q": "High-titre ANCA-positive EGPA cases are printed with which manifestations and prognosis?",
+      "opts": [
+        "Only PMR pain and stiffness",
+        "Only cryoglobulin hyperviscosity",
+        "DAH, RPGN, mononeuritis multiplex possibly involving medium vessels, predominant skin lesions and bad prognosis",
+        "Only oral ulcers with good prognosis"
+      ],
+      "ans": 2,
+      "exp": "High-titre ANCA-positive cases have DAH, RPGN, mononeuritis multiplex that may involve medium vessels, predominant skin lesions and bad prognosis. (Book p505)"
+    },
+    {
+      "id": "MED-C22-38",
+      "sec": "EGPA and PAN",
+      "page": 506,
+      "fmt": "recall",
+      "q": "Which ACR criterion list belongs to EGPA?",
+      "opts": [
+        "Age >50, temporal headache and ESR ≥50",
+        "Weight loss >4 kg, HBV and arteriographic abnormality only",
+        "Oral ulcers plus pathergy only",
+        "Asthma, eosinophilia >10%, mono/polyneuropathy, migratory pulmonary infiltrates, paranasal sinus abnormality and extravascular eosinophils on biopsy"
+      ],
+      "ans": 3,
+      "exp": "ACR criteria for EGPA are asthma, eosinophilia >10%, mono/polyneuropathy, migratory pulmonary infiltrates, paranasal sinus abnormality and extravascular eosinophils on biopsy. (Book p506)"
+    },
+    {
+      "id": "MED-C22-39",
+      "sec": "EGPA and PAN",
+      "page": 506,
+      "fmt": "management",
+      "q": "Which EGPA treatment is printed?",
+      "opts": [
+        "Steroid plus IL-5 antagonist mepolizumab",
+        "Steroid plus antiviral plus plasma exchange for all",
+        "Topical steroid plus PGE2 gel",
+        "Methotrexate first line without steroids"
+      ],
+      "ans": 0,
+      "exp": "EGPA treatment lists steroid plus IL-5 antagonist mepolizumab. (Book p506)"
+    },
+    {
+      "id": "MED-C22-40",
+      "sec": "EGPA and PAN",
+      "page": 506,
+      "fmt": "recall",
+      "q": "Which pathology profile defines PAN on the page?",
+      "opts": [
+        "T-cell mediated variable-vessel disease",
+        "Transmural necrotising inflammation without granuloma, neutrophil predominant, focal segmental necrosis and ANCA negative",
+        "Necrotising granulomatous c-ANCA disease",
+        "IgA immune-complex capillaritis"
+      ],
+      "ans": 1,
+      "exp": "PAN is described as transmural necrotising inflammation without granuloma, neutrophil predominant, focal and segmental necrosis and ANCA negative. (Book p506)"
+    },
+    {
+      "id": "MED-C22-41",
+      "sec": "EGPA and PAN",
+      "page": 506,
+      "fmt": "recall",
+      "q": "Which PAN association is printed as the 30/1 rule?",
+      "opts": [
+        "HLA-B51: 30% Behcet and 1% Takayasu",
+        "Smoking: 30% GPA and 1% EGPA",
+        "Hepatitis B: 30% of PAN cases have HBV and 1% of HBV cases have PAN",
+        "Hepatitis C: 30% cryoglobulinemia and 1% HSP"
+      ],
+      "ans": 2,
+      "exp": "The PAN association note states Hepatitis B 30/1 rule: 30% of PAN cases have hepatitis B and 1% of hepatitis B cases have PAN. (Book p506)"
+    },
+    {
+      "id": "MED-C22-42",
+      "sec": "EGPA and PAN",
+      "page": 506,
+      "fmt": "recall",
+      "q": "Which investigation is associated with PAN aneurysms/microaneurysms?",
+      "opts": [
+        "Indirect immunofluorescence only",
+        "Temporal artery biopsy",
+        "Pathergy test",
+        "Conventional angiography"
+      ],
+      "ans": 3,
+      "exp": "Aneurysms/microaneurysms in PAN are linked to conventional angiography as the investigation. (Book p506)"
+    },
+    {
+      "id": "MED-C22-43",
+      "sec": "EGPA and PAN",
+      "page": 506,
+      "fmt": "recall",
+      "q": "Which systemic manifestation list fits PAN?",
+      "opts": [
+        "Weight loss/fever/myalgia as first constitutional symptom; nodules, ulcers, gangrene; hemoptysis; renal failure with abdominal pain; testicular pain; mononeuritis multiplex",
+        "Saddle nose, recurrent epistaxis and serous otitis media only",
+        "Universal palpable purpura in children below 5",
+        "Aortitis, keratitis and vestibulitis triad"
+      ],
+      "ans": 0,
+      "exp": "PAN systemic manifestations include constitutional symptoms as first symptom, nodules/ulcers/gangrene, hemoptysis, renal failure from renal artery stenosis with abdominal pain, testicular pain and mononeuritis multiplex. (Book p506)"
+    },
+    {
+      "id": "MED-C22-44",
+      "sec": "EGPA and PAN",
+      "page": 507,
+      "fmt": "recall",
+      "q": "Which danger signs are printed for PAN?",
+      "opts": [
+        "Bamboo spine and sacroiliitis",
+        "Abdominal pain from mesenteric vasculitis, renal artery stenosis and CNS vasculitis",
+        "Oral aphthae and pathergy",
+        "Keratosis sicca and no uveitis"
+      ],
+      "ans": 1,
+      "exp": "PAN danger signs are abdominal pain due to mesenteric vasculitis, renal artery stenosis and CNS vasculitis. (Book p507)"
+    },
+    {
+      "id": "MED-C22-45",
+      "sec": "EGPA and PAN",
+      "page": 507,
+      "fmt": "oddoneout",
+      "q": "Which finding argues against a diagnosis of PAN because it reflects capillary involvement?",
+      "opts": [
+        "Renal artery stenosis",
+        "Mononeuritis multiplex",
+        "Diffuse alveolar hemorrhage",
+        "Testicular pain"
+      ],
+      "ans": 2,
+      "exp": "Findings against PAN due to capillary involvement include DAH, RPGN, petechiae, purpura, bulla, ecchymosis, ENT/ocular manifestations, asthma, positive ANCA and cryoglobulinemia. (Book p507)"
+    },
+    {
+      "id": "MED-C22-46",
+      "sec": "EGPA and PAN",
+      "page": 507,
+      "fmt": "recall",
+      "q": "Which item is part of ACR criteria for PAN?",
+      "opts": [
+        "Age of onset below 40 years",
+        "Oral ulceration three times yearly",
+        "ESR ≥50 mm/hr",
+        "Weight loss greater than 4 kg"
+      ],
+      "ans": 3,
+      "exp": "ACR criteria for PAN include weight loss >4 kg, livedo reticularis, testicular pain/tenderness, mono/polyneuropathy, diastolic BP >90, elevated BUN/creatinine, HBV, arteriographic abnormality and polymorphonuclear neutrophils on biopsy. (Book p507)"
+    },
+    {
+      "id": "MED-C22-47",
+      "sec": "EGPA and PAN",
+      "page": 507,
+      "fmt": "recall",
+      "q": "Cutaneous PAN is described how?",
+      "opts": [
+        "Cutaneous involvement with small arteries/arterioles, venules spared and non-progressive",
+        "Capillary venulitis with venules mandatory",
+        "Large-vessel aortitis with pulmonary aneurysm",
+        "Diffuse granulomatous uveitis"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous PAN involves small arteries/arterioles, spares venules and is non-progressive. (Book p507)"
+    },
+    {
+      "id": "MED-C22-48",
+      "sec": "EGPA and PAN",
+      "page": 507,
+      "fmt": "recall",
+      "q": "Which PAN investigation sequence is printed?",
+      "opts": [
+        "Pathergy test first and ELISA DOC",
+        "MR angiogram first investigation and conventional angiography DOC",
+        "Doppler halo sign first and temporal biopsy DOC",
+        "Synovial fluid count first and MRI contraindicated"
+      ],
+      "ans": 1,
+      "exp": "PAN investigation lists MR angiogram as first investigation and conventional angiography as DOC. (Book p507)"
+    },
+    {
+      "id": "MED-C22-49",
+      "sec": "EGPA and PAN",
+      "page": 507,
+      "fmt": "recall",
+      "q": "Which pediatric note is printed for PAN-like disease?",
+      "opts": [
+        "Down syndrome causes PAN",
+        "HSP never mimics PAN",
+        "ADA-2 deficiency in children resembles PAN",
+        "Kawasaki disease always resembles PAN"
+      ],
+      "ans": 2,
+      "exp": "The note states ADA-2 deficiency in children resembles PAN. (Book p507)"
+    },
+    {
+      "id": "MED-C22-50",
+      "sec": "EGPA and PAN",
+      "page": 508,
+      "fmt": "management",
+      "q": "How does the source split PAN treatment by hepatitis B status?",
+      "opts": [
+        "HBV positive: no therapy; HBV negative: antiviral only",
+        "HBV positive: rituximab only; HBV negative: acyclovir",
+        "Both branches: topical steroid only",
+        "HBV positive: steroid plus antiviral plus plasma exchange with good prognosis; HBV negative: steroid plus cyclophosphamide with poor prognosis"
+      ],
+      "ans": 3,
+      "exp": "The treatment flowchart gives hepatitis B positive as steroid, antiviral and plasma exchange with good prognosis, and negative as steroid plus cyclophosphamide with poor prognosis. (Book p508)"
+    },
+    {
+      "id": "MED-C22-51",
+      "sec": "EGPA and PAN",
+      "page": 508,
+      "fmt": "recall",
+      "q": "In the ANCA-vasculitis differential table, which comment is attached to Churg-Strauss syndrome?",
+      "opts": [
+        "Asthma/eosinophilia and prominent peripheral nervous system involvement",
+        "ENT disease usually favors MPA",
+        "Progressive renal failure is commonest in PAN",
+        "Skin purpura is absent in CSS"
+      ],
+      "ans": 0,
+      "exp": "The table comments note asthma and eosinophilia in CSS and peripheral nervous system involvement often prominent in CSS. (Book p508)"
+    },
+    {
+      "id": "MED-C22-52",
+      "sec": "EGPA and PAN",
+      "page": 508,
+      "fmt": "recall",
+      "q": "Which table pattern favors Wegener granulomatosis over PAN?",
+      "opts": [
+        "HBV-positive medium-vessel disease only",
+        "Pulmonary infiltrates/nodules, alveolar hemorrhage and glomerulonephritis are present; ENT disease usually favors WG",
+        "Pulmonary infiltrates absent, glomerulonephritis absent and ENT absent",
+        "Only CNS involvement without airway or renal disease"
+      ],
+      "ans": 1,
+      "exp": "The differential table shows WG with high pulmonary infiltrates/nodules, alveolar hemorrhage, glomerulonephritis and upper airway disease; the comment says ENT disease usually favors WG. (Book p508)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U22-1",
+      "ch": 22,
+      "n": 1,
+      "title": "1. ANCA biology, testing and skin-vessel clinical framework",
+      "sec": "ANCA biology, testing and skin-vessel clinical framework",
+      "guide": "Small-vessel vasculitis splits into immune-complex and ANCA-associated arms.\nANCA targets, antibody-mediated injury, IIF/ELISA patterns and pauci-immune biopsy are kept in sequence.\nCutaneous signs and small-versus-medium-versus-large vessel features then set up GPA/MPA.",
+      "qs": [
+        "MED-C22-01",
+        "MED-C22-02",
+        "MED-C22-03",
+        "MED-C22-04",
+        "MED-C22-05",
+        "MED-C22-06",
+        "MED-C22-07",
+        "MED-C22-08",
+        "MED-C22-09",
+        "MED-C22-10",
+        "MED-C22-11",
+        "MED-C22-12",
+        "MED-C22-13",
+        "MED-C22-14",
+        "MED-C22-15"
+      ]
+    },
+    {
+      "id": "MED-U22-2",
+      "ch": 22,
+      "n": 2,
+      "title": "2. GPA and MPA manifestations, management and classification",
+      "sec": "GPA and MPA manifestations, management and classification",
+      "guide": "GPA pathology, antibody pattern and organ involvement precede CXR/CT notes.\nMPA contrasts with GPA by age, sex, no granuloma, p-ANCA predominance and 100% renal disease.\nInduction, maintenance, plasma exchange and classification scoring are kept as book-study algorithms.",
+      "qs": [
+        "MED-C22-16",
+        "MED-C22-17",
+        "MED-C22-18",
+        "MED-C22-19",
+        "MED-C22-20",
+        "MED-C22-21",
+        "MED-C22-22",
+        "MED-C22-23",
+        "MED-C22-24",
+        "MED-C22-25",
+        "MED-C22-26",
+        "MED-C22-27",
+        "MED-C22-28",
+        "MED-C22-29",
+        "MED-C22-30",
+        "MED-C22-31",
+        "MED-C22-32"
+      ]
+    },
+    {
+      "id": "MED-U22-3",
+      "ch": 22,
+      "n": 3,
+      "title": "3. EGPA and PAN",
+      "sec": "EGPA and PAN",
+      "guide": "Churg-Strauss/EGPA features, phases, criteria and treatment are followed by PAN pathology.\nPAN associations, systemic manifestations, danger signs, exclusion clues, ACR criteria and investigations remain source ordered.\nHBV-based treatment and the ANCA-vasculitis differential table close the chapter.",
+      "qs": [
+        "MED-C22-33",
+        "MED-C22-34",
+        "MED-C22-35",
+        "MED-C22-36",
+        "MED-C22-37",
+        "MED-C22-38",
+        "MED-C22-39",
+        "MED-C22-40",
+        "MED-C22-41",
+        "MED-C22-42",
+        "MED-C22-43",
+        "MED-C22-44",
+        "MED-C22-45",
+        "MED-C22-46",
+        "MED-C22-47",
+        "MED-C22-48",
+        "MED-C22-49",
+        "MED-C22-50",
+        "MED-C22-51",
+        "MED-C22-52"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,1174 @@
-PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 570 questions + 5 rejection controls
+
+Book p383
+  Atrial & Ventricular Enlargement heading → MED-C2-01
+  Atrial enlargement heading → MED-C2-01
+  Right atrial enlargement: abnormal P waves; pathology atrial origin → MED-C2-01
+  Pointed P: P-pulmonale; right atrial enlargement → MED-C2-02
+  Tall and peaked P: COPD → MED-C2-02
+  Rate >100 bpm: atrial tachycardia → MED-C2-03
+  Right atrial enlargement figure: II, III, aVF peaked P panels; V1 panel; full ECG arrows/circles → MED-C2-04
+  Left atrial enlargement heading → MED-C2-05
+  Bifid P: P mitrale → MED-C2-05
+  Left atrial enlargement figure: I, II, aVF, V1 panels and annotated tracing → MED-C2-06
+  Note: corrected QT interval QTc = QT / sqrt(RR) → MED-C2-07
+  Ventricular hypertrophy heading → MED-C2-08
+  LVH: axis aVL (printed 30°) to lead I (0°), leftward → MED-C2-08
+  Leftward axis cause: LVH → MED-C2-09
+  Increased left muscle mass pushes vector left → MED-C2-09
+  LVH: increased positive deflection on left → MED-C2-10
+  Increased negative deflection on right → MED-C2-10
+  LVH ECG caption and circled I/aVL deflections → MED-C2-10
+
+Book p384
+  Sokolow–Lyon lead alternatives: R in V5 or V6 plus S in V1 or V2 → MED-C2-11
+  Sokolow Lyon index: V5 or V6 R + V1 or V2 S >35 mm → MED-C2-12
+  Sokolow Lyon: aVL >11 mm gives LVH → MED-C2-13
+  Secondary ST/T changes due to strain/pressure overload → MED-C2-14
+  Aortic stenosis/chronic HTN → MED-C2-14
+  Leftward-axis cause 2: LBBB → MED-C2-15
+  Right ventricular hypertrophy heading → MED-C2-16
+  RVH axis: III 120° to aVF 90°; rightward → MED-C2-16
+  Rightward axis cause RVH → MED-C2-17
+  V1 R/S >1 → MED-C2-17
+  Secondary ST changes with mitral stenosis + RVH → MED-C2-17
+  RVH ECG caption → MED-C2-17
+  P-pulmonale: II, III, aVF → MED-C2-18
+  Most common COPD → MED-C2-18
+  COPD tracing circled inferior P waves → MED-C2-18
+  COPD hyperinflated lung → MED-C2-19
+  Downward diaphragm push → MED-C2-19
+  Axis shifts to 90° → MED-C2-19
+  90° flowchart: prominent complexes aVF and II → MED-C2-20
+  Absent lead I complexes: lead I sign → MED-C2-20
+  Signs of COPD: narrow QRS → MED-C2-21
+  V1–V6 poor R progression → MED-C2-21
+  P-pulmonale → MED-C2-21
+  Positive lead I sign → MED-C2-21
+
+Book p385
+  Bundle Branch Blocks heading → MED-C2-22
+  RBBB heading → MED-C2-22
+  RVH with RBBB: axis I–aVL leftward → MED-C2-22
+  R/S >1 RVH → MED-C2-22
+  RVH + leftward axis = biventricular hypertrophy → MED-C2-22
+  RVH with RBBB tracing labels R/S and RR′ → MED-C2-22
+  RBBB conduction cartoon → MED-C2-23
+  RBBB morphology: V1 rr′/RR′/rsR′ terminal R′ → MED-C2-23
+  V6 qRS/RS with wide terminal S → MED-C2-23
+  RBBB morphology variants rr′, RR′, rsR′ in V1 and qRS, RS in V6 → MED-C2-24
+  Blocks: RBBB only unifascicular → MED-C2-25
+  RBBB + LAFB/LPFB bifascicular → MED-C2-25
+  LBBB itself bifascicular → MED-C2-25
+  Bifascicular + prolonged PR/Mobitz trifascicular → MED-C2-26
+  LBBB heading → MED-C2-27
+  Axis I–aVL leftward → MED-C2-27
+  LBBB morphology V5, V6, aVL → MED-C2-27
+  LBBB ECG annotations LVH and LBBB → MED-C2-27
+  LBBB conduction cartoons → MED-C2-28
+  V1 W pattern: rS, QS variants → MED-C2-28
+  V6 M pattern: RR′, R, RR′ variants → MED-C2-28
+  LBBB onset intrinsicoid deflection R-peak time normal V1 → MED-C2-29
+  V6 R-peak time prolonged >0.05 seconds → MED-C2-29
+  Sgarbossa criteria heading → MED-C2-30
+  Purpose: diagnose MI along with LBBB → MED-C2-30
+  ECG findings: V1/V2 concordant depression → MED-C2-31
+  V1/V2 discordant elevation → MED-C2-31
+  V5/V6 concordant elevation → MED-C2-31
+  Sgarbossa figure 1: concordant STE >1 mm with positive QRS → MED-C2-32
+  Figure 2: concordant STD >1 mm V1–V3 → MED-C2-32
+  Figure 3: J point → MED-C2-33
+  Height of discordant STE 5 mm → MED-C2-33
+  Height preceding S 15 mm → MED-C2-33
+  STE/S >25% (>0.25) → MED-C2-33
+  5/15 =0.33 (>0.25) → MED-C2-33
+
+Book p386
+  Criteria: V5/V6 concordant STE >1 mm → MED-C2-34
+  V1/V2 discordant STE >5 mm → MED-C2-34
+  V1/V2 concordant STD >1 mm → MED-C2-34
+  V1–V3 panels: LBBB no MI discordant ST → MED-C2-35
+  LBBB + acute MI concordant ST ≥1 mm → MED-C2-35
+  Abnormally discordant ST ≥5 mm → MED-C2-35
+  V5/V6/II/III/aVF panels: discordant ST no MI vs concordant ≥1 mm acute MI → MED-C2-36
+  Bottom ECG left caption acute MI with LBBB concordant elevation >1 mm; arrows/circle → MED-C2-37
+  Bottom ECG right caption discordant elevation >5 mm; arrows/circles → MED-C2-37
+
+Book p387
+  Cardiac terminologies & Pacemaker potential heading → MED-C3-01
+  Chronotropy: heart rate → MED-C3-01
+  Chronotropy regulator SA node/pacemaker potential → MED-C3-01
+  Inotropy: myocardial contractility → MED-C3-02
+  Inotropy regulator ventricle Lt > Rt/ventricular potential → MED-C3-02
+  Dromotropy: conduction velocity → MED-C3-03
+  Bathmotropy: excitability → MED-C3-03
+  Lusitropy: relaxation → MED-C3-03
+  These three regulator cells are dashes → MED-C3-03
+  HF flowchart heading → MED-C3-04
+  Reduced EF HFrEF: EF <50% → MED-C3-04
+  Preserved EF HFpEF: EF >50% → MED-C3-04
+  Older classification: systolic impaired contractility → MED-C3-05
+  Diastolic impaired relaxation → MED-C3-05
+  Systolic always associated with diastolic dysfunction → MED-C3-06
+  Diastolic ± systolic dysfunction → MED-C3-06
+  Older table Rx options + systolic → MED-C3-07
+  No drugs to Rx diastolic → MED-C3-07
+  Pacemaker potential heading → MED-C3-08
+  Automaticity: ability to beat without stimuli → MED-C3-08
+  Automaticity SA node pacemaker maximum potential → MED-C3-09
+  Automaticity distal AV node → MED-C3-10
+  Atrial cells → MED-C3-10
+  His–Purkinje system → MED-C3-10
+  Ventricular myocardium → MED-C3-10
+  Phases: pacemaker potential → MED-C3-11
+  TOK transient outward K closure → MED-C3-11
+  IRK inward rectifying K opening → MED-C3-11
+  HCN hyperpolarization activated cyclic nucleotide channel → MED-C3-12
+  Funny currents opening → MED-C3-12
+
+Book p388
+  HCN continuation Na channels → MED-C3-13
+  Sites rods cones olfactory epithelium → MED-C3-13
+  Blocked by ivabradine → MED-C3-13
+  Pacemaker potential T-type calcium opening → MED-C3-14
+  Depolarisation L-type calcium → MED-C3-14
+  Repolarisation L-type calcium closure → MED-C3-14
+  DRK delayed rectifier K opening → MED-C3-14
+  PM potential graph membrane potential mV vs time s → MED-C3-15
+  Pacemaker slope and threshold → MED-C3-15
+  Upstroke increased Ca permeability/influx → MED-C3-15
+  Downstroke increased K and decreased Ca permeability/K efflux → MED-C3-15
+  PM graph numbered call-out 1 maximum negative potential → MED-C3-16
+  Call-out 2 threshold transition → MED-C3-16
+  Call-out 3 upstroke → MED-C3-16
+  Call-out 4 repolarisation → MED-C3-16
+  PM graph voltage scale −60 to +20 mV → MED-C3-17
+  PM graph 800 msec cycle label → MED-C3-17
+  Heart Blocks heading → MED-C3-18
+  Bradyarrhythmias heading → MED-C3-18
+  Impulse pathway diagram sinus node atria AV node His bundle branches ventricles → MED-C3-18
+  Diagram dense fibrous tissues between atria/ventricles → MED-C3-19
+  AV conduction system bracket AV node His bundle branches → MED-C3-19
+  Levels of block SA node → MED-C3-20
+  Sinoatrial block → MED-C3-20
+  AV block 1°,2°,3° → MED-C3-20
+  Fascicular block → MED-C3-20
+  Unifascicular LAFB LPFB RBBB → MED-C3-21
+  Bifascicular RBBB + LAFB/LPFB or LBBB → MED-C3-21
+  Trifascicular bifascicular + increased PR → MED-C3-21
+  Sinus node dysfunction absent P waves → MED-C3-22
+  Figure A sinus node dysfunction flat continuation → MED-C3-22
+  Compensation junctional rhythm no P → MED-C3-23
+  Atrial rhythm abnormal P → MED-C3-23
+  Both 40–60 bpm → MED-C3-23
+  Junctional escape strip caption → MED-C3-23
+
+Book p389
+  Causes flowchart extrinsic/intrinsic → MED-C3-24
+  Extrinsic hyperkalemia → MED-C3-24
+  Extrinsic drugs digoxin beta blockers calcium channel blockers → MED-C3-25
+  Increased PaCO2 hypercapnia: obstructive sleep apnoea syndrome → MED-C3-26
+  Hypothermia → MED-C3-27
+  Hypothyroidism myxedema coma → MED-C3-27
+  Increased ICT bradycardia hypertension reflex → MED-C3-27
+  Intrinsic sick sinus syndrome → MED-C3-28
+  SA nodal dysfunction figure hyperkalemia circled waves → MED-C3-29
+  Junctional rhythm circled complexes → MED-C3-29
+  Sinus bradycardia heading → MED-C3-30
+  Regular rhythm → MED-C3-30
+  Rate 40–60 bpm → MED-C3-30
+  Normal P → MED-C3-30
+  Extrinsic much more than intrinsic → MED-C3-30
+  Sinus bradycardia strip → MED-C3-30
+  Other ECG manifestations heading → MED-C3-31
+  Sinus pause/arrest diagram distance A > B → MED-C3-31
+  Sinoatrial exit block diagram distance A = B → MED-C3-31
+  Manifestation 3 tachy-brady syndrome and multi-lead strip → MED-C3-32
+  Idioventricular rhythm IVR → wide QRS → MED-C3-33
+  IVR HR up to 40 → MED-C3-34
+  AIVR HR 40–100 → MED-C3-34
+  AIVR marker successful reperfusion → MED-C3-35
+  VT HR >100 → MED-C3-36
+  AIVR figure circled broad complexes → MED-C3-37
+  AV block absent QRS complexes → MED-C3-38
+  Figure B AV block continuing P waves → MED-C3-38
+
+Book p390
+  First Degree AV Block heading/features → MED-C4-01
+  Causes beta blocker → MED-C4-01
+  Calcium channel blockers → MED-C4-01
+  Clinical features asymptomatic → MED-C4-02
+  Soft S1 → MED-C4-02
+  Cannon waves JVP → MED-C4-02
+  Management no Rx needed → MED-C4-03
+  Very good prognosis → MED-C4-03
+  ECG delay atria to ventricle → MED-C4-04
+  Prolonged PR interval → MED-C4-04
+  Printed PR >100 ms → MED-C4-04
+  AV block prolonged PR tracing → MED-C4-04
+  Regular sinus rhythm → MED-C4-05
+  Normal P and QRS → MED-C4-05
+  Every P followed by QRS → MED-C4-05
+  Unusually prolonged PR → MED-C4-06
+  P superimposed on T → MED-C4-06
+  Synchronous atrial and ventricular contraction → MED-C4-06
+  Decreased cardiac output arm → MED-C4-06
+  JVP cannon waves arm → MED-C4-06
+  Lead II P arrows figure → MED-C4-06
+  Second Degree AV Block heading → MED-C4-07
+  Classification Mobitz Type I/Type II → MED-C4-07
+  Advanced second degree criteria Mobitz not met → MED-C4-07
+  Mobitz at a time only 1 beat missed → MED-C4-08
+  At least 2 beats conducted → MED-C4-08
+
+Book p391
+  Top Mobitz I strip 3 beats conducted 1 missed → MED-C4-09
+  Advanced second degree strip >1 beat missed → MED-C4-10
+  Second strip <2 beats conducted → MED-C4-10
+  Advanced second degree caption → MED-C4-10
+  Mobitz table pathology: I AV nodal / II infranodal → MED-C4-11
+  QRS: I narrow / II wide → MED-C4-11
+  Etiology: I benign / II malignant → MED-C4-11
+  PR progressively prolonged I Wenckebach → MED-C4-12
+  PR constant II → MED-C4-12
+  RR progressively shortens I → MED-C4-13
+  RR constant II → MED-C4-13
+  Presentation I asymptomatic → MED-C4-14
+  II symptomatic hemodynamic compromise → MED-C4-14
+  II Stokes Adams syndrome → MED-C4-14
+  Associated MI I inferior IWMI → MED-C4-15
+  Associated MI II anterior AWMI → MED-C4-15
+  Causes row Type I dash → MED-C4-16
+  Type II Sx/SLE/increased K/amyloid → MED-C4-16
+  Site-of-block cartoons I at AV node → MED-C4-17
+  II below AV node at His/bundle levels → MED-C4-17
+  ECG row I progressive PR/drop arrow → MED-C4-18
+  ECG row II constant PR/drop star and P arrows → MED-C4-18
+  AWMI infranodal block → MED-C4-19
+  Rare due to structural heart disease → MED-C4-19
+  IWMI AV nodal block → MED-C4-19
+  Management asymptomatic Type I >II observe → MED-C4-20
+  Symptomatic permanent pacemaker → MED-C4-20
+
+Book p392
+  Upper tracing ST elevation II III aVF circles → MED-C4-21
+  Mobitz second degree AV block stars/bracket → MED-C4-21
+  IWMI with Mobitz AV block caption → MED-C4-21
+  Second ECG IWMI advanced second degree 2:1 caption → MED-C4-22
+  Alternating nonconducted P stars → MED-C4-22
+  Third Degree AV Block heading → MED-C4-23
+  Block anywhere conduction system → MED-C4-23
+  No impulse atria to ventricle → MED-C4-23
+  AV dissociation → MED-C4-23
+  ECG regular P atrial → MED-C4-24
+  Regular QRS junctional/ventricular → MED-C4-24
+  P/QRS unrelated → MED-C4-24
+  Diagram atria AV node bundle branch ventricle → MED-C4-25
+  AV node escape junctional narrow QRS → MED-C4-25
+  Ventricular escape wide QRS → MED-C4-25
+  Complete AV dissociation strip arrows mark independent P waves → MED-C4-26
+
+Book p393
+  Causes flowchart complete AV block → MED-C4-27
+  VT with complete AV dissociation → MED-C4-27
+  AIVR with complete AV dissociation → MED-C4-27
+  Causes flowchart junctional tachycardia with complete dissociation → MED-C4-28
+  Junctional rhythm with complete dissociation → MED-C4-28
+  IWMI with 3° AV block ECG caption → MED-C4-29
+  Inferior leads and independent P arrows on rhythm strip → MED-C4-29
+  Summary row first degree → MED-C4-30
+  Summary row Type I second degree → MED-C4-31
+  Summary row Type II second degree broad/notched QRS intermittent drop → MED-C4-32
+  Summary advanced 2:1 second degree row → MED-C4-33
+  Summary advanced 3:1 second degree row → MED-C4-34
+  Summary complete AV block AV nodal narrow row → MED-C4-35
+  Summary complete AV block infranodal broad row → MED-C4-35
+
+Book p394
+  Tachyarrhythmias definition: HR > 100 bpm → MED-C5-01
+  QRS complex morphological classification: Narrow vs Wide → MED-C5-01
+  Three fundamental causes of tachycardia: enhanced automaticity, triggered activity, and re-entry → MED-C5-02
+  Ventricular origin above bifurcation of Bundle of His: Purkinje fibers -> B/L synchronous activation → MED-C5-03
+  Ventricular origin above His bifurcation: normal/narrow QRS complex (< 0.12 s) → MED-C5-03
+  Ventricular origin below bifurcation of Bundle of His: ventricular myocardium activates ventricles → MED-C5-04
+  Ventricular origin below His bifurcation: wide QRS complex (≥ 0.16 s) → MED-C5-04
+  Supraventricular origin associated with bundle branch block: QRS complex 0.12 - 0.16 s → MED-C5-05
+  Classification triad: SVT (narrow QRS), SVT with conduction block (slightly wide QRS), VT (wide QRS) → MED-C5-06
+  Enhanced automaticity normal mechanism: sinus tachycardia, normal sinus impulse originating from SA node → MED-C5-07
+
+Book p395
+  Abnormal automaticity: atrial tachycardia (focal/multifocal, has all 3 mechanisms), junctional tachycardia, ischemic VT → MED-C5-08
+  Paroxysmal atrial tachycardia with AV block: associated with digoxin toxicity, precipitated by hypokalemia, due to enhanced automaticity → MED-C5-09
+  Triggered activity early afterdepolarisation (EAD): Long QT Syndrome leading to Torsades de pointes → MED-C5-10
+  Triggered activity late afterdepolarisation (DAD): catecholamine sensitive arrhythmias d/t sympathetic activity and increased intracellular Ca2+ → MED-C5-11
+  DAD arrhythmias: RVOT VT, LVOT VT, and sympathetic VT → MED-C5-11
+  Re-entry mechanism: precipitated by PAC or PVC; highly responsive to DC cardioversion → MED-C5-12
+  Micro re-entry circuits: AVNRT, Brugada Syndrome, Atrial Fibrillation → MED-C5-13
+  Macro re-entry circuits: AVRT, Atrial Flutter, Scar VT → MED-C5-13
+  Causes based on QRS: wide QRS VT occurs only in structurally abnormal heart (prior infarction); narrow QRS encompasses automaticity and re-entry → MED-C5-14
+
+Book p396
+  Interpreting narrow QRS tachycardia: HR = 1500 / 10 = 150 bpm; every QRS preceded by P confirming SAN/atrial origin → MED-C5-15
+  Relative frequency hierarchy: m/c SVT: Sinus tachycardia > AF > AVNRT > AVRT > SART → MED-C5-16
+  AVNRT features: can occur in structurally normal heart, female predominance (F > M), good prognosis → MED-C5-17
+  Normal dual AV nodal pathways: fast pathway conducts rapidly with longer refractory period; slow pathway conducts slowly with shorter refractory period where impulse dissolves → MED-C5-18
+  AVNRT mechanism: premature SV impulse enters recovered slow pathway while fast pathway is refractory, splits to ventricles and retrograde fast pathway → MED-C5-19
+  AVNRT retrograde atrial activation produces inverted P waves in inferior leads II, III, and aVF → MED-C5-20
+
+Book p397
+  Simultaneous P & QRS formation in 2/3rd of AVNRT patients: P wave buried in QRS complex → MED-C5-21
+  Rate limits: sinus rhythm cannot maintain rate > 180 bpm; rate 200 - 250 bpm favors AVNRT >> AVRT → MED-C5-22
+  Typical AVNRT (95%, PAC trigger, Slow-Fast pathway) vs Atypical AVNRT (5%, PVC trigger, Fast-Slow pathway, D/d Atrial tachycardia) → MED-C5-23
+  Atypical AVNRT conduction limb: enters fast pathway and exits slow pathway → MED-C5-24
+
+Book p398
+  Typical AVNRT in 1/3rd patients: pseudo S wave (just outside QRS), pseudo r' wave (on r wave), pseudo Q wave (just before Q) → MED-C5-25
+  Pharmacological conversion of AVNRT to normal sinus rhythm by intravenous adenosine → MED-C5-26
+  AVRT clinical features: rarer than AVNRT, fundamentally associated with WPW syndrome → MED-C5-27
+  AVRT types: Orthodromic (entry AV node, exit Bundle of Kent, narrow QRS) vs Antidromic (entry Bundle of Kent, exit AV node, wide QRS) → MED-C5-28
+
+Book p399
+  Orthodromic AVRT mechanism: well timed PAC enters AV node slowly, ventricles activate synchronously, retrograde conduction via bypass tract re-enters AV node → MED-C5-29
+  Orthodromic AVRT ECG: RP interval 2 boxes ~ 80 - 100 ms (AVRT > AVNRT), P falls just outside QRS → MED-C5-30
+  AVNRT vs AVRT comparison: synchronous activation (+ in AVNRT, - in AVRT), P wave absent in 2/3rd vs outside QRS, structural heart disease absent vs WPW → MED-C5-31
+  RP intervals: AVNRT < 80 ms vs AVRT 80 - 100 ms; both categorized as short RP, long PR tachycardias → MED-C5-32
+  AVNRT hemodynamic stability (stable) vs AVRT (stable/unstable); micro re-entry circuit in AVNRT vs macro re-entry circuit in AVRT → MED-C5-33
+  Interval pattern note: Atrial tachycardia exhibits long RP and short PR interval → MED-C5-34
+
+Book p400
+  Management goal: AVNRT, AVRT, and Atrial tachycardia operate through AV node -> management is AV nodal block → MED-C5-35
+  Hemodynamically unstable narrow-complex tachycardia management: synchronised DC cardioversion → MED-C5-36
+  Hemodynamically stable DOC for AV nodal block: Adenosine (blocks PAC in AVNRT/AVRT, decreases HR in atrial tachycardia) → MED-C5-37
+  Adenosine pharmacokinetics: T1/2 = 6 s, arm to arm circulation = 15 s, arm to heart circulation = 7.5 s → MED-C5-38
+  Adenosine route and dose: 6 mg through brachial vein (repeat 12 mg + 12 mg, max 30 mg) followed by immediate saline flush → MED-C5-39
+  Adenosine administration procedure: 45° supine position -> administer adenosine -> shift to prone position + raise arm overhead → MED-C5-40
+  Safety protocol: have defibrillator ready; in AVRT, adenosine can induce AF -> VT -> VF -> Death → MED-C5-41
+  Adenosine contraindication in COPD / bronchial asthma (causes bronchospasm); alternatives: verapamil 2.5-5 mg IV (max 15 mg), metoprolol 5 mg IV (max 15 mg), esmolol → MED-C5-42
+  Special indication: Heart failure with AVNRT is managed with Digoxin → MED-C5-43
+
+Book p401
+  Atrial tachycardia features: structurally abnormal heart, chronic tachyarrhythmia-related cardiomyopathy, follows all 3 mechanisms (m/c enhanced automaticity) → MED-C5-44
+  Atrial tachycardia management: rate reduction to sinus rhythm via beta-blockers (metoprolol) or CCB (verapamil); antiarrhythmics on failure → MED-C5-45
+  Unifocal AT ECG: narrow QRS, rate ~150 bpm, regular rhythm, uniform abnormal P wave, long RP / short PR, and warm-up & cool-down phenomenon → MED-C5-46
+  Multifocal AT (MAT): irregular RR interval with ≥ 3 P wave morphologies; m/c cause COPD/theophylline; management: stop theophylline -> beta-blocker/CCB → MED-C5-47
+  Atrial tachycardia with AV block: association with digoxin toxicity → MED-C5-48
+
+Book p402
+  AT with AV block ECG: normal P wave + buried P wave, irregular RR intervals, conducted vs missed P waves in 2:1 block → MED-C5-49
+  Junctional tachyarrhythmia: absent P waves at HR ~100 - 110 bpm favors Junctional >> AVNRT/AVRT → MED-C5-50
+  Summary algorithm for irregular RR narrow tachycardias: MAT, Atrial flutter with variable block, Atrial fibrillation, and focal AT with varying AV block → MED-C5-51
+  Summary algorithm for regular RR narrow tachycardias: P wave present (sinus tachycardia, flutter 2:1, SVT short RP vs long RP) vs P wave absent (AVNRT, junctional) → MED-C5-52
+
+Book p403
+  Epidemiology of AF: 2nd most common sustained cardiac arrhythmia (1st is sinus tachycardia) → MED-C6-01
+  Mechanical dysfunction in AF: chaotic, disorganised, ineffective contractions causing blood stasis, embolism, and stroke → MED-C6-02
+  Risk factors for AF: Age and Hypertension → MED-C6-03
+  Anatomical site for thrombus formation in AF: Appendages (most common site) → MED-C6-04
+  ECG findings in AF: narrow QRS tachycardia, variable ventricular rate with atrial rate 300 - 600 bpm, irregular RR intervals, fibrillatory waves → MED-C6-05
+  Classification: Paroxysmal (self terminating < 48 hrs or cardioverted < 7 days), Persistent (> 7 days), and Long standing persistent (> 1 year) → MED-C6-06
+  Permanent AF: LA dilated > 4 cm in structural heart disease; management strategy is rate control (accepting AF) → MED-C6-07
+  Valvular AF (mitral stenosis or prosthetic valve + AF) versus Non-valvular AF (all other AF) → MED-C6-08
+  Systemic etiology of AF: OSAS, CKD, Psoriasis, Thyroid disease, Alcohol, cardiopulmonary disease → MED-C6-09
+  Electrolyte disturbances triggering AF: Hypokalemia and Hypomagnesemia → MED-C6-10
+  Symptom pathophysiology in AF: Angina (increased demand), Syncope (decreased circulation), Dyspnea (decreased cardiac output), Palpitation (increased HR) → MED-C6-11
+
+Book p404
+  Heart rate calculation in irregular AF: 6 second marker rule (HR = number of QRS complexes in 30 large boxes x 10) → MED-C6-12
+  Differential diagnosis of AF on ECG: MAT (≥ 3 P wave morphologies) and Atrial tachycardia with AV block (conducted + missed P waves) → MED-C6-13
+  Treatment in hemodynamically unstable or WPW with AF: synchronised DC cardioversion (Start 100 J -> max 200 J) → MED-C6-14
+  Initial evaluation of stable AF: 2D Echo of LA; dilated LA > 4 cm directs to rate control → MED-C6-15
+  Stable AF with normal LA and onset < 48 hours: no risk of embolism -> direct rhythm control → MED-C6-16
+  Stable AF with onset > 48 hours or unknown: risk of embolism (+) -> Trans Esophageal Echo (TEE) / Cardiac CT to detect clot → MED-C6-17
+  TEE clot positive protocol: 3 weeks of anticoagulants -> pharmacological rhythm control → MED-C6-18
+  Post-cardioversion protocol: 4 weeks of anticoagulants -> assess CHA2DS2-VASc score -> +/- long-term anticoagulation → MED-C6-19
+
+Book p405
+  Class Ic antiarrhythmics for AF rhythm control: Flecainide and Propafenone → MED-C6-20
+  Rhythm control DOC hierarchy: Vernakalant (DOC, not available in India) and Ibutilide (2nd DOC, m/c used: 1 mg IV over 10 mins) → MED-C6-21
+  DOC for AF rhythm control in structurally abnormal heart: Amiodarone (150 mg IV bolus or 5 mg/kg over 1h -> 1 mg/kg over 8h -> 0.5 mg/kg over 16h) → MED-C6-22
+  Rate control drugs: Verapamil (5-10 mg over 2 min, max 20 mg), Esmolol (500 mcg/kg over 1 min), Propranolol (1 mg over 2 min, max 5 mg), Digoxin (failed LV) → MED-C6-23
+  CHA2DS2-VASc scoring components: CHF (1), HTN (1), Age ≥ 75 (2), DM (1), Stroke/TIA/embolus (2), Vascular disease (1), Age 65-75 (1), Female sex (1) → MED-C6-24
+  CHA2DS2-VASc decision thresholds: Score ≥ 2 requires anticoagulants; Score = 1 ± anticoagulants → MED-C6-25
+  Bleeding risk assessment tool: HAS-BLED score in AF → MED-C6-26
+  Anticoagulants: DOC is Dabigatran; exception is Valvular AF and AF + ESRD where DOC is Warfarin → MED-C6-27
+  Pills in the pocket technique: oral flecainide + beta-blockers in paroxysmal AF taken at symptom onset → MED-C6-28
+
+Book p406
+  Typical atrial flutter: counterclockwise right atrial circuit, upward left atrial activation, inverted flutter waves in lead II → MED-C6-29
+  Reverse typical atrial flutter: clockwise right atrial circuit, downward left atrial activation, upright flutter waves in lead II → MED-C6-30
+  Atrial flutter features: lateral wall of right atrium (90%), onset < 1 week of open heart surgery, sawtooth ECG appearance → MED-C6-31
+  Atrial flutter management: DC Cardioversion is TOC (25 - 50 J), Ibutilide → MED-C6-32
+  Definitive catheter ablation for atrial flutter: targeting the cavotricuspid isthmus → MED-C6-33
+
+Book p407
+  Pathophysiology of broad QRS tachyarrhythmias: ventricular impulse -> cell-to-cell transmission -> broad QRS → MED-C7-01
+  Ventricular rhythms and rate ranges: IVT (15-40 bpm), AIVT (40-100 bpm), VT (> 100 bpm: monomorphic vs polymorphic) → MED-C7-02
+  Accelerated Idioventricular Tachycardia (AIVT) clinical marker: indicates successful thrombolysis / reperfusion → MED-C7-03
+  Etiology of wide QRS: QRS > 0.16 s indicates VT; QRS 0.12 - 0.16 s indicates SVT with BBB or Antidromic AVRT → MED-C7-04
+  VPC mechanism: extrasystole, premature discharge from ventricle occurring earlier than next anticipated sinus beat → MED-C7-05
+  Criteria for VPC: not preceded by P wave, very wide QRS, and ST/T changes in opposite direction (discordance) → MED-C7-06
+  Coupling interval in unifocal VPC: distance between VPC and preceding QRS is always constant → MED-C7-07
+  Compensatory pause in VPC: distance between 2 sinus impulses across VPC equals distance across normal beat (2 x RR interval) → MED-C7-08
+  R on T phenomenon: VPC lies on previous T wave, creating risk for ventricular fibrillation → MED-C7-09
+
+Book p408
+  Parasystole definition: VPCs with different / variable coupling intervals → MED-C7-10
+  Multifocal VPCs: premature ventricular complexes presenting with different morphologies → MED-C7-11
+  Interpolated VPC: premature ventricular complex sandwiched between two consecutive sinus impulses → MED-C7-12
+  Frequency patterns: Ventricular bigeminy (VPB after every sinus beat), trigeminy (VPB after every 2 sinus beats), couplet (2 VPBs in a row) → MED-C7-13
+  Definition of Ventricular Tachycardia: ≥ 3 VPBs in a row + HR > 100 bpm → MED-C7-14
+  Clinical features and management of VPCs: asymptomatic or palpitations; no treatment required; prophylactic antiarrhythmics contraindicated without significant VT → MED-C7-15
+
+Book p409
+  Warning signs for VPCs: increased frequency, multifocal, bigeminy/couplet, first episode > 40 yrs, not affected by exercise, parasystole, LV dysfunction → MED-C7-16
+  Monomorphic VT ECG criteria: wide QRS tachycardia (> 0.16 s), rate > 200 bpm, all complexes look alike → MED-C7-17
+  Sustained monomorphic VT definition: sustained duration ≥ 30 seconds → MED-C7-18
+  12-lead ECG panel demonstrating the transition from sustained monomorphic VT to ventricular bigeminy → MED-C7-19
+
+Book p410
+  Cardinal features of VT: fusion beats (features of both sinus + VPC) and capture beats (point where sinus takes over) → MED-C7-20
+  Brugada sign: distance from onset of QRS complex to nadir of S wave > 100 ms → MED-C7-21
+  Josephson's sign: characteristic notching at the nadir of the S wave → MED-C7-22
+  Precordial concordance: completely positive or completely negative concordance in chest leads indicating VT → MED-C7-23
+  Brugada criteria for VT: RS complex absent or > 100 ms; no P waves / AV dissociation → MED-C7-24
+  Stable VT management in structural heart disease: Amiodarone (150 mg IV bolus x 10 min, then 1 mg/min x 6h, then 0.5 mg/min x 18h) → MED-C7-25
+  Stable VT management without structural heart disease: Procainamide DOC (20-50 mg/min, max 17 mg/kg); Lignocaine post-MI without structural disease; Sotalol → MED-C7-26
+  Unstable VT management: synchronized DC cardioversion 100 - 360 J → MED-C7-27
+
+Book p411
+  Polymorphic VT: multiple different complexes with changing polarities; usually associated with prolonged QT (Torsades de pointes) → MED-C7-28
+  Acquired causes of TdP: MI, decreased K+, decreased Ca2+, decreased Mg2+, hypothermia, drugs (Class Ia, Ic, III; erythromycin; terfenadine) → MED-C7-29
+  Congenital etiology of TdP: congenital Long QT syndrome → MED-C7-30
+  Differential note on Short QT causes: Hypercalcemia, Digoxin, Hyperthermia → MED-C7-31
+  Management of TdP: immediate defibrillation -> 2 g IV MgSO4 over 10 min -> rhythm stabilization (beta-blockers for congenital, treat cause for acquired) → MED-C7-32
+  Cardioversion vs Defibrillation mechanism: current discharge at patient QRS vs machine discharge; T-wave vulnerable period (20 - 30 ms) risking VF → MED-C7-33
+
+Book p412
+  Synchronized cardioversion (syncs with patient rhythm) vs unsynchronized defibrillation (no need to connect patient rhythm) → MED-C7-34
+  Paddle placement positions: right side of upper sternum below clavicle and apex of heart (left of nipple) → MED-C7-35
+  Energy settings across arrhythmias: start with 50 J; A. Flutter (50 J), Monomorphic VT (100 J), A. Fib (100 - 200 J), Polymorphic VT (200 J) → MED-C7-36
+
+Book p413
+  WPW syndrome demographic profile: Male predominance (M > F) → MED-C8-01
+  Classic ECG findings of WPW: normal P wave, short PR interval, delta waves, near normal QRS, secondary ST & T wave changes → MED-C8-02
+  WPW mechanism: aberrant accessory pathway known as the Bundle of Kent causing ventricular pre-excitation → MED-C8-03
+  Concealed vs Manifest WPW: 12-lead ECG (normal vs abnormal) and antegrade conduction (via AV node vs via Bundle of Kent) → MED-C8-04
+  Arrhythmias triggered by PAC in concealed and manifest WPW: Orthodromic AVRT and Atrial Fibrillation → MED-C8-05
+  Prognosis of Atrial Fibrillation: bad prognosis in concealed WPW responding only to DC cardioversion; better prognosis in manifest WPW d/t early diagnosis → MED-C8-06
+
+Book p414
+  WPW anatomical classification: Left sided WPW is Type A (most common) → MED-C8-07
+  Left-sided WPW (Type A): small delta wave, conduction Lt -> Rt, positive tall R wave and delta wave in lead V1 → MED-C8-08
+  Right-sided WPW (Type B): large delta wave, conduction Rt -> Lt, negative R wave and delta wave in lead V1 → MED-C8-09
+  Vector differentiation of Type A vs Type B: left-to-right vs right-to-left conduction and delta wave size → MED-C8-10
+  Manifest WPW activation sequence: Bundle of Kent causes short PR and delta wave; AV node catches up to produce near normal QRS complex → MED-C8-11
+  Concealed WPW management: AVRT treated with Adenosine and EP referral; A.fib treated with synchronised DC cardioversion → MED-C8-12
+  Manifest WPW management: Early diagnosis managed definitively by catheter ablation (definitive Rx) → MED-C8-13
+  Post-conversion finding in manifest WPW: termination of AVRT or A.fib reveals sinus rhythm + delta wave, followed by electrophysiologist referral → MED-C8-14
+
+Book p415
+  The ACS flowchart links rupture/erosion with critical fibrin-rich thrombosis to STEMI; incomplete platelet-rich thrombosis leads to NSTEMI. → MED-C9-01
+  The ‘Types of plaque’ arm is explicitly divided into vulnerable and non-vulnerable plaque in the pathophysiology diagram. → MED-C9-02
+  Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side. → MED-C9-03
+  The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries. → MED-C9-04
+  Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP. → MED-C9-05
+  The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death. → MED-C9-06
+  Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X. → MED-C9-07
+
+Book p416
+  O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure. → MED-C9-08
+  Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia. → MED-C9-09
+  Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki. → MED-C9-10
+  The R/F list begins with 1. Family history, 2. Degree of calcification and 3. Lifestyle: physical inactivity before smoking as the most crucial preventable cause. → MED-C9-11
+  Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors. → MED-C9-12
+  The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased. → MED-C9-13
+  The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL. → MED-C9-14
+  Hypertension is listed with alters vessel architecture, endothelial dysfunction and LVH increasing myocardial O2 demand. → MED-C9-15
+  Diabetes (centripetal obesity with increased lipolysis and insulin resistance), Age 40–50 years and Gender F greater than M are listed after hyperlipidaemia. → MED-C9-16
+  Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant. → MED-C9-17
+
+Book p417
+  Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction. → MED-C9-18
+  Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state. → MED-C9-19
+  The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis. → MED-C9-20
+  The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’ → MED-C9-21
+  Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4. → MED-C9-22
+  The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%. → MED-C9-23
+  The page notes malnutrition-inflammation-atherosclerosis with protein malnutrition increasing CRP under the lifestyle modifications block. → MED-C9-24
+
+Book p418
+  In the diagram, >70% plaque with symptoms leads to angiography/stenting; the asymptomatic branch is labelled ACS. A roughly 20–30% plaque may rupture and cause MI. → MED-C9-25
+  Chronic stable angina is exertional chest tightness/squeezing/burning behind or left of mediastinum, can radiate C8–T4, lasts <20 min, and responds well to SL/oral NTG; >30 min suggests ACS. → MED-C9-26
+  Treadmill testing is indicated in chronic stable angina and asymptomatic risk-factor patients; rest symptoms, aortic stenosis and HOCM are contraindications. → MED-C9-27
+  Positive treadmill test: 2 mm horizontal/downsloping ST segment before 6 minutes/before achieving maximum HR, followed by angiography. → MED-C9-28
+  The presentation block states radiation may involve any dermatome from C8 to T4. → MED-C9-29
+
+Book p419
+  MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation. → MED-C9-30
+  FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction. → MED-C9-31
+  Electron beam CT is listed to quantify cardiac calcification in the miscellaneous points. → MED-C9-32
+  The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions. → MED-C9-33
+  MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection. → MED-C9-34
+  After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line. → MED-C9-35
+  The table lists 1st line nitrates vasodilation with ↑HR ↓BP limitation tolerance, beta-blockers ↓pump function ↓HR ↓BP prolonging life post MI, and 2nd line CCBs ↓pump function plus vasodilation ↓HR ↓BP. → MED-C9-36
+  Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT. → MED-C9-37
+  Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator. → MED-C9-38
+
+Book p420
+  The stenting note lists abciximab, eptifibatide and tirofiban as GP IIb–IIIa inhibitors and favours tacrolimus/paclitaxel drug-eluting over bare-metal stents. → MED-C9-39
+  Prinzmetal angina is rest angina, lasts 5–15 min, has transient ST elevation and normal angiography; beta-blockers are to be avoided. → MED-C9-40
+  Kingmaker segment is stated to be the ST segment: end of J point to onset of T wave. → MED-C9-41
+  Systolic current from subepicardial/transmural injury flows toward injured myocardium and produces ST elevation (MI or pericarditis); subendocardial diastolic current flows away and produces non-localising ST depression. → MED-C9-42
+  The diagrams contrast non-concave/convex ST elevation in MI with concave/saddle-shaped elevation in pericarditis. → MED-C9-43
+  The diagram labels PR interval, ST interval, TP interval, QT interval and RR interval with calibration 0.04 s =40 ms and 0.20 s =200 ms. → MED-C9-44
+
+Book p421
+  Listed alternatives are Prinzmetal angina, hyperkalaemia > hypokalaemia, LBBB, benign early repolarisation and LV aneurysm. → MED-C9-45
+  Convex and coved morphologies are labelled ACS; horizontal/plateau is ‘ACS unless proven otherwise’; oblique is <30% ACS and concave <15% ACS. → MED-C9-46
+  Significant V2–V3 elevation is ≥2.5 mm if <40 years, ≥2 mm if >40 years, and ≥1.5 mm in females; reciprocal changes must be present in the source's MI diagnosis note. → MED-C9-47
+  The sequence progresses from hyperacute T wave to hyperacute T waves with ST elevation, then pathological Q/decreasing R and further ST/T changes over hours to days. → MED-C9-48
+  The illustrated tracing is captioned ST elevation with reciprocal changes and marks a high lateral MI pattern. → MED-C9-49
+  The page marks normal ST elevation at the transient zone in V2–V3 without pathological reciprocal changes. → MED-C9-50
+
+Book p422
+  Benign early repolarisation has ST elevation and J-point hook effect; PR depression supports pericarditis instead. → MED-C9-51
+  The pericarditis block gives clinical features/acute illness, global concave upward ST elevation, PR depression and no reciprocal changes. → MED-C9-52
+  Hypothermia is labelled with an Osborne wave. The page also illustrates post-DC-cardioversion tracing and Takotsubo cardiomyopathy. → MED-C9-53
+  Takotsubo cardiomyopathy is labelled catecholamine-induced cardiac failure/broken-heart syndrome and most common in middle-aged females. → MED-C9-54
+  The printed differential says BER has no PR depression; pericarditis has PR depression, global concave elevation and no reciprocal changes. → MED-C9-55
+
+Book p423
+  The summary panel lists LVH, LBBB, acute pericarditis, pseudo-infarction pattern (hyperkalaemia), acute anteroseptal MI, acute anterolateral MI and Brugada syndrome. → MED-C9-56
+  The summary labels horizontal ST depression ‘probable ischemia’; sloping ST is strain-related and scoop-shaped ST is digoxin-related. → MED-C9-57
+  The ‘scoop’ example is explicitly labelled digoxin related; morphology must be interpreted in clinical context. → MED-C9-58
+  The final tracing is captioned ‘de Winter T waves: evolves to MI.’ → MED-C9-59
+
+Book p424
+  The page contrasts normal myocardium, tall/peaked T waves in subendocardial ischaemia, and deep symmetrical inversion in transmural ischaemia. → MED-C9-60
+  Deep symmetrical T inversion is labelled transmural ischaemia; tall/peaked T waves are subendocardial ischaemia. → MED-C9-61
+  The lower paired ECGs show hyperacute T waves progressing to STEMI. → MED-C9-62
+  The note beneath the strip states ‘U waves: Hypokalemia.’ → MED-C9-63
+  The page presents serial ST-depression changes at 60, 90 and 120 minutes before its T-wave panels. → MED-C9-64
+
+Book p425
+  Right coronary circulation is linked to IWMI, PWMI and RVMI; left circulation is linked to AWMI, septal MI and LWMI. → MED-C10-01
+  Surface list: anterior sternocostal = RV; inferior diaphragmatic = RV+LV; posterior = LA. → MED-C10-02
+  Dominance is based on the artery supplying posterior interventricular sulcus/PDA: RCA gives right dominance (85%); LCx gives left dominance (15%). → MED-C10-03
+  Inferior leads are II, III, aVF; RV free-wall V3R/V4R/V5R and posterior V7/V8/V9 are not represented on a standard 12-lead ECG; lateral V5/V6 show reciprocal changes. → MED-C10-04
+  Right free-wall leads are V3R–V5R. The source separately lists V7–V9 for posterior wall assessment. → MED-C10-05
+
+Book p426
+  The RCA is shown arising in the right AV sulcus. → MED-C10-06
+  The SA nodal branch section states proximal RCA occlusion can cause sinus bradycardia; bradycardia can also reflect vagal stimulation or nodal ischaemia. → MED-C10-07
+  Atrial branches run in the right atrioventricular sulcus; proximal RCA occlusion is linked to atrial arrhythmias. → MED-C10-08
+  Occlusion relation to acute marginal artery: proximal means RVMI always positive and poorer prognosis; distal means RVMI always negative. → MED-C10-09
+  The acute marginal artery supplies the RV free wall. → MED-C10-10
+  The page's RVMI triangle is hypotension, clear lung fields and raised JVP, with management IV fluids. → MED-C10-11
+  RCA occlusion flowchart: right dominant proximal → RVMI+IWMI±PWMI; right dominant distal → IWMI±PWMI. Left-dominant distal RCA causes no MI. → MED-C10-12
+  IWMI list includes SA node/AV node/complete heart block, atrial tachycardia, RVMI, and posteromedial papillary muscle rupture causing secondary MR. → MED-C10-13
+
+Book p427
+  For RCA: ST↑ in II/III/aVF, reciprocal V1/V5/V6; III > II and ST↓ aVL > aVR. LCx instead has II > III. → MED-C10-14
+  Proximal RCA: ST depression in V1 discordant to V2/V3 is marked RVMI positive. ‘Wrap around’ indicates RCA supplies all regions. → MED-C10-15
+  The LCx note lists IWMI+PWMI and ST elevation in II > III; in left dominance, LCx lateral-wall supply may add LWMI. → MED-C10-16
+  The page identifies papillary muscle rupture → secondary MR in post-IWMI PCI with CCF; it notes LV S3, absent murmur, good EF and normal/near-normal ECG. → MED-C10-17
+  LCA branches into LCx and LAD; the LAD site is the left anterior interventricular sulcus. → MED-C10-18
+  LCx/LAD branch map: D1 high lateral wall, S1 septal wall, D2 anterior wall, D3 lateral wall; D=diagonal and S=septal. → MED-C10-19
+  LAD/LCx lead map: anterior V2–V4, lateral V5–V6, high lateral I/aVL, septal V1>>V2, apical V1. → MED-C10-20
+
+Book p428
+  The localisation list proceeds: before D1; between D1 and S1; and below S1 (with branches S1–D2 or D2–D3). → MED-C10-21
+  For anteroseptal high-lateral MI: V2–V4 elevation indicates LAD, V1 elevation indicates above S1, and I/aVL elevation indicates before D1. → MED-C10-22
+  The wrap-around section says V2–V4 elevation is above D2; V1 no elevation is below S1; II/V5/V6 elevation identifies wrap-around. → MED-C10-23
+  The page explicitly labels II, V5 and V6 elevation as wrap-around phenomenon; course enters posterior interventricular sulcus and anastomoses with PDA. → MED-C10-24
+  The source states anterolateral MI has anatomical S1 before D1 and occlusion between S1 and D1. → MED-C10-25
+  The anteroseptal section labels V1 ST elevation as above S1 and I/aVL ST depression as between D1 and S1. → MED-C10-26
+
+Book p429
+  Proximal LCA occlusion: aVR ST elevation, all other leads ST depression, 100% mortality if untreated; immediate PCI is specified. → MED-C10-27
+  AWMI LV involvement includes VT, VF and sudden cardiac death; mechanical complications include external cardiac rupture and septal rupture, plus infra-Hisian blocks. → MED-C10-28
+  The AWMI complication list includes infra-Hisian blocks, in contrast to the nodal problems emphasised in IWMI. → MED-C10-29
+
+Book p430
+  The obsolete scheme maps critical fibrin-rich thrombus to STEMI/STE-ACS and incomplete platelet-rich thrombus to NSTE-ACS; normal enzymes mean unstable angina and raised enzymes NSTEMI. → MED-C11-01
+  The page replaces the older model with myocardial injury ± clinical evidence of myocardial ischaemia. → MED-C11-02
+  Myocardial injury is cardiac troponin T/I with at least one value above the 99th percentile and an acute rise and fall. → MED-C11-03
+  Non-cardiac causes listed include sepsis, subarachnoid haemorrhage, CKD, critical illness and pulmonary embolism. Cardiac causes include myocarditis, Takotsubo, defibrillator shocks, tachyarrhythmia and spasm/embolism/dissection. → MED-C11-04
+  The causes tree lists increased O2 demand from tachyarrhythmia and decreased supply from spasm, embolism or dissection. → MED-C11-05
+
+Book p431
+  Clinical evidence listed: symptoms, new ECG changes, pathological Q waves, imaging evidence of new RWMA, and angiographic evidence of coronary thrombus. → MED-C11-06
+  Type 1 is atherothrombotic occlusion; Type 2 is supply/demand mismatch (ICU patients, severe anaemia); Type 3 sudden cardiac death; Type 4 post-PCI; Type 5 post-CABG. → MED-C11-07
+  The list gives Type 4 as post-percutaneous coronary intervention and Type 5 as post-coronary artery bypass graft. → MED-C11-08
+  The graph note says ultrasensitive troponin assays can detect as low as 0.01 ng/mL of enzyme elevation. → MED-C11-09
+  Rise/fall with acute ischaemia is acute MI; the atherosclerosis/thrombosis arm is Type 1 (plaque rupture/erosion). Without acute ischaemia it is acute injury; stable troponin is chronic injury. → MED-C11-10
+  The stable-troponin branch is chronic myocardial injury and gives structural heart disease and CKD as examples. → MED-C11-11
+
+Book p432
+  The table defines reinfarction within 28 days and recurrence after 28 days. → MED-C11-12
+  Two troponin values are obtained immediately and 3–6 h later; a >20% increase is specified. The table says no role for CPK-MB. → MED-C11-13
+  Plaque rupture is 60–70% (most common), associated with men and elevated cholesterol; erosion 30–40% is associated with younger females and smoking. → MED-C11-14
+  Vulnerable plaque features: thin cap, necrotic lipid core >40%, increased macrophages, reduced smooth-muscle cell content and spotty calcification. → MED-C11-15
+  Hibernating myocardium is chronic, viable and has reduced function due to low perfusion; MRI should be used for evaluation. → MED-C11-16
+  Stunned myocardium is acute/post-ischaemic: restoring perfusion for a few hours precedes low function in viable tissue. → MED-C11-17
+
+Book p433
+  NSTEMI features listed are rest angina >20 min, new-onset severe/crescendo angina, ST depression/T inversion and elevated troponin. → MED-C11-18
+  The NSTEMI feature list states TIMI score determines mortality risk. → MED-C11-19
+  Clinical presentation states age 40–50 in India (50–60 outside), females > males in India (reverse outside), vague symptoms in females and absent classic pain in diabetic patients. → MED-C11-20
+  The lower ECG caption identifies significant ST depression as NSTEMI; the comparison example is non-significant ST depression. → MED-C11-21
+
+Book p434
+  The table gives right arm/shoulder radiation 4.7 (0.9–12.0), both arms 4.1, exertion 2.4, left arm 2.3, diaphoresis 2.0, nausea/vomiting 1.9 and pressure 1.3. → MED-C11-22
+  ACA note: new chest pain in middle-aged/elderly, night presentation or being forced awake and unable to sleep is ‘cardiac unless proved otherwise.’ → MED-C11-23
+  Angina equivalents listed are dyspnoea, fatigue, diaphoresis and atypical-site pain. → MED-C11-24
+  Management continuum: pre-CCU morphine/sedation 30% one-month mortality; CCU beta-blocker/defibrillator 15%; reperfusion with thrombolysis/PCI 5%. → MED-C11-25
+  The source places thrombolysis and percutaneous intervention under reperfusion (since 1975). → MED-C11-26
+
+Book p435
+  STEMI salient feature: acute total occlusion due to plaque rupture (most common). → MED-C11-27
+  The artery list ranks LAD most common, then RCA, then LCx. → MED-C11-28
+  Golden hours are the first 6 h. After 6 h from pain onset, only one-sixth of myocardium remains viable in the source. → MED-C11-29
+  Before 6 h myocardium can be salvaged; after 6 h the stated aims are pain reduction and prevention of electrical/mechanical complications. → MED-C11-30
+  The graph says opening the artery is the primary goal (PCI/lysis) and time to treatment is critical for mortality/salvage. → MED-C11-31
+
+Book p436
+  Determinants listed are collaterals, myocardial oxygen demand and ischaemic preconditioning. → MED-C11-32
+  The source specifically notes reopening the artery is more important than the mode of reperfusion. → MED-C11-33
+  The flowchart sets first medical contact <10 min and defines it as medical/paramedical staff able to take/interpret ECG and use a defibrillator. → MED-C11-34
+  If a 24-hour PCI centre is available and diagnosis-to-wire crossing <60 min, wire crossing is to be done within 90 min (+30 min transfer). → MED-C11-35
+  If timely transfer is not possible, thrombolysis within 10 min with tenecteplase or reteplase is shown, then transfer to a PCI centre. → MED-C11-36
+  ST resolution >70% is successful and leads to pharmaco-invasive PCI; <70% is unsuccessful and calls for rescue/emergency PCI. → MED-C11-37
+  Successful lysis is followed by PCI within 2–24 hours to prevent recurrence of thrombus formation. → MED-C11-38
+
+Book p437
+  Streptokinase is non-specific, 50% potent, antigenic, has lowest ICH risk and is 1.5 million U in 100 mL NS over 1 hour. → MED-C11-39
+  Tenecteplase is specific (max), 75% potent, half-life 10–12 min, dose 0.5 mg/kg, and highest fibrin selectivity. → MED-C11-40
+  Reteplase is specific, 80% potent and dosed 10 U ×2, 30 min apart. → MED-C11-41
+  Alteplase is specific, 75% potent and has a very short 4–8 minute half-life. → MED-C11-42
+  The source states effect within 1 h of ACS: thrombolysis = PCI, while PCI is otherwise more superior and mandatory after thrombolysis. → MED-C11-43
+  Thrombolysis benefits > risk within 6–12 h, risk > benefit after 12 h; pre-hospital lysis is noted to have a great outcome. → MED-C11-44
+  Loading-dose section gives aspirin 325 mg, non-enteric chewable; statins: atorvastatin 40–80 mg or rosuvastatin 20–40 mg. → MED-C11-45
+  Note: RVMI has hypotension, clear lung and raised JVP; IWMI has bradycardia due to proximal occlusion and V1–V2 discordance. → MED-C11-46
+
+Book p438
+  For thrombolysis: clopidogrel 300 mg adult dose; age >75 receives 75 mg, with blood-cholesterol monitoring at 3–6 months. → MED-C11-47
+  PCI section: aspirin/statin same dose; ticagrelor 180 mg best, clopidogrel 600 mg, prasugrel 60 mg. → MED-C11-48
+  PCI aim is restore normal epicardial coronary flow (TIMI 3) and attain normal microvascular flow (MPG 3). → MED-C11-49
+  Post-lysis hypotension + bradycardia indicates vessels reopening; hypertension + tachycardia suggests noncompliance/allergic reaction. → MED-C11-50
+  Low BP causes listed: hypovolaemia → assess IVC; RVMI (IWMI) → IV fluids; cardiogenic shock → intra-aortic balloon pump. → MED-C11-51
+  Prevention of recurrence: post-thrombolysis raw areas exposed → anticoagulants. LMWH: enoxaparin 30 mg bolus plus 1 mg/kg SC BD until revascularisation/8 days; UFH also listed. → MED-C11-52
+  Young thrombus responds better if lysed within 1–2 h; if primary PCI cannot be performed after STEMI diagnosis, fibrinolytic therapy is recommended within 12 h. → MED-C11-53
+
+Book p439
+  GP IIb–IIIa inhibitors are abciximab, tirofiban, eptifibatide; use is downstream bailout in cath lab if no TIMI 3/MPG 3 flow or high thrombus burden. → MED-C11-54
+  ACE inhibitors/beta-blockers have survival advantage if started within first 24 h, but are avoided with heart-failure signs/low-output state. → MED-C11-55
+  Available PCI centre branch lists aspirin 325 mg, ticagrelor 180 mg or clopidogrel 600 mg, rosuvastatin 40 mg, then cath lab. → MED-C11-56
+  No-centre branch: thrombolysis with clopidogrel 300 mg + tenecteplase 0.5 mg/kg, repeat ECG after 60–90 min, then enoxaparin 30 mg IV and pharmaco-invasive/rescue PCI. → MED-C11-57
+  CCU/discharge box: rosuvastatin 20 mg lifelong, aspirin 75 mg lifelong, clopidogrel 75 mg ×1 year. → MED-C11-58
+  Contraindications include intracranial haemorrhage/structural mass, recent stroke, bleeding disorder/aortic dissection, recent severe head/facial trauma, intracranial/intraspinal surgery, uncontrolled HTN, and recent streptokinase use. → MED-C11-59
+
+Book p440
+  Hemodynamic complication: RVMI hypotension presents with raised JVP and clear lungs; management is IV fluids. → MED-C11-60
+  Acute LVF is linked to 25% myocardial damage and proximal LAD lesion; cardiogenic shock to 40% damage/proximal LAD. → MED-C11-61
+  Electrical complications: RCA lesion → atrial arrhythmias; proximal LAD lesion → VT/VF. → MED-C11-62
+  Septal rupture is described as rare, after 3–5 days, with pain, new LLSB murmur and thrill. → MED-C11-63
+  Free-wall rupture causes electromechanical dissociation/PEA, no BP/no pulse and tamponade, with poor prognosis. → MED-C11-64
+  Acute MR: RCA involvement affects posteromedial papillary muscle and presents as acute pulmonary oedema. → MED-C11-65
+  NSTEMI pathogenesis is plaque rupture in elderly/comorbid people with critical/subtotal occlusion, ST/T changes, platelet-rich thrombus and decreased fibrin, so no thrombolytic role. → MED-C11-66
+
+Book p441
+  Clinical presentation on p441 describes increasing nature/duration (>20 min)/frequency and pain not relieved by nitrates/rest. → MED-C11-67
+  Treatment: O2 if SpO2<90%, aspirin 325 mg chewable non-enteric, rosuvastatin 40 mg, SL nitrate 5 mg repeated three times, morphine, PCI within 24 h (high risk within 2 h). → MED-C11-68
+  Landmark changes list intervention-based guideline: PCI TOC; angiography within 24 h (high risk 2 h), with P2Y12 inhibitor in cath lab. → MED-C11-69
+  Peri-interventional anticoagulation: enoxaparin 0.5 mg/kg bolus until cath lab. → MED-C11-70
+  Cath-lab loading options: prasugrel 60 mg, ticagrelor 180 mg, or clopidogrel 600 mg. → MED-C11-71
+  After discharge: aspirin 75 mg lifelong, rosuvastatin 20 mg lifelong, and ticagrelor 90 mg BD ×1 y or clopidogrel 75 mg OD ×1 y or prasugrel 10 mg ×1 y (best). → MED-C11-72
+
+Book p442
+  The CTD map marks rheumatoid arthritis as most common and Sjogren syndrome as second most common. → MED-C12-01
+  Sjogren syndrome is described as a multisystem autoimmune inflammatory CTD in middle-aged females (40–60) with F:M = 9:1. → MED-C12-02
+  Secondary Sjogren has CTD association, ranked RA > SLE > IMD; primary has no such association. → MED-C12-03
+  Classification by pathology divides glandular (50%) and extraglandular (50%); extraglandular disease is multisystem and 15% is severe/life-threatening. → MED-C12-04
+  The clinical hallmark is dry eye and dry mouth; thyroid is noted as the simple endocrine organ involved and Sjogren can be an extrahepatic manifestation of HCV. → MED-C12-05
+
+Book p443
+  HCV extrahepatic manifestations listed are cutaneous lichen planus, porphyria cutanea tarda, cryoglobulinaemia, Sjogren syndrome and MPGN. → MED-C12-06
+  Genetic/environmental factors → autoantibodies → autoimmune lymphocytic exocrinopathy (periductal/perivascular) → ductal epithelial activation → the listed sicca symptoms. → MED-C12-07
+  Genetic factors list HLA-DR3; the note identifies SLE as another disease associated with HLA-DR3. → MED-C12-08
+  The inflammation line states T cell (Th1 > Th2) > B cell. → MED-C12-09
+  IL-18-positive macrophages are linked to salivary-gland enlargement/painless parotid enlargement. → MED-C12-10
+  Antibodies list anti-M3 (muscarinic) → cholinergic agonist cevimeline for treatment, and anti-α-fodrin. → MED-C12-11
+
+Book p444
+  Histopathology states minor salivary gland is gold standard and shows focal lymphocytic sialadenitis with T cells; major gland has benign lymphoepithelial lesions with B cells. → MED-C12-12
+  The major-gland B-cell infiltration panel is labelled CD20; the T-cell infiltration panel is CD3. → MED-C12-13
+  Minor salivary gland biopsy is gold standard and demonstrates focal lymphocytic sialadenitis with T-cell infiltration. → MED-C12-14
+  Dry eyes are non-specific and may result from aqueous plus lipid/meibomian-gland dysfunction, producing irritation, gritty/sandy sensation and glare. → MED-C12-15
+  Dry-eye diagnosis: Schirmer <5 mm after 5 min; tear-film breakup time <10 s; ocular staining may use lissamine green or fluorescein. → MED-C12-16
+  The source marks tear-film breakup time <10 seconds as dry eye. → MED-C12-17
+  The source calls dry eyes non-specific and dry mouth more specific. → MED-C12-18
+  Dry mouth manifestations: unable to swallow without water, chewing difficulty and dental caries. → MED-C12-19
+
+Book p445
+  Continuation lists oral thrush, altered taste, and 25% salivary-gland swelling. → MED-C12-20
+  The source gives 25% salivary-gland swelling, usually bilateral painless symmetric. → MED-C12-21
+  Childhood Sjogren is described as recurrent acute parotitis due to duct blockage. → MED-C12-22
+  Asymmetric painful swelling with palpable nodules signals B-cell lymphoma (extranodal marginal-zone B-cell lymphoma), associated with cryoglobulinaemia and low C3/C4. → MED-C12-23
+  Predictors listed: low complement (C3/C4), anti-Ro/La (SS-A/SS-B), positive RF and cryoglobulins. → MED-C12-24
+  Positive anti-Ro/La in diagnosed Sjogren indicates extraglandular disease, poorer prognosis, B-cell lymphoma risk and salivary-gland enlargement; ~5% may develop disease after 10–15 years. → MED-C12-25
+  Manifestations include fatigue and arthralgia/arthritis with non-erosive Jaccoud arthropathy. → MED-C12-26
+
+Book p446
+  Severe manifestations (15%) include CNS ganglionopathy from dorsal-root-ganglion involvement, causing truncal ataxia. → MED-C12-27
+  Lung: risk ILD; most common NSIP. Most characteristic is lymphocytic interstitial pneumonia (LIP) with GGO, cysts and nodules. → MED-C12-28
+  LIP is marked most characteristic and has GGO, cyst and nodules. → MED-C12-29
+  Renal: tubulointerstitial kidney disease causes distal RTA and has minor CKD risk. → MED-C12-30
+  Raynaud may precede sicca in one-third and may produce critical limb ischaemia. → MED-C12-31
+  Small-vessel vasculitis is most common and hallmark lesion is palpable purpura. Medium-vessel disease is severe, with ulcers/gangrene, MPGN and neuropathy. → MED-C12-32
+  The source describes severe medium-vessel vasculitis with ulcer/gangrene and association with MPGN and neuropathy. → MED-C12-33
+  Lymphadenopathy prompts exclusion of lymphoma; indicators include persistent asymmetric painful nodular parotid enlargement with nodes, cryoglobulinaemia, low C3/C4, high Ro/La, purpura and leukopenia. → MED-C12-34
+
+Book p447
+  Lymphocytic interstitial pneumonitis is associated with Sjogren and HIV. → MED-C12-35
+  Cysts in lung: LIP, Langerhans-cell histiocytosis and lymphangioleiomyomatosis. → MED-C12-36
+  ANA is a CTD screening test and is positive in 85% with Sjogren; if positive, ANA profile can detect anti-Ro/La. → MED-C12-37
+  Anti-Ro is positive in 50%; anti-La has no independent value despite 33% positivity. → MED-C12-38
+  Fine speckled is most common, metaphase cells negative, and suggests anti-Ro/La/Sjogren. Dense fine speckled has DFS-positive metaphase cells and rules out CTD. → MED-C12-39
+  Minor salivary gland biopsy is IOC/gold standard and shows focal lymphocytic sialadenitis (T cell). → MED-C12-40
+  Sialography note: unstimulated salivary flow rate <1.5 mL/15 min; it is marked ‘not done now.’ Ultrasound shows loss of gland homogeneity. → MED-C12-41
+
+Book p448
+  Score 3: histopathology focus score ≥1/mm² and anti-Ro/SS-A. Score 1: ocular staining/Rose Bengal, Schirmer ≤5 mm/5 min, and salivary flow <0.1 mL/min. → MED-C12-42
+  Rules: at least one symptom of ocular/oral dryness plus total score ≥4. → MED-C12-43
+  Exclusions include prior head/neck radiation, active HCV, AIDS, sarcoidosis, amyloidosis, GVHD and IgG4-related disease. → MED-C12-44
+  High anti-Ro/La in pregnancy increases congenital heart block risk (2–5%). The source contrasts offspring risk for CTD in Sjogren male versus SLE female contexts. → MED-C12-45
+  Differential: sarcoidosis = ILD + uveitis + hilar adenopathy; IgG4-RD = storiform fibrosis + plasmacytic infiltrate + pancreatitis. → MED-C12-46
+  Treatment: glandular saliva substitute/cevimeline/artificial tears. Fatigue/arthralgia uses low-dose steroid <7.5 mg/day + NSAIDs + HCQ; severe life-threatening disease uses high-dose steroid + immunosuppressant/MMF. → MED-C12-47
+
+Book p449
+  The spectrum lists type 1 autoimmune pancreatitis, Mikulicz disease, Riedel thyroiditis, mediastinal fibrosis, primary sclerosing cholangitis and periaortitis; p450 calls type 1 AIP the most common manifestation. → MED-C13-01
+  IgG4 is listed as least common (<5%). → MED-C13-02
+  IgG4 is anti-inflammatory, blocks IgG–C1q binding, does not fix complement, and is a bispecific antibody with two antigen-binding sites that binds/sequesters antigen. → MED-C13-03
+  Histology lists IgG4-predominant lymphoplasmacytic infiltrate, tumour-like lesions, storiform fibrosis, obliterative phlebitis and mild eosinophilia. → MED-C13-04
+  Antigenic stimuli → IgG4 plasma-lymphocytic infiltrate → myofibroblast activation → TGF-β/PDGF → fibrosis; TGF-β is called most potent fibrogenic cytokine. → MED-C13-05
+  The page's note pairs obliterative phlebitis with IgG4-related disease and Behcet disease. → MED-C13-06
+  Clinical features: M>F, age 40–70 years, subacute onset; symptoms weight loss and myalgia. → MED-C13-07
+  Features against IgG4-RD: fever, arthritis, neutrophil involvement and granuloma. Mild eosinophilia appears among histology/atopy-allergy history. → MED-C13-08
+
+Book p450
+  Type 1 autoimmune pancreatitis is most common in IgG4-RD and presents with obstructive jaundice; ERCP is IOC and CT shows sausage pancreas/homogeneous enhancement. → MED-C13-09
+  AIP is associated with endocrine insufficiency → type 3c DM and exocrine insufficiency → malabsorption. → MED-C13-10
+  Salivary involvement is bilateral painless submandibular enlargement with minimal sicca symptoms. → MED-C13-11
+  Orbital/periorbital lesions include orbital inflammatory pseudotumours; lacrimal enlargement/dacryoadenitis is marked most common orbital manifestation. → MED-C13-12
+  Minor CNS manifestations are lymphocytic hypophysitis (postpartum women with ↑ICT) and pachymeningitis without parenchymal involvement. → MED-C13-13
+  Tubulointerstitial disease is most common renal manifestation, with minimal CKD risk and no renal tubular acidosis; membranous nephropathy is glomerular involvement. → MED-C13-14
+
+Book p451
+  The organ list continues with bile duct: primary sclerosing cholangitis. → MED-C13-15
+  Lung: non-specific interstitial pneumonia (NSIP) and thickening of bronchovascular bundle. → MED-C13-16
+  Aorta manifestation is periaortitis, associated with paravertebral mass. → MED-C13-17
+  The page notes membranonephropathy manifestation of IgG4 disease → low complements. → MED-C13-18
+  RCD 2020 criteria show pathologic/histologic features + serology + clinical features; serum IgG4 correlates with activity and is elevated in 40% cases. → MED-C13-19
+  Other findings: IgG4/IgG ratio is a better marker. → MED-C13-20
+  Mikulicz disease is enlargement of parotid, submandibular and lacrimal gland; history includes chronic sinusitis/nasal obstruction with eosinophilia. → MED-C13-21
+  Steroids are first line with good response within two weeks but relapse risk; rituximab is the steroid-sparing agent to prevent relapse. → MED-C13-22
+  Comparison: IgG4 has increased salivary enlargement, decreased sicca, good steroid response and relapse risk; Sjogren has decreased enlargement, increased sicca and sicca symptoms not steroid responsive. → MED-C13-23
+
+Book p452
+  SLE is described as a disease of women of reproductive age (20–40) with 9:1 female predominance. → MED-C14-01
+  The source lists positive concordance in >40% of identical twins and strong family history. → MED-C14-02
+  Lupus nephritis is shown in adults 50–60% and childhood SLE 100%. → MED-C14-03
+  Postmenopausal SLE has good prognosis, no CNS/renal symptoms, sicca/serositis/musculoskeletal symptoms, anti-Ro positive, anti-dsDNA negative and normal complements. → MED-C14-04
+  The bottom notes state male SLE has poor prognosis; active SLE markers are anti-dsDNA positive and low complements. → MED-C14-05
+
+Book p453
+  Genetic/environmental causes lead to defective clearance of apoptotic and NETotic debris, triggering immune dysregulation. → MED-C14-06
+  TLR-7 and TLR-9 are labelled pattern-recognition receptors; hydroxychloroquine is drawn inhibiting this step. → MED-C14-07
+  Activated plasmacytoid dendritic cells produce type I interferon/IFNα, identified as the central key pathogenic cytokine; anifrolumab is shown blocking it. → MED-C14-08
+  The diagram depicts Th1, Th2 > Th17; Th2 cytokines IL-4, IL-5 and IL-13 aid B-cell activation. → MED-C14-09
+  BAFF/B-lymphocyte stimulator (BLyS) is shown upregulated in SLE; belimumab inhibits it. → MED-C14-10
+  B cells form immune complexes/type-III hypersensitivity that deposit in glomerulus (GN), synovial cavity (synovitis) and vessels (vasculitis). → MED-C14-11
+
+Book p454
+  HLA factors listed: HLA-DR3 (seen in subacute cutaneous lupus) and HLA-DR2. → MED-C14-12
+  Early complement deficiency affects debris clearance; ranking is C1q > C2 > C4 deficiency. → MED-C14-13
+  Non-HLA factors include increased X-chromosome number → increased risk/IRAK gene, and chromosome 3 → TREX gene. → MED-C14-14
+  Environmental factors include OCP, HRT, UV-B, EBV, silicosis (stimulates pulmonary alveolar macrophage → autoimmune trigger), vitamin-D deficiency and smoking. → MED-C14-15
+  A bracket labels vitamin-D deficiency and smoking as minimal association; the source separately lists OCP, HRT, UV-B, EBV and silicosis. → MED-C14-16
+  OCP and HRT head the environmental-factor list. → MED-C14-17
+  HCQ is drawn over TLR-7/TLR-9; belimumab targets BLyS and anifrolumab blocks type-I interferon signalling in the diagram. → MED-C14-18
+
+Book p455
+  Antibodies can appear before clinical features: SLE 3 years; Sjogren syndrome 10–15 years. → MED-C15-01
+  ANA methodology: ELISA is only for quantitative assessment; IIF/indirect IF on HEp-2 cells, with titre >1:80, is used to look for pattern. → MED-C15-02
+  The flowchart shows IIF (HEp-2) and titre >1:80, then look for pattern. → MED-C15-03
+  Dense fine speckled pattern in mitotic-phase cells has no probable antibody listed and rules out CTD. → MED-C15-04
+  Fine speckled pattern is linked to anti-Ro/La and Sjogren syndrome. → MED-C15-05
+  Coarse speckled patterns include anti-Smith → SLE, anti-U1 RNP → MCTD, and anti-RNA polymerase 3 → systemic sclerosis. → MED-C15-06
+  The coarse-speckled table maps anti-U1 RNP to MCTD. → MED-C15-07
+  Nucleolar pattern with PM/Scl-70 is linked to polymyositis–scleroderma overlap. → MED-C15-08
+  Cytoplasmic pattern with anti-Jo-1 is linked to polymyositis/dermatomyositis (antisynthetase syndrome). → MED-C15-09
+  Homogeneous pattern: anti-dsDNA associates with SLE and antihistone with drug-induced SLE. → MED-C15-10
+  The final row maps centromere pattern to CREST syndrome (scleroderma). → MED-C15-11
+
+Book p456
+  Clinical suspicion → ANA positive → IIF pattern → further evaluation to confirm antibodies, using ANA profile or ENA profile. → MED-C15-12
+  ANA profile: by immunoblot, costly/multiple antibody analysis, done once (no repeat values). ENA profile tests six antibodies. → MED-C15-13
+  ANA positivity chart: 100% MCTD, DILE and type 1 autoimmune hepatitis; 85% Sjogren; 50% IgG4-related disease. In SLE it is positive in 97%. → MED-C15-14
+  The source says RA is the most common multisystem CTD but ANA is not diagnostic. → MED-C15-15
+  DILE features: 100% ANA positive, homogeneous IIF pattern, antihistone antibody positive, and procainamide cause. → MED-C15-16
+  The DILE block lists procainamide as a cause. → MED-C15-17
+  Note: elderly SLE → anti-Ro positive and ANA negative. → MED-C15-18
+
+Book p457
+  Anti-dsDNA: ELISA for titre; Crithidia luciliae (flagella) is a qualitative IIF method marked obsolete. → MED-C15-19
+  Crithidia luciliae (flagella) is specified as qualitative IIF, obsolete. → MED-C15-20
+  Table: anti-dsDNA sensitivity 75% preferred; anti-Smith 25% more specific. → MED-C15-21
+  The source states increased anti-dsDNA titres increase nephritis and vasculitis risk; no prognostic effect is listed for anti-Smith. → MED-C15-22
+  Anti-Ro/La is non-specific in CTD and has no significance in asymptomatic patients. → MED-C15-23
+  Within SLE, anti-Ro/La indicates secondary Sjogren; it is also linked to pregnancy CHB, SCLE/HLA-DR3/photosensitive lesions, good prognosis and lupus myocarditis. → MED-C15-24
+  In pregnancy, anti-Ro/La is linked to 2–5% congenital heart block, increased in female child. → MED-C15-25
+  Anti-Ro/La is associated with SCLE/HLA-DR3/photosensitivity and good prognosis: higher titres → reduced risk of nephritis/vasculitis; it is protective in skin/myocardium and linked to shrinking-lung syndrome. → MED-C15-26
+  APS antibodies are positive in one-third of SLE patients. → MED-C15-27
+  The antibody list identifies anti-RBC antibody in warm-antibody autoimmune haemolytic anaemia. → MED-C15-28
+  Secondary ITP list: SLE, HIV, hepatitis C, H. pylori and RA, with bleeding/anaemia. → MED-C15-29
+  Anti-ribosomal P is specific for psychosis/depression in CNS lupus; anti-glutamate/anti-neuronal antibody is most common in CNS lupus. → MED-C15-30
+  The note names cognitive decline as the most common CNS manifestation in lupus. → MED-C15-31
+  Biomarkers: anti-dsDNA titre, ↓C3/↓C4, and ↑ESR with ↓CRP. → MED-C15-32
+
+Book p491
+  Vasculitis is defined as vessel-wall inflammation, with raised ESR/CRP and ischemia or organ damage. → MED-C21-01
+  The page explicitly notes no gold standard test to diagnose vasculitis and no diagnostic criteria. → MED-C21-02
+  The vasculopathy note uses systemic sclerosis as the example and lists endothelial injury through TGF-beta fibrosis with low ESR/CRP. → MED-C21-03
+  The classification criteria are the revised Chapel Hill consensus 2012 classification and are based on predominantly affected vessel size. → MED-C21-04
+  Large vessels are the aorta and its branches, with temporal/giant-cell arteritis and Takayasu arteritis listed. → MED-C21-05
+  The ANCA-associated list contains GPA, allergic/eosinophilic GPA and microscopic polyangiitis. → MED-C21-06
+  The immune-complex mediated list includes anti-GBM disease, HSP and cryoglobulinemia-associated vasculitis. → MED-C21-07
+
+Book p492
+  HUV is marked by anti-C1q antibody, SLE-overlap features and pathognomonic interface dermatitis. → MED-C21-08
+  The margin note states most common vasculitis: adults temporal/giant-cell arteritis worldwide, children HSP. → MED-C21-09
+  Variable vessel vasculitis consists of Behcet disease and Cogan syndrome in the printed list. → MED-C21-10
+  Single-organ vasculitis examples list skin capillaries/post-capillary venules as cutaneous leukocytoclastic angiitis. → MED-C21-11
+  Among CTD-associated exceptions, RA and Sjogren are bracketed with medium-vessel vasculitis. → MED-C21-12
+  Drug-induced ANCA-associated vasculitis lists hydralazine and propylthiouracil, while penicillins, sulfonamides and thiazides are immune-complex mediated. → MED-C21-13
+  The infection list pairs HCV with cryoglobulinemia-like vasculitis and HBV with PAN-like disease. → MED-C21-14
+
+Book p493
+  Malignancy-related vasculitis is noted to involve small vessels and is associated with lymphoma, hairy-cell leukemia, bladder carcinoma and RCC. → MED-C21-15
+  Both large-vessel diseases have similar histology: transmural inflammation involving intima/media/adventitia, lymphocytes/macrophages, granuloma and few giant cells, seen in 50% cases. → MED-C21-16
+  GCA synonyms are temporal arteritis, cranial arteritis and granulomatous arteritis; vessels are extracranial vessels with internal elastic lamina, sparing intracranial vessels. → MED-C21-17
+  GCA presents after 50 years, mean age of diagnosis is 72 years and the female:male ratio is 2:1. → MED-C21-18
+  The most common artery sequence in GCA is superficial temporal, then vertebral, ophthalmic and posterior ciliary. → MED-C21-19
+  The GCA-PMR syndrome note states PMR symptoms occur in 50% of GCA cases and GCA symptoms occur in 20% of PMR cases. → MED-C21-20
+
+Book p494
+  PMR features are tendinitis/bursitis/enthesitis with early morning pain and stiffness in shoulder, hip and pelvic girdle, ESR >50, and differential diagnosis is late-onset RA. → MED-C21-21
+  PMR pathology is listed as IL-6 predominant inflammation type and IFN-gamma mediated ischemia type. → MED-C21-22
+  Associations include smoking, VZV isolated from biopsy with no role of acyclovir, and genetic HLA DRB1-04/MICA A5 allele. → MED-C21-23
+  Typical GCA headache is new onset, moderate-severe, recurring, unusual type and boring in nature. → MED-C21-24
+  The clinical-features page prints ESR >100 mm/hr and notes ACR >50 mm/hr. → MED-C21-25
+  Jaw claudication due to maxillary artery involvement, along with ophthalmoplegia, is noted as 100% positive predictive value for GCA. → MED-C21-26
+
+Book p495
+  Atypical GCA includes pyrexia of unknown origin in age over 50 years, cervical radiculopathy and recurrent throat pain/cough. → MED-C21-27
+  Temporal artery biopsy is the investigation of choice, and a 4–6 cm long segment is taken to overcome skip lesions. → MED-C21-28
+  Color Doppler is listed with 70% sensitivity and 80% specificity; the halo sign is a hypoechoic area around the temporal artery in longitudinal and transverse sections. → MED-C21-29
+  ACR criteria shown are onset age >50, new localized headache, temporal artery tenderness or decreased pulsations, ESR ≥50 mm/hr and biopsy with transmural inflammation. → MED-C21-30
+  Treatment lists steroids as first line, 40–60 mg/day or 1 mg/kg/day, tapered down. → MED-C21-31
+  Tocilizumab is anti-IL-6 and is indicated for flares, especially common at low-dose steroids with increased ESR. → MED-C21-32
+
+Book p496
+  Takayasu synonyms listed are aortic arch syndrome, nonspecific aortoarteritis, occlusive thromboaortopathy, pulseless disease and middle aortic syndrome. → MED-C21-33
+  Takayasu arteritis presents before 40 years, mean age of diagnosis 24 years, with female:male ratio 9:1. → MED-C21-34
+  The 9:1 note lists Sjogren, SLE, Takayasu, fibromyalgia, chronic fatigue syndrome and primary biliary cirrhosis. → MED-C21-35
+  The note lists pulmonary artery involvement in Takayasu arteritis and Behcet disease. → MED-C21-36
+  Takayasu pathology includes HLA-B52/B67, TLR expression differing by vessel, segmental stenosis more than aneurysm and subclavian artery as the most common vessel. → MED-C21-37
+  Takayasu clinical features include upper-extremity claudication, pulse inequality, unequal arm BP >10 mmHg and abdominal/carotid/aortic/femoral bruits. → MED-C21-38
+
+Book p497
+  Takayasu ACR criteria include onset <40 years, limb claudication, decreased brachial artery pulse, unequal arm BP >10 mmHg, subclavian/aortic bruit and angiographic stenosis. → MED-C21-39
+  MR angiography is IOC for diagnosis and follow-up and gives the best measure of vessel wall thickness. → MED-C21-40
+  Conventional angiography is marked gold standard and done if vessel intervention is planned. → MED-C21-41
+
+Book p498
+  Treatment lists steroids as DOC, tocilizumab and percutaneous transluminal renal angiogram with stenting. → MED-C21-42
+  Takayasu shows F:M 9:1, age <40 years, average onset 25 years and Asian highest incidence; temporal arteritis has visual loss 10–30%, average age 72 and Scandinavian incidence. → MED-C21-43
+  Temporal arteritis has visual loss 10–30%, one-third aorta/major branch involvement, rare renal HTN/claudication and rare need for surgical intervention. → MED-C21-44
+
+Book p499
+  Small-vessel vasculitis is split into immune-complex mediated and ANCA-associated; ANCA-associated examples are GPA, MPA and allergic/eosinophilic GPA. → MED-C22-01
+  ANCA targets are in azurophilic granules of resting neutrophils more than lysosomes of monocytes and include PR3 and MPO. → MED-C22-02
+  The ANCA pathogenesis flowchart starts with infection/LPS, primes neutrophils to express PR3/MPO and proceeds through ANCA, alternate complement activation, degranulation and NETosis. → MED-C22-03
+  NETosis forms neutrophil extracellular traps; ineffective degradation exposes NET components, stimulates ANCA production and attacks primed neutrophils. → MED-C22-04
+
+Book p500
+  The ANCA screening test shown is indirect immunofluorescence. → MED-C22-05
+  The cytoplasmic pattern is anti-PR3; confirmation is by ELISA, producing true c-ANCA positivity. → MED-C22-06
+  True c-ANCA causes are ordered GPA > MPA > renal-limited vasculitis > EGPA. → MED-C22-07
+  True p-ANCA against MPO is ordered renal-limited vasculitis > MPA > EGPA > GPA and includes drug-induced hydralazine, PTU, levamisole-adulterated cocaine and minocycline. → MED-C22-08
+  False p-ANCA causes include autoimmune hepatitis type 1, primary sclerosing cholangitis, RA, IBD, infective endocarditis and cystic fibrosis. → MED-C22-09
+  Biopsy and immunofluorescence of skin are marked most preferred; no deposits indicate pauci-immune disease. → MED-C22-10
+
+Book p501
+  ANCA cutaneous palpable purpura is labelled non-thrombocytopenic palpable purpura and hallmark feature. → MED-C22-11
+  Petechiae are described as non-blanchable pinpoint macules due to capillary inflammation. → MED-C22-12
+  Small-vessel involvement is capillaries and post-capillary venules in superficial capillary dermis with purpura, petechiae, bulla and urticaria. → MED-C22-13
+  Medium-vessel vasculitis involves muscular arteries in the reticular dermis and features nodules, gangrene, mononeuritis multiplex and deep ulcers. → MED-C22-14
+  The page states ANCA titres are a predictor of relapse. → MED-C22-15
+  GPA features include necrotising vasculitis plus fibrinoid necrosis due to neutrophils plus granuloma. → MED-C22-16
+  GPA lists c-ANCA 70% > p-ANCA 25%, age group >40 years, sex M=F and HLA DPB1 04. → MED-C22-17
+
+Book p502
+  GPA major manifestations list upper respiratory tract involvement in 95% with midline nasal deformities, including septal ulcers/crusting/perforation and saddle nose deformity. → MED-C22-18
+  Lower respiratory involvement in GPA is 90%, with thick-walled cavitating nodules and DAH. → MED-C22-19
+  Renal involvement in GPA is 60%; RPGN is type 3 and pauci-immune. → MED-C22-20
+  GPA minor systemic manifestations include joints arthralgia, CNS peripheral neuropathy, skin palpable purpura and ocular scleritis, orbital pseudotumour and rare lacrimal involvement. → MED-C22-21
+
+Book p503
+  The note lists thick-walled cavitating nodules in Wegener granulomatosis, SCC of lung, histoplasmosis and lung abscess. → MED-C22-22
+  MPA is described in elderly 50–65 years, male>female, necrotising vasculitis with fibrinoid necrosis but no granuloma, and p-ANCA > c-ANCA. → MED-C22-23
+  MPA lists lower respiratory 50% DAH, upper respiratory 30% sinusitis and renal 100%, most commonly RPGN type 3. → MED-C22-24
+  MPA minor manifestations are ocular unlikely, joints not significant, skin more common than GPA and CNS minimal neuropathy. → MED-C22-25
+
+Book p504
+  Induction shows methylprednisolone IV 500 mg–1 g for 3 days, then oral 1 mg/kg/day tapering over 2–3 months to 5 mg/day, plus cyclophosphamide as DOC. → MED-C22-26
+  Rituximab is shown as an alternative if unwilling for cyclophosphamide and is used in relapse. → MED-C22-27
+  Minimal disease is treated with steroid plus methotrexate; maintenance is low-dose steroid plus azathioprine. → MED-C22-28
+  Plasma exchange indications are ongoing DAH, serum creatinine >5.5 mg/dL and CNS involvement. → MED-C22-29
+  In the GPA table, cANCA or anti-PR3 ANCA positive scores +5, higher than +3 or +2 items. → MED-C22-30
+
+Book p505
+  For GPA, total score of ≥5 is needed, with sensitivity 93% and specificity 94%. → MED-C22-31
+  The MPA table assigns eosinophil count ≥1×10^9/L a score of -4; pANCA/MPO is +6, pauci-immune GN +3 and fibrosis/ILD +3. → MED-C22-32
+  Churg-Strauss syndrome is AKA eosinophilic granulomatosis with polyangiitis and allergic granulomatosis with polyangiitis. → MED-C22-33
+  EGPA features include necrotising vasculitis, fibrinoid necrosis, extravascular granuloma, eosinophilic disease and predominantly ANCA-negative status; ANCA positivity is bad prognosis. → MED-C22-34
+  The asthmatic phase is seen in adolescents and includes recurrent allergic rhinitis plus asthma and migratory lung infiltrations in CXR. → MED-C22-35
+  The vasculitic phase includes eosinophilic gastroenteritis, eosinophilic myocarditis as the most common cause of death, and severe neuropathy including cranial nerves. → MED-C22-36
+  High-titre ANCA-positive cases have DAH, RPGN, mononeuritis multiplex that may involve medium vessels, predominant skin lesions and bad prognosis. → MED-C22-37
+
+Book p506
+  ACR criteria for EGPA are asthma, eosinophilia >10%, mono/polyneuropathy, migratory pulmonary infiltrates, paranasal sinus abnormality and extravascular eosinophils on biopsy. → MED-C22-38
+  EGPA treatment lists steroid plus IL-5 antagonist mepolizumab. → MED-C22-39
+  PAN is described as transmural necrotising inflammation without granuloma, neutrophil predominant, focal and segmental necrosis and ANCA negative. → MED-C22-40
+  The PAN association note states Hepatitis B 30/1 rule: 30% of PAN cases have hepatitis B and 1% of hepatitis B cases have PAN. → MED-C22-41
+  Aneurysms/microaneurysms in PAN are linked to conventional angiography as the investigation. → MED-C22-42
+  PAN systemic manifestations include constitutional symptoms as first symptom, nodules/ulcers/gangrene, hemoptysis, renal failure from renal artery stenosis with abdominal pain, testicular pain and mononeuritis multiplex. → MED-C22-43
+
+Book p507
+  PAN danger signs are abdominal pain due to mesenteric vasculitis, renal artery stenosis and CNS vasculitis. → MED-C22-44
+  Findings against PAN due to capillary involvement include DAH, RPGN, petechiae, purpura, bulla, ecchymosis, ENT/ocular manifestations, asthma, positive ANCA and cryoglobulinemia. → MED-C22-45
+  ACR criteria for PAN include weight loss >4 kg, livedo reticularis, testicular pain/tenderness, mono/polyneuropathy, diastolic BP >90, elevated BUN/creatinine, HBV, arteriographic abnormality and polymorphonuclear neutrophils on biopsy. → MED-C22-46
+  Cutaneous PAN involves small arteries/arterioles, spares venules and is non-progressive. → MED-C22-47
+  PAN investigation lists MR angiogram as first investigation and conventional angiography as DOC. → MED-C22-48
+  The note states ADA-2 deficiency in children resembles PAN. → MED-C22-49
+
+Book p508
+  The treatment flowchart gives hepatitis B positive as steroid, antiviral and plasma exchange with good prognosis, and negative as steroid plus cyclophosphamide with poor prognosis. → MED-C22-50
+  The table comments note asthma and eosinophilia in CSS and peripheral nervous system involvement often prominent in CSS. → MED-C22-51
+  The differential table shows WG with high pulmonary infiltrates/nodules, alveolar hemorrhage, glomerulonephritis and upper airway disease; the comment says ENT disease usually favors WG. → MED-C22-52
+
+Book p509
+  The comparison table shows ANCA vasculitis is ANCA positive with immune-complex deposits negative, while immune-complex mediated vasculitis is ANCA negative with deposits present. → MED-C23-01
+  The immune-complex mediated biopsy row lists leukocytoclasis with fragmented neutrophils/neutrophilic debris. → MED-C23-02
+  Primary immune-complex mediated small-vessel vasculitis list includes HSP, CAV, HUV with anti-C1q positivity and Goodpasture syndrome. → MED-C23-03
+  Secondary immune-complex mediated vasculitis is listed under SLE, RA, drugs and infections. → MED-C23-04
+  Single-organ vasculitis is cutaneous leukocytoclastic angiitis, involving only skin and AKA hypersensitive vasculitis. → MED-C23-05
+
+Book p510
+  The pathogenesis diagram shows small immune complexes not effectively cleared by RES, leading to complement activation and neutrophil recruitment in small vessels of superficial capillary dermis. → MED-C23-06
+  Cutaneous palpable purpura is explicitly labelled the most characteristic skin lesion. → MED-C23-07
+  The HSP section states AKA IgA vasculitis. → MED-C23-08
+  HSP is most common in children around 5 years, boys; non-thrombocytopenic palpable purpura in a child is HSP unless proven otherwise, symmetrical on extensor lower limbs especially buttocks and occurring in crops. → MED-C23-09
+
+Book p511
+  Joint involvement occurs in 70%, 15% initially present with joint symptoms, and features are KLNNO: knee predominant, large joint, migratory, non-deforming oligoarthritis. → MED-C23-10
+  GIT involvement is 50%; complications include hemorrhage, bowel ischemia, scrotal swelling and intussusception, specifically ileoileal as most dangerous. → MED-C23-11
+  HSP renal involvement is 20–50%, with asymptomatic microhematuria; adults can have type 2 RPGN, ESRD risk and high relapse rate. → MED-C23-12
+  ACR criteria shown are palpable purpura, age at onset <20 years, bowel angina and biopsy with vessel wall granulocytes. → MED-C23-13
+  Treatment is supportive care because HSP is self-limiting with no disease/recurrence treatment; steroids are for severe joint/GIT symptoms or adult HSP with RPGN. → MED-C23-14
+
+Book p512
+  Cryoglobulins are immunoglobulins that precipitate in cold and dissolve on rewarming. → MED-C23-15
+  Cryoglobulinemia pathogenesis shows increased production of immunoglobulins adhering to small vessel surfaces more than medium vessels and is seen in middle-aged elderly females. → MED-C23-16
+  Type 1 cryoglobulinemia is monoclonal IgG/IgM kappa or lambda, RF negative, with multiple myeloma and Waldenstrom macroglobulinemia including IgM and hyperviscosity symptoms. → MED-C23-17
+  Mixed cryoglobulinemia is type 2 plus type 3; type 2 is associated with hepatitis C in 90% and Sjogren/SLE. → MED-C23-18
+  Extrahepatic HCV manifestations listed are porphyria cutanea tarda and lichen planus. → MED-C23-19
+  Cryoglobulinemia manifestations include non-thrombocytopenic palpable purpura, ulcers/gangrene due to medium-vessel involvement in HCV-positive disease, arthralgia similar to SLE, HCV GIT involvement and MPGN. → MED-C23-20
+
+Book p513
+  The neurology note states mononeuritis multiplex is medium vessel and small fibre neuropathy is small vessel. → MED-C23-21
+  The triangle labels Meltzer triad as purpura, arthralgia and myalgia or weakness. → MED-C23-22
+  Investigations list direct immunofluorescence showing IgG/IgM and cryocrit with decreased C3/C4. → MED-C23-23
+  The treatment branch for type 1 high IgM lists PLEX, steroid and cyclophosphamide. → MED-C23-24
+  For type 2/3, HCV positive leads to treating HCV; HCV negative leads to rituximab. → MED-C23-25
+  The bottom note states increased risk of conversion to DLBCL, diffuse large B-cell lymphoma. → MED-C23-26
+
+Book p514
+  Variable vessel vasculitis types are Behcet disease and Cogan syndrome. → MED-C24-01
+  The Behcet section notes it was previously classified under large-vessel vasculitis. → MED-C24-02
+  The comparison table lists Takayasu panarteritis with lymphocyte predominance and granulomas, while Behcet has panarteritis, non-necrotizing inflammation without fibrinoid necrosis/RBC extravasation, panniculitis, obliterative phlebitis, neutrophils and absent granulomas. → MED-C24-03
+  The note states differential diagnosis for obliterative phlebitis is IgG4 disease. → MED-C24-04
+  The arteritis-without-granuloma column lists Behcet disease and MPA; the granuloma column lists large-vessel vasculitis, GPA, EGPA, rheumatoid vasculitis and Cogan syndrome. → MED-C24-05
+  Risk factors list HLA-B51 as associated with Behcet disease, with other HLA-A26, HLA-B27 and HLA-B57. → MED-C24-06
+
+Book p515
+  Pathophysiology is T-cell mediated inflammation, Th1 greater than Th17. → MED-C24-07
+  Factors expressed include ASCA antibody, anti-selenium binding protein, anti-enolase, MICA gene and ER aminopeptidase. → MED-C24-08
+  The note states ASCA antibody is also found in Crohn disease and GIT manifestations are similar. → MED-C24-09
+  Behcet disease most affected age group is 30–50 years, severe disease occurs in young males and it is chronic relapsing multisystem autoimmune disease. → MED-C24-10
+  The clinical manifestations line explicitly states Behcet spares the kidney. → MED-C24-11
+  The note says pulmonary artery vasculitis/aneurysm is seen in Takayasu arteritis and Behcet disease. → MED-C24-12
+  The International criteria column states diagnosis is established by score ≥4. → MED-C24-13
+  The table assigns 2 points each to oral aphthosis, genital aphthosis and ocular lesions. → MED-C24-14
+
+Book p516
+  Oral aphthous ulcers are mandatory/pathognomonic, recurrent ≥3 times/year painful ulcers, commonly at lips, buccal mucosa, tongue and soft palate. → MED-C24-15
+  The page notes to rule out HIV during diagnosis of ulcer. → MED-C24-16
+  Behcet genital ulcers most commonly involve scrotum and labia; they are deep, painful, less recurrent, heal with scarring and spare glans penis/urethra. → MED-C24-17
+  Pathergy test is hypersensitivity to long scratch/intradermal saline injection, oblique skin puncture using a 25-gauge needle, with papule/pustule and erythema after 24–48 hours. → MED-C24-18
+  The pathergy test is described as low sensitivity 60% and high specificity 80%. → MED-C24-19
+  Cutaneous manifestations include all types of skin lesions and list papulopustular lesions as most common. → MED-C24-20
+
+Book p517
+  The note states erythema nodosum in sarcoidosis has all P's except pigmentation. → MED-C24-21
+  Ophthalmic table: characteristic feature is chronic relapsing bilateral panuveitis; Behcet has retinal vasculitis and hypopyon, and chamber involvement PC > AC, while sarcoidosis has AC > PC. → MED-C24-22
+  Behcet joint manifestation is asymmetrical non-erosive oligoarthritis. → MED-C24-23
+  Warning signs include vascular thrombosis, GI involvement resembling Crohn disease, CNS involvement and very rare cardiac involvement. → MED-C24-24
+  CNS involvement is under influence of IL-6 and types listed are vascular, parenchymal and brainstem encephalitis. → MED-C24-25
+  Sweet syndrome is acute febrile neutrophilic dermatosis and is stated to be only seen in Behcet. → MED-C24-26
+  MAGIC syndrome is mouth and genital ulcers with inflamed cartilage, a combination of Behcet disease and relapsing polychondritis. → MED-C24-27
+
+Book p518
+  Diagnosis section states it is a clinical diagnosis. → MED-C24-28
+  Skin lesions are predominantly neutrophilic with cutaneous leukocytoclastic vasculitis; immunoglobulins are mixed infiltrate IgG/IgM/C3. → MED-C24-29
+  The treatment table lists mucocutaneous disease as topical steroid plus PGE2 gel. → MED-C24-30
+  Severe mucocutaneous disease treatment is thalidomide plus methotrexate plus topical steroid. → MED-C24-31
+  Systemic treatment includes oral steroid prednisolone plus methotrexate or MMF; more severe disease uses MMF and less severe uses methotrexate. → MED-C24-32
+  Cogan syndrome age group is 20–30 years. → MED-C24-33
+  The Cogan triad shows aortitis, interstitial keratitis and vestibulitis with sensorineural hearing loss similar to Meniere disease, with less than 2 years shown between ocular and vestibular components. → MED-C24-34
+  Cogan clinical manifestations include fever with systemic manifestations and gaze-induced nystagmus. → MED-C24-35
+  The note says SNHL is also seen in Wegener granulomatosis. → MED-C24-36
+
+Book p519
+  The approach lists articular versus periarticular, inflammatory versus non-inflammatory, axial versus peripheral, acute <6 weeks versus chronic >6 weeks, small versus large joints, upper/lower/combined involvement, symmetrical/asymmetrical involvement and number of joints. → MED-C25-01
+  The number-of-joints branch defines monoarthritis as 1 joint, oligoarthritis 1–4 joints and polyarthritis ≥5 joints. → MED-C25-02
+  Periarticular disease has localized point tenderness, pain away from the joint capsule along tendon/bony prominences and painful active movement against gravity. → MED-C25-03
+  Articular arthritis has deep diffuse pain, pain in the vicinity of the joint, both passive and active painful movements, and additional crepitation/locking/deformity/instability/swelling. → MED-C25-04
+  Inflammatory arthritis has early morning stiffness >45 minutes, relieved with activity and worsened by rest; synovial fluid WBC >2000 cells/µL is best to differentiate inflammatory versus non-inflammatory. → MED-C25-05
+  The note states the structure involved in RA is synovium and in OA is articular cartilage, with joint stiffness worsening with activity. → MED-C25-06
+
+Book p520
+  Types based on predominant joints list peripheral predominant RA as peripheral joints plus C-spine. → MED-C25-07
+  The approach to inflammatory arthritis splits monoarthritis into septic arthritis and acute crystal arthropathy, which then branches to gout and pseudogout. → MED-C25-08
+  The erosive arthritis column includes RA, psoriatic arthritis, chronic crystal arthropathy, CTDs including mixed CTDs and sarcoidosis, multicentric reticulohistiocytosis and Rhupus. → MED-C25-09
+  The non-erosive column includes SLE/SLE-like arthritis, acute rheumatic fever Jaccoud arthropathy, relapsing polychondritis, Behcet disease and acute crystal arthropathies. → MED-C25-10
+  MAGIC syndrome is Behcet disease plus relapsing polychondritis, with mouth and genital ulcers and inflamed cartilage. → MED-C25-11
+
+Book p521
+  Diagnosis of RA is based on duration of symptoms greater than 6 weeks. → MED-C26-01
+  0–3 months is labelled very early rheumatoid arthritis. → MED-C26-02
+  More than 2 years is labelled chronic stabilized rheumatoid arthritis with deformities. → MED-C26-03
+  RA is described as the most common multisystem autoimmune inflammatory CTD with arthritis/arthralgia and chronic inflammatory symmetrical peripheral polyarthritis. → MED-C26-04
+  Upper-limb RA involves PIP, MCP and rarely elbow; spared joints include DIP due to least synovium and 1st CMC. → MED-C26-05
+  RA lower limb involves 5th MTP and rarely knee, spares 1st MTP; axial skeleton involves C1-C2 and spares thoracic, lumbar and sacral vertebrae. → MED-C26-06
+  The page states 40% of RA patients have extra-articular manifestations, with rheumatoid nodule most common. → MED-C26-07
+  The DIP note lists psoriatic arthritis, osteoarthritis as the most common arthritis, multicentric reticulohistiocytosis and calcium pyrophosphate dihydrate disease. → MED-C26-08
+
+Book p522
+  The RA pathogenesis diagram starts with genetics plus environment, abnormal protein modification such as citrullination/carbamylation, detection as antigen by Langerhans dendritic cells and DC-T interaction. → MED-C26-09
+  The diagram labels TNF-alpha as the key pathogenic cytokine. → MED-C26-10
+  The normal joint progresses to chronic synovitis with synovial hypertrophy, pannus and periarticular erosion/osteopenia. → MED-C26-11
+  TNF-alpha activates osteoclast via RANK ligand pathway and inhibits osteoblast via Dkk-1, leading to osteoporosis. → MED-C26-12
+  HLA DRB1-04 is listed in 70%, increases risk five times and has shared epitope QKRAA motif. → MED-C26-13
+  The genetic HLA list notes DR-13 is associated with protection. → MED-C26-14
+
+Book p523
+  PADI-4 is peptidyl arginine deiminase IV, post-translationally modifying arginine to citrulline and is seen in Asian populations. → MED-C26-15
+  PTPN22 is specifically noted as not seen in the Asian population. → MED-C26-16
+  Smoking is the strongest environmental risk factor, increases PADI-4 expression in airway and increases risk for ILD with bad prognosis. → MED-C26-17
+  Protective environmental factors listed are alcohol and OCP. → MED-C26-18
+  Other factors list females > males 3:1, most common presentation in males as ILD/vasculitis, and infection Porphyromonas gingivalis chronic periodontitis. → MED-C26-19
+  Pregnancy is listed as increased IL-10 inducing remission. → MED-C26-20
+  The risk-prediction flow shows acute inflammatory polyarthritis at 6 weeks: persistent goes to undifferentiated arthritis and reduced goes to post-viral. → MED-C26-21
+  Undifferentiated arthritis branches into one-third remission, one-third persistent/progress to other disease and one-third evolve to RA. → MED-C26-22
+
+Book p524
+  The predicted-risk score lists age, female, joint distribution, swollen joints, tender joints, CRP, rheumatoid factor and anti-CCP antibody. → MED-C26-23
+  The page states if score >8 there is >80% chance to progress to RA. → MED-C26-24
+  Anti-CCP/ACPA/MCV is used for diagnostic purpose and not repeated, specificity >90%, best marker for preclinical infection and high titre suggests extra-articular manifestations. → MED-C26-25
+  RF specificity is 75–80%, it is a marker of preclinical infection and extra-articular manifestations, and is nonspecific in cryoglobulinemia, Sjogren, JIA, 5% normal population, infections and other diseases. → MED-C26-26
+  RF antibodies are shown as IgM most common against IgG Fc, with IgA in Caplan syndrome. → MED-C26-27
+  For relapse, the page lists CRP and ESR. → MED-C26-28
+  The clinical manifestation section begins with chronic inflammatory symmetric peripheral polyarthritis and notes insidious presentation in 55–65% as most common. → MED-C26-29
+
+Book p525
+  Elderly RA is >60 years, acute destructive polyarthritis with painful erosions and mimics PMR with shoulder/pelvic pain, increased ESR and periarticular enthesitis/bursitis. → MED-C26-30
+  Arthritis robustus is described as minimal symptoms, blissfully unaware, with erosions on X-ray. → MED-C26-31
+  Palindromic rheumatism occurs in young girls, acute episodic monoarthritis with complete resolution and later other joints, anti-CARP positive, with 30% progressing to RA. → MED-C26-32
+  The deformities triangle is labelled synovitis, tendinitis and bursitis. → MED-C26-33
+  Zig-zag deformity is the first change and includes wrist radial deviation, MCP ulnar deviation plus subluxation and interphalangeal joints extended. → MED-C26-34
+  Piano-key deformity is due to rupture of the ulnar collateral ligament and deformity of the ulnar styloid. → MED-C26-35
+  Hitchhiker thumb is a Z-shaped deformity with abduction and hyperextension of the thumb. → MED-C26-36
+  Trigger finger is listed as tenosynovitis. → MED-C26-37
+
+Book p526
+  Swan-neck deformity has hyperextended PIP, flexion of DIP and rupture of FDS tendon. → MED-C26-38
+  Boutonniere deformity is flexion of PIP and hyperextension of DIP due to synovitis of PIP causing subluxation of the lateral band. → MED-C26-39
+  Opera glass hand deformity is labelled arthritis mutilans. → MED-C26-40
+  Vaughan-Jackson syndrome is impaired medial extensor tendons. → MED-C26-41
+  Intrinsic plus deformity is tightness of intrinsic muscles, hyperflexion of MCP and extension of interphalangeal joints. → MED-C26-42
+  The note states pointing index finger is median nerve palsy. → MED-C26-43
+
+Book p527
+  The RA pulmonary row includes interstitial lung disease, pleural effusion, rheumatoid lung nodules and Caplan syndrome. → MED-C26-44
+  The pulmonary row notes rheumatoid lung nodules, usually upper lobe, and Caplan syndrome as rheumatoid nodules plus pneumoconiosis. → MED-C26-45
+  The pulmonary row describes rheumatoid interstitial lung disease with organizing pneumonia/BOOP and lower-lobe peripheral reticular shadowing. → MED-C26-46
+  The table note states worst prognosis is rheumatoid lung disease. → MED-C26-47
+  The page expands BOOP as bronchiolitis obliterans organizing pneumonia. → MED-C26-48
+
+Book p528
+  RA CNS row lists normal cognitive function and C1-C2 atlantoaxial subluxation with acute-onset quadriparesis and erosion of odontoid process; SLE lists cognitive decline as most common. → MED-C26-49
+  The ocular row notes keratoconjunctivitis sicca symptoms RA > SLE and no uveitis. → MED-C26-50
+  Episcleritis is most common, seen with increased activity and not associated with visual loss. → MED-C26-51
+  Scleritis causes granulomatous resorption leading to scleromalacia perforans and visual loss. → MED-C26-52
+  The vascular/cardiovascular area lists accelerated atherosclerosis as MI equivalent and APS. → MED-C26-53
+  RA vasculitis is associated with history of smoking, men>women, long-standing radiodamage, RF positivity, low complements, and small vessel more than medium vessel involving muscular arteries in dermis. → MED-C26-54
+  The RA vasculitis row notes ulcers and digital gangrene with instruction to start rituximab. → MED-C26-55
+  The SLE vascular column lists mesenteric vasculitis and CNS vasculitis with mononeuritis multiplex. → MED-C26-56
+  The hematologic row lists anemia of chronic disease as most common cause of anemia, warm antibody autoimmune hemolytic anemia, secondary immune thrombocytopenic purpura with thrombocytosis, and SLE leukopenia. → MED-C26-57
+
+Book p529
+  Felty syndrome is RA with neutropenia and splenomegaly, long-standing deformities, RF positive, HLA DRB1-04, nodules present and antibody against citrullinated histones. → MED-C26-58
+  The row notes increased risk of conversion to DLBCL and LGL, large granular lymphocytic leukemia. → MED-C26-59
+  RA cardiovascular row lists pericarditis without tamponade as most common CVS cause, mitral regurgitation as most common valvular heart disease, and ACS as most common cause of death. → MED-C26-60
+  The endocrine row lists osteoporosis and hypoadrenalism; skin row lists rheumatoid nodule and pyoderma gangrenosum. → MED-C26-61
+
+Book p530
+  Management states newly diagnosed RA should achieve remission/low disease activity on treatment. → MED-C26-62
+  Best response to treatment is stated as <3 months in very early rheumatoid arthritis. → MED-C26-63
+  The conventional DMARD table pairs methotrexate with increased adenosine levels. → MED-C26-64
+  Leflunomide is listed as a dihydroorotate dehydrogenase inhibitor and pyrimidine pathway blocker. → MED-C26-65
+  Hydroxychloroquine is paired with toll-like receptor inhibitor. → MED-C26-66
+  Among anti-TNF-alpha biological agents, etanercept is noted as a fusion molecule with least side effect. → MED-C26-67
+  The biologic list pairs anti-CD20 with rituximab, anti-IL-1 with anakinra unavailable in India, anti-IL-6 with tocilizumab and fusion CTLA4-FcIgG with abatacept. → MED-C26-68
+  Small-molecule oral JAK inhibitors list tofacitinib as 1/3 inhibitor and baricitinib as 1/2 inhibitor. → MED-C26-69
+
+Book p531
+  The algorithm shows bridge therapy with steroid for active inflammation because action of DMARDs starts by 6–8 weeks. → MED-C26-70
+  First-line methotrexate is printed as 5 mg to 20 mg weekly for 3 months. → MED-C26-71
+  Methotrexate complications list mucositis as most common, with oral ulcers and hair loss. → MED-C26-72
+  Liver failure is marked the most dangerous methotrexate complication; monitor LFT and stop if enzymes are elevated >4 times. → MED-C26-73
+  The Boolean definition of remission lists tender joints ≤1, swollen joints ≤1, C-reactive protein ≤1 and patient global assessment ≤1. → MED-C26-74
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 828 questions + 5 rejection controls
+  The adequate-response branch directs continuing methotrexate. → MED-C26-75
+  The MTX plus sulfasalazine branch lists sulfasalazine 500 mg BD/TDS with maximum 2 g. → MED-C26-76
+  The sulfasalazine branch includes G6-PD deficiency. → MED-C26-77
+  The branch lists HCQ 5 mg/kg, corneal complication as most common and retinal complication as most dangerous, specifically bull's-eye maculopathy. → MED-C26-78
+  The anti-TNF branch lists increased risk of infection, malignancy, hepatitis B and TB reactivation. → MED-C26-79
+  The JAK inhibitor branch lists less costly, most preferred, cardiac toxicity and hyperlipidemia. → MED-C26-80
+
+Unasked points after visual self-audit: NONE in the recorded inventory.
 Ch1: 49 questions / 7 units; formats {'match': 17, 'fillup': 9, 'recall': 5, 'numeric': 4, 'oddoneout': 5, 'truefalse': 6, 'scenario': 3}
 Ch2: 37 questions / 5 units; formats {'recall': 4, 'scenario': 8, 'numeric': 5, 'fillup': 10, 'truefalse': 3, 'oddoneout': 2, 'match': 5}
 Ch3: 38 questions / 4 units; formats {'fillup': 10, 'scenario': 7, 'match': 5, 'numeric': 4, 'truefalse': 2, 'management': 1, 'recall': 6, 'oddoneout': 3}
@@ -7,28 +1177,17 @@ Ch5: 52 questions / 5 units; formats {'numeric': 8, 'recall': 9, 'fillup': 6, 's
 Ch6: 33 questions / 4 units; formats {'numeric': 6, 'fillup': 5, 'recall': 6, 'match': 3, 'scenario': 6, 'truefalse': 2, 'oddoneout': 1, 'management': 4}
 Ch7: 36 questions / 3 units; formats {'fillup': 6, 'match': 3, 'scenario': 5, 'numeric': 6, 'recall': 5, 'oddoneout': 4, 'management': 4, 'truefalse': 3}
 Ch8: 14 questions / 2 units; formats {'recall': 3, 'oddoneout': 1, 'fillup': 2, 'match': 2, 'truefalse': 2, 'scenario': 2, 'management': 2}
-Ch9: 55 questions / 4 units; formats {'scenario': 23, 'recall': 24, 'oddoneout': 3, 'numeric': 4, 'management': 1}
+Ch9: 64 questions / 4 units; formats {'scenario': 24, 'recall': 32, 'oddoneout': 3, 'numeric': 4, 'management': 1}
 Ch10: 29 questions / 3 units; formats {'recall': 17, 'scenario': 12}
 Ch11: 72 questions / 4 units; formats {'recall': 33, 'numeric': 11, 'scenario': 24, 'management': 3, 'oddoneout': 1}
 Ch12: 47 questions / 3 units; formats {'recall': 26, 'scenario': 13, 'management': 2, 'numeric': 5, 'oddoneout': 1}
 Ch13: 23 questions / 2 units; formats {'recall': 16, 'scenario': 5, 'oddoneout': 1, 'management': 1}
 Ch14: 18 questions / 2 units; formats {'recall': 15, 'numeric': 1, 'scenario': 1, 'oddoneout': 1}
 Ch15: 32 questions / 3 units; formats {'numeric': 3, 'recall': 23, 'scenario': 6}
-PASS: schema, book/unit order, 678 inventoried points, full unit coverage, embedded arrays/live flags
-PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 570 questions + 5 rejection controls
-
-Unit tests:
-test_fillup (test_content.ContentGateTests.test_fillup) ... ok
-test_guide_lines (test_content.ContentGateTests.test_guide_lines) ... ok
-test_ledger (test_content.ContentGateTests.test_ledger) ... ok
-test_missing_unit (test_content.ContentGateTests.test_missing_unit) ... ok
-test_page_order (test_content.ContentGateTests.test_page_order) ... ok
-test_schema_mutations (test_content.ContentGateTests.test_schema_mutations) ... ok
-test_true_false_balance (test_content.ContentGateTests.test_true_false_balance) ... ok
-test_unit_order (test_content.ContentGateTests.test_unit_order) ... ok
-test_valid (test_content.ContentGateTests.test_valid) ... ok
-
-----------------------------------------------------------------------
-Ran 9 tests in 0.016s
-
-OK
+Ch21: 44 questions / 3 units; formats {'recall': 26, 'scenario': 7, 'numeric': 6, 'management': 3, 'oddoneout': 2}
+Ch22: 52 questions / 3 units; formats {'recall': 38, 'scenario': 2, 'oddoneout': 2, 'numeric': 5, 'management': 5}
+Ch23: 26 questions / 2 units; formats {'recall': 18, 'scenario': 3, 'numeric': 2, 'management': 3}
+Ch24: 36 questions / 2 units; formats {'recall': 27, 'oddoneout': 2, 'numeric': 4, 'management': 3}
+Ch25: 11 questions / 1 units; formats {'recall': 6, 'numeric': 2, 'scenario': 3}
+Ch26: 80 questions / 4 units; formats {'numeric': 8, 'recall': 58, 'scenario': 9, 'management': 5}
+PASS: schema, book/unit order, 936 inventoried points, full unit coverage

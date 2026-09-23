@@ -1,0 +1,743 @@
+{
+  "chapter": 21,
+  "title": "Classification of Vasculitis and Large Vessel Vasculitis",
+  "pageRange": "491-498",
+  "questions": [
+    {
+      "id": "MED-C21-01",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "recall",
+      "q": "In the source definition, vasculitis is inflammation within the vessel wall that most directly leads to which two consequences?",
+      "opts": [
+        "Low ESR/CRP with isolated fibrosis only",
+        "Thrombus formation without inflammation",
+        "Hyperviscosity without vessel-wall inflammation",
+        "Raised ESR/CRP with ischemia and organ damage"
+      ],
+      "ans": 3,
+      "exp": "Vasculitis is defined as vessel-wall inflammation, with raised ESR/CRP and ischemia or organ damage. (Book p491)"
+    },
+    {
+      "id": "MED-C21-02",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "recall",
+      "q": "Which statement matches the source note on diagnosing vasculitis?",
+      "opts": [
+        "There is no gold standard test and no diagnostic criteria",
+        "Temporal artery biopsy is a gold standard for every vasculitis",
+        "ANCA positivity alone is diagnostic of all vasculitis",
+        "Low CRP establishes active vasculitis"
+      ],
+      "ans": 0,
+      "exp": "The page explicitly notes no gold standard test to diagnose vasculitis and no diagnostic criteria. (Book p491)"
+    },
+    {
+      "id": "MED-C21-03",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "scenario",
+      "q": "A systemic-sclerosis patient has endothelial injury, thrombus formation, capillary hypoxia, myofibroblast activation, TGF-beta and fibrosis with low ESR/CRP. Which source term fits best?",
+      "opts": [
+        "Large-vessel granulomatous arteritis",
+        "Vasculopathy",
+        "ANCA-associated vasculitis",
+        "Immune-complex vasculitis"
+      ],
+      "ans": 1,
+      "exp": "The vasculopathy note uses systemic sclerosis as the example and lists endothelial injury through TGF-beta fibrosis with low ESR/CRP. (Book p491)"
+    },
+    {
+      "id": "MED-C21-04",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "recall",
+      "q": "The revised Chapel Hill 2012 classification on this page is based mainly on what?",
+      "opts": [
+        "Age at onset only",
+        "Presence of granuloma in biopsy only",
+        "Predominantly affected vessel size",
+        "Serum complement level alone"
+      ],
+      "ans": 2,
+      "exp": "The classification criteria are the revised Chapel Hill consensus 2012 classification and are based on predominantly affected vessel size. (Book p491)"
+    },
+    {
+      "id": "MED-C21-05",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "recall",
+      "q": "Which vessel-disease pairing belongs to the large-vessel row of the table?",
+      "opts": [
+        "Visceral arteries: ANCA-associated vasculitis",
+        "Capillaries: Kawasaki disease",
+        "Small intraparenchymal arteries: isolated aortitis",
+        "Aorta and branches: temporal or giant-cell arteritis and Takayasu arteritis"
+      ],
+      "ans": 3,
+      "exp": "Large vessels are the aorta and its branches, with temporal/giant-cell arteritis and Takayasu arteritis listed. (Book p491)"
+    },
+    {
+      "id": "MED-C21-06",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "recall",
+      "q": "Which list contains only ANCA-associated small-vessel vasculitides as printed?",
+      "opts": [
+        "GPA, EGPA/AGPA and MPA",
+        "Anti-GBM disease, HSP and cryoglobulinemia",
+        "PAN, Kawasaki disease and isolated aortitis",
+        "Behcet disease, Cogan syndrome and HUV"
+      ],
+      "ans": 0,
+      "exp": "The ANCA-associated list contains GPA, allergic/eosinophilic GPA and microscopic polyangiitis. (Book p491)"
+    },
+    {
+      "id": "MED-C21-07",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 491,
+      "fmt": "recall",
+      "q": "Which list contains only immune-complex mediated small-vessel vasculitides on the page?",
+      "opts": [
+        "PAN and Kawasaki disease",
+        "Anti-GBM disease, HSP and cryoglobulinemia-associated vasculitis",
+        "GPA, MPA and EGPA",
+        "Takayasu arteritis and temporal arteritis"
+      ],
+      "ans": 1,
+      "exp": "The immune-complex mediated list includes anti-GBM disease, HSP and cryoglobulinemia-associated vasculitis. (Book p491)"
+    },
+    {
+      "id": "MED-C21-08",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "recall",
+      "q": "Hypocomplementemic urticarial vasculitis is linked to which antibody and pathognomonic feature?",
+      "opts": [
+        "Anti-MPO antibody and renal-limited vasculitis",
+        "Anti-centromere antibody and calcinosis",
+        "Anti-C1q antibody and interface dermatitis",
+        "Anti-PR3 antibody and saddle nose deformity"
+      ],
+      "ans": 2,
+      "exp": "HUV is marked by anti-C1q antibody, SLE-overlap features and pathognomonic interface dermatitis. (Book p492)"
+    },
+    {
+      "id": "MED-C21-09",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "recall",
+      "q": "The source names the most common vasculitis in adults worldwide and in children as which pair?",
+      "opts": [
+        "Takayasu arteritis in adults and Kawasaki disease in children",
+        "PAN in adults and cryoglobulinemia in children",
+        "Behcet disease in adults and Cogan syndrome in children",
+        "Temporal/giant-cell arteritis in adults and HSP in children"
+      ],
+      "ans": 3,
+      "exp": "The margin note states most common vasculitis: adults temporal/giant-cell arteritis worldwide, children HSP. (Book p492)"
+    },
+    {
+      "id": "MED-C21-10",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "recall",
+      "q": "Which two disorders are listed under variable vessel vasculitis?",
+      "opts": [
+        "Behcet disease and Cogan syndrome",
+        "GCA and Takayasu arteritis",
+        "PAN and Kawasaki disease",
+        "HSP and cryoglobulinemia"
+      ],
+      "ans": 0,
+      "exp": "Variable vessel vasculitis consists of Behcet disease and Cogan syndrome in the printed list. (Book p492)"
+    },
+    {
+      "id": "MED-C21-11",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "scenario",
+      "q": "A biopsy-proven vasculitis is limited to skin capillaries/post-capillary venules. Which single-organ vasculitis example is printed?",
+      "opts": [
+        "Cutaneous PAN",
+        "Cutaneous leukocytoclastic angiitis",
+        "Isolated aortitis",
+        "Primary CNS vasculitis"
+      ],
+      "ans": 1,
+      "exp": "Single-organ vasculitis examples list skin capillaries/post-capillary venules as cutaneous leukocytoclastic angiitis. (Book p492)"
+    },
+    {
+      "id": "MED-C21-12",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "recall",
+      "q": "Which connective-tissue disease exception is paired with medium-vessel vasculitis in the source?",
+      "opts": [
+        "SLE and systemic sclerosis",
+        "Sarcoidosis and dermatomyositis",
+        "RA and Sjogren disease",
+        "IgG4 disease and ankylosing spondylitis"
+      ],
+      "ans": 2,
+      "exp": "Among CTD-associated exceptions, RA and Sjogren are bracketed with medium-vessel vasculitis. (Book p492)"
+    },
+    {
+      "id": "MED-C21-13",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "recall",
+      "q": "Which drug pair is specifically placed under ANCA-associated drug-induced small-vessel vasculitis?",
+      "opts": [
+        "Penicillins and thiazides",
+        "Sulfonamides and penicillins",
+        "Acyclovir and methotrexate",
+        "Hydralazine and propylthiouracil"
+      ],
+      "ans": 3,
+      "exp": "Drug-induced ANCA-associated vasculitis lists hydralazine and propylthiouracil, while penicillins, sulfonamides and thiazides are immune-complex mediated. (Book p492)"
+    },
+    {
+      "id": "MED-C21-14",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 492,
+      "fmt": "scenario",
+      "q": "A secondary infectious vasculitis is described as HCV-associated and cryoglobulinemia-like. Which source pairing is being applied?",
+      "opts": [
+        "HCV: cryoglobulinemia-like vasculitis",
+        "HBV: cryoglobulinemia-like vasculitis",
+        "Rickettsia: large-vessel vasculitis",
+        "Syphilis: PAN-like disease"
+      ],
+      "ans": 0,
+      "exp": "The infection list pairs HCV with cryoglobulinemia-like vasculitis and HBV with PAN-like disease. (Book p492)"
+    },
+    {
+      "id": "MED-C21-15",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "page": 493,
+      "fmt": "recall",
+      "q": "Malignancy-related secondary paraneoplastic vasculitis in the source primarily involves which vessels and malignancies?",
+      "opts": [
+        "Capillaries only; acute leukemia alone",
+        "Small vessels; lymphoma, hairy-cell leukemia, bladder cancer and RCC",
+        "Large vessels; myeloma, melanoma and colon cancer",
+        "Medium vessels only; thyroid and ovarian cancers"
+      ],
+      "ans": 1,
+      "exp": "Malignancy-related vasculitis is noted to involve small vessels and is associated with lymphoma, hairy-cell leukemia, bladder carcinoma and RCC. (Book p493)"
+    },
+    {
+      "id": "MED-C21-16",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 493,
+      "fmt": "recall",
+      "q": "Which histology is shared by the large-vessel vasculitides in the source?",
+      "opts": [
+        "Necrotizing inflammation without granuloma as the rule",
+        "Pure eosinophilic infiltrates without vessel-wall involvement",
+        "Transmural inflammation with lymphocytes/macrophages, granuloma and few giant cells in about 50%",
+        "Leukocytoclasis with immune-complex deposits in every case"
+      ],
+      "ans": 2,
+      "exp": "Both large-vessel diseases have similar histology: transmural inflammation involving intima/media/adventitia, lymphocytes/macrophages, granuloma and few giant cells, seen in 50% cases. (Book p493)"
+    },
+    {
+      "id": "MED-C21-17",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 493,
+      "fmt": "recall",
+      "q": "Which synonym and vessel pattern correctly fit giant cell arteritis?",
+      "opts": [
+        "Pulseless disease involving only renal arteries",
+        "Middle aortic syndrome sparing temporal arteries",
+        "Cutaneous leukocytoclastic angiitis of post-capillary venules",
+        "Temporal/cranial/granulomatous arteritis involving extracranial vessels with internal elastic lamina"
+      ],
+      "ans": 3,
+      "exp": "GCA synonyms are temporal arteritis, cranial arteritis and granulomatous arteritis; vessels are extracranial vessels with internal elastic lamina, sparing intracranial vessels. (Book p493)"
+    },
+    {
+      "id": "MED-C21-18",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 493,
+      "fmt": "numeric",
+      "q": "What age and sex pattern is printed for GCA?",
+      "opts": [
+        "Presentation after 50 years, mean diagnosis 72 years, female:male 2:1",
+        "Presentation before 40 years, mean diagnosis 24 years, female:male 9:1",
+        "Childhood onset, male predominance 3:1",
+        "Middle age only, equal sex distribution"
+      ],
+      "ans": 0,
+      "exp": "GCA presents after 50 years, mean age of diagnosis is 72 years and the female:male ratio is 2:1. (Book p493)"
+    },
+    {
+      "id": "MED-C21-19",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 493,
+      "fmt": "recall",
+      "q": "Which order of artery involvement is printed as most common in GCA?",
+      "opts": [
+        "Aorta > iliac > femoral > popliteal",
+        "Superficial temporal > vertebral > ophthalmic > posterior ciliary",
+        "Subclavian > renal > pulmonary > coronary",
+        "Renal > mesenteric > testicular > bronchial"
+      ],
+      "ans": 1,
+      "exp": "The most common artery sequence in GCA is superficial temporal, then vertebral, ophthalmic and posterior ciliary. (Book p493)"
+    },
+    {
+      "id": "MED-C21-20",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 493,
+      "fmt": "numeric",
+      "q": "What is the printed GCA-PMR 50/20 rule?",
+      "opts": [
+        "ESR 50 in 20% of all cases only",
+        "Steroids 50 mg for 20 days",
+        "PMR symptoms in 50% of GCA cases and GCA symptoms in 20% of PMR cases",
+        "GCA in 50% of PMR cases and PMR in 20% of GCA cases"
+      ],
+      "ans": 2,
+      "exp": "The GCA-PMR syndrome note states PMR symptoms occur in 50% of GCA cases and GCA symptoms occur in 20% of PMR cases. (Book p493)"
+    },
+    {
+      "id": "MED-C21-21",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 494,
+      "fmt": "scenario",
+      "q": "An older patient has early morning pain and stiffness of shoulder, hip and pelvic girdle with ESR above 50. Which source diagnosis is suggested and what is its key differential?",
+      "opts": [
+        "Takayasu arteritis; differentiate from Kawasaki disease",
+        "PAN; differentiate from MPA",
+        "Behcet disease; differentiate from SLE oral ulcers",
+        "PMR; differentiate from late-onset RA"
+      ],
+      "ans": 3,
+      "exp": "PMR features are tendinitis/bursitis/enthesitis with early morning pain and stiffness in shoulder, hip and pelvic girdle, ESR >50, and differential diagnosis is late-onset RA. (Book p494)"
+    },
+    {
+      "id": "MED-C21-22",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 494,
+      "fmt": "recall",
+      "q": "Which pathology pattern is printed for PMR?",
+      "opts": [
+        "IL-6 predominant inflammation type and IFN-gamma mediated ischemia type",
+        "Anti-C1q immune-complex deposition only",
+        "PR3-induced neutrophil NETosis only",
+        "Monoclonal IgM cryoprecipitation"
+      ],
+      "ans": 0,
+      "exp": "PMR pathology is listed as IL-6 predominant inflammation type and IFN-gamma mediated ischemia type. (Book p494)"
+    },
+    {
+      "id": "MED-C21-23",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 494,
+      "fmt": "recall",
+      "q": "Which association list belongs to PMR/GCA in the source?",
+      "opts": [
+        "ASCA and anti-enolase only",
+        "Smoking, VZV isolated from biopsy with no role of acyclovir, HLA DRB1-04 and MICA A5",
+        "HLA-B51 only with pathergy",
+        "Hepatitis B 30/1 rule only"
+      ],
+      "ans": 1,
+      "exp": "Associations include smoking, VZV isolated from biopsy with no role of acyclovir, and genetic HLA DRB1-04/MICA A5 allele. (Book p494)"
+    },
+    {
+      "id": "MED-C21-24",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 494,
+      "fmt": "scenario",
+      "q": "A patient over 50 has new recurrent boring headache of moderate-to-severe intensity. Which typical GCA feature is this?",
+      "opts": [
+        "Purpura from superficial dermal capillaries",
+        "Asthma phase of EGPA",
+        "Headache: new onset, recurring, unusual type and boring pain",
+        "Jaw claudication from renal artery stenosis"
+      ],
+      "ans": 2,
+      "exp": "Typical GCA headache is new onset, moderate-severe, recurring, unusual type and boring in nature. (Book p494)"
+    },
+    {
+      "id": "MED-C21-25",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 494,
+      "fmt": "numeric",
+      "q": "Which ESR statement matches the typical GCA page?",
+      "opts": [
+        "ESR is always below 10 mm/hr",
+        "ESR exactly 20 is diagnostic",
+        "ESR is irrelevant in GCA and PMR",
+        "ESR is usually above 100 mm/hr, while ACR uses above 50 mm/hr"
+      ],
+      "ans": 3,
+      "exp": "The clinical-features page prints ESR >100 mm/hr and notes ACR >50 mm/hr. (Book p494)"
+    },
+    {
+      "id": "MED-C21-26",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 494,
+      "fmt": "scenario",
+      "q": "Jaw claudication with ophthalmoplegia is highlighted in GCA because it has what predictive value?",
+      "opts": [
+        "100% positive predictive value for GCA",
+        "It excludes GCA completely",
+        "It proves Takayasu arteritis",
+        "It indicates HSP rather than arteritis"
+      ],
+      "ans": 0,
+      "exp": "Jaw claudication due to maxillary artery involvement, along with ophthalmoplegia, is noted as 100% positive predictive value for GCA. (Book p494)"
+    },
+    {
+      "id": "MED-C21-27",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 495,
+      "fmt": "recall",
+      "q": "Which atypical presentation is explicitly listed for GCA?",
+      "opts": [
+        "Asthma in adolescence",
+        "Pyrexia of unknown origin in age over 50 years",
+        "Neonatal purpura with thrombocytopenia",
+        "Painless hard-palate ulcers"
+      ],
+      "ans": 1,
+      "exp": "Atypical GCA includes pyrexia of unknown origin in age over 50 years, cervical radiculopathy and recurrent throat pain/cough. (Book p495)"
+    },
+    {
+      "id": "MED-C21-28",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 495,
+      "fmt": "numeric",
+      "q": "For temporal artery biopsy in suspected GCA, what segment length is printed to overcome skip lesions?",
+      "opts": [
+        "1 cm exactly",
+        "10–12 cm",
+        "4–6 cm",
+        "4–6 mm"
+      ],
+      "ans": 2,
+      "exp": "Temporal artery biopsy is the investigation of choice, and a 4–6 cm long segment is taken to overcome skip lesions. (Book p495)"
+    },
+    {
+      "id": "MED-C21-29",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 495,
+      "fmt": "numeric",
+      "q": "Which color-Doppler performance and sign are printed for GCA?",
+      "opts": [
+        "95% sensitivity, 100% specificity and double-ring sign",
+        "30% sensitivity, 40% specificity and string-of-beads sign",
+        "No Doppler role and no named sign",
+        "70% sensitivity, 80% specificity and halo sign"
+      ],
+      "ans": 3,
+      "exp": "Color Doppler is listed with 70% sensitivity and 80% specificity; the halo sign is a hypoechoic area around the temporal artery in longitudinal and transverse sections. (Book p495)"
+    },
+    {
+      "id": "MED-C21-30",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 495,
+      "fmt": "recall",
+      "q": "Which item is part of the ACR criteria for GCA?",
+      "opts": [
+        "ESR at least 50 mm/hr",
+        "Age of onset below 40 years",
+        "Positive pathergy test",
+        "ANCA positivity"
+      ],
+      "ans": 0,
+      "exp": "ACR criteria shown are onset age >50, new localized headache, temporal artery tenderness or decreased pulsations, ESR ≥50 mm/hr and biopsy with transmural inflammation. (Book p495)"
+    },
+    {
+      "id": "MED-C21-31",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 495,
+      "fmt": "management",
+      "q": "What first-line GCA treatment dose is printed?",
+      "opts": [
+        "Plasma exchange alone without steroids",
+        "Steroids 40–60 mg/day, about 1 mg/kg/day, then taper",
+        "Acyclovir alone for VZV-positive biopsy",
+        "Methotrexate 5 mg daily for life"
+      ],
+      "ans": 1,
+      "exp": "Treatment lists steroids as first line, 40–60 mg/day or 1 mg/kg/day, tapered down. (Book p495)"
+    },
+    {
+      "id": "MED-C21-32",
+      "sec": "Giant cell arteritis and PMR",
+      "page": 495,
+      "fmt": "management",
+      "q": "Tocilizumab is printed for GCA in what context?",
+      "opts": [
+        "Antiviral therapy for biopsy-proven VZV",
+        "JAK inhibitor for best response under 3 months",
+        "Anti-IL-6 therapy for flares common on low-dose steroids with raised ESR",
+        "Anti-CD20 therapy for all first presentations"
+      ],
+      "ans": 2,
+      "exp": "Tocilizumab is anti-IL-6 and is indicated for flares, especially common at low-dose steroids with increased ESR. (Book p495)"
+    },
+    {
+      "id": "MED-C21-33",
+      "sec": "Takayasu arteritis",
+      "page": 496,
+      "fmt": "recall",
+      "q": "Which synonym set belongs to Takayasu arteritis in the source?",
+      "opts": [
+        "Temporal arteritis, cranial arteritis and granulomatous arteritis",
+        "IgA vasculitis and anaphylactoid purpura",
+        "Wegener granulomatosis and Goodpasture syndrome",
+        "Aortic arch syndrome, nonspecific aortoarteritis, occlusive thromboaortopathy, pulseless disease and middle aortic syndrome"
+      ],
+      "ans": 3,
+      "exp": "Takayasu synonyms listed are aortic arch syndrome, nonspecific aortoarteritis, occlusive thromboaortopathy, pulseless disease and middle aortic syndrome. (Book p496)"
+    },
+    {
+      "id": "MED-C21-34",
+      "sec": "Takayasu arteritis",
+      "page": 496,
+      "fmt": "numeric",
+      "q": "What demographic pattern is printed for Takayasu arteritis?",
+      "opts": [
+        "Presentation below 40 years, mean diagnosis 24 years, female:male 9:1",
+        "Presentation after 50 years, mean diagnosis 72 years, female:male 2:1",
+        "Age 50–65 years, male predominance",
+        "Children below 5 years, male predominance"
+      ],
+      "ans": 0,
+      "exp": "Takayasu arteritis presents before 40 years, mean age of diagnosis 24 years, with female:male ratio 9:1. (Book p496)"
+    },
+    {
+      "id": "MED-C21-35",
+      "sec": "Takayasu arteritis",
+      "page": 496,
+      "fmt": "recall",
+      "q": "Which conditions are included in the note on female:male 9:1 ratio?",
+      "opts": [
+        "Behcet disease and Cogan syndrome only",
+        "Sjogren, SLE, Takayasu, fibromyalgia, chronic fatigue syndrome and primary biliary cirrhosis",
+        "GCA, PAN, MPA and gout",
+        "HSP, Kawasaki disease and pseudogout only"
+      ],
+      "ans": 1,
+      "exp": "The 9:1 note lists Sjogren, SLE, Takayasu, fibromyalgia, chronic fatigue syndrome and primary biliary cirrhosis. (Book p496)"
+    },
+    {
+      "id": "MED-C21-36",
+      "sec": "Takayasu arteritis",
+      "page": 496,
+      "fmt": "recall",
+      "q": "Which two diseases are listed as having pulmonary artery involvement?",
+      "opts": [
+        "PAN and cryoglobulinemia",
+        "RA and SLE only",
+        "Takayasu arteritis and Behcet disease",
+        "GCA and HSP"
+      ],
+      "ans": 2,
+      "exp": "The note lists pulmonary artery involvement in Takayasu arteritis and Behcet disease. (Book p496)"
+    },
+    {
+      "id": "MED-C21-37",
+      "sec": "Takayasu arteritis",
+      "page": 496,
+      "fmt": "recall",
+      "q": "Which pathology/vessel pattern fits Takayasu arteritis?",
+      "opts": [
+        "Anti-C1q with interface dermatitis and dermal capillaries only",
+        "Focal segmental necrosis with ANCA positivity",
+        "IgA predominant immune-complex deposits only",
+        "HLA-B52/B67, vessel-specific TLR expression, segmental stenosis more than aneurysm, subclavian artery most common"
+      ],
+      "ans": 3,
+      "exp": "Takayasu pathology includes HLA-B52/B67, TLR expression differing by vessel, segmental stenosis more than aneurysm and subclavian artery as the most common vessel. (Book p496)"
+    },
+    {
+      "id": "MED-C21-38",
+      "sec": "Takayasu arteritis",
+      "page": 496,
+      "fmt": "scenario",
+      "q": "A young woman with upper-limb claudication has unequal arm blood pressures differing by more than 10 mmHg and abdominal/carotid/aortic/femoral bruits. Which source disease fits?",
+      "opts": [
+        "Takayasu arteritis",
+        "Giant-cell arteritis",
+        "HSP",
+        "Cryoglobulinemia"
+      ],
+      "ans": 0,
+      "exp": "Takayasu clinical features include upper-extremity claudication, pulse inequality, unequal arm BP >10 mmHg and abdominal/carotid/aortic/femoral bruits. (Book p496)"
+    },
+    {
+      "id": "MED-C21-39",
+      "sec": "Takayasu arteritis",
+      "page": 497,
+      "fmt": "recall",
+      "q": "Which item is included in ACR classification criteria for Takayasu arteritis?",
+      "opts": [
+        "Palpable purpura",
+        "Decreased brachial artery pulse",
+        "Age of onset above 50 years",
+        "Biopsy showing transmural temporal inflammation"
+      ],
+      "ans": 1,
+      "exp": "Takayasu ACR criteria include onset <40 years, limb claudication, decreased brachial artery pulse, unequal arm BP >10 mmHg, subclavian/aortic bruit and angiographic stenosis. (Book p497)"
+    },
+    {
+      "id": "MED-C21-40",
+      "sec": "Takayasu arteritis",
+      "page": 497,
+      "fmt": "recall",
+      "q": "Which investigation is listed as IOC for Takayasu diagnosis and follow-up and best for vessel-wall thickness?",
+      "opts": [
+        "Direct immunofluorescence of skin",
+        "Plain X-ray alone",
+        "MR angiography",
+        "Temporal artery biopsy"
+      ],
+      "ans": 2,
+      "exp": "MR angiography is IOC for diagnosis and follow-up and gives the best measure of vessel wall thickness. (Book p497)"
+    },
+    {
+      "id": "MED-C21-41",
+      "sec": "Takayasu arteritis",
+      "page": 497,
+      "fmt": "recall",
+      "q": "When is conventional angiography used in Takayasu arteritis according to the page?",
+      "opts": [
+        "It is the first investigation for every patient",
+        "It is never used",
+        "It replaces all follow-up imaging",
+        "It is the gold standard and is done if vessel intervention is planned"
+      ],
+      "ans": 3,
+      "exp": "Conventional angiography is marked gold standard and done if vessel intervention is planned. (Book p497)"
+    },
+    {
+      "id": "MED-C21-42",
+      "sec": "Takayasu arteritis",
+      "page": 498,
+      "fmt": "management",
+      "q": "Which Takayasu treatment list is printed before the summary table?",
+      "opts": [
+        "Steroids as DOC, tocilizumab, and percutaneous transluminal renal angiogram with stenting",
+        "Acyclovir, ribavirin and interferon only",
+        "Supportive care only because it is self-limiting",
+        "Topical steroid plus PGE2 gel"
+      ],
+      "ans": 0,
+      "exp": "Treatment lists steroids as DOC, tocilizumab and percutaneous transluminal renal angiogram with stenting. (Book p498)"
+    },
+    {
+      "id": "MED-C21-43",
+      "sec": "Takayasu arteritis",
+      "page": 498,
+      "fmt": "oddoneout",
+      "q": "Which summary-table feature favors Takayasu arteritis rather than temporal arteritis?",
+      "opts": [
+        "Highest incidence in Scandinavians",
+        "Female:male ratio 9:1 with age under 40 years",
+        "Visual loss in 10–30%",
+        "Average onset 72 years"
+      ],
+      "ans": 1,
+      "exp": "Takayasu shows F:M 9:1, age <40 years, average onset 25 years and Asian highest incidence; temporal arteritis has visual loss 10–30%, average age 72 and Scandinavian incidence. (Book p498)"
+    },
+    {
+      "id": "MED-C21-44",
+      "sec": "Takayasu arteritis",
+      "page": 498,
+      "fmt": "oddoneout",
+      "q": "Which summary-table feature favors temporal arteritis rather than Takayasu arteritis?",
+      "opts": [
+        "Renal hypertension common",
+        "Need for surgical intervention common",
+        "Visual loss 10–30% and aorta/major branches in one-third of cases",
+        "Pulmonary artery involvement present"
+      ],
+      "ans": 2,
+      "exp": "Temporal arteritis has visual loss 10–30%, one-third aorta/major branch involvement, rare renal HTN/claudication and rare need for surgical intervention. (Book p498)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U21-1",
+      "ch": 21,
+      "n": 1,
+      "title": "1. Vasculitis definition and Chapel-Hill vessel-size classification",
+      "sec": "Vasculitis definition and Chapel-Hill vessel-size classification",
+      "guide": "Definition, vasculopathy contrast and inflammatory markers open the chapter.\nChapel-Hill vessel-size groups, ANCA and immune-complex subsets are kept in the printed order.\nSingle-organ, secondary, drug, infection and malignancy-related vasculitis complete the classification block.",
+      "qs": [
+        "MED-C21-01",
+        "MED-C21-02",
+        "MED-C21-03",
+        "MED-C21-04",
+        "MED-C21-05",
+        "MED-C21-06",
+        "MED-C21-07",
+        "MED-C21-08",
+        "MED-C21-09",
+        "MED-C21-10",
+        "MED-C21-11",
+        "MED-C21-12",
+        "MED-C21-13",
+        "MED-C21-14",
+        "MED-C21-15"
+      ]
+    },
+    {
+      "id": "MED-U21-2",
+      "ch": 21,
+      "n": 2,
+      "title": "2. Giant cell arteritis and PMR",
+      "sec": "Giant cell arteritis and PMR",
+      "guide": "Large-vessel shared histology leads into GCA synonyms, demographics and involved arteries.\nThe GCA-PMR 50/20 rule, PMR phenotype and associations are retained.\nTypical and atypical GCA, diagnostic tests, criteria and treatment follow source order.",
+      "qs": [
+        "MED-C21-16",
+        "MED-C21-17",
+        "MED-C21-18",
+        "MED-C21-19",
+        "MED-C21-20",
+        "MED-C21-21",
+        "MED-C21-22",
+        "MED-C21-23",
+        "MED-C21-24",
+        "MED-C21-25",
+        "MED-C21-26",
+        "MED-C21-27",
+        "MED-C21-28",
+        "MED-C21-29",
+        "MED-C21-30",
+        "MED-C21-31",
+        "MED-C21-32"
+      ]
+    },
+    {
+      "id": "MED-U21-3",
+      "ch": 21,
+      "n": 3,
+      "title": "3. Takayasu arteritis",
+      "sec": "Takayasu arteritis",
+      "guide": "Synonyms, age-sex profile and associated 9:1 conditions begin the Takayasu block.\nPathology, vessels, signs, ACR criteria and angiographic investigation are kept source-ordered.\nTreatment and the final temporal-vs-Takayasu comparison table close the chapter.",
+      "qs": [
+        "MED-C21-33",
+        "MED-C21-34",
+        "MED-C21-35",
+        "MED-C21-36",
+        "MED-C21-37",
+        "MED-C21-38",
+        "MED-C21-39",
+        "MED-C21-40",
+        "MED-C21-41",
+        "MED-C21-42",
+        "MED-C21-43",
+        "MED-C21-44"
+      ]
+    }
+  ]
+}
