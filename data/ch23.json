@@ -1,0 +1,445 @@
+{
+  "chapter": 23,
+  "title": "Henoch-Schonlein Purpura V/S Cryoglobulinemia",
+  "pageRange": "509-513",
+  "questions": [
+    {
+      "id": "MED-C23-01",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 509,
+      "fmt": "recall",
+      "q": "Which table row correctly contrasts ANCA vasculitis with immune-complex mediated vasculitis?",
+      "opts": [
+        "Biopsy normal in both groups",
+        "ANCA positive with deposits negative versus ANCA negative with deposits present",
+        "Granuloma always absent in ANCA and always present in immune-complex disease",
+        "Skin lesions absent in ANCA and absent in immune-complex disease"
+      ],
+      "ans": 1,
+      "exp": "The comparison table shows ANCA vasculitis is ANCA positive with immune-complex deposits negative, while immune-complex mediated vasculitis is ANCA negative with deposits present. (Book p509)"
+    },
+    {
+      "id": "MED-C23-02",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 509,
+      "fmt": "recall",
+      "q": "Which biopsy pattern is printed for immune-complex mediated vasculitis?",
+      "opts": [
+        "Granuloma with giant cells in all cases",
+        "No skin lesion and no deposits",
+        "Leukocytoclasis with fragmented neutrophils and neutrophilic debris",
+        "Necrotizing inflammation with neutrophils and fibrinoid necrosis only"
+      ],
+      "ans": 2,
+      "exp": "The immune-complex mediated biopsy row lists leukocytoclasis with fragmented neutrophils/neutrophilic debris. (Book p509)"
+    },
+    {
+      "id": "MED-C23-03",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 509,
+      "fmt": "recall",
+      "q": "Which primary immune-complex mediated small-vessel vasculitides are listed?",
+      "opts": [
+        "GPA, MPA and EGPA only",
+        "GCA and Takayasu arteritis",
+        "Behcet disease and Cogan syndrome only",
+        "HSP, cryoglobulinemia-associated vasculitis, HUV with anti-C1q positive and Goodpasture syndrome"
+      ],
+      "ans": 3,
+      "exp": "Primary immune-complex mediated small-vessel vasculitis list includes HSP, CAV, HUV with anti-C1q positivity and Goodpasture syndrome. (Book p509)"
+    },
+    {
+      "id": "MED-C23-04",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 509,
+      "fmt": "recall",
+      "q": "Which secondary immune-complex mediated vasculitis causes are printed?",
+      "opts": [
+        "SLE, RA, drugs and infections",
+        "Smoking and silica only",
+        "HLA-B51 and ASCA only",
+        "Alcohol and OCP only"
+      ],
+      "ans": 0,
+      "exp": "Secondary immune-complex mediated vasculitis is listed under SLE, RA, drugs and infections. (Book p509)"
+    },
+    {
+      "id": "MED-C23-05",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 509,
+      "fmt": "recall",
+      "q": "Single-organ immune-complex vasculitis called cutaneous leukocytoclastic angiitis is also known as what?",
+      "opts": [
+        "Cogan syndrome",
+        "Hypersensitive vasculitis involving only skin",
+        "Pulseless disease involving aorta",
+        "RPGN type 3"
+      ],
+      "ans": 1,
+      "exp": "Single-organ vasculitis is cutaneous leukocytoclastic angiitis, involving only skin and AKA hypersensitive vasculitis. (Book p509)"
+    },
+    {
+      "id": "MED-C23-06",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 510,
+      "fmt": "recall",
+      "q": "What pathogenesis sequence is printed for immune-complex small-vessel vasculitis?",
+      "opts": [
+        "Monoclonal IgM causes hyperviscosity only",
+        "T-cell mediated Th1 over Th17 inflammation alone",
+        "Small immune complexes not cleared by RES activate complement and recruit neutrophils in superficial capillary dermis",
+        "ANCA triggers PR3/MPO expression then no deposits"
+      ],
+      "ans": 2,
+      "exp": "The pathogenesis diagram shows small immune complexes not effectively cleared by RES, leading to complement activation and neutrophil recruitment in small vessels of superficial capillary dermis. (Book p510)"
+    },
+    {
+      "id": "MED-C23-07",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 510,
+      "fmt": "recall",
+      "q": "What is the most characteristic skin lesion in this pathogenesis diagram?",
+      "opts": [
+        "Saddle nose deformity",
+        "Bamboo spine",
+        "Tophus",
+        "Cutaneous palpable purpura"
+      ],
+      "ans": 3,
+      "exp": "Cutaneous palpable purpura is explicitly labelled the most characteristic skin lesion. (Book p510)"
+    },
+    {
+      "id": "MED-C23-08",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 510,
+      "fmt": "recall",
+      "q": "Henoch-Schonlein purpura is also called what?",
+      "opts": [
+        "IgA vasculitis",
+        "Anti-PR3 vasculitis",
+        "Anti-C1q vasculitis",
+        "Aortitis syndrome"
+      ],
+      "ans": 0,
+      "exp": "The HSP section states AKA IgA vasculitis. (Book p510)"
+    },
+    {
+      "id": "MED-C23-09",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 510,
+      "fmt": "scenario",
+      "q": "A boy aged 5 has symmetrical non-thrombocytopenic palpable purpura on extensor lower limbs and buttocks occurring in crops. Which source diagnosis is most likely?",
+      "opts": [
+        "Cogan syndrome",
+        "HSP unless proven otherwise",
+        "Takayasu arteritis",
+        "Temporal arteritis"
+      ],
+      "ans": 1,
+      "exp": "HSP is most common in children around 5 years, boys; non-thrombocytopenic palpable purpura in a child is HSP unless proven otherwise, symmetrical on extensor lower limbs especially buttocks and occurring in crops. (Book p510)"
+    },
+    {
+      "id": "MED-C23-10",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 511,
+      "fmt": "numeric",
+      "q": "How common are joint symptoms in HSP, and what mnemonic features are printed?",
+      "opts": [
+        "In 100%; axial spine ankylosis",
+        "Rare; monoarthritis only",
+        "In 70%; KLNNO features: knee predominant, large joint, migratory, non-deforming oligoarthritis",
+        "In 10%; DIP erosive arthritis only"
+      ],
+      "ans": 2,
+      "exp": "Joint involvement occurs in 70%, 15% initially present with joint symptoms, and features are KLNNO: knee predominant, large joint, migratory, non-deforming oligoarthritis. (Book p511)"
+    },
+    {
+      "id": "MED-C23-11",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 511,
+      "fmt": "scenario",
+      "q": "HSP abdominal angina is described as colicky pain. Which complication is marked most dangerous?",
+      "opts": [
+        "Painless oral ulcer",
+        "Bamboo spine",
+        "Halo sign",
+        "Ileoileal intussusception"
+      ],
+      "ans": 3,
+      "exp": "GIT involvement is 50%; complications include hemorrhage, bowel ischemia, scrotal swelling and intussusception, specifically ileoileal as most dangerous. (Book p511)"
+    },
+    {
+      "id": "MED-C23-12",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 511,
+      "fmt": "numeric",
+      "q": "Which renal statement is printed for HSP?",
+      "opts": [
+        "Renal disease occurs in 20–50%, usually asymptomatic microhematuria, and adults risk type 2 RPGN, ESRD and high relapse",
+        "Renal disease is absent in adults",
+        "All children progress to CKD",
+        "Renal disease is renal artery stenosis only"
+      ],
+      "ans": 0,
+      "exp": "HSP renal involvement is 20–50%, with asymptomatic microhematuria; adults can have type 2 RPGN, ESRD risk and high relapse rate. (Book p511)"
+    },
+    {
+      "id": "MED-C23-13",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 511,
+      "fmt": "recall",
+      "q": "Which ACR criterion is listed for HSP?",
+      "opts": [
+        "cANCA positivity",
+        "Age at onset below 20 years",
+        "Female:male ratio 9:1",
+        "ESR ≥50 mm/hr"
+      ],
+      "ans": 1,
+      "exp": "ACR criteria shown are palpable purpura, age at onset <20 years, bowel angina and biopsy with vessel wall granulocytes. (Book p511)"
+    },
+    {
+      "id": "MED-C23-14",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "page": 511,
+      "fmt": "management",
+      "q": "What HSP management statement is printed?",
+      "opts": [
+        "Rituximab only if HCV negative",
+        "Acyclovir for all cases",
+        "Supportive care because disease is self-limiting; steroids for severe joint/GIT symptoms or adult RPGN",
+        "Cyclophosphamide for all children from day one"
+      ],
+      "ans": 2,
+      "exp": "Treatment is supportive care because HSP is self-limiting with no disease/recurrence treatment; steroids are for severe joint/GIT symptoms or adult HSP with RPGN. (Book p511)"
+    },
+    {
+      "id": "MED-C23-15",
+      "sec": "Cryoglobulinemia",
+      "page": 512,
+      "fmt": "recall",
+      "q": "Cryoglobulins are immunoglobulins with what temperature behavior?",
+      "opts": [
+        "Dissolve in cold and precipitate at 37°C",
+        "Remain insoluble at all temperatures",
+        "Are not immunoglobulins",
+        "Precipitate in cold and dissolve on rewarming"
+      ],
+      "ans": 3,
+      "exp": "Cryoglobulins are immunoglobulins that precipitate in cold and dissolve on rewarming. (Book p512)"
+    },
+    {
+      "id": "MED-C23-16",
+      "sec": "Cryoglobulinemia",
+      "page": 512,
+      "fmt": "scenario",
+      "q": "A middle-aged elderly female has increased Ig production with immunoglobulins adhering to small vessels more than medium vessels. Which source condition fits?",
+      "opts": [
+        "Cryoglobulinemia",
+        "HSP",
+        "Takayasu arteritis",
+        "PMR"
+      ],
+      "ans": 0,
+      "exp": "Cryoglobulinemia pathogenesis shows increased production of immunoglobulins adhering to small vessel surfaces more than medium vessels and is seen in middle-aged elderly females. (Book p512)"
+    },
+    {
+      "id": "MED-C23-17",
+      "sec": "Cryoglobulinemia",
+      "page": 512,
+      "fmt": "recall",
+      "q": "Which type-1 cryoglobulinemia row is correct?",
+      "opts": [
+        "IgA deposits with age below 5 years",
+        "Monoclonal IgG/IgM kappa or lambda, RF negative, associated with multiple myeloma and Waldenstrom macroglobulinemia",
+        "Polyclonal IgG plus monoclonal IgM, RF positive, HCV 90%",
+        "Polyclonal IgG/IgM, RF positive, SLE only"
+      ],
+      "ans": 1,
+      "exp": "Type 1 cryoglobulinemia is monoclonal IgG/IgM kappa or lambda, RF negative, with multiple myeloma and Waldenstrom macroglobulinemia including IgM and hyperviscosity symptoms. (Book p512)"
+    },
+    {
+      "id": "MED-C23-18",
+      "sec": "Cryoglobulinemia",
+      "page": 512,
+      "fmt": "recall",
+      "q": "Which type is mixed cryoglobulinemia and what is its key association?",
+      "opts": [
+        "Type 3 only; associated with Takayasu",
+        "Types 1 and 2; associated only with PAN",
+        "Types 2 and 3; type 2 is associated with hepatitis C in 90%",
+        "Type 1 only; associated with HSP"
+      ],
+      "ans": 2,
+      "exp": "Mixed cryoglobulinemia is type 2 plus type 3; type 2 is associated with hepatitis C in 90% and Sjogren/SLE. (Book p512)"
+    },
+    {
+      "id": "MED-C23-19",
+      "sec": "Cryoglobulinemia",
+      "page": 512,
+      "fmt": "recall",
+      "q": "Which extrahepatic HCV manifestations are listed in the cryoglobulinemia note?",
+      "opts": [
+        "Saddle nose and scleritis",
+        "Bamboo spine and uveitis",
+        "Felty syndrome and LGL leukemia",
+        "Porphyria cutanea tarda and lichen planus"
+      ],
+      "ans": 3,
+      "exp": "Extrahepatic HCV manifestations listed are porphyria cutanea tarda and lichen planus. (Book p512)"
+    },
+    {
+      "id": "MED-C23-20",
+      "sec": "Cryoglobulinemia",
+      "page": 512,
+      "fmt": "recall",
+      "q": "Which clinical manifestation set belongs to cryoglobulinemia?",
+      "opts": [
+        "Confluent non-thrombocytopenic palpable purpura, ulcers/gangrene from medium-vessel involvement when HCV positive, arthralgia, HCV GIT involvement and MPGN",
+        "Symmetrical crops of buttock purpura in young boys only",
+        "Jaw claudication and halo sign",
+        "Oral aphthae and pathergy"
+      ],
+      "ans": 0,
+      "exp": "Cryoglobulinemia manifestations include non-thrombocytopenic palpable purpura, ulcers/gangrene due to medium-vessel involvement in HCV-positive disease, arthralgia similar to SLE, HCV GIT involvement and MPGN. (Book p512)"
+    },
+    {
+      "id": "MED-C23-21",
+      "sec": "Cryoglobulinemia",
+      "page": 513,
+      "fmt": "recall",
+      "q": "How does the source distinguish neuropathy patterns in cryoglobulinemia?",
+      "opts": [
+        "Neuropathy excludes cryoglobulinemia",
+        "Mononeuritis multiplex is medium-vessel; small-fibre neuropathy is small-vessel",
+        "Both are large-vessel aortitis",
+        "Only CNS vasculitis occurs"
+      ],
+      "ans": 1,
+      "exp": "The neurology note states mononeuritis multiplex is medium vessel and small fibre neuropathy is small vessel. (Book p513)"
+    },
+    {
+      "id": "MED-C23-22",
+      "sec": "Cryoglobulinemia",
+      "page": 513,
+      "fmt": "recall",
+      "q": "What are the three components of Meltzer triad of cryoglobulinemia?",
+      "opts": [
+        "Aortitis, keratitis and vestibulitis",
+        "Fever, rash and leukopenia",
+        "Purpura, arthralgia and myalgia/weakness",
+        "Oral ulcer, genital ulcer and uveitis"
+      ],
+      "ans": 2,
+      "exp": "The triangle labels Meltzer triad as purpura, arthralgia and myalgia or weakness. (Book p513)"
+    },
+    {
+      "id": "MED-C23-23",
+      "sec": "Cryoglobulinemia",
+      "page": 513,
+      "fmt": "recall",
+      "q": "Which investigation pattern is printed for cryoglobulinemia?",
+      "opts": [
+        "ANA by immunofluorescence and high complement",
+        "MR angiography as best test for all cases",
+        "Synovial fluid WBC count >2000",
+        "Direct immunofluorescence with IgG/IgM and cryocrit with low C3/C4"
+      ],
+      "ans": 3,
+      "exp": "Investigations list direct immunofluorescence showing IgG/IgM and cryocrit with decreased C3/C4. (Book p513)"
+    },
+    {
+      "id": "MED-C23-24",
+      "sec": "Cryoglobulinemia",
+      "page": 513,
+      "fmt": "management",
+      "q": "How is type 1 high-IgM cryoglobulinemia treated in the printed flow?",
+      "opts": [
+        "Plasma exchange, steroid and cyclophosphamide",
+        "Treat HCV alone",
+        "Rituximab only",
+        "Supportive care only"
+      ],
+      "ans": 0,
+      "exp": "The treatment branch for type 1 high IgM lists PLEX, steroid and cyclophosphamide. (Book p513)"
+    },
+    {
+      "id": "MED-C23-25",
+      "sec": "Cryoglobulinemia",
+      "page": 513,
+      "fmt": "management",
+      "q": "For type 2/3 cryoglobulinemia, what does the HCV branch direct?",
+      "opts": [
+        "Always use methotrexate first line",
+        "If HCV positive treat HCV; if HCV negative use rituximab",
+        "If HCV positive use no treatment; if negative use antiviral",
+        "Both positive and negative branches use acyclovir"
+      ],
+      "ans": 1,
+      "exp": "For type 2/3, HCV positive leads to treating HCV; HCV negative leads to rituximab. (Book p513)"
+    },
+    {
+      "id": "MED-C23-26",
+      "sec": "Cryoglobulinemia",
+      "page": 513,
+      "fmt": "recall",
+      "q": "Which malignancy risk is highlighted at the end of the cryoglobulinemia page?",
+      "opts": [
+        "Increased risk of medullary thyroid carcinoma",
+        "Increased risk of melanoma only",
+        "Increased risk of conversion to diffuse large B-cell lymphoma",
+        "Increased risk of osteosarcoma"
+      ],
+      "ans": 2,
+      "exp": "The bottom note states increased risk of conversion to DLBCL, diffuse large B-cell lymphoma. (Book p513)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U23-1",
+      "ch": 23,
+      "n": 1,
+      "title": "1. Immune-complex small-vessel vasculitis and HSP",
+      "sec": "Immune-complex small-vessel vasculitis and HSP",
+      "guide": "ANCA versus immune-complex comparisons are followed by primary, secondary and single-organ categories.\nThe immune-complex pathogenesis diagram leads into HSP age, skin, joint, GIT, renal, criteria and management.\nAll thresholds and complication lists are kept in printed order.",
+      "qs": [
+        "MED-C23-01",
+        "MED-C23-02",
+        "MED-C23-03",
+        "MED-C23-04",
+        "MED-C23-05",
+        "MED-C23-06",
+        "MED-C23-07",
+        "MED-C23-08",
+        "MED-C23-09",
+        "MED-C23-10",
+        "MED-C23-11",
+        "MED-C23-12",
+        "MED-C23-13",
+        "MED-C23-14"
+      ]
+    },
+    {
+      "id": "MED-U23-2",
+      "ch": 23,
+      "n": 2,
+      "title": "2. Cryoglobulinemia",
+      "sec": "Cryoglobulinemia",
+      "guide": "Cryoglobulin temperature behavior and type table open the block.\nMixed cryoglobulinemia, HCV extrahepatic features and organ manifestations follow.\nNeuropathy, Meltzer triad, investigation and type-based treatment close the chapter.",
+      "qs": [
+        "MED-C23-15",
+        "MED-C23-16",
+        "MED-C23-17",
+        "MED-C23-18",
+        "MED-C23-19",
+        "MED-C23-20",
+        "MED-C23-21",
+        "MED-C23-22",
+        "MED-C23-23",
+        "MED-C23-24",
+        "MED-C23-25",
+        "MED-C23-26"
+      ]
+    }
+  ]
+}
