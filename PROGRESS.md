@@ -3,10 +3,10 @@
 Updated **2026-09-22**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0c857-med-v2`
+- Session branch: `arena/01a0cc0a-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 15 live chapters / 57 · 570 questions / 55 units.** Chapters 16–57 remain `live:false`.
+- **Build status: 15 live chapters / 57 · 579 questions / 55 units.** Chapters 16–57 remain `live:false`.
 
 ## This release — Chapters 9–15
 
@@ -14,19 +14,19 @@ Seven consecutive chapters have been written, visual-audited from the scans, sou
 
 | Ch | Title | Printed pages | Questions | Units |
 |---:|---|---:|---:|---:|
-| 9 | Introduction to ACS | 415–424 | 55 | 4 |
+| 9 | Introduction to ACS | 415–424 | 64 | 4 |
 | 10 | ACS - Coronary Circulation | 425–429 | 29 | 3 |
 | 11 | ACS - Evaluation and Management | 430–441 | 72 | 4 |
 | 12 | Sjogren's Syndrome | 442–448 | 47 | 3 |
 | 13 | IgG4 Related Disease | 449–451 | 23 | 2 |
 | 14 | SLE - Basic Approach | 452–454 | 18 | 2 |
 | 15 | SLE - Diagnosis | 455–457 | 32 | 3 |
-| **Release total** |  | **43 pages** | **276** | **21** |
+| **Release total** |  | **43 pages** | **285** | **21** |
 
 ### Quality and ordering contract delivered
 
 1. All pages were read in printed order (PDF51–93 = Book p415–457), including flowchart arms, comparison tables, numeric thresholds, diagrams, notes, morphology panels, contraindications and treatment branches.
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 9–15 add **276 ordered mappings**, bringing the audited ledger to **678 mappings** for Chapters 2–15. Every target is marked asked.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`;  Chapters 9–15 add **285 ordered mappings**, bringing the audited ledger to **687 mappings** for Chapters 2–15. Every target is marked asked.
 3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–15. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
