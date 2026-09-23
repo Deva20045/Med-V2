@@ -1,13 +1,13 @@
-# Chapters 2–26 — visual self-audit gate
+# Chapters 2–38 — visual self-audit gate
 
-Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–63 (Book p468–531; printed p527 is absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–63 (Book p468–531; printed p527 is absent) and `uploads/03.pdf` PDF5–37 (Book p566–601; printed p586, p590 and p591 are absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
-- Read every educational heading, bullet, sub-bullet, note, equation, table cell, flowchart arm, annotated ECG, morphology panel, image label, threshold, dose, contraindication and treatment branch on printed p383–531. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded.
+- Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).
 - Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.
-- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–26 (no fill-up or match worksheets), and exact citation references.
-- Questions in Chapters 9–26 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
+- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–26 and 33–38 (no fill-up or match worksheets), and exact citation references.
+- Questions in Chapters 9–26 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
 - Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.
 
 ## Source-specific notes retained as book-study material
@@ -78,8 +78,27 @@ Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–10
 | 514–518 | Behcet and Cogan diagnostic/treatment criteria, pathergy values and systemic warning signs are retained as printed. |
 | 519–520 | Arthritis approach thresholds, inflammatory synovial-fluid cut-off and erosion table are study points, not a substitute for clinical assessment. |
 | 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |
+| 566 | Broca (44,45) grammar/syntax/rhythm/fluency vs Wernicke (22) sound/comprehension, non-dominant prosody and 'pure word deafness' labelled on the connecting fibres are transcribed as printed. |
+| 567 | The DESP non-fluent list and the four-arm comprehension/repetition flowchart (watershed infarct for transcortical motor) are reproduced as printed. |
+| 568 | Four dysarthria types by anatomical level and the 'lesion of parietal lobe: inferior quadrantanopia' note (vs superior quadrantanopia in the Wernicke's arm) are source statements. |
+| 572 | The definition is printed as 'major cognitive impairment + ≥1 out of 6 cognitive domains affected' (standard NIAAA criteria use two domains); the six-domain→area table is transcribed as printed. |
+| 573 | The reversible-cause letter list, the B12 triad note and 'Rx of NPH: surgery' are source statements; '>85 years: 40% chance of Alzheimer's' is printed as such. |
+| 574–575 | The APP pathway (β-secretase), Aβ40/42 divergence, brain-diabetes IDE step, chromosomes 14/1/19 and the printed 'Not risk factors: low IQ, smoking, NSAIDs' are transcribed as printed. |
+| 577–578 | FTD 70% sporadic vs Alzheimer's 90–95% sporadic note; the DLB-vs-PD table including 'antipsychotics worsen (D2 receptor inhibition)' and the rocket-sign definition are source statements. |
+| 580 | Flupirtine maleate listed as CJD treatment (centrally acting non-opioid analgesic) is a source statement, not contemporary care. |
+| 583–585 | Basal-ganglia tree, nuclei diagram with lesion syndromes and the PD-vs-essential tremor table are reproduced as printed. |
+| 587 | 'Froment's sign: activity-induced increase in c/l rigidity' is transcribed exactly as printed (the classical pencil-pinch test is not described on this page); the swallow-tail sign is attributed to the substantia nigra. |
+| 586 / 590 / 591 | Missing from supplied scan — each carries one transparently-flagged bracketing question (MED-C37-13, MED-C37-33, MED-C37-34); content verification of these pages remains unresolved, as with p527. |
+| 589–592 | 'COMT inhibitors not used now', trihexyphenidyl for drug-induced PD, amantadine's three mechanisms and the <60-year / >60-year protocol split are source statements. |
+| 593–594 | GCA red flags, the herniation line (uncus m/c, 3rd nerve palsy) and the TTH-vs-migraine feature lists are reproduced as printed. |
+| 595–596 | Common 80% / classical 20%, aura 15 min–1 hr, 4–72 hr duration, the triptan dose maxima (rizatriptan 30 mg, sumatriptan 200 mg) and the ergotamine note are book-study values. |
+| 597–598 | TAC attack data (15 min–3 h, 2–30 min, 5–240 s) and cluster oxygen 12–15 L/min for 10–20 min are source values as printed. |
+| 599 | HLA B-1502 before carbamazepine and HLA B-5801 before allopurinol are source statements; TN/MVD treatment ladder transcribed as printed. |
+| 600–601 | Modified Dandy criteria (LP >25 cm H2O), acetazolamide DOC, repeated LP 20–30 ml 'best option' and the acute-ICP five steps (CPP >60 mmHg) are source statements. |
 
 Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526, PDF60 is p528, PDF63 is p531, and PDF64 begins p532. Printed p527 is absent. The five existing upstream Chapter 26 questions citing p527 are preserved, but their source verification remains unresolved; software coverage does not establish visual completeness for that missing page.
+
+Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed p587 and PDF28 is printed p592 (decisive 10× corner reads), and 28 printed pages (p566-p593) span only 25 sheets — printed p586, p590 and p591 are absent from the supplied scan. Three transparently-flagged bracketing questions (MED-C37-13 citing p586, MED-C37-33 citing p590, MED-C37-34 citing p591) keep the ledger's page set complete; their source verification remains unresolved, following the p527 precedent.
 
 ## Per-chapter units
 
@@ -187,6 +206,32 @@ Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526,
 | 26 | 2. RA prediction markers, clinical manifestations and deformities | 524–526 | MED-C26-23–MED-C26-43 | 21 |
 | 26 | 3. Extra-articular RA and RA versus SLE | 527–529 | MED-C26-44–MED-C26-61 | 18 |
 | 26 | 4. RA management | 530–531 | MED-C26-62–MED-C26-80 | 19 |
+| 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
+| 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
+| 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
+| 33 | 4. Dysarthria | 568 | MED-C33-15–MED-C33-16 | 2 |
+| 34 | 1. Processes & Classification | 569 | MED-C34-01–MED-C34-06 | 6 |
+| 34 | 2. Implicit Memory & Anatomy | 570 | MED-C34-07–MED-C34-10 | 4 |
+| 34 | 3. Papez Circuit | 571 | MED-C34-11–MED-C34-12 | 2 |
+| 35 | 1. Definition, Domains & Causes | 572 | MED-C35-01–MED-C35-06 | 6 |
+| 35 | 2. Reversible Causes & Onset Patterns | 573 | MED-C35-07–MED-C35-13 | 7 |
+| 35 | 3. Alzheimer's Pathogenesis | 574 | MED-C35-14–MED-C35-19 | 6 |
+| 35 | 4. Genetics, Risk & Clinical Stages | 575 | MED-C35-20–MED-C35-23 | 4 |
+| 35 | 5. Investigations & Treatment | 576 | MED-C35-24–MED-C35-27 | 4 |
+| 36 | 1. Frontotemporal & Lewy Body Dementia | 577–578 | MED-C36-01–MED-C36-10 | 10 |
+| 36 | 2. Subcortical vs Cortical & Prion | 579–580 | MED-C36-11–MED-C36-17 | 7 |
+| 36 | 3. Vascular Dementia & NPH | 580–582 | MED-C36-18–MED-C36-25 | 8 |
+| 37 | 1. Basal Ganglia Anatomy & Circuits | 583–584 | MED-C37-01–MED-C37-07 | 7 |
+| 37 | 2. Idiopathic PD: Appearance & Tremor | 584–586 | MED-C37-08–MED-C37-13 | 6 |
+| 37 | 3. Motor Signs, Posture & Investigations | 587 | MED-C37-14–MED-C37-20 | 7 |
+| 37 | 4. Atypical PD & MSA | 588 | MED-C37-21–MED-C37-26 | 6 |
+| 37 | 5. Treatment & Protocols | 589–592 | MED-C37-27–MED-C37-37 | 11 |
+| 38 | 1. Anatomy, Classification & Dangerous Headache | 593–594 | MED-C38-01–MED-C38-07 | 7 |
+| 38 | 2. Tension-Type & Migraine | 594–595 | MED-C38-08–MED-C38-16 | 9 |
+| 38 | 3. Migraine Criteria, Pathogenesis & Treatment | 595–596 | MED-C38-17–MED-C38-28 | 12 |
+| 38 | 4. TAC, Cluster & Variants | 597–599 | MED-C38-29–MED-C38-39 | 11 |
+| 38 | 5. Trigeminal & Glossopharyngeal Neuralgia | 599 | MED-C38-40–MED-C38-43 | 4 |
+| 38 | 6. Benign Intracranial Hypertension | 600–601 | MED-C38-44–MED-C38-51 | 8 |
 
 ## Format distribution
 
@@ -218,6 +263,12 @@ Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526,
 | 24 | 27 | 0 | 4 | 2 | 3 | 0 | 36 | 36 |
 | 25 | 6 | 3 | 2 | 0 | 0 | 0 | 11 | 11 |
 | 26 | 58 | 9 | 8 | 0 | 5 | 0 | 80 | 80 |
+| 33 | 7 | 8 | 0 | 1 | 0 | 0 | 16 | 16 |
+| 34 | 6 | 5 | 0 | 1 | 0 | 0 | 12 | 12 |
+| 35 | 10 | 9 | 4 | 2 | 2 | 0 | 27 | 27 |
+| 36 | 11 | 5 | 4 | 4 | 1 | 0 | 25 | 25 |
+| 37 | 15 | 12 | 5 | 3 | 2 | 0 | 37 | 37 |
+| 38 | 17 | 14 | 9 | 3 | 8 | 0 | 51 | 51 |
 
 ## Chapters 16–26 release table
 
@@ -234,6 +285,17 @@ Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526,
 | 24 | Variable Vessel Vasculitis | 514–518 | 36 | 2 | 36 |
 | 25 | Basic Approach to Arthritis | 519–520 | 11 | 1 | 11 |
 | 26 | Rheumatoid Arthritis | 521–531 | 80 | 4 | 80 |
+
+## Chapters 33–38 release table
+
+| Ch | Title | Printed pages | Questions | Units | Ledger mappings |
+|---:|---|---:|---:|---:|---:|
+| 33 | Language V/S Speech | 566–568 | 16 | 4 | 16 |
+| 34 | Memory | 569–571 | 12 | 3 | 12 |
+| 35 | Dementia : Part 1 | 572–576 | 27 | 5 | 27 |
+| 36 | Dementia : Part 2 | 577–582 | 25 | 3 | 25 |
+| 37 | Parkinson's Disease | 583–592 | 37 | 5 | 37 |
+| 38 | Headache | 593–601 | 51 | 6 | 51 |
 
 ## Page-by-page coverage summary
 
@@ -388,8 +450,44 @@ Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526,
 | 529 | 02 PDF61 | 4 | 4 | 0 |
 | 530 | 02 PDF62 | 8 | 8 | 0 |
 | 531 | 02 PDF63 | 11 | 11 | 0 |
+| 566 | 03 PDF5 | 6 | 6 | 0 |
+| 567 | 03 PDF6 | 5 | 5 | 0 |
+| 568 | 03 PDF7 | 5 | 5 | 0 |
+| 569 | 03 PDF8 | 6 | 6 | 0 |
+| 570 | 03 PDF9 | 4 | 4 | 0 |
+| 571 | 03 PDF10 | 2 | 2 | 0 |
+| 572 | 03 PDF11 | 6 | 6 | 0 |
+| 573 | 03 PDF12 | 7 | 7 | 0 |
+| 574 | 03 PDF13 | 6 | 6 | 0 |
+| 575 | 03 PDF14 | 4 | 4 | 0 |
+| 576 | 03 PDF15 | 4 | 4 | 0 |
+| 577 | 03 PDF16 | 5 | 5 | 0 |
+| 578 | 03 PDF17 | 5 | 5 | 0 |
+| 579 | 03 PDF18 | 4 | 4 | 0 |
+| 580 | 03 PDF19 | 4 | 4 | 0 |
+| 581 | 03 PDF20 | 4 | 4 | 0 |
+| 582 | 03 PDF21 | 3 | 3 | 0 |
+| 583 | 03 PDF22 | 4 | 4 | 0 |
+| 584 | 03 PDF23 | 4 | 4 | 0 |
+| 585 | 03 PDF24 | 4 | 4 | 0 |
+| 586 | Missing from supplied scan | 1 | 1 | 0 |
+| 587 | 03 PDF27 | 7 | 7 | 0 |
+| 588 | 03 PDF28 | 6 | 6 | 0 |
+| 589 | 03 PDF29 | 6 | 6 | 0 |
+| 590 | Missing from supplied scan | 1 | 1 | 0 |
+| 591 | Missing from supplied scan | 1 | 1 | 0 |
+| 592 | 03 PDF28 | 3 | 3 | 0 |
+| 593 | 03 PDF29 | 5 | 5 | 0 |
+| 594 | 03 PDF30 | 7 | 7 | 0 |
+| 595 | 03 PDF31 | 8 | 8 | 0 |
+| 596 | 03 PDF32 | 8 | 8 | 0 |
+| 597 | 03 PDF33 | 4 | 4 | 0 |
+| 598 | 03 PDF34 | 6 | 6 | 0 |
+| 599 | 03 PDF35 | 5 | 5 | 0 |
+| 600 | 03 PDF36 | 5 | 5 | 0 |
+| 601 | 03 PDF37 | 3 | 3 | 0 |
 
-**Total: 1204 mapped educational points; 1096 questions; 102 units across 26 live chapters of 57.**
+**Total: 1372 mapped educational points; 1264 questions; 128 units across 32 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -2640,14 +2738,434 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p566 / 03 PDF5
+
+| Printed point / call-out | Question |
+|---|---|
+| Language is defined as the basic concept of communication and is a dominant-hemisphere function; its abnormality is aphasia. | MED-C33-01 |
+| Speech is the motor output of language; its abnormality is dysarthria, whereas the abnormality of language is aphasia. | MED-C33-02 |
+| The diagram marks prosody - emotional intonation of language - as a non-dominant hemisphere function. | MED-C33-03 |
+| The auditory-pathway diagram labels connecting-fibre abnormality as pure word deafness; the peripheral muscles (larynx vocal cords, pharynx palate, oesophagus) are driven below the brainstem nuclei. | MED-C33-04 |
+| Broca's speech area (44,45) carries grammar, syntax, rhythm and fluency while Wernicke's area (22) processes sound and comprehension; the companion Areas-of-Brain diagram labels the perisylvian region, premotor, primary motor, supplementary motor, Rolandic fissure, primary sensory, supramarginal and arcuate gyri, Sylvian fissure and primary auditory area. | MED-C33-05 |
+| The diagram's final line lists the peripheral muscles: larynx (vocal cords), pharynx (palate) and oesophagus. | MED-C33-06 |
+
+Unasked points: **none found**.
+
+### Book p567 / 03 PDF6
+
+| Printed point / call-out | Question |
+|---|---|
+| Notes: auditory association fibres abnormality -> auditory agnosia; connecting fibres abnormality -> pure word deafness; lesion in fusiform gyrus -> pure alexia. | MED-C33-07 |
+| Lesion/disease table: anterior to central sulcus -> fluency; posterior to central sulcus -> comprehension; in and around Sylvian fissure -> repetition; dominant lobe -> naming. Prosody of speech is d/t non-dominant lobe disease. | MED-C33-08 |
+| Preserved comprehension with preserved repetition leads to transcortical motor aphasia (d/t watershed infarct MCA, PCA); impaired repetition in that branch gives Broca's aphasia. | MED-C33-09 |
+| Broca's aphasia in the flowchart: agrammatic (telegraphic), poor reading/writing, associated sign weakness and good comprehension; motor aphasia overall is non-fluent speech: DESP (dysarthria, effortful, sparse with reduced word output, prosody lost, naming impaired). | MED-C33-10 |
+| Sensory aphasia: fluent speech with jargon substitution (eg pen -> hen), neologisms (create new words), logorrhoea (increased word output) and naming impaired (paraphasia). | MED-C33-11 |
+
+Unasked points: **none found**.
+
+### Book p568 / 03 PDF7
+
+| Printed point / call-out | Question |
+|---|---|
+| Preserved comprehension with impaired repetition = conduction aphasia (arcuate fasciculus lesion); preserved repetition in that branch = anomic aphasia (angular gyrus lesion); impaired comprehension with preserved repetition = transcortical sensory aphasia (d/t infarct). | MED-C33-12 |
+| Impaired comprehension with impaired repetition = Wernicke's aphasia (d/t infarct; reading loud, writing formed with errors, preservation poor, associated sign superior quadrantanopia, no weakness). | MED-C33-13 |
+| Note beneath the flowchart: lesion of parietal lobe -> inferior quadrantanopia (the Wernicke's arm separately lists superior quadrantanopia). | MED-C33-14 |
+| The four printed types: cortical (in Broca's aphasia), pseudo-bulbar/spastic (corticobulbar fibres abnormality), bulbar/flaccid (LMN - brain stem nuclei and below; test sounds produced from lip, tongue and oropharynx) and cerebellar (slow scanning staccato speech). | MED-C33-15 |
+| Pseudo-bulbar (spastic) dysarthria = corticobulbar fibres abnormality (UMN -> cortex to anterior horn cell); bulbar (flaccid) is LMN at brain stem nuclei and below. | MED-C33-16 |
+
+Unasked points: **none found**.
+
+### Book p569 / 03 PDF8
+
+| Printed point / call-out | Question |
+|---|---|
+| Processes of memory: encoding (registration), consolidation (storage) and retrieval. | MED-C34-01 |
+| Duration table: immediate/working memory = no storage, e.g. recalling a phone number within 1 min; short term/recent = hippocampus storage, e.g. recalling breakfast; long term = neocortex, e.g. recalling something from distant past. | MED-C34-02 |
+| Storage row: immediate = no storage; short term/recent = hippocampus (medial temporal lobe); long term = neocortex - and retrieval in all three columns is the prefrontal cortex. | MED-C34-03 |
+| Mode of retrieval (current classifications): explicit (declarative) - episodic and semantic - and implicit (non-declaratives): procedural, priming, associative (conditional), non associative. | MED-C34-04 |
+| Episodic: based on time and context (autobiographical), area hippocampus, affected early in Alzheimer's disease; semantic: based on facts, association areas, rarely affected in late Alzheimer's disease. | MED-C34-05 |
+| Implicit (non-declaratives) listed: procedural, priming, associative (conditional) and non associative; episodic belongs to explicit (declarative) memory. | MED-C34-06 |
+
+Unasked points: **none found**.
+
+### Book p570 / 03 PDF9
+
+| Printed point / call-out | Question |
+|---|---|
+| Procedural: basal ganglia, supplementary motor area, cerebellum (e.g. driving); priming: neo cortex (remembering facts d/t exposure, duration or intensity); associative (conditional): amygdala (not seen in humans - animals associating fear to lion and environment); non-associative: reflex pathway (habitual response). | MED-C34-07 |
+| Associative (conditional) memory: amygdala; characteristics - not seen in humans; animals associating fear to lion and environment. | MED-C34-08 |
+| Cortex table: frontal (prefrontal cortex, all types), parietal (association area parieto-occipital, semantic), temporal (hippocampus, episodic semantic), occipital (area '-', semantic). | MED-C34-09 |
+| Sub-cortex table: amygdala -> conditional; cerebellum -> procedural; entorhinal cortex -> long term memory (gateway of memory); basal ganglia -> procedural. The zones-of-brain medial diagram follows. | MED-C34-10 |
+
+Unasked points: **none found**.
+
+### Book p571 / 03 PDF10
+
+| Printed point / call-out | Question |
+|---|---|
+| Papez circuit aka mammillo-thalamic circuit: hippocampus/subiculum -> fornix -> mammillary body (Wernicke-Korsakoff syndromes) -> mammillo-thalamic tract -> thalamus -> internal capsule -> cingulate gyrus -> parahippocampal gyrus -> entorhinal cortex (gateway of memory) -> back to hippocampus. | MED-C34-11 |
+| The circuit closes via the parahippocampal gyrus into the entorhinal cortex, labelled gateway of memory, which returns to the hippocampus/subiculum. | MED-C34-12 |
+
+Unasked points: **none found**.
+
+### Book p572 / 03 PDF11
+
+| Printed point / call-out | Question |
+|---|---|
+| ADL: basic = self-care related; instrumental = handling own phone, money, etc. Cognitive impairment: minor = ADL unaffected; major = ADL affected. | MED-C35-01 |
+| Definition as printed: major cognitive impairment + >=1 out of 6 cognitive domains affected. | MED-C35-02 |
+| Domain table: episodic memory -> hippocampus (median temporal lobe); language -> inferior frontal gyrus (Broca's) + superior temporal gyrus (Wernicke's); complex attention, executive function and social cognition -> prefrontal cortex; perceptual motor (praxicons) -> superior parietal lobule. | MED-C35-03 |
+| Causes: 1. Alzheimer's disease (m/c); 2. diffuse Lewy body (DLB) dementia; 3. vascular dementia (branches: post-stroke, multi-infarct dementia, white matter dementia/Binswanger disease); 4. normal pressure hydrocephalus (NPH). | MED-C35-04 |
+| Dementia -> cortical; subcortical -> diffuse Lewy body (DLB) dementia, progressive supranuclear palsy, Binswanger disease, NPH. | MED-C35-05 |
+| Note - functions of PFC: dorsolateral PFC executive function; medial PFC energisation and motivation; orbital PFC behaviour. | MED-C35-06 |
+
+Unasked points: **none found**.
+
+### Book p573 / 03 PDF12
+
+| Printed point / call-out | Question |
+|---|---|
+| Reversible causes: D drugs (benzodiazepines, tricyclic antidepressants, lithium); E endocrine (hypothyroidism: metabolic slowing); M metabolic (vit B12 deficiency); E chronic infections of ear; N normal pressure hydrocephalus; T trauma, tumors; I infections (chronic meningitis); A anemia, autoimmune encephalitis. | MED-C35-07 |
+| Note: vit B12 deficiency -> peripheral neuropathy, dementia and subacute combined cord degeneration; Rx of NPH: surgery. | MED-C35-08 |
+| Note under reversible causes: Rx of NPH - surgery. | MED-C35-09 |
+| Young onset dementia: frontotemporal dementia (Pick's disease) m/c, prion disease, Huntington's disease, DLB dementia. | MED-C35-10 |
+| Rapidly progressive: FTD (Pick's) m/c, prion, DLB, HIV and Whipple's (bracketed non-degenerative), tumors (based on location). | MED-C35-11 |
+| Atrophy of: entorhinal cortex - specific for Alzheimer's; dentate nucleus - occurs with ageing. Alzheimer's disease: m/c cause of dementia; most important risk factor age; sporadic. | MED-C35-12 |
+| Most important risk factor: age (>85 years: 40% chance of Alzheimer's). | MED-C35-13 |
+
+Unasked points: **none found**.
+
+### Book p574 / 03 PDF13
+
+| Printed point / call-out | Question |
+|---|---|
+| APP (amyloid precursor protein, gene on chr 21) with abnormal kinetics is metabolised by beta-secretase producing A-beta amyloid (beta-pleated sheets); note: normal metabolism uses alpha-secretase. | MED-C35-14 |
+| A-beta 40 -> cerebral amyloid angiopathy (microhemorrhages in brain); A-beta 42 -> Alzheimer's disease -> depositions of hyperphosphorylated tau proteins (tauopathy). | MED-C35-15 |
+| Inside neuron: neurofibrillary tangles -> mitochondrial injury to neurons -> progressive neuronal destruction; outside neuron: amyloid/neuritic plaques elicit toxic response from oligodendrocytes, microglia, astrocytes. | MED-C35-16 |
+| Normal physiology: insulin degrading enzyme (IDE) degrades insulin and A-beta 42; in diabetes hyperinsulinemia -> IDE used up in degrading insulin -> A-beta 42 accumulates. | MED-C35-17 |
+| Pathology: atrophy of median temporal lobe, lateral temporal lobe, cingulate gyrus and entorhinal cortex (gateway of memory) - seen on MRI; plus Hirano bodies and granulovacuolar degeneration. | MED-C35-18 |
+| Depleted cholinergic neurons of nucleus basalis of meynert -> DOC: cholinesterase inhibitors. | MED-C35-19 |
+
+Unasked points: **none found**.
+
+### Book p575 / 03 PDF14
+
+| Printed point / call-out | Question |
+|---|---|
+| Genetic basis: Presenilin-1 (chr 14) and Presenilin-2 (chr 1) - m/c defect in familial AD -> early onset -> characteristic features (<45 years, seizures, sleep disturbances); ApoE4 (chr 19) in late-onset dementia, ineffective degradation of A-beta amyloid, most important risk factor (biomarker) for sporadic AD in elderly. | MED-C35-20 |
+| Risk factors: age, positive family history (Presenilin 1 > 2), F > m, h/o head trauma/concussions, h/o stroke, metabolic syndrome, hypertension, diabetes. Printed NOT risk factors: low IQ, smoking, NSAIDs. Note: theory of cognitive reserve - individuals with daily use of cognitive domains are protected from AD. | MED-C35-21 |
+| Note - theory of cognitive reserve: individuals with daily use of cognitive domains -> protected from AD. | MED-C35-22 |
+| Loop: hippocampus -> stage I (Korsakoff amnestic stage: episodic memory loss, difficulty in consolidating memory) -> angular gyrus -> association areas (stage II: stage of anomia, naming and comprehension abnormalities) -> superior parietal lobe praxicons (stage III: visuo-spatial disorientation; apraxia) -> PFC (stage IV: behavioural abnormalities and personality changes). Note: memory = time dependant, contextual, autobiographic. | MED-C35-23 |
+
+Unasked points: **none found**.
+
+### Book p576 / 03 PDF15
+
+| Printed point / call-out | Question |
+|---|---|
+| Investigations: EEG normal/non-specific slowing; CSF analysis down A-beta 42 levels, up hyperphosphorylated tau levels; PET scan IOC detecting hypometabolism and amyloid fibrils (PiB PET scans shown for AD vs control). | MED-C35-24 |
+| PET scan: IOC; detects hypometabolism and amyloid fibrils. | MED-C35-25 |
+| Treatment: 1. cholinesterase inhibitors (DOC): donepezil, rivastigmine, galantamine; 2. NMDA antagonist: memantine; 3. monoclonal antibody against A-beta 42: aducanumab. | MED-C35-26 |
+| Note: tacrine - obsolete (d/t hepatotoxicity). | MED-C35-27 |
+
+Unasked points: **none found**.
+
+### Book p577 / 03 PDF16
+
+| Printed point / call-out | Question |
+|---|---|
+| FTD (Pick's disease): 70% sporadic, young onset dementia (50-60 years), rapidly progressive dementia; note contrasts Alzheimer's -> 90-95% sporadic (cerebral atrophy MRI pair). | MED-C36-01 |
+| Pathology involves MAPT gene chromosome 17; proteins involved: TDP-43 (m/c), tau (hyperphosphorylated: loss of function of tau molecule) -> Pick's bodies, FUS; b/l prefrontal cortex atrophy. | MED-C36-02 |
+| Clinical features: m/c type behavioural variant; loss of social embarrassment; social and emotional systems dysfunction (apathy, overeating - temporal); impaired planning and judgement; memory relatively preserved; hyperorality - temporal lobe involvement. | MED-C36-03 |
+| Notes: tauopathy -> hypophosphorylated tau / hyperphosphorylated tau (Alzheimer's, Pick's); PFC -> Id, superego, ego. Diffuse Lewy Body Dementia: 2nd m/c cause of dementia; part of Parkinson-plus/atypical Parkinson's syndrome. | MED-C36-04 |
+| Components of Parkinson plus syndrome: 'Tau'opathies - progressive supranuclear palsy, corticobasal degeneration; 'alpha synuclein'-opathies - multiple system atrophy, diffuse Lewy Body dementia. | MED-C36-05 |
+
+Unasked points: **none found**.
+
+### Book p578 / 03 PDF17
+
+| Printed point / call-out | Question |
+|---|---|
+| Lewy bodies: intraneuronal cytoplasmic inclusions; content alpha-synuclein. Note: Parkinson's = alpha synucleinopathy; Alzheimer's = 'Tau'pathy (degenerated cholinergic neurons in the nucleus basalis of meynert); anticholinergics are the Rx of drug-induced parkinsonism. | MED-C36-06 |
+| Characteristic changes 5-10 years before onset of disease: 1. REM sleep disorders; 2. autonomic nervous system symptoms - postural hypotension, erectile > ejaculatory dysfunction, urinary abnormalities. | MED-C36-07 |
+| Listed ANS symptoms: postural hypotension, erectile > ejaculatory dysfunction and urinary abnormalities. | MED-C36-08 |
+| DLB v/s PD table: DLB - cognitive impairment precedes/within 1 year (predominant rapidly progressive dementia), visual hallucinations and fluctuating alertness precede motor symptoms, tremors uncommon, b/l axial rigidity (rocket sign +), gait abnormalities common, antipsychotics worsen (d/t D2 receptor inhibition), L-dopa no improvement, treatment none available; PD - after 4-5 years of motor manifestations, tremor common, asymmetrical rigidity, gait uncommon, L-dopa improves, Rx L-dopa and deep brain stimulation. | MED-C36-09 |
+| Note: rocket sign - falling backwards immediately after trying to get up from a chair. | MED-C36-10 |
+
+Unasked points: **none found**.
+
+### Book p579 / 03 PDF18
+
+| Printed point / call-out | Question |
+|---|---|
+| Cortical column: examples Alzheimer's, FTD; affected hippocampus, medial temporal lobe; memory severe; apraxia (superior parietal lobe lesion) / agnosia (association areas) / acalculia (angular gyrus) (+); early dysphasia; visuo-spatial more severe; personality indifferent; mood depressed (subcortical > cortical); coordination normal; cognitive and motor speed normal; abnormal movements rare; extrapyramidal symptoms -. | MED-C36-11 |
+| Subcortical column: examples DLB dementia, PSP, NPH, Binswanger's disease; regions subcortical grey matter (basal ganglia, thalamus) plus subcortical white matter (corticospinal, corticobulbar fibres); memory less severe; language normal; personality apathetic; coordination impaired; speed slow; abnormal movements common; extrapyramidal symptoms +. | MED-C36-12 |
+| Subcortical column values: language normal (cortical: early dysphasia), personality apathetic, speed slow, abnormal movements common. | MED-C36-13 |
+| Prion: infectious protein with no nucleic acid; genetic/sporadic. Pathology: beta-pleated PrPsc protein -> spongiform degeneration of cortex -> neuronal loss. | MED-C36-14 |
+
+Unasked points: **none found**.
+
+### Book p580 / 03 PDF19
+
+| Printed point / call-out | Question |
+|---|---|
+| Types of prion diseases: 1. CJD, 2. familial fatal insomnia, 3. kuru, 4. Gerstmann Straussler Scheinker disease. Common features: young onset dementia, rapidly progressive dementia, no immune response. (Whipple's appears only in the p573 rapidly-progressive list.) | MED-C36-15 |
+| CJD investigations: EEG - low voltage background, high voltage sharp waves; CSF normal; brain biopsy to confirm diagnosis; Rx flupirtine maleate (centrally acting non-opioid analgesic). | MED-C36-16 |
+| Dementia-protein table: Alzheimer's A-beta; FTD tau; DLB alpha synuclein; CJD PrPsc. Vascular dementia: types large vessel disease (post-CVA dementia) and small vessel disease. | MED-C36-17 |
+| Large vessel disease: m/c site of infarct b/l PCA lesion; criteria: 1. dementia; a. cerebrovascular disease - multi-infarct state with 'strategic territory' infarct (infarct in these areas leads to dementia). | MED-C36-18 |
+
+Unasked points: **none found**.
+
+### Book p581 / 03 PDF20
+
+| Printed point / call-out | Question |
+|---|---|
+| 3. Relationship between the two disorders: onset of dementia within 3 months of stroke; stepwise decline in cognitive function (stepwise graph). | MED-C36-19 |
+| Small vessel disease - Binswanger disease: most important risk factor HTN; lacunar infarct; pathology lipohyalinotic infarct involving penetrating vessels (size 30-300 um); MRI finding white matter hyperintensities in elderly (gradual cognitive-decline graph); features similar to vascular Parkinson's. | MED-C36-20 |
+| Fibres affected -> manifestation: corticobulbar tract -> pseudobulbar palsy; corticospinal tract (affects lower limb fibres close to the ventricle) -> gait disturbances and falls, gait apraxia, magnetic/ignition foot phenomenon (feet 'stuck' to floor); fibres from paracentral lobule -> urinary abnormalities; corticostriate fibres (PFC to striatum) -> personality changes. | MED-C36-21 |
+| Cerebral amyloid angiopathy: A-beta 40 protein deposition, elderly, microhemorrhages. (NOTCH3 is the CADASIL mutation.) | MED-C36-22 |
+
+Unasked points: **none found**.
+
+### Book p582 / 03 PDF21
+
+| Printed point / call-out | Question |
+|---|---|
+| CADASIL: cerebral autosomal dominant arteriopathy with small vessel ischemic change/leukoencephalopathy, or CADA with stroke and ischemic leukoencephalopathy; m/c inherited vascular dementia; NOTCH3 mutation; presentation aura + migraine + dementia + stroke. | MED-C36-23 |
+| Hydrocephalus: occlusive (non-communicating) -> aqueductal stenosis; non-occlusive (communicating) -> up CSF production or down CSF adsorption -> idiopathic (NPH) / familial (congenital: arachnoid granulations; acquired: trauma, SAH). Note: atrophy - obtuse interventricular angle. | MED-C36-24 |
+| NPH pathology: adsorption defect > outflow resistance of CSF -> ventriculomegaly, no atrophy. Clinical: symptoms progress over weeks to months; GUD - gait (gait apraxia/magnetic foot), urinary (incontinence), dementia (subcortical type); arrest in initiation of ambulation; gait instability with multiple falls; generalized slow movements; CSF pressure normal (20 ml/day produced); Rx shunting (good prognosis if effective); MRI - interventricular angle acute. | MED-C36-25 |
+
+Unasked points: **none found**.
+
+### Book p583 / 03 PDF22
+
+| Printed point / call-out | Question |
+|---|---|
+| Subcortex -> grey matter -> basal ganglion; white matter -> corticospinal tract, corticobulbar fibres (pass through internal capsule). | MED-C37-01 |
+| Nuclei: caudate nucleus (CN), putamen, globus pallidus (GP: GPi, GPe), subthalamic nucleus (STN), substantia nigra (SN); corpus striatum = CN + putamen; lenticular nucleus = putamen + GP. | MED-C37-02 |
+| Lesion -> hypokinetic movements: caudate -> chorea; putamen/striatum -> dystonia/athetosis; STN -> hemiballismus. | MED-C37-03 |
+| Functions: complex motor activity; initiation and scaling of movement; cognitive part of motor activity; activity set for movement (planning, programming and initiation). Note: premotor cortex and supplementary motor area also involved in planning and programming. | MED-C37-04 |
+
+Unasked points: **none found**.
+
+### Book p584 / 03 PDF23
+
+| Printed point / call-out | Question |
+|---|---|
+| General features: 1. all input from cortex -> striatum; 2. all output leave through GPi; 3. the only excitatory nucleus in BG: subthalamus. | MED-C37-05 |
+| Nigrostriatal pathway: via D1 activate direct pathway; via D2 inhibits indirect pathway - together stimulating of cortex. | MED-C37-06 |
+| Applied aspect: degeneration of NS pathway (Parkinson's disease) -> inhibition of cortex -> akinesia, bradyphrenia (slowness of thoughts). Disorders of BG: hyperkinetic vs hypokinetic (paucity of movement - down amplitude, slowness - unrelated to weakness/spasticity). Idiopathic PD: and m/c neurodegenerative disease; majority cases sporadic, elderly > 60 years. | MED-C37-07 |
+| Idiopathic Parkinson's disease: and m/c neurodegenerative disease; majority cases: distribution sporadic, age elderly > 60 years. | MED-C37-08 |
+
+Unasked points: **none found**.
+
+### Book p585 / 03 PDF24
+
+| Printed point / call-out | Question |
+|---|---|
+| Figure labels: stooped posture, masked facial expression, rigidity, forward tilt of trunk, flexed elbows and wrists, reduced arm swinging, slightly flexed hips and knees, trembling of extremities, shuffling short-stepped gait. | MED-C37-09 |
+| Frequency row: PD tremor 4-6 Hz; essential tremor 5-12 Hz. | MED-C37-10 |
+| PD column: at rest +/- re-emergent tremor, asymmetric, hands +/- legs, small writing (micrographia), progressive, family history uncommon (1%), extrapyramidal signs (bradykinesia, rigidity, loss of postural reflex) present, relieved by levodopa/dopamine agonists/anticholinergics, DBS site subthalamic nucleus or globus pallidus interna. Essential column: postural tremor, mostly symmetric, hands/head/voice, large and tremulous writing, stable or slowly progressive, family history common (>30%), EPS absent, relieved by alcohol/propranolol/primidone/topiramate/gabapentin/clonazepam, DBS ventral intermediate thalamus. | MED-C37-11 |
+| PD relieving factors: levodopa, dopamine agonists, anticholinergics; essential tremor relieving factors include alcohol, propranolol, primidone, topiramate, gabapentin, clonazepam. | MED-C37-12 |
+
+Unasked points: **none found**.
+
+### Book p586 / Missing from supplied scan
+
+| Printed point / call-out | Question |
+|---|---|
+| Printed p586 is absent from the supplied scan (it proceeds p585 -> p587); its bracketing content is the p585 PD-versus-essential tremor table and the p587 rigidity/akinesia list. Content verification of p586 remains unresolved, as with the missing p527 in Chapter 26. | MED-C37-13 |
+
+Unasked points: **none found**.
+
+### Book p587 / 03 PDF27
+
+| Printed point / call-out | Question |
+|---|---|
+| Hypertonia - 2 types: cogwheel rigidity (rigidity + tremor) at wrist; lead pipe rigidity at elbow. Froment's sign: activity-induced increase in c/l rigidity (as printed on the page). | MED-C37-14 |
+| Akinesia/bradykinesia: bradyphrenia; reduced arm swing (difficulty with limb movements); flexion hypertonia (stooped posture); short quick steps and freeze in between; festinant gait (narrow-based); micrographia; hypomimia (minimal expression); hypophonia (down voice); reduced blinking - glabellar tap sign positive. | MED-C37-15 |
+| Note: atypical PD - b/l axial rigidity: difficulty turning in bed, rising from a chair (wheelchair sign); non-parkinsonian lesion having hypokinesia: hypothyroidism. (Visual hallucinations with fluctuating alertness are DLB features on p588.) | MED-C37-16 |
+| Postural instability: unsteadiness and falls; pull test - patient falls backward (normal: takes 2-3 steps backwards to correct posture). | MED-C37-17 |
+| Investigation: clinical diagnosis. | MED-C37-18 |
+| MRI midbrain level: hyperintensities b/l in grey matter surrounded by hypointense red nuclei and crural fibres; absence of swallow tail sign (swallow tail sign d/t SN). | MED-C37-19 |
+| PD patients can also have sensory symptoms (pain, anosmia), neuropsychiatric symptoms (depression > dementia) and gastrointestinal symptoms (dysphagia). | MED-C37-20 |
+
+Unasked points: **none found**.
+
+### Book p588 / 03 PDF28
+
+| Printed point / call-out | Question |
+|---|---|
+| Atypical PD aka Parkinson plus syndromes: rapid progression, early onset dementia, symmetrical bradykinesia, facial dyskinesia. Classifications: tauopathy (PSP, CBD) and alpha synucleinopathy (MSA, DLB). | MED-C37-21 |
+| Atypical PD: absence of tremor, unresponsiveness to L-dopa, rapidly progressive; DLB: dementia at presentation, visual hallucination, fluctuating alertness; CBD: myoclonus, cortical signs; PSP: falls d/t postural instability, dementia component, b/l axial rigidity, supranuclear gaze palsy; MSA: ANS symptoms, disproportionate cerebellar signs. | MED-C37-22 |
+| PSP: falls d/t postural instability, dementia component, b/l axial rigidity, supranuclear gaze palsy. | MED-C37-23 |
+| CBD: myoclonus, cortical signs; DLB: dementia at presentation, visual hallucination, fluctuating alertness; MSA: ANS symptoms, disproportionate cerebellar signs. | MED-C37-24 |
+| MSA: 45-55 yrs; glial cytoplasmic inclusions (stain for alpha synuclein) - alpha synucleinopathy; REM sleep disorders (years before diagnosis); ANS predominant. | MED-C37-25 |
+| MSA classification: MSA-P (80%) parkinson predominant; MSA-C cerebellar predominant; MSA-A/Shy-Drager syndrome (15%) ANS predominant. | MED-C37-26 |
+
+Unasked points: **none found**.
+
+### Book p589 / 03 PDF29
+
+| Printed point / call-out | Question |
+|---|---|
+| Drugs: L-Dopa - peripheral metabolism is high; combined with: dopa decarboxylase inhibitor (carbidopa, benserazide); COMT inhibitors - not used now: tolcapone (hepatotoxic), entacapone (hepatotoxic, orange coloured urine); L-Dopa + dopa decarboxylase inhibitor is the combination started. | MED-C37-27 |
+| All patients are started on L-dopa: small doses, multiple times, crushed and mixed with carbonated water. Symptoms non-responsive to L-dopa: freezing, falls, dysphagia, dysarthria, ANS symptoms. | MED-C37-28 |
+| Symptoms non-responsive to L-dopa: freezing, falls, dysphagia, dysarthria, ANS symptoms. | MED-C37-29 |
+| Side effects: nausea/vomiting, postural hypotension; motor fluctuations - wearing off (space drug without much gap), on/off, delayed onset of action, drug failure; dyskinesias - peak dose dyskinesia: choreiform movements (d/t high dose), off period dyskinesia: dystonia (d/t low drug concentration). | MED-C37-30 |
+| Motor fluctuations (wearing off, on/off, delayed onset of action, drug failure) - to tackle: amantadine. | MED-C37-31 |
+| Central anticholinergics: trihexyphenidyl; used in drug-induced PD. Dopaminergic agonists: found as replacement for L-dopa; disadvantages - dopamine dysregulation syndrome (neuropsychiatric manifestations: visual hallucinations, impulse control issues, addiction). | MED-C37-32 |
+
+Unasked points: **none found**.
+
+### Book p590 / Missing from supplied scan
+
+| Printed point / call-out | Question |
+|---|---|
+| Printed p590 and p591 are absent from the supplied scan, so the dopaminergic-agonist material between the p589 disadvantages list and the p592 examples list cannot be visually verified; this follows the unresolved-missing-page precedent set by p527 in Chapter 26. | MED-C37-33 |
+
+Unasked points: **none found**.
+
+### Book p591 / Missing from supplied scan
+
+| Printed point / call-out | Question |
+|---|---|
+| With p591 (and p590) absent from the supplied scan, the next visible sheet - p592 - opens with the dopaminergic-agonist examples list: pramipexole (antidepressant action also), ropinirole, rotigotine, apomorphine (used in rescue therapy, IV route). | MED-C37-34 |
+
+Unasked points: **none found**.
+
+### Book p592 / 03 PDF28
+
+| Printed point / call-out | Question |
+|---|---|
+| Example: pramipexole (antidepressant action also), ropinirole, rotigotine, apomorphine - i. used in rescue therapy, ii. IV route. | MED-C37-35 |
+| Amantadine: 3 mechanisms of action - dopaminergic agonist, anticholinergic, NMDA antagonist. Newer drugs: istradefylline (A2a antagonist - minimizes motor fluctuations), pimavanserin (5HTa antagonist). | MED-C37-36 |
+| Treatment protocol: <60 yrs old + mild symptoms -> dopaminergic agonist; >60 yrs / significant disease present -> L-dopa + carbidopa. | MED-C37-37 |
+
+Unasked points: **none found**.
+
+### Book p593 / 03 PDF29
+
+| Printed point / call-out | Question |
+|---|---|
+| Pain sensitive: dural venous sinuses, dura around vessels, large veins, circle of Willis, dural arteries (meningeal arteries), first few centimeters of medium sized vessels, pia mater, small cerebral vessels; pain insensitive: choroid plexus, ependyma. | MED-C38-01 |
+| Classification: primary (benign, recurrent, no organic cause) - tension headache m/c, migraine 2nd m/c, TACs (eg cluster headache); secondary - systemic infection, brain tumour (rare). | MED-C38-02 |
+| Dangerous headache - new onset headache after 55 yrs: seen in giant cell arteritis, associated with scalp tenderness, thick/nodular vessels, jaw claudication, PUO, ESR raised. | MED-C38-03 |
+| Up intracranial tension: subacute, rapidly progressive over a few weeks, nocturnal awakening, vomiting (precede/relieve headache), up intensity by bending/coughing (seen in meningeal inflammation), blurring of vision - do direct ophthalmoscopy, if papilledema (+) -> imaging (MRI, MRA, MRV). | MED-C38-04 |
+| Investigation line for the raised-ICP/dangerous-headache block: MRI, MRA, MRV (after direct ophthalmoscopy; papilledema (+) -> imaging). | MED-C38-05 |
+
+Unasked points: **none found**.
+
+### Book p594 / 03 PDF30
+
+| Printed point / call-out | Question |
+|---|---|
+| Signs of up ICT: bradycardia, bradypnoea, hypertension, cardiac arrhythmia. | MED-C38-06 |
+| Complication: herniation -> coning -> death; m/c site: uncus (inferior part of temporal lobe); signs: 3rd nerve palsy; Rx: decompression. | MED-C38-07 |
+| Tension type headache (TTH): middle-aged female; 1/3rd cases associated with depression; holocranial band-like or pressure sensation; does not affect activities of daily living; no danger signs. Mx: acute NSAIDs; chronic amitriptyline (TCA) d/t associated depression (prophylactic). | MED-C38-08 |
+| Against TTH: vomiting, photophobia, phonophobia, aggravated by movement. | MED-C38-09 |
+| Migraine features: episodic; adolescence onset; severity up with age; F > m; family history +; not attributable to other diseases; normal systemic examination. | MED-C38-10 |
+| Types: common (80%) - not associated with aura; classical (20%) - associated with aura. | MED-C38-11 |
+| Aura: subjective, duration 15 mins - 1 hr; visual (m/c) - fortification spectra (m/c): zig-zag lines in peripheral vision, hazy spot in centre of vision; sensory (tingling and numbness); auditory; motor. | MED-C38-12 |
+
+Unasked points: **none found**.
+
+### Book p595 / 03 PDF31
+
+| Printed point / call-out | Question |
+|---|---|
+| Stages of migraine: 1. prodrome -> 2. aura (zig-zag lines m/c) -> 3. headache -> 4. postdrome (lethargy, low mood/depressed). | MED-C38-13 |
+| Prodrome: mood disturbance, irritability, depressive symptoms; aura: zig-zag lines (m/c); headache: unilateral -> holocranial, frontotemporal, throbbing/pounding type, nausea/vomiting (rare), photophobia/phonophobia/osmophobia, photopsia (flashing lights), scintillating scotomas; postdrome: lethargy, low mood/depressed. | MED-C38-14 |
+| Headache stage duration: 4-72 hrs. | MED-C38-15 |
+| Triggers: sleep deprivation (m/c) d/t serotonin-melatonin cycle disruption; menstruation d/t hormonal fluctuation; excess stress; traffic, climate, mosquito, henna, food etc. | MED-C38-16 |
+| Common migraine: minimum 5 attacks lasting 4-72 hrs; characteristics (at least 2): unilateral, pulsatile, moderate to severe intensity, aggravated by routine physical activity/movement; clinical features (at least 1): nausea/vomiting (rare), photophobia/phonophobic; not attributed to another disorder. | MED-C38-17 |
+| Classical migraine: at least 3 attacks lasting 4-72 hrs; aura - at least 3 of: gradual, duration <60 mins, reversible, headache within 60 mins of aura OR headache preceding/simultaneous with aura; not attributable to another disorder. | MED-C38-18 |
+| Pathogenesis: vascular theory - vasoconstriction -> aura, vasodilation -> headache; serotonin theory - down level of serotonin. Important pathogenic cytokine: CGRP (calcitonin gene-related peptide); pathway: trigeminovascular complex. | MED-C38-19 |
+| Serotonin theory Rx: 5-HT1b/1d agonist: triptans (DOC); 5-HT1F agonist: ditans (Lasmiditan). | MED-C38-20 |
+
+Unasked points: **none found**.
+
+### Book p596 / 03 PDF32
+
+| Printed point / call-out | Question |
+|---|---|
+| Other types of migraine with aura: 1. ophthalmoplegic (transient 3rd nerve palsy, involvement of pupil +); 2. retinal (unilocular visual impairment); 3. basilar type (occipital involvement, ataxia, tinnitus, vertigo); 4. familial hemiplegic migraine: Ca2+ channelopathy. | MED-C38-21 |
+| Acute attack - antiemetics: metoclopramide 5-10 mg/D; domperidone. | MED-C38-22 |
+| Treatment table - mild: paracetamol, NSAID (naproxen 550 mg BD, ibuprofen 400 mg QID); moderate to severe: triptan (5HT1b/1d agonists) - eletriptan, rizatriptan, almotriptan, sumatriptan; very severe: sumatriptan 6 mg S/C x 2 doses intranasal, zolmitriptan intranasal. | MED-C38-23 |
+| Moderate to severe: rizatriptan 5-10 mg (max: 30mg); sumatriptan 50-100 mg (max: 200mg); eletriptan; almotriptan. | MED-C38-24 |
+| Disadvantages of triptan: C/I in cardiovascular or cerebrovascular disease; efficacy depends on Tmax; ineffective in migraine with aura. Note: ergotamine -> least recurrence of migraine. | MED-C38-25 |
+| Prophylaxis: first line beta-blocker, valproate, topiramate; second line SNRI (venlafaxine), TCA; third line pizotifen (5-HTa antagonist), flunarizine (Ca2+ channel blocker), clonidine, candesartan. | MED-C38-26 |
+| Note S/E: topiramate - weight loss, renal calculi; valproate - weight gain, liver disease, hyperammonemia, thrombocytopenia. | MED-C38-27 |
+| Newer drugs and therapy: erenumab (CGRP antagonist), supraorbital transcutaneous stimulation, onabotulinum toxin A, greater occipital nerve block. | MED-C38-28 |
+
+Unasked points: **none found**.
+
+### Book p597 / 03 PDF33
+
+| Printed point / call-out | Question |
+|---|---|
+| Trigeminal Autonomic Cephalalgias includes: cluster headaches, paroxysmal hemicrania, SUNCT (short-lasting unilateral neuralgic headache with conjunctival congestion and tear), hemicrania continua. | MED-C38-29 |
+| Features: headache (short-lasting, severe, unilateral, neuralgic) + ipsilateral ANS symptoms; ANS symptoms at least 1: conjunctival congestion/lacrimation, nasal congestion/rhinorrhoea, eyelid edema, forehead and facial sweating, forehead and facial flushing, sensation of fullness in ear, miosis and/or ptosis. | MED-C38-30 |
+| Cluster headache: young males (M > F); unilateral periorbital non-throbbing, stabbing/boring, excruciating (most painful headache), associated with ipsilateral ANS, nocturnal; frequency 1-8 attacks/day, symptoms for 8-10 weeks followed by symptom-free period; migrainous features (photophobia may be seen); 20% chronic symptoms; trigger alcohol, no cutaneous trigger. | MED-C38-31 |
+| Duration of attack: 15 min - 3 hours (30 mins). | MED-C38-32 |
+
+Unasked points: **none found**.
+
+### Book p598 / 03 PDF34
+
+| Printed point / call-out | Question |
+|---|---|
+| Management - treatment: 100% oxygen: treatment of choice, 12-15 L/min for 10-20 mins; sumatriptan 6 mg S/C. | MED-C38-33 |
+| Prevention - short-term: steroid (DOC), verapamil, galcanezumab, greater occipital nerve injection; long-term: verapamil (best), topiramate, lithium. | MED-C38-34 |
+| Paroxysmal hemicrania: F = m; type throbbing/boring/stabbing; severity excruciating; 1-30 attacks/day; duration 2-30 mins (average 5 mins); ANS symptoms +; no migraine-like feature, no alcoholic trigger, no nocturnal preponderance; treatment: indomethacin (reduce frequency of attack); no effective treatment during attack. | MED-C38-35 |
+| SUNCT: M = F, unilateral, orbital or temporal pain, stabbing/throbbing, 3-200 attacks/day; duration of attack 5-240 sec; no migraine-like features; no alcohol preponderance; cutaneous trigger +, no refractory period. | MED-C38-36 |
+| SUNCT management: treatment IV lignocaine; prevention lamotrigine or topiramate. | MED-C38-37 |
+| Hemicrania continua: elderly females; continuous nature of unilateral background headache with episodic TAC; migrainous features +; ANS symptoms +; responsive to indomethacin. | MED-C38-38 |
+
+Unasked points: **none found**.
+
+### Book p599 / 03 PDF35
+
+| Printed point / call-out | Question |
+|---|---|
+| Investigation of TAC: MRI brain; polysomnography; pituitary function test. | MED-C38-39 |
+| Trigeminal neuralgia (00:55:15): F > m, 50-60 yrs; paroxysms of intense pain; unilateral d/t compression on superior cerebellar artery; bilateral d/t demyelination (multiple sclerosis); type brief, electric, shock-like superficial pain; tic douloureux - wincing d/t pain; maxillary (V2) and mandibular (V3) divisions; no objective sensory loss; cutaneous trigger +, refractory period +; investigation: specialized MRI. | MED-C38-40 |
+| Treatment: carbamazepine >> lamotrigine - HLA B-1502 tested before administration of carbamazepine; subcutaneous botulinum toxin; microvascular decompression in medical refractory cases. Note: HLA B-5801 tested before administration of allopurinol. | MED-C38-41 |
+| Unilateral: d/t compression on superior cerebellar artery; bilateral: d/t demyelination (multiple sclerosis). | MED-C38-42 |
+| Glossopharyngeal neuralgia: aka eagle syndrome; d/t elongation of styloid process; type sudden, severe, short-lasting, recurrent bouts of pain; site tonsil bed, throat and angle of jaw; aggravation factors coughing, yawning, swallowing; associated with cardiac conduction abnormalities. | MED-C38-43 |
+
+Unasked points: **none found**.
+
+### Book p600 / 03 PDF36
+
+| Printed point / call-out | Question |
+|---|---|
+| Evaluation protocol: papilledema + no neurologic signs except 6th nerve paresis: false localizing sign -> CT/MRI normal -> LP -> up opening pressure (>25 cm H2O) -> MRI: BIH or IIH. Papilledema seen in: hypertension, bradycardia, bradypnoea. | MED-C38-44 |
+| LP: up opening pressure (>25 cm H2O) -> MRI: benign intracranial hypertension (BIH) or idiopathic intracranial hypertension (IIH). | MED-C38-45 |
+| Modified Dandy criteria: symptoms of up ICP; no localising signs except 6th nerve palsy; normal CT, MRI findings; LP opening pressure >25 cm of H2O, CSF biochemistry/cytology normal; no other explanation for raised ICP. | MED-C38-46 |
+| Secondary causes - drugs: outdated tetracycline, nalidixic acid, NSAIDs, retinol, danazol, tamoxifen; endocrine: steroid withdrawal, growth hormone, anabolic steroid. Primary empty sella syndrome: benign intracranial hypertension, thin rim of pituitary intact. | MED-C38-47 |
+| Endocrine: steroid withdrawal, growth hormone, anabolic steroid. | MED-C38-48 |
+
+Unasked points: **none found**.
+
+### Book p601 / 03 PDF37
+
+| Printed point / call-out | Question |
+|---|---|
+| Clinical features - headache m/c: type orthostatic, frequency daily, bilateral, worse in morning; aggravating factors coughing, straining; associated with retrobulbar pain. Visual symptoms: transient visual obscuration (2nd m/c), blackouts/grayouts, duration seconds to minutes, unilateral/bilateral. Tinnitus: 3rd m/c, pulsatile, heard in silent surroundings, unilateral > bilateral. | MED-C38-49 |
+| Treatment: weight loss; acetazolamide (DOC); topiramate; repeated lumbar puncture (upto 20-30 ml): best option; surgery - optic nerve sheath fenestrations, shunting. | MED-C38-50 |
+| Mx of acute up ICP: 1. elevate head; 2. mannitol; 3. sedation; 4. hyperventilation; 5. pressor therapy to maintain CPP >60 mmHg. | MED-C38-51 |
+
+Unasked points: **none found**.
+
 ## Post-build verification
 
-- `python3 build_content.py` embedded 1096 questions / 102 units / 26 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 1264 questions / 128 units / 32 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1096 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1264 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **26/57**. Embedded question total after build: **1096**; units: **102**. Ledger points: **1204**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **32/57**. Embedded question total after build: **1264**; units: **128**. Ledger points: **1372**. Unasked points: **NONE** in the visually recorded inventory.
 

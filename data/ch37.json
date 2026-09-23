@@ -1,0 +1,651 @@
+{
+  "chapter": 37,
+  "title": "Parkinson's Disease",
+  "pageRange": "583-592",
+  "questions": [
+    {
+      "id": "MED-C37-01",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 583,
+      "fmt": "recall",
+      "q": "The subcortex tree: grey matter and white matter give rise to which structures?",
+      "opts": [
+        "Cerebellum; spinothalamic tract",
+        "Thalamus; medial lemniscus",
+        "Brainstem; corticospinal tract only",
+        "Basal ganglia; corticospinal tract and corticobulbar fibres passing through the internal capsule"
+      ],
+      "ans": 3,
+      "exp": "Subcortex -> grey matter -> basal ganglion; white matter -> corticospinal tract, corticobulbar fibres (pass through internal capsule). (Book p583)"
+    },
+    {
+      "id": "MED-C37-02",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 583,
+      "fmt": "recall",
+      "q": "Per the nuclei diagram, the corpus striatum and lenticular nucleus are formed by which pairings?",
+      "opts": [
+        "Caudate + putamen; putamen + globus pallidus",
+        "Caudate + GP; putamen + STN",
+        "Putamen + SN; caudate + STN",
+        "Caudate + STN; putamen + SN"
+      ],
+      "ans": 0,
+      "exp": "Nuclei: caudate nucleus (CN), putamen, globus pallidus (GP: GPi, GPe), subthalamic nucleus (STN), substantia nigra (SN); corpus striatum = CN + putamen; lenticular nucleus = putamen + GP. (Book p583)"
+    },
+    {
+      "id": "MED-C37-03",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 583,
+      "fmt": "scenario",
+      "q": "A lesion of the subthalamic nucleus produces which movement disorder per the diagram?",
+      "opts": [
+        "Rigidity only",
+        "Hemiballismus",
+        "Chorea (caudate lesion)",
+        "Dystonia/athetosis (putamen-striatum lesion)"
+      ],
+      "ans": 1,
+      "exp": "Lesion -> hypokinetic movements: caudate -> chorea; putamen/striatum -> dystonia/athetosis; STN -> hemiballismus. (Book p583)"
+    },
+    {
+      "id": "MED-C37-04",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 583,
+      "fmt": "recall",
+      "q": "The basal-ganglia physiology functions listed are:",
+      "opts": [
+        "Respiratory drive, heart rate, blood pressure",
+        "Vision, hearing, balance",
+        "Complex motor activity; initiation and scaling of movement; cognitive part; activity set for movement (planning, programming, initiation)",
+        "Sensory discrimination, memory consolidation, language naming"
+      ],
+      "ans": 2,
+      "exp": "Functions: complex motor activity; initiation and scaling of movement; cognitive part of motor activity; activity set for movement (planning, programming and initiation). Note: premotor cortex and supplementary motor area also involved in planning and programming. (Book p583)"
+    },
+    {
+      "id": "MED-C37-05",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 584,
+      "fmt": "recall",
+      "q": "The three general features of the direct and indirect pathways are:",
+      "opts": [
+        "All input from thalamus; output via STN; only inhibitory nucleus is GPi",
+        "Input from brainstem; output via SN; only excitatory is caudate",
+        "All input from cerebellum; output via thalamus; subthalamus inhibitory",
+        "All input from cortex to striatum; all output leaves through GPi; the only excitatory BG nucleus is the subthalamus"
+      ],
+      "ans": 3,
+      "exp": "General features: 1. all input from cortex -> striatum; 2. all output leave through GPi; 3. the only excitatory nucleus in BG: subthalamus. (Book p584)"
+    },
+    {
+      "id": "MED-C37-06",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 584,
+      "fmt": "scenario",
+      "q": "The nigrostriatal pathway (SN -> corpus striatum) acts via D1 and D2 receptors to do what?",
+      "opts": [
+        "D1 activates the direct pathway and D2 inhibits the indirect pathway, together stimulating the cortex",
+        "D1 inhibits the direct pathway and D2 activates the indirect pathway",
+        "Both receptors inhibit the thalamus",
+        "D1 excites STN and D2 excites GPe"
+      ],
+      "ans": 0,
+      "exp": "Nigrostriatal pathway: via D1 activate direct pathway; via D2 inhibits indirect pathway - together stimulating of cortex. (Book p584)"
+    },
+    {
+      "id": "MED-C37-07",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "page": 584,
+      "fmt": "scenario",
+      "q": "Degeneration of the nigrostriatal pathway in PD produces which applied-aspect outcome?",
+      "opts": [
+        "STN disinhibition -> dystonia",
+        "Inhibition of the cortex -> akinesia and bradyphrenia (slowness of thoughts)",
+        "Excitation of the cortex -> hyperkinesia",
+        "Thalamic release -> chorea"
+      ],
+      "ans": 1,
+      "exp": "Applied aspect: degeneration of NS pathway (Parkinson's disease) -> inhibition of cortex -> akinesia, bradyphrenia (slowness of thoughts). Disorders of BG: hyperkinetic vs hypokinetic (paucity of movement - down amplitude, slowness - unrelated to weakness/spasticity). Idiopathic PD: and m/c neurodegenerative disease; majority cases sporadic, elderly > 60 years. (Book p584)"
+    },
+    {
+      "id": "MED-C37-08",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "page": 584,
+      "fmt": "numeric",
+      "q": "Idiopathic Parkinson's disease: the majority cases are which distribution and age?",
+      "opts": [
+        "Sporadic; adolescents",
+        "Autosomal dominant; 40-50 years",
+        "Sporadic; elderly > 60 years",
+        "Familial; children < 10 years"
+      ],
+      "ans": 2,
+      "exp": "Idiopathic Parkinson's disease: and m/c neurodegenerative disease; majority cases: distribution sporadic, age elderly > 60 years. (Book p584)"
+    },
+    {
+      "id": "MED-C37-09",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "page": 585,
+      "fmt": "scenario",
+      "q": "The 'typical symptomatic appearance' figure labels which constellation?",
+      "opts": [
+        "Hyperextended posture, lively facies, flaccidity, wide-based ataxic gait",
+        "Kyphoscoliosis, facial grimacing, tremor-free hands",
+        "Forward lean with brisk arm swing and long strides",
+        "Stooped posture, masked facial expression, rigidity, forward tilt of trunk, flexed elbows and wrists, reduced arm swinging, slightly flexed hips and knees, trembling of extremities, shuffling short-stepped gait"
+      ],
+      "ans": 3,
+      "exp": "Figure labels: stooped posture, masked facial expression, rigidity, forward tilt of trunk, flexed elbows and wrists, reduced arm swinging, slightly flexed hips and knees, trembling of extremities, shuffling short-stepped gait. (Book p585)"
+    },
+    {
+      "id": "MED-C37-10",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "page": 585,
+      "fmt": "numeric",
+      "q": "The tremor-comparison table gives Parkinson disease tremor frequency as:",
+      "opts": [
+        "4-6 Hz",
+        "5-12 Hz (essential tremor)",
+        "1-2 Hz",
+        "10-15 Hz"
+      ],
+      "ans": 0,
+      "exp": "Frequency row: PD tremor 4-6 Hz; essential tremor 5-12 Hz. (Book p585)"
+    },
+    {
+      "id": "MED-C37-11",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "page": 585,
+      "fmt": "scenario",
+      "q": "A rest tremor with re-emergent component, asymmetric, hands and legs, micrographia, progressive course, 1% family history, extrapyramidal signs present, levodopa-responsive, DBS at STN or GPi - which tremor?",
+      "opts": [
+        "Orthostatic tremor",
+        "Parkinson's disease tremor",
+        "Essential tremor",
+        "Cerebellar intention tremor"
+      ],
+      "ans": 1,
+      "exp": "PD column: at rest +/- re-emergent tremor, asymmetric, hands +/- legs, small writing (micrographia), progressive, family history uncommon (1%), extrapyramidal signs (bradykinesia, rigidity, loss of postural reflex) present, relieved by levodopa/dopamine agonists/anticholinergics, DBS site subthalamic nucleus or globus pallidus interna. Essential column: postural tremor, mostly symmetric, hands/head/voice, large and tremulous writing, stable or slowly progressive, family history common (>30%), EPS absent, relieved by alcohol/propranolol/primidone/topiramate/gabapentin/clonazepam, DBS ventral intermediate thalamus. (Book p585)"
+    },
+    {
+      "id": "MED-C37-12",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "page": 585,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the relieving factor NOT for Parkinson disease tremor per the table:",
+      "opts": [
+        "Dopamine agonists",
+        "Anticholinergics",
+        "Propranolol",
+        "Levodopa"
+      ],
+      "ans": 2,
+      "exp": "PD relieving factors: levodopa, dopamine agonists, anticholinergics; essential tremor relieving factors include alcohol, propranolol, primidone, topiramate, gabapentin, clonazepam. (Book p585)"
+    },
+    {
+      "id": "MED-C37-13",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "page": 586,
+      "fmt": "recall",
+      "q": "The sheet for printed p586 is absent from the supplied scan. Which statement correctly places it in the Parkinson's sequence?",
+      "opts": [
+        "It lies between the p583 title page and the p584 pathway diagram",
+        "It lies between the p589 L-dopa list and the p592 agonist examples",
+        "No sheet is missing - p587 follows p585 directly in the scan",
+        "It lies between the p585 tremor-comparison table and the p587 rigidity list"
+      ],
+      "ans": 3,
+      "exp": "Printed p586 is absent from the supplied scan (it proceeds p585 -> p587); its bracketing content is the p585 PD-versus-essential tremor table and the p587 rigidity/akinesia list. Content verification of p586 remains unresolved, as with the missing p527 in Chapter 26. (Book p586)"
+    },
+    {
+      "id": "MED-C37-14",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "recall",
+      "q": "Cogwheel and lead-pipe rigidity are distinguished at which sites per the page, and what is Froment's sign?",
+      "opts": [
+        "Cogwheel (rigidity + tremor) at the wrist; lead pipe at the elbow; Froment's sign = activity-induced increase in c/l rigidity",
+        "Cogwheel at the elbow; lead pipe at the wrist; Froment's sign = thumb pinch sign",
+        "Both at the ankle; Froment's sign = falling backwards",
+        "Both at the neck; Froment's sign = tremor vanishing in action"
+      ],
+      "ans": 0,
+      "exp": "Hypertonia - 2 types: cogwheel rigidity (rigidity + tremor) at wrist; lead pipe rigidity at elbow. Froment's sign: activity-induced increase in c/l rigidity (as printed on the page). (Book p587)"
+    },
+    {
+      "id": "MED-C37-15",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "scenario",
+      "q": "Bradyphrenia, reduced arm swing, stooped posture from flexion hypertonia, short quick steps with freezing, narrow-based festinant gait, micrographia, hypomimia, hypophonia and reduced blinking - this printed cluster is:",
+      "opts": [
+        "Sensory symptoms of PD",
+        "Akinesia/bradykinesia",
+        "Postural instability",
+        "Rigidity"
+      ],
+      "ans": 1,
+      "exp": "Akinesia/bradykinesia: bradyphrenia; reduced arm swing (difficulty with limb movements); flexion hypertonia (stooped posture); short quick steps and freeze in between; festinant gait (narrow-based); micrographia; hypomimia (minimal expression); hypophonia (down voice); reduced blinking - glabellar tap sign positive. (Book p587)"
+    },
+    {
+      "id": "MED-C37-16",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the item NOT on the atypical-PD/hypokinesia note on this page:",
+      "opts": [
+        "Hypothyroidism as a non-Parkinsonian hypokinesia",
+        "Difficulty turning in bed",
+        "Visual hallucinations with fluctuating alertness",
+        "B/l axial rigidity (wheelchair sign)"
+      ],
+      "ans": 2,
+      "exp": "Note: atypical PD - b/l axial rigidity: difficulty turning in bed, rising from a chair (wheelchair sign); non-parkinsonian lesion having hypokinesia: hypothyroidism. (Visual hallucinations with fluctuating alertness are DLB features on p588.) (Book p587)"
+    },
+    {
+      "id": "MED-C37-17",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "scenario",
+      "q": "The pull test shows the patient falls backward (normal: takes 2-3 steps backwards to correct posture) - which feature is demonstrated?",
+      "opts": [
+        "Festination",
+        "Bradyphrenia",
+        "Rigidity",
+        "Postural instability"
+      ],
+      "ans": 3,
+      "exp": "Postural instability: unsteadiness and falls; pull test - patient falls backward (normal: takes 2-3 steps backwards to correct posture). (Book p587)"
+    },
+    {
+      "id": "MED-C37-18",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "recall",
+      "q": "The investigation line for Parkinson's disease states the diagnosis is:",
+      "opts": [
+        "Clinical diagnosis",
+        "DaT-SPECT based",
+        "Brain biopsy",
+        "CSF alpha-synuclein assay"
+      ],
+      "ans": 0,
+      "exp": "Investigation: clinical diagnosis. (Book p587)"
+    },
+    {
+      "id": "MED-C37-19",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "scenario",
+      "q": "MRI at midbrain level shows b/l grey-matter hyperintensities surrounded by hypointense red nuclei and crural fibres, with absent swallow-tail sign - the sign's origin per the note is:",
+      "opts": [
+        "The globus pallidus",
+        "The substantia nigra (swallow tail sign d/t SN)",
+        "The subthalamic nucleus",
+        "The red nucleus"
+      ],
+      "ans": 1,
+      "exp": "MRI midbrain level: hyperintensities b/l in grey matter surrounded by hypointense red nuclei and crural fibres; absence of swallow tail sign (swallow tail sign d/t SN). (Book p587)"
+    },
+    {
+      "id": "MED-C37-20",
+      "sec": "Motor Signs, Posture & Investigations",
+      "page": 587,
+      "fmt": "recall",
+      "q": "The 'PD patient can also have' note lists which symptom groups?",
+      "opts": [
+        "Motor (chorea), cognitive (aphasia), skin (rash)",
+        "Sensory (tinnitus), psychiatric (mania), GI (diarrhoea only)",
+        "Sensory (pain, anosmia), neuropsychiatric (depression > dementia), gastrointestinal (dysphagia)",
+        "Visual (cortical blindness), auditory (deafness), urinary"
+      ],
+      "ans": 2,
+      "exp": "PD patients can also have sensory symptoms (pain, anosmia), neuropsychiatric symptoms (depression > dementia) and gastrointestinal symptoms (dysphagia). (Book p587)"
+    },
+    {
+      "id": "MED-C37-21",
+      "sec": "Atypical PD & MSA",
+      "page": 588,
+      "fmt": "recall",
+      "q": "Atypical Parkinson's disease is also called what, with which listed hallmarks?",
+      "opts": [
+        "Parkinson minus syndromes - slow progression, late dementia",
+        "Juvenile PD - tremor, early onset",
+        "Drug-induced parkinsonism - acute onset, reversible",
+        "Parkinson plus syndromes - rapid progression, early onset dementia, symmetrical bradykinesia, facial dyskinesia"
+      ],
+      "ans": 3,
+      "exp": "Atypical PD aka Parkinson plus syndromes: rapid progression, early onset dementia, symmetrical bradykinesia, facial dyskinesia. Classifications: tauopathy (PSP, CBD) and alpha synucleinopathy (MSA, DLB). (Book p588)"
+    },
+    {
+      "id": "MED-C37-22",
+      "sec": "Atypical PD & MSA",
+      "page": 588,
+      "fmt": "scenario",
+      "q": "The features common to atypical PD itself per the list are:",
+      "opts": [
+        "Absence of tremor, unresponsiveness to L-dopa, rapidly progressive",
+        "Prominent rest tremor, good L-dopa response, slowly progressive",
+        "Postural tremor, alcohol response, symmetric",
+        "Chorea, cognitive sparing, young onset"
+      ],
+      "ans": 0,
+      "exp": "Atypical PD: absence of tremor, unresponsiveness to L-dopa, rapidly progressive; DLB: dementia at presentation, visual hallucination, fluctuating alertness; CBD: myoclonus, cortical signs; PSP: falls d/t postural instability, dementia component, b/l axial rigidity, supranuclear gaze palsy; MSA: ANS symptoms, disproportionate cerebellar signs. (Book p588)"
+    },
+    {
+      "id": "MED-C37-23",
+      "sec": "Atypical PD & MSA",
+      "page": 588,
+      "fmt": "scenario",
+      "q": "Supranuclear gaze palsy with b/l axial rigidity and falls from postural instability - which atypical PD?",
+      "opts": [
+        "Diffuse Lewy body dementia",
+        "Progressive supranuclear palsy (PSP)",
+        "Corticobasal degeneration",
+        "Multiple system atrophy"
+      ],
+      "ans": 1,
+      "exp": "PSP: falls d/t postural instability, dementia component, b/l axial rigidity, supranuclear gaze palsy. (Book p588)"
+    },
+    {
+      "id": "MED-C37-24",
+      "sec": "Atypical PD & MSA",
+      "page": 588,
+      "fmt": "recall",
+      "q": "CBD's listed features are:",
+      "opts": [
+        "ANS symptoms and cerebellar signs",
+        "Dementia at presentation and hallucinations",
+        "Myoclonus and cortical signs",
+        "Visual hallucination and fluctuating alertness"
+      ],
+      "ans": 2,
+      "exp": "CBD: myoclonus, cortical signs; DLB: dementia at presentation, visual hallucination, fluctuating alertness; MSA: ANS symptoms, disproportionate cerebellar signs. (Book p588)"
+    },
+    {
+      "id": "MED-C37-25",
+      "sec": "Atypical PD & MSA",
+      "page": 588,
+      "fmt": "numeric",
+      "q": "MSA per the page: age range and defining inclusions are:",
+      "opts": [
+        "60-70 years; Lewy bodies in cortex",
+        "30-40 years; Pick bodies",
+        "50-60 years; neurofibrillary tangles",
+        "45-55 years; glial cytoplasmic inclusions staining for alpha synuclein"
+      ],
+      "ans": 3,
+      "exp": "MSA: 45-55 yrs; glial cytoplasmic inclusions (stain for alpha synuclein) - alpha synucleinopathy; REM sleep disorders (years before diagnosis); ANS predominant. (Book p588)"
+    },
+    {
+      "id": "MED-C37-26",
+      "sec": "Atypical PD & MSA",
+      "page": 588,
+      "fmt": "numeric",
+      "q": "The MSA classification prints what proportion as MSA-P (parkinson predominant)?",
+      "opts": [
+        "80%",
+        "15%",
+        "50%",
+        "95%"
+      ],
+      "ans": 0,
+      "exp": "MSA classification: MSA-P (80%) parkinson predominant; MSA-C cerebellar predominant; MSA-A/Shy-Drager syndrome (15%) ANS predominant. (Book p588)"
+    },
+    {
+      "id": "MED-C37-27",
+      "sec": "Treatment & Protocols",
+      "page": 589,
+      "fmt": "recall",
+      "q": "L-dopa is combined with a decarboxylase inhibitor because:",
+      "opts": [
+        "It masks orthostatic hypotension",
+        "Peripheral metabolism of L-dopa is high",
+        "L-dopa cannot cross the blood-brain barrier without it",
+        "It prevents CSF accumulation"
+      ],
+      "ans": 1,
+      "exp": "Drugs: L-Dopa - peripheral metabolism is high; combined with: dopa decarboxylase inhibitor (carbidopa, benserazide); COMT inhibitors - not used now: tolcapone (hepatotoxic), entacapone (hepatotoxic, orange coloured urine); L-Dopa + dopa decarboxylase inhibitor is the combination started. (Book p589)"
+    },
+    {
+      "id": "MED-C37-28",
+      "sec": "Treatment & Protocols",
+      "page": 589,
+      "fmt": "scenario",
+      "q": "The L-dopa administration details printed on the page are:",
+      "opts": [
+        "Only when symptoms are severe, fasting",
+        "With meals to reduce nausea",
+        "Small doses, multiple times, crushed and mixed with carbonated water",
+        "Single large dose at night with plain water"
+      ],
+      "ans": 2,
+      "exp": "All patients are started on L-dopa: small doses, multiple times, crushed and mixed with carbonated water. Symptoms non-responsive to L-dopa: freezing, falls, dysphagia, dysarthria, ANS symptoms. (Book p589)"
+    },
+    {
+      "id": "MED-C37-29",
+      "sec": "Treatment & Protocols",
+      "page": 589,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the symptom NOT printed as non-responsive to L-dopa:",
+      "opts": [
+        "Freezing",
+        "Falls",
+        "Dysarthria",
+        "Rest tremor"
+      ],
+      "ans": 3,
+      "exp": "Symptoms non-responsive to L-dopa: freezing, falls, dysphagia, dysarthria, ANS symptoms. (Book p589)"
+    },
+    {
+      "id": "MED-C37-30",
+      "sec": "Treatment & Protocols",
+      "page": 589,
+      "fmt": "scenario",
+      "q": "Peak-dose choreiform dyskinesia and off-period dystonia differ by what per the page?",
+      "opts": [
+        "High dose versus low drug concentration respectively",
+        "Young versus old age",
+        "Morning versus evening dosing",
+        "With versus without carbidopa"
+      ],
+      "ans": 0,
+      "exp": "Side effects: nausea/vomiting, postural hypotension; motor fluctuations - wearing off (space drug without much gap), on/off, delayed onset of action, drug failure; dyskinesias - peak dose dyskinesia: choreiform movements (d/t high dose), off period dyskinesia: dystonia (d/t low drug concentration). (Book p589)"
+    },
+    {
+      "id": "MED-C37-31",
+      "sec": "Treatment & Protocols",
+      "page": 589,
+      "fmt": "management",
+      "q": "The drug the page assigns to tackle motor fluctuations is:",
+      "opts": [
+        "Trihexyphenidyl",
+        "Amantadine",
+        "Carbidopa",
+        "Entacapone"
+      ],
+      "ans": 1,
+      "exp": "Motor fluctuations (wearing off, on/off, delayed onset of action, drug failure) - to tackle: amantadine. (Book p589)"
+    },
+    {
+      "id": "MED-C37-32",
+      "sec": "Treatment & Protocols",
+      "page": 589,
+      "fmt": "recall",
+      "q": "Central anticholinergics and the dopaminergic-agonist disadvantage note state:",
+      "opts": [
+        "Propranolol is used in drug-induced PD; DDS brings pain and anosmia",
+        "Carbidopa is a central anticholinergic; DDS brings seizures and aphasia",
+        "Trihexyphenidyl is used in drug-induced PD; DDS brings visual hallucinations, impulse control issues, addiction",
+        "Trihexyphenidyl is the DOC for idiopathic PD; DDS brings depression and amnesia"
+      ],
+      "ans": 2,
+      "exp": "Central anticholinergics: trihexyphenidyl; used in drug-induced PD. Dopaminergic agonists: found as replacement for L-dopa; disadvantages - dopamine dysregulation syndrome (neuropsychiatric manifestations: visual hallucinations, impulse control issues, addiction). (Book p589)"
+    },
+    {
+      "id": "MED-C37-33",
+      "sec": "Treatment & Protocols",
+      "page": 590,
+      "fmt": "recall",
+      "q": "The supplied scan proceeds directly from p589 to p592. What is absent between them?",
+      "opts": [
+        "Only printed p590 is missing",
+        "Only printed p591 is missing",
+        "Nothing is missing - p592 follows p589 in the book",
+        "Printed p590 and p591, both missing from the supplied scan"
+      ],
+      "ans": 3,
+      "exp": "Printed p590 and p591 are absent from the supplied scan, so the dopaminergic-agonist material between the p589 disadvantages list and the p592 examples list cannot be visually verified; this follows the unresolved-missing-page precedent set by p527 in Chapter 26. (Book p590)"
+    },
+    {
+      "id": "MED-C37-34",
+      "sec": "Treatment & Protocols",
+      "page": 591,
+      "fmt": "recall",
+      "q": "The p591 sheet is absent from the supplied scan. Which visible page carries the 'Example: pramipexole, ropinirole, rotigotine, apomorphine' list that follows it?",
+      "opts": [
+        "Printed p592, which opens with that examples list",
+        "Printed p589, which ends with the DDS note",
+        "Printed p594, the signs-of-raised-ICP page",
+        "Printed p584, the pathway-diagram page"
+      ],
+      "ans": 0,
+      "exp": "With p591 (and p590) absent from the supplied scan, the next visible sheet - p592 - opens with the dopaminergic-agonist examples list: pramipexole (antidepressant action also), ropinirole, rotigotine, apomorphine (used in rescue therapy, IV route). (Book p591)"
+    },
+    {
+      "id": "MED-C37-35",
+      "sec": "Treatment & Protocols",
+      "page": 592,
+      "fmt": "recall",
+      "q": "The dopaminergic-agonist examples list on this page includes which drug used in rescue therapy by the IV route?",
+      "opts": [
+        "Rotigotine",
+        "Apomorphine",
+        "Pramipexole",
+        "Ropinirole"
+      ],
+      "ans": 1,
+      "exp": "Example: pramipexole (antidepressant action also), ropinirole, rotigotine, apomorphine - i. used in rescue therapy, ii. IV route. (Book p592)"
+    },
+    {
+      "id": "MED-C37-36",
+      "sec": "Treatment & Protocols",
+      "page": 592,
+      "fmt": "numeric",
+      "q": "Amantadine's printed mechanisms of action number how many, and which are they?",
+      "opts": [
+        "4 - including a COMT-inhibitor action",
+        "1 - dopaminergic agonist only",
+        "3 - dopaminergic agonist, anticholinergic, NMDA antagonist",
+        "2 - anticholinergic and NMDA antagonist"
+      ],
+      "ans": 2,
+      "exp": "Amantadine: 3 mechanisms of action - dopaminergic agonist, anticholinergic, NMDA antagonist. Newer drugs: istradefylline (A2a antagonist - minimizes motor fluctuations), pimavanserin (5HTa antagonist). (Book p592)"
+    },
+    {
+      "id": "MED-C37-37",
+      "sec": "Treatment & Protocols",
+      "page": 592,
+      "fmt": "management",
+      "q": "The treatment protocol prints which first-line choice for a patient <60 years with mild symptoms?",
+      "opts": [
+        "L-dopa + carbidopa",
+        "Trihexyphenidyl",
+        "Amantadine",
+        "A dopaminergic agonist"
+      ],
+      "ans": 3,
+      "exp": "Treatment protocol: <60 yrs old + mild symptoms -> dopaminergic agonist; >60 yrs / significant disease present -> L-dopa + carbidopa. (Book p592)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U37-1",
+      "ch": 37,
+      "n": 1,
+      "title": "1. Basal Ganglia Anatomy & Circuits",
+      "sec": "Basal Ganglia Anatomy & Circuits",
+      "guide": "The subcortex tree and the nuclei diagram set the basal-ganglia map with its lesion syndromes.\nDirect/indirect pathway rules, the nigrostriatal D1/D2 actions and the idiopathic-PD intro follow.",
+      "qs": [
+        "MED-C37-01",
+        "MED-C37-02",
+        "MED-C37-03",
+        "MED-C37-04",
+        "MED-C37-05",
+        "MED-C37-06",
+        "MED-C37-07"
+      ]
+    },
+    {
+      "id": "MED-U37-2",
+      "ch": 37,
+      "n": 2,
+      "title": "2. Idiopathic PD: Appearance & Tremor",
+      "sec": "Idiopathic PD: Appearance & Tremor",
+      "guide": "The idiopathic profile (sporadic, >60 yrs) precedes the symptomatic-appearance figure.\nThe PD-versus-essential tremor table is read row by row; printed p586 is absent from the supplied scan.",
+      "qs": [
+        "MED-C37-08",
+        "MED-C37-09",
+        "MED-C37-10",
+        "MED-C37-11",
+        "MED-C37-12",
+        "MED-C37-13"
+      ]
+    },
+    {
+      "id": "MED-U37-3",
+      "ch": 37,
+      "n": 3,
+      "title": "3. Motor Signs, Posture & Investigations",
+      "sec": "Motor Signs, Posture & Investigations",
+      "guide": "Rigidity types and Froment's sign open the motor-signs page.\nThe akinesia/bradykinesia cluster, atypical notes, postural instability and the swallow-tail MRI follow.",
+      "qs": [
+        "MED-C37-14",
+        "MED-C37-15",
+        "MED-C37-16",
+        "MED-C37-17",
+        "MED-C37-18",
+        "MED-C37-19",
+        "MED-C37-20"
+      ]
+    },
+    {
+      "id": "MED-U37-4",
+      "ch": 37,
+      "n": 4,
+      "title": "4. Atypical PD & MSA",
+      "sec": "Atypical PD & MSA",
+      "guide": "Parkinson-plus hallmarks and the tau/synuclein classification set the atypical group.\nEntity-specific features, then MSA age, inclusions and subtype proportions.",
+      "qs": [
+        "MED-C37-21",
+        "MED-C37-22",
+        "MED-C37-23",
+        "MED-C37-24",
+        "MED-C37-25",
+        "MED-C37-26"
+      ]
+    },
+    {
+      "id": "MED-U37-5",
+      "ch": 37,
+      "n": 5,
+      "title": "5. Treatment & Protocols",
+      "sec": "Treatment & Protocols",
+      "guide": "L-dopa, decarboxylase and COMT inhibitors with administration and fluctuation handling.\nAnticholinergics and agonist disadvantages; printed p590-p591 are absent from the supplied scan.\nThe p592 examples, amantadine MOA, newer drugs and the age-based protocol close the chapter.",
+      "qs": [
+        "MED-C37-27",
+        "MED-C37-28",
+        "MED-C37-29",
+        "MED-C37-30",
+        "MED-C37-31",
+        "MED-C37-32",
+        "MED-C37-33",
+        "MED-C37-34",
+        "MED-C37-35",
+        "MED-C37-36",
+        "MED-C37-37"
+      ]
+    }
+  ]
+}

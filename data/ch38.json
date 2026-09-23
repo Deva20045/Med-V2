@@ -1,0 +1,885 @@
+{
+  "chapter": 38,
+  "title": "Headache",
+  "pageRange": "593-601",
+  "questions": [
+    {
+      "id": "MED-C38-01",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 593,
+      "fmt": "scenario",
+      "q": "Which of these structures is pain-INSENSITIVE per the relevant-anatomy list?",
+      "opts": [
+        "Dura around vessels",
+        "Circle of Willis",
+        "Choroid plexus",
+        "Dural venous sinuses"
+      ],
+      "ans": 2,
+      "exp": "Pain sensitive: dural venous sinuses, dura around vessels, large veins, circle of Willis, dural arteries (meningeal arteries), first few centimeters of medium sized vessels, pia mater, small cerebral vessels; pain insensitive: choroid plexus, ependyma. (Book p593)"
+    },
+    {
+      "id": "MED-C38-02",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 593,
+      "fmt": "recall",
+      "q": "The primary headache causes listed in the classification are:",
+      "opts": [
+        "Giant cell arteritis, SAH, brain tumour",
+        "Tension and cluster only",
+        "Migraine, TTH, paroxysmal hemicrania only",
+        "Tension headache (m/c), migraine (2nd m/c), trigeminal autonomic cephalalgias (e.g. cluster headache)"
+      ],
+      "ans": 3,
+      "exp": "Classification: primary (benign, recurrent, no organic cause) - tension headache m/c, migraine 2nd m/c, TACs (eg cluster headache); secondary - systemic infection, brain tumour (rare). (Book p593)"
+    },
+    {
+      "id": "MED-C38-03",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 593,
+      "fmt": "scenario",
+      "q": "A new-onset headache after 55 years with scalp tenderness, thick/nodular vessels, jaw claudication, PUO and raised ESR points to which dangerous-headache cause?",
+      "opts": [
+        "Giant cell arteritis",
+        "Migraine with aura",
+        "Tension-type headache",
+        "Trigeminal neuralgia"
+      ],
+      "ans": 0,
+      "exp": "Dangerous headache - new onset headache after 55 yrs: seen in giant cell arteritis, associated with scalp tenderness, thick/nodular vessels, jaw claudication, PUO, ESR raised. (Book p593)"
+    },
+    {
+      "id": "MED-C38-04",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 593,
+      "fmt": "recall",
+      "q": "The raised-intracranial-tension features printed on the page include:",
+      "opts": [
+        "Electric shock pain in V2 and V3 with triggers",
+        "Subacute, rapidly progressive over a few weeks, nocturnal awakening, vomiting preceding/relieving headache, intensity increased by bending/coughing (meningeal inflammation), blurring of vision",
+        "Chronic steady pain relieved by NSAIDs with no red flags",
+        "Pulsatile tinnitus with papilledema only"
+      ],
+      "ans": 1,
+      "exp": "Up intracranial tension: subacute, rapidly progressive over a few weeks, nocturnal awakening, vomiting (precede/relieve headache), up intensity by bending/coughing (seen in meningeal inflammation), blurring of vision - do direct ophthalmoscopy, if papilledema (+) -> imaging (MRI, MRA, MRV). (Book p593)"
+    },
+    {
+      "id": "MED-C38-05",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 593,
+      "fmt": "scenario",
+      "q": "Papilledema found on direct ophthalmoscopy in this headache block triggers which investigation set per the page?",
+      "opts": [
+        "EEG and LP only",
+        "Carotid Doppler and ESR",
+        "MRI, MRA, MRV",
+        "CT head alone"
+      ],
+      "ans": 2,
+      "exp": "Investigation line for the raised-ICP/dangerous-headache block: MRI, MRA, MRV (after direct ophthalmoscopy; papilledema (+) -> imaging). (Book p593)"
+    },
+    {
+      "id": "MED-C38-06",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 594,
+      "fmt": "recall",
+      "q": "Signs of raised ICP per the p594 list are:",
+      "opts": [
+        "Tachycardia, tachypnoea, hypotension",
+        "Bradycardia, hyperventilation, hypertension only",
+        "Hypertension, tachycardia, bradypnoea",
+        "Bradycardia, bradypnoea, hypertension, cardiac arrhythmia"
+      ],
+      "ans": 3,
+      "exp": "Signs of up ICT: bradycardia, bradypnoea, hypertension, cardiac arrhythmia. (Book p594)"
+    },
+    {
+      "id": "MED-C38-07",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "page": 594,
+      "fmt": "scenario",
+      "q": "The herniation complication line: the m/c herniation site and its sign are:",
+      "opts": [
+        "Uncus (inferior part of temporal lobe) with 3rd nerve palsy",
+        "Tonsil with 12th nerve palsy",
+        "Central herniation with 4th nerve palsy",
+        "Subfalcine herniation with 6th nerve palsy"
+      ],
+      "ans": 0,
+      "exp": "Complication: herniation -> coning -> death; m/c site: uncus (inferior part of temporal lobe); signs: 3rd nerve palsy; Rx: decompression. (Book p594)"
+    },
+    {
+      "id": "MED-C38-08",
+      "sec": "Tension-Type & Migraine",
+      "page": 594,
+      "fmt": "scenario",
+      "q": "Middle-aged female, holocranial band-like pressure, ADL preserved, one-third with depression - which headache, and its chronic prophylaxis per the page?",
+      "opts": [
+        "Trigeminal neuralgia; carbamazepine",
+        "Tension-type headache; amitriptyline (TCA) d/t associated depression",
+        "Cluster headache; verapamil",
+        "Migraine; triptan"
+      ],
+      "ans": 1,
+      "exp": "Tension type headache (TTH): middle-aged female; 1/3rd cases associated with depression; holocranial band-like or pressure sensation; does not affect activities of daily living; no danger signs. Mx: acute NSAIDs; chronic amitriptyline (TCA) d/t associated depression (prophylactic). (Book p594)"
+    },
+    {
+      "id": "MED-C38-09",
+      "sec": "Tension-Type & Migraine",
+      "page": 594,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the feature AGAINST tension-type headache per the page:",
+      "opts": [
+        "No effect on activities of daily living",
+        "No danger signs",
+        "Photophobia",
+        "Holocranial band-like sensation"
+      ],
+      "ans": 2,
+      "exp": "Against TTH: vomiting, photophobia, phonophobia, aggravated by movement. (Book p594)"
+    },
+    {
+      "id": "MED-C38-10",
+      "sec": "Tension-Type & Migraine",
+      "page": 594,
+      "fmt": "recall",
+      "q": "The migraine feature list on this page includes which items?",
+      "opts": [
+        "Continuous for months, onset after 55, M > F",
+        "Pulsatile pain with V2/V3 cutaneous triggers",
+        "Orthostatic, daily, bilateral, worse in morning",
+        "Episodic, adolescence onset, severity increases with age, F > m, family history +, normal systemic examination"
+      ],
+      "ans": 3,
+      "exp": "Migraine features: episodic; adolescence onset; severity up with age; F > m; family history +; not attributable to other diseases; normal systemic examination. (Book p594)"
+    },
+    {
+      "id": "MED-C38-11",
+      "sec": "Tension-Type & Migraine",
+      "page": 594,
+      "fmt": "numeric",
+      "q": "The migraine type split printed is:",
+      "opts": [
+        "Common 80% (not associated with aura) and classical 20% (associated with aura)",
+        "Common 50% and classical 50%",
+        "Common 90% and classical 10%",
+        "Common 70% and classical 30%"
+      ],
+      "ans": 0,
+      "exp": "Types: common (80%) - not associated with aura; classical (20%) - associated with aura. (Book p594)"
+    },
+    {
+      "id": "MED-C38-12",
+      "sec": "Tension-Type & Migraine",
+      "page": 594,
+      "fmt": "numeric",
+      "q": "Aura duration per the classical-migraine line is, and the m/c visual phenomenon is:",
+      "opts": [
+        "24 - 48 hours; scintillating scotoma of TTH",
+        "15 minutes - 1 hour; fortification spectra (zig-zag lines in peripheral vision, hazy central spot)",
+        "5 - 15 minutes; teichopsia alone",
+        "1 - 4 hours; micropsia"
+      ],
+      "ans": 1,
+      "exp": "Aura: subjective, duration 15 mins - 1 hr; visual (m/c) - fortification spectra (m/c): zig-zag lines in peripheral vision, hazy spot in centre of vision; sensory (tingling and numbness); auditory; motor. (Book p594)"
+    },
+    {
+      "id": "MED-C38-13",
+      "sec": "Tension-Type & Migraine",
+      "page": 595,
+      "fmt": "recall",
+      "q": "The stages of migraine on this page run in which order?",
+      "opts": [
+        "Headache -> prodrome -> aura -> postdrome",
+        "Prodrome -> headache -> postdrome -> aura",
+        "Prodrome -> aura -> headache -> postdrome",
+        "Aura -> prodrome -> postdrome -> headache"
+      ],
+      "ans": 2,
+      "exp": "Stages of migraine: 1. prodrome -> 2. aura (zig-zag lines m/c) -> 3. headache -> 4. postdrome (lethargy, low mood/depressed). (Book p595)"
+    },
+    {
+      "id": "MED-C38-14",
+      "sec": "Tension-Type & Migraine",
+      "page": 595,
+      "fmt": "recall",
+      "q": "The prodrome and headache stages carry which features per the page?",
+      "opts": [
+        "Prodrome: photopsia; headache: pulsatile with V2/V3 triggers",
+        "Prodrome: lethargy; headache: orthostatic and daily",
+        "Prodrome: visual scotoma; headache: 24-48 hrs constant",
+        "Prodrome: mood disturbance, irritability, depressive symptoms; headache: unilateral -> holocranial, frontotemporal, throbbing/pounding, nausea/vomiting (rare), photophobia/phonophobia/osmophobia, photopsia, scintillating scotomas"
+      ],
+      "ans": 3,
+      "exp": "Prodrome: mood disturbance, irritability, depressive symptoms; aura: zig-zag lines (m/c); headache: unilateral -> holocranial, frontotemporal, throbbing/pounding type, nausea/vomiting (rare), photophobia/phonophobia/osmophobia, photopsia (flashing lights), scintillating scotomas; postdrome: lethargy, low mood/depressed. (Book p595)"
+    },
+    {
+      "id": "MED-C38-15",
+      "sec": "Tension-Type & Migraine",
+      "page": 595,
+      "fmt": "numeric",
+      "q": "The migraine headache stage duration printed is:",
+      "opts": [
+        "4-72 hours",
+        "1-4 hours",
+        "24-48 hours",
+        "48-72 hours only"
+      ],
+      "ans": 0,
+      "exp": "Headache stage duration: 4-72 hrs. (Book p595)"
+    },
+    {
+      "id": "MED-C38-16",
+      "sec": "Tension-Type & Migraine",
+      "page": 595,
+      "fmt": "recall",
+      "q": "The most common migraine trigger per the page, with its stated mechanism, is:",
+      "opts": [
+        "Traffic - d/t noise",
+        "Sleep deprivation - d/t serotonin-melatonin cycle disruption",
+        "Menstruation - d/t hormonal fluctuation",
+        "Excess stress - d/t cortisol surge"
+      ],
+      "ans": 1,
+      "exp": "Triggers: sleep deprivation (m/c) d/t serotonin-melatonin cycle disruption; menstruation d/t hormonal fluctuation; excess stress; traffic, climate, mosquito, henna, food etc. (Book p595)"
+    },
+    {
+      "id": "MED-C38-17",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 595,
+      "fmt": "numeric",
+      "q": "The common-migraine criteria require a minimum of how many attacks, lasting how long?",
+      "opts": [
+        "10 attacks lasting 48-72 hrs",
+        "2 attacks lasting 4-72 hrs",
+        "5 attacks, lasting 4-72 hrs",
+        "3 attacks lasting 1-4 hrs"
+      ],
+      "ans": 2,
+      "exp": "Common migraine: minimum 5 attacks lasting 4-72 hrs; characteristics (at least 2): unilateral, pulsatile, moderate to severe intensity, aggravated by routine physical activity/movement; clinical features (at least 1): nausea/vomiting (rare), photophobia/phonophobic; not attributed to another disorder. (Book p595)"
+    },
+    {
+      "id": "MED-C38-18",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 595,
+      "fmt": "numeric",
+      "q": "Classical-migraine aura criteria require at least how many of the listed features?",
+      "opts": [
+        "2 - gradual and reversible",
+        "4 - including headache within 60 mins",
+        "1 - reversibility alone",
+        "3 - gradual, duration < 60 mins, reversible"
+      ],
+      "ans": 3,
+      "exp": "Classical migraine: at least 3 attacks lasting 4-72 hrs; aura - at least 3 of: gradual, duration <60 mins, reversible, headache within 60 mins of aura OR headache preceding/simultaneous with aura; not attributable to another disorder. (Book p595)"
+    },
+    {
+      "id": "MED-C38-19",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 595,
+      "fmt": "scenario",
+      "q": "In the pathogenesis diagram, vasoconstriction leads to which phase?",
+      "opts": [
+        "Aura",
+        "Headache",
+        "Postdrome",
+        "Prodrome"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis: vascular theory - vasoconstriction -> aura, vasodilation -> headache; serotonin theory - down level of serotonin. Important pathogenic cytokine: CGRP (calcitonin gene-related peptide); pathway: trigeminovascular complex. (Book p595)"
+    },
+    {
+      "id": "MED-C38-20",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 595,
+      "fmt": "recall",
+      "q": "The 5-HT1F agonist ('ditans') named in the serotonin-theory Rx is:",
+      "opts": [
+        "Metoclopramide",
+        "Lasmiditan",
+        "Sumatriptan",
+        "Rizatriptan"
+      ],
+      "ans": 1,
+      "exp": "Serotonin theory Rx: 5-HT1b/1d agonist: triptans (DOC); 5-HT1F agonist: ditans (Lasmiditan). (Book p595)"
+    },
+    {
+      "id": "MED-C38-21",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "recall",
+      "q": "The other migraine-with-aura types listed here are:",
+      "opts": [
+        "SUNCT, SUNA, status migrainosus",
+        "Postdrome, prodrome, aura",
+        "Ophthalmoplegic, retinal, basilar type, familial hemiplegic (Ca2+ channelopathy)",
+        "Hemicrania continua, cluster, paroxysmal hemicrania"
+      ],
+      "ans": 2,
+      "exp": "Other types of migraine with aura: 1. ophthalmoplegic (transient 3rd nerve palsy, involvement of pupil +); 2. retinal (unilocular visual impairment); 3. basilar type (occipital involvement, ataxia, tinnitus, vertigo); 4. familial hemiplegic migraine: Ca2+ channelopathy. (Book p596)"
+    },
+    {
+      "id": "MED-C38-22",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "management",
+      "q": "The acute-attack antiemetic options printed are:",
+      "opts": [
+        "Ondansetron 8 mg IV and cyclizine",
+        "Prochlorperazine 10 mg and promethazine",
+        "Haloperidol and metoclopramide 10-20 mg",
+        "Metoclopramide 5-10 mg/D and domperidone"
+      ],
+      "ans": 3,
+      "exp": "Acute attack - antiemetics: metoclopramide 5-10 mg/D; domperidone. (Book p596)"
+    },
+    {
+      "id": "MED-C38-23",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "management",
+      "q": "The mild-migraine column of the acute treatment table lists:",
+      "opts": [
+        "Paracetamol; NSAID - naproxen 550 mg BD, ibuprofen 400 mg QID",
+        "Sumatriptan 50-100 mg",
+        "Rizatriptan 5-10 mg",
+        "Zolmitriptan intranasal"
+      ],
+      "ans": 0,
+      "exp": "Treatment table - mild: paracetamol, NSAID (naproxen 550 mg BD, ibuprofen 400 mg QID); moderate to severe: triptan (5HT1b/1d agonists) - eletriptan, rizatriptan, almotriptan, sumatriptan; very severe: sumatriptan 6 mg S/C x 2 doses intranasal, zolmitriptan intranasal. (Book p596)"
+    },
+    {
+      "id": "MED-C38-24",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "numeric",
+      "q": "The printed maxima in the moderate-to-severe column for rizatriptan and sumatriptan are:",
+      "opts": [
+        "60 mg and 200 mg",
+        "30 mg and 200 mg respectively",
+        "10 mg and 100 mg",
+        "30 mg and 100 mg"
+      ],
+      "ans": 1,
+      "exp": "Moderate to severe: rizatriptan 5-10 mg (max: 30mg); sumatriptan 50-100 mg (max: 200mg); eletriptan; almotriptan. (Book p596)"
+    },
+    {
+      "id": "MED-C38-25",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the triptan disadvantage NOT printed on the page:",
+      "opts": [
+        "Efficacy depends on Tmax",
+        "Ineffective in migraine with aura",
+        "Causes permanent retinal damage",
+        "C/I in cardiovascular or cerebrovascular disease"
+      ],
+      "ans": 2,
+      "exp": "Disadvantages of triptan: C/I in cardiovascular or cerebrovascular disease; efficacy depends on Tmax; ineffective in migraine with aura. Note: ergotamine -> least recurrence of migraine. (Book p596)"
+    },
+    {
+      "id": "MED-C38-26",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "management",
+      "q": "The prophylaxis first-line trio printed is:",
+      "opts": [
+        "SNRI, TCA, clonidine",
+        "Pizotifen, flunarizine, candesartan",
+        "Amitriptyline, carbamazepine, lithium",
+        "Beta-blocker, valproate, topiramate"
+      ],
+      "ans": 3,
+      "exp": "Prophylaxis: first line beta-blocker, valproate, topiramate; second line SNRI (venlafaxine), TCA; third line pizotifen (5-HTa antagonist), flunarizine (Ca2+ channel blocker), clonidine, candesartan. (Book p596)"
+    },
+    {
+      "id": "MED-C38-27",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "recall",
+      "q": "The S/E notes: topiramate and valproate carry which adverse profiles?",
+      "opts": [
+        "Topiramate: weight loss, renal calculi; valproate: weight gain, liver disease, hyperammonemia, thrombocytopenia",
+        "Topiramate: weight gain, cataract; valproate: rash only",
+        "Topiramate: renal failure; valproate: aplastic anemia",
+        "Both: hepatotoxicity only"
+      ],
+      "ans": 0,
+      "exp": "Note S/E: topiramate - weight loss, renal calculi; valproate - weight gain, liver disease, hyperammonemia, thrombocytopenia. (Book p596)"
+    },
+    {
+      "id": "MED-C38-28",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "page": 596,
+      "fmt": "recall",
+      "q": "The newer migraine drugs and therapies printed include which CGRP antagonist?",
+      "opts": [
+        "Pimavanserin",
+        "Erenumab",
+        "Lasmiditan",
+        "Sumatriptan"
+      ],
+      "ans": 1,
+      "exp": "Newer drugs and therapy: erenumab (CGRP antagonist), supraorbital transcutaneous stimulation, onabotulinum toxin A, greater occipital nerve block. (Book p596)"
+    },
+    {
+      "id": "MED-C38-29",
+      "sec": "TAC, Cluster & Variants",
+      "page": 597,
+      "fmt": "recall",
+      "q": "The TAC group on this page includes which four conditions?",
+      "opts": [
+        "Cluster, status migrainosus, HCT, SUNA",
+        "Paroxysmal hemicrania, TN, GPN, HCT",
+        "Cluster headaches, paroxysmal hemicrania, SUNCT, hemicrania continua",
+        "TTH, migraine, GCA, trigeminal neuralgia"
+      ],
+      "ans": 2,
+      "exp": "Trigeminal Autonomic Cephalalgias includes: cluster headaches, paroxysmal hemicrania, SUNCT (short-lasting unilateral neuralgic headache with conjunctival congestion and tear), hemicrania continua. (Book p597)"
+    },
+    {
+      "id": "MED-C38-30",
+      "sec": "TAC, Cluster & Variants",
+      "page": 597,
+      "fmt": "scenario",
+      "q": "The TAC feature line: short-lasting, severe, unilateral, neuralgic headache plus which requirement?",
+      "opts": [
+        "Bilateral ANS symptoms",
+        "No ANS symptoms",
+        "Contralateral ANS symptoms",
+        "At least one ipsilateral ANS symptom (conjunctival congestion/lacrimation, nasal congestion/rhinorrhoea, eyelid edema, forehead/facial sweating or flushing, ear fullness, miosis and/or ptosis)"
+      ],
+      "ans": 3,
+      "exp": "Features: headache (short-lasting, severe, unilateral, neuralgic) + ipsilateral ANS symptoms; ANS symptoms at least 1: conjunctival congestion/lacrimation, nasal congestion/rhinorrhoea, eyelid edema, forehead and facial sweating, forehead and facial flushing, sensation of fullness in ear, miosis and/or ptosis. (Book p597)"
+    },
+    {
+      "id": "MED-C38-31",
+      "sec": "TAC, Cluster & Variants",
+      "page": 597,
+      "fmt": "scenario",
+      "q": "Young male, unilateral periorbital boring non-throbbing excruciating pain, nocturnal, 1-8 attacks/day for 8-10 weeks then a symptom-free period, alcohol trigger, no cutaneous trigger - which diagnosis?",
+      "opts": [
+        "Cluster headache",
+        "Paroxysmal hemicrania",
+        "SUNCT",
+        "Hemicrania continua"
+      ],
+      "ans": 0,
+      "exp": "Cluster headache: young males (M > F); unilateral periorbital non-throbbing, stabbing/boring, excruciating (most painful headache), associated with ipsilateral ANS, nocturnal; frequency 1-8 attacks/day, symptoms for 8-10 weeks followed by symptom-free period; migrainous features (photophobia may be seen); 20% chronic symptoms; trigger alcohol, no cutaneous trigger. (Book p597)"
+    },
+    {
+      "id": "MED-C38-32",
+      "sec": "TAC, Cluster & Variants",
+      "page": 597,
+      "fmt": "numeric",
+      "q": "Cluster headache attack duration per the page is:",
+      "opts": [
+        "4 - 72 hours",
+        "15 min - 3 hours (30 mins)",
+        "5 - 300 seconds",
+        "2 - 30 min (average 5 mins)"
+      ],
+      "ans": 1,
+      "exp": "Duration of attack: 15 min - 3 hours (30 mins). (Book p597)"
+    },
+    {
+      "id": "MED-C38-33",
+      "sec": "TAC, Cluster & Variants",
+      "page": 598,
+      "fmt": "management",
+      "q": "The cluster-management flowchart's treatment of choice is:",
+      "opts": [
+        "Indomethacin",
+        "Verapamil as rescue therapy",
+        "100% oxygen 12-15 L/min for 10-20 minutes",
+        "Sumatriptan 6 mg S/C alone"
+      ],
+      "ans": 2,
+      "exp": "Management - treatment: 100% oxygen: treatment of choice, 12-15 L/min for 10-20 mins; sumatriptan 6 mg S/C. (Book p598)"
+    },
+    {
+      "id": "MED-C38-34",
+      "sec": "TAC, Cluster & Variants",
+      "page": 598,
+      "fmt": "management",
+      "q": "Short-term prevention of cluster per the list names which DOC?",
+      "opts": [
+        "Verapamil (best long-term)",
+        "Lithium (long-term)",
+        "Topiramate (long-term)",
+        "Steroid"
+      ],
+      "ans": 3,
+      "exp": "Prevention - short-term: steroid (DOC), verapamil, galcanezumab, greater occipital nerve injection; long-term: verapamil (best), topiramate, lithium. (Book p598)"
+    },
+    {
+      "id": "MED-C38-35",
+      "sec": "TAC, Cluster & Variants",
+      "page": 598,
+      "fmt": "scenario",
+      "q": "F = m, attacks 2-30 min (average 5 min), 1-30 attacks/day, ANS +, no migraine-like feature, no alcoholic trigger, no nocturnal preponderance, and indomethacin reduces attack frequency - which TAC?",
+      "opts": [
+        "Paroxysmal hemicrania",
+        "Cluster headache",
+        "SUNCT",
+        "Hemicrania continua"
+      ],
+      "ans": 0,
+      "exp": "Paroxysmal hemicrania: F = m; type throbbing/boring/stabbing; severity excruciating; 1-30 attacks/day; duration 2-30 mins (average 5 mins); ANS symptoms +; no migraine-like feature, no alcoholic trigger, no nocturnal preponderance; treatment: indomethacin (reduce frequency of attack); no effective treatment during attack. (Book p598)"
+    },
+    {
+      "id": "MED-C38-36",
+      "sec": "TAC, Cluster & Variants",
+      "page": 598,
+      "fmt": "numeric",
+      "q": "SUNCT attack duration and frequency per the page are:",
+      "opts": [
+        "5-300 sec, 1-2 attacks/day",
+        "5-240 seconds, 3-200 attacks/day",
+        "2-30 min, 1-30 attacks/day",
+        "15 min-3 hrs, 1-8 attacks/day"
+      ],
+      "ans": 1,
+      "exp": "SUNCT: M = F, unilateral, orbital or temporal pain, stabbing/throbbing, 3-200 attacks/day; duration of attack 5-240 sec; no migraine-like features; no alcohol preponderance; cutaneous trigger +, no refractory period. (Book p598)"
+    },
+    {
+      "id": "MED-C38-37",
+      "sec": "TAC, Cluster & Variants",
+      "page": 598,
+      "fmt": "management",
+      "q": "SUNCT management per the page is:",
+      "opts": [
+        "Oxygen; steroid",
+        "L-dopa; carbidopa",
+        "Treatment IV lignocaine; prevention lamotrigine or topiramate",
+        "Indomethacin; verapamil"
+      ],
+      "ans": 2,
+      "exp": "SUNCT management: treatment IV lignocaine; prevention lamotrigine or topiramate. (Book p598)"
+    },
+    {
+      "id": "MED-C38-38",
+      "sec": "TAC, Cluster & Variants",
+      "page": 598,
+      "fmt": "scenario",
+      "q": "Elderly female with a continuous unilateral background headache, episodic TAC, migrainous features, ANS + and response to indomethacin - which diagnosis?",
+      "opts": [
+        "Cluster headache",
+        "SUNCT",
+        "Paroxysmal hemicrania",
+        "Hemicrania continua"
+      ],
+      "ans": 3,
+      "exp": "Hemicrania continua: elderly females; continuous nature of unilateral background headache with episodic TAC; migrainous features +; ANS symptoms +; responsive to indomethacin. (Book p598)"
+    },
+    {
+      "id": "MED-C38-39",
+      "sec": "TAC, Cluster & Variants",
+      "page": 599,
+      "fmt": "recall",
+      "q": "The investigation-of-TAC list on this page contains which three items?",
+      "opts": [
+        "MRI brain, polysomnography, pituitary function test",
+        "CT head, ESR, scalp biopsy",
+        "DaT-SPECT, CSF analysis, PET",
+        "EEG, LP, fundoscopy"
+      ],
+      "ans": 0,
+      "exp": "Investigation of TAC: MRI brain; polysomnography; pituitary function test. (Book p599)"
+    },
+    {
+      "id": "MED-C38-40",
+      "sec": "Trigeminal & Glossopharyngeal Neuralgia",
+      "page": 599,
+      "fmt": "scenario",
+      "q": "F > m, 50-60 yrs, brief electric shock-like unilateral V2/V3 pain with cutaneous trigger and refractory period, no objective sensory loss - which diagnosis and its unilateral cause?",
+      "opts": [
+        "TTH - myofascial trigger points",
+        "Trigeminal neuralgia (tic douloureux) - compression on the superior cerebellar artery",
+        "Glossopharyngeal neuralgia - elongated styloid process",
+        "Cluster headache - cavernous ICA disease"
+      ],
+      "ans": 1,
+      "exp": "Trigeminal neuralgia (00:55:15): F > m, 50-60 yrs; paroxysms of intense pain; unilateral d/t compression on superior cerebellar artery; bilateral d/t demyelination (multiple sclerosis); type brief, electric, shock-like superficial pain; tic douloureux - wincing d/t pain; maxillary (V2) and mandibular (V3) divisions; no objective sensory loss; cutaneous trigger +, refractory period +; investigation: specialized MRI. (Book p599)"
+    },
+    {
+      "id": "MED-C38-41",
+      "sec": "Trigeminal & Glossopharyngeal Neuralgia",
+      "page": 599,
+      "fmt": "management",
+      "q": "Trigeminal neuralgia treatment per the page, with its required pre-test, is:",
+      "opts": [
+        "Indomethacin with HLA B-5801 testing",
+        "Verapamil with no surgical option",
+        "Carbamazepine (>> lamotrigine) after HLA B-1502 testing; subcutaneous botulinum toxin; microvascular decompression in medically refractory cases",
+        "Lamotrigine first; no pre-test needed"
+      ],
+      "ans": 2,
+      "exp": "Treatment: carbamazepine >> lamotrigine - HLA B-1502 tested before administration of carbamazepine; subcutaneous botulinum toxin; microvascular decompression in medical refractory cases. Note: HLA B-5801 tested before administration of allopurinol. (Book p599)"
+    },
+    {
+      "id": "MED-C38-42",
+      "sec": "Trigeminal & Glossopharyngeal Neuralgia",
+      "page": 599,
+      "fmt": "recall",
+      "q": "Bilateral trigeminal neuralgia is attributed to what per the page?",
+      "opts": [
+        "Superior cerebellar artery compression",
+        "Notched styloid process",
+        "Pituitary tumour",
+        "Demyelination (multiple sclerosis)"
+      ],
+      "ans": 3,
+      "exp": "Unilateral: d/t compression on superior cerebellar artery; bilateral: d/t demyelination (multiple sclerosis). (Book p599)"
+    },
+    {
+      "id": "MED-C38-43",
+      "sec": "Trigeminal & Glossopharyngeal Neuralgia",
+      "page": 599,
+      "fmt": "scenario",
+      "q": "Sudden severe short-lasting recurrent pain in the tonsil bed, throat and angle of jaw, aggravated by coughing, yawning, swallowing, associated with cardiac conduction abnormalities - which syndrome?",
+      "opts": [
+        "Glossopharyngeal neuralgia (aka eagle syndrome)",
+        "Trigeminal neuralgia V1",
+        "SUNCT",
+        "Hemicrania continua"
+      ],
+      "ans": 0,
+      "exp": "Glossopharyngeal neuralgia: aka eagle syndrome; d/t elongation of styloid process; type sudden, severe, short-lasting, recurrent bouts of pain; site tonsil bed, throat and angle of jaw; aggravation factors coughing, yawning, swallowing; associated with cardiac conduction abnormalities. (Book p599)"
+    },
+    {
+      "id": "MED-C38-44",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 600,
+      "fmt": "scenario",
+      "q": "Papilledema with no neurologic signs except 6th nerve paresis is interpreted on the page as:",
+      "opts": [
+        "Normal in raised ICP",
+        "A false localizing sign",
+        "A localizing brainstem sign",
+        "A sign of cerebellar lesion"
+      ],
+      "ans": 1,
+      "exp": "Evaluation protocol: papilledema + no neurologic signs except 6th nerve paresis: false localizing sign -> CT/MRI normal -> LP -> up opening pressure (>25 cm H2O) -> MRI: BIH or IIH. Papilledema seen in: hypertension, bradycardia, bradypnoea. (Book p600)"
+    },
+    {
+      "id": "MED-C38-45",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 600,
+      "fmt": "numeric",
+      "q": "The LP opening-pressure threshold in the BIH evaluation protocol is:",
+      "opts": [
+        "Greater than 35 cm H2O",
+        "Greater than 50 cm H2O",
+        "Greater than 25 cm H2O",
+        "Greater than 15 cm H2O"
+      ],
+      "ans": 2,
+      "exp": "LP: up opening pressure (>25 cm H2O) -> MRI: benign intracranial hypertension (BIH) or idiopathic intracranial hypertension (IIH). (Book p600)"
+    },
+    {
+      "id": "MED-C38-46",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 600,
+      "fmt": "recall",
+      "q": "The modified Dandy criteria require:",
+      "opts": [
+        "Seizures, focal signs, abnormal CSF, pressure >40 cm",
+        "Headache only, normal LP, abnormal MRI",
+        "Papilledema, abnormal EEG, CSF pleocytosis",
+        "Symptoms of up ICP; no localising signs except 6th nerve palsy; normal CT/MRI; LP >25 cm H2O with normal CSF biochemistry/cytology and no other explanation"
+      ],
+      "ans": 3,
+      "exp": "Modified Dandy criteria: symptoms of up ICP; no localising signs except 6th nerve palsy; normal CT, MRI findings; LP opening pressure >25 cm of H2O, CSF biochemistry/cytology normal; no other explanation for raised ICP. (Book p600)"
+    },
+    {
+      "id": "MED-C38-47",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 600,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the drug NOT listed as a secondary cause of IIH:",
+      "opts": [
+        "Methotrexate",
+        "Outdated tetracycline",
+        "Nalidixic acid",
+        "Danazol"
+      ],
+      "ans": 0,
+      "exp": "Secondary causes - drugs: outdated tetracycline, nalidixic acid, NSAIDs, retinol, danazol, tamoxifen; endocrine: steroid withdrawal, growth hormone, anabolic steroid. Primary empty sella syndrome: benign intracranial hypertension, thin rim of pituitary intact. (Book p600)"
+    },
+    {
+      "id": "MED-C38-48",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 600,
+      "fmt": "recall",
+      "q": "The endocrine secondary causes of IIH printed are:",
+      "opts": [
+        "Pituitary adenoma, acromegaly, diabetes",
+        "Steroid withdrawal, growth hormone, anabolic steroid",
+        "Addison's disease, hypothyroidism, Cushing's",
+        "Steroid use, insulin, testosterone only"
+      ],
+      "ans": 1,
+      "exp": "Endocrine: steroid withdrawal, growth hormone, anabolic steroid. (Book p600)"
+    },
+    {
+      "id": "MED-C38-49",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 601,
+      "fmt": "scenario",
+      "q": "Headache m/c, orthostatic, daily, bilateral, worse in morning, aggravated by coughing/straining with retrobulbar pain; transient visual obscurations (seconds to minutes) and pulsatile tinnitus (unilateral > bilateral) - which disorder's clinical features?",
+      "opts": [
+        "Migraine without aura",
+        "Giant cell arteritis",
+        "Benign intracranial hypertension",
+        "Tension-type headache"
+      ],
+      "ans": 2,
+      "exp": "Clinical features - headache m/c: type orthostatic, frequency daily, bilateral, worse in morning; aggravating factors coughing, straining; associated with retrobulbar pain. Visual symptoms: transient visual obscuration (2nd m/c), blackouts/grayouts, duration seconds to minutes, unilateral/bilateral. Tinnitus: 3rd m/c, pulsatile, heard in silent surroundings, unilateral > bilateral. (Book p601)"
+    },
+    {
+      "id": "MED-C38-50",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 601,
+      "fmt": "management",
+      "q": "The BIH treatment list marks which drug as DOC and which procedure as the best option?",
+      "opts": [
+        "Topiramate (DOC); shunting the best option",
+        "Mannitol (DOC); optic nerve sheath fenestration the best",
+        "Acetazolamide (DOC); shunting the best option",
+        "Acetazolamide (DOC); repeated lumbar puncture (up to 20-30 ml) the best option"
+      ],
+      "ans": 3,
+      "exp": "Treatment: weight loss; acetazolamide (DOC); topiramate; repeated lumbar puncture (upto 20-30 ml): best option; surgery - optic nerve sheath fenestrations, shunting. (Book p601)"
+    },
+    {
+      "id": "MED-C38-51",
+      "sec": "Benign Intracranial Hypertension",
+      "page": 601,
+      "fmt": "recall",
+      "q": "The acute raised-ICP note lists which five steps?",
+      "opts": [
+        "Elevate head, mannitol, sedation, hyperventilation, pressor therapy to maintain CPP >60 mmHg",
+        "Head-down, dexamethasone, intubation, hyperventilation, CPP >70 mmHg",
+        "Mannitol, shunt, acetazolamide, sedation, pressors",
+        "Elevate head, LP, acetazolamide, topiramate, pressors"
+      ],
+      "ans": 0,
+      "exp": "Mx of acute up ICP: 1. elevate head; 2. mannitol; 3. sedation; 4. hyperventilation; 5. pressor therapy to maintain CPP >60 mmHg. (Book p601)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U38-1",
+      "ch": 38,
+      "n": 1,
+      "title": "1. Anatomy, Classification & Dangerous Headache",
+      "sec": "Anatomy, Classification & Dangerous Headache",
+      "guide": "Pain-sensitive versus pain-insensitive structures open the chapter.\nPrimary/secondary classification, giant cell arteritis, raised-ICP red flags and the herniation line follow.",
+      "qs": [
+        "MED-C38-01",
+        "MED-C38-02",
+        "MED-C38-03",
+        "MED-C38-04",
+        "MED-C38-05",
+        "MED-C38-06",
+        "MED-C38-07"
+      ]
+    },
+    {
+      "id": "MED-U38-2",
+      "ch": 38,
+      "n": 2,
+      "title": "2. Tension-Type & Migraine",
+      "sec": "Tension-Type & Migraine",
+      "guide": "TTH features, its Mx and the 'against TTH' discriminators.\nMigraine features, the 80/20 type split, aura and the four-stage sequence follow.",
+      "qs": [
+        "MED-C38-08",
+        "MED-C38-09",
+        "MED-C38-10",
+        "MED-C38-11",
+        "MED-C38-12",
+        "MED-C38-13",
+        "MED-C38-14",
+        "MED-C38-15",
+        "MED-C38-16"
+      ]
+    },
+    {
+      "id": "MED-U38-3",
+      "ch": 38,
+      "n": 3,
+      "title": "3. Migraine Criteria, Pathogenesis & Treatment",
+      "sec": "Migraine Criteria, Pathogenesis & Treatment",
+      "guide": "Common and classical criteria with their numeric thresholds.\nThe vascular/serotonin pathogenesis arms, the acute treatment table and the three-line prophylaxis follow with S/E and newer drugs.",
+      "qs": [
+        "MED-C38-17",
+        "MED-C38-18",
+        "MED-C38-19",
+        "MED-C38-20",
+        "MED-C38-21",
+        "MED-C38-22",
+        "MED-C38-23",
+        "MED-C38-24",
+        "MED-C38-25",
+        "MED-C38-26",
+        "MED-C38-27",
+        "MED-C38-28"
+      ]
+    },
+    {
+      "id": "MED-U38-4",
+      "ch": 38,
+      "n": 4,
+      "title": "4. TAC, Cluster & Variants",
+      "sec": "TAC, Cluster & Variants",
+      "guide": "The four TACs with their shared ANS requirement.\nCluster features and management, then paroxysmal hemicrania, SUNCT and hemicrania continua with their numeric attack data.",
+      "qs": [
+        "MED-C38-29",
+        "MED-C38-30",
+        "MED-C38-31",
+        "MED-C38-32",
+        "MED-C38-33",
+        "MED-C38-34",
+        "MED-C38-35",
+        "MED-C38-36",
+        "MED-C38-37",
+        "MED-C38-38",
+        "MED-C38-39"
+      ]
+    },
+    {
+      "id": "MED-U38-5",
+      "ch": 38,
+      "n": 5,
+      "title": "5. Trigeminal & Glossopharyngeal Neuralgia",
+      "sec": "Trigeminal & Glossopharyngeal Neuralgia",
+      "guide": "TN clinical features with its vascular and demyelinating causes.\nTreatment with the HLA pre-tests, then glossopharyngeal neuralgia (eagle syndrome).",
+      "qs": [
+        "MED-C38-40",
+        "MED-C38-41",
+        "MED-C38-42",
+        "MED-C38-43"
+      ]
+    },
+    {
+      "id": "MED-U38-6",
+      "ch": 38,
+      "n": 6,
+      "title": "6. Benign Intracranial Hypertension",
+      "sec": "Benign Intracranial Hypertension",
+      "guide": "The papilledema protocol with its LP threshold and modified Dandy criteria.\nSecondary causes, clinical features and the treatment ladder with the acute-ICP note close the chapter.",
+      "qs": [
+        "MED-C38-44",
+        "MED-C38-45",
+        "MED-C38-46",
+        "MED-C38-47",
+        "MED-C38-48",
+        "MED-C38-49",
+        "MED-C38-50",
+        "MED-C38-51"
+      ]
+    }
+  ]
+}

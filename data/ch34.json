@@ -1,0 +1,231 @@
+{
+  "chapter": 34,
+  "title": "Memory",
+  "pageRange": "569-571",
+  "questions": [
+    {
+      "id": "MED-C34-01",
+      "sec": "Processes & Classification",
+      "page": 569,
+      "fmt": "recall",
+      "q": "The three processes of memory per the page are:",
+      "opts": [
+        "Attention, storage, rehearsal",
+        "Registration, priming, conditioning",
+        "Encoding (registration), consolidation (storage), retrieval",
+        "Encoding, decay, reconsolidation"
+      ],
+      "ans": 2,
+      "exp": "Processes of memory: encoding (registration), consolidation (storage) and retrieval. (Book p569)"
+    },
+    {
+      "id": "MED-C34-02",
+      "sec": "Processes & Classification",
+      "page": 569,
+      "fmt": "scenario",
+      "q": "Per the old duration table, which store has NO storage and is exemplified by recalling a phone number within 1 minute?",
+      "opts": [
+        "Short term/recent (hippocampus, recalling breakfast)",
+        "Long term (neocortex, distant past)",
+        "Episodic (hippocampus, time and context)",
+        "Immediate (working memory)"
+      ],
+      "ans": 3,
+      "exp": "Duration table: immediate/working memory = no storage, e.g. recalling a phone number within 1 min; short term/recent = hippocampus storage, e.g. recalling breakfast; long term = neocortex, e.g. recalling something from distant past. (Book p569)"
+    },
+    {
+      "id": "MED-C34-03",
+      "sec": "Processes & Classification",
+      "page": 569,
+      "fmt": "recall",
+      "q": "Which structure does the duration table name as the storage site for short-term/recent memory?",
+      "opts": [
+        "Hippocampus (medial temporal lobe)",
+        "Neocortex",
+        "Prefrontal cortex",
+        "Basal ganglia"
+      ],
+      "ans": 0,
+      "exp": "Storage row: immediate = no storage; short term/recent = hippocampus (medial temporal lobe); long term = neocortex - and retrieval in all three columns is the prefrontal cortex. (Book p569)"
+    },
+    {
+      "id": "MED-C34-04",
+      "sec": "Processes & Classification",
+      "page": 569,
+      "fmt": "recall",
+      "q": "The current classification splits memory by mode of retrieval into which two branches?",
+      "opts": [
+        "Anterograde and retrograde",
+        "Explicit (declarative) and implicit (non-declarative)",
+        "Immediate and long term",
+        "Procedural and semantic"
+      ],
+      "ans": 1,
+      "exp": "Mode of retrieval (current classifications): explicit (declarative) - episodic and semantic - and implicit (non-declaratives): procedural, priming, associative (conditional), non associative. (Book p569)"
+    },
+    {
+      "id": "MED-C34-05",
+      "sec": "Processes & Classification",
+      "page": 569,
+      "fmt": "scenario",
+      "q": "Episodic memory per the flowchart is based on time and context (autobiographical), is hippocampal, and is affected early in which disease?",
+      "opts": [
+        "Parkinson's disease",
+        "Vascular dementia",
+        "Alzheimer's disease",
+        "Frontotemporal dementia"
+      ],
+      "ans": 2,
+      "exp": "Episodic: based on time and context (autobiographical), area hippocampus, affected early in Alzheimer's disease; semantic: based on facts, association areas, rarely affected in late Alzheimer's disease. (Book p569)"
+    },
+    {
+      "id": "MED-C34-06",
+      "sec": "Processes & Classification",
+      "page": 569,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the type NOT listed under implicit (non-declarative) memory:",
+      "opts": [
+        "Procedural",
+        "Priming",
+        "Associative (conditional)",
+        "Episodic"
+      ],
+      "ans": 3,
+      "exp": "Implicit (non-declaratives) listed: procedural, priming, associative (conditional) and non associative; episodic belongs to explicit (declarative) memory. (Book p569)"
+    },
+    {
+      "id": "MED-C34-07",
+      "sec": "Implicit Memory & Anatomy",
+      "page": 570,
+      "fmt": "scenario",
+      "q": "Per the implicit-memory table, procedural memory (e.g. driving) uses which areas?",
+      "opts": [
+        "Basal ganglia, supplementary motor area and cerebellum",
+        "Neo cortex alone",
+        "Amygdala and reflex pathway",
+        "Hippocampus and entorhinal cortex"
+      ],
+      "ans": 0,
+      "exp": "Procedural: basal ganglia, supplementary motor area, cerebellum (e.g. driving); priming: neo cortex (remembering facts d/t exposure, duration or intensity); associative (conditional): amygdala (not seen in humans - animals associating fear to lion and environment); non-associative: reflex pathway (habitual response). (Book p570)"
+    },
+    {
+      "id": "MED-C34-08",
+      "sec": "Implicit Memory & Anatomy",
+      "page": 570,
+      "fmt": "scenario",
+      "q": "An animal's fear-association response to a predator in its environment is mapped in the table to which area?",
+      "opts": [
+        "Reflex pathway (non-associative)",
+        "Amygdala (associative/conditional memory)",
+        "Neo cortex (priming)",
+        "Cerebellum (procedural)"
+      ],
+      "ans": 1,
+      "exp": "Associative (conditional) memory: amygdala; characteristics - not seen in humans; animals associating fear to lion and environment. (Book p570)"
+    },
+    {
+      "id": "MED-C34-09",
+      "sec": "Implicit Memory & Anatomy",
+      "page": 570,
+      "fmt": "scenario",
+      "q": "Per the cortex anatomy table, which lobe's area stores semantic memory?",
+      "opts": [
+        "Temporal - hippocampus (episodic semantic)",
+        "Occipital - hippocampus (semantic)",
+        "Parietal - association area (parieto-occipital)",
+        "Frontal - prefrontal cortex (all types)"
+      ],
+      "ans": 2,
+      "exp": "Cortex table: frontal (prefrontal cortex, all types), parietal (association area parieto-occipital, semantic), temporal (hippocampus, episodic semantic), occipital (area '-', semantic). (Book p570)"
+    },
+    {
+      "id": "MED-C34-10",
+      "sec": "Implicit Memory & Anatomy",
+      "page": 570,
+      "fmt": "recall",
+      "q": "Which subcortical area is labelled the 'gateway of memory' storing long-term memory?",
+      "opts": [
+        "Amygdala (conditional)",
+        "Cerebellum (procedural)",
+        "Basal ganglia (procedural)",
+        "Entorhinal cortex"
+      ],
+      "ans": 3,
+      "exp": "Sub-cortex table: amygdala -> conditional; cerebellum -> procedural; entorhinal cortex -> long term memory (gateway of memory); basal ganglia -> procedural. The zones-of-brain medial diagram follows. (Book p570)"
+    },
+    {
+      "id": "MED-C34-11",
+      "sec": "Papez Circuit",
+      "page": 571,
+      "fmt": "recall",
+      "q": "The Papez circuit is also known as what, and which station is annotated with Wernicke-Korsakoff syndromes?",
+      "opts": [
+        "Mamillo-thalamic circuit; the mammillary body",
+        "Dorsal-median circuit; the thalamus",
+        "Mamillo-thalamic circuit; the subiculum",
+        "Cingulate loop; the fornix"
+      ],
+      "ans": 0,
+      "exp": "Papez circuit aka mammillo-thalamic circuit: hippocampus/subiculum -> fornix -> mammillary body (Wernicke-Korsakoff syndromes) -> mammillo-thalamic tract -> thalamus -> internal capsule -> cingulate gyrus -> parahippocampal gyrus -> entorhinal cortex (gateway of memory) -> back to hippocampus. (Book p571)"
+    },
+    {
+      "id": "MED-C34-12",
+      "sec": "Papez Circuit",
+      "page": 571,
+      "fmt": "recall",
+      "q": "In the Papez circuit, which station is the 'gateway of memory' that closes the loop back to the hippocampus?",
+      "opts": [
+        "Fornix",
+        "Entorhinal cortex",
+        "Mammillary body",
+        "Cingulate gyrus"
+      ],
+      "ans": 1,
+      "exp": "The circuit closes via the parahippocampal gyrus into the entorhinal cortex, labelled gateway of memory, which returns to the hippocampus/subiculum. (Book p571)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U34-1",
+      "ch": 34,
+      "n": 1,
+      "title": "1. Processes & Classification",
+      "sec": "Processes & Classification",
+      "guide": "Three processes (encoding, consolidation, retrieval) precede the old duration table.\nThe current classification splits explicit vs implicit memory, with episodic/semantic branches.",
+      "qs": [
+        "MED-C34-01",
+        "MED-C34-02",
+        "MED-C34-03",
+        "MED-C34-04",
+        "MED-C34-05",
+        "MED-C34-06"
+      ]
+    },
+    {
+      "id": "MED-U34-2",
+      "ch": 34,
+      "n": 2,
+      "title": "2. Implicit Memory & Anatomy",
+      "sec": "Implicit Memory & Anatomy",
+      "guide": "The implicit-memory table pairs each type with its areas and characteristics.\nThe cortex and sub-cortex anatomy tables then assign memory types to lobes and nuclei.",
+      "qs": [
+        "MED-C34-07",
+        "MED-C34-08",
+        "MED-C34-09",
+        "MED-C34-10"
+      ]
+    },
+    {
+      "id": "MED-U34-3",
+      "ch": 34,
+      "n": 3,
+      "title": "3. Papez Circuit",
+      "sec": "Papez Circuit",
+      "guide": "The mammillo-thalamic circuit is traced station by station.\nThe mammillary body carries the Wernicke-Korsakoff annotation; the entorhinal cortex closes the loop.",
+      "qs": [
+        "MED-C34-11",
+        "MED-C34-12"
+      ]
+    }
+  ]
+}
