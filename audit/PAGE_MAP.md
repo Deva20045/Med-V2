@@ -154,3 +154,67 @@ Chapters 17–20 were authored from this mapping: Ch16 p458–465 (01.pdf PDF94�
 ## Merge-time source-map correction
 
 Spot checks of the 2× renders found PDF59 = printed p526, PDF60 = p528, PDF61 = p529, PDF62 = p530, PDF63 = p531, and PDF64 = p532. Printed p527 is absent from the supplied scan. Do not extrapolate the earlier offset past p526. The five upstream Chapter 26 questions citing p527 are retained unchanged, but source verification for them remains unresolved. Chapters 16–20 are unaffected.
+
+## uploads/03.pdf (61 sheets, Book p562–622) — final map for Chapters 33–38
+
+This scan continues the same volume at printed page 562. **Printed p586, p590 and p591 are absent from this scan** — the 16 sheets PDF22–PDF37 carry the 19 printed values p583–p601 minus the three missing pages. All sheets PDF1–PDF38 were rendered at 2× and read in full; printed numbers below were verified by full-page reads and, where contested, by decisive 10× single-index corner crops (see correction note).
+
+| PDF sheet | Printed page | Evidence |
+|---:|---:|---|
+| 1 | 562 | Bracketed (02.pdf ends at p561; corner digits partially cut, final "2") |
+| 2 | 563 | Sequential |
+| 3 | 564 | Sequential |
+| 4 | 565 | Verified (corner number 565) |
+| 5 | 566 | Verified (Ch33 "Language V/S Speech" title page) |
+| 6 | 567 | Verified |
+| 7 | 568 | Verified |
+| 8 | 569 | Verified (Ch34 "MEMORY" title page) |
+| 9 | 570 | Verified |
+| 10 | 571 | Verified (Papez circuit) |
+| 11 | 572 | Verified (Ch35 "Dementia : Part 1" title page) |
+| 12 | 573 | Verified |
+| 13 | 574 | Verified |
+| 14 | 575 | Verified |
+| 15 | 576 | Verified |
+| 16 | 577 | Verified (Ch36 "Dementia : Part 2" title page) |
+| 17 | 578 | Verified |
+| 18 | 579 | Verified |
+| 19 | 580 | Verified |
+| 20 | 581 | Verified (decisive_idx17–20 single-index read; batch sheet had swapped 19/20) |
+| 21 | 582 | Verified (CADASIL, NPH) |
+| 22 | 583 | Verified (Ch37 "Parkinson's Disease" title page) |
+| 23 | 584 | Verified |
+| 24 | 585 | Verified by bracketing (no printed number visible on the sheet; PDF22=583, PDF25=587) |
+| 25 | 587 | Verified (10× top-right corner read "587") |
+| 26 | 588 | Verified (atypical PD / MSA) |
+| 27 | 589 | Verified (L-dopa / COMT) |
+| 28 | 592 | Verified (10× top-right corner read "592") |
+| 29 | 593 | Verified (Ch38 "HEADACHE" title page) |
+| 30 | 594 | Verified |
+| 31 | 595 | Verified |
+| 32 | 596 | Verified ("OTHER TYPES OF MIGRAINE WITH AURA" heading) |
+| 33 | 597 | Verified ("Trigeminal Autonomic" heading) |
+| 34 | 598 | Verified (TAC management / cluster) |
+| 35 | 599 | Verified (TAC investigation, trigeminal neuralgia) |
+| 36 | 600 | Verified (BIH, Dandy criteria) |
+| 37 | 601 | Verified (BIH features/treatment, acute ↑ICP) |
+| 38 | 602 | Verified (Ch39 "SEIZURE SEMIOLOGY" title page — chapter boundary) |
+| 39–61 | 603–622 | Not read in this session (outside Ch33–38 scope) |
+
+## Chapter 33–38 source-map correction
+
+Decisive 10× single-index crops settled the contested identities: PDF25 top-right corner reads "587" and PDF28 top-right reads "592". Therefore printed **p586 is absent** (between PDF24 = p585 and PDF25 = p587) and printed **p590 and p591 are absent** (between PDF27 = p589 and PDF28 = p592). Sheet-count check: p583–p601 is 19 printed pages, 16 sheets (PDF22–PDF37 minus the 3 missing = 16 ✓); p566–p601 minus the 3 missing pages spans PDF5–PDF37 (33 sheets ✓).
+
+Chapter spans: Ch33 p566–568 = PDF5–7 · Ch34 p569–571 = PDF8–10 · Ch35 p572–576 = PDF11–15 · Ch36 p577–582 = PDF16–21 · Ch37 p583–592 = PDF22–31 (3 missing sheets) · Ch38 p593–601 = PDF29–37. Ch39 begins at PDF38 (p602).
+
+The three missing pages each carry one transparently-flagged bracketing question in the ledger — MED-C37-13 (p586), MED-C37-33 (p590), MED-C37-34 (p591) — whose explanations state the page is missing from the supplied scan. Source verification for those pages remains unresolved, following the p527 precedent (02.pdf PDF59 = p526, PDF60 = p528).
+
+## uploads/04.pdf (76 sheets, Book p626 onward)
+
+| PDF sheet | Printed page | Evidence |
+|---:|---:|---|
+| 1 | 626 | Verified (corner number 626) |
+| 2 | 627 | Verified |
+| 3–76 | 628 onward | Not read in this session (outside Ch33–38 scope) |
+
+`uploads/04.pdf` is not needed for Chapters 33–38: the full Ch33–38 range (Book p566–601) lies entirely inside `uploads/03.pdf` (PDF5–PDF37).

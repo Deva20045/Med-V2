@@ -1,0 +1,491 @@
+{
+  "chapter": 35,
+  "title": "Dementia : Part 1",
+  "pageRange": "572-576",
+  "questions": [
+    {
+      "id": "MED-C35-01",
+      "sec": "Definition, Domains & Causes",
+      "page": 572,
+      "fmt": "recall",
+      "q": "Activities of daily living per the page split into which two groups?",
+      "opts": [
+        "Voluntary and automatic",
+        "Basic (self-care related) and instrumental (handling own phone, money, etc.)",
+        "Motor and sensory",
+        "Overt and covert"
+      ],
+      "ans": 1,
+      "exp": "ADL: basic = self-care related; instrumental = handling own phone, money, etc. Cognitive impairment: minor = ADL unaffected; major = ADL affected. (Book p572)"
+    },
+    {
+      "id": "MED-C35-02",
+      "sec": "Definition, Domains & Causes",
+      "page": 572,
+      "fmt": "numeric",
+      "q": "The book's dementia definition: major cognitive impairment plus how many of the 6 cognitive domains affected?",
+      "opts": [
+        "At least 3 out of 6",
+        "All 6",
+        "At least 1 (>=1) out of 6",
+        "At least 2 out of 6"
+      ],
+      "ans": 2,
+      "exp": "Definition as printed: major cognitive impairment + >=1 out of 6 cognitive domains affected. (Book p572)"
+    },
+    {
+      "id": "MED-C35-03",
+      "sec": "Definition, Domains & Causes",
+      "page": 572,
+      "fmt": "scenario",
+      "q": "The language domain in the 6-domain table maps to which areas?",
+      "opts": [
+        "Hippocampus (median temporal lobe)",
+        "Prefrontal cortex",
+        "Superior parietal lobule",
+        "Inferior frontal gyrus (Broca's) and superior temporal gyrus (Wernicke's)"
+      ],
+      "ans": 3,
+      "exp": "Domain table: episodic memory -> hippocampus (median temporal lobe); language -> inferior frontal gyrus (Broca's) + superior temporal gyrus (Wernicke's); complex attention, executive function and social cognition -> prefrontal cortex; perceptual motor (praxicons) -> superior parietal lobule. (Book p572)"
+    },
+    {
+      "id": "MED-C35-04",
+      "sec": "Definition, Domains & Causes",
+      "page": 572,
+      "fmt": "recall",
+      "q": "The four causes of dementia listed on this page are:",
+      "opts": [
+        "Alzheimer's disease (m/c), diffuse Lewy body dementia, vascular dementia, normal pressure hydrocephalus",
+        "Alzheimer's, FTD, prion, Huntington's",
+        "AD, vascular, NPH, Creutzfeldt-Jakob",
+        "DLB, PSP, MSA, Binswanger"
+      ],
+      "ans": 0,
+      "exp": "Causes: 1. Alzheimer's disease (m/c); 2. diffuse Lewy body (DLB) dementia; 3. vascular dementia (branches: post-stroke, multi-infarct dementia, white matter dementia/Binswanger disease); 4. normal pressure hydrocephalus (NPH). (Book p572)"
+    },
+    {
+      "id": "MED-C35-05",
+      "sec": "Definition, Domains & Causes",
+      "page": 572,
+      "fmt": "recall",
+      "q": "Based on the parts of brain affected, the subcortical-dementia list includes:",
+      "opts": [
+        "PSP, MSA, CBD, cortical basal",
+        "DLB dementia, progressive supranuclear palsy, Binswanger disease, NPH",
+        "Alzheimer's, FTD, CJD, Binswanger",
+        "AD, DLB, vascular, NPH"
+      ],
+      "ans": 1,
+      "exp": "Dementia -> cortical; subcortical -> diffuse Lewy body (DLB) dementia, progressive supranuclear palsy, Binswanger disease, NPH. (Book p572)"
+    },
+    {
+      "id": "MED-C35-06",
+      "sec": "Definition, Domains & Causes",
+      "page": 572,
+      "fmt": "recall",
+      "q": "The PFC-functions note assigns which function to the orbital PFC?",
+      "opts": [
+        "Energisation and motivation (medial PFC)",
+        "Episodic memory (medial PFC)",
+        "Behaviour",
+        "Executive function (dorsolateral PFC)"
+      ],
+      "ans": 2,
+      "exp": "Note - functions of PFC: dorsolateral PFC executive function; medial PFC energisation and motivation; orbital PFC behaviour. (Book p572)"
+    },
+    {
+      "id": "MED-C35-07",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "scenario",
+      "q": "A reversible-cause workup lists benzodiazepines, tricyclic antidepressants and lithium under which mnemonic letter?",
+      "opts": [
+        "M - Metabolic",
+        "E - Endocrine",
+        "A - Anemia",
+        "D - Drugs"
+      ],
+      "ans": 3,
+      "exp": "Reversible causes: D drugs (benzodiazepines, tricyclic antidepressants, lithium); E endocrine (hypothyroidism: metabolic slowing); M metabolic (vit B12 deficiency); E chronic infections of ear; N normal pressure hydrocephalus; T trauma, tumors; I infections (chronic meningitis); A anemia, autoimmune encephalitis. (Book p573)"
+    },
+    {
+      "id": "MED-C35-08",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "scenario",
+      "q": "Peripheral neuropathy plus dementia plus subacute combined cord degeneration points to which reversible cause?",
+      "opts": [
+        "Vitamin B12 deficiency",
+        "Hypothyroidism",
+        "Chronic otologic infection",
+        "Autoimmune encephalitis"
+      ],
+      "ans": 0,
+      "exp": "Note: vit B12 deficiency -> peripheral neuropathy, dementia and subacute combined cord degeneration; Rx of NPH: surgery. (Book p573)"
+    },
+    {
+      "id": "MED-C35-09",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "recall",
+      "q": "The treatment of NPH stated in the reversible-causes note is:",
+      "opts": [
+        "Cholinesterase inhibitors",
+        "Surgery",
+        "Acetazolamide",
+        "Repeated lumbar puncture"
+      ],
+      "ans": 1,
+      "exp": "Note under reversible causes: Rx of NPH - surgery. (Book p573)"
+    },
+    {
+      "id": "MED-C35-10",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the condition NOT listed under young-onset dementia:",
+      "opts": [
+        "Huntington's disease",
+        "DLB dementia",
+        "Alzheimer's disease",
+        "Frontotemporal dementia (Pick's disease), the m/c"
+      ],
+      "ans": 2,
+      "exp": "Young onset dementia: frontotemporal dementia (Pick's disease) m/c, prion disease, Huntington's disease, DLB dementia. (Book p573)"
+    },
+    {
+      "id": "MED-C35-11",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "recall",
+      "q": "Among rapidly progressive dementias, which two are bracketed as non-degenerative?",
+      "opts": [
+        "FTD (Pick's) and prion",
+        "DLB and tumors",
+        "Prion and FTD (Pick's)",
+        "HIV and Whipple's disease"
+      ],
+      "ans": 3,
+      "exp": "Rapidly progressive: FTD (Pick's) m/c, prion, DLB, HIV and Whipple's (bracketed non-degenerative), tumors (based on location). (Book p573)"
+    },
+    {
+      "id": "MED-C35-12",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "recall",
+      "q": "The pathology note says entorhinal cortex atrophy is specific for which disease?",
+      "opts": [
+        "Alzheimer's disease",
+        "Frontotemporal dementia",
+        "Vascular dementia",
+        "Normal ageing"
+      ],
+      "ans": 0,
+      "exp": "Atrophy of: entorhinal cortex - specific for Alzheimer's; dentate nucleus - occurs with ageing. Alzheimer's disease: m/c cause of dementia; most important risk factor age; sporadic. (Book p573)"
+    },
+    {
+      "id": "MED-C35-13",
+      "sec": "Reversible Causes & Onset Patterns",
+      "page": 573,
+      "fmt": "numeric",
+      "q": "The book prints what chance of Alzheimer's for age >85 years?",
+      "opts": [
+        "80%",
+        "40%",
+        "20%",
+        "60%"
+      ],
+      "ans": 1,
+      "exp": "Most important risk factor: age (>85 years: 40% chance of Alzheimer's). (Book p573)"
+    },
+    {
+      "id": "MED-C35-14",
+      "sec": "Alzheimer's Pathogenesis",
+      "page": 574,
+      "fmt": "scenario",
+      "q": "In the APP pathway, abnormal kinetics with metabolism by which enzyme produces A-beta amyloid (beta-pleated sheets)?",
+      "opts": [
+        "Gamma-secretase alone",
+        "Insulin degrading enzyme",
+        "Beta-secretase",
+        "Alpha-secretase (normal metabolism)"
+      ],
+      "ans": 2,
+      "exp": "APP (amyloid precursor protein, gene on chr 21) with abnormal kinetics is metabolised by beta-secretase producing A-beta amyloid (beta-pleated sheets); note: normal metabolism uses alpha-secretase. (Book p574)"
+    },
+    {
+      "id": "MED-C35-15",
+      "sec": "Alzheimer's Pathogenesis",
+      "page": 574,
+      "fmt": "scenario",
+      "q": "A-beta 40 and A-beta 42 diverge in the pathway: which outcome pairs with A-beta 40?",
+      "opts": [
+        "Alzheimer's disease with tauopathy",
+        "Hirano bodies",
+        "Granulovacuolar degeneration",
+        "Cerebral amyloid angiopathy with microhemorrhages in brain"
+      ],
+      "ans": 3,
+      "exp": "A-beta 40 -> cerebral amyloid angiopathy (microhemorrhages in brain); A-beta 42 -> Alzheimer's disease -> depositions of hyperphosphorylated tau proteins (tauopathy). (Book p574)"
+    },
+    {
+      "id": "MED-C35-16",
+      "sec": "Alzheimer's Pathogenesis",
+      "page": 574,
+      "fmt": "scenario",
+      "q": "Deposited inside the neuron, hyperphosphorylated tau forms what, and which sequence follows?",
+      "opts": [
+        "Neurofibrillary tangles -> mitochondrial injury -> progressive neuronal destruction",
+        "Amyloid/neuritic plaques -> toxic response from glia",
+        "Pick's bodies -> behavioural change",
+        "Cortical ribboning -> spongiform change"
+      ],
+      "ans": 0,
+      "exp": "Inside neuron: neurofibrillary tangles -> mitochondrial injury to neurons -> progressive neuronal destruction; outside neuron: amyloid/neuritic plaques elicit toxic response from oligodendrocytes, microglia, astrocytes. (Book p574)"
+    },
+    {
+      "id": "MED-C35-17",
+      "sec": "Alzheimer's Pathogenesis",
+      "page": 574,
+      "fmt": "scenario",
+      "q": "In 'type 3 DM / brain diabetes', why does A-beta 42 accumulate?",
+      "opts": [
+        "Insulin directly converts into A-beta",
+        "Hyperinsulinemia uses up the insulin degrading enzyme, leaving A-beta 42 undegraded",
+        "Beta-secretase overexpression in the pancreas",
+        "ApoE4 loss in the brain"
+      ],
+      "ans": 1,
+      "exp": "Normal physiology: insulin degrading enzyme (IDE) degrades insulin and A-beta 42; in diabetes hyperinsulinemia -> IDE used up in degrading insulin -> A-beta 42 accumulates. (Book p574)"
+    },
+    {
+      "id": "MED-C35-18",
+      "sec": "Alzheimer's Pathogenesis",
+      "page": 574,
+      "fmt": "recall",
+      "q": "The AD pathology list on MRI includes atrophy of which regions?",
+      "opts": [
+        "Basal ganglia, thalamus, corpus callosum",
+        "Superior parietal, angular gyrus, cerebellum",
+        "Median temporal lobe, lateral temporal lobe, cingulate gyrus and entorhinal cortex",
+        "Prefrontal cortex, cingulate, caudate"
+      ],
+      "ans": 2,
+      "exp": "Pathology: atrophy of median temporal lobe, lateral temporal lobe, cingulate gyrus and entorhinal cortex (gateway of memory) - seen on MRI; plus Hirano bodies and granulovacuolar degeneration. (Book p574)"
+    },
+    {
+      "id": "MED-C35-19",
+      "sec": "Alzheimer's Pathogenesis",
+      "page": 574,
+      "fmt": "management",
+      "q": "Depleted cholinergic neurons of the nucleus basalis of Meynert justify which DOC class?",
+      "opts": [
+        "NMDA antagonists",
+        "CGRP antagonists",
+        "COMT inhibitors",
+        "Cholinesterase inhibitors"
+      ],
+      "ans": 3,
+      "exp": "Depleted cholinergic neurons of nucleus basalis of meynert -> DOC: cholinesterase inhibitors. (Book p574)"
+    },
+    {
+      "id": "MED-C35-20",
+      "sec": "Genetics, Risk & Clinical Stages",
+      "page": 575,
+      "fmt": "numeric",
+      "q": "The genetic-basis list places Presenilin-1, Presenilin-2 and ApoE4 on which chromosomes respectively?",
+      "opts": [
+        "14, 1 and 19",
+        "1, 14 and 21",
+        "19, 14 and 1",
+        "21, 19 and 14"
+      ],
+      "ans": 0,
+      "exp": "Genetic basis: Presenilin-1 (chr 14) and Presenilin-2 (chr 1) - m/c defect in familial AD -> early onset -> characteristic features (<45 years, seizures, sleep disturbances); ApoE4 (chr 19) in late-onset dementia, ineffective degradation of A-beta amyloid, most important risk factor (biomarker) for sporadic AD in elderly. (Book p575)"
+    },
+    {
+      "id": "MED-C35-21",
+      "sec": "Genetics, Risk & Clinical Stages",
+      "page": 575,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the item that IS a risk factor, against the printed 'Not risk factors' list:",
+      "opts": [
+        "NSAIDs",
+        "Age",
+        "Low IQ",
+        "Smoking"
+      ],
+      "ans": 1,
+      "exp": "Risk factors: age, positive family history (Presenilin 1 > 2), F > m, h/o head trauma/concussions, h/o stroke, metabolic syndrome, hypertension, diabetes. Printed NOT risk factors: low IQ, smoking, NSAIDs. Note: theory of cognitive reserve - individuals with daily use of cognitive domains are protected from AD. (Book p575)"
+    },
+    {
+      "id": "MED-C35-22",
+      "sec": "Genetics, Risk & Clinical Stages",
+      "page": 575,
+      "fmt": "scenario",
+      "q": "A patient who uses cognitive domains daily is described as protected from AD by which printed theory?",
+      "opts": [
+        "Vascular theory",
+        "Cortical ribboning theory",
+        "Theory of cognitive reserve",
+        "Type 3 DM hypothesis"
+      ],
+      "ans": 2,
+      "exp": "Note - theory of cognitive reserve: individuals with daily use of cognitive domains -> protected from AD. (Book p575)"
+    },
+    {
+      "id": "MED-C35-23",
+      "sec": "Genetics, Risk & Clinical Stages",
+      "page": 575,
+      "fmt": "scenario",
+      "q": "In the clinical-stages loop, naming and comprehension abnormalities (stage II) follow hippocampal stage I and arise at which structure?",
+      "opts": [
+        "Superior parietal lobe (praxicons)",
+        "PFC",
+        "Subiculum",
+        "Angular gyrus feeding the association areas"
+      ],
+      "ans": 3,
+      "exp": "Loop: hippocampus -> stage I (Korsakoff amnestic stage: episodic memory loss, difficulty in consolidating memory) -> angular gyrus -> association areas (stage II: stage of anomia, naming and comprehension abnormalities) -> superior parietal lobe praxicons (stage III: visuo-spatial disorientation; apraxia) -> PFC (stage IV: behavioural abnormalities and personality changes). Note: memory = time dependant, contextual, autobiographic. (Book p575)"
+    },
+    {
+      "id": "MED-C35-24",
+      "sec": "Investigations & Treatment",
+      "page": 576,
+      "fmt": "numeric",
+      "q": "The CSF analysis findings printed for Alzheimer's are:",
+      "opts": [
+        "Down A-beta 42 levels with up hyperphosphorylated tau levels",
+        "Up A-beta 42 with down tau",
+        "Low protein with high glucose",
+        "Xanthochromia with red cells"
+      ],
+      "ans": 0,
+      "exp": "Investigations: EEG normal/non-specific slowing; CSF analysis down A-beta 42 levels, up hyperphosphorylated tau levels; PET scan IOC detecting hypometabolism and amyloid fibrils (PiB PET scans shown for AD vs control). (Book p576)"
+    },
+    {
+      "id": "MED-C35-25",
+      "sec": "Investigations & Treatment",
+      "page": 576,
+      "fmt": "recall",
+      "q": "The PET scan is marked as what for AD, and what does it detect?",
+      "opts": [
+        "Second line; glucose uptake only",
+        "IOC; hypometabolism and amyloid fibrils",
+        "Screening only; ventricular size",
+        "Gold standard; tau only"
+      ],
+      "ans": 1,
+      "exp": "PET scan: IOC; detects hypometabolism and amyloid fibrils. (Book p576)"
+    },
+    {
+      "id": "MED-C35-26",
+      "sec": "Investigations & Treatment",
+      "page": 576,
+      "fmt": "management",
+      "q": "The cholinesterase-inhibitor (DOC) list contains which three drugs?",
+      "opts": [
+        "Levodopa, pramipexole, rotigotine",
+        "Amitriptyline, venlafaxine, TCA",
+        "Donepezil, rivastigmine, galantamine",
+        "Memantine, aducanumab, tacrine"
+      ],
+      "ans": 2,
+      "exp": "Treatment: 1. cholinesterase inhibitors (DOC): donepezil, rivastigmine, galantamine; 2. NMDA antagonist: memantine; 3. monoclonal antibody against A-beta 42: aducanumab. (Book p576)"
+    },
+    {
+      "id": "MED-C35-27",
+      "sec": "Investigations & Treatment",
+      "page": 576,
+      "fmt": "recall",
+      "q": "The obsolete drug retired for hepatotoxicity in the note is:",
+      "opts": [
+        "Galantamine",
+        "Memantine",
+        "Aducanumab",
+        "Tacrine"
+      ],
+      "ans": 3,
+      "exp": "Note: tacrine - obsolete (d/t hepatotoxicity). (Book p576)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U35-1",
+      "ch": 35,
+      "n": 1,
+      "title": "1. Definition, Domains & Causes",
+      "sec": "Definition, Domains & Causes",
+      "guide": "ADL splits and the minor/major cognitive-impairment divide set up the dementia definition.\nThe six cognitive domains map to their cortical areas; four causes follow with the PFC functions note.",
+      "qs": [
+        "MED-C35-01",
+        "MED-C35-02",
+        "MED-C35-03",
+        "MED-C35-04",
+        "MED-C35-05",
+        "MED-C35-06"
+      ]
+    },
+    {
+      "id": "MED-U35-2",
+      "ch": 35,
+      "n": 2,
+      "title": "2. Reversible Causes & Onset Patterns",
+      "sec": "Reversible Causes & Onset Patterns",
+      "guide": "The DENTANTIA-style reversible list is read letter by letter with the B12 and NPH notes.\nYoung-onset and rapidly-progressive lists bracket the pathology note that opens Alzheimer's.",
+      "qs": [
+        "MED-C35-07",
+        "MED-C35-08",
+        "MED-C35-09",
+        "MED-C35-10",
+        "MED-C35-11",
+        "MED-C35-12",
+        "MED-C35-13"
+      ]
+    },
+    {
+      "id": "MED-U35-3",
+      "ch": 35,
+      "n": 3,
+      "title": "3. Alzheimer's Pathogenesis",
+      "sec": "Alzheimer's Pathogenesis",
+      "guide": "The APP pathway diverges at A-beta 40/42 into CAA and tauopathy.\nBrain diabetes, the MRI atrophy list and the cholinergic DOC follow in printed order.",
+      "qs": [
+        "MED-C35-14",
+        "MED-C35-15",
+        "MED-C35-16",
+        "MED-C35-17",
+        "MED-C35-18",
+        "MED-C35-19"
+      ]
+    },
+    {
+      "id": "MED-U35-4",
+      "ch": 35,
+      "n": 4,
+      "title": "4. Genetics, Risk & Clinical Stages",
+      "sec": "Genetics, Risk & Clinical Stages",
+      "guide": "Presenilin-1/2 and ApoE4 chromosomes set the familial-versus-sporadic split.\nRisk factors (and their printed negations) lead into the clinical-stages loop.",
+      "qs": [
+        "MED-C35-20",
+        "MED-C35-21",
+        "MED-C35-22",
+        "MED-C35-23"
+      ]
+    },
+    {
+      "id": "MED-U35-5",
+      "ch": 35,
+      "n": 5,
+      "title": "5. Investigations & Treatment",
+      "sec": "Investigations & Treatment",
+      "guide": "EEG, CSF and PET lines are read with the MRI and PiB PET image pairs.\nThe three-line treatment ladder and the tacrine note close Part 1.",
+      "qs": [
+        "MED-C35-24",
+        "MED-C35-25",
+        "MED-C35-26",
+        "MED-C35-27"
+      ]
+    }
+  ]
+}

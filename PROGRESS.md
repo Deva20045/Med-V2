@@ -3,15 +3,37 @@
 Updated **2026-09-23**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0cd13-med-v2`
+- Session branch: `arena/01a0cf1f-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 26 live chapters / 57 · 1096 questions / 102 units.** Chapters 27–57 remain `live:false`.
+- **Build status: 32 live chapters / 57 · 1264 questions / 128 units.** Chapters 27–32, 39–57 remain `live:false`.
 
-## This release — Chapters 16–26
+## This release — Chapters 33–38
 
-Eleven consecutive rheumatology chapters were rendered from the scans, read block by block, source-ordered and made live:
+Six consecutive neurology chapters were rendered from the scans, read block by block, source-ordered and made live (Book p566–601, all in `uploads/03.pdf`; printed p586, p590 and p591 are absent from the supplied scan and are transparently flagged in the ledger):
 
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 33 | Language V/S Speech | 566–568 | 16 | 4 |
+| 34 | Memory | 569–571 | 12 | 3 |
+| 35 | Dementia : Part 1 | 572–576 | 27 | 5 |
+| 36 | Dementia : Part 2 | 577–582 | 25 | 3 |
+| 37 | Parkinson's Disease | 583–592 | 37 | 5 |
+| 38 | Headache | 593–601 | 51 | 6 |
+| **Release total** |  | **36 book pages (p586/p590/p591 absent from scan)** | **168** | **26** |
+
+### Quality and ordering contract delivered
+
+1. All pages were read in printed order (`uploads/03.pdf` PDF5–37 = Book p566–601; printed p586, p590 and p591 are absent from the scan), including flowchart arms, comparison tables, numeric thresholds, diagram labels, notes, management ladders and drug doses. Scans have no extractable text: every reading used 2× PyMuPDF renders, and every printed page number was verified against the page map (decisive 10× corner reads settled the missing sheets).
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1372 mappings** for Chapters 2–38. Every target is marked asked.
+3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–26 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
+4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
+6. Chapters 33–38 are embedded in the standalone app and all 32 roadmap flags for live chapters are set.
+
+## Previous release — Chapters 16–26
+
+Eleven consecutive rheumatology chapters (Book p458–531): 
 | Ch | Title | Printed pages | Questions | Units |
 |---:|---|---:|---:|---:|
 | 16 | SLE - Clinical Profile and Management | 458–465 | 74 | 7 |
@@ -27,21 +49,11 @@ Eleven consecutive rheumatology chapters were rendered from the scans, read bloc
 | 26 | Rheumatoid Arthritis | 521–531 | 80 | 4 |
 | **Release total** |  | **74 pages** | **517** | **47** |
 
-### Quality and ordering contract delivered
-
-1. All pages were read in printed order (`uploads/01.pdf` PDF94–103 = Book p458–467 and `uploads/02.pdf` PDF1–63 = Book p468–531; printed p527 is absent), including flowchart arms, comparison tables, numeric thresholds, morphology images, rotated annotations, notes, management ladders and drug doses.
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 16–26 add **517 ordered mappings**, bringing the audited ledger to **1204 mappings** for Chapters 2–26. Every target is marked asked.
-   Chapters 16–20 are unusually dense (a six-class lupus-nephritis table, the weighted EULAR/ACR domain table, two management ladders with doses, four antibody-to-organ tables and three comparison tables), so the block-by-block inventory resolved into more discrete printed points than the 120–150 planning estimate; no point was dropped to meet a round number.
-3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–26. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
-4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
-5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 16–26 are embedded in the standalone app and all 26 roadmap flags are live.
-
 Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
 
 ## Verified PDF → printed-page map
 
-Printed page numbers are ground truth. Every sheet used so far was rendered at 2× and checked visually. `uploads/01.pdf` is sequential after 12 unnumbered front-matter sheets; `uploads/02.pdf` continues the same volume at Book p468. Full mappings and hashes are in [PAGE_MAP.md](audit/PAGE_MAP.md), [page-map.json](audit/page-map.json) and [page-map-02.json](audit/page-map-02.json).
+Printed page numbers are ground truth. Every sheet used so far was rendered at 2× and checked visually. `uploads/01.pdf` is sequential after 12 unnumbered front-matter sheets; `uploads/02.pdf` continues the same volume at Book p468; `uploads/03.pdf` continues at Book p562 (printed p586, p590 and p591 are absent from the scan); `uploads/04.pdf` begins at Book p626. Full mappings are in [PAGE_MAP.md](audit/PAGE_MAP.md), [page-map.json](audit/page-map.json) and [page-map-02.json](audit/page-map-02.json).
 
 - PDF13–18: Book p377–382 (Ch1)
 - PDF19–29: p383–393 (Ch2–4)
@@ -62,7 +74,13 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **02.pdf PDF10–16: p477–483 (Ch19)**
 - **02.pdf PDF17–23: p484–490 (Ch20)**
 - **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**
-- 02.pdf PDF64 onward: p532+ (Ch27 onward, not yet live)
+- 02.pdf PDF64–93: p532–561 (Ch27–32 territory, not yet live)
+- 03.pdf PDF1–4: p562–565 (Ch27–32 territory, not yet live)
+- **03.pdf PDF5–10: p566–571 (Ch33–34)**
+- **03.pdf PDF11–21: p572–582 (Ch35–36)**
+- **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**
+- **03.pdf PDF29–37: p593–601 (Ch38)**
+- 03.pdf PDF38–61: p602–622 (Ch39 onward, not yet live); 04.pdf: p626 onward
 
 ## Schema and order contract
 
@@ -70,7 +88,7 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - Question: sequential `MED-C<N>-<seq>` ID; section/page/format/stem; exactly four unique options; one answer; explanation ending exactly `(Book pX)` matching `page`.
 - Units: sequential `MED-U<N>-<n>` IDs; each has a 2–4-line guide; its IDs are rebuilt from exactly one section in original question order; flattened units equal the full chapter sequence.
 - Questions are in printed book-page order; all printed pages in every live chapter are represented.
-- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–26, in exact question order and with matching book page.
+- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–38, in exact question order and with matching book page.
 - Questions are educational book-study material, not a substitute for current clinical guidelines or patient care.
 
 ## Build, audit and test workflow
@@ -80,7 +98,8 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 python3 tools/generate_ch09_15.py        # Chapters 9-15
 python3 tools/generate_ch16_20.py        # Chapters 16-20
 python3 tools/generate_ch21_26.py        # Chapters 21-26
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-20, Ch21-26)
+python3 tools/generate_ch33_38.py        # Chapters 33-38
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-26, Ch33-38)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -197,6 +216,32 @@ node tests/app_parsers.cjs
 | 26 | 2. RA prediction markers, clinical manifestations and deformities | 524–526 | MED-C26-23–MED-C26-43 | 21 |
 | 26 | 3. Extra-articular RA and RA versus SLE | 527–529 | MED-C26-44–MED-C26-61 | 18 |
 | 26 | 4. RA management | 530–531 | MED-C26-62–MED-C26-80 | 19 |
+| 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
+| 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
+| 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
+| 33 | 4. Dysarthria | 568 | MED-C33-15–MED-C33-16 | 2 |
+| 34 | 1. Processes & Classification | 569 | MED-C34-01–MED-C34-06 | 6 |
+| 34 | 2. Implicit Memory & Anatomy | 570 | MED-C34-07–MED-C34-10 | 4 |
+| 34 | 3. Papez Circuit | 571 | MED-C34-11–MED-C34-12 | 2 |
+| 35 | 1. Definition, Domains & Causes | 572 | MED-C35-01–MED-C35-06 | 6 |
+| 35 | 2. Reversible Causes & Onset Patterns | 573 | MED-C35-07–MED-C35-13 | 7 |
+| 35 | 3. Alzheimer's Pathogenesis | 574 | MED-C35-14–MED-C35-19 | 6 |
+| 35 | 4. Genetics, Risk & Clinical Stages | 575 | MED-C35-20–MED-C35-23 | 4 |
+| 35 | 5. Investigations & Treatment | 576 | MED-C35-24–MED-C35-27 | 4 |
+| 36 | 1. Frontotemporal & Lewy Body Dementia | 577–578 | MED-C36-01–MED-C36-10 | 10 |
+| 36 | 2. Subcortical vs Cortical & Prion | 579–580 | MED-C36-11–MED-C36-17 | 7 |
+| 36 | 3. Vascular Dementia & NPH | 580–582 | MED-C36-18–MED-C36-25 | 8 |
+| 37 | 1. Basal Ganglia Anatomy & Circuits | 583–584 | MED-C37-01–MED-C37-07 | 7 |
+| 37 | 2. Idiopathic PD: Appearance & Tremor | 584–586 | MED-C37-08–MED-C37-13 | 6 |
+| 37 | 3. Motor Signs, Posture & Investigations | 587 | MED-C37-14–MED-C37-20 | 7 |
+| 37 | 4. Atypical PD & MSA | 588 | MED-C37-21–MED-C37-26 | 6 |
+| 37 | 5. Treatment & Protocols | 589–592 | MED-C37-27–MED-C37-37 | 11 |
+| 38 | 1. Anatomy, Classification & Dangerous Headache | 593–594 | MED-C38-01–MED-C38-07 | 7 |
+| 38 | 2. Tension-Type & Migraine | 594–595 | MED-C38-08–MED-C38-16 | 9 |
+| 38 | 3. Migraine Criteria, Pathogenesis & Treatment | 595–596 | MED-C38-17–MED-C38-28 | 12 |
+| 38 | 4. TAC, Cluster & Variants | 597–599 | MED-C38-29–MED-C38-39 | 11 |
+| 38 | 5. Trigeminal & Glossopharyngeal Neuralgia | 599 | MED-C38-40–MED-C38-43 | 4 |
+| 38 | 6. Benign Intracranial Hypertension | 600–601 | MED-C38-44–MED-C38-51 | 8 |
 
 ## Full roadmap
 
@@ -234,12 +279,12 @@ node tests/app_parsers.cjs
 | 30 | Frontal Lobe | 555 | Soon |
 | 31 | Praxicons | 560 | Soon |
 | 32 | Temporal and Occipital Lobe | 563 | Soon |
-| 33 | Language V/S Speech | 566 | Soon |
-| 34 | Memory | 569 | Soon |
-| 35 | Dementia : Part 1 | 572 | Soon |
-| 36 | Dementia : Part 2 | 577 | Soon |
-| 37 | Parkinson's Disease | 583 | Soon |
-| 38 | Headache | 593 | Soon |
+| 33 | Language V/S Speech | 566 | **Live** |
+| 34 | Memory | 569 | **Live** |
+| 35 | Dementia : Part 1 | 572 | **Live** |
+| 36 | Dementia : Part 2 | 577 | **Live** |
+| 37 | Parkinson's Disease | 583 | **Live** |
+| 38 | Headache | 593 | **Live** |
 | 39 | Seizure Semiology | 602 | Soon |
 | 40 | Generalised Tonic-Clonic Seizure | 608 | Soon |
 | 41 | CNS Infections | 613 | Soon |

@@ -1,0 +1,305 @@
+{
+  "chapter": 33,
+  "title": "Language V/S Speech",
+  "pageRange": "566-568",
+  "questions": [
+    {
+      "id": "MED-C33-01",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "page": 566,
+      "fmt": "recall",
+      "q": "The book defines language as which of the following?",
+      "opts": [
+        "The motor output of language",
+        "Emotional intonation of speech",
+        "Processing of sound in area 22",
+        "The basic concept of communication, a dominant-hemisphere function"
+      ],
+      "ans": 3,
+      "exp": "Language is defined as the basic concept of communication and is a dominant-hemisphere function; its abnormality is aphasia. (Book p566)"
+    },
+    {
+      "id": "MED-C33-02",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "page": 566,
+      "fmt": "recall",
+      "q": "Speech, per the opening definition, is which, and its abnormality is which?",
+      "opts": [
+        "Motor output of language, whose abnormality is dysarthria",
+        "Comprehension of words, abnormality aphasia",
+        "Emotional intonation, abnormality paraphasia",
+        "Written communication, abnormality alexia"
+      ],
+      "ans": 0,
+      "exp": "Speech is the motor output of language; its abnormality is dysarthria, whereas the abnormality of language is aphasia. (Book p566)"
+    },
+    {
+      "id": "MED-C33-03",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "page": 566,
+      "fmt": "scenario",
+      "q": "In the auditory-pathway diagram, prosody (emotional intonation of language) is attributed to which hemisphere?",
+      "opts": [
+        "Area 17 of either hemisphere",
+        "The non-dominant hemisphere",
+        "The dominant hemisphere at Broca's area",
+        "The dominant hemisphere at Wernicke's area"
+      ],
+      "ans": 1,
+      "exp": "The diagram marks prosody - emotional intonation of language - as a non-dominant hemisphere function. (Book p566)"
+    },
+    {
+      "id": "MED-C33-04",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "page": 566,
+      "fmt": "scenario",
+      "q": "A lesion severs the connecting fibres between the primary auditory area and Wernicke's area. Which deficit does the diagram label this as?",
+      "opts": [
+        "Pure alexia",
+        "Global aphasia",
+        "Pure word deafness",
+        "Auditory agnosia"
+      ],
+      "ans": 2,
+      "exp": "The auditory-pathway diagram labels connecting-fibre abnormality as pure word deafness; the peripheral muscles (larynx vocal cords, pharynx palate, oesophagus) are driven below the brainstem nuclei. (Book p566)"
+    },
+    {
+      "id": "MED-C33-05",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "page": 566,
+      "fmt": "recall",
+      "q": "Which pairing of the speech areas' functions is printed in the perisylvian diagram?",
+      "opts": [
+        "Broca's (44,45): comprehension; Wernicke's (22): fluency",
+        "Broca's (22): syntax; Wernicke's (44,45): prosody",
+        "Broca's (44,45): prosody; Wernicke's (22): grammar",
+        "Broca's (44,45): grammar, syntax, rhythm, fluency; Wernicke's (22): processing sound, comprehension"
+      ],
+      "ans": 3,
+      "exp": "Broca's speech area (44,45) carries grammar, syntax, rhythm and fluency while Wernicke's area (22) processes sound and comprehension; the companion Areas-of-Brain diagram labels the perisylvian region, premotor, primary motor, supplementary motor, Rolandic fissure, primary sensory, supramarginal and arcuate gyri, Sylvian fissure and primary auditory area. (Book p566)"
+    },
+    {
+      "id": "MED-C33-06",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "page": 566,
+      "fmt": "recall",
+      "q": "Below the brainstem nuclei, the pathway diagram lists which peripheral effectors of speech?",
+      "opts": [
+        "Larynx (vocal cords), pharynx (palate) and oesophagus",
+        "Diaphragm, intercostals and abdominal muscles",
+        "Tongue, soft palate and neck flexors only",
+        "Pharynx, larynx and diaphragm"
+      ],
+      "ans": 0,
+      "exp": "The diagram's final line lists the peripheral muscles: larynx (vocal cords), pharynx (palate) and oesophagus. (Book p566)"
+    },
+    {
+      "id": "MED-C33-07",
+      "sec": "Aphasia Lesion Map & Flowchart",
+      "page": 567,
+      "fmt": "recall",
+      "q": "The note lines on this page pair which lesion with which deficit?",
+      "opts": [
+        "Fusiform gyrus -> auditory agnosia; connecting fibres -> transcortical aphasia",
+        "Auditory association fibres -> auditory agnosia; connecting fibres -> pure word deafness; fusiform gyrus -> pure alexia",
+        "Auditory association fibres -> pure alexia; fusiform gyrus -> pure word deafness",
+        "Connecting fibres -> auditory agnosia; fusiform gyrus -> global aphasia"
+      ],
+      "ans": 1,
+      "exp": "Notes: auditory association fibres abnormality -> auditory agnosia; connecting fibres abnormality -> pure word deafness; lesion in fusiform gyrus -> pure alexia. (Book p567)"
+    },
+    {
+      "id": "MED-C33-08",
+      "sec": "Aphasia Lesion Map & Flowchart",
+      "page": 567,
+      "fmt": "scenario",
+      "q": "Per the lesion-site table, a lesion anterior to the central sulcus impairs which function?",
+      "opts": [
+        "Repetition",
+        "Naming",
+        "Fluency",
+        "Comprehension"
+      ],
+      "ans": 2,
+      "exp": "Lesion/disease table: anterior to central sulcus -> fluency; posterior to central sulcus -> comprehension; in and around Sylvian fissure -> repetition; dominant lobe -> naming. Prosody of speech is d/t non-dominant lobe disease. (Book p567)"
+    },
+    {
+      "id": "MED-C33-09",
+      "sec": "Aphasia Lesion Map & Flowchart",
+      "page": 567,
+      "fmt": "scenario",
+      "q": "In the aphasia flowchart, a patient has preserved comprehension and preserved repetition. Which aphasia is reached, and its stated cause?",
+      "opts": [
+        "Conduction aphasia, d/t arcuate fasciculus lesion",
+        "Isolation aphasia, with echolalia",
+        "Broca's aphasia, d/t frontal infarct",
+        "Transcortical motor aphasia, d/t watershed infarct (MCA, PCA)"
+      ],
+      "ans": 3,
+      "exp": "Preserved comprehension with preserved repetition leads to transcortical motor aphasia (d/t watershed infarct MCA, PCA); impaired repetition in that branch gives Broca's aphasia. (Book p567)"
+    },
+    {
+      "id": "MED-C33-10",
+      "sec": "Aphasia Lesion Map & Flowchart",
+      "page": 567,
+      "fmt": "recall",
+      "q": "The flowchart's Broca's aphasia arm lists which cluster?",
+      "opts": [
+        "Agrammatic (telegraphic) speech, poor reading/writing, associated weakness, good comprehension",
+        "Jargon speech, neologisms, logorrhoea, paraphasia",
+        "Echolalia with intact comprehension and repetition",
+        "Loud reading, writing formed with errors, no weakness"
+      ],
+      "ans": 0,
+      "exp": "Broca's aphasia in the flowchart: agrammatic (telegraphic), poor reading/writing, associated sign weakness and good comprehension; motor aphasia overall is non-fluent speech: DESP (dysarthria, effortful, sparse with reduced word output, prosody lost, naming impaired). (Book p567)"
+    },
+    {
+      "id": "MED-C33-11",
+      "sec": "Aphasia Lesion Map & Flowchart",
+      "page": 567,
+      "fmt": "scenario",
+      "q": "Sensory aphasia is described as fluent speech with which features?",
+      "opts": [
+        "Slow scanning staccato output",
+        "Jargon speech (pen -> hen), neologisms, logorrhoea, impaired naming (paraphasia)",
+        "Non-fluent, effortful, sparse speech with prosody lost",
+        "Echolalia with preserved repetition"
+      ],
+      "ans": 1,
+      "exp": "Sensory aphasia: fluent speech with jargon substitution (eg pen -> hen), neologisms (create new words), logorrhoea (increased word output) and naming impaired (paraphasia). (Book p567)"
+    },
+    {
+      "id": "MED-C33-12",
+      "sec": "Aphasia Flowchart Continued",
+      "page": 568,
+      "fmt": "scenario",
+      "q": "Comprehension preserved but repetition impaired in the flowchart gives which aphasia and lesion?",
+      "opts": [
+        "Transcortical sensory aphasia, d/t infarct",
+        "Wernicke's aphasia, d/t infarct",
+        "Conduction aphasia, lesion of the arcuate fasciculus",
+        "Anomic aphasia, lesion of the angular gyrus"
+      ],
+      "ans": 2,
+      "exp": "Preserved comprehension with impaired repetition = conduction aphasia (arcuate fasciculus lesion); preserved repetition in that branch = anomic aphasia (angular gyrus lesion); impaired comprehension with preserved repetition = transcortical sensory aphasia (d/t infarct). (Book p568)"
+    },
+    {
+      "id": "MED-C33-13",
+      "sec": "Aphasia Flowchart Continued",
+      "page": 568,
+      "fmt": "scenario",
+      "q": "Comprehension impaired and repetition impaired in the flowchart: which aphasia, with which associated sign?",
+      "opts": [
+        "Global aphasia, with bilateral weakness",
+        "Transcortical sensory aphasia, with echolalia",
+        "Isolation aphasia, with preserved comprehension",
+        "Wernicke's aphasia, with superior quadrantanopia and no weakness"
+      ],
+      "ans": 3,
+      "exp": "Impaired comprehension with impaired repetition = Wernicke's aphasia (d/t infarct; reading loud, writing formed with errors, preservation poor, associated sign superior quadrantanopia, no weakness). (Book p568)"
+    },
+    {
+      "id": "MED-C33-14",
+      "sec": "Aphasia Flowchart Continued",
+      "page": 568,
+      "fmt": "recall",
+      "q": "Which statement is printed as the note beneath the flowchart?",
+      "opts": [
+        "Lesion of parietal lobe: inferior quadrantanopia",
+        "Lesion of parietal lobe: superior quadrantanopia",
+        "Lesion of occipital lobe: inferior quadrantanopia",
+        "Lesion of frontal lobe: quadrantanopia"
+      ],
+      "ans": 0,
+      "exp": "Note beneath the flowchart: lesion of parietal lobe -> inferior quadrantanopia (the Wernicke's arm separately lists superior quadrantanopia). (Book p568)"
+    },
+    {
+      "id": "MED-C33-15",
+      "sec": "Dysarthria",
+      "page": 568,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the dysarthria type NOT listed in the book's four types:",
+      "opts": [
+        "Bulbar (flaccid dysarthria)",
+        "Muscular dystrophy dysarthria",
+        "Cortical (in Broca's aphasia)",
+        "Pseudo-bulbar (spastic dysarthria)"
+      ],
+      "ans": 1,
+      "exp": "The four printed types: cortical (in Broca's aphasia), pseudo-bulbar/spastic (corticobulbar fibres abnormality), bulbar/flaccid (LMN - brain stem nuclei and below; test sounds produced from lip, tongue and oropharynx) and cerebellar (slow scanning staccato speech). (Book p568)"
+    },
+    {
+      "id": "MED-C33-16",
+      "sec": "Dysarthria",
+      "page": 568,
+      "fmt": "scenario",
+      "q": "A corticobulbar (UMN, cortex to anterior horn cell) abnormality produces which dysarthria per the types list?",
+      "opts": [
+        "Cerebellar staccato dysarthria",
+        "Cortical dysarthria of Broca's aphasia",
+        "Pseudo-bulbar (spastic) dysarthria",
+        "Bulbar (flaccid) dysarthria"
+      ],
+      "ans": 2,
+      "exp": "Pseudo-bulbar (spastic) dysarthria = corticobulbar fibres abnormality (UMN -> cortex to anterior horn cell); bulbar (flaccid) is LMN at brain stem nuclei and below. (Book p568)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U33-1",
+      "ch": 33,
+      "n": 1,
+      "title": "1. Language vs Speech & the Auditory Pathway",
+      "sec": "Language vs Speech & the Auditory Pathway",
+      "guide": "Language is the dominant-hemisphere concept of communication; speech is its motor output.\nThe perisylvian auditory-pathway diagram assigns functions to Broca's (44,45), Wernicke's (22) and the connecting fibres.\nProsody and the brainstem-to-muscle output close the first diagram.",
+      "qs": [
+        "MED-C33-01",
+        "MED-C33-02",
+        "MED-C33-03",
+        "MED-C33-04",
+        "MED-C33-05",
+        "MED-C33-06"
+      ]
+    },
+    {
+      "id": "MED-U33-2",
+      "ch": 33,
+      "n": 2,
+      "title": "2. Aphasia Lesion Map & Flowchart",
+      "sec": "Aphasia Lesion Map & Flowchart",
+      "guide": "Three note lines map fibre/lesion sites to auditory agnosia, pure word deafness and pure alexia.\nThe lesion-site table assigns fluency, comprehension, repetition and naming to sulcal regions.\nMotor (non-fluent DESP) and sensory (fluent jargon) aphasia open the comprehension/repetition flowchart.",
+      "qs": [
+        "MED-C33-07",
+        "MED-C33-08",
+        "MED-C33-09",
+        "MED-C33-10",
+        "MED-C33-11"
+      ]
+    },
+    {
+      "id": "MED-U33-3",
+      "ch": 33,
+      "n": 3,
+      "title": "3. Aphasia Flowchart Continued",
+      "sec": "Aphasia Flowchart Continued",
+      "guide": "The four remaining flowchart arms are read from comprehension x repetition.\nWernicke's arm carries its associated signs and the parietal quadrantanopia note.",
+      "qs": [
+        "MED-C33-12",
+        "MED-C33-13",
+        "MED-C33-14"
+      ]
+    },
+    {
+      "id": "MED-U33-4",
+      "ch": 33,
+      "n": 4,
+      "title": "4. Dysarthria",
+      "sec": "Dysarthria",
+      "guide": "Four dysarthria types are listed by their anatomical level.\nCorticobulbar UMN disease maps to the spastic (pseudo-bulbar) type.",
+      "qs": [
+        "MED-C33-15",
+        "MED-C33-16"
+      ]
+    }
+  ]
+}

@@ -22,25 +22,39 @@ pg_q = Counter((r['page'], r['question']) for r in cov)
 pg_unique_q = Counter(page for page, q in pg_q.keys())
 
 # Printed pages are sequential after 12 unnumbered PDF front-matter sheets of
-# uploads/01.pdf; uploads/02.pdf continues the book at printed page 468.
+# uploads/01.pdf; uploads/02.pdf continues the book at printed page 468;
+# uploads/03.pdf continues at printed page 562 with printed p586, p590 and
+# p591 absent from the supplied scan.
 def page_to_sheet(page):
     if page <= 467:
         return f"01 PDF{page - 364}"
     if page == 527:
         return "Missing from supplied scan"
-    return f"02 PDF{page - (467 if page < 527 else 468)}"
+    if page < 527:
+        return f"02 PDF{page - 467}"
+    if page <= 561:
+        return f"02 PDF{page - 468}"
+    if 562 <= page <= 585:
+        return f"03 PDF{page - 561}"
+    if page in (586, 590, 591):
+        return "Missing from supplied scan"
+    if 587 <= page <= 589:
+        return f"03 PDF{page - 560}"
+    if 592 <= page <= 601:
+        return f"03 PDF{page - 564}"
+    return "?"
 
 
-page_to_pdf = {page: page_to_sheet(page) for page in range(377, 532)}
+page_to_pdf = {page: page_to_sheet(page) for page in range(377, 602)}
 
 out = []
-out.append("# Chapters 2–26 — visual self-audit gate\n")
-out.append("Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–63 (Book p468–531; printed p527 is absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
+out.append("# Chapters 2–38 — visual self-audit gate\n")
+out.append("Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–63 (Book p468–531; printed p527 is absent) and `uploads/03.pdf` PDF5–37 (Book p566–601; printed p586, p590 and p591 are absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
-out.append("- Read every educational heading, bullet, sub-bullet, note, equation, table cell, flowchart arm, annotated ECG, morphology panel, image label, threshold, dose, contraindication and treatment branch on printed p383–531. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded.")
+out.append("- Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).")
 out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.")
-out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–26 (no fill-up or match worksheets), and exact citation references.")
-out.append("- Questions in Chapters 9–26 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
+out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–26 and 33–38 (no fill-up or match worksheets), and exact citation references.")
+out.append("- Questions in Chapters 9–26 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
 out.append("- Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.\n")
 
 out.append("## Source-specific notes retained as book-study material\n")
@@ -108,9 +122,27 @@ out.append("| 499–508 | ANCA testing, GPA/MPA/EGPA/PAN scoring, doses, plasma-
 out.append("| 509–513 | HSP versus cryoglobulinemia criteria, triads, complement/cryocrit findings and treatment branches are source-specific. |")
 out.append("| 514–518 | Behcet and Cogan diagnostic/treatment criteria, pathergy values and systemic warning signs are retained as printed. |")
 out.append("| 519–520 | Arthritis approach thresholds, inflammatory synovial-fluid cut-off and erosion table are study points, not a substitute for clinical assessment. |")
-out.append("| 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |\n")
+out.append("| 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |")
+out.append("| 566 | Broca (44,45) grammar/syntax/rhythm/fluency vs Wernicke (22) sound/comprehension, non-dominant prosody and 'pure word deafness' labelled on the connecting fibres are transcribed as printed. |")
+out.append("| 567 | The DESP non-fluent list and the four-arm comprehension/repetition flowchart (watershed infarct for transcortical motor) are reproduced as printed. |")
+out.append("| 568 | Four dysarthria types by anatomical level and the 'lesion of parietal lobe: inferior quadrantanopia' note (vs superior quadrantanopia in the Wernicke's arm) are source statements. |")
+out.append("| 572 | The definition is printed as 'major cognitive impairment + ≥1 out of 6 cognitive domains affected' (standard NIAAA criteria use two domains); the six-domain→area table is transcribed as printed. |")
+out.append("| 573 | The reversible-cause letter list, the B12 triad note and 'Rx of NPH: surgery' are source statements; '>85 years: 40% chance of Alzheimer's' is printed as such. |")
+out.append("| 574–575 | The APP pathway (β-secretase), Aβ40/42 divergence, brain-diabetes IDE step, chromosomes 14/1/19 and the printed 'Not risk factors: low IQ, smoking, NSAIDs' are transcribed as printed. |")
+out.append("| 577–578 | FTD 70% sporadic vs Alzheimer's 90–95% sporadic note; the DLB-vs-PD table including 'antipsychotics worsen (D2 receptor inhibition)' and the rocket-sign definition are source statements. |")
+out.append("| 580 | Flupirtine maleate listed as CJD treatment (centrally acting non-opioid analgesic) is a source statement, not contemporary care. |")
+out.append("| 583–585 | Basal-ganglia tree, nuclei diagram with lesion syndromes and the PD-vs-essential tremor table are reproduced as printed. |")
+out.append("| 587 | 'Froment's sign: activity-induced increase in c/l rigidity' is transcribed exactly as printed (the classical pencil-pinch test is not described on this page); the swallow-tail sign is attributed to the substantia nigra. |")
+out.append("| 586 / 590 / 591 | Missing from supplied scan — each carries one transparently-flagged bracketing question (MED-C37-13, MED-C37-33, MED-C37-34); content verification of these pages remains unresolved, as with p527. |")
+out.append("| 589–592 | 'COMT inhibitors not used now', trihexyphenidyl for drug-induced PD, amantadine's three mechanisms and the <60-year / >60-year protocol split are source statements. |")
+out.append("| 593–594 | GCA red flags, the herniation line (uncus m/c, 3rd nerve palsy) and the TTH-vs-migraine feature lists are reproduced as printed. |")
+out.append("| 595–596 | Common 80% / classical 20%, aura 15 min–1 hr, 4–72 hr duration, the triptan dose maxima (rizatriptan 30 mg, sumatriptan 200 mg) and the ergotamine note are book-study values. |")
+out.append("| 597–598 | TAC attack data (15 min–3 h, 2–30 min, 5–240 s) and cluster oxygen 12–15 L/min for 10–20 min are source values as printed. |")
+out.append("| 599 | HLA B-1502 before carbamazepine and HLA B-5801 before allopurinol are source statements; TN/MVD treatment ladder transcribed as printed. |")
+out.append("| 600–601 | Modified Dandy criteria (LP >25 cm H2O), acetazolamide DOC, repeated LP 20–30 ml 'best option' and the acute-ICP five steps (CPP >60 mmHg) are source statements. |\n")
 
 out.append("Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526, PDF60 is p528, PDF63 is p531, and PDF64 begins p532. Printed p527 is absent. The five existing upstream Chapter 26 questions citing p527 are preserved, but their source verification remains unresolved; software coverage does not establish visual completeness for that missing page.\n")
+out.append("Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed p587 and PDF28 is printed p592 (decisive 10× corner reads), and 28 printed pages (p566-p593) span only 25 sheets — printed p586, p590 and p591 are absent from the supplied scan. Three transparently-flagged bracketing questions (MED-C37-13 citing p586, MED-C37-33 citing p590, MED-C37-34 citing p591) keep the ledger's page set complete; their source verification remains unresolved, following the p527 precedent.\n")
 
 out.append("## Per-chapter units\n")
 out.append("| Ch | Unit | Pages | Question range | Count |")
@@ -135,6 +167,13 @@ out.append("\n## Chapters 16–26 release table\n")
 out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
 out.append("|---:|---|---:|---:|---:|---:|")
 for n in range(16, 27):
+    c = next(ch for ch in chapters_data if ch['chapter'] == n)
+    out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
+
+out.append("\n## Chapters 33–38 release table\n")
+out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
+out.append("|---:|---|---:|---:|---:|---:|")
+for n in range(33, 39):
     c = next(ch for ch in chapters_data if ch['chapter'] == n)
     out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
 

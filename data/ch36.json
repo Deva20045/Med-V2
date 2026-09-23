@@ -1,0 +1,439 @@
+{
+  "chapter": 36,
+  "title": "Dementia : Part 2",
+  "pageRange": "577-582",
+  "questions": [
+    {
+      "id": "MED-C36-01",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 577,
+      "fmt": "numeric",
+      "q": "The page prints what percentage of FTD (Pick's disease) as sporadic?",
+      "opts": [
+        "70%",
+        "90-95%",
+        "50%",
+        "100%"
+      ],
+      "ans": 0,
+      "exp": "FTD (Pick's disease): 70% sporadic, young onset dementia (50-60 years), rapidly progressive dementia; note contrasts Alzheimer's -> 90-95% sporadic (cerebral atrophy MRI pair). (Book p577)"
+    },
+    {
+      "id": "MED-C36-02",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 577,
+      "fmt": "recall",
+      "q": "FTD pathology involves the MAPT gene on which chromosome, with which m/c protein?",
+      "opts": [
+        "Chromosome 21; alpha-synuclein",
+        "Chromosome 17; TDP-43",
+        "Chromosome 14; tau",
+        "Chromosome 19; FUS"
+      ],
+      "ans": 1,
+      "exp": "Pathology involves MAPT gene chromosome 17; proteins involved: TDP-43 (m/c), tau (hyperphosphorylated: loss of function of tau molecule) -> Pick's bodies, FUS; b/l prefrontal cortex atrophy. (Book p577)"
+    },
+    {
+      "id": "MED-C36-03",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 577,
+      "fmt": "scenario",
+      "q": "Loss of social embarrassment, apathy, impaired planning and judgement with relatively preserved memory - which FTD type is the m/c one?",
+      "opts": [
+        "Primary progressive aphasia",
+        "Semantic variant",
+        "Behavioural variant",
+        "Logopenic variant"
+      ],
+      "ans": 2,
+      "exp": "Clinical features: m/c type behavioural variant; loss of social embarrassment; social and emotional systems dysfunction (apathy, overeating - temporal); impaired planning and judgement; memory relatively preserved; hyperorality - temporal lobe involvement. (Book p577)"
+    },
+    {
+      "id": "MED-C36-04",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 577,
+      "fmt": "recall",
+      "q": "The side notes pair hyperphosphorylated tau with which diseases, and split the PFC into which three parts?",
+      "opts": [
+        "CJD and Binswanger; ego, id, memory",
+        "PSP and MSA; attention, memory, motor",
+        "AD only; cortex, thalamus, hippocampus",
+        "Alzheimer's and Pick's; Id, superego, ego"
+      ],
+      "ans": 3,
+      "exp": "Notes: tauopathy -> hypophosphorylated tau / hyperphosphorylated tau (Alzheimer's, Pick's); PFC -> Id, superego, ego. Diffuse Lewy Body Dementia: 2nd m/c cause of dementia; part of Parkinson-plus/atypical Parkinson's syndrome. (Book p577)"
+    },
+    {
+      "id": "MED-C36-05",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 577,
+      "fmt": "recall",
+      "q": "Which pairing lists only the 'alpha synuclein'-opathies in the Parkinson-plus components tree?",
+      "opts": [
+        "Multiple system atrophy and diffuse Lewy body dementia",
+        "Progressive supranuclear palsy and corticobasal degeneration",
+        "PSP and multiple system atrophy",
+        "Corticobasal degeneration and DLB"
+      ],
+      "ans": 0,
+      "exp": "Components of Parkinson plus syndrome: 'Tau'opathies - progressive supranuclear palsy, corticobasal degeneration; 'alpha synuclein'-opathies - multiple system atrophy, diffuse Lewy Body dementia. (Book p577)"
+    },
+    {
+      "id": "MED-C36-06",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 578,
+      "fmt": "recall",
+      "q": "Lewy bodies are intraneuronal cytoplasmic inclusions whose content is:",
+      "opts": [
+        "A-beta 42",
+        "Alpha-synuclein",
+        "Hyperphosphorylated tau",
+        "TDP-43"
+      ],
+      "ans": 1,
+      "exp": "Lewy bodies: intraneuronal cytoplasmic inclusions; content alpha-synuclein. Note: Parkinson's = alpha synucleinopathy; Alzheimer's = 'Tau'pathy (degenerated cholinergic neurons in the nucleus basalis of meynert); anticholinergics are the Rx of drug-induced parkinsonism. (Book p578)"
+    },
+    {
+      "id": "MED-C36-07",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 578,
+      "fmt": "numeric",
+      "q": "Characteristic changes of 'alpha synuclein'-opathies precede disease onset by how long?",
+      "opts": [
+        "15-20 years",
+        "2-4 weeks",
+        "5-10 years",
+        "1-2 years"
+      ],
+      "ans": 2,
+      "exp": "Characteristic changes 5-10 years before onset of disease: 1. REM sleep disorders; 2. autonomic nervous system symptoms - postural hypotension, erectile > ejaculatory dysfunction, urinary abnormalities. (Book p578)"
+    },
+    {
+      "id": "MED-C36-08",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 578,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the autonomic symptom NOT listed for 'alpha synuclein'-opathies:",
+      "opts": [
+        "Postural hypotension",
+        "Erectile > ejaculatory dysfunction",
+        "Urinary abnormalities",
+        "Sialorrhea"
+      ],
+      "ans": 3,
+      "exp": "Listed ANS symptoms: postural hypotension, erectile > ejaculatory dysfunction and urinary abnormalities. (Book p578)"
+    },
+    {
+      "id": "MED-C36-09",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 578,
+      "fmt": "scenario",
+      "q": "Cognitive impairment within 1 year of motor manifestations, visual hallucinations before motor symptoms, b/l axial rigidity with rocket sign, tremor uncommon, antipsychotics worsening, L-dopa unresponsive - which diagnosis?",
+      "opts": [
+        "DLB dementia",
+        "Parkinson's disease",
+        "Normal pressure hydrocephalus",
+        "Corticobasal degeneration"
+      ],
+      "ans": 0,
+      "exp": "DLB v/s PD table: DLB - cognitive impairment precedes/within 1 year (predominant rapidly progressive dementia), visual hallucinations and fluctuating alertness precede motor symptoms, tremors uncommon, b/l axial rigidity (rocket sign +), gait abnormalities common, antipsychotics worsen (d/t D2 receptor inhibition), L-dopa no improvement, treatment none available; PD - after 4-5 years of motor manifestations, tremor common, asymmetrical rigidity, gait uncommon, L-dopa improves, Rx L-dopa and deep brain stimulation. (Book p578)"
+    },
+    {
+      "id": "MED-C36-10",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "page": 578,
+      "fmt": "recall",
+      "q": "The rocket sign is defined in the note as:",
+      "opts": [
+        "Rest tremor with writing",
+        "Falling backwards immediately after trying to get up from a chair",
+        "Forward lean on the pull test",
+        "Freezing of gait at doorways"
+      ],
+      "ans": 1,
+      "exp": "Note: rocket sign - falling backwards immediately after trying to get up from a chair. (Book p578)"
+    },
+    {
+      "id": "MED-C36-11",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 579,
+      "fmt": "scenario",
+      "q": "Severe memory impairment, early dysphasia, apraxia/agnosia/acalculia present, visuo-spatial defects more severe, indifferent personality - which column of the comparison table?",
+      "opts": [
+        "Mixed dementia",
+        "Frontotemporal dementia only",
+        "Cortical dementia (examples Alzheimer's, FTD)",
+        "Subcortical dementia (examples DLB, PSP, NPH, Binswanger)"
+      ],
+      "ans": 2,
+      "exp": "Cortical column: examples Alzheimer's, FTD; affected hippocampus, medial temporal lobe; memory severe; apraxia (superior parietal lobe lesion) / agnosia (association areas) / acalculia (angular gyrus) (+); early dysphasia; visuo-spatial more severe; personality indifferent; mood depressed (subcortical > cortical); coordination normal; cognitive and motor speed normal; abnormal movements rare; extrapyramidal symptoms -. (Book p579)"
+    },
+    {
+      "id": "MED-C36-12",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 579,
+      "fmt": "recall",
+      "q": "The subcortical dementia column's affected regions are:",
+      "opts": [
+        "Hippocampus and medial temporal lobe",
+        "Angular gyrus and association areas",
+        "Superior parietal lobule",
+        "Subcortical grey matter (basal ganglia, thalamus) and white matter (corticospinal, corticobulbar fibres)"
+      ],
+      "ans": 3,
+      "exp": "Subcortical column: examples DLB dementia, PSP, NPH, Binswanger's disease; regions subcortical grey matter (basal ganglia, thalamus) plus subcortical white matter (corticospinal, corticobulbar fibres); memory less severe; language normal; personality apathetic; coordination impaired; speed slow; abnormal movements common; extrapyramidal symptoms +. (Book p579)"
+    },
+    {
+      "id": "MED-C36-13",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 579,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the row value NOT from the subcortical dementia column:",
+      "opts": [
+        "Early dysphasia (language)",
+        "Apathetic (personality)",
+        "Slow (cognitive and motor speed)",
+        "Common (abnormal movements)"
+      ],
+      "ans": 0,
+      "exp": "Subcortical column values: language normal (cortical: early dysphasia), personality apathetic, speed slow, abnormal movements common. (Book p579)"
+    },
+    {
+      "id": "MED-C36-14",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 579,
+      "fmt": "recall",
+      "q": "Prion is defined on the page as:",
+      "opts": [
+        "A glycoprotein of the dura",
+        "An infectious protein with no nucleic acid",
+        "A misfolded peptide carrying nucleic acid",
+        "A prion-derived RNA virus"
+      ],
+      "ans": 1,
+      "exp": "Prion: infectious protein with no nucleic acid; genetic/sporadic. Pathology: beta-pleated PrPsc protein -> spongiform degeneration of cortex -> neuronal loss. (Book p579)"
+    },
+    {
+      "id": "MED-C36-15",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 580,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the prion disease NOT in the types list:",
+      "opts": [
+        "Familial fatal insomnia",
+        "Kuru",
+        "Whipple's disease",
+        "Creutzfeldt-Jakob disease (CJD)"
+      ],
+      "ans": 2,
+      "exp": "Types of prion diseases: 1. CJD, 2. familial fatal insomnia, 3. kuru, 4. Gerstmann Straussler Scheinker disease. Common features: young onset dementia, rapidly progressive dementia, no immune response. (Whipple's appears only in the p573 rapidly-progressive list.) (Book p580)"
+    },
+    {
+      "id": "MED-C36-16",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 580,
+      "fmt": "scenario",
+      "q": "CJD: spongiform cortical changes with cortical ribboning, basal ganglia hyperintensities, dementia with myoclonus, long incubation and no immune response - which investigation confirms the diagnosis?",
+      "opts": [
+        "CSF cytology",
+        "PET scan",
+        "CT with contrast",
+        "Brain biopsy"
+      ],
+      "ans": 3,
+      "exp": "CJD investigations: EEG - low voltage background, high voltage sharp waves; CSF normal; brain biopsy to confirm diagnosis; Rx flupirtine maleate (centrally acting non-opioid analgesic). (Book p580)"
+    },
+    {
+      "id": "MED-C36-17",
+      "sec": "Subcortical vs Cortical & Prion",
+      "page": 580,
+      "fmt": "recall",
+      "q": "The dementia-protein table pairs DLB with which protein?",
+      "opts": [
+        "Alpha-synuclein",
+        "A-beta (Alzheimer's)",
+        "Tau (FTD)",
+        "PrPsc (CJD)"
+      ],
+      "ans": 0,
+      "exp": "Dementia-protein table: Alzheimer's A-beta; FTD tau; DLB alpha synuclein; CJD PrPsc. Vascular dementia: types large vessel disease (post-CVA dementia) and small vessel disease. (Book p580)"
+    },
+    {
+      "id": "MED-C36-18",
+      "sec": "Vascular Dementia & NPH",
+      "page": 580,
+      "fmt": "recall",
+      "q": "Large-vessel vascular dementia: the m/c site of infarct per the page is:",
+      "opts": [
+        "Strategic territory of the ACA",
+        "B/L PCA lesion",
+        "B/L MCA lesion",
+        "Anterior choroidal artery only"
+      ],
+      "ans": 1,
+      "exp": "Large vessel disease: m/c site of infarct b/l PCA lesion; criteria: 1. dementia; a. cerebrovascular disease - multi-infarct state with 'strategic territory' infarct (infarct in these areas leads to dementia). (Book p580)"
+    },
+    {
+      "id": "MED-C36-19",
+      "sec": "Vascular Dementia & NPH",
+      "page": 581,
+      "fmt": "numeric",
+      "q": "The 'relationship between the two disorders' requires dementia onset when after a stroke?",
+      "opts": [
+        "Within 6 months",
+        "Within 1 year",
+        "Within 3 months",
+        "Within 1 week"
+      ],
+      "ans": 2,
+      "exp": "3. Relationship between the two disorders: onset of dementia within 3 months of stroke; stepwise decline in cognitive function (stepwise graph). (Book p581)"
+    },
+    {
+      "id": "MED-C36-20",
+      "sec": "Vascular Dementia & NPH",
+      "page": 581,
+      "fmt": "numeric",
+      "q": "Binswanger disease pathology involves penetrating vessels of what size range?",
+      "opts": [
+        "3-30 micrometres",
+        "300-500 micrometres",
+        "1-5 millimetres",
+        "30-300 micrometres"
+      ],
+      "ans": 3,
+      "exp": "Small vessel disease - Binswanger disease: most important risk factor HTN; lacunar infarct; pathology lipohyalinotic infarct involving penetrating vessels (size 30-300 um); MRI finding white matter hyperintensities in elderly (gradual cognitive-decline graph); features similar to vascular Parkinson's. (Book p581)"
+    },
+    {
+      "id": "MED-C36-21",
+      "sec": "Vascular Dementia & NPH",
+      "page": 581,
+      "fmt": "scenario",
+      "q": "A small-vessel patient with gait apraxia, magnetic foot and falls - which tract's lower-limb fibres (close to the ventricle) are affected per the table?",
+      "opts": [
+        "Corticospinal tract",
+        "Corticobulbar tract",
+        "Corticostriate fibres",
+        "Fibres from the paracentral lobule"
+      ],
+      "ans": 0,
+      "exp": "Fibres affected -> manifestation: corticobulbar tract -> pseudobulbar palsy; corticospinal tract (affects lower limb fibres close to the ventricle) -> gait disturbances and falls, gait apraxia, magnetic/ignition foot phenomenon (feet 'stuck' to floor); fibres from paracentral lobule -> urinary abnormalities; corticostriate fibres (PFC to striatum) -> personality changes. (Book p581)"
+    },
+    {
+      "id": "MED-C36-22",
+      "sec": "Vascular Dementia & NPH",
+      "page": 581,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the item NOT a feature of cerebral amyloid angiopathy:",
+      "opts": [
+        "Microhemorrhages",
+        "NOTCH3 mutation",
+        "A-beta 40 protein deposition",
+        "Elderly patients"
+      ],
+      "ans": 1,
+      "exp": "Cerebral amyloid angiopathy: A-beta 40 protein deposition, elderly, microhemorrhages. (NOTCH3 is the CADASIL mutation.) (Book p581)"
+    },
+    {
+      "id": "MED-C36-23",
+      "sec": "Vascular Dementia & NPH",
+      "page": 582,
+      "fmt": "recall",
+      "q": "CADASIL is the m/c inherited vascular dementia with which mutation and presentation?",
+      "opts": [
+        "PSEN1; spasticity + aphasia",
+        "HTN-related; gait + incontinence + dementia",
+        "NOTCH3; aura + migraine + dementia + stroke",
+        "APP; chorea + tremor + dementia"
+      ],
+      "ans": 2,
+      "exp": "CADASIL: cerebral autosomal dominant arteriopathy with small vessel ischemic change/leukoencephalopathy, or CADA with stroke and ischemic leukoencephalopathy; m/c inherited vascular dementia; NOTCH3 mutation; presentation aura + migraine + dementia + stroke. (Book p582)"
+    },
+    {
+      "id": "MED-C36-24",
+      "sec": "Vascular Dementia & NPH",
+      "page": 582,
+      "fmt": "recall",
+      "q": "The NPH hydrocephalus tree places aqueductal stenosis under which branch?",
+      "opts": [
+        "Non-occlusive (communicating) with down CSF adsorption",
+        "Idiopathic NPH",
+        "Familial congenital",
+        "Occlusive (non-communicating)"
+      ],
+      "ans": 3,
+      "exp": "Hydrocephalus: occlusive (non-communicating) -> aqueductal stenosis; non-occlusive (communicating) -> up CSF production or down CSF adsorption -> idiopathic (NPH) / familial (congenital: arachnoid granulations; acquired: trauma, SAH). Note: atrophy - obtuse interventricular angle. (Book p582)"
+    },
+    {
+      "id": "MED-C36-25",
+      "sec": "Vascular Dementia & NPH",
+      "page": 582,
+      "fmt": "management",
+      "q": "NPH per the page: the GUD abnormalities, CSF profile and Rx are:",
+      "opts": [
+        "Gait apraxia (magnetic foot), urinary incontinence, subcortical dementia; normal CSF pressure (20 ml/day produced); shunting",
+        "Spastic paraparesis, urgency, cortical dementia; raised CSF pressure; acetazolamide",
+        "Tremor, ataxia, aphasia; low CSF pressure; fenestration",
+        "Apraxia, incontinence, amnesia; xanthochromic CSF; shunt revision"
+      ],
+      "ans": 0,
+      "exp": "NPH pathology: adsorption defect > outflow resistance of CSF -> ventriculomegaly, no atrophy. Clinical: symptoms progress over weeks to months; GUD - gait (gait apraxia/magnetic foot), urinary (incontinence), dementia (subcortical type); arrest in initiation of ambulation; gait instability with multiple falls; generalized slow movements; CSF pressure normal (20 ml/day produced); Rx shunting (good prognosis if effective); MRI - interventricular angle acute. (Book p582)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U36-1",
+      "ch": 36,
+      "n": 1,
+      "title": "1. Frontotemporal & Lewy Body Dementia",
+      "sec": "Frontotemporal & Lewy Body Dementia",
+      "guide": "FTD/Pick's: sporadic proportion, MAPT proteins, behavioural variant and the tauopathy/PFC notes.\nDLB opens with its rank and the Parkinson-plus components; the DLB-versus-PD table and rocket sign follow.",
+      "qs": [
+        "MED-C36-01",
+        "MED-C36-02",
+        "MED-C36-03",
+        "MED-C36-04",
+        "MED-C36-05",
+        "MED-C36-06",
+        "MED-C36-07",
+        "MED-C36-08",
+        "MED-C36-09",
+        "MED-C36-10"
+      ]
+    },
+    {
+      "id": "MED-U36-2",
+      "ch": 36,
+      "n": 2,
+      "title": "2. Subcortical vs Cortical & Prion",
+      "sec": "Subcortical vs Cortical & Prion",
+      "guide": "The subcortical-versus-cortical table is read row by row.\nPrion disease opens with its definition, the four types and the CJD block.",
+      "qs": [
+        "MED-C36-11",
+        "MED-C36-12",
+        "MED-C36-13",
+        "MED-C36-14",
+        "MED-C36-15",
+        "MED-C36-16",
+        "MED-C36-17"
+      ]
+    },
+    {
+      "id": "MED-U36-3",
+      "ch": 36,
+      "n": 3,
+      "title": "3. Vascular Dementia & NPH",
+      "sec": "Vascular Dementia & NPH",
+      "guide": "Large-vessel criteria and the stroke-dementia relationship open the vascular block.\nSmall vessel disease (Binswanger, CAA, CADASIL) and the NPH tree/triad close the chapter.",
+      "qs": [
+        "MED-C36-18",
+        "MED-C36-19",
+        "MED-C36-20",
+        "MED-C36-21",
+        "MED-C36-22",
+        "MED-C36-23",
+        "MED-C36-24",
+        "MED-C36-25"
+      ]
+    }
+  ]
+}
