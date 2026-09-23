@@ -1,0 +1,879 @@
+{
+  "chapter": 18,
+  "title": "Systemic Sclerosis",
+  "pageRange": "470-476",
+  "questions": [
+    {
+      "id": "MED-C18-01",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "scenario",
+      "q": "A tutorial compares a biopsy from active lupus nephritis with one from early systemic sclerosis. Which inflammation contrast does the source draw?",
+      "opts": [
+        "SSc shows more inflammation than SLE",
+        "Neither disease involves inflammation",
+        "SLE shows marked inflammation while SSc shows only mild inflammation with a low or normal ESR",
+        "Both show equally intense inflammation with a raised ESR"
+      ],
+      "ans": 2,
+      "exp": "The general-features diagram contrasts inflammation: SLE +++ versus SSc + with a low or normal ESR. (Book p470)"
+    },
+    {
+      "id": "MED-C18-02",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "recall",
+      "q": "Which pathogenetic triad is drawn for systemic sclerosis?",
+      "opts": [
+        "Granulomatous inflammation, caseation and cavitation",
+        "Neutrophilic infiltration, pustule formation and scarring",
+        "Amyloid deposition, light-chain production and cast nephropathy",
+        "Fibrosis, vasculopathy and immune-complex small-vessel vasculitis with capillary hypoxia"
+      ],
+      "ans": 3,
+      "exp": "SSc pathogenesis: fibrosis (with interstitial lung disease), vasculopathy from small-vessel endothelial injury with anti-endothelial antibody causing thrombosis, and immune-complex-mediated small-vessel vasculitis producing capillary hypoxia. (Book p470)"
+    },
+    {
+      "id": "MED-C18-03",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "recall",
+      "q": "Which sequence is drawn for the severe vascular form of systemic sclerosis?",
+      "opts": [
+        "Medium-vessel involvement (mesenteric and CNS) with TGF-beta release driving mesenchymal cells to myofibroblasts",
+        "Large-vessel aortitis with aneurysm formation",
+        "Venous-occlusive disease with varices",
+        "Lymphatic obstruction with lymphoedema"
+      ],
+      "ans": 0,
+      "exp": "Severe form: involvement of medium vessels (mesenteric and CNS vessels) with TGF-beta release acting on mesenchymal cells to produce myofibroblasts. (Book p470)"
+    },
+    {
+      "id": "MED-C18-04",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "scenario",
+      "q": "A patient with systemic sclerosis develops exertional breathlessness and is found to have pulmonary arteriolar hypertension. How does the source frame this complication?",
+      "opts": [
+        "Asthma with a reversible course",
+        "Pulmonary arteriolar hypertension (group 1) with a bad prognosis",
+        "Pulmonary veno-occlusive disease with an excellent prognosis",
+        "Chronic thromboembolic disease cured by thrombolysis"
+      ],
+      "ans": 1,
+      "exp": "Pulmonary arteriolar hypertension (class 1) is attached to the vasculopathy arm and marked as carrying a bad prognosis. (Book p470)"
+    },
+    {
+      "id": "MED-C18-05",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "recall",
+      "q": "What does the source give as the definition of scleroderma itself?",
+      "opts": [
+        "Pigment loss with vitiligo",
+        "Bullae with Nikolsky sign",
+        "Thickening and induration of the skin",
+        "Ulceration of the skin with necrosis"
+      ],
+      "ans": 2,
+      "exp": "Scleroderma is defined as thickening and induration. (Book p470)"
+    },
+    {
+      "id": "MED-C18-06",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "recall",
+      "q": "How does the classification page divide the scleroderma spectrum?",
+      "opts": [
+        "Only by antibody status, with no skin-based division",
+        "By age of onset alone",
+        "By the presence or absence of Raynaud phenomenon only",
+        "Local manifestation (localised scleroderma: morphoea and linear scleroderma) versus systemic manifestation (systemic sclerosis, subdivided by extent of skin involvement)"
+      ],
+      "ans": 3,
+      "exp": "Local manifestations are localised scleroderma (morphoea, linear scleroderma); systemic manifestation is systemic sclerosis, subdivided by extent of skin involvement into diffuse and limited SSc. (Book p470)"
+    },
+    {
+      "id": "MED-C18-07",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "scenario",
+      "q": "Two patients with systemic sclerosis are compared: one has skin thickening over the trunk with ILD, the other has skin changes only distal to the elbows with pulmonary hypertension. Which subset pairing does the source print?",
+      "opts": [
+        "Diffuse: skin changes over all parts of the body, ILD, fibrosis with vasculopathy and minimal inflammation; limited: skin distal to elbow and face, pulmonary hypertension, vasculopathy predominant",
+        "Diffuse: skin distal to elbow, pulmonary hypertension; limited: skin over all parts of the body, ILD",
+        "Both have identical skin distribution and complications",
+        "Neither involves the skin"
+      ],
+      "ans": 0,
+      "exp": "Diffuse SSc: skin lesion over all parts of the body, complications of ILD, pathogenesis of fibrosis plus vasculopathy with minimal inflammation. Limited SSc: skin distal to elbow and face, pulmonary hypertension, vasculopathy predominant. (Book p470)"
+    },
+    {
+      "id": "MED-C18-08",
+      "sec": "General Features, Classification & Mimics",
+      "page": 470,
+      "fmt": "scenario",
+      "q": "A patient with indurated skin plaques who received gadolinium contrast is referred as possible scleroderma. Which mimics does the source list?",
+      "opts": [
+        "Lichen sclerosus and morphoea only",
+        "Eosinophilic fasciitis with groove sign and nephrogenic systemic fibrosis after gadolinium contrast",
+        "Dermatomyositis with Gottron papules and SLE with malar rash",
+        "Cellulitis and erysipelas"
+      ],
+      "ans": 1,
+      "exp": "Scleroderma mimics: eosinophilic fasciitis with groove sign, and nephrogenic systemic fibrosis, which is drug induced after gadolinium contrast. (Book p470)"
+    },
+    {
+      "id": "MED-C18-09",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "recall",
+      "q": "How is the epidemiology of systemic sclerosis summarised?",
+      "opts": [
+        "A disease of the elderly with equal sex distribution",
+        "A tropical infection with vector transmission",
+        "An orphan disease of unknown cause, aged 35-50 years, with a female-to-male ratio of 5:1",
+        "A common disease of childhood with male predominance"
+      ],
+      "ans": 2,
+      "exp": "Etiology: orphan disease with unknown cause; age 35-50 years; F:M = 5:1. (Book p471)"
+    },
+    {
+      "id": "MED-C18-10",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "recall",
+      "q": "Which susceptibility genes and infections are listed under etiology?",
+      "opts": [
+        "HLA-B27 with Klebsiella and Salmonella",
+        "HLA-DQ2 with gluten exposure",
+        "No genetic or infective associations are listed",
+        "HLA DRB1/DQB1 (DR5) with EBV, CMV and parvovirus B19"
+      ],
+      "ans": 3,
+      "exp": "Immune susceptibility is listed as HLA DRB1/II (DR5) and viral associations are EBV, CMV and parvovirus B19. (Book p471)"
+    },
+    {
+      "id": "MED-C18-11",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "recall",
+      "q": "Which agent is printed as having the strongest association with systemic sclerosis?",
+      "opts": [
+        "Silica",
+        "Vinyl chloride",
+        "Bleomycin",
+        "Contaminated L-tryptophan"
+      ],
+      "ans": 0,
+      "exp": "Agents inducing scleroderma: vinyl chloride, bleomycin, pentazocine, contaminated L-tryptophan and silica, with silica carrying the maximum association with SSc. (Book p471)"
+    },
+    {
+      "id": "MED-C18-12",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "recall",
+      "q": "Which HLA-disease pairings are printed in the side note?",
+      "opts": [
+        "No HLA associations are printed",
+        "DR3 with SLE and Sjogren syndrome, DR4 with APS and RA, DR5 with SSc, and silica also associated with SLE",
+        "DR3 with SSc, DR4 with SLE, DR5 with Sjogren syndrome",
+        "DR2 with multiple sclerosis, DR3 with myasthenia"
+      ],
+      "ans": 1,
+      "exp": "The note pairs HLA DR-3 with SLE and Sjogren syndrome, DR-4 with APS and RA, DR-5 with SSc, and adds that silica is also associated with SLE. (Book p471)"
+    },
+    {
+      "id": "MED-C18-13",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "numeric",
+      "q": "How is very early systemic sclerosis (VESS) characterised?",
+      "opts": [
+        "Fewer than 5% progress, over 20 years",
+        "VESS never progresses to systemic sclerosis",
+        "About two-thirds of cases progress to SSc over 3-5 years",
+        "All cases progress to SSc within 6 months"
+      ],
+      "ans": 2,
+      "exp": "Very early systemic sclerosis: 3-5 years, with two-thirds of cases progressing to SSc. (Book p471)"
+    },
+    {
+      "id": "MED-C18-14",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "scenario",
+      "q": "A patient with Raynaud phenomenon and a positive ANA is assessed for very early systemic sclerosis. Which investigation completes the source's triad?",
+      "opts": [
+        "Chest radiography",
+        "Nerve-conduction studies",
+        "Skin-prick testing",
+        "Nail-fold capillaroscopy"
+      ],
+      "ans": 3,
+      "exp": "The triad pairs Raynaud's phenomenon and ANA positivity with the investigation nail-fold capillaroscopy. (Book p471)"
+    },
+    {
+      "id": "MED-C18-15",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "scenario",
+      "q": "A worker reports finger colour change and pain while using a vibrating tool in a cold store and during stressful periods. Which triggers does the source list?",
+      "opts": [
+        "Cold, stress and vibration",
+        "Heat, alcohol and exercise",
+        "Pregnancy, fasting and posture",
+        "Sunlight, perfumes and dust"
+      ],
+      "ans": 0,
+      "exp": "Raynaud's phenomenon is episodic vasoconstriction in response to stimuli; triggers listed are cold, stress and vibration. (Book p471)"
+    },
+    {
+      "id": "MED-C18-16",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "page": 471,
+      "fmt": "scenario",
+      "q": "A patient describes digital colour change with pain and a tight, swollen hand. Which sequence and associated sign does the page list?",
+      "opts": [
+        "Pallor only, with no reactive phase",
+        "Pallor, cyanosis and redness on rewarming, with pain and tightness of digits and a puffy hand",
+        "Persistent erythema with no colour change",
+        "Purpura followed immediately by ulceration"
+      ],
+      "ans": 1,
+      "exp": "Clinical manifestations listed: pallor, cyanosis, redness on rewarming, pain and tightness of digits and a puffy hand. (Book p471)"
+    },
+    {
+      "id": "MED-C18-17",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "page": 472,
+      "fmt": "scenario",
+      "q": "A young woman with triphasic cold-induced colour change has a negative ANA, symmetric self-limiting symptoms and a mother with the same complaint. Which column does this fit?",
+      "opts": [
+        "ANA positive with a positive family history",
+        "ANA negative with a negative family history",
+        "ANA negative with a positive family history and a good prognosis",
+        "ANA positive with a negative family history"
+      ],
+      "ans": 2,
+      "exp": "Primary (Raynaud's disease): ANA negative, family history positive, symptoms self-limiting and symmetric, and other features listed as a good prognosis. (Book p472)"
+    },
+    {
+      "id": "MED-C18-18",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "page": 472,
+      "fmt": "recall",
+      "q": "Which features are printed in the secondary Raynaud column?",
+      "opts": [
+        "Mild self-limiting disease with a good prognosis",
+        "Isolated nail changes only",
+        "Purely arterial disease without tissue loss",
+        "Severe disease with critical limb ischaemia, ulcer and gangrene, associated with SSc, Sjogren syndrome, MCTD and inflammatory muscle disease"
+      ],
+      "ans": 3,
+      "exp": "Secondary Raynaud phenomenon: severe with critical limb ischaemia, ulcer and gangrene of the extremities, and associated diseases (SSc, Sjogren syndrome, MCTD and inflammatory muscle disease). (Book p472)"
+    },
+    {
+      "id": "MED-C18-19",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "page": 472,
+      "fmt": "scenario",
+      "q": "Nail-fold capillaroscopy in a patient with suspected secondary Raynaud phenomenon shows capillary dropout with dilated tortuous loops and microhaemorrhages. Which column does this match?",
+      "opts": [
+        "Dropout of capillaries, dilated tortuous capillaries and microhaemorrhages",
+        "A completely normal capillary pattern",
+        "Giant capillaries only in the primary form",
+        "Capillary aneurysms with no haemorrhage"
+      ],
+      "ans": 0,
+      "exp": "Nail-fold capillaroscopy in secondary disease: dropout of capillaries, dilated tortuous capillaries and microhaemorrhages; the primary column is normal. (Book p472)"
+    },
+    {
+      "id": "MED-C18-20",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "page": 472,
+      "fmt": "scenario",
+      "q": "A patient with limited cutaneous systemic sclerosis has a centromere pattern on ANA testing. Which antibody does the source pair with this pattern?",
+      "opts": [
+        "Anti-U1 RNP with a coarse-speckled pattern",
+        "Anti-centromere antibody with a centromere ANA pattern",
+        "Anti-topoisomerase with a fine-speckled pattern",
+        "Anti-RNA polymerase III with a nucleolar pattern"
+      ],
+      "ans": 1,
+      "exp": "Limited SSc: ANA pattern centromere with anti-centromere antibody; diffuse SSc: fine speckled with anti-topoisomerase and anti-RNA polymerase III. (Book p472)"
+    },
+    {
+      "id": "MED-C18-21",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "page": 472,
+      "fmt": "recall",
+      "q": "How does the printed table contrast Raynaud phenomenon between limited and diffuse SSc?",
+      "opts": [
+        "Identical in both subsets",
+        "Occurs only in diffuse disease",
+        "Limited: long-standing and severe with critical limb ischaemia, from predominant vasculopathy; diffuse: short-lasting and less severe, from predominant fibrosis",
+        "Limited: short-lasting and mild; diffuse: long-standing and severe"
+      ],
+      "ans": 2,
+      "exp": "Raynaud phenomenon: limited SSc is long standing and severe (due to predominant vasculopathy) with critical limb ischaemia present; diffuse SSc is short lasting and less severe (due to predominant fibrosis) with critical limb ischaemia not extensive. (Book p472)"
+    },
+    {
+      "id": "MED-C18-22",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "page": 472,
+      "fmt": "recall",
+      "q": "Which antibody pair is printed for diffuse systemic sclerosis?",
+      "opts": [
+        "Anti-centromere and anti-Ro",
+        "Anti-Jo-1 and anti-PM/Scl",
+        "Anti-U1 RNP and anti-Ku",
+        "Anti-topoisomerase and anti-RNA polymerase III"
+      ],
+      "ans": 3,
+      "exp": "Diffuse SSc: anti-topoisomerase and anti-RNA polymerase III, with a fine-speckled ANA pattern. (Book p472)"
+    },
+    {
+      "id": "MED-C18-23",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "recall",
+      "q": "What does the C and the E of the CREST association stand for on this page?",
+      "opts": [
+        "C: calcinosis in the tissues; E: oesophagitis, which is far more common in limited than diffuse disease",
+        "C: cardiomyopathy; E: eye involvement",
+        "C: clubbing; E: eosinophilia",
+        "C: calcinosis; E: equally common in both subsets"
+      ],
+      "ans": 0,
+      "exp": "CREST: C is calcinosis of the tissues; E is oesophagitis, marked limited much greater than diffuse. (Book p473)"
+    },
+    {
+      "id": "MED-C18-24",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "recall",
+      "q": "Which two components complete the CREST association?",
+      "opts": [
+        "R: restrictive lung disease; S: stenosis; T: thrombosis",
+        "R: Raynaud phenomenon; S: sclerodactyly, that is scleroderma of the fingers; T: telangiectasia",
+        "R: renal crisis; S: synovitis; T: tenosynovitis",
+        "R: rash; S: sicca; T: thyroiditis"
+      ],
+      "ans": 1,
+      "exp": "CREST: R is Raynaud's phenomenon, S is sclerodactyly (scleroderma of fingers) and T is telangiectasia, with minimal fibrosis noted for limited disease. (Book p473)"
+    },
+    {
+      "id": "MED-C18-25",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "scenario",
+      "q": "A patient with limited systemic sclerosis is breathless, yet spirometry is normal and only the DLCO is reduced. Which functional pattern does the source describe?",
+      "opts": [
+        "Obstructive pattern with a low FEV1/FVC",
+        "Normal spirometry and a normal DLCO",
+        "Asymptomatic with normal FEV1, FVC and FEV1/FVC but a reduced DLCO",
+        "Marked restriction with a low FVC and a normal DLCO"
+      ],
+      "ans": 2,
+      "exp": "Pulmonary artery hypertension is asymptomatic with normal FEV1, FVC and FEV1/FVC but a reduced DLCO. (Book p473)"
+    },
+    {
+      "id": "MED-C18-26",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "recall",
+      "q": "Why is pulmonary artery hypertension emphasised prognostically?",
+      "opts": [
+        "It is benign and never progresses",
+        "It responds dramatically to calcium-channel blockers alone",
+        "It only occurs in diffuse disease",
+        "It carries a poor prognosis because of increased mortality"
+      ],
+      "ans": 3,
+      "exp": "Pulmonary artery hypertension: poor prognosis due to increased mortality. (Book p473)"
+    },
+    {
+      "id": "MED-C18-27",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "recall",
+      "q": "Which features are listed as arguments AGAINST limited systemic sclerosis?",
+      "opts": [
+        "Extensive fibrosis, ILD, cardiac involvement and renal involvement",
+        "Raynaud phenomenon and telangiectasia",
+        "Oesophagitis and calcinosis",
+        "Pulmonary hypertension alone"
+      ],
+      "ans": 0,
+      "exp": "Features against limited SSc: extensive fibrosis, ILD, cardiac involvement and renal involvement. (Book p473)"
+    },
+    {
+      "id": "MED-C18-28",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "scenario",
+      "q": "A patient with diffuse disease reports tight facial skin, a small mouth with pursed lips and patchy pigment change on the face. Which description does the source give?",
+      "opts": [
+        "Gottron papules over the knuckles",
+        "Salt-and-pepper hypo- and hyperpigmentation with hair loss, progressing to face tightening, microstomia, pursed lips, a puckered mouth and mask facies",
+        "Malar rash with nasolabial sparing",
+        "Heliotrope rash with periorbital oedema"
+      ],
+      "ans": 1,
+      "exp": "Skin manifestations: dry tight skin, facial hypo- and hyperpigmentation (salt-and-pepper appearance), hair loss, intense itching, and progression to face tightening with microstomia, pursed lip, puckered mouth and mask facies. (Book p473)"
+    },
+    {
+      "id": "MED-C18-29",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "page": 473,
+      "fmt": "recall",
+      "q": "Which general skin description is printed for diffuse SSc?",
+      "opts": [
+        "Thickening confined to the fingers",
+        "No skin thickening at all",
+        "Bilateral symmetrical skin thickening",
+        "Unilateral patchy thickening"
+      ],
+      "ans": 2,
+      "exp": "Diffuse SSc skin manifestations include bilateral symmetrical skin thickening. (Book p473)"
+    },
+    {
+      "id": "MED-C18-30",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "recall",
+      "q": "How are the joint manifestations divided between diffuse and limited SSc?",
+      "opts": [
+        "Diffuse: acral osteolysis; limited: arthritis and myositis",
+        "Both subsets show identical erosive arthritis",
+        "Joint disease never occurs in SSc",
+        "Diffuse: arthritis and myositis from inflammation; limited: acral osteolysis with severe Raynaud phenomenon"
+      ],
+      "ans": 3,
+      "exp": "Joint manifestations: diffuse SSc shows arthritis/myositis due to inflammation; limited SSc shows acral osteolysis (falling off of fingers) with diffuse severe Raynaud's phenomenon. (Book p474)"
+    },
+    {
+      "id": "MED-C18-31",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "recall",
+      "q": "Which mechanism is given for acral osteolysis?",
+      "opts": [
+        "Fibrosis or vasculopathy",
+        "Osteoclast-activating autoantibodies",
+        "Chronic infection of the bone",
+        "Vitamin D deficiency"
+      ],
+      "ans": 0,
+      "exp": "Other manifestations include acral osteolysis, attributed to fibrosis or vasculopathy. (Book p474)"
+    },
+    {
+      "id": "MED-C18-32",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "scenario",
+      "q": "A patient with systemic sclerosis has dysphagia and bloating, and imaging shows dilated bowel loops with gas in the bowel wall. Which gastrointestinal sequence does the source describe?",
+      "opts": [
+        "Pancreatic insufficiency leading to steatorrhoea",
+        "Oesophageal hypomotility leading to small-intestinal bacterial overgrowth and pneumatosis intestinalis",
+        "Peptic ulcer disease leading to perforation",
+        "Coeliac disease leading to lymphoma"
+      ],
+      "ans": 1,
+      "exp": "Oesophageal hypomotility progresses to small-intestinal bacterial overgrowth and pneumatosis intestinalis. (Book p474)"
+    },
+    {
+      "id": "MED-C18-33",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "recall",
+      "q": "How is the watermelon stomach lesion identified according to the source?",
+      "opts": [
+        "On CT angiography",
+        "On capsule endoscopy only",
+        "On upper gastrointestinal endoscopy",
+        "On barium swallow only"
+      ],
+      "ans": 2,
+      "exp": "The watermelon-stomach image is labelled as seen on upper GI endoscopy. (Book p474)"
+    },
+    {
+      "id": "MED-C18-34",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "recall",
+      "q": "Which manifestation is listed as the most common cause of death in systemic sclerosis?",
+      "opts": [
+        "Scleroderma renal crisis",
+        "Cardiac arrhythmia",
+        "Cerebral vasculitis",
+        "Interstitial lung disease"
+      ],
+      "ans": 3,
+      "exp": "Disease progression: pulmonary manifestations leading to interstitial lung disease, which is the most common cause of death; cardiac and renal manifestations are also listed. (Book p474)"
+    },
+    {
+      "id": "MED-C18-35",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "scenario",
+      "q": "A patient with limited systemic sclerosis and anti-centromere antibodies is monitored for complications. Which complication does the source link to this antibody?",
+      "opts": [
+        "Anti-centromere",
+        "Anti-topoisomerase-1",
+        "Anti-RNA polymerase III",
+        "Anti-U1 RNP"
+      ],
+      "ans": 0,
+      "exp": "Anti-centromere is limited-type SSc with CREST syndrome and pulmonary hypertension as the complication. (Book p474)"
+    },
+    {
+      "id": "MED-C18-36",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "scenario",
+      "q": "A patient with diffuse systemic sclerosis is found to have anti-RNA polymerase III antibodies. Which complication is most strongly linked to this antibody?",
+      "opts": [
+        "Anti-Jo-1",
+        "Anti-RNA polymerase III (more than anti-topoisomerase)",
+        "Anti-centromere",
+        "Anti-Ku"
+      ],
+      "ans": 1,
+      "exp": "Anti-RNA polymerase III (diffuse) is linked to scleroderma renal crisis, more than anti-topoisomerase, and to malignancy of lung and breast. (Book p474)"
+    },
+    {
+      "id": "MED-C18-37",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "recall",
+      "q": "Which findings are attached to anti-topoisomerase-1 (anti Scl-70)?",
+      "opts": [
+        "Malignancy of lung and breast only",
+        "Isolated Raynaud phenomenon without organ disease",
+        "Renal thrombotic microangiopathy, lung ILD, tendon friction rubs (diffuse more than limited), GAVE and rapidly progressive skin involvement with joint contractures",
+        "CREST syndrome and pulmonary hypertension"
+      ],
+      "ans": 2,
+      "exp": "Anti-topoisomerase-1 (anti-Scl-70), diffuse: renal TMA progressing to scleroderma renal crisis, lung ILD, tendon friction rubs on passive movement (diffuse more than limited), GAVE (watermelon stomach) and rapidly progressive skin involvement with joint contractures and tendon friction rubs. (Book p474)"
+    },
+    {
+      "id": "MED-C18-38",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "page": 474,
+      "fmt": "recall",
+      "q": "Which overlap antibodies are printed, and how do they differ by lung involvement?",
+      "opts": [
+        "Both are associated with severe ILD",
+        "Neither is associated with ILD",
+        "Anti-Ku is the limited-disease antibody",
+        "Anti-PM/Scl-70 overlap has ILD; anti-Ku overlap has no ILD"
+      ],
+      "ans": 3,
+      "exp": "The antibody table lists anti-PM/Scl-70 in overlap disease with ILD positive and anti-Ku in overlap disease with no ILD. (Book p474)"
+    },
+    {
+      "id": "MED-C18-39",
+      "sec": "Renal Crisis, Phases & Investigations",
+      "page": 475,
+      "fmt": "scenario",
+      "q": "Three years after diagnosis of diffuse systemic sclerosis, a patient develops accelerated hypertension with acute kidney injury. How does the source characterise this presentation?",
+      "opts": [
+        "It presents within the first 4 years, affects small vessels of the kidney and shows thrombotic microangiopathy",
+        "It presents after 20 years and affects large renal arteries",
+        "It is a glomerulonephritis with immune-complex deposits",
+        "It is caused by analgesic nephropathy"
+      ],
+      "ans": 0,
+      "exp": "Renal disease in diffuse SSc presents within the first 4 years, affects small vessels of the kidney and is a thrombotic microangiopathy. (Book p475)"
+    },
+    {
+      "id": "MED-C18-40",
+      "sec": "Renal Crisis, Phases & Investigations",
+      "page": 475,
+      "fmt": "recall",
+      "q": "Which triad of findings is printed for the thrombotic microangiopathy of scleroderma renal crisis?",
+      "opts": [
+        "Pyuria, fever and flank pain",
+        "Accelerated hypertension, microangiopathic haemolytic anaemia and thrombocytopenia",
+        "Hypotension, glycosuria and eosinophilia",
+        "Nephrotic syndrome, hypoalbuminaemia and oedema"
+      ],
+      "ans": 1,
+      "exp": "Thrombotic microangiopathy: accelerated hypertension plus microangiopathic haemolytic anaemia plus thrombocytopenia. (Book p475)"
+    },
+    {
+      "id": "MED-C18-41",
+      "sec": "Renal Crisis, Phases & Investigations",
+      "page": 475,
+      "fmt": "management",
+      "q": "Which drug class is printed as the treatment of choice for scleroderma renal crisis?",
+      "opts": [
+        "High-dose cyclophosphamide",
+        "Non-dihydropyridine calcium-channel blockers",
+        "ACE inhibitors",
+        "Angiotensin-receptor blockers combined with renin inhibitors"
+      ],
+      "ans": 2,
+      "exp": "Rx for scleroderma renal crisis: ACE inhibitors, described as the drug of choice. (Book p475)"
+    },
+    {
+      "id": "MED-C18-42",
+      "sec": "Renal Crisis, Phases & Investigations",
+      "page": 475,
+      "fmt": "recall",
+      "q": "Which phases of diffuse systemic sclerosis are described?",
+      "opts": [
+        "An early fibrotic phase followed by an oedematous phase",
+        "A single static phase with no progression",
+        "A granulomatous phase followed by a caseating phase",
+        "An early oedematous phase with non-pitting oedema, progressing to a fibrotic phase"
+      ],
+      "ans": 3,
+      "exp": "Phases of diffuse SSc: the oedematous phase, more common in diffuse disease and associated with non-pitting oedema, progresses to the fibrotic phase. (Book p475)"
+    },
+    {
+      "id": "MED-C18-43",
+      "sec": "Renal Crisis, Phases & Investigations",
+      "page": 475,
+      "fmt": "scenario",
+      "q": "A patient with systemic sclerosis has progressive dyspnoea with a markedly reduced DLCO and basal subpleural reticular change on the chest radiograph. Which pattern does the source print?",
+      "opts": [
+        "DLCO markedly reduced with reduced FRC, and bilateral basal subpleural reticular infiltrates on the chest radiograph",
+        "Obstructive pattern with a raised FRC and hyperinflation",
+        "Isolated reduced FEV1 with normal volumes",
+        "Normal PFTs with a normal radiograph"
+      ],
+      "ans": 0,
+      "exp": "Investigations: PFT for ILD shows DLCO markedly reduced and FRC reduced; the chest radiograph shows bilateral basal subpleural reticular infiltrates. (Book p475)"
+    },
+    {
+      "id": "MED-C18-44",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "scenario",
+      "q": "A patient with systemic sclerosis needs imaging for suspected interstitial lung disease. Which investigation of choice and pattern ranking does the source give?",
+      "opts": [
+        "Bronchoscopy is the investigation of choice; LIP predominates",
+        "HRCT is the investigation of choice; NSIP is more common than UIP in scleroderma",
+        "Chest radiography is the investigation of choice; UIP is more common than NSIP",
+        "PET-CT is the investigation of choice; COP predominates"
+      ],
+      "ans": 1,
+      "exp": "HRCT: IOC. Scleroderma: NSIP more than UIP. (Book p476)"
+    },
+    {
+      "id": "MED-C18-45",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "recall",
+      "q": "How does the table contrast NSIP with UIP in scleroderma?",
+      "opts": [
+        "Both patterns are identical in findings and treatment",
+        "UIP has the better prognosis of the two",
+        "NSIP: no parenchymal destruction, ground-glass opacities, treated with steroid and mycophenolate with a better prognosis; UIP: destruction with cystic change, honeycombing and traction bronchiectasis, no effective treatment",
+        "NSIP: honeycombing and no treatment; UIP: ground-glass opacities responding to steroids"
+      ],
+      "ans": 2,
+      "exp": "NSIP shows no destruction with ground-glass opacities and is treated with steroids and mycophenolate mofetil (better prognosis); UIP shows destruction with cystic changes, honeycombing and traction bronchiectasis with no treatment listed. (Book p476)"
+    },
+    {
+      "id": "MED-C18-46",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "recall",
+      "q": "Which disease associations are printed in the interstitial-pattern note?",
+      "opts": [
+        "UIP with SLE and LIP with sarcoidosis",
+        "NSIP with rheumatoid arthritis and UIP with Sjogren disease",
+        "LIP with systemic sclerosis and NSIP with sarcoidosis",
+        "UIP with rheumatoid arthritis and LIP with Sjogren disease, while NSIP is the pattern in others"
+      ],
+      "ans": 3,
+      "exp": "The note attributes UIP to RA, LIP as characteristic of Sjogren's disease, and NSIP to others. (Book p476)"
+    },
+    {
+      "id": "MED-C18-47",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "management",
+      "q": "What is the printed first-line treatment for Raynaud phenomenon in systemic sclerosis?",
+      "opts": [
+        "A calcium-channel blocker, with or without a phosphodiesterase-5 inhibitor such as sildenafil",
+        "A beta-blocker with or without a nitrate",
+        "An ACE inhibitor alone",
+        "A non-steroidal anti-inflammatory drug alone"
+      ],
+      "ans": 0,
+      "exp": "Rx of RP: first line is a calcium-channel blocker, with or without a PDE-5 inhibitor (sildenafil). (Book p476)"
+    },
+    {
+      "id": "MED-C18-48",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "scenario",
+      "q": "A patient with systemic sclerosis has Raynaud phenomenon that has not responded to a calcium-channel blocker. Which second-line agent and class does the source print?",
+      "opts": [
+        "Iloprost, a prostacyclin analogue",
+        "Bosentan, an endothelin antagonist",
+        "Sildenafil, a phosphodiesterase-5 inhibitor",
+        "Nifedipine, a calcium-channel blocker"
+      ],
+      "ans": 1,
+      "exp": "Second line for Raynaud phenomenon is bosentan, an endothelin antagonist. (Book p476)"
+    },
+    {
+      "id": "MED-C18-49",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "management",
+      "q": "Which regimen is printed for SSc-associated interstitial lung disease?",
+      "opts": [
+        "Azathioprine alone",
+        "Cyclophosphamide with rituximab",
+        "Nintedanib plus mycophenolate mofetil, as the disease does not respond to steroid",
+        "Steroid monotherapy"
+      ],
+      "ans": 2,
+      "exp": "ILD: nintedanib plus MMF, and the source notes the disease is non-responsive to steroid. (Book p476)"
+    },
+    {
+      "id": "MED-C18-50",
+      "sec": "HRCT Patterns & Treatment",
+      "page": 476,
+      "fmt": "recall",
+      "q": "Which treatments are listed for skin, joint and muscle disease in systemic sclerosis?",
+      "opts": [
+        "Cyclophosphamide for skin; rituximab for joints",
+        "Hydroxychloroquine for skin; sulfasalazine for joints",
+        "D-penicillamine for skin; colchicine for joints",
+        "Mycophenolate mofetil for skin; steroid plus methotrexate for joints and muscle"
+      ],
+      "ans": 3,
+      "exp": "Treatment: skin is treated with mycophenolate mofetil, and joint plus muscle involvement with steroids and methotrexate; scleroderma renal crisis is treated with ACE inhibitors. (Book p476)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U18-1",
+      "ch": 18,
+      "n": 1,
+      "title": "1. General Features, Classification & Mimics",
+      "sec": "General Features, Classification & Mimics",
+      "guide": "The opening diagram contrasts SLE inflammation with the fibrosis and vasculopathy of SSc.\nClassification then separates localised from systemic disease and diffuse from limited SSc.\nA closing note lists the scleroderma mimics that must be excluded.",
+      "qs": [
+        "MED-C18-01",
+        "MED-C18-02",
+        "MED-C18-03",
+        "MED-C18-04",
+        "MED-C18-05",
+        "MED-C18-06",
+        "MED-C18-07",
+        "MED-C18-08"
+      ]
+    },
+    {
+      "id": "MED-U18-2",
+      "ch": 18,
+      "n": 2,
+      "title": "2. Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "sec": "Etiology, Very Early SSc & Raynaud's Phenomenon",
+      "guide": "Etiology lists demographic, genetic, infective and toxin-related associations.\nThe very early systemic sclerosis window is defined before the clinical features begin.\nRaynaud phenomenon is then defined by trigger and by the colour sequence.",
+      "qs": [
+        "MED-C18-09",
+        "MED-C18-10",
+        "MED-C18-11",
+        "MED-C18-12",
+        "MED-C18-13",
+        "MED-C18-14",
+        "MED-C18-15",
+        "MED-C18-16"
+      ]
+    },
+    {
+      "id": "MED-U18-3",
+      "ch": 18,
+      "n": 3,
+      "title": "3. Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "sec": "Primary vs Secondary Raynaud's & Diffuse vs Limited SSc",
+      "guide": "The comparison table separates benign primary disease from secondary connective-tissue disease.\nCapillaroscopy findings carry the discriminating weight.\nA second table then contrasts limited and diffuse SSc by serology and Raynaud severity.",
+      "qs": [
+        "MED-C18-17",
+        "MED-C18-18",
+        "MED-C18-19",
+        "MED-C18-20",
+        "MED-C18-21",
+        "MED-C18-22"
+      ]
+    },
+    {
+      "id": "MED-U18-4",
+      "ch": 18,
+      "n": 4,
+      "title": "4. Limited SSc, PAH & Diffuse Cutaneous Features",
+      "sec": "Limited SSc, PAH & Diffuse Cutaneous Features",
+      "guide": "CREST is expanded component by component, with oesophageal disease favouring limited disease.\nPulmonary artery hypertension is then defined by its spirometry paradox.\nThe diffuse cutaneous block closes with the face and mouth changes.",
+      "qs": [
+        "MED-C18-23",
+        "MED-C18-24",
+        "MED-C18-25",
+        "MED-C18-26",
+        "MED-C18-27",
+        "MED-C18-28",
+        "MED-C18-29"
+      ]
+    },
+    {
+      "id": "MED-U18-5",
+      "ch": 18,
+      "n": 5,
+      "title": "5. Joint, Gastrointestinal & Antibody Associations",
+      "sec": "Joint, Gastrointestinal & Antibody Associations",
+      "guide": "Joint involvement differs by subset, with acral osteolysis on the limited side.\nGastrointestinal disease runs from hypomotility to bacterial overgrowth and watermelon stomach.\nThe antibody table then maps each autoantibody to its subset and complications.",
+      "qs": [
+        "MED-C18-30",
+        "MED-C18-31",
+        "MED-C18-32",
+        "MED-C18-33",
+        "MED-C18-34",
+        "MED-C18-35",
+        "MED-C18-36",
+        "MED-C18-37",
+        "MED-C18-38"
+      ]
+    },
+    {
+      "id": "MED-U18-6",
+      "ch": 18,
+      "n": 6,
+      "title": "6. Renal Crisis, Phases & Investigations",
+      "sec": "Renal Crisis, Phases & Investigations",
+      "guide": "Scleroderma renal crisis is defined by timing, vessel size and microangiopathy.\nThe phases of diffuse disease are then contrasted, then the ILD investigations.",
+      "qs": [
+        "MED-C18-39",
+        "MED-C18-40",
+        "MED-C18-41",
+        "MED-C18-42",
+        "MED-C18-43"
+      ]
+    },
+    {
+      "id": "MED-U18-7",
+      "ch": 18,
+      "n": 7,
+      "title": "7. HRCT Patterns & Treatment",
+      "sec": "HRCT Patterns & Treatment",
+      "guide": "HRCT is the imaging investigation of choice, with NSIP outranking UIP in SSc.\nThe note attributes each interstitial pattern to its most characteristic connective-tissue disease.\nTreatment is then organised by organ system, starting with Raynaud phenomenon.",
+      "qs": [
+        "MED-C18-44",
+        "MED-C18-45",
+        "MED-C18-46",
+        "MED-C18-47",
+        "MED-C18-48",
+        "MED-C18-49",
+        "MED-C18-50"
+      ]
+    }
+  ]
+}

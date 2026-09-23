@@ -1,3 +1,7 @@
+== node tests/app_parsers.cjs ==
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 1096 questions + 5 rejection controls
+
+== python3 validate_content.py --ledger ==
 
 Book p383
   Atrial & Ventricular Enlargement heading → MED-C2-01
@@ -836,6 +840,340 @@ Book p457
   The note names cognitive decline as the most common CNS manifestation in lupus. → MED-C15-31
   Biomarkers: anti-dsDNA titre, ↓C3/↓C4, and ↑ESR with ↓CRP. → MED-C15-32
 
+Book p458
+  Constitutional symptoms are listed as fatigue and weight loss, pyrexia of unknown origin (PUO) and leucopenia. → MED-C16-01
+  The cutaneous section opens with the Gilliam-Sontheimer classification into lupus specific and lupus non-specific lesions. → MED-C16-02
+  ACLE is listed first among lupus-specific lesions and marked (m/c); its localised form (malar rash) is also marked m/c. → MED-C16-03
+  Localised ACLE is symmetrical, erythematous, scaly and NON-scarring (with or without oedema); scarring belongs to discoid/CCLE disease. → MED-C16-04
+  The ACLE block associates painless oral/nasopharyngeal ulcers and non-scarring alopecia with the malar rash. → MED-C16-05
+  Generalised ACLE is annotated as sparing the knuckles; the TEN-like lupus image is attached to the same ACLE arm. → MED-C16-06
+  SCLE is listed with anti-Ro/La (+), association with HLA DR3 and photosensitivity. → MED-C16-07
+
+Book p459
+  The note lists rash involving the nasolabial fold under acne rosacea (a) and dermatomyositis (b); SLE malar rash spares the nasolabial fold. → MED-C16-08
+  The 5/20 rule: 5% of patients with discoid rash have SLE and 20% of patients with SLE have a discoid rash. → MED-C16-09
+  CCLE/discoid rash: circular raised erythematous patching with scarring; biopsy shows follicular plugging, keratotic scaling and dermal atrophy; there is a risk of progression to squamous cell carcinoma. → MED-C16-10
+  CCLE is associated with cicatricial (scarring) alopecia, shown with the carpet-track sign of DLE. → MED-C16-11
+  SCLE patterns listed are annular and psoriasiform, the latter marked with increased conversion to SLE. → MED-C16-12
+  SCLE: 20% of patients with SCLE have SLE, white population, association with HLA DR3, anti-Ro with reduced renal involvement. → MED-C16-13
+  Lupus non-specific lesions listed are chilblain lupus and lupus panniculitis/profundus (subcutaneous, tender erythematous nodules). → MED-C16-14
+
+Book p460
+  The note states lupus pernio is sarcoidosis and lupus vulgaris is TB. → MED-C16-15
+  Musculoskeletal manifestations are marked (m/c system involved); the site is upper limb >> lower limb with small-joint and wrist involvement progressing to arthritis. → MED-C16-16
+  SLE arthritis is non-erosive and deforming from ligament laxity, producing Jaccoud arthropathy, which is also seen in Sjogren syndrome. → MED-C16-17
+  SLE with erosive arthritis is labelled Rhupus (RA/SLE overlap) and anti-CCP is positive. → MED-C16-18
+  Under complications, septic arthritis is the concern in a patient on SLE treatment with a single joint involved out of proportion; the monoarthritis note lists crystal arthropathy and septic arthritis in the differential. → MED-C16-19
+  Avascular necrosis presents as acute joint pain after about three months of disease; MRI is marked as the investigation of choice. → MED-C16-20
+  SLE with constitutional, skin and joint involvement is labelled non-organ/life-threatening SLE, in contrast to organ-system involvement which carries a bad prognosis. → MED-C16-21
+  Organ-system involvement: kidney involved in 50-60%, and 10% progress to CKD. → MED-C16-22
+  Immunosuppressive therapy leading to infection is the most common cause of death in the first 10 years; acute coronary syndrome is the most common cause of death after 10 years, in keeping with accelerated atherosclerosis being an MI equivalent. → MED-C16-23
+  Vascular disease is noted in one-third of patients (thrombosis and accelerated atherosclerosis); dangerous vasculitis is medium-vessel, involving mesenteric and CNS vessels. → MED-C16-24
+
+Book p461
+  RBC: anaemia of chronic disease is the most common; rapidly progressive anaemia is autoimmune haemolytic anaemia. → MED-C16-25
+  WBC: leucopenia/lymphopenia with a raised risk of DLBCL; the note contrasts Sjogren syndrome, which raises the risk of marginal zone B-cell lymphoma. → MED-C16-26
+  Platelet: secondary ITP is listed in the haematological manifestations. → MED-C16-27
+  The lung block states the lung parenchyma is spared in SLE, therefore there is no ILD; pleuritis and diffuse alveolar haemorrhage dominate instead. → MED-C16-28
+  Pleuritis is the most common lung manifestation, with or without a small, bilateral, exudative effusion. → MED-C16-29
+  Cough, haemoptysis and bilateral air-space opacification indicate diffuse alveolar haemorrhage, which requires active immunosuppression; the contrasting branch (viral/TB) is managed by stopping immunosuppression. → MED-C16-30
+  DAH is flagged as carrying a poor prognosis and as the most important marker of SLE disease activity in the lung. → MED-C16-31
+  Activity assessment: clinically active disease with new-onset rashes, rising anti-dsDNA titres, falling C3 and C4, and a raised ESR with a low CRP (below 10 mg/dL). → MED-C16-32
+  Cardiac: pericarditis without tamponade is the most common manifestation; myocarditis is associated with anti-Ro antibody. → MED-C16-33
+  Libman-Sacks endocarditis is described with vegetations on the undersurface of the valve leaflet; mitral regurgitation is the most common valvular lesion. → MED-C16-34
+  GIT: generally spared. Hepatobiliary: type 1 autoimmune hepatitis (lupoid hepatitis). → MED-C16-35
+  Indications for renal biopsy: proteinuria >1 g/day, or proteinuria ≥500 mg/day plus ≥3 RBCs in urine (microhaematuria). → MED-C16-36
+
+Book p462
+  Class I minimal mesangial lupus nephritis shows mesangial immune-complex deposits, is asymptomatic and has an excellent prognosis, whereas class II mesangial proliferative disease is marked as having a poor prognosis. → MED-C16-37
+  Class III focal lupus nephritis has <50% glomerular involvement; class IV diffuse has >50% glomerular involvement. → MED-C16-38
+  Class III focal lupus nephritis is linked with RPGN and the table states these patients require active immunosuppression. → MED-C16-39
+  Class V shows membranous nephropathy with adult-onset nephrotic syndrome, is resistant to steroid, and carries a better prognosis. → MED-C16-40
+  Class VI advanced sclerotic lupus has >90% glomerular sclerosis and CKD, and is marked as the worst prognosis. → MED-C16-41
+  Class III and IV lupus nephritis: HP shows endocapillary plus mesangial proliferation. → MED-C16-42
+  IF shows IgG, IgA, IgM, C1q and C3 deposits, the full-house pattern; the note adds that it is also seen in HIV. → MED-C16-43
+  EM shows subendothelial (wire loop lesion) and mesangial deposits; hematoxylin bodies of Gross are described as most specific, and tubuloreticular inclusions are also shown. → MED-C16-44
+
+Book p463
+  CNS: cognitive decline is the most common manifestation, with a raised risk of stroke due to antiphospholipid antibodies; small-fibre neuropathy and CNS vasculitis are also listed. → MED-C16-45
+  Constitutional domain: fever 2. Arthritis domain: synovitis or tenderness in at least 2 joints, 6. → MED-C16-46
+  Cutaneous domain: non-scarring alopecia 2, oral ulcers 2, subacute cutaneous or discoid lupus 4 and acute cutaneous lupus 6. → MED-C16-47
+  Neurologic domain: delirium 2, psychosis 3, seizure 5. → MED-C16-48
+  Serositis domain: pleural or pericardial effusion 5 and acute pericarditis 6. → MED-C16-49
+  Haematologic domain: leukopenia 3, thrombocytopenia 4, autoimmune haemolysis 4. → MED-C16-50
+  Renal domain: proteinuria >0.5 g/24 hr = 4 points; class II or V lupus nephritis = 8; class III or IV lupus nephritis = 10. → MED-C16-51
+  Antiphospholipid antibody domain: anticardiolipin IgG >40 GPL, or anti-β2 glycoprotein I IgG >40 units, or lupus anticoagulant scores 2. → MED-C16-52
+  Complement proteins domain: low C3 or low C4 = 3; low C3 and low C4 = 4. Highly specific antibodies domain: anti-dsDNA = 6 and anti-Sm = 6. → MED-C16-53
+  The table notes that all patients classified as having SLE must have ANA ≥1:80 (entry criterion) and patients must have ≥10 points to be classified as SLE. → MED-C16-54
+  The note states that classification criteria are not diagnostic criteria. → MED-C16-55
+
+Book p464
+  Treat to target: SLE diagnosis to active disease to initial treatment to remission; the target is the SLE Disease Activity Index (SLEDAI) to 0, which is the indicator of remission. → MED-C16-56
+  Initial Rx: constitutional symptoms are managed with HCQ (hydroxychloroquine) and observation. → MED-C16-57
+  Non-life-threatening SLE: low-dose steroid (<7.5 mg/day) plus HCQ 5 mg/kg/day. → MED-C16-58
+  Optical coherence tomography (OCT) is listed to look for retinal toxicity during HCQ therapy. → MED-C16-59
+  IV steroid: methylprednisolone 500 mg to 1 g IV infusion in 100 ml normal saline over 1-2 hours, given as a pulse for 3 days. → MED-C16-60
+  The pulse is followed by oral steroid 1 mg/kg/day, tapered over 3 months to 5 mg/day. → MED-C16-61
+  Alongside IV steroid: oral MMF (mycophenolate mofetil) 2-3 g/day or IV cyclophosphamide 500 mg, two doses two weeks apart. → MED-C16-62
+  Adverse effects with long-term cyclophosphamide use: secondary malignancy (AML) and gonadal toxicity. → MED-C16-63
+  The algorithm states: assess remission after more than 3 months using the SLEDAI index. → MED-C16-64
+
+Book p465
+  Maintenance Rx: steroid (<7.5 mg/day) plus MMF (1 g/day) or azathioprine for 2-3 years. → MED-C16-65
+  Belimumab is listed as the steroid-sparing agent in the maintenance block. → MED-C16-66
+  The flowchart takes the no-remission (>3 months) branch to switching to cyclophosphamide, and if there is still no response the case is labelled refractory lupus. → MED-C16-67
+  Refractory lupus: rituximab, voclosporin (a calcineurin inhibitor) with MMF, belimumab (anti-BLyS) and anifrolumab (anti type I interferon). → MED-C16-68
+  The refractory-lupus block adds that plasma exchange is done if DAH or CNS vasculitis is present. → MED-C16-69
+  Goals of Rx: asymptomatic, urine normal, complement normal, and no fever and no cytopenias. → MED-C16-70
+  The CHImP mnemonic lists carbamazepine, chlorpromazine, hydralazine, isoniazid, interferon, infliximab, methyldopa, procainamide and phenytoin. → MED-C16-71
+  Clinical features: M = F, CNS and renal not involved, anti-dsDNA negative, antihistone antibody positive, ANA positive in 100% and skin plus joint involvement. → MED-C16-72
+  Drug-induced lupus spares the CNS and kidneys and is anti-dsDNA negative; nephritis with a rising anti-dsDNA belongs to SLE. → MED-C16-73
+  The note states that drugs causing SLE (drug-induced lupus) are safe in lupus patients. → MED-C16-74
+
+Book p466
+  The heading notes the syndrome was earlier called antiphospholipid antibody syndrome (APLA). → MED-C17-01
+  The chapter notes that one-third of SLE cases are APS positive. → MED-C17-02
+  In the complications-of-SLE note, APS is described as increasing susceptibility to thrombus formation, with venous more than arterial events. → MED-C17-03
+  The SLE complications note lists accelerated atherosclerosis, glomerular disease (class III/IV lupus nephritis), complications of immunosuppression, vasculitis of medium vessels (GIT/CNS) and APS. → MED-C17-04
+  APS: 50% of cases are primary, associated with HLA DR4 and HLA DRw53; 50% or more are secondary, most commonly due to SLE (one-third of APS). → MED-C17-05
+  The side note states the most common cause of secondary Sjogren is RA and that HLA DR3 positivity is associated with Sjogren syndrome and SLE. → MED-C17-06
+  Antibodies are directed against phospholipid-binding proteins: beta-2 glycoprotein I, the prothrombin-phosphatidylserine complex and annexin, with platelet surface proteins shown alongside. → MED-C17-07
+  The pathway ends in thrombocytopenia (50,000 to one lakh) with an increased propensity to thrombosis. → MED-C17-08
+  The diagram shows the Ag-Ab complex with increased affinity for platelets, activation of the complement cascade, thrombocytopenia with a raised thrombotic tendency, and reduced inhibition of coagulation factors progressing to thrombosis. → MED-C17-09
+
+Book p467
+  The two hits are the antibody causing endothelial injury and a second hit such as oestrogen, smoking, obesity or other prothrombotic states. → MED-C17-10
+  The most common cause of thrombophilia is acquired (APS), greater than inherited factor V Leiden mutation. → MED-C17-11
+  Thrombosis: DVT is more common than arterial thrombosis (stroke), which is more common than Budd-Chiari syndrome. → MED-C17-12
+  Veins involved: hepatic vein gives Budd-Chiari syndrome and cerebral veins give cerebral venous thrombosis. → MED-C17-13
+  Microvascular involvement affects the kidneys more than the adrenals. → MED-C17-14
+  Sneddon's syndrome is listed with livedo reticularis and stroke in the APS clinical-features block. → MED-C17-15
+  The note gives the differential for hepatic vein thrombosis as APS, polycythemia rubra vera and PNH (paroxysmal nocturnal haemoglobinuria). → MED-C17-16
+  The note describes the stroke as acute in onset with cranial nerve palsy and a pyramidal pattern of weakness. → MED-C17-17
+  Laboratory criteria: any antibody positive twice over 12 weeks. → MED-C17-18
+  Anti-beta-2 glycoprotein I (IgG/IgM) is detected by ELISA. → MED-C17-19
+  Anti-cardiolipin antibody (IgG/IgM >40 units) is described as sensitive. → MED-C17-20
+  Lupus anticoagulant is specific but not sensitive, with a raised aPTT and a raised dRVVT (diluted Russell's viper venom test). → MED-C17-21
+
+Book p468
+  Clinical criteria: a vascular event due to venous or arterial thrombosis. → MED-C17-22
+  Pregnancy criteria: one miscarriage ≥10 weeks, or ≥3 miscarriages before 10 weeks, or premature delivery <34 weeks of a morphologically normal neonate due to pre-eclampsia, eclampsia or HELLP syndrome. → MED-C17-23
+  The note states APS is the most common cause of second-trimester abortion (after 10 weeks). → MED-C17-24
+  Non-criteria APS: CNS shows chorea, epilepsy and migraine; cardiac shows Libman-Sacks endocarditis and MR. → MED-C17-25
+  Hematological: warm-antibody autoimmune haemolytic anaemia and Evan's syndrome, with thrombocytopenia not significant enough to cause bleeding. → MED-C17-26
+  Renal: APS nephropathy is a thrombotic microangiopathy due to microvascular involvement of the kidney. → MED-C17-27
+  Endocrine: infarction of adrenal vessels leads to adrenal insufficiency (shock); dermatological: venous obstruction with venular dilatation gives livedo reticularis. → MED-C17-28
+
+Book p469
+  Domains: clinical domains 1-6 (macrovascular venous, macrovascular arterial, microvascular, obstetric, cardiac valve, haematology) and laboratory domains 7-8 (lupus anticoagulant test, other antibody tests). → MED-C17-29
+  Catastrophic APS: three or more organ systems involved within one week, with small vessels involved; presentations include thrombotic microangiopathy of the kidney and adrenal insufficiency. → MED-C17-30
+  Management: an asymptomatic adult requires no treatment. → MED-C17-31
+  To attain an INR of 2.5-3: heparin 5000 units TDS SC or LMWH 60 mg BD SC, with warfarin overlapped with heparin/LMWH and continued lifelong; the note adds there is no role for NOACs. → MED-C17-32
+  Pregnancy management: prophylactic low-dose aspirin with heparin throughout pregnancy and for 6-12 weeks post-partum; warfarin is continued lifelong if APS is diagnosed. → MED-C17-33
+  Catastrophic APS is managed with steroids, IV Ig and plasmapheresis. → MED-C17-34
+  The note states there is no role for new oral anticoagulants (NOACs) in APS. → MED-C17-35
+
+Book p470
+  The general-features diagram contrasts inflammation: SLE +++ versus SSc + with a low or normal ESR. → MED-C18-01
+  SSc pathogenesis: fibrosis (with interstitial lung disease), vasculopathy from small-vessel endothelial injury with anti-endothelial antibody causing thrombosis, and immune-complex-mediated small-vessel vasculitis producing capillary hypoxia. → MED-C18-02
+  Severe form: involvement of medium vessels (mesenteric and CNS vessels) with TGF-beta release acting on mesenchymal cells to produce myofibroblasts. → MED-C18-03
+  Pulmonary arteriolar hypertension (class 1) is attached to the vasculopathy arm and marked as carrying a bad prognosis. → MED-C18-04
+  Scleroderma is defined as thickening and induration. → MED-C18-05
+  Local manifestations are localised scleroderma (morphoea, linear scleroderma); systemic manifestation is systemic sclerosis, subdivided by extent of skin involvement into diffuse and limited SSc. → MED-C18-06
+  Diffuse SSc: skin lesion over all parts of the body, complications of ILD, pathogenesis of fibrosis plus vasculopathy with minimal inflammation. Limited SSc: skin distal to elbow and face, pulmonary hypertension, vasculopathy predominant. → MED-C18-07
+  Scleroderma mimics: eosinophilic fasciitis with groove sign, and nephrogenic systemic fibrosis, which is drug induced after gadolinium contrast. → MED-C18-08
+
+Book p471
+  Etiology: orphan disease with unknown cause; age 35-50 years; F:M = 5:1. → MED-C18-09
+  Immune susceptibility is listed as HLA DRB1/II (DR5) and viral associations are EBV, CMV and parvovirus B19. → MED-C18-10
+  Agents inducing scleroderma: vinyl chloride, bleomycin, pentazocine, contaminated L-tryptophan and silica, with silica carrying the maximum association with SSc. → MED-C18-11
+  The note pairs HLA DR-3 with SLE and Sjogren syndrome, DR-4 with APS and RA, DR-5 with SSc, and adds that silica is also associated with SLE. → MED-C18-12
+  Very early systemic sclerosis: 3-5 years, with two-thirds of cases progressing to SSc. → MED-C18-13
+  The triad pairs Raynaud's phenomenon and ANA positivity with the investigation nail-fold capillaroscopy. → MED-C18-14
+  Raynaud's phenomenon is episodic vasoconstriction in response to stimuli; triggers listed are cold, stress and vibration. → MED-C18-15
+  Clinical manifestations listed: pallor, cyanosis, redness on rewarming, pain and tightness of digits and a puffy hand. → MED-C18-16
+
+Book p472
+  Primary (Raynaud's disease): ANA negative, family history positive, symptoms self-limiting and symmetric, and other features listed as a good prognosis. → MED-C18-17
+  Secondary Raynaud phenomenon: severe with critical limb ischaemia, ulcer and gangrene of the extremities, and associated diseases (SSc, Sjogren syndrome, MCTD and inflammatory muscle disease). → MED-C18-18
+  Nail-fold capillaroscopy in secondary disease: dropout of capillaries, dilated tortuous capillaries and microhaemorrhages; the primary column is normal. → MED-C18-19
+  Limited SSc: ANA pattern centromere with anti-centromere antibody; diffuse SSc: fine speckled with anti-topoisomerase and anti-RNA polymerase III. → MED-C18-20
+  Raynaud phenomenon: limited SSc is long standing and severe (due to predominant vasculopathy) with critical limb ischaemia present; diffuse SSc is short lasting and less severe (due to predominant fibrosis) with critical limb ischaemia not extensive. → MED-C18-21
+  Diffuse SSc: anti-topoisomerase and anti-RNA polymerase III, with a fine-speckled ANA pattern. → MED-C18-22
+
+Book p473
+  CREST: C is calcinosis of the tissues; E is oesophagitis, marked limited much greater than diffuse. → MED-C18-23
+  CREST: R is Raynaud's phenomenon, S is sclerodactyly (scleroderma of fingers) and T is telangiectasia, with minimal fibrosis noted for limited disease. → MED-C18-24
+  Pulmonary artery hypertension is asymptomatic with normal FEV1, FVC and FEV1/FVC but a reduced DLCO. → MED-C18-25
+  Pulmonary artery hypertension: poor prognosis due to increased mortality. → MED-C18-26
+  Features against limited SSc: extensive fibrosis, ILD, cardiac involvement and renal involvement. → MED-C18-27
+  Skin manifestations: dry tight skin, facial hypo- and hyperpigmentation (salt-and-pepper appearance), hair loss, intense itching, and progression to face tightening with microstomia, pursed lip, puckered mouth and mask facies. → MED-C18-28
+  Diffuse SSc skin manifestations include bilateral symmetrical skin thickening. → MED-C18-29
+
+Book p474
+  Joint manifestations: diffuse SSc shows arthritis/myositis due to inflammation; limited SSc shows acral osteolysis (falling off of fingers) with diffuse severe Raynaud's phenomenon. → MED-C18-30
+  Other manifestations include acral osteolysis, attributed to fibrosis or vasculopathy. → MED-C18-31
+  Oesophageal hypomotility progresses to small-intestinal bacterial overgrowth and pneumatosis intestinalis. → MED-C18-32
+  The watermelon-stomach image is labelled as seen on upper GI endoscopy. → MED-C18-33
+  Disease progression: pulmonary manifestations leading to interstitial lung disease, which is the most common cause of death; cardiac and renal manifestations are also listed. → MED-C18-34
+  Anti-centromere is limited-type SSc with CREST syndrome and pulmonary hypertension as the complication. → MED-C18-35
+  Anti-RNA polymerase III (diffuse) is linked to scleroderma renal crisis, more than anti-topoisomerase, and to malignancy of lung and breast. → MED-C18-36
+  Anti-topoisomerase-1 (anti-Scl-70), diffuse: renal TMA progressing to scleroderma renal crisis, lung ILD, tendon friction rubs on passive movement (diffuse more than limited), GAVE (watermelon stomach) and rapidly progressive skin involvement with joint contractures and tendon friction rubs. → MED-C18-37
+  The antibody table lists anti-PM/Scl-70 in overlap disease with ILD positive and anti-Ku in overlap disease with no ILD. → MED-C18-38
+
+Book p475
+  Renal disease in diffuse SSc presents within the first 4 years, affects small vessels of the kidney and is a thrombotic microangiopathy. → MED-C18-39
+  Thrombotic microangiopathy: accelerated hypertension plus microangiopathic haemolytic anaemia plus thrombocytopenia. → MED-C18-40
+  Rx for scleroderma renal crisis: ACE inhibitors, described as the drug of choice. → MED-C18-41
+  Phases of diffuse SSc: the oedematous phase, more common in diffuse disease and associated with non-pitting oedema, progresses to the fibrotic phase. → MED-C18-42
+  Investigations: PFT for ILD shows DLCO markedly reduced and FRC reduced; the chest radiograph shows bilateral basal subpleural reticular infiltrates. → MED-C18-43
+
+Book p476
+  HRCT: IOC. Scleroderma: NSIP more than UIP. → MED-C18-44
+  NSIP shows no destruction with ground-glass opacities and is treated with steroids and mycophenolate mofetil (better prognosis); UIP shows destruction with cystic changes, honeycombing and traction bronchiectasis with no treatment listed. → MED-C18-45
+  The note attributes UIP to RA, LIP as characteristic of Sjogren's disease, and NSIP to others. → MED-C18-46
+  Rx of RP: first line is a calcium-channel blocker, with or without a PDE-5 inhibitor (sildenafil). → MED-C18-47
+  Second line for Raynaud phenomenon is bosentan, an endothelin antagonist. → MED-C18-48
+  ILD: nintedanib plus MMF, and the source notes the disease is non-responsive to steroid. → MED-C18-49
+  Treatment: skin is treated with mycophenolate mofetil, and joint plus muscle involvement with steroids and methotrexate; scleroderma renal crisis is treated with ACE inhibitors. → MED-C18-50
+
+Book p477
+  Definition: a multisystem autoimmune CTD characterised by mononuclear inflammation within skeletal muscle, with subacute muscle weakness and fatigue, lasting 6-8 weeks. → MED-C19-01
+  Old classification: polymyositis, dermatomyositis, inclusion body myositis and immune-mediated necrotizing myopathy. → MED-C19-02
+  Current classification opens with polymyositis, now an obsolete term, and then lists dermatomyositis, antisynthetase syndrome, necrotizing myopathies, juvenile DM, paraneoplastic myositis, inclusion body myositis and amyopathic DM. → MED-C19-03
+  Criterion A: proximal and symmetrical muscle weakness of the pelvic and scapular girdle and anterior flexors of the neck, progressing for weeks to months, with or without dysphagia or involvement of respiratory muscles. → MED-C19-04
+  Criterion B: elevation of serum levels of skeletal-muscle enzymes, namely creatine kinase, aspartate aminotransferase, lactate dehydrogenase and aldolase. → MED-C19-05
+  Criterion C: EMG characteristic of myopathy with short and small motor units, fibrillation, positive sharp waves, insertional irritability and repetitive high-frequency firing. → MED-C19-06
+  Criterion D: muscle biopsy showing necrosis, phagocytosis and inflammatory exudate. → MED-C19-07
+  Typical cutaneous changes: heliotrope rash with periorbital oedema and violaceous erythema, and Gottron's sign with vasculitis in the elbow, metacarpophalangeal and proximal interphalangeal joints. → MED-C19-08
+  Risk factors, genetic: HLA-DRB1-03 and HLA-DRB1-07. → MED-C19-09
+  Environmental risk factors: UV B rays, Coxsackie and parvovirus B19 virus, and drugs including chloroquine, colchicine and statins. → MED-C19-10
+
+Book p478
+  The note lists 03 with SLE, Sjogren's and dermatomyositis, 04 with APS and RA, and 05 with scleroderma. → MED-C19-11
+  Typical (55-60%): most commonly middle-aged; juvenile 5-15 years, adult 40-60 years, females more than males (2:1). → MED-C19-12
+  Typical features: weakness that is bilateral and symmetrical, purely motor, proximal, autoimmune (acquired), persistent, with no significant pain and progressive motor weakness over weeks to months. → MED-C19-13
+  Examination findings: bulk normal, power reduced, tone reduced, reflexes normal and sensory system intact. → MED-C19-14
+  The note lists the muscle groups not involved in IMD as the extraocular muscles and the facial muscles. → MED-C19-15
+  Atypical: 30% present with proximal pain and weakness with an acute-subacute onset, and 10% with chronic proximal plus distal weakness; the syndrome table gives the same 30 and 10 figures for the corresponding rows. → MED-C19-16
+  The syndrome table lists insidious proximal and distal weakness over 1-10 years, contrasted with painless proximal weakness over 3-10 months and acute or subacute proximal pain and weakness over weeks to months. → MED-C19-17
+
+Book p479
+  Pathognomonic skin lesions: Gottron's papule (scaly erythematous flat-topped violaceous papule/plaque over the dorsal MCP, PIP and DIP) and heliotrope rash (violaceous periorbital oedema and erythema). → MED-C19-18
+  Gottron's papule: scaly erythematous flat-topped violaceous papule/plaque on the dorsal surface of MCP, PIP and DIP joints. → MED-C19-19
+  Heliotrope rash: violaceous periorbital oedema and erythema. → MED-C19-20
+  Other skin lesions: Gottron rash/sign is macular erythema over Gottron's papule, typically on extensor surfaces, photosensitive, with linear erythema over the dorsum of the hand. → MED-C19-21
+  V sign is located over the chest, shawl sign posteriorly over the back and holster sign is erythema on the lateral aspect of the thigh; scalp involvement is generally pruritic. → MED-C19-22
+  Telangiectasia: nail-fold capillary involvement with periungual erythema or oedema, and cuticular hyperplasia also seen. → MED-C19-23
+  Calcinosis cutis: also seen in CREST syndrome and in juvenile dermatomyositis, and due to deposition of calcium hydroxyapatite. → MED-C19-24
+
+Book p480
+  SLE rash: never involves the knuckles, may involve the nasolabial fold, associated with painless oral cavity ulcers and non-pruritic. Dermatomyositis rash: involves the knuckles (MCP joint), does not involve the nasolabial fold, not associated with oral cavity ulcers and pruritic. → MED-C19-25
+  Mechanic's hand: not specific for dermatomyositis and part of the antisynthetase syndrome. → MED-C19-26
+  Muscle biopsy is described as the gold standard test. → MED-C19-27
+  Muscle biopsy shows a mononuclear lymphocytic infiltrate of CD4+ T cells and perifascicular atrophy. → MED-C19-28
+  MRI: the STIR sequence shows hyperintense areas within muscle. → MED-C19-29
+  EMG: polyphasic short-duration small-amplitude potentials, high-frequency discharges, and spontaneous fibrillation or denervation. → MED-C19-30
+  Enzymes: CPK is greater than AST. → MED-C19-31
+  Antibody associated: anti-Mi-2 alpha with good prognosis, low risk for ILD and responsiveness to conventional therapy (steroid plus MMF). → MED-C19-32
+
+Book p481
+  Age group: polymyositis only in adults; dermatomyositis seen in the elderly or juvenile. → MED-C19-33
+  Skin changes are absent in polymyositis and present in dermatomyositis; calcinosis is rare in polymyositis and seen in dermatomyositis. Both share subacute onset, proximal symmetric weakness, systemic features and normal-to-high enzymes. → MED-C19-34
+  Associated systemic conditions or overlap syndrome: yes for polymyositis, which never exists on its own, and yes for dermatomyositis, which can exist on its own. → MED-C19-35
+  Biopsy findings: polymyositis shows CD8+ T-cell involvement while dermatomyositis shows CD4+ and B cells with perifascicular atrophy and perivascular inflammation. → MED-C19-36
+  The antisynthetase syndrome block opens with the statement that it is treatable if diagnosed early. → MED-C19-37
+  Antisynthetase syndrome clinical features: mechanic's hand, Raynaud's phenomenon, cardiomyopathy and an SLE-like arthritis (Jaccoud's arthropathy). → MED-C19-38
+  Mechanic's hand is seen on the radial aspect of the index and middle finger and is characterised by crusted hyperkeratotic lesions. → MED-C19-39
+  The note adds that Jaccoud's arthropathy is also seen in Sjogren's syndrome. → MED-C19-40
+  Investigations: CXR shows fever with infiltrates, which can be mistaken for viral pneumonia and can progress into ILD; ILD can be the first presentation of the syndrome and is the most common cause of death. → MED-C19-41
+
+Book p482
+  ILD pattern: NSIP plus COP. NSIP is most common and identified by ground-glass opacities; COP is identified by consolidations. → MED-C19-42
+  The note states UIP in the lung is identified by a honeycombing structure, that is destruction of the parenchyma. → MED-C19-43
+  Amyopathic DM: poor prognosis and not treatable, with anti-MDA-5 antibody and a clinical triad featuring rapidly progressive ILD. → MED-C19-44
+  Juvenile DM commonly affects girls aged 5-15 years and malignancy, cardiac involvement and ILD are absent. → MED-C19-45
+  Juvenile DM antibodies are anti-NXP2 and anti-TIF1-gamma; if seen in adults they indicate cancer-associated myositis. → MED-C19-46
+  Immune-mediated necrotizing DM: anti-SRP in severe disease with ILD and cardiac manifestations does not respond; anti-HMG-CoA reductase, seen with statin therapy, responds to steroid plus IVIG plus rituximab (rarely). → MED-C19-47
+
+Book p483
+  IBM: most common in the elderly (males more than females), presenting with recurrent falls and a chronic presentation. → MED-C19-48
+  IBM weakness is asymmetrical, proximal plus distal, and involves the quadriceps, vastus and finger flexors. → MED-C19-49
+  IBM histology shows red-rimmed vacuoles and the disease is steroid unresponsive. → MED-C19-50
+  Cancers associated with DM: carcinoma ovary is characteristic and carcinoma lung is the most common. → MED-C19-51
+  Antibodies specific to IMDs: dermatomyositis with anti-Mi-2 alpha, antisynthetase syndrome with anti-Jo-1, necrotizing myopathy with anti-SRP and anti-HMG-CoA reductase, amyopathic DM with anti-MDA-5, and juvenile DM and cancer-associated myositis with anti-NXP2 and anti-TIF1-gamma. → MED-C19-52
+  Other associated antibodies: anti-Ro; anti-Ku, which may develop ILD; and anti-PM/Scl, seen in polymyositis with scleroderma with or without ILD and showing an ANA nucleolar pattern. → MED-C19-53
+  Both juvenile DM and cancer-associated myositis are listed with anti-NXP2 and anti-TIF1-gamma. → MED-C19-54
+  Treatment: the goal is clinical elimination of all disease activity; first line is steroid plus MTX or steroid plus MMF. → MED-C19-55
+  Second-line treatment: rituximab and JAK inhibitors (tofacitinib). → MED-C19-56
+  The treatment goal is clinical elimination of all disease activity. → MED-C19-57
+
+Book p484
+  Sarcoidosis is defined as a chronic, multisystem, granulomatous, immunological disorder; biopsy usually shows non-caseating granulomas. → MED-C20-01
+  Biopsy usually shows non-caseating granulomas, but caseating granulomas can occur in one-third of cases. → MED-C20-02
+  Outcome: 50% spontaneous resolution, 25% become chronic (mostly the lung is affected) and 5% mortality, attributed to interstitial lung disease and infections. → MED-C20-03
+  Diseases that can have non-caseating granulomas: 30% of TB cases, lymphoma, berylliosis, hypersensitivity pneumonitis (HP), Crohn's disease and cat-scratch disease. → MED-C20-04
+  ACR criteria: compatible clinical picture, histological non-caseating granulomas and exclusion of other causes. → MED-C20-05
+  Classification: acute sarcoidosis is represented by Lofgren syndrome and chronic sarcoidosis by Heerfordt syndrome; hilar adenopathy is the important finding. → MED-C20-06
+  Major manifestations: lung (ILD) more than skin more than eyes more than joints; multisystem manifestations include cardiac and renal disease, and the only organ spared is the testes. → MED-C20-07
+  Risk factors: Propionibacterium acnes infection and excessive firewood burning. → MED-C20-08
+
+Book p485
+  HLA DRB1*03 is associated with Lofgren syndrome and a good prognosis. → MED-C20-09
+  HLA DRB1*04 has a protective role, while HLA DRB1*11 is associated with CNS and cardiac sarcoidosis, which carries a bad prognosis. → MED-C20-10
+  The note repeats: HLA DRB1*03 with SLE, Sjogren syndrome and dermatomyositis; DRB1*04 with APS and RA; DRB1*05 with scleroderma. → MED-C20-11
+  Immune paradox/anergy: lymphopenia in blood leading to increased risk of infection, and a Mantoux test that is false negative because of low lymphocytes. → MED-C20-12
+  The note states HIV positivity leads to lymphopenia and a reduced risk of sarcoidosis. → MED-C20-13
+  Lofgren syndrome is drawn with erythema nodosum, arthritis and hilar adenopathy. → MED-C20-14
+  Erythema nodosum in Lofgren syndrome is described with the 3 P's: painful, pretibial, papule. → MED-C20-15
+  Arthritis/tenosynovitis is acute, involves the ankle joint, is bilateral and symmetrical and is seen in the young. → MED-C20-16
+
+Book p486
+  In Behcet's disease, erythema nodosum has 4 P's: painful, pretibial, papules with pigmentation. → MED-C20-17
+  Hilar adenopathy is described as the most consistent feature and is generally bilateral, with right paratracheal and left hilar nodes shown. → MED-C20-18
+  Heerfordt-Waldenstrom syndrome: uveitis, bilateral LMN seventh-nerve palsy and parotitis. → MED-C20-19
+  Uveitis: any type or compartment, acute anterior uveitis more common, and the most common ocular manifestation of sarcoid. → MED-C20-20
+  Bilateral LMN seventh-nerve palsy is the most common neurological manifestation in sarcoid; the note pairs it with Guillain-Barre syndrome as its main differential. → MED-C20-21
+  Clinical paradox: it helps identify chronicity, because as the lung disease worsens the nodal enlargement regresses. → MED-C20-22
+  Stages: 1 bilateral hilar lymphadenopathy with nodal enlargement only, 2 nodal enlargement plus parenchymal disease (node size starts to fall as infiltrate rises), 3 parenchymal disease only, 4 fibrosis. → MED-C20-23
+
+Book p487
+  Fibrosis pattern: thickening of bronchovascular bundles and traction bronchiectasis of the upper lobe; upper-lobe fibrosis is also listed for ankylosing spondylitis and sarcoidosis. → MED-C20-24
+  Lupus pernio: violaceous or erythematous, indurated, infiltrative plaques on the central face that are less responsive to treatment; bone changes (lytic or cystic) are also associated. → MED-C20-25
+  Eye involvement: chronic bilateral panuveitis is the most common manifestation. → MED-C20-26
+  Features unlikely of sarcoidosis: pleural involvement and a UIP-like pattern with honeycombing and parenchymal destruction in the lung; episcleritis, scleritis and sicca in the eye. → MED-C20-27
+  The note lists episcleritis, scleritis and sicca as ocular features unlikely of sarcoidosis. → MED-C20-28
+
+Book p488
+  Endocrine manifestation: hypercalcaemia. → MED-C20-29
+  CNS: bilateral LMN seventh-nerve palsy (most common), neurosarcoidosis with a pituitary mass causing stalk effect and central diabetes insipidus, basilar meningitis and acute transverse myelitis. → MED-C20-30
+  CVS: dilated cardiomyopathy more than restrictive cardiomyopathy, and AV blocks. → MED-C20-31
+  Hematology: pancytopenia with splenomegaly. → MED-C20-32
+  Renal: AKI is hypercalcaemia-induced pre-renal failure, CKD is chronic tubulointerstitial disease (CTID) and the glomerulus is rarely affected, with membranous nephropathy. → MED-C20-33
+  The note lists rheumatological disorders causing CTID as Sjogren's syndrome, IgG4-related disease and sarcoidosis. → MED-C20-34
+  Investigations: gallium-67 scintigraphy (panda sign) and PET scan, which is the investigation of choice to identify nodes to take a biopsy from. → MED-C20-35
+  Blood markers: angiotensin-converting enzyme (if normal, sarcoidosis can be ruled out) and soluble interleukin-2 (sIL-2) receptor. → MED-C20-36
+  Bronchoalveolar lavage is listed with a raised CD4/CD8 ratio above the cut-off printed on the page. → MED-C20-37
+
+Book p489
+  Treatment: acute sarcoidosis requires no treatment; chronic disease is treated in steps. → MED-C20-38
+  Chronic: first line steroids, second line methotrexate and azathioprine, third line anti-TNF-alpha (adalimumab). → MED-C20-39
+  Therapeutic paradox: in a patient treated with TNF-alpha (adalimumab), skin lesions similar to sarcoidosis can appear, and they disappear on reducing the dose. → MED-C20-40
+  Overlap syndrome: features of two or more out of the six autoimmune systemic connective tissue diseases. → MED-C20-41
+  The overlap list is Sjogren syndrome (most common, most having anti-Ro antibody), SLE, polymyositis, dermatomyositis, systemic sclerosis and rheumatoid arthritis. → MED-C20-42
+  The source states that treatment is based on the predominant disease in the overlap. → MED-C20-43
+  Undifferentiated CTD: patients presenting with some features of CTD who do not fulfil the criteria to be classified under a disease. → MED-C20-44
+  MCTD is introduced as a specific type of overlap syndrome, with patients presenting unique features, in middle-aged females (female:male about 15:1). → MED-C20-45
+  Serology: ANA positive in 100% with a coarse speckled pattern and anti-U1 RNP antibody positive. → MED-C20-46
+
+Book p490
+  Clinical features: Raynaud's phenomenon is the most common manifestation, followed by oedema of hands, nail pitting, acrosclerosis, myositis and erosive synovitis. → MED-C20-47
+  Acrosclerosis is defined as Raynaud's phenomenon plus MCTD plus the systemic-sclerosis features of the hand. → MED-C20-48
+  Clinical features note that the CNS and renal system are usually spared in MCTD. → MED-C20-49
+  HLA association for MCTD: HLA DRB1*04. → MED-C20-50
+  Complications: ILD is the most common, and about 20% evolve into limited SSc with pulmonary artery hypertension, which is the most common cause of death. → MED-C20-51
+  The capillaroscopy panel in RP shows normal, dilated, tortuous, bushy and meandering capillaries with microhaemorrhage. → MED-C20-52
+
 Book p491
   Vasculitis is defined as vessel-wall inflammation, with raised ESR/CRP and ischemia or organ damage. → MED-C21-01
   The page explicitly notes no gold standard test to diagnose vasculitis and no diagnostic criteria. → MED-C21-02
@@ -1090,6 +1428,7 @@ Book p523
   Protective environmental factors listed are alcohol and OCP. → MED-C26-18
   Other factors list females > males 3:1, most common presentation in males as ILD/vasculitis, and infection Porphyromonas gingivalis chronic periodontitis. → MED-C26-19
   Pregnancy is listed as increased IL-10 inducing remission. → MED-C26-20
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 1096 questions + 5 rejection controls
   The risk-prediction flow shows acute inflammatory polyarthritis at 6 weeks: persistent goes to undifferentiated arthritis and reduced goes to post-viral. → MED-C26-21
   Undifferentiated arthritis branches into one-third remission, one-third persistent/progress to other disease and one-third evolve to RA. → MED-C26-22
 
@@ -1160,7 +1499,6 @@ Book p531
   Methotrexate complications list mucositis as most common, with oral ulcers and hair loss. → MED-C26-72
   Liver failure is marked the most dangerous methotrexate complication; monitor LFT and stop if enzymes are elevated >4 times. → MED-C26-73
   The Boolean definition of remission lists tender joints ≤1, swollen joints ≤1, C-reactive protein ≤1 and patient global assessment ≤1. → MED-C26-74
-PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 828 questions + 5 rejection controls
   The adequate-response branch directs continuing methotrexate. → MED-C26-75
   The MTX plus sulfasalazine branch lists sulfasalazine 500 mg BD/TDS with maximum 2 g. → MED-C26-76
   The sulfasalazine branch includes G6-PD deficiency. → MED-C26-77
@@ -1184,10 +1522,92 @@ Ch12: 47 questions / 3 units; formats {'recall': 26, 'scenario': 13, 'management
 Ch13: 23 questions / 2 units; formats {'recall': 16, 'scenario': 5, 'oddoneout': 1, 'management': 1}
 Ch14: 18 questions / 2 units; formats {'recall': 15, 'numeric': 1, 'scenario': 1, 'oddoneout': 1}
 Ch15: 32 questions / 3 units; formats {'numeric': 3, 'recall': 23, 'scenario': 6}
+Ch16: 74 questions / 7 units; formats {'recall': 34, 'oddoneout': 2, 'scenario': 16, 'numeric': 14, 'management': 8}
+Ch17: 35 questions / 4 units; formats {'recall': 12, 'numeric': 8, 'scenario': 12, 'management': 3}
+Ch18: 50 questions / 7 units; formats {'scenario': 19, 'recall': 27, 'numeric': 1, 'management': 3}
+Ch19: 57 questions / 7 units; formats {'recall': 34, 'scenario': 18, 'numeric': 2, 'management': 3}
+Ch20: 52 questions / 7 units; formats {'scenario': 16, 'numeric': 4, 'recall': 28, 'oddoneout': 1, 'management': 3}
 Ch21: 44 questions / 3 units; formats {'recall': 26, 'scenario': 7, 'numeric': 6, 'management': 3, 'oddoneout': 2}
 Ch22: 52 questions / 3 units; formats {'recall': 38, 'scenario': 2, 'oddoneout': 2, 'numeric': 5, 'management': 5}
 Ch23: 26 questions / 2 units; formats {'recall': 18, 'scenario': 3, 'numeric': 2, 'management': 3}
 Ch24: 36 questions / 2 units; formats {'recall': 27, 'oddoneout': 2, 'numeric': 4, 'management': 3}
 Ch25: 11 questions / 1 units; formats {'recall': 6, 'numeric': 2, 'scenario': 3}
 Ch26: 80 questions / 4 units; formats {'numeric': 8, 'recall': 58, 'scenario': 9, 'management': 5}
-PASS: schema, book/unit order, 936 inventoried points, full unit coverage
+PASS: schema, book/unit order, 1204 inventoried points, full unit coverage
+
+== python3 -m unittest discover -s tests -v ==
+test_fillup (test_content.ContentGateTests.test_fillup) ... ok
+test_guide_lines (test_content.ContentGateTests.test_guide_lines) ... ok
+test_ledger (test_content.ContentGateTests.test_ledger) ... ok
+test_missing_unit (test_content.ContentGateTests.test_missing_unit) ... ok
+test_page_order (test_content.ContentGateTests.test_page_order) ... ok
+test_schema_mutations (test_content.ContentGateTests.test_schema_mutations) ... ok
+test_true_false_balance (test_content.ContentGateTests.test_true_false_balance) ... ok
+test_unit_order (test_content.ContentGateTests.test_unit_order) ... ok
+test_valid (test_content.ContentGateTests.test_valid) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.024s
+
+OK
+
+== python3 build_content.py ==
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 1096 questions + 5 rejection controls
+Ch1: 49 questions / 7 units; formats {'match': 17, 'fillup': 9, 'recall': 5, 'numeric': 4, 'oddoneout': 5, 'truefalse': 6, 'scenario': 3}
+Ch2: 37 questions / 5 units; formats {'recall': 4, 'scenario': 8, 'numeric': 5, 'fillup': 10, 'truefalse': 3, 'oddoneout': 2, 'match': 5}
+Ch3: 38 questions / 4 units; formats {'fillup': 10, 'scenario': 7, 'match': 5, 'numeric': 4, 'truefalse': 2, 'management': 1, 'recall': 6, 'oddoneout': 3}
+Ch4: 35 questions / 4 units; formats {'recall': 4, 'oddoneout': 1, 'management': 2, 'fillup': 9, 'truefalse': 3, 'scenario': 10, 'numeric': 5, 'match': 1}
+Ch5: 52 questions / 5 units; formats {'numeric': 8, 'recall': 9, 'fillup': 6, 'scenario': 11, 'match': 5, 'truefalse': 4, 'oddoneout': 4, 'management': 5}
+Ch6: 33 questions / 4 units; formats {'numeric': 6, 'fillup': 5, 'recall': 6, 'match': 3, 'scenario': 6, 'truefalse': 2, 'oddoneout': 1, 'management': 4}
+Ch7: 36 questions / 3 units; formats {'fillup': 6, 'match': 3, 'scenario': 5, 'numeric': 6, 'recall': 5, 'oddoneout': 4, 'management': 4, 'truefalse': 3}
+Ch8: 14 questions / 2 units; formats {'recall': 3, 'oddoneout': 1, 'fillup': 2, 'match': 2, 'truefalse': 2, 'scenario': 2, 'management': 2}
+Ch9: 64 questions / 4 units; formats {'scenario': 24, 'recall': 32, 'oddoneout': 3, 'numeric': 4, 'management': 1}
+Ch10: 29 questions / 3 units; formats {'recall': 17, 'scenario': 12}
+Ch11: 72 questions / 4 units; formats {'recall': 33, 'numeric': 11, 'scenario': 24, 'management': 3, 'oddoneout': 1}
+Ch12: 47 questions / 3 units; formats {'recall': 26, 'scenario': 13, 'management': 2, 'numeric': 5, 'oddoneout': 1}
+Ch13: 23 questions / 2 units; formats {'recall': 16, 'scenario': 5, 'oddoneout': 1, 'management': 1}
+Ch14: 18 questions / 2 units; formats {'recall': 15, 'numeric': 1, 'scenario': 1, 'oddoneout': 1}
+Ch15: 32 questions / 3 units; formats {'numeric': 3, 'recall': 23, 'scenario': 6}
+Ch16: 74 questions / 7 units; formats {'recall': 34, 'oddoneout': 2, 'scenario': 16, 'numeric': 14, 'management': 8}
+Ch17: 35 questions / 4 units; formats {'recall': 12, 'numeric': 8, 'scenario': 12, 'management': 3}
+Ch18: 50 questions / 7 units; formats {'scenario': 19, 'recall': 27, 'numeric': 1, 'management': 3}
+Ch19: 57 questions / 7 units; formats {'recall': 34, 'scenario': 18, 'numeric': 2, 'management': 3}
+Ch20: 52 questions / 7 units; formats {'scenario': 16, 'numeric': 4, 'recall': 28, 'oddoneout': 1, 'management': 3}
+Ch21: 44 questions / 3 units; formats {'recall': 26, 'scenario': 7, 'numeric': 6, 'management': 3, 'oddoneout': 2}
+Ch22: 52 questions / 3 units; formats {'recall': 38, 'scenario': 2, 'oddoneout': 2, 'numeric': 5, 'management': 5}
+Ch23: 26 questions / 2 units; formats {'recall': 18, 'scenario': 3, 'numeric': 2, 'management': 3}
+Ch24: 36 questions / 2 units; formats {'recall': 27, 'oddoneout': 2, 'numeric': 4, 'management': 3}
+Ch25: 11 questions / 1 units; formats {'recall': 6, 'numeric': 2, 'scenario': 3}
+Ch26: 80 questions / 4 units; formats {'numeric': 8, 'recall': 58, 'scenario': 9, 'management': 5}
+PASS: schema, book/unit order, 1204 inventoried points, full unit coverage
+Embedded 1096 questions and 102 units across 26 live chapter(s) of 57 roadmap chapters in pulse-medicine.html.
+
+== python3 validate_content.py --embedded ==
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 1096 questions + 5 rejection controls
+Ch1: 49 questions / 7 units; formats {'match': 17, 'fillup': 9, 'recall': 5, 'numeric': 4, 'oddoneout': 5, 'truefalse': 6, 'scenario': 3}
+Ch2: 37 questions / 5 units; formats {'recall': 4, 'scenario': 8, 'numeric': 5, 'fillup': 10, 'truefalse': 3, 'oddoneout': 2, 'match': 5}
+Ch3: 38 questions / 4 units; formats {'fillup': 10, 'scenario': 7, 'match': 5, 'numeric': 4, 'truefalse': 2, 'management': 1, 'recall': 6, 'oddoneout': 3}
+Ch4: 35 questions / 4 units; formats {'recall': 4, 'oddoneout': 1, 'management': 2, 'fillup': 9, 'truefalse': 3, 'scenario': 10, 'numeric': 5, 'match': 1}
+Ch5: 52 questions / 5 units; formats {'numeric': 8, 'recall': 9, 'fillup': 6, 'scenario': 11, 'match': 5, 'truefalse': 4, 'oddoneout': 4, 'management': 5}
+Ch6: 33 questions / 4 units; formats {'numeric': 6, 'fillup': 5, 'recall': 6, 'match': 3, 'scenario': 6, 'truefalse': 2, 'oddoneout': 1, 'management': 4}
+Ch7: 36 questions / 3 units; formats {'fillup': 6, 'match': 3, 'scenario': 5, 'numeric': 6, 'recall': 5, 'oddoneout': 4, 'management': 4, 'truefalse': 3}
+Ch8: 14 questions / 2 units; formats {'recall': 3, 'oddoneout': 1, 'fillup': 2, 'match': 2, 'truefalse': 2, 'scenario': 2, 'management': 2}
+Ch9: 64 questions / 4 units; formats {'scenario': 24, 'recall': 32, 'oddoneout': 3, 'numeric': 4, 'management': 1}
+Ch10: 29 questions / 3 units; formats {'recall': 17, 'scenario': 12}
+Ch11: 72 questions / 4 units; formats {'recall': 33, 'numeric': 11, 'scenario': 24, 'management': 3, 'oddoneout': 1}
+Ch12: 47 questions / 3 units; formats {'recall': 26, 'scenario': 13, 'management': 2, 'numeric': 5, 'oddoneout': 1}
+Ch13: 23 questions / 2 units; formats {'recall': 16, 'scenario': 5, 'oddoneout': 1, 'management': 1}
+Ch14: 18 questions / 2 units; formats {'recall': 15, 'numeric': 1, 'scenario': 1, 'oddoneout': 1}
+Ch15: 32 questions / 3 units; formats {'numeric': 3, 'recall': 23, 'scenario': 6}
+Ch16: 74 questions / 7 units; formats {'recall': 34, 'oddoneout': 2, 'scenario': 16, 'numeric': 14, 'management': 8}
+Ch17: 35 questions / 4 units; formats {'recall': 12, 'numeric': 8, 'scenario': 12, 'management': 3}
+Ch18: 50 questions / 7 units; formats {'scenario': 19, 'recall': 27, 'numeric': 1, 'management': 3}
+Ch19: 57 questions / 7 units; formats {'recall': 34, 'scenario': 18, 'numeric': 2, 'management': 3}
+Ch20: 52 questions / 7 units; formats {'scenario': 16, 'numeric': 4, 'recall': 28, 'oddoneout': 1, 'management': 3}
+Ch21: 44 questions / 3 units; formats {'recall': 26, 'scenario': 7, 'numeric': 6, 'management': 3, 'oddoneout': 2}
+Ch22: 52 questions / 3 units; formats {'recall': 38, 'scenario': 2, 'oddoneout': 2, 'numeric': 5, 'management': 5}
+Ch23: 26 questions / 2 units; formats {'recall': 18, 'scenario': 3, 'numeric': 2, 'management': 3}
+Ch24: 36 questions / 2 units; formats {'recall': 27, 'oddoneout': 2, 'numeric': 4, 'management': 3}
+Ch25: 11 questions / 1 units; formats {'recall': 6, 'numeric': 2, 'scenario': 3}
+Ch26: 80 questions / 4 units; formats {'numeric': 8, 'recall': 58, 'scenario': 9, 'management': 5}
+PASS: schema, book/unit order, 1204 inventoried points, full unit coverage, embedded arrays/live flags

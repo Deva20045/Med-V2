@@ -1,0 +1,1263 @@
+{
+  "chapter": 16,
+  "title": "SLE - Clinical Profile and Management",
+  "pageRange": "458-465",
+  "questions": [
+    {
+      "id": "MED-C16-01",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "recall",
+      "q": "The clinical-features list for SLE opens with which constitutional triad?",
+      "opts": [
+        "Fatigue with weight loss, pyrexia of unknown origin and leucopenia",
+        "Fever with night sweats and generalised lymphadenopathy",
+        "Weight gain, bradycardia and cold intolerance",
+        "Migratory arthralgia, morning stiffness and rash"
+      ],
+      "ans": 0,
+      "exp": "Constitutional symptoms are listed as fatigue and weight loss, pyrexia of unknown origin (PUO) and leucopenia. (Book p458)"
+    },
+    {
+      "id": "MED-C16-02",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "recall",
+      "q": "Which classification is named for dividing the cutaneous lesions of lupus?",
+      "opts": [
+        "Chapel Hill classification of vasculitis",
+        "Gilliam-Sontheimer classification: lupus specific versus lupus non-specific",
+        "Bohan-Peter classification of myositis",
+        "Sapporo classification of antiphospholipid syndrome"
+      ],
+      "ans": 1,
+      "exp": "The cutaneous section opens with the Gilliam-Sontheimer classification into lupus specific and lupus non-specific lesions. (Book p458)"
+    },
+    {
+      "id": "MED-C16-03",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "recall",
+      "q": "Which cutaneous lupus category is marked as the most common (m/c) in the source?",
+      "opts": [
+        "Subacute cutaneous lupus erythematosus (SCLE)",
+        "Lupus panniculitis",
+        "Acute cutaneous lupus erythematosus (ACLE)",
+        "Chronic cutaneous lupus erythematosus (CCLE)"
+      ],
+      "ans": 2,
+      "exp": "ACLE is listed first among lupus-specific lesions and marked (m/c); its localised form (malar rash) is also marked m/c. (Book p458)"
+    },
+    {
+      "id": "MED-C16-04",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "oddoneout",
+      "q": "Which description is least compatible with the page's localised ACLE (malar/butterfly rash)?",
+      "opts": [
+        "Symmetrical, erythematous rash over the malar eminences",
+        "Spares the nasolabial folds",
+        "Highly photosensitive and associated with onset at a younger age",
+        "A scaly, scarring rash that permanently destroys follicles"
+      ],
+      "ans": 3,
+      "exp": "Localised ACLE is symmetrical, erythematous, scaly and NON-scarring (with or without oedema); scarring belongs to discoid/CCLE disease. (Book p458)"
+    },
+    {
+      "id": "MED-C16-05",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "recall",
+      "q": "Besides the malar rash, which mucocutaneous findings are linked to the ACLE block?",
+      "opts": [
+        "Painless oral/nasopharyngeal ulcers and non-scarring alopecia",
+        "Painful oral ulcers and scarring alopecia",
+        "Nasal septal perforation and nasal bridge collapse",
+        "Oesophageal webs and nail pitting"
+      ],
+      "ans": 0,
+      "exp": "The ACLE block associates painless oral/nasopharyngeal ulcers and non-scarring alopecia with the malar rash. (Book p458)"
+    },
+    {
+      "id": "MED-C16-06",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "recall",
+      "q": "How does the source describe the generalised form of ACLE?",
+      "opts": [
+        "It is confined to sun-protected skin",
+        "It spares the knuckles and may present as a TEN-like lupus eruption",
+        "It preferentially involves the knuckles with Gottron-like papules",
+        "It is a scarring alopecia of the scalp"
+      ],
+      "ans": 1,
+      "exp": "Generalised ACLE is annotated as sparing the knuckles; the TEN-like lupus image is attached to the same ACLE arm. (Book p458)"
+    },
+    {
+      "id": "MED-C16-07",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 458,
+      "fmt": "recall",
+      "q": "Which triad is attached to SCLE on the classification page?",
+      "opts": [
+        "Anti-centromere positivity, pulmonary hypertension and CREST",
+        "Anti-Jo-1 positivity, mechanic's hands and ILD",
+        "Anti-Ro/La positivity, HLA-DR3 association and photosensitivity",
+        "Anti-dsDNA positivity, low complement and nephritis"
+      ],
+      "ans": 2,
+      "exp": "SCLE is listed with anti-Ro/La (+), association with HLA DR3 and photosensitivity. (Book p458)"
+    },
+    {
+      "id": "MED-C16-08",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "scenario",
+      "q": "A patient being worked up for SLE has a facial rash that involves the nasolabial fold. Which diagnosis does the source's note raise?",
+      "opts": [
+        "Acute cutaneous lupus erythematosus",
+        "Subacute cutaneous lupus erythematosus",
+        "Chronic discoid lupus erythematosus",
+        "Acne rosacea (the note also lists dermatomyositis)"
+      ],
+      "ans": 3,
+      "exp": "The note lists rash involving the nasolabial fold under acne rosacea (a) and dermatomyositis (b); SLE malar rash spares the nasolabial fold. (Book p459)"
+    },
+    {
+      "id": "MED-C16-09",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "numeric",
+      "q": "The discoid-lupus note is printed as a '5/20 rule'. Which pairing matches it?",
+      "opts": [
+        "5% of patients with discoid rash have SLE; 20% of patients with SLE have discoid rash",
+        "50% of patients with discoid rash have SLE; 2% of patients with SLE have discoid rash",
+        "5% of patients with SLE have discoid rash; 20% of patients with discoid rash have SLE",
+        "15% of patients with discoid rash have SLE; 25% of patients with SLE have discoid rash"
+      ],
+      "ans": 0,
+      "exp": "The 5/20 rule: 5% of patients with discoid rash have SLE and 20% of patients with SLE have a discoid rash. (Book p459)"
+    },
+    {
+      "id": "MED-C16-10",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "scenario",
+      "q": "A scarring, circular, raised erythematous plaque on the scalp shows follicular plugging, keratotic scaling and dermal atrophy on biopsy. Which long-term risk does the source attach?",
+      "opts": [
+        "Conversion to acute cutaneous lupus",
+        "Progression to squamous cell carcinoma",
+        "Transformation to diffuse large B-cell lymphoma",
+        "Development of systemic vasculitis"
+      ],
+      "ans": 1,
+      "exp": "CCLE/discoid rash: circular raised erythematous patching with scarring; biopsy shows follicular plugging, keratotic scaling and dermal atrophy; there is a risk of progression to squamous cell carcinoma. (Book p459)"
+    },
+    {
+      "id": "MED-C16-11",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "recall",
+      "q": "Which alopecia type is paired with discoid lupus on this page?",
+      "opts": [
+        "Alopecia areata",
+        "Traction alopecia",
+        "Cicatricial (scarring) alopecia",
+        "Non-scarring alopecia"
+      ],
+      "ans": 2,
+      "exp": "CCLE is associated with cicatricial (scarring) alopecia, shown with the carpet-track sign of DLE. (Book p459)"
+    },
+    {
+      "id": "MED-C16-12",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "scenario",
+      "q": "A patient with SCLE has a psoriasiform rash pattern. According to the source, which implication follows?",
+      "opts": [
+        "Lower rate of conversion to SLE",
+        "Guaranteed renal involvement",
+        "No relationship to systemic disease",
+        "Higher rate of conversion to SLE"
+      ],
+      "ans": 3,
+      "exp": "SCLE patterns listed are annular and psoriasiform, the latter marked with increased conversion to SLE. (Book p459)"
+    },
+    {
+      "id": "MED-C16-13",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "recall",
+      "q": "Which statement about SCLE epidemiology and serology matches the source?",
+      "opts": [
+        "About 20% of patients with SCLE have SLE, more often in the white population, with anti-Ro and less renal involvement",
+        "About 20% of patients with SLE have SCLE, with anti-dsDNA and severe nephritis",
+        "SCLE never occurs without systemic SLE",
+        "SCLE is associated with anti-centromere and pulmonary hypertension"
+      ],
+      "ans": 0,
+      "exp": "SCLE: 20% of patients with SCLE have SLE, white population, association with HLA DR3, anti-Ro with reduced renal involvement. (Book p459)"
+    },
+    {
+      "id": "MED-C16-14",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "page": 459,
+      "fmt": "recall",
+      "q": "Which lesion is listed under lupus NON-specific skin disease on this page?",
+      "opts": [
+        "Subacute cutaneous lupus erythematosus",
+        "Lupus panniculitis (profundus) with subcutaneous tender erythematous nodules",
+        "Acute cutaneous lupus erythematosus",
+        "Discoid lupus erythematosus"
+      ],
+      "ans": 1,
+      "exp": "Lupus non-specific lesions listed are chilblain lupus and lupus panniculitis/profundus (subcutaneous, tender erythematous nodules). (Book p459)"
+    },
+    {
+      "id": "MED-C16-15",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "scenario",
+      "q": "A referral letter describes a patient as having 'lupus pernio' and the team clarifies the terminology. Which note does the source print?",
+      "opts": [
+        "Both terms describe discoid lupus variants",
+        "Both terms describe SLE vasculitis",
+        "Lupus pernio is sarcoidosis; lupus vulgaris is tuberculosis",
+        "Lupus pernio is tuberculosis; lupus vulgaris is sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "The note states lupus pernio is sarcoidosis and lupus vulgaris is TB. (Book p460)"
+    },
+    {
+      "id": "MED-C16-16",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "recall",
+      "q": "Which system is flagged as the most commonly involved in SLE, and what is the typical joint pattern?",
+      "opts": [
+        "Renal: glomerular disease dominates the presentation",
+        "Neurological: seizures dominate the presentation",
+        "Pulmonary: interstitial disease dominates the presentation",
+        "Musculoskeletal: small joints of the upper limb much more than the lower limb, wrist involved"
+      ],
+      "ans": 3,
+      "exp": "Musculoskeletal manifestations are marked (m/c system involved); the site is upper limb >> lower limb with small-joint and wrist involvement progressing to arthritis. (Book p460)"
+    },
+    {
+      "id": "MED-C16-17",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "scenario",
+      "q": "A patient with SLE has reducible, deforming hand deformities with non-erosive arthritis on imaging. Which term and mechanism does the source use?",
+      "opts": [
+        "Jaccoud arthropathy due to ligament laxity (also seen in Sjogren's)",
+        "Rhupus due to anti-CCP positive erosive disease",
+        "Septic arthritis due to immunosuppression",
+        "Avascular necrosis due to corticosteroid therapy"
+      ],
+      "ans": 0,
+      "exp": "SLE arthritis is non-erosive and deforming from ligament laxity, producing Jaccoud arthropathy, which is also seen in Sjogren syndrome. (Book p460)"
+    },
+    {
+      "id": "MED-C16-18",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "recall",
+      "q": "Erosive arthritis with a positive anti-CCP antibody in a patient with SLE is labelled:",
+      "opts": [
+        "Psoriatic arthropathy",
+        "Rhupus (RA/SLE overlap)",
+        "Jaccoud arthropathy",
+        "Palindromic rheumatism"
+      ],
+      "ans": 1,
+      "exp": "SLE with erosive arthritis is labelled Rhupus (RA/SLE overlap) and anti-CCP is positive. (Book p460)"
+    },
+    {
+      "id": "MED-C16-19",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "scenario",
+      "q": "A patient on treatment for SLE develops a single hot joint that is involved out of proportion to the rest. Which complication is most feared here?",
+      "opts": [
+        "Avascular necrosis",
+        "Jaccoud arthropathy",
+        "Septic arthritis",
+        "Crystal arthropathy"
+      ],
+      "ans": 2,
+      "exp": "Under complications, septic arthritis is the concern in a patient on SLE treatment with a single joint involved out of proportion; the monoarthritis note lists crystal arthropathy and septic arthritis in the differential. (Book p460)"
+    },
+    {
+      "id": "MED-C16-20",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "scenario",
+      "q": "Three months into SLE treatment a patient develops acute joint pain. Which investigation does the source mark as the investigation of choice?",
+      "opts": [
+        "Plain radiograph for erosions",
+        "Joint aspiration for crystals only",
+        "Ultrasound for synovitis",
+        "MRI for avascular necrosis"
+      ],
+      "ans": 3,
+      "exp": "Avascular necrosis presents as acute joint pain after about three months of disease; MRI is marked as the investigation of choice. (Book p460)"
+    },
+    {
+      "id": "MED-C16-21",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "scenario",
+      "q": "A patient with SLE has fatigue, a malar rash and wrist synovitis but no kidney, lung or CNS involvement. How does the source classify this pattern?",
+      "opts": [
+        "Non-organ/life-threatening SLE",
+        "Organ-threatening SLE",
+        "Rhupus overlap syndrome",
+        "Lupus nephritis equivalent"
+      ],
+      "ans": 0,
+      "exp": "SLE with constitutional, skin and joint involvement is labelled non-organ/life-threatening SLE, in contrast to organ-system involvement which carries a bad prognosis. (Book p460)"
+    },
+    {
+      "id": "MED-C16-22",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "numeric",
+      "q": "Which figures are printed for renal involvement and its renal outcome in SLE?",
+      "opts": [
+        "Kidney involved in 25%; about 25% progress to CKD",
+        "Kidney involved in 50-60%; about 10% progress to CKD",
+        "Kidney involved in 10%; about 50-60% progress to CKD",
+        "Kidney involved in 90%; about 50% progress to CKD"
+      ],
+      "ans": 1,
+      "exp": "Organ-system involvement: kidney involved in 50-60%, and 10% progress to CKD. (Book p460)"
+    },
+    {
+      "id": "MED-C16-23",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "recall",
+      "q": "Which cause-of-death pairing is printed for SLE across the disease course?",
+      "opts": [
+        "Renal failure in the first 10 years; malignancy after 10 years",
+        "CNS vasculitis in the first 10 years; renal failure after 10 years",
+        "Infection from immunosuppression in the first 10 years; acute coronary syndrome after 10 years",
+        "Acute coronary syndrome in the first 10 years; infection after 10 years"
+      ],
+      "ans": 2,
+      "exp": "Immunosuppressive therapy leading to infection is the most common cause of death in the first 10 years; acute coronary syndrome is the most common cause of death after 10 years, in keeping with accelerated atherosclerosis being an MI equivalent. (Book p460)"
+    },
+    {
+      "id": "MED-C16-24",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "page": 460,
+      "fmt": "scenario",
+      "q": "A patient with SLE develops acute abdominal pain from mesenteric ischaemia and a week later an ischaemic stroke. Which vascular territory does the source flag as dangerous?",
+      "opts": [
+        "Large vessels: aorta and subclavian",
+        "Capillaries: skin and glomeruli only",
+        "Venous sinuses only",
+        "Medium vessels: mesenteric and CNS"
+      ],
+      "ans": 3,
+      "exp": "Vascular disease is noted in one-third of patients (thrombosis and accelerated atherosclerosis); dangerous vasculitis is medium-vessel, involving mesenteric and CNS vessels. (Book p460)"
+    },
+    {
+      "id": "MED-C16-25",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "recall",
+      "q": "Which anaemia pairing is printed for the RBC line in SLE?",
+      "opts": [
+        "Anaemia of chronic disease is most common; a rapidly progressive anaemia indicates autoimmune haemolytic anaemia",
+        "Iron-deficiency anaemia is most common; a rapidly progressive anaemia indicates marrow aplasia",
+        "Megaloblastic anaemia is most common; a rapidly progressive anaemia indicates haemorrhage",
+        "Sideroblastic anaemia is most common; a rapidly progressive anaemia indicates thalassaemia"
+      ],
+      "ans": 0,
+      "exp": "RBC: anaemia of chronic disease is the most common; rapidly progressive anaemia is autoimmune haemolytic anaemia. (Book p461)"
+    },
+    {
+      "id": "MED-C16-26",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "recall",
+      "q": "Which lymphoma association is attached to the leucopenia note in SLE, and how is it contrasted?",
+      "opts": [
+        "Neither disease raises lymphoma risk",
+        "SLE carries a raised risk of diffuse large B-cell lymphoma; Sjogren carries a raised risk of marginal zone B-cell lymphoma",
+        "SLE carries a raised risk of marginal zone lymphoma; Sjogren carries a raised risk of diffuse large B-cell lymphoma",
+        "Both carry a raised risk of Hodgkin lymphoma"
+      ],
+      "ans": 1,
+      "exp": "WBC: leucopenia/lymphopenia with a raised risk of DLBCL; the note contrasts Sjogren syndrome, which raises the risk of marginal zone B-cell lymphoma. (Book p461)"
+    },
+    {
+      "id": "MED-C16-27",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "recall",
+      "q": "The platelet line of the haematological block is labelled:",
+      "opts": [
+        "Thrombotic thrombocytopenic purpura",
+        "Heparin-induced thrombocytopenia",
+        "Secondary ITP",
+        "Primary ITP"
+      ],
+      "ans": 2,
+      "exp": "Platelet: secondary ITP is listed in the haematological manifestations. (Book p461)"
+    },
+    {
+      "id": "MED-C16-28",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "scenario",
+      "q": "A patient with SLE is assessed for interstitial lung disease. Which source statement governs the expectation?",
+      "opts": [
+        "ILD is the most common pulmonary manifestation of SLE",
+        "Usual interstitial pneumonia is the characteristic SLE pattern",
+        "Pulmonary fibrosis is the leading cause of death in SLE",
+        "The lung parenchyma is spared in SLE, so ILD is not expected"
+      ],
+      "ans": 3,
+      "exp": "The lung block states the lung parenchyma is spared in SLE, therefore there is no ILD; pleuritis and diffuse alveolar haemorrhage dominate instead. (Book p461)"
+    },
+    {
+      "id": "MED-C16-29",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "scenario",
+      "q": "A patient with SLE has pleuritic chest pain and a small bilateral pleural effusion. Which description of SLE pleuritis does the source print?",
+      "opts": [
+        "Most common lung manifestation: small, bilateral, exudative effusion",
+        "Rare: large, unilateral, transudative effusion",
+        "Always complicated by empyema",
+        "Only seen with associated pulmonary embolism"
+      ],
+      "ans": 0,
+      "exp": "Pleuritis is the most common lung manifestation, with or without a small, bilateral, exudative effusion. (Book p461)"
+    },
+    {
+      "id": "MED-C16-30",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "management",
+      "q": "A patient with SLE develops cough, haemoptysis and bilateral air-space opacification on the chest radiograph. What does the source require?",
+      "opts": [
+        "Diuresis for hydrostatic pulmonary oedema",
+        "Active immunosuppression for diffuse alveolar haemorrhage",
+        "Stopping immunosuppression because the likely cause is viral or tuberculous infection",
+        "Anticoagulation for pulmonary embolism"
+      ],
+      "ans": 1,
+      "exp": "Cough, haemoptysis and bilateral air-space opacification indicate diffuse alveolar haemorrhage, which requires active immunosuppression; the contrasting branch (viral/TB) is managed by stopping immunosuppression. (Book p461)"
+    },
+    {
+      "id": "MED-C16-31",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "recall",
+      "q": "Why is diffuse alveolar haemorrhage emphasised in the lung block?",
+      "opts": [
+        "It is the commonest cause of pulmonary hypertension in SLE",
+        "It indicates coexistent antiphospholipid syndrome",
+        "It has a poor prognosis and is the most important marker of SLE disease activity in the lung",
+        "It is benign and needs no treatment"
+      ],
+      "ans": 2,
+      "exp": "DAH is flagged as carrying a poor prognosis and as the most important marker of SLE disease activity in the lung. (Book p461)"
+    },
+    {
+      "id": "MED-C16-32",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "numeric",
+      "q": "Which biomarker pattern is printed for assessing SLE disease activity?",
+      "opts": [
+        "Falling anti-dsDNA, rising C3/C4, raised ESR with raised CRP",
+        "Rising anti-Ro, normal C3/C4, normal ESR",
+        "Rising anti-Smith with a raised CRP and normal ESR",
+        "Rising anti-dsDNA, falling C3/C4, raised ESR with CRP below 10 mg/dL"
+      ],
+      "ans": 3,
+      "exp": "Activity assessment: clinically active disease with new-onset rashes, rising anti-dsDNA titres, falling C3 and C4, and a raised ESR with a low CRP (below 10 mg/dL). (Book p461)"
+    },
+    {
+      "id": "MED-C16-33",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "scenario",
+      "q": "A patient with SLE has central chest pain relieved by leaning forward and a rub on examination, without hypotension. Which cardiac manifestation does the source list as most common?",
+      "opts": [
+        "Pericarditis without tamponade",
+        "Myocarditis with heart block",
+        "Libman-Sacks endocarditis with valve destruction",
+        "Aortic root dilatation"
+      ],
+      "ans": 0,
+      "exp": "Cardiac: pericarditis without tamponade is the most common manifestation; myocarditis is associated with anti-Ro antibody. (Book p461)"
+    },
+    {
+      "id": "MED-C16-34",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "recall",
+      "q": "Where are the vegetations of Libman-Sacks endocarditis located according to the source?",
+      "opts": [
+        "On the chordae of the mitral valve only",
+        "On the undersurface of the valve leaflet",
+        "At the valve commissures only",
+        "On the aortic intima"
+      ],
+      "ans": 1,
+      "exp": "Libman-Sacks endocarditis is described with vegetations on the undersurface of the valve leaflet; mitral regurgitation is the most common valvular lesion. (Book p461)"
+    },
+    {
+      "id": "MED-C16-35",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "scenario",
+      "q": "A patient with SLE is found to have a raised transaminase with a positive autoantibody panel but no abdominal symptoms. Which gastrointestinal and hepatobiliary statements does the source print?",
+      "opts": [
+        "Both the gut and liver are commonly involved with granulomas",
+        "The gut is spared but the pancreas is the target organ",
+        "The gut is generally spared; the hepatobiliary link is type 1 autoimmune (lupoid) hepatitis",
+        "The gut is commonly involved with vasculitis; the liver is never involved"
+      ],
+      "ans": 2,
+      "exp": "GIT: generally spared. Hepatobiliary: type 1 autoimmune hepatitis (lupoid hepatitis). (Book p461)"
+    },
+    {
+      "id": "MED-C16-36",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "page": 461,
+      "fmt": "numeric",
+      "q": "Which thresholds are printed as indications for renal biopsy in SLE?",
+      "opts": [
+        "Proteinuria above 5 g/day only",
+        "Any haematuria, regardless of proteinuria",
+        "Proteinuria above 150 mg/day on a single sample",
+        "Proteinuria above 1 g/day, or proteinuria of at least 500 mg/day with at least 3 RBCs in urine"
+      ],
+      "ans": 3,
+      "exp": "Indications for renal biopsy: proteinuria >1 g/day, or proteinuria ≥500 mg/day plus ≥3 RBCs in urine (microhaematuria). (Book p461)"
+    },
+    {
+      "id": "MED-C16-37",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "page": 462,
+      "fmt": "scenario",
+      "q": "Two biopsies are compared: one shows only mesangial immune-complex deposits with no clinical renal disease, and one shows mesangial proliferation. How does the source pair class with prognosis?",
+      "opts": [
+        "Class I minimal mesangial is asymptomatic with an excellent prognosis; class II mesangial proliferative has a poor prognosis",
+        "Both are class I disease with an excellent prognosis",
+        "Both require active immunosuppression as class III disease",
+        "Both are class V membranous disease with a better prognosis"
+      ],
+      "ans": 0,
+      "exp": "Class I minimal mesangial lupus nephritis shows mesangial immune-complex deposits, is asymptomatic and has an excellent prognosis, whereas class II mesangial proliferative disease is marked as having a poor prognosis. (Book p462)"
+    },
+    {
+      "id": "MED-C16-38",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "page": 462,
+      "fmt": "numeric",
+      "q": "How does the printed table separate class III from class IV lupus nephritis?",
+      "opts": [
+        "Both involve exactly 50% of glomeruli",
+        "Class III is focal with under 50% glomerular involvement; class IV is diffuse with over 50%",
+        "Class III is diffuse with over 90% involvement; class IV is focal with under 50%",
+        "Class III is membranous; class IV is sclerotic"
+      ],
+      "ans": 1,
+      "exp": "Class III focal lupus nephritis has <50% glomerular involvement; class IV diffuse has >50% glomerular involvement. (Book p462)"
+    },
+    {
+      "id": "MED-C16-39",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "page": 462,
+      "fmt": "management",
+      "q": "A biopsy report describes focal lupus nephritis with RPGN. What does the source say about this group?",
+      "opts": [
+        "They respond to ACE inhibition alone",
+        "They require immediate dialysis",
+        "They require active immunosuppression",
+        "They need observation alone"
+      ],
+      "ans": 2,
+      "exp": "Class III focal lupus nephritis is linked with RPGN and the table states these patients require active immunosuppression. (Book p462)"
+    },
+    {
+      "id": "MED-C16-40",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "page": 462,
+      "fmt": "recall",
+      "q": "Which pairing is printed for class V (membranous) lupus nephritis?",
+      "opts": [
+        "Mesangial immune-complex deposits, asymptomatic, excellent prognosis",
+        "Over 90% glomerular sclerosis with CKD",
+        "Crescents with rapidly progressive glomerulonephritis",
+        "Membranous nephropathy, adult-onset nephrotic syndrome, steroid-resistant, better prognosis"
+      ],
+      "ans": 3,
+      "exp": "Class V shows membranous nephropathy with adult-onset nephrotic syndrome, is resistant to steroid, and carries a better prognosis. (Book p462)"
+    },
+    {
+      "id": "MED-C16-41",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "page": 462,
+      "fmt": "recall",
+      "q": "Which class carries the worst prognosis with over 90% glomerular sclerosis and CKD?",
+      "opts": [
+        "Class VI advanced sclerotic lupus nephritis",
+        "Class I minimal mesangial lupus nephritis",
+        "Class II mesangial proliferative lupus nephritis",
+        "Class V membranous lupus nephritis"
+      ],
+      "ans": 0,
+      "exp": "Class VI advanced sclerotic lupus has >90% glomerular sclerosis and CKD, and is marked as the worst prognosis. (Book p462)"
+    },
+    {
+      "id": "MED-C16-42",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "page": 462,
+      "fmt": "recall",
+      "q": "Which light-microscopy description is printed for class III/IV lupus nephritis?",
+      "opts": [
+        "Normal glomeruli with interstitial fibrosis",
+        "Endocapillary plus mesangial proliferation",
+        "Purely mesangial proliferation without capillary involvement",
+        "Crescentic pauci-immune glomerulonephritis"
+      ],
+      "ans": 1,
+      "exp": "Class III and IV lupus nephritis: HP shows endocapillary plus mesangial proliferation. (Book p462)"
+    },
+    {
+      "id": "MED-C16-43",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 462,
+      "fmt": "recall",
+      "q": "Which immunofluorescence pattern is described in class III/IV lupus nephritis, and what caution is added?",
+      "opts": [
+        "Isolated IgA deposition, as in IgA nephropathy",
+        "Linear IgG along the basement membrane, as in Goodpasture syndrome",
+        "Full-house pattern: IgG, IgA, IgM, C1q and C3 deposits, a pattern also seen in HIV",
+        "Pauci-immune pattern with no deposits"
+      ],
+      "ans": 2,
+      "exp": "IF shows IgG, IgA, IgM, C1q and C3 deposits, the full-house pattern; the note adds that it is also seen in HIV. (Book p462)"
+    },
+    {
+      "id": "MED-C16-44",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 462,
+      "fmt": "recall",
+      "q": "Which electron-microscopy and specific histological findings are printed for class III/IV disease?",
+      "opts": [
+        "Subepithelial spikes only; no specific inclusions",
+        "Mesangial IgA dominance; tubuloreticular inclusions are the most specific",
+        "Podocyte effacement alone; no deposits",
+        "Subendothelial wire-loop deposits with mesangial deposits; hematoxylin bodies of Gross are the most specific"
+      ],
+      "ans": 3,
+      "exp": "EM shows subendothelial (wire loop lesion) and mesangial deposits; hematoxylin bodies of Gross are described as most specific, and tubuloreticular inclusions are also shown. (Book p462)"
+    },
+    {
+      "id": "MED-C16-45",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "recall",
+      "q": "Which CNS manifestation is listed as the most common in SLE, and which vascular risk is added?",
+      "opts": [
+        "Cognitive decline is most common, with a raised stroke risk from antiphospholipid antibodies",
+        "Seizures are most common, with a raised haemorrhage risk from thrombocytopenia",
+        "Psychosis is most common, with a raised risk of CNS lymphoma",
+        "Aseptic meningitis is most common, with a raised risk of venous sinus thrombosis"
+      ],
+      "ans": 0,
+      "exp": "CNS: cognitive decline is the most common manifestation, with a raised risk of stroke due to antiphospholipid antibodies; small-fibre neuropathy and CNS vasculitis are also listed. (Book p463)"
+    },
+    {
+      "id": "MED-C16-46",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "Which weights are printed for the constitutional and arthritis domains?",
+      "opts": [
+        "Neither domain is scored",
+        "Fever scores 2; synovitis or tenderness in at least 2 joints scores 6",
+        "Fever scores 6; synovitis or tenderness in at least 2 joints scores 2",
+        "Fever scores 4; arthritis scores 4"
+      ],
+      "ans": 1,
+      "exp": "Constitutional domain: fever 2. Arthritis domain: synovitis or tenderness in at least 2 joints, 6. (Book p463)"
+    },
+    {
+      "id": "MED-C16-47",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "How is the cutaneous domain weighted in the classification table?",
+      "opts": [
+        "All cutaneous items score 4",
+        "Only acute cutaneous lupus is scored, at 10",
+        "Acute cutaneous lupus 6, SCLE or discoid lupus 4, oral ulcers 2 and non-scarring alopecia 2",
+        "Acute cutaneous lupus 2, SCLE or discoid lupus 4, oral ulcers 6 and non-scarring alopecia 6"
+      ],
+      "ans": 2,
+      "exp": "Cutaneous domain: non-scarring alopecia 2, oral ulcers 2, subacute cutaneous or discoid lupus 4 and acute cutaneous lupus 6. (Book p463)"
+    },
+    {
+      "id": "MED-C16-48",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "recall",
+      "q": "Which neurological weights are printed in the clinical domains column?",
+      "opts": [
+        "Delirium 5, psychosis 3, seizure 2",
+        "Delirium 3, psychosis 5, seizure 2",
+        "All neurological items score 6",
+        "Delirium 2, psychosis 3, seizure 5"
+      ],
+      "ans": 3,
+      "exp": "Neurologic domain: delirium 2, psychosis 3, seizure 5. (Book p463)"
+    },
+    {
+      "id": "MED-C16-49",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "How is the serositis domain weighted in the classification table?",
+      "opts": [
+        "Pleural or pericardial effusion 5; acute pericarditis 6",
+        "Pleural or pericardial effusion 6; acute pericarditis 5",
+        "Both serositis items score 5",
+        "Both serositis items score 6"
+      ],
+      "ans": 0,
+      "exp": "Serositis domain: pleural or pericardial effusion 5 and acute pericarditis 6. (Book p463)"
+    },
+    {
+      "id": "MED-C16-50",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "How are the haematologic domain items weighted?",
+      "opts": [
+        "Only autoimmune haemolysis is scored, at 6",
+        "Leukopenia 3, thrombocytopenia 4, autoimmune haemolysis 4",
+        "Leukopenia 4, thrombocytopenia 3, autoimmune haemolysis 3",
+        "All haematologic items score 4"
+      ],
+      "ans": 1,
+      "exp": "Haematologic domain: leukopenia 3, thrombocytopenia 4, autoimmune haemolysis 4. (Book p463)"
+    },
+    {
+      "id": "MED-C16-51",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "Which renal-domain weights are printed in the classification table?",
+      "opts": [
+        "All renal items score 4",
+        "All renal items score 10",
+        "Proteinuria above 0.5 g/24 h scores 4; class II or V lupus nephritis 8; class III or IV lupus nephritis 10",
+        "Proteinuria above 0.5 g/24 h scores 10; class II or V scores 4; class III or IV scores 2"
+      ],
+      "ans": 2,
+      "exp": "Renal domain: proteinuria >0.5 g/24 hr = 4 points; class II or V lupus nephritis = 8; class III or IV lupus nephritis = 10. (Book p463)"
+    },
+    {
+      "id": "MED-C16-52",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "How is the antiphospholipid-antibody domain scored in the immunologic column?",
+      "opts": [
+        "6 points for any antiphospholipid antibody",
+        "4 points only when lupus anticoagulant is present",
+        "It is not scored in this table",
+        "2 points for anticardiolipin IgG above 40 GPL, anti-beta-2 glycoprotein I IgG above 40 units, or lupus anticoagulant"
+      ],
+      "ans": 3,
+      "exp": "Antiphospholipid antibody domain: anticardiolipin IgG >40 GPL, or anti-β2 glycoprotein I IgG >40 units, or lupus anticoagulant scores 2. (Book p463)"
+    },
+    {
+      "id": "MED-C16-53",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "Which immunologic-domain weights are printed for complement and highly specific antibodies?",
+      "opts": [
+        "Low C3 or low C4 scores 3, low C3 and low C4 scores 4, anti-dsDNA and anti-Sm each score 6",
+        "Low C3 or low C4 scores 6, both low scores 8, anti-dsDNA and anti-Sm each score 3",
+        "All immunologic items score 2",
+        "Complement scores are not weighted"
+      ],
+      "ans": 0,
+      "exp": "Complement proteins domain: low C3 or low C4 = 3; low C3 and low C4 = 4. Highly specific antibodies domain: anti-dsDNA = 6 and anti-Sm = 6. (Book p463)"
+    },
+    {
+      "id": "MED-C16-54",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "numeric",
+      "q": "What are the entry criterion and the classification threshold printed with the criteria table?",
+      "opts": [
+        "Low complement and at least 12 points",
+        "ANA at least 1:80 as the entry criterion and at least 10 points to be classified as SLE",
+        "ANA at least 1:160 and at least 6 points",
+        "Anti-dsDNA positivity and at least 4 points"
+      ],
+      "ans": 1,
+      "exp": "The table notes that all patients classified as having SLE must have ANA ≥1:80 (entry criterion) and patients must have ≥10 points to be classified as SLE. (Book p463)"
+    },
+    {
+      "id": "MED-C16-55",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "page": 463,
+      "fmt": "recall",
+      "q": "Which caution is printed beside the classification table?",
+      "opts": [
+        "A negative ANA still allows classification",
+        "Fewer than 10 points still allows classification",
+        "Classification criteria are not diagnostic criteria",
+        "Classification criteria replace the need for ANA testing"
+      ],
+      "ans": 2,
+      "exp": "The note states that classification criteria are not diagnostic criteria. (Book p463)"
+    },
+    {
+      "id": "MED-C16-56",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "recall",
+      "q": "What defines the target in the treat-to-target loop printed at the top of the management page?",
+      "opts": [
+        "Normalisation of anti-dsDNA alone",
+        "Discontinuation of all therapy within 3 months",
+        "Achievement of a SLEDAI above 10",
+        "SLE Disease Activity Index (SLEDAI) driven to 0 as the indicator of remission"
+      ],
+      "ans": 3,
+      "exp": "Treat to target: SLE diagnosis to active disease to initial treatment to remission; the target is the SLE Disease Activity Index (SLEDAI) to 0, which is the indicator of remission. (Book p464)"
+    },
+    {
+      "id": "MED-C16-57",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "management",
+      "q": "A patient with SLE has only constitutional symptoms. What initial therapy is printed?",
+      "opts": [
+        "Hydroxychloroquine with observation",
+        "Pulse intravenous methylprednisolone",
+        "Intravenous cyclophosphamide",
+        "Rituximab"
+      ],
+      "ans": 0,
+      "exp": "Initial Rx: constitutional symptoms are managed with HCQ (hydroxychloroquine) and observation. (Book p464)"
+    },
+    {
+      "id": "MED-C16-58",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "management",
+      "q": "Which regimen is printed for non-life-threatening SLE?",
+      "opts": [
+        "Methotrexate monotherapy",
+        "Low-dose steroid below 7.5 mg/day plus hydroxychloroquine 5 mg/kg/day",
+        "High-dose steroid 1 mg/kg/day plus cyclophosphamide",
+        "Belimumab monotherapy"
+      ],
+      "ans": 1,
+      "exp": "Non-life-threatening SLE: low-dose steroid (<7.5 mg/day) plus HCQ 5 mg/kg/day. (Book p464)"
+    },
+    {
+      "id": "MED-C16-59",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "scenario",
+      "q": "A patient with SLE on hydroxychloroquine is reviewed for long-term toxicity. Which monitoring investigation does the source attach to this drug?",
+      "opts": [
+        "Annual echocardiography for cardiomyopathy",
+        "Nerve-conduction studies for neuropathy",
+        "Optical coherence tomography to look for retinal toxicity",
+        "Serial audiometry for ototoxicity"
+      ],
+      "ans": 2,
+      "exp": "Optical coherence tomography (OCT) is listed to look for retinal toxicity during HCQ therapy. (Book p464)"
+    },
+    {
+      "id": "MED-C16-60",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "numeric",
+      "q": "What pulse steroid regimen is printed for life-threatening or organ-threatening SLE?",
+      "opts": [
+        "Methylprednisolone 100 mg daily for 3 days",
+        "Dexamethasone 40 mg weekly for 4 weeks",
+        "Hydrocortisone 100 mg three times daily for 10 days",
+        "Methylprednisolone 500 mg to 1 g in 100 ml normal saline over 1-2 hours, pulsed for 3 days"
+      ],
+      "ans": 3,
+      "exp": "IV steroid: methylprednisolone 500 mg to 1 g IV infusion in 100 ml normal saline over 1-2 hours, given as a pulse for 3 days. (Book p464)"
+    },
+    {
+      "id": "MED-C16-61",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "management",
+      "q": "After the intravenous pulse for organ-threatening SLE, what oral regimen follows?",
+      "opts": [
+        "Oral steroid 1 mg/kg/day tapered over 3 months down to 5 mg/day",
+        "Oral steroid 1 mg/kg/day continued for 12 months without taper",
+        "Oral steroid stopped immediately",
+        "Oral steroid 0.1 mg/kg/day for one week"
+      ],
+      "ans": 0,
+      "exp": "The pulse is followed by oral steroid 1 mg/kg/day, tapered over 3 months to 5 mg/day. (Book p464)"
+    },
+    {
+      "id": "MED-C16-62",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "recall",
+      "q": "Which steroid-sparing induction options are listed alongside the intravenous steroid?",
+      "opts": [
+        "Tacrolimus monotherapy",
+        "Oral mycophenolate mofetil 2-3 g/day or intravenous cyclophosphamide 500 mg in two doses two weeks apart",
+        "Azathioprine 50 mg/day only",
+        "Methotrexate 25 mg weekly only"
+      ],
+      "ans": 1,
+      "exp": "Alongside IV steroid: oral MMF (mycophenolate mofetil) 2-3 g/day or IV cyclophosphamide 500 mg, two doses two weeks apart. (Book p464)"
+    },
+    {
+      "id": "MED-C16-63",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "scenario",
+      "q": "A patient who received cyclophosphamide for lupus nephritis is counselled about long-term risks. Which adverse effects does the source list?",
+      "opts": [
+        "Ototoxicity and nephrotoxicity",
+        "Retinal toxicity and peripheral neuropathy",
+        "Secondary malignancy (AML) and gonadal toxicity",
+        "Pulmonary fibrosis and cardiomyopathy"
+      ],
+      "ans": 2,
+      "exp": "Adverse effects with long-term cyclophosphamide use: secondary malignancy (AML) and gonadal toxicity. (Book p464)"
+    },
+    {
+      "id": "MED-C16-64",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 464,
+      "fmt": "recall",
+      "q": "How is remission judged in the printed management algorithm?",
+      "opts": [
+        "By anti-dsDNA alone after one week",
+        "By complement levels alone after one month",
+        "By ESR measured daily",
+        "By SLEDAI assessment after more than 3 months"
+      ],
+      "ans": 3,
+      "exp": "The algorithm states: assess remission after more than 3 months using the SLEDAI index. (Book p464)"
+    },
+    {
+      "id": "MED-C16-65",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 465,
+      "fmt": "management",
+      "q": "What maintenance regimen is printed once remission is achieved?",
+      "opts": [
+        "Steroid below 7.5 mg/day plus mycophenolate mofetil 1 g/day or azathioprine for 2-3 years",
+        "Steroid 30 mg/day indefinitely",
+        "Cyclophosphamide monthly for 5 years",
+        "No treatment at all"
+      ],
+      "ans": 0,
+      "exp": "Maintenance Rx: steroid (<7.5 mg/day) plus MMF (1 g/day) or azathioprine for 2-3 years. (Book p465)"
+    },
+    {
+      "id": "MED-C16-66",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 465,
+      "fmt": "recall",
+      "q": "Which steroid-sparing agent is named for maintenance therapy in SLE?",
+      "opts": [
+        "Voclosporin",
+        "Belimumab",
+        "Rituximab",
+        "Anifrolumab"
+      ],
+      "ans": 1,
+      "exp": "Belimumab is listed as the steroid-sparing agent in the maintenance block. (Book p465)"
+    },
+    {
+      "id": "MED-C16-67",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 465,
+      "fmt": "management",
+      "q": "Maintenance therapy fails to produce remission after more than three monthly assessments. Which escalation is printed next?",
+      "opts": [
+        "Add plasma exchange immediately",
+        "Double the corticosteroid dose indefinitely",
+        "Switch to cyclophosphamide",
+        "Stop all immunosuppression"
+      ],
+      "ans": 2,
+      "exp": "The flowchart takes the no-remission (>3 months) branch to switching to cyclophosphamide, and if there is still no response the case is labelled refractory lupus. (Book p465)"
+    },
+    {
+      "id": "MED-C16-68",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 465,
+      "fmt": "recall",
+      "q": "Which agents are listed for refractory lupus?",
+      "opts": [
+        "Methotrexate, sulfasalazine and hydroxychloroquine only",
+        "Cyclophosphamide and azathioprine only",
+        "Intravenous immunoglobulin and ciclosporin only",
+        "Rituximab, voclosporin with MMF, belimumab (anti-BLyS) and anifrolumab (anti type I interferon)"
+      ],
+      "ans": 3,
+      "exp": "Refractory lupus: rituximab, voclosporin (a calcineurin inhibitor) with MMF, belimumab (anti-BLyS) and anifrolumab (anti type I interferon). (Book p465)"
+    },
+    {
+      "id": "MED-C16-69",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 465,
+      "fmt": "management",
+      "q": "A patient with refractory lupus has diffuse alveolar haemorrhage with CNS vasculitis. Which additional therapy does the source list?",
+      "opts": [
+        "Plasma exchange",
+        "Splenectomy",
+        "Intravenous immunoglobulin alone",
+        "Thrombopoietin-receptor agonist"
+      ],
+      "ans": 0,
+      "exp": "The refractory-lupus block adds that plasma exchange is done if DAH or CNS vasculitis is present. (Book p465)"
+    },
+    {
+      "id": "MED-C16-70",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "page": 465,
+      "fmt": "recall",
+      "q": "Which goals of therapy are printed at the end of the lupus treatment sequence?",
+      "opts": [
+        "Normalisation of ESR and CRP only",
+        "Asymptomatic, normal urine, normal complement and no fever or cytopenias",
+        "Normal anti-dsDNA titre only",
+        "Complete withdrawal of hydroxychloroquine"
+      ],
+      "ans": 1,
+      "exp": "Goals of Rx: asymptomatic, urine normal, complement normal, and no fever and no cytopenias. (Book p465)"
+    },
+    {
+      "id": "MED-C16-71",
+      "sec": "Drug Induced Lupus",
+      "page": 465,
+      "fmt": "recall",
+      "q": "Which mnemonic is printed for drugs causing drug-induced lupus?",
+      "opts": [
+        "SHAM: sulfasalazine, hydralazine, allopurinol, minocycline",
+        "PIMP: penicillin, isoniazid, methyldopa, phenytoin",
+        "CHImP: carbamazepine, chlorpromazine, hydralazine, isoniazid, interferon, infliximab, methyldopa, procainamide, phenytoin",
+        "ABCDE: amiodarone, bleomycin, cyclophosphamide, dapsone, ethambutol"
+      ],
+      "ans": 2,
+      "exp": "The CHImP mnemonic lists carbamazepine, chlorpromazine, hydralazine, isoniazid, interferon, infliximab, methyldopa, procainamide and phenytoin. (Book p465)"
+    },
+    {
+      "id": "MED-C16-72",
+      "sec": "Drug Induced Lupus",
+      "page": 465,
+      "fmt": "recall",
+      "q": "Which serological profile is printed for drug-induced lupus?",
+      "opts": [
+        "Anti-dsDNA positive, antihistone negative and ANA negative",
+        "Anti-Sm positive with low complement",
+        "Anti-Ro positive with ANA negative",
+        "Anti-dsDNA negative, antihistone positive and ANA positive in 100% of cases"
+      ],
+      "ans": 3,
+      "exp": "Clinical features: M = F, CNS and renal not involved, anti-dsDNA negative, antihistone antibody positive, ANA positive in 100% and skin plus joint involvement. (Book p465)"
+    },
+    {
+      "id": "MED-C16-73",
+      "sec": "Drug Induced Lupus",
+      "page": 465,
+      "fmt": "oddoneout",
+      "q": "Which feature is least compatible with the source's drug-induced lupus profile?",
+      "opts": [
+        "Immune-complex glomerulonephritis with a rising anti-dsDNA titre",
+        "Skin and joint involvement",
+        "Equal sex incidence",
+        "Good prognosis after withdrawing the offending drug"
+      ],
+      "ans": 0,
+      "exp": "Drug-induced lupus spares the CNS and kidneys and is anti-dsDNA negative; nephritis with a rising anti-dsDNA belongs to SLE. (Book p465)"
+    },
+    {
+      "id": "MED-C16-74",
+      "sec": "Drug Induced Lupus",
+      "page": 465,
+      "fmt": "recall",
+      "q": "Which apparent paradox about these drugs is printed as a note?",
+      "opts": [
+        "These drugs make antihistone antibodies disappear",
+        "Drugs that cause drug-induced lupus are safe to use in patients who already have SLE",
+        "These drugs must never be used in any patient with a positive ANA",
+        "These drugs accelerate lupus nephritis"
+      ],
+      "ans": 1,
+      "exp": "The note states that drugs causing SLE (drug-induced lupus) are safe in lupus patients. (Book p465)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U16-1",
+      "ch": 16,
+      "n": 1,
+      "title": "1. Constitutional & Cutaneous Manifestations",
+      "sec": "Constitutional & Cutaneous Manifestations",
+      "guide": "Constitutional symptoms open the clinical profile; the cutaneous survey follows.\nThe Gilliam-Sontheimer split separates lupus-specific from lupus-non-specific lesions.\nACLE, CCLE and SCLE are then contrasted by rash, site, histology and systemic risk.",
+      "qs": [
+        "MED-C16-01",
+        "MED-C16-02",
+        "MED-C16-03",
+        "MED-C16-04",
+        "MED-C16-05",
+        "MED-C16-06",
+        "MED-C16-07",
+        "MED-C16-08",
+        "MED-C16-09",
+        "MED-C16-10",
+        "MED-C16-11",
+        "MED-C16-12",
+        "MED-C16-13",
+        "MED-C16-14"
+      ]
+    },
+    {
+      "id": "MED-U16-2",
+      "ch": 16,
+      "n": 2,
+      "title": "2. Musculoskeletal, Organ & System Involvement",
+      "sec": "Musculoskeletal, Organ & System Involvement",
+      "guide": "A terminology note separates 'lupus pernio' (sarcoidosis) from 'lupus vulgaris' (TB).\nMusculoskeletal disease is the most commonly involved system and drives the arthritis/AVN complications.\nOrgan-system involvement then sets prognosis and the causes of death by disease decade.",
+      "qs": [
+        "MED-C16-15",
+        "MED-C16-16",
+        "MED-C16-17",
+        "MED-C16-18",
+        "MED-C16-19",
+        "MED-C16-20",
+        "MED-C16-21",
+        "MED-C16-22",
+        "MED-C16-23",
+        "MED-C16-24"
+      ]
+    },
+    {
+      "id": "MED-U16-3",
+      "ch": 16,
+      "n": 3,
+      "title": "3. Haematological, Lung, Cardiac, GI & Renal",
+      "sec": "Haematological, Lung, Cardiac, GI & Renal",
+      "guide": "Cytopenias are separated by cell line and by their lymphoma associations.\nLung disease is dominated by pleuritis and diffuse alveolar haemorrhage because the parenchyma is spared.\nCardiac, gastrointestinal and renal blocks close with the biopsy indications.",
+      "qs": [
+        "MED-C16-25",
+        "MED-C16-26",
+        "MED-C16-27",
+        "MED-C16-28",
+        "MED-C16-29",
+        "MED-C16-30",
+        "MED-C16-31",
+        "MED-C16-32",
+        "MED-C16-33",
+        "MED-C16-34",
+        "MED-C16-35",
+        "MED-C16-36"
+      ]
+    },
+    {
+      "id": "MED-U16-4",
+      "ch": 16,
+      "n": 4,
+      "title": "4. Lupus Nephritis Classification & Histology",
+      "sec": "Lupus Nephritis Classification & Histology",
+      "guide": "The six-class table pairs each class with its histopathology, clinical feature and prognosis.\nClass III/IV disease is then expanded with light-microscopy, immunofluorescence and electron-microscopy findings.\nThe full-house immunofluorescence pattern and hematoxylin bodies carry the diagnostic weight.",
+      "qs": [
+        "MED-C16-37",
+        "MED-C16-38",
+        "MED-C16-39",
+        "MED-C16-40",
+        "MED-C16-41",
+        "MED-C16-42"
+      ]
+    },
+    {
+      "id": "MED-U16-5",
+      "ch": 16,
+      "n": 5,
+      "title": "5. CNS Involvement & SLE Classification Criteria",
+      "sec": "CNS Involvement & SLE Classification Criteria",
+      "guide": "CNS manifestations are listed with the stroke risk from antiphospholipid antibodies.\nThe classification table then weights clinical and immunologic domains against an ANA entry criterion.\nThe closing note reminds that classification criteria are not diagnostic criteria.",
+      "qs": [
+        "MED-C16-43",
+        "MED-C16-44",
+        "MED-C16-45",
+        "MED-C16-46",
+        "MED-C16-47",
+        "MED-C16-48",
+        "MED-C16-49",
+        "MED-C16-50",
+        "MED-C16-51",
+        "MED-C16-52",
+        "MED-C16-53",
+        "MED-C16-54",
+        "MED-C16-55"
+      ]
+    },
+    {
+      "id": "MED-U16-6",
+      "ch": 16,
+      "n": 6,
+      "title": "6. Treat-to-Target, Induction & Maintenance Therapy",
+      "sec": "Treat-to-Target, Induction & Maintenance Therapy",
+      "guide": "The treat-to-target loop runs from diagnosis to remission with SLEDAI 0 as the indicator.\nInduction therapy is split into constitutional, non-life-threatening and life-threatening/organ disease.\nMaintenance, escalation and refractory-lupus options complete the sequence.",
+      "qs": [
+        "MED-C16-56",
+        "MED-C16-57",
+        "MED-C16-58",
+        "MED-C16-59",
+        "MED-C16-60",
+        "MED-C16-61",
+        "MED-C16-62",
+        "MED-C16-63",
+        "MED-C16-64",
+        "MED-C16-65",
+        "MED-C16-66",
+        "MED-C16-67",
+        "MED-C16-68",
+        "MED-C16-69",
+        "MED-C16-70"
+      ]
+    },
+    {
+      "id": "MED-U16-7",
+      "ch": 16,
+      "n": 7,
+      "title": "7. Drug Induced Lupus",
+      "sec": "Drug Induced Lupus",
+      "guide": "The drug-induced block closes the chapter with a mnemonic of culprit drugs.\nSerology and organ involvement separate drug-induced lupus from SLE.\nThe closing note reconciles the apparent paradox about these drugs in lupus patients.",
+      "qs": [
+        "MED-C16-71",
+        "MED-C16-72",
+        "MED-C16-73",
+        "MED-C16-74"
+      ]
+    }
+  ]
+}

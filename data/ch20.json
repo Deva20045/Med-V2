@@ -1,0 +1,911 @@
+{
+  "chapter": 20,
+  "title": "Sarcoidosis and Mixed Connective Tissue Disease",
+  "pageRange": "484-490",
+  "questions": [
+    {
+      "id": "MED-C20-01",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "scenario",
+      "q": "A 35-year-old woman has bilateral hilar lymphadenopathy and a lymph-node biopsy showing non-caseating granulomas. Which definition does the source give?",
+      "opts": [
+        "A chronic, multisystem, granulomatous immunological disorder with non-caseating granulomas on biopsy",
+        "An acute suppurative infection with neutrophilic abscesses",
+        "A vasculitic disorder of medium vessels",
+        "An eosinophilic infiltration of the lung and skin"
+      ],
+      "ans": 0,
+      "exp": "Sarcoidosis is defined as a chronic, multisystem, granulomatous, immunological disorder; biopsy usually shows non-caseating granulomas. (Book p484)"
+    },
+    {
+      "id": "MED-C20-02",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "numeric",
+      "q": "What exception to the non-caseating rule is printed?",
+      "opts": [
+        "Caseation occurs only in the skin",
+        "Caseating granulomas can be seen in one-third of cases",
+        "Caseating granulomas never occur in sarcoidosis",
+        "Caseation is seen in every case"
+      ],
+      "ans": 1,
+      "exp": "Biopsy usually shows non-caseating granulomas, but caseating granulomas can occur in one-third of cases. (Book p484)"
+    },
+    {
+      "id": "MED-C20-03",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "numeric",
+      "q": "Which outcome spread is printed for sarcoidosis?",
+      "opts": [
+        "About 5% resolve and 50% become chronic",
+        "All patients develop chronic fibrotic disease",
+        "About 50% resolve spontaneously, about 25% become chronic (mostly lung) and about 5% mortality attributed to ILD and infections",
+        "About 90% resolve and mortality is unknown"
+      ],
+      "ans": 2,
+      "exp": "Outcome: 50% spontaneous resolution, 25% become chronic (mostly the lung is affected) and 5% mortality, attributed to interstitial lung disease and infections. (Book p484)"
+    },
+    {
+      "id": "MED-C20-04",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "scenario",
+      "q": "A biopsy shows non-caseating granulomas and tuberculosis is being considered. Which other conditions does the source list as producing non-caseating granulomas?",
+      "opts": [
+        "Only tuberculosis and leprosy",
+        "Only fungal infections",
+        "Only malignant conditions",
+        "30% of TB cases, lymphoma, berylliosis, hypersensitivity pneumonitis, Crohn disease and cat-scratch disease"
+      ],
+      "ans": 3,
+      "exp": "Diseases that can have non-caseating granulomas: 30% of TB cases, lymphoma, berylliosis, hypersensitivity pneumonitis (HP), Crohn's disease and cat-scratch disease. (Book p484)"
+    },
+    {
+      "id": "MED-C20-05",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "recall",
+      "q": "Which three items make up the ACR criteria for the diagnosis of sarcoidosis?",
+      "opts": [
+        "A compatible clinical picture, histological non-caseating granulomas and exclusion of other causes",
+        "Raised ACE, a positive Mantoux test and hypercalcaemia",
+        "Bilateral hilar lymphadenopathy, fever and weight loss",
+        "A positive gallium scan, BAL lymphocytosis and skin anergy"
+      ],
+      "ans": 0,
+      "exp": "ACR criteria: compatible clinical picture, histological non-caseating granulomas and exclusion of other causes. (Book p484)"
+    },
+    {
+      "id": "MED-C20-06",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "recall",
+      "q": "Which named syndromes head the acute and chronic branches of the classification?",
+      "opts": [
+        "Acute: Sweet syndrome; chronic: Sjogren syndrome",
+        "Acute: Lofgren syndrome; chronic: Heerfordt syndrome",
+        "Acute: Heerfordt syndrome; chronic: Lofgren syndrome",
+        "Acute: Garland syndrome; chronic: Mikulicz syndrome"
+      ],
+      "ans": 1,
+      "exp": "Classification: acute sarcoidosis is represented by Lofgren syndrome and chronic sarcoidosis by Heerfordt syndrome; hilar adenopathy is the important finding. (Book p484)"
+    },
+    {
+      "id": "MED-C20-07",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "scenario",
+      "q": "A patient with sarcoidosis has lung, skin, eye and joint involvement and asks which organ is usually spared. Which ranking and spared organ does the source print?",
+      "opts": [
+        "Eyes more than lung, with the liver spared",
+        "Joints most often, with the kidney spared",
+        "Lung (ILD) more than skin more than eyes more than joints, with only the testes spared",
+        "Skin more than lung more than eyes, with the spleen spared"
+      ],
+      "ans": 2,
+      "exp": "Major manifestations: lung (ILD) more than skin more than eyes more than joints; multisystem manifestations include cardiac and renal disease, and the only organ spared is the testes. (Book p484)"
+    },
+    {
+      "id": "MED-C20-08",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "page": 484,
+      "fmt": "recall",
+      "q": "Which risk factors are listed for sarcoidosis?",
+      "opts": [
+        "Smoking and asbestos exposure",
+        "Silica and vinyl chloride exposure",
+        "No risk factors are listed",
+        "Propionibacterium acnes infection and excessive firewood burning"
+      ],
+      "ans": 3,
+      "exp": "Risk factors: Propionibacterium acnes infection and excessive firewood burning. (Book p484)"
+    },
+    {
+      "id": "MED-C20-09",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "scenario",
+      "q": "A patient with Lofgren syndrome is HLA typed. Which association and prognosis does the source print?",
+      "opts": [
+        "HLA-DRB1*03, associated with Lofgren syndrome and a good prognosis",
+        "HLA-DRB1*04, which is protective",
+        "HLA-DRB1*11, which marks CNS and cardiac disease",
+        "HLA-B27, which marks axial disease"
+      ],
+      "ans": 0,
+      "exp": "HLA DRB1*03 is associated with Lofgren syndrome and a good prognosis. (Book p485)"
+    },
+    {
+      "id": "MED-C20-10",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "recall",
+      "q": "Which HLA types are printed as protective and as markers of poor prognosis respectively?",
+      "opts": [
+        "Both mark severe disease",
+        "HLA-DRB1*04 is protective; HLA-DRB1*11 marks CNS and cardiac sarcoidosis with a bad prognosis",
+        "HLA-DRB1*11 is protective; HLA-DRB1*04 marks severe disease",
+        "Both are protective"
+      ],
+      "ans": 1,
+      "exp": "HLA DRB1*04 has a protective role, while HLA DRB1*11 is associated with CNS and cardiac sarcoidosis, which carries a bad prognosis. (Book p485)"
+    },
+    {
+      "id": "MED-C20-11",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "recall",
+      "q": "Which HLA-disease pairs are repeated in the note on other diseases?",
+      "opts": [
+        "DRB1*05 with SLE and Sjogren syndrome",
+        "No other associations are printed",
+        "DRB1*03 with SLE, Sjogren syndrome and dermatomyositis; DRB1*04 with APS and RA; DRB1*05 with scleroderma",
+        "DRB1*03 with scleroderma; DRB1*04 with SLE"
+      ],
+      "ans": 2,
+      "exp": "The note repeats: HLA DRB1*03 with SLE, Sjogren syndrome and dermatomyositis; DRB1*04 with APS and RA; DRB1*05 with scleroderma. (Book p485)"
+    },
+    {
+      "id": "MED-C20-12",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "scenario",
+      "q": "A patient with sarcoidosis has a negative Mantoux test despite previous BCG vaccination and has recurrent chest infections with lymphopenia. What does the source call this?",
+      "opts": [
+        "Lymphocytosis with a strongly positive Mantoux test",
+        "Neutropenia with a false-positive Mantoux test",
+        "Eosinophilia with a normal immune response",
+        "Lymphopenia in the blood with a raised risk of infection, and a false-negative Mantoux test"
+      ],
+      "ans": 3,
+      "exp": "Immune paradox/anergy: lymphopenia in blood leading to increased risk of infection, and a Mantoux test that is false negative because of low lymphocytes. (Book p485)"
+    },
+    {
+      "id": "MED-C20-13",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "recall",
+      "q": "Which observation is printed about HIV infection and sarcoidosis?",
+      "opts": [
+        "HIV positivity lowers the lymphocyte count and lowers the risk of sarcoidosis",
+        "HIV positivity raises the risk of sarcoidosis",
+        "HIV has no relationship to sarcoidosis",
+        "Sarcoidosis protects against HIV infection"
+      ],
+      "ans": 0,
+      "exp": "The note states HIV positivity leads to lymphopenia and a reduced risk of sarcoidosis. (Book p485)"
+    },
+    {
+      "id": "MED-C20-14",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "scenario",
+      "q": "A young patient presents with tender pretibial nodules, ankle arthritis and bilateral hilar adenopathy. Which syndrome does the source name?",
+      "opts": [
+        "Fever, night sweats and weight loss",
+        "Erythema nodosum, arthritis and hilar adenopathy",
+        "Uveitis, parotitis and facial nerve palsy",
+        "Lupus pernio, bone cysts and uveitis"
+      ],
+      "ans": 1,
+      "exp": "Lofgren syndrome is drawn with erythema nodosum, arthritis and hilar adenopathy. (Book p485)"
+    },
+    {
+      "id": "MED-C20-15",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "recall",
+      "q": "How is the rash of sarcoidosis-associated erythema nodosum described?",
+      "opts": [
+        "A vesicular rash on sun-exposed skin",
+        "A scarring panniculitis of the thighs",
+        "The 3 P's: painful, pretibial papules",
+        "The 3 P's: painless, pruritic plaques"
+      ],
+      "ans": 2,
+      "exp": "Erythema nodosum in Lofgren syndrome is described with the 3 P's: painful, pretibial, papule. (Book p485)"
+    },
+    {
+      "id": "MED-C20-16",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "page": 485,
+      "fmt": "recall",
+      "q": "Which features are listed for the arthritis or tenosynovitis of acute sarcoidosis?",
+      "opts": [
+        "Chronic, unilateral large-joint disease in the elderly",
+        "Erosive small-joint disease with nodules",
+        "Axial disease with sacroiliitis",
+        "Acute onset, ankle involvement, bilateral and symmetrical, occurring in young patients"
+      ],
+      "ans": 3,
+      "exp": "Arthritis/tenosynovitis is acute, involves the ankle joint, is bilateral and symmetrical and is seen in the young. (Book p485)"
+    },
+    {
+      "id": "MED-C20-17",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "recall",
+      "q": "How does the source distinguish the erythema nodosum of Behcet disease?",
+      "opts": [
+        "It has a fourth P: pigmentation, in addition to painful, pretibial papules",
+        "It is painless and non-pigmented",
+        "It is confined to the arms",
+        "It is identical to the sarcoid lesion"
+      ],
+      "ans": 0,
+      "exp": "In Behcet's disease, erythema nodosum has 4 P's: painful, pretibial, papules with pigmentation. (Book p486)"
+    },
+    {
+      "id": "MED-C20-18",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "recall",
+      "q": "Which statement is printed about hilar adenopathy in sarcoidosis?",
+      "opts": [
+        "It is a feature of tuberculosis, not sarcoidosis",
+        "It is the most consistent feature and is generally bilateral",
+        "It is rare and always unilateral",
+        "It occurs only in chronic disease"
+      ],
+      "ans": 1,
+      "exp": "Hilar adenopathy is described as the most consistent feature and is generally bilateral, with right paratracheal and left hilar nodes shown. (Book p486)"
+    },
+    {
+      "id": "MED-C20-19",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "scenario",
+      "q": "A patient with sarcoidosis has uveitis, bilateral facial nerve weakness and parotitis. Which syndrome and features does the source list?",
+      "opts": [
+        "Lupus pernio, bone cysts and panuveitis",
+        "Hypercalcaemia, renal stones and pancytopenia",
+        "Uveitis, bilateral lower-motor-neuron seventh-nerve palsy and parotitis",
+        "Erythema nodosum, ankle arthritis and hilar adenopathy"
+      ],
+      "ans": 2,
+      "exp": "Heerfordt-Waldenstrom syndrome: uveitis, bilateral LMN seventh-nerve palsy and parotitis. (Book p486)"
+    },
+    {
+      "id": "MED-C20-20",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "recall",
+      "q": "Which uveitis statements are printed for sarcoidosis?",
+      "opts": [
+        "Only posterior uveitis occurs",
+        "Only episcleritis occurs",
+        "The eye is never involved in sarcoidosis",
+        "Any type or compartment can be involved, acute anterior uveitis is more common and uveitis is the most common ocular manifestation"
+      ],
+      "ans": 3,
+      "exp": "Uveitis: any type or compartment, acute anterior uveitis more common, and the most common ocular manifestation of sarcoid. (Book p486)"
+    },
+    {
+      "id": "MED-C20-21",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "scenario",
+      "q": "A patient with sarcoidosis develops bilateral lower-motor-neuron facial weakness. What does the source call this manifestation?",
+      "opts": [
+        "Bilateral lower-motor-neuron seventh-nerve palsy",
+        "Aseptic meningitis",
+        "Peripheral sensorimotor neuropathy",
+        "Cerebellar ataxia"
+      ],
+      "ans": 0,
+      "exp": "Bilateral LMN seventh-nerve palsy is the most common neurological manifestation in sarcoid; the note pairs it with Guillain-Barre syndrome as its main differential. (Book p486)"
+    },
+    {
+      "id": "MED-C20-22",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "recall",
+      "q": "What is the clinical paradox of chronic pulmonary sarcoidosis?",
+      "opts": [
+        "Nodes and parenchyma are unrelated to the disease stage",
+        "As the lung disease worsens, the nodal enlargement regresses, which helps identify chronicity",
+        "Nodes enlarge in proportion to the parenchymal disease",
+        "Nodes calcify while the parenchyma remains normal"
+      ],
+      "ans": 1,
+      "exp": "Clinical paradox: it helps identify chronicity, because as the lung disease worsens the nodal enlargement regresses. (Book p486)"
+    },
+    {
+      "id": "MED-C20-23",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "page": 486,
+      "fmt": "scenario",
+      "q": "Serial imaging shows hilar nodes regressing as parenchymal infiltrates appear, and later fibrosis. How does the source stage chronic sarcoidosis?",
+      "opts": [
+        "There are only two stages",
+        "Staging is based on symptoms, not imaging",
+        "Stage 1 bilateral hilar lymphadenopathy; stage 2 nodal enlargement with parenchymal disease; stage 3 parenchymal disease only; stage 4 fibrosis",
+        "Stage 1 fibrosis; stage 2 nodes; stage 3 infiltrates; stage 4 calcification"
+      ],
+      "ans": 2,
+      "exp": "Stages: 1 bilateral hilar lymphadenopathy with nodal enlargement only, 2 nodal enlargement plus parenchymal disease (node size starts to fall as infiltrate rises), 3 parenchymal disease only, 4 fibrosis. (Book p486)"
+    },
+    {
+      "id": "MED-C20-24",
+      "sec": "Fibrosis, Skin & Eye Involvement",
+      "page": 487,
+      "fmt": "recall",
+      "q": "Which features are printed for the fibrosis pattern of sarcoidosis?",
+      "opts": [
+        "Lower-lobe honeycombing with pleural plaques",
+        "Diffuse cystic change with pneumothorax",
+        "Cavitation with fungal balls",
+        "Thickening of the bronchovascular bundles with upper-lobe traction bronchiectasis"
+      ],
+      "ans": 3,
+      "exp": "Fibrosis pattern: thickening of bronchovascular bundles and traction bronchiectasis of the upper lobe; upper-lobe fibrosis is also listed for ankylosing spondylitis and sarcoidosis. (Book p487)"
+    },
+    {
+      "id": "MED-C20-25",
+      "sec": "Fibrosis, Skin & Eye Involvement",
+      "page": 487,
+      "fmt": "scenario",
+      "q": "A patient has violaceous indurated plaques over the central face that respond poorly to treatment. How does the source describe this lesion?",
+      "opts": [
+        "Violaceous or erythematous, indurated infiltrative plaques on the central face that respond poorly to treatment",
+        "A painless pretibial nodule that resolves spontaneously",
+        "A photosensitive malar rash sparing the nasolabial fold",
+        "A pruritic papular rash over the knuckles"
+      ],
+      "ans": 0,
+      "exp": "Lupus pernio: violaceous or erythematous, indurated, infiltrative plaques on the central face that are less responsive to treatment; bone changes (lytic or cystic) are also associated. (Book p487)"
+    },
+    {
+      "id": "MED-C20-26",
+      "sec": "Fibrosis, Skin & Eye Involvement",
+      "page": 487,
+      "fmt": "recall",
+      "q": "Which eye manifestation is described as the most common in chronic sarcoidosis?",
+      "opts": [
+        "Keratoconjunctivitis sicca",
+        "Chronic bilateral panuveitis",
+        "Acute anterior uveitis",
+        "Episcleritis"
+      ],
+      "ans": 1,
+      "exp": "Eye involvement: chronic bilateral panuveitis is the most common manifestation. (Book p487)"
+    },
+    {
+      "id": "MED-C20-27",
+      "sec": "Fibrosis, Skin & Eye Involvement",
+      "page": 487,
+      "fmt": "oddoneout",
+      "q": "Which feature is listed as UNLIKELY in sarcoidosis?",
+      "opts": [
+        "Upper-lobe fibrosis",
+        "Non-caseating granulomas",
+        "Pleural involvement",
+        "Bilateral hilar lymphadenopathy"
+      ],
+      "ans": 2,
+      "exp": "Features unlikely of sarcoidosis: pleural involvement and a UIP-like pattern with honeycombing and parenchymal destruction in the lung; episcleritis, scleritis and sicca in the eye. (Book p487)"
+    },
+    {
+      "id": "MED-C20-28",
+      "sec": "Fibrosis, Skin & Eye Involvement",
+      "page": 487,
+      "fmt": "recall",
+      "q": "Which ocular findings are listed as unlikely in sarcoidosis?",
+      "opts": [
+        "Anterior uveitis and vitritis",
+        "Retinal vasculitis and choroidal granulomas",
+        "Optic nerve granulomas",
+        "Episcleritis, scleritis and sicca"
+      ],
+      "ans": 3,
+      "exp": "The note lists episcleritis, scleritis and sicca as ocular features unlikely of sarcoidosis. (Book p487)"
+    },
+    {
+      "id": "MED-C20-29",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "recall",
+      "q": "Which endocrine abnormality is listed for sarcoidosis?",
+      "opts": [
+        "Hypercalcaemia",
+        "Hypocalcaemia with tetany",
+        "Hypothyroidism",
+        "Adrenal insufficiency"
+      ],
+      "ans": 0,
+      "exp": "Endocrine manifestation: hypercalcaemia. (Book p488)"
+    },
+    {
+      "id": "MED-C20-30",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "scenario",
+      "q": "A patient with sarcoidosis develops polyuria and polydipsia from a pituitary mass. Which neurological manifestations does the source list?",
+      "opts": [
+        "Parkinsonian rigidity with tremor",
+        "Bilateral LMN seventh-nerve palsy, pituitary mass with stalk effect causing central diabetes insipidus, basilar meningitis and acute transverse myelitis",
+        "Guillain-Barre syndrome with albuminocytological dissociation",
+        "Multiple sclerosis with periventricular plaques"
+      ],
+      "ans": 1,
+      "exp": "CNS: bilateral LMN seventh-nerve palsy (most common), neurosarcoidosis with a pituitary mass causing stalk effect and central diabetes insipidus, basilar meningitis and acute transverse myelitis. (Book p488)"
+    },
+    {
+      "id": "MED-C20-31",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "recall",
+      "q": "Which cardiac manifestations are listed?",
+      "opts": [
+        "Aortic stenosis with regurgitation",
+        "Infective endocarditis of native valves",
+        "Dilated cardiomyopathy more than restrictive cardiomyopathy, with AV block",
+        "Constrictive pericarditis with tamponade"
+      ],
+      "ans": 2,
+      "exp": "CVS: dilated cardiomyopathy more than restrictive cardiomyopathy, and AV blocks. (Book p488)"
+    },
+    {
+      "id": "MED-C20-32",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "recall",
+      "q": "Which haematological manifestation is printed for sarcoidosis?",
+      "opts": [
+        "Isolated lymphocytosis without cytopenias",
+        "Polycythaemia with thrombocytosis",
+        "Haemolytic anaemia with jaundice",
+        "Pancytopenia with splenomegaly"
+      ],
+      "ans": 3,
+      "exp": "Hematology: pancytopenia with splenomegaly. (Book p488)"
+    },
+    {
+      "id": "MED-C20-33",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "scenario",
+      "q": "A patient with sarcoidosis has renal impairment and hypercalcaemia. Which renal manifestations does the source print?",
+      "opts": [
+        "AKI from hypercalcaemia-induced pre-renal failure, CKD from chronic tubulointerstitial disease, and rare glomerular membranous nephropathy",
+        "Rapidly progressive glomerulonephritis with crescents",
+        "Immune-complex lupus nephritis",
+        "Analgesic nephropathy"
+      ],
+      "ans": 0,
+      "exp": "Renal: AKI is hypercalcaemia-induced pre-renal failure, CKD is chronic tubulointerstitial disease (CTID) and the glomerulus is rarely affected, with membranous nephropathy. (Book p488)"
+    },
+    {
+      "id": "MED-C20-34",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "recall",
+      "q": "Which rheumatological disorders are listed as causes of chronic tubulointerstitial disease?",
+      "opts": [
+        "Ankylosing spondylitis and reactive arthritis",
+        "Sjogren syndrome, IgG4-related disease and sarcoidosis",
+        "SLE, systemic sclerosis and dermatomyositis",
+        "Rheumatoid arthritis, gout and pseudogout"
+      ],
+      "ans": 1,
+      "exp": "The note lists rheumatological disorders causing CTID as Sjogren's syndrome, IgG4-related disease and sarcoidosis. (Book p488)"
+    },
+    {
+      "id": "MED-C20-35",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "recall",
+      "q": "Which imaging investigations and their roles are printed?",
+      "opts": [
+        "CT pulmonary angiography and echocardiography",
+        "MRI of the brain and nerve-conduction studies",
+        "Gallium-67 scintigraphy with the panda sign, and PET scanning to identify the node to biopsy",
+        "Plain radiography alone and ventilation-perfusion scanning"
+      ],
+      "ans": 2,
+      "exp": "Investigations: gallium-67 scintigraphy (panda sign) and PET scan, which is the investigation of choice to identify nodes to take a biopsy from. (Book p488)"
+    },
+    {
+      "id": "MED-C20-36",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "recall",
+      "q": "Which blood markers are listed, and what does a normal value of the first marker imply?",
+      "opts": [
+        "C-reactive protein and ESR; a normal CRP rules out sarcoidosis",
+        "Calcium and phosphate; normal calcium rules out sarcoidosis",
+        "Ferritin and transferrin saturation; normal ferritin rules out sarcoidosis",
+        "Angiotensin-converting enzyme and soluble interleukin-2 receptor; a normal ACE can rule out sarcoidosis"
+      ],
+      "ans": 3,
+      "exp": "Blood markers: angiotensin-converting enzyme (if normal, sarcoidosis can be ruled out) and soluble interleukin-2 (sIL-2) receptor. (Book p488)"
+    },
+    {
+      "id": "MED-C20-37",
+      "sec": "Multisystem Manifestations & Investigations",
+      "page": 488,
+      "fmt": "scenario",
+      "q": "Bronchoalveolar lavage is performed in a patient with suspected sarcoidosis. Which lavage finding does the source list?",
+      "opts": [
+        "A raised CD4/CD8 ratio above the printed cut-off",
+        "A predominance of CD8-positive lymphocytes",
+        "Neutrophil-predominant cellularity",
+        "Eosinophils above 25% of the cell count"
+      ],
+      "ans": 0,
+      "exp": "Bronchoalveolar lavage is listed with a raised CD4/CD8 ratio above the cut-off printed on the page. (Book p488)"
+    },
+    {
+      "id": "MED-C20-38",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "management",
+      "q": "How is acute sarcoidosis managed according to the printed treatment block?",
+      "opts": [
+        "Anti-TNF therapy",
+        "No treatment is required",
+        "Immediate high-dose steroid",
+        "Methotrexate monotherapy"
+      ],
+      "ans": 1,
+      "exp": "Treatment: acute sarcoidosis requires no treatment; chronic disease is treated in steps. (Book p489)"
+    },
+    {
+      "id": "MED-C20-39",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "management",
+      "q": "Which stepwise regimen is printed for chronic sarcoidosis?",
+      "opts": [
+        "First line azathioprine; second line anti-TNF; third line steroids",
+        "Steroids at every step with no steroid-sparing agents",
+        "First line steroids; second line methotrexate or azathioprine; third line anti-TNF-alpha with adalimumab",
+        "First line methotrexate; second line steroids; third line cyclophosphamide"
+      ],
+      "ans": 2,
+      "exp": "Chronic: first line steroids, second line methotrexate and azathioprine, third line anti-TNF-alpha (adalimumab). (Book p489)"
+    },
+    {
+      "id": "MED-C20-40",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "recall",
+      "q": "What is the therapeutic paradox described on this page?",
+      "opts": [
+        "Steroids cure sarcoidosis but cause reactivation of tuberculosis",
+        "Anti-TNF therapy prevents all skin lesions of sarcoidosis",
+        "Methotrexate worsens uveitis in sarcoidosis",
+        "Patients treated with TNF-alpha blockade can develop sarcoid-like skin lesions that disappear on reducing the dose"
+      ],
+      "ans": 3,
+      "exp": "Therapeutic paradox: in a patient treated with TNF-alpha (adalimumab), skin lesions similar to sarcoidosis can appear, and they disappear on reducing the dose. (Book p489)"
+    },
+    {
+      "id": "MED-C20-41",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "numeric",
+      "q": "How is an overlap syndrome defined on this page?",
+      "opts": [
+        "Features of at least two of the six autoimmune systemic connective-tissue diseases",
+        "Features of all six connective-tissue diseases at once",
+        "A single connective-tissue disease with extra-articular features",
+        "Any positive autoantibody with a compatible symptom"
+      ],
+      "ans": 0,
+      "exp": "Overlap syndrome: features of two or more out of the six autoimmune systemic connective tissue diseases. (Book p489)"
+    },
+    {
+      "id": "MED-C20-42",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "recall",
+      "q": "Which diseases are listed in the overlap group, and which is most common?",
+      "opts": [
+        "Only the inflammatory muscle diseases",
+        "Sjogren syndrome (most common, usually with anti-Ro), SLE, polymyositis, dermatomyositis, systemic sclerosis and rheumatoid arthritis",
+        "Only SLE and systemic sclerosis",
+        "Only rheumatoid arthritis and Sjogren syndrome"
+      ],
+      "ans": 1,
+      "exp": "The overlap list is Sjogren syndrome (most common, most having anti-Ro antibody), SLE, polymyositis, dermatomyositis, systemic sclerosis and rheumatoid arthritis. (Book p489)"
+    },
+    {
+      "id": "MED-C20-43",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "management",
+      "q": "How is the treatment of an overlap syndrome chosen?",
+      "opts": [
+        "It is always antimalarial monotherapy",
+        "No treatment is possible",
+        "It is based on the predominant disease",
+        "It is always high-dose cyclophosphamide"
+      ],
+      "ans": 2,
+      "exp": "The source states that treatment is based on the predominant disease in the overlap. (Book p489)"
+    },
+    {
+      "id": "MED-C20-44",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "page": 489,
+      "fmt": "recall",
+      "q": "How is undifferentiated connective-tissue disease defined?",
+      "opts": [
+        "Patients with a negative autoantibody panel and no symptoms",
+        "Patients with two established connective-tissue diseases",
+        "Patients with drug-induced autoantibodies",
+        "Patients with some features of a connective-tissue disease who do not fulfil criteria for classification as a specific disease"
+      ],
+      "ans": 3,
+      "exp": "Undifferentiated CTD: patients presenting with some features of CTD who do not fulfil the criteria to be classified under a disease. (Book p489)"
+    },
+    {
+      "id": "MED-C20-45",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 489,
+      "fmt": "scenario",
+      "q": "A middle-aged woman has Raynaud phenomenon, swollen hands, myositis and a very high titre anti-U1 RNP. How does the source introduce this disease?",
+      "opts": [
+        "As a specific type of overlap syndrome presenting with unique features in middle-aged females",
+        "As a form of systemic lupus erythematosus with nephritis",
+        "As a vasculitic disorder of medium vessels",
+        "As a granulomatous disease of the lung"
+      ],
+      "ans": 0,
+      "exp": "MCTD is introduced as a specific type of overlap syndrome, with patients presenting unique features, in middle-aged females (female:male about 15:1). (Book p489)"
+    },
+    {
+      "id": "MED-C20-46",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 489,
+      "fmt": "scenario",
+      "q": "Serology is requested in a patient with suspected mixed connective-tissue disease. Which profile does the source print?",
+      "opts": [
+        "ANA positive with a centromere pattern and anti-centromere antibody",
+        "ANA positive in 100% with a coarse speckled pattern and a positive anti-U1 RNP antibody",
+        "ANA negative with a positive anti-Jo-1 antibody",
+        "ANA positive with a homogeneous pattern and anti-dsDNA"
+      ],
+      "ans": 1,
+      "exp": "Serology: ANA positive in 100% with a coarse speckled pattern and anti-U1 RNP antibody positive. (Book p489)"
+    },
+    {
+      "id": "MED-C20-47",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 490,
+      "fmt": "scenario",
+      "q": "A middle-aged woman with anti-U1 RNP positivity presents with cold-induced digital colour change. Which manifestation does the source call most common?",
+      "opts": [
+        "CNS vasculitis",
+        "Lupus pernio",
+        "Raynaud's phenomenon",
+        "Nephritis"
+      ],
+      "ans": 2,
+      "exp": "Clinical features: Raynaud's phenomenon is the most common manifestation, followed by oedema of hands, nail pitting, acrosclerosis, myositis and erosive synovitis. (Book p490)"
+    },
+    {
+      "id": "MED-C20-48",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 490,
+      "fmt": "recall",
+      "q": "How is acrosclerosis defined on this page?",
+      "opts": [
+        "Isolated sclerodactyly without Raynaud's phenomenon",
+        "Calcification of the digital arteries",
+        "Ulceration of the fingertips alone",
+        "Raynaud's phenomenon combined with MCTD and systemic-sclerosis features of the hand"
+      ],
+      "ans": 3,
+      "exp": "Acrosclerosis is defined as Raynaud's phenomenon plus MCTD plus the systemic-sclerosis features of the hand. (Book p490)"
+    },
+    {
+      "id": "MED-C20-49",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 490,
+      "fmt": "recall",
+      "q": "Which systems are usually spared in MCTD according to the clinical-features list?",
+      "opts": [
+        "The CNS and the renal system",
+        "The skin and joints",
+        "The lungs and heart",
+        "The gastrointestinal tract and liver"
+      ],
+      "ans": 0,
+      "exp": "Clinical features note that the CNS and renal system are usually spared in MCTD. (Book p490)"
+    },
+    {
+      "id": "MED-C20-50",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 490,
+      "fmt": "recall",
+      "q": "Which HLA association is printed for MCTD?",
+      "opts": [
+        "HLA-DQ8",
+        "HLA-DRB1*04",
+        "HLA-DRB1*03",
+        "HLA-B27"
+      ],
+      "ans": 1,
+      "exp": "HLA association for MCTD: HLA DRB1*04. (Book p490)"
+    },
+    {
+      "id": "MED-C20-51",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 490,
+      "fmt": "numeric",
+      "q": "Which complications and outcome figures are printed for MCTD?",
+      "opts": [
+        "Cardiac involvement occurs in 20% and is the leading cause of death",
+        "There are no recognised complications",
+        "ILD is the most common complication; about 20% evolve into limited systemic sclerosis with pulmonary artery hypertension, the most common cause of death",
+        "Nephritis is the most common complication and it causes most deaths"
+      ],
+      "ans": 2,
+      "exp": "Complications: ILD is the most common, and about 20% evolve into limited SSc with pulmonary artery hypertension, which is the most common cause of death. (Book p490)"
+    },
+    {
+      "id": "MED-C20-52",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "page": 490,
+      "fmt": "recall",
+      "q": "Which capillaroscopy appearances are shown for Raynaud's phenomenon in MCTD?",
+      "opts": [
+        "Only a completely normal capillary pattern",
+        "Only giant capillaries with thrombosis",
+        "Capillary dropout in every field",
+        "Normal, dilated, tortuous, bushy and meandering capillaries with microhaemorrhage"
+      ],
+      "ans": 3,
+      "exp": "The capillaroscopy panel in RP shows normal, dilated, tortuous, bushy and meandering capillaries with microhaemorrhage. (Book p490)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U20-1",
+      "ch": 20,
+      "n": 1,
+      "title": "1. Sarcoidosis Definition, ACR Criteria & Classification",
+      "sec": "Sarcoidosis Definition, ACR Criteria & Classification",
+      "guide": "The definition pairs the granuloma type with its recognised exceptions.\nOutcome, ACR diagnostic criteria and the acute-versus-chronic classification follow.\nOrgan ranking and risk factors close the introductory survey.",
+      "qs": [
+        "MED-C20-01",
+        "MED-C20-02",
+        "MED-C20-03",
+        "MED-C20-04",
+        "MED-C20-05",
+        "MED-C20-06",
+        "MED-C20-07",
+        "MED-C20-08"
+      ]
+    },
+    {
+      "id": "MED-U20-2",
+      "ch": 20,
+      "n": 2,
+      "title": "2. HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "sec": "HLA Associations, Immune Paradox & Lofgren Syndrome",
+      "guide": "HLA associations are split into prognosis, protection and severe-organ disease.\nThe immune-paradox block explains anergy and the false-negative Mantoux test.\nLofgren syndrome then opens acute sarcoidosis with its classic triad.",
+      "qs": [
+        "MED-C20-09",
+        "MED-C20-10",
+        "MED-C20-11",
+        "MED-C20-12",
+        "MED-C20-13",
+        "MED-C20-14",
+        "MED-C20-15",
+        "MED-C20-16"
+      ]
+    },
+    {
+      "id": "MED-U20-3",
+      "ch": 20,
+      "n": 3,
+      "title": "3. Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "sec": "Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis",
+      "guide": "The erythema-nodosum comparison separates sarcoidosis from Behcet disease.\nHeerfordt syndrome is then defined by its ocular, facial-nerve and salivary features.\nChronic disease is staged by the paradoxical relationship between nodes and parenchyma.",
+      "qs": [
+        "MED-C20-17",
+        "MED-C20-18",
+        "MED-C20-19",
+        "MED-C20-20",
+        "MED-C20-21",
+        "MED-C20-22",
+        "MED-C20-23"
+      ]
+    },
+    {
+      "id": "MED-U20-4",
+      "ch": 20,
+      "n": 4,
+      "title": "4. Fibrosis, Skin & Eye Involvement",
+      "sec": "Fibrosis, Skin & Eye Involvement",
+      "guide": "The fibrosis pattern is defined by bronchovascular thickening and upper-lobe traction.\nLupus pernio is then characterised by site, texture and treatment response.\nA note lists the features that make sarcoidosis unlikely.",
+      "qs": [
+        "MED-C20-24",
+        "MED-C20-25",
+        "MED-C20-26",
+        "MED-C20-27",
+        "MED-C20-28"
+      ]
+    },
+    {
+      "id": "MED-U20-5",
+      "ch": 20,
+      "n": 5,
+      "title": "5. Multisystem Manifestations & Investigations",
+      "sec": "Multisystem Manifestations & Investigations",
+      "guide": "Endocrine, neurological, cardiac, haematological and renal disease are listed organ by organ.\nA note groups the rheumatological causes of chronic tubulointerstitial disease.\nImaging, blood markers and BAL close the investigation sequence.",
+      "qs": [
+        "MED-C20-29",
+        "MED-C20-30",
+        "MED-C20-31",
+        "MED-C20-32",
+        "MED-C20-33",
+        "MED-C20-34",
+        "MED-C20-35",
+        "MED-C20-36",
+        "MED-C20-37"
+      ]
+    },
+    {
+      "id": "MED-U20-6",
+      "ch": 20,
+      "n": 6,
+      "title": "6. Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "sec": "Treatment, Therapeutic Paradox & Overlap Syndromes",
+      "guide": "Treatment is stratified by acuteness, with observation for acute disease.\nThe therapeutic paradox reconciles tumour-necrosis-factor blockade with sarcoid-like lesions.\nOverlap syndromes and undifferentiated connective-tissue disease are then defined.",
+      "qs": [
+        "MED-C20-38",
+        "MED-C20-39",
+        "MED-C20-40",
+        "MED-C20-41",
+        "MED-C20-42",
+        "MED-C20-43",
+        "MED-C20-44"
+      ]
+    },
+    {
+      "id": "MED-U20-7",
+      "ch": 20,
+      "n": 7,
+      "title": "7. MCTD: Serology, Clinical Features & Complications",
+      "sec": "MCTD: Serology, Clinical Features & Complications",
+      "guide": "Mixed connective-tissue disease is introduced as a specific type of overlap syndrome.\nSerology is dominated by a universal ANA pattern and anti-U1 RNP positivity.\nClinical features and complications are then contrasted with systemic sclerosis.",
+      "qs": [
+        "MED-C20-45",
+        "MED-C20-46",
+        "MED-C20-47",
+        "MED-C20-48",
+        "MED-C20-49",
+        "MED-C20-50",
+        "MED-C20-51",
+        "MED-C20-52"
+      ]
+    }
+  ]
+}

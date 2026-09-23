@@ -25,10 +25,10 @@ with sync_playwright() as p:
           const check = (ok, message) => {if (!ok) throw new Error(message);};
           localStorage.clear(); render();
           check(CHAPTERS.length === 57, '57-chapter roadmap');
-          check(CHAPTERS.filter(c => c.live).map(c => c.n).join(',') === Array.from({length: 15}, (_, i) => i + 1).join(','), 'live chapters');
+          check(CHAPTERS.filter(c => c.live).map(c => c.n).join(',') === Array.from({length: CHAPTERS.filter(c => c.live).length}, (_, i) => i + 1).join(','), 'live chapters');
           show('chapters');
           check(document.querySelectorAll('.chrow').length === 57, 'roadmap DOM');
-          check(document.querySelectorAll('.chrow:not(.locked)').length === 15, 'live roadmap DOM');
+          check(document.querySelectorAll('.chrow:not(.locked)').length === CHAPTERS.filter(c => c.live).length, 'live roadmap DOM');
           let count = 0;
           for (const u of UNITS) {
             curCh = u.ch;
