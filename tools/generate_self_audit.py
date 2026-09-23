@@ -7,18 +7,26 @@ pg_cov = Counter(r['page'] for r in cov)
 pg_q = Counter((r['page'], r['question']) for r in cov)
 pg_unique_q = Counter(page for page, q in pg_q.keys())
 
-# Printed pages are sequential after 12 unnumbered PDF front-matter sheets.
-page_to_pdf = {page: page - 364 for page in range(377, 468)}
+# Printed pages are sequential after 12 unnumbered PDF front-matter sheets of
+# uploads/01.pdf; uploads/02.pdf continues the book at printed page 468.
+def page_to_sheet(page):
+    if page <= 467:
+        return f"01 PDF{page - 364}"
+    return f"02 PDF{page - 467}"
 
-chapters_data = [json.load(open(f'data/ch{n:02d}.json')) for n in range(1, 16)]
+
+page_to_pdf = {page: page_to_sheet(page) for page in range(377, 491)}
+
+chapters_data = [json.load(open(f'data/ch{n:02d}.json')) for n in range(1, 21)]
 
 out = []
-out.append("# Chapters 2–15 — visual self-audit gate\n")
-out.append("Reviewed 2026-09-22, before live deployment. Source: `uploads/01.pdf`, 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
+out.append("# Chapters 2–20 — visual self-audit gate\n")
+out.append("Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–23 (Book p468–490), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
-out.append("- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–457 (PDF19–93). PDF13–18 were previously read for Chapter 1. All 103 PDF sheets were checked for printed page numbering.")
+out.append("- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–490. PDF13–18 of `01.pdf` were previously read for Chapter 1. Every printed page number quoted below was read visually from the rendered sheet.")
 out.append("- Reading order: top-to-bottom content blocks; parallel comparison columns treated as unified comparison blocks; diagrams remained with their adjacent text. Each unit is a contiguous slice of that sequence. Repeated publisher footers, lesson timestamps and 'Active space' furniture are excluded.")
-out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–15 (no fill-up or match worksheets), and exact citation references.")
+out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.")
+out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–20 (no fill-up or match worksheets), and exact citation references.")
 out.append("- Software verifies schema, exact app parsers, sequential IDs, page ordering, inventory ordering and full unit coverage. Semantic completeness is verified via visual self-audit.\n")
 
 out.append("## Rescue completed before new chapter authoring\n")
@@ -61,7 +69,29 @@ out.append("| 425–429 | Coronary territory, dominance, ECG-localisation and co
 out.append("| 430–441 | MI definitions, fibrinolysis/PCI timing, dosing, thresholds and management algorithms are retained as printed and labelled book-study content, not patient-specific instructions. |")
 out.append("| 442–448 | Sjogren classification thresholds and treatment are source-specific; real diagnosis requires clinician assessment and current criteria. |")
 out.append("| 449–451 | IgG4 RCD criteria, percentages and therapy sequence are reproduced as source statements; overlap/mimic diagnosis requires clinical correlation. |")
-out.append("| 452–457 | SLE serology, antibody pattern and prognosis associations are source-specific teaching points; test results are not diagnostic in isolation. |\n")
+out.append("| 452–457 | SLE serology, antibody pattern and prognosis associations are source-specific teaching points; test results are not diagnostic in isolation. |")
+out.append("| 458–465 | Cutaneous-lupus terminology, the discoid 5/20 rule, lupus-nephritis class thresholds, the EULAR/ACR domain weights and every steroid/immunosuppressant dose are reproduced as printed book-study material, not as prescribing guidance. |")
+out.append("| 459 | The discoid '5/20 rule' percentages were enlarged and re-read before use (5% of discoid patients have SLE; 20% of SLE patients have discoid rash). |")
+out.append("| 461 | The rotated 'autoimmune hemolytic anaemia' annotation and the DAH-versus-viral/TB branch are read as source statements; distinguishing infection from DAH requires clinical correlation. |")
+out.append("| 462 | The prognosis cell shared by class III and class IV lupus nephritis prints 'and worst'; no question asks for a single class-specific value from that merged cell. |")
+out.append("| 464 | Methylprednisolone 500 mg–1 g in 100 ml normal saline over 1–2 hours, pulse × 3 days, then oral steroid 1 mg/kg/day tapered over 3 months to 5 mg/day is the source's regimen and is not a universal induction protocol. |")
+out.append("| 465 | The rotated 'switch to cyclophosphamide' arm and the CHImP drug mnemonic are transcribed as printed; drug-induced lupus lists historical culprits and the note that such drugs are safe in SLE patients is a source statement. |")
+out.append("| 466 | '50% primary / ≥50% secondary' APS split and the reduced-inhibition-of-coagulation-factors step are retained as printed pathophysiology. |")
+out.append("| 467 | Anticardiolipin >40 units, the 12-week persistence rule and dRVVT are Sapporo-era statements; current laboratory classification criteria differ. |")
+out.append("| 469 | INR 2.5–3 with heparin 5000 units TDS or LMWH 60 mg BD, and 'no role for NOACs', are printed management statements that do not replace current guidance. |")
+out.append("| 470 | The 'groove sign: aplastic anaemia' annotation is printed beside the scleroderma mimics and is transcribed as a source note. |")
+out.append("| 472 | The primary/secondary Raynaud columns (including the centromere annotation on the ANA row) are read as printed; the demographic cell 'middle aged female' is not attributed to either column by any question. |")
+out.append("| 474–475 | The antibody-to-complication map (anti-centromere/PAH, anti-RNA polymerase III/renal crisis) and the ACE-inhibitor drug of choice are source teaching, and the printed percentage for renal crisis in diffuse SSc is not legible enough to transcribe — no question relies on that numeral. |")
+out.append("| 476 | Nintedanib plus MMF for SSc-ILD and bosentan as second line for Raynaud phenomenon are transcribed as printed indications. |")
+out.append("| 479 | The Gottron-papule frequency is printed as a small fraction glyph that cannot be read with confidence; the question on this lesion tests its morphology and site, not the frequency. |")
+out.append("| 481 | The rotated 'Jaccoud's arthropathy: also seen in Sjogren syndrome' annotation is transcribed as printed. |")
+out.append("| 483 | The rotated dysphagia-frequency annotation beside inclusion body myositis was not legible; no question relies on it. Steroid-unresponsive disease and red-rimmed vacuoles are the tested points. |")
+out.append("| 484 | The '50/25/5' outcome split and the testicular sparing statement are printed source epidemiology. |")
+out.append("| 485 | The rotated 'HLA DRB1*03 — Lofgren syndrome (good prognosis)' annotation is read after rotation and transcribed as printed. |")
+out.append("| 487 | The rotated annotation linking lupus pernio to lytic or cystic bone change is transcribed as a source note. |")
+out.append("| 488 | The BAL CD4/CD8 cut-off numeral is too small to read with confidence; the question asks only for the raised ratio. The panda sign and the PET 'node to biopsy' role are transcribed as printed. |")
+out.append("| 489 | The therapeutic paradox (TNF-alpha blockade producing sarcoid-like skin lesions that resolve on dose reduction) is a source observation. |")
+out.append("| 490 | 'About 20% evolve into limited SSc' and pulmonary artery hypertension as the most common cause of death are printed MCTD statements. |\n")
 
 out.append("## Per-chapter units\n")
 out.append("| Ch | Unit | Pages | Question range | Count |")
@@ -90,16 +120,14 @@ out.append("## Page-by-page coverage summary\n")
 out.append("| Book page | PDF sheet | Inventoried points | Questions | Unasked |")
 out.append("|---:|---:|---:|---:|---:|")
 for pg in sorted(pg_cov.keys()):
-    pdf_sheet = page_to_pdf.get(pg, '?')
-    out.append(f"| {pg} | {pdf_sheet} | {pg_cov[pg]} | {pg_unique_q[pg]} | 0 |")
+    out.append(f"| {pg} | {page_to_pdf.get(pg, '?')} | {pg_cov[pg]} | {pg_unique_q[pg]} | 0 |")
 
 total_points = len(cov)
 out.append(f"\n**Total: {total_points} mapped educational points; {total_q} questions; {sum(len(c['units']) for c in chapters_data)} units across {len(chapters_data)} live chapters of 57.**\n")
 
 out.append("## Full printed-point → question ledger\n")
 for pg in sorted(pg_cov.keys()):
-    pdf_sheet = page_to_pdf.get(pg, '?')
-    out.append(f"### Book p{pg} / PDF{pdf_sheet}\n")
+    out.append(f"### Book p{pg} / {page_to_pdf.get(pg, '?')}\n")
     out.append("| Printed point / call-out | Question |")
     out.append("|---|---|")
     page_rows = [r for r in cov if r['page'] == pg]

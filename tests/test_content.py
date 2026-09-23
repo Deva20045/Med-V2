@@ -63,7 +63,7 @@ class ContentGateTests(unittest.TestCase):
             self.validate()
 
     def test_ledger(self):
-        chapters = [json.loads((ROOT / f'data/ch{n:02}.json').read_text()) for n in range(2, 16)]
+        chapters = [json.loads((ROOT / f'data/ch{n:02}.json').read_text()) for n in range(2, 21)]
         ledger = json.loads((ROOT / 'audit/coverage.json').read_text())
         validate_ledger(chapters, ledger)
         bad = copy.deepcopy(ledger)

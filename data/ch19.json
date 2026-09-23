@@ -1,0 +1,991 @@
+{
+  "chapter": 19,
+  "title": "Inflammatory Muscle Diseases",
+  "pageRange": "477-483",
+  "questions": [
+    {
+      "id": "MED-C19-01",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "recall",
+      "q": "Which definition is printed for the inflammatory muscle diseases?",
+      "opts": [
+        "A motor-neuron disease with fasciculations and wasting",
+        "A multisystem autoimmune connective-tissue disease with mononuclear inflammation within skeletal muscle and subacute weakness, lasting 6-8 weeks",
+        "A monophasic post-viral myalgia of the calves lasting days",
+        "A dystrophic muscle disease with dystrophin loss"
+      ],
+      "ans": 1,
+      "exp": "Definition: a multisystem autoimmune CTD characterised by mononuclear inflammation within skeletal muscle, with subacute muscle weakness and fatigue, lasting 6-8 weeks. (Book p477)"
+    },
+    {
+      "id": "MED-C19-02",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "recall",
+      "q": "Which entities are listed in the OLD classification of the inflammatory muscle diseases?",
+      "opts": [
+        "Only dermatomyositis and polymyositis",
+        "Only inclusion body myositis",
+        "Polymyositis, dermatomyositis, inclusion body myositis and immune-mediated necrotizing myopathy",
+        "Dermatomyositis, antisynthetase syndrome and juvenile dermatomyositis"
+      ],
+      "ans": 2,
+      "exp": "Old classification: polymyositis, dermatomyositis, inclusion body myositis and immune-mediated necrotizing myopathy. (Book p477)"
+    },
+    {
+      "id": "MED-C19-03",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "recall",
+      "q": "Which term does the CURRENT classification declare obsolete?",
+      "opts": [
+        "Dermatomyositis",
+        "Inclusion body myositis",
+        "Antisynthetase syndrome",
+        "Polymyositis"
+      ],
+      "ans": 3,
+      "exp": "Current classification opens with polymyositis, now an obsolete term, and then lists dermatomyositis, antisynthetase syndrome, necrotizing myopathies, juvenile DM, paraneoplastic myositis, inclusion body myositis and amyopathic DM. (Book p477)"
+    },
+    {
+      "id": "MED-C19-04",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "scenario",
+      "q": "A patient reports progressive difficulty rising from a chair and lifting the head off the pillow over two months, with new dysphagia. Which Bohan-Peter criterion does this satisfy?",
+      "opts": [
+        "Proximal and symmetrical weakness of the pelvic and scapular girdle and anterior neck flexors progressing over weeks to months, with or without dysphagia or respiratory-muscle involvement",
+        "Elevation of serum skeletal-muscle enzymes",
+        "Electromyography characteristic of myopathy",
+        "Muscle biopsy showing necrosis and inflammatory exudate"
+      ],
+      "ans": 0,
+      "exp": "Criterion A: proximal and symmetrical muscle weakness of the pelvic and scapular girdle and anterior flexors of the neck, progressing for weeks to months, with or without dysphagia or involvement of respiratory muscles. (Book p477)"
+    },
+    {
+      "id": "MED-C19-05",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "scenario",
+      "q": "Blood tests in a patient with suspected myositis show a raised creatine kinase with raised AST, LDH and aldolase. Which Bohan-Peter criterion does this satisfy?",
+      "opts": [
+        "Amylase and lipase",
+        "Creatine kinase, aspartate aminotransferase, lactate dehydrogenase and aldolase",
+        "Troponin, CK-MB and myoglobin only",
+        "Alanine aminotransferase and alkaline phosphatase only"
+      ],
+      "ans": 1,
+      "exp": "Criterion B: elevation of serum levels of skeletal-muscle enzymes, namely creatine kinase, aspartate aminotransferase, lactate dehydrogenase and aldolase. (Book p477)"
+    },
+    {
+      "id": "MED-C19-06",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "scenario",
+      "q": "Electromyography in a weak patient shows short small motor units with fibrillation, positive sharp waves and insertional irritability. Which criterion does this satisfy?",
+      "opts": [
+        "Myasthenic decremental response on repetitive stimulation",
+        "A purely neuropathic pattern with fibrillation only",
+        "Short small motor units with fibrillation, positive sharp waves, insertional irritability and repetitive high-frequency firing",
+        "Long large motor units with a reduced recruitment pattern only"
+      ],
+      "ans": 2,
+      "exp": "Criterion C: EMG characteristic of myopathy with short and small motor units, fibrillation, positive sharp waves, insertional irritability and repetitive high-frequency firing. (Book p477)"
+    },
+    {
+      "id": "MED-C19-07",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "recall",
+      "q": "What is printed under Bohan-Peter criterion D?",
+      "opts": [
+        "A normal muscle biopsy with no inflammation",
+        "Perifascicular atrophy with complement deposition",
+        "Red-rimmed vacuoles",
+        "Muscle biopsy showing necrosis, phagocytosis and inflammatory exudate"
+      ],
+      "ans": 3,
+      "exp": "Criterion D: muscle biopsy showing necrosis, phagocytosis and inflammatory exudate. (Book p477)"
+    },
+    {
+      "id": "MED-C19-08",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "page": 477,
+      "fmt": "scenario",
+      "q": "A weak patient has a violaceous periorbital rash with periorbital oedema and vasculitic lesions over the MCP joints. Which Bohan-Peter item does this fulfil?",
+      "opts": [
+        "Heliotrope rash with periorbital oedema and violaceous erythema, and Gottron's sign over the elbows, MCP and PIP joints",
+        "Gottron papules and mechanic's hands",
+        "Malar rash and discoid plaques",
+        "Lupus pernio and erythema nodosum"
+      ],
+      "ans": 0,
+      "exp": "Typical cutaneous changes: heliotrope rash with periorbital oedema and violaceous erythema, and Gottron's sign with vasculitis in the elbow, metacarpophalangeal and proximal interphalangeal joints. (Book p477)"
+    },
+    {
+      "id": "MED-C19-09",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 477,
+      "fmt": "recall",
+      "q": "Which genetic risk factors are printed for dermatomyositis?",
+      "opts": [
+        "HLA-A29 and HLA-B44",
+        "HLA-DRB1*03 and HLA-DRB1*07",
+        "HLA-B27 and HLA-B51",
+        "HLA-DQ2 and HLA-DQ8"
+      ],
+      "ans": 1,
+      "exp": "Risk factors, genetic: HLA-DRB1-03 and HLA-DRB1-07. (Book p477)"
+    },
+    {
+      "id": "MED-C19-10",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 477,
+      "fmt": "scenario",
+      "q": "A patient taking a statin and chloroquine for many years develops dermatomyositis. Which environmental exposures does the source list?",
+      "opts": [
+        "Ionising radiation and benzene only",
+        "No environmental factors are listed",
+        "UV B rays, Coxsackie and parvovirus B19 infection, and the drugs chloroquine, colchicine and statins",
+        "Smoking and silica only"
+      ],
+      "ans": 2,
+      "exp": "Environmental risk factors: UV B rays, Coxsackie and parvovirus B19 virus, and drugs including chloroquine, colchicine and statins. (Book p477)"
+    },
+    {
+      "id": "MED-C19-11",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "recall",
+      "q": "Which HLA-disease pairings are printed in the note on HLA risk factors?",
+      "opts": [
+        "DR3 with scleroderma; DR4 with SLE; DR5 with Sjogren syndrome",
+        "DR2 with myasthenia; DR3 with vasculitis",
+        "HLA associations are not printed for myositis",
+        "DR3 with SLE, Sjogren syndrome and dermatomyositis; DR4 with APS and RA; DR5 with scleroderma"
+      ],
+      "ans": 3,
+      "exp": "The note lists 03 with SLE, Sjogren's and dermatomyositis, 04 with APS and RA, and 05 with scleroderma. (Book p478)"
+    },
+    {
+      "id": "MED-C19-12",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "numeric",
+      "q": "Which demographic pattern is printed for the typical presentation of PM/DM?",
+      "opts": [
+        "Most commonly middle-aged, adult onset 40-60 years (juvenile 5-15 years), with females outnumbering males 2:1",
+        "Most commonly in the elderly over 80, with male predominance",
+        "Exclusively in children under 5 years",
+        "Equal sex distribution at all ages"
+      ],
+      "ans": 0,
+      "exp": "Typical (55-60%): most commonly middle-aged; juvenile 5-15 years, adult 40-60 years, females more than males (2:1). (Book p478)"
+    },
+    {
+      "id": "MED-C19-13",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "scenario",
+      "q": "A 45-year-old woman reports two months of symmetrical proximal weakness without pain or sensory loss. Which features does the source describe as typical?",
+      "opts": [
+        "Fatigable weakness worsening with repetition",
+        "Bilateral, symmetrical, purely motor and proximal, with no significant pain and progression over weeks to months",
+        "Unilateral, distal and painful with sensory loss",
+        "Ascending areflexic paralysis with sensory involvement"
+      ],
+      "ans": 1,
+      "exp": "Typical features: weakness that is bilateral and symmetrical, purely motor, proximal, autoimmune (acquired), persistent, with no significant pain and progressive motor weakness over weeks to months. (Book p478)"
+    },
+    {
+      "id": "MED-C19-14",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "recall",
+      "q": "Which examination findings are printed for the muscular presentation?",
+      "opts": [
+        "Normal power with fasciculations and absent reflexes",
+        "Reduced power with a sensory level",
+        "Normal bulk with reduced power and tone, normal reflexes and an intact sensory system",
+        "Reduced bulk with brisk reflexes and sensory loss"
+      ],
+      "ans": 2,
+      "exp": "Examination findings: bulk normal, power reduced, tone reduced, reflexes normal and sensory system intact. (Book p478)"
+    },
+    {
+      "id": "MED-C19-15",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "recall",
+      "q": "Which muscle groups are specifically spared in the inflammatory muscle diseases?",
+      "opts": [
+        "Quadriceps and hip flexors",
+        "Neck flexors and respiratory muscles",
+        "Shoulder abductors",
+        "Extraocular and facial muscles"
+      ],
+      "ans": 3,
+      "exp": "The note lists the muscle groups not involved in IMD as the extraocular muscles and the facial muscles. (Book p478)"
+    },
+    {
+      "id": "MED-C19-16",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "numeric",
+      "q": "Which frequencies are printed for the atypical presentations of PM/DM?",
+      "opts": [
+        "30% have acute-subacute proximal pain and weakness; 10% have chronic proximal plus distal weakness",
+        "10% have acute-subacute proximal pain and weakness; 30% have chronic proximal plus distal weakness",
+        "50% have isolated distal weakness",
+        "5% have any atypical presentation"
+      ],
+      "ans": 0,
+      "exp": "Atypical: 30% present with proximal pain and weakness with an acute-subacute onset, and 10% with chronic proximal plus distal weakness; the syndrome table gives the same 30 and 10 figures for the corresponding rows. (Book p478)"
+    },
+    {
+      "id": "MED-C19-17",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "page": 478,
+      "fmt": "recall",
+      "q": "Which clinical syndrome in the frequency table runs over years rather than months?",
+      "opts": [
+        "Proximal myalgia alone",
+        "Insidious proximal and distal weakness over 1-10 years",
+        "Painless proximal weakness over 3-10 months",
+        "Acute or subacute proximal pain and weakness over weeks to months"
+      ],
+      "ans": 1,
+      "exp": "The syndrome table lists insidious proximal and distal weakness over 1-10 years, contrasted with painless proximal weakness over 3-10 months and acute or subacute proximal pain and weakness over weeks to months. (Book p478)"
+    },
+    {
+      "id": "MED-C19-18",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "scenario",
+      "q": "A patient with proximal weakness has violaceous flat-topped papules over the knuckles and a periorbital violaceous rash. Which lesions does the source call pathognomonic?",
+      "opts": [
+        "Shawl sign and V sign",
+        "Holster sign and periungual telangiectasia",
+        "Gottron's papules and the heliotrope rash",
+        "Mechanic's hands and Raynaud phenomenon"
+      ],
+      "ans": 2,
+      "exp": "Pathognomonic skin lesions: Gottron's papule (scaly erythematous flat-topped violaceous papule/plaque over the dorsal MCP, PIP and DIP) and heliotrope rash (violaceous periorbital oedema and erythema). (Book p479)"
+    },
+    {
+      "id": "MED-C19-19",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "recall",
+      "q": "How is Gottron's papule described?",
+      "opts": [
+        "A tender subcutaneous nodule over the shins",
+        "A purpuric macule on the buttocks",
+        "A keratotic plug on the palms only",
+        "A scaly, erythematous, flat-topped violaceous papule or plaque over the dorsal surface of MCP, PIP and DIP joints"
+      ],
+      "ans": 3,
+      "exp": "Gottron's papule: scaly erythematous flat-topped violaceous papule/plaque on the dorsal surface of MCP, PIP and DIP joints. (Book p479)"
+    },
+    {
+      "id": "MED-C19-20",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "scenario",
+      "q": "A patient with myositis has violaceous periorbital oedema and erythema. What is this rash called?",
+      "opts": [
+        "Violaceous periorbital oedema and erythema",
+        "A violaceous plaque over the knuckles",
+        "A photosensitive rash over the upper back",
+        "A periungual erythematous telangiectasia"
+      ],
+      "ans": 0,
+      "exp": "Heliotrope rash: violaceous periorbital oedema and erythema. (Book p479)"
+    },
+    {
+      "id": "MED-C19-21",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "recall",
+      "q": "How does the source distinguish Gottron's sign from Gottron's papule?",
+      "opts": [
+        "There is no difference between the two",
+        "Gottron's sign is the macular erythema over the papule, typically on extensor surfaces and photosensitive, with linear erythema over the dorsum of the hand",
+        "Gottron's sign is the same lesion on the elbow only",
+        "Gottron's sign is a scarring variant"
+      ],
+      "ans": 1,
+      "exp": "Other skin lesions: Gottron rash/sign is macular erythema over Gottron's papule, typically on extensor surfaces, photosensitive, with linear erythema over the dorsum of the hand. (Book p479)"
+    },
+    {
+      "id": "MED-C19-22",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "scenario",
+      "q": "A patient has a photosensitive erythematous rash over the chest and upper back, with a further patch on the lateral thigh. Which signs does the source name?",
+      "opts": [
+        "All three are on the face",
+        "All three are on the lower legs",
+        "V sign over the chest; shawl sign posteriorly over the back; holster sign on the lateral aspect of the thigh",
+        "V sign over the back; shawl sign over the chest; holster sign on the arm"
+      ],
+      "ans": 2,
+      "exp": "V sign is located over the chest, shawl sign posteriorly over the back and holster sign is erythema on the lateral aspect of the thigh; scalp involvement is generally pruritic. (Book p479)"
+    },
+    {
+      "id": "MED-C19-23",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "recall",
+      "q": "Which nail-fold findings are listed under telangiectasia?",
+      "opts": [
+        "Splinter haemorrhages with nail pitting",
+        "Onycholysis with subungual hyperkeratosis",
+        "Beau's lines with nail loss",
+        "Periungual erythema or oedema with cuticular hyperplasia"
+      ],
+      "ans": 3,
+      "exp": "Telangiectasia: nail-fold capillary involvement with periungual erythema or oedema, and cuticular hyperplasia also seen. (Book p479)"
+    },
+    {
+      "id": "MED-C19-24",
+      "sec": "Skin Manifestations",
+      "page": 479,
+      "fmt": "scenario",
+      "q": "A child with dermatomyositis develops firm subcutaneous deposits over the extremities. Which statements does the source make about calcinosis cutis?",
+      "opts": [
+        "It is due to deposition of calcium hydroxyapatite, is seen in juvenile dermatomyositis and also occurs in CREST syndrome",
+        "It is due to urate deposition and occurs only in gout",
+        "It is due to amorphous calcium phosphate and occurs only in SLE",
+        "It is a feature of adult dermatomyositis alone"
+      ],
+      "ans": 0,
+      "exp": "Calcinosis cutis: also seen in CREST syndrome and in juvenile dermatomyositis, and due to deposition of calcium hydroxyapatite. (Book p479)"
+    },
+    {
+      "id": "MED-C19-25",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "recall",
+      "q": "How does the dermatomyositis rash differ from the SLE rash on this page?",
+      "opts": [
+        "The DM rash is always associated with oral ulcers",
+        "The DM rash involves the knuckles, spares the nasolabial fold, is pruritic and is not associated with oral ulcers",
+        "The DM rash spares the knuckles and involves the nasolabial fold",
+        "The two rashes are indistinguishable"
+      ],
+      "ans": 1,
+      "exp": "SLE rash: never involves the knuckles, may involve the nasolabial fold, associated with painless oral cavity ulcers and non-pruritic. Dermatomyositis rash: involves the knuckles (MCP joint), does not involve the nasolabial fold, not associated with oral cavity ulcers and pruritic. (Book p480)"
+    },
+    {
+      "id": "MED-C19-26",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "recall",
+      "q": "Which statement about mechanic's hand is printed?",
+      "opts": [
+        "It is diagnostic of systemic sclerosis",
+        "It indicates underlying malignancy",
+        "It is not specific for dermatomyositis and forms part of the antisynthetase syndrome",
+        "It is pathognomonic of dermatomyositis"
+      ],
+      "ans": 2,
+      "exp": "Mechanic's hand: not specific for dermatomyositis and part of the antisynthetase syndrome. (Book p480)"
+    },
+    {
+      "id": "MED-C19-27",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "scenario",
+      "q": "A definitive test is needed in a patient with suspected inflammatory muscle disease. Which investigation does the source call the gold standard?",
+      "opts": [
+        "Serum creatine kinase",
+        "Electromyography",
+        "Whole-body MRI",
+        "Muscle biopsy"
+      ],
+      "ans": 3,
+      "exp": "Muscle biopsy is described as the gold standard test. (Book p480)"
+    },
+    {
+      "id": "MED-C19-28",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "recall",
+      "q": "Which muscle-biopsy features are printed for dermatomyositis?",
+      "opts": [
+        "Mononuclear (CD4-positive T-cell) infiltrate with perifascicular atrophy",
+        "CD8-positive T-cell endomysial invasion without atrophy",
+        "Red-rimmed vacuoles with amyloid deposits",
+        "Necrotizing fibres with no inflammation"
+      ],
+      "ans": 0,
+      "exp": "Muscle biopsy shows a mononuclear lymphocytic infiltrate of CD4+ T cells and perifascicular atrophy. (Book p480)"
+    },
+    {
+      "id": "MED-C19-29",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "recall",
+      "q": "Which MRI sequence and finding are printed?",
+      "opts": [
+        "Diffusion-weighted imaging showing restricted diffusion",
+        "STIR sequence showing hyperintense areas",
+        "T1 sequence showing hypointense fibrosis only",
+        "Gradient echo showing haemosiderin"
+      ],
+      "ans": 1,
+      "exp": "MRI: the STIR sequence shows hyperintense areas within muscle. (Book p480)"
+    },
+    {
+      "id": "MED-C19-30",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "recall",
+      "q": "Which electromyographic findings are listed in the investigations block?",
+      "opts": [
+        "A decremental response to repetitive nerve stimulation",
+        "Prolonged insertion with myotonic discharges only",
+        "Polyphasic short-duration small-amplitude potentials with high-frequency discharges and spontaneous fibrillation",
+        "Large polyphasic units with a reduced interference pattern"
+      ],
+      "ans": 2,
+      "exp": "EMG: polyphasic short-duration small-amplitude potentials, high-frequency discharges, and spontaneous fibrillation or denervation. (Book p480)"
+    },
+    {
+      "id": "MED-C19-31",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "scenario",
+      "q": "Enzymes in a patient with myositis show a creatine kinase above the AST. Which enzyme relationship does the source print?",
+      "opts": [
+        "AST exceeds CPK",
+        "Aldolase is the dominant enzyme",
+        "LDH is the only useful enzyme",
+        "CPK exceeds AST"
+      ],
+      "ans": 3,
+      "exp": "Enzymes: CPK is greater than AST. (Book p480)"
+    },
+    {
+      "id": "MED-C19-32",
+      "sec": "Rash Comparison & Investigations",
+      "page": 480,
+      "fmt": "recall",
+      "q": "Which antibody and prognostic profile is printed on this page?",
+      "opts": [
+        "Anti-Mi-2 alpha: good prognosis, low risk for ILD and responsive to conventional therapy with steroid and MMF",
+        "Anti-Jo-1: good prognosis with no ILD risk",
+        "Anti-SRP: excellent steroid response",
+        "Anti-MDA-5: low risk of rapidly progressive ILD"
+      ],
+      "ans": 0,
+      "exp": "Antibody associated: anti-Mi-2 alpha with good prognosis, low risk for ILD and responsiveness to conventional therapy (steroid plus MMF). (Book p480)"
+    },
+    {
+      "id": "MED-C19-33",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "recall",
+      "q": "How do the age groups differ between polymyositis and dermatomyositis in the comparison table?",
+      "opts": [
+        "Both occur only in children",
+        "Polymyositis occurs only in adults; dermatomyositis is also seen in the elderly and in juveniles",
+        "Dermatomyositis occurs only in adults; polymyositis also occurs in children",
+        "Both are confined to middle-aged adults"
+      ],
+      "ans": 1,
+      "exp": "Age group: polymyositis only in adults; dermatomyositis seen in the elderly or juvenile. (Book p481)"
+    },
+    {
+      "id": "MED-C19-34",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "scenario",
+      "q": "A patient with biopsy-proven myositis has no skin rash and no calcinosis. Which rows of the source's comparison table best separate the two entities?",
+      "opts": [
+        "Serum enzymes: raised in polymyositis, normal in dermatomyositis",
+        "EMG: abnormal in polymyositis, normal in dermatomyositis",
+        "Skin changes and calcinosis: absent or rare in polymyositis, present in dermatomyositis",
+        "Weakness distribution: distal in polymyositis, proximal in dermatomyositis"
+      ],
+      "ans": 2,
+      "exp": "Skin changes are absent in polymyositis and present in dermatomyositis; calcinosis is rare in polymyositis and seen in dermatomyositis. Both share subacute onset, proximal symmetric weakness, systemic features and normal-to-high enzymes. (Book p481)"
+    },
+    {
+      "id": "MED-C19-35",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "recall",
+      "q": "Which overlap statement is printed for the two entities?",
+      "opts": [
+        "Dermatomyositis never exists on its own",
+        "Neither is associated with overlap syndromes",
+        "Both always occur as isolated diseases",
+        "Polymyositis never exists on its own, whereas dermatomyositis can exist on its own"
+      ],
+      "ans": 3,
+      "exp": "Associated systemic conditions or overlap syndrome: yes for polymyositis, which never exists on its own, and yes for dermatomyositis, which can exist on its own. (Book p481)"
+    },
+    {
+      "id": "MED-C19-36",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "recall",
+      "q": "Which biopsy immunology distinguishes the two conditions?",
+      "opts": [
+        "Polymyositis shows CD8-positive T-cell involvement; dermatomyositis shows CD4-positive and B-cell involvement with perifascicular atrophy and perivascular inflammation",
+        "Both show identical CD8-positive endomysial infiltrates",
+        "Both show red-rimmed vacuoles",
+        "Neither shows any inflammatory infiltrate"
+      ],
+      "ans": 0,
+      "exp": "Biopsy findings: polymyositis shows CD8+ T-cell involvement while dermatomyositis shows CD4+ and B cells with perifascicular atrophy and perivascular inflammation. (Book p481)"
+    },
+    {
+      "id": "MED-C19-37",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "recall",
+      "q": "Which prognostic statement opens the antisynthetase syndrome block?",
+      "opts": [
+        "It requires no treatment",
+        "It is treatable if diagnosed early",
+        "It is uniformly fatal within a year",
+        "It never responds to immunosuppression"
+      ],
+      "ans": 1,
+      "exp": "The antisynthetase syndrome block opens with the statement that it is treatable if diagnosed early. (Book p481)"
+    },
+    {
+      "id": "MED-C19-38",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "scenario",
+      "q": "A patient with myositis has roughened skin on the radial side of the index finger, Raynaud phenomenon, cardiomyopathy and an SLE-like arthritis. Which syndrome and features does the source list?",
+      "opts": [
+        "Proximal myalgia with a normal CK",
+        "Isolated ILD with no systemic features",
+        "Mechanic's hand, Raynaud phenomenon, cardiomyopathy and an SLE-like arthritis (Jaccoud arthropathy)",
+        "Heliotrope rash, Gottron papules and calcinosis"
+      ],
+      "ans": 2,
+      "exp": "Antisynthetase syndrome clinical features: mechanic's hand, Raynaud's phenomenon, cardiomyopathy and an SLE-like arthritis (Jaccoud's arthropathy). (Book p481)"
+    },
+    {
+      "id": "MED-C19-39",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "recall",
+      "q": "How does the source describe mechanic's hand in the antisynthetase syndrome?",
+      "opts": [
+        "Violaceous papules over the dorsal MCP joints",
+        "Periungual telangiectasia with cuticular overgrowth",
+        "Painless nodules over the Achilles tendon",
+        "Crusted hyperkeratotic lesions on the radial aspect of the index and middle fingers"
+      ],
+      "ans": 3,
+      "exp": "Mechanic's hand is seen on the radial aspect of the index and middle finger and is characterised by crusted hyperkeratotic lesions. (Book p481)"
+    },
+    {
+      "id": "MED-C19-40",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "recall",
+      "q": "Which additional disease association is printed for Jaccoud's arthropathy?",
+      "opts": [
+        "It is also seen in Sjogren syndrome",
+        "It is also seen in sarcoidosis",
+        "It is pathognomonic of rheumatoid arthritis",
+        "It occurs only in the antisynthetase syndrome"
+      ],
+      "ans": 0,
+      "exp": "The note adds that Jaccoud's arthropathy is also seen in Sjogren's syndrome. (Book p481)"
+    },
+    {
+      "id": "MED-C19-41",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "page": 481,
+      "fmt": "management",
+      "q": "A patient with the antisynthetase syndrome has fever and pulmonary infiltrates on the chest radiograph. What does the source warn about?",
+      "opts": [
+        "It is a benign self-limiting finding",
+        "It can be mistaken for viral pneumonia and can progress to ILD, which is the most common cause of death",
+        "It is always a bacterial pneumonia needing antibiotics",
+        "It indicates an acute coronary syndrome"
+      ],
+      "ans": 1,
+      "exp": "Investigations: CXR shows fever with infiltrates, which can be mistaken for viral pneumonia and can progress into ILD; ILD can be the first presentation of the syndrome and is the most common cause of death. (Book p481)"
+    },
+    {
+      "id": "MED-C19-42",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "page": 482,
+      "fmt": "scenario",
+      "q": "HRCT in a patient with myositis shows ground-glass opacities with areas of consolidation. Which interstitial patterns does the source print?",
+      "opts": [
+        "Only cryptogenic organising pneumonia",
+        "Only usual interstitial pneumonia",
+        "NSIP and COP, with NSIP most common and identified by ground-glass opacities",
+        "UIP and LIP, with UIP most common"
+      ],
+      "ans": 2,
+      "exp": "ILD pattern: NSIP plus COP. NSIP is most common and identified by ground-glass opacities; COP is identified by consolidations. (Book p482)"
+    },
+    {
+      "id": "MED-C19-43",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "page": 482,
+      "fmt": "recall",
+      "q": "Which imaging signature is attached to a UIP pattern in these patients?",
+      "opts": [
+        "Ground-glass opacities without destruction",
+        "Consolidation with air bronchograms",
+        "Cavitation with an air-fluid level",
+        "Honeycombing with destruction of the lung parenchyma"
+      ],
+      "ans": 3,
+      "exp": "The note states UIP in the lung is identified by a honeycombing structure, that is destruction of the parenchyma. (Book p482)"
+    },
+    {
+      "id": "MED-C19-44",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "page": 482,
+      "fmt": "recall",
+      "q": "Which antibody and prognosis are attached to amyopathic dermatomyositis?",
+      "opts": [
+        "Anti-MDA-5 with a poor prognosis that is not treatable",
+        "Anti-Mi-2 with an excellent prognosis",
+        "Anti-Jo-1 with a good treatment response",
+        "Anti-SRP with reversible disease"
+      ],
+      "ans": 0,
+      "exp": "Amyopathic DM: poor prognosis and not treatable, with anti-MDA-5 antibody and a clinical triad featuring rapidly progressive ILD. (Book p482)"
+    },
+    {
+      "id": "MED-C19-45",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "page": 482,
+      "fmt": "scenario",
+      "q": "An 8-year-old girl with dermatomyositis has no cardiac involvement, no malignancy and no interstitial lung disease. Which pattern does the source print for juvenile disease?",
+      "opts": [
+        "Boys are affected twice as often as girls",
+        "Malignancy, cardiac involvement and ILD are absent; girls aged 5-15 years are commonly affected",
+        "Malignancy is common in juvenile disease",
+        "Cardiac involvement is the leading cause of death"
+      ],
+      "ans": 1,
+      "exp": "Juvenile DM commonly affects girls aged 5-15 years and malignancy, cardiac involvement and ILD are absent. (Book p482)"
+    },
+    {
+      "id": "MED-C19-46",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "page": 482,
+      "fmt": "recall",
+      "q": "Which antibodies are printed for juvenile dermatomyositis, and what does their presence in an adult imply?",
+      "opts": [
+        "Anti-SRP and anti-HMG-CoA reductase; in adults they indicate statin exposure",
+        "Anti-MDA-5 alone; in adults they indicate rapidly progressive ILD",
+        "Anti-NXP2 and anti-TIF1-gamma; in adults they indicate cancer-associated myositis",
+        "Anti-Jo-1 and anti-Mi-2; in adults they indicate overlap disease"
+      ],
+      "ans": 2,
+      "exp": "Juvenile DM antibodies are anti-NXP2 and anti-TIF1-gamma; if seen in adults they indicate cancer-associated myositis. (Book p482)"
+    },
+    {
+      "id": "MED-C19-47",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "page": 482,
+      "fmt": "recall",
+      "q": "Which antibody and treatment-response pairings are printed for immune-mediated necrotizing myopathy?",
+      "opts": [
+        "Both antibodies respond fully to steroids alone",
+        "Anti-SRP responds rapidly and anti-HMG-CoA reductase does not",
+        "Neither antibody is associated with treatment response",
+        "Anti-SRP in severe disease with ILD and cardiac involvement does not respond; anti-HMG-CoA reductase after statin therapy responds to steroid, IVIG and rituximab"
+      ],
+      "ans": 3,
+      "exp": "Immune-mediated necrotizing DM: anti-SRP in severe disease with ILD and cardiac manifestations does not respond; anti-HMG-CoA reductase, seen with statin therapy, responds to steroid plus IVIG plus rituximab (rarely). (Book p482)"
+    },
+    {
+      "id": "MED-C19-48",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "scenario",
+      "q": "An elderly man presents with recurrent falls and slowly progressive weakness. Which demographic and presenting pattern does the source print?",
+      "opts": [
+        "Most common in the elderly with male predominance, presenting with recurrent falls and a chronic course",
+        "Most common in young women with an acute febrile onset",
+        "Most common in children with a rash",
+        "Most common in middle-aged women with proximal weakness only"
+      ],
+      "ans": 0,
+      "exp": "IBM: most common in the elderly (males more than females), presenting with recurrent falls and a chronic presentation. (Book p483)"
+    },
+    {
+      "id": "MED-C19-49",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "recall",
+      "q": "How is the weakness of inclusion body myositis described?",
+      "opts": [
+        "Facial and ocular weakness",
+        "Asymmetrical proximal and distal involvement, including quadriceps, vastus and finger flexors",
+        "Symmetrical proximal weakness only",
+        "Purely distal sensory loss"
+      ],
+      "ans": 1,
+      "exp": "IBM weakness is asymmetrical, proximal plus distal, and involves the quadriceps, vastus and finger flexors. (Book p483)"
+    },
+    {
+      "id": "MED-C19-50",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "scenario",
+      "q": "A muscle biopsy shows red-rimmed vacuoles and the patient has not improved on steroids. Which histology and treatment response does the source print?",
+      "opts": [
+        "Necrotizing fibres responding to rituximab",
+        "Non-caseating granulomas responding to methotrexate",
+        "Red-rimmed vacuoles with a steroid-unresponsive course",
+        "Perifascicular atrophy with an excellent steroid response"
+      ],
+      "ans": 2,
+      "exp": "IBM histology shows red-rimmed vacuoles and the disease is steroid unresponsive. (Book p483)"
+    },
+    {
+      "id": "MED-C19-51",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "recall",
+      "q": "Which malignancies are paired with dermatomyositis on this page?",
+      "opts": [
+        "Breast cancer is characteristic and colon cancer the most common",
+        "Gastric cancer is characteristic and lymphoma the most common",
+        "Prostate cancer is characteristic and melanoma the most common",
+        "Ovarian cancer is characteristic and lung cancer is the most common"
+      ],
+      "ans": 3,
+      "exp": "Cancers associated with DM: carcinoma ovary is characteristic and carcinoma lung is the most common. (Book p483)"
+    },
+    {
+      "id": "MED-C19-52",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "recall",
+      "q": "Which antibody is printed for the antisynthetase syndrome in the antibody table?",
+      "opts": [
+        "Anti-Jo-1",
+        "Anti-Mi-2 alpha",
+        "Anti-MDA-5",
+        "Anti-Ku"
+      ],
+      "ans": 0,
+      "exp": "Antibodies specific to IMDs: dermatomyositis with anti-Mi-2 alpha, antisynthetase syndrome with anti-Jo-1, necrotizing myopathy with anti-SRP and anti-HMG-CoA reductase, amyopathic DM with anti-MDA-5, and juvenile DM and cancer-associated myositis with anti-NXP2 and anti-TIF1-gamma. (Book p483)"
+    },
+    {
+      "id": "MED-C19-53",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "recall",
+      "q": "Which antibodies are listed as OTHER associated antibodies, and what is noted for two of them?",
+      "opts": [
+        "Anti-RNA polymerase III and anti-U1 RNP",
+        "Anti-Ro, anti-Ku (which may develop ILD) and anti-PM/Scl (polymyositis with scleroderma with or without ILD and a nucleolar ANA pattern)",
+        "Anti-centromere and anti-topoisomerase",
+        "Anti-dsDNA and anti-Sm"
+      ],
+      "ans": 1,
+      "exp": "Other associated antibodies: anti-Ro; anti-Ku, which may develop ILD; and anti-PM/Scl, seen in polymyositis with scleroderma with or without ILD and showing an ANA nucleolar pattern. (Book p483)"
+    },
+    {
+      "id": "MED-C19-54",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "recall",
+      "q": "Which antibodies are shared by juvenile dermatomyositis and cancer-associated myositis?",
+      "opts": [
+        "Anti-Mi-2 and anti-MDA-5",
+        "Anti-Ku and anti-Ro",
+        "Anti-NXP2 and anti-TIF1-gamma",
+        "Anti-Jo-1 and anti-SRP"
+      ],
+      "ans": 2,
+      "exp": "Both juvenile DM and cancer-associated myositis are listed with anti-NXP2 and anti-TIF1-gamma. (Book p483)"
+    },
+    {
+      "id": "MED-C19-55",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "management",
+      "q": "What is the printed first-line treatment for the inflammatory muscle diseases?",
+      "opts": [
+        "Steroid alone in pulsed doses only",
+        "Methotrexate monotherapy",
+        "Intravenous immunoglobulin alone",
+        "Steroid plus methotrexate, or steroid plus mycophenolate mofetil"
+      ],
+      "ans": 3,
+      "exp": "Treatment: the goal is clinical elimination of all disease activity; first line is steroid plus MTX or steroid plus MMF. (Book p483)"
+    },
+    {
+      "id": "MED-C19-56",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "management",
+      "q": "Which agents are listed as second-line treatment?",
+      "opts": [
+        "Rituximab and JAK inhibitors such as tofacitinib",
+        "Cyclophosphamide and azathioprine",
+        "Anti-TNF agents and anakinra",
+        "Plasma exchange alone"
+      ],
+      "ans": 0,
+      "exp": "Second-line treatment: rituximab and JAK inhibitors (tofacitinib). (Book p483)"
+    },
+    {
+      "id": "MED-C19-57",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "page": 483,
+      "fmt": "recall",
+      "q": "What is stated as the goal of treatment for the inflammatory muscle diseases?",
+      "opts": [
+        "Lifelong steroid monotherapy",
+        "Clinical elimination of all disease activity",
+        "Normalisation of the muscle biopsy",
+        "Normalisation of the EMG"
+      ],
+      "ans": 1,
+      "exp": "The treatment goal is clinical elimination of all disease activity. (Book p483)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U19-1",
+      "ch": 19,
+      "n": 1,
+      "title": "1. Definition, Classification & Bohan-Peter Criteria",
+      "sec": "Definition, Classification & Bohan-Peter Criteria",
+      "guide": "The definition sets the time course and the inflammatory target before any classification.\nOld and current classifications are contrasted, with polymyositis now an obsolete term.\nThe Bohan-Peter criteria then list the clinical, enzymatic, electrophysiological, biopsy and cutaneous items.",
+      "qs": [
+        "MED-C19-01",
+        "MED-C19-02",
+        "MED-C19-03",
+        "MED-C19-04",
+        "MED-C19-05",
+        "MED-C19-06",
+        "MED-C19-07",
+        "MED-C19-08"
+      ]
+    },
+    {
+      "id": "MED-U19-2",
+      "ch": 19,
+      "n": 2,
+      "title": "2. Risk Factors, HLA Links & Muscular Presentation",
+      "sec": "Risk Factors, HLA Links & Muscular Presentation",
+      "guide": "Risk factors are split into genetic and environmental, with drugs among the environmental triggers.\nThe HLA note then places dermatomyositis among the other HLA-associated connective-tissue diseases.\nThe typical muscular presentation and the syndrome-frequency table follow.",
+      "qs": [
+        "MED-C19-09",
+        "MED-C19-10",
+        "MED-C19-11",
+        "MED-C19-12",
+        "MED-C19-13",
+        "MED-C19-14",
+        "MED-C19-15",
+        "MED-C19-16",
+        "MED-C19-17"
+      ]
+    },
+    {
+      "id": "MED-U19-3",
+      "ch": 19,
+      "n": 3,
+      "title": "3. Skin Manifestations",
+      "sec": "Skin Manifestations",
+      "guide": "Pathognomonic lesions are separated from the wider set of skin signs.\nEach lesion is then localised to its characteristic site.\nCalcinosis cutis closes the list with its chemistry and its associations.",
+      "qs": [
+        "MED-C19-18",
+        "MED-C19-19",
+        "MED-C19-20",
+        "MED-C19-21",
+        "MED-C19-22",
+        "MED-C19-23",
+        "MED-C19-24"
+      ]
+    },
+    {
+      "id": "MED-U19-4",
+      "ch": 19,
+      "n": 4,
+      "title": "4. Rash Comparison & Investigations",
+      "sec": "Rash Comparison & Investigations",
+      "guide": "A comparison note separates the dermatomyositis rash from the SLE rash.\nInvestigations then run from biopsy through MRI and EMG to enzymes and antibody prognostication.\nMechanic's hand is placed in the antisynthetase group rather than being disease specific.",
+      "qs": [
+        "MED-C19-25",
+        "MED-C19-26",
+        "MED-C19-27",
+        "MED-C19-28",
+        "MED-C19-29",
+        "MED-C19-30",
+        "MED-C19-31",
+        "MED-C19-32"
+      ]
+    },
+    {
+      "id": "MED-U19-5",
+      "ch": 19,
+      "n": 5,
+      "title": "5. Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "sec": "Polymyositis vs Dermatomyositis & Antisynthetase Syndrome",
+      "guide": "The comparison table contrasts the two classic entities feature by feature.\nBiopsy immunology is the discriminator when the clinical features overlap.\nThe antisynthetase syndrome is then presented as a treatable early-diagnosis entity.",
+      "qs": [
+        "MED-C19-33",
+        "MED-C19-34",
+        "MED-C19-35",
+        "MED-C19-36",
+        "MED-C19-37",
+        "MED-C19-38",
+        "MED-C19-39",
+        "MED-C19-40",
+        "MED-C19-41"
+      ]
+    },
+    {
+      "id": "MED-U19-6",
+      "ch": 19,
+      "n": 6,
+      "title": "6. ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "sec": "ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy",
+      "guide": "The ILD patterns of the myositides are named with their imaging signatures.\nAmyopathic and juvenile dermatomyositis are then contrasted by prognosis and antibodies.\nThe necrotizing myopathy table maps antibody to cause and treatment response.",
+      "qs": [
+        "MED-C19-42",
+        "MED-C19-43",
+        "MED-C19-44",
+        "MED-C19-45",
+        "MED-C19-46",
+        "MED-C19-47"
+      ]
+    },
+    {
+      "id": "MED-U19-7",
+      "ch": 19,
+      "n": 7,
+      "title": "7. Inclusion Body Myositis, Antibodies & Treatment",
+      "sec": "Inclusion Body Myositis, Antibodies & Treatment",
+      "guide": "Inclusion body myositis is set apart by its distribution, histology and steroid resistance.\nAntibody tables then map each myositis subset and its malignancy links.\nThe treatment ladder closes the chapter with first- and second-line choices.",
+      "qs": [
+        "MED-C19-48",
+        "MED-C19-49",
+        "MED-C19-50",
+        "MED-C19-51",
+        "MED-C19-52",
+        "MED-C19-53",
+        "MED-C19-54",
+        "MED-C19-55",
+        "MED-C19-56",
+        "MED-C19-57"
+      ]
+    }
+  ]
+}

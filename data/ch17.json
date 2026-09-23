@@ -1,0 +1,609 @@
+{
+  "chapter": 17,
+  "title": "Antiphospholipid Syndrome",
+  "pageRange": "466-469",
+  "questions": [
+    {
+      "id": "MED-C17-01",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "page": 466,
+      "fmt": "recall",
+      "q": "Which earlier name for antiphospholipid syndrome is printed at the head of the chapter?",
+      "opts": [
+        "Acquired phospholipid anaemia syndrome",
+        "Autoimmune platelet activation syndrome",
+        "Antiphospholipid anticoagulant deficiency",
+        "Antiphospholipid antibody syndrome (APLA)"
+      ],
+      "ans": 3,
+      "exp": "The heading notes the syndrome was earlier called antiphospholipid antibody syndrome (APLA). (Book p466)"
+    },
+    {
+      "id": "MED-C17-02",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "page": 466,
+      "fmt": "numeric",
+      "q": "What proportion of SLE cases is printed as antiphospholipid-syndrome positive?",
+      "opts": [
+        "One-third of SLE cases",
+        "One-tenth of SLE cases",
+        "All SLE cases",
+        "None of the SLE cases"
+      ],
+      "ans": 0,
+      "exp": "The chapter notes that one-third of SLE cases are APS positive. (Book p466)"
+    },
+    {
+      "id": "MED-C17-03",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "page": 466,
+      "fmt": "scenario",
+      "q": "A patient with SLE is found to have antiphospholipid antibodies and asks about the thrombotic tendency. Which pattern does the source describe?",
+      "opts": [
+        "Increased arterial dissection risk without thrombosis",
+        "Increased susceptibility to thrombus formation, venous more than arterial",
+        "Increased susceptibility to haemorrhage, venous more than arterial",
+        "Increased capillary fragility with purpura only"
+      ],
+      "ans": 1,
+      "exp": "In the complications-of-SLE note, APS is described as increasing susceptibility to thrombus formation, with venous more than arterial events. (Book p466)"
+    },
+    {
+      "id": "MED-C17-04",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "page": 466,
+      "fmt": "recall",
+      "q": "Which complication listed under SLE involves medium vessels of the gut and CNS?",
+      "opts": [
+        "Glomerular disease",
+        "Complications of immunosuppression",
+        "Vasculitis",
+        "Accelerated atherosclerosis"
+      ],
+      "ans": 2,
+      "exp": "The SLE complications note lists accelerated atherosclerosis, glomerular disease (class III/IV lupus nephritis), complications of immunosuppression, vasculitis of medium vessels (GIT/CNS) and APS. (Book p466)"
+    },
+    {
+      "id": "MED-C17-05",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "page": 466,
+      "fmt": "numeric",
+      "q": "How does the source divide primary and secondary APS?",
+      "opts": [
+        "About 90% primary; secondary disease does not exist",
+        "About 10% primary; the rest are secondary to malignancy",
+        "All cases are secondary to SLE",
+        "About 50% primary, associated with HLA DR4 and DRw53; at least 50% secondary, most commonly from SLE"
+      ],
+      "ans": 3,
+      "exp": "APS: 50% of cases are primary, associated with HLA DR4 and HLA DRw53; 50% or more are secondary, most commonly due to SLE (one-third of APS). (Book p466)"
+    },
+    {
+      "id": "MED-C17-06",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "page": 466,
+      "fmt": "recall",
+      "q": "Which HLA-disease pairing is printed in the side note beside the APS epidemiology block?",
+      "opts": [
+        "HLA DR3 positivity is linked to Sjogren syndrome and SLE; the most common cause of secondary Sjogren is rheumatoid arthritis",
+        "HLA DR4 positivity is linked to Sjogren syndrome and SLE",
+        "HLA DR5 positivity is linked to Sjogren syndrome",
+        "No HLA association is noted for Sjogren syndrome"
+      ],
+      "ans": 0,
+      "exp": "The side note states the most common cause of secondary Sjogren is RA and that HLA DR3 positivity is associated with Sjogren syndrome and SLE. (Book p466)"
+    },
+    {
+      "id": "MED-C17-07",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 466,
+      "fmt": "recall",
+      "q": "Against which targets are the antiphospholipid antibodies directed according to the pathophysiology diagram?",
+      "opts": [
+        "Endothelial nitric oxide synthase alone",
+        "Phospholipid-binding proteins: beta-2 glycoprotein I, the prothrombin-phosphatidylserine complex and annexin",
+        "Platelet glycoprotein IIb/IIIa alone",
+        "Factor VIII alone"
+      ],
+      "ans": 1,
+      "exp": "Antibodies are directed against phospholipid-binding proteins: beta-2 glycoprotein I, the prothrombin-phosphatidylserine complex and annexin, with platelet surface proteins shown alongside. (Book p466)"
+    },
+    {
+      "id": "MED-C17-08",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 466,
+      "fmt": "numeric",
+      "q": "Which platelet count range is printed alongside the raised propensity to thrombosis?",
+      "opts": [
+        "Thrombocytosis above one lakh",
+        "A normal platelet count is mandatory",
+        "Thrombocytopenia of about 50,000 to one lakh",
+        "Thrombocytopenia below 10,000"
+      ],
+      "ans": 2,
+      "exp": "The pathway ends in thrombocytopenia (50,000 to one lakh) with an increased propensity to thrombosis. (Book p466)"
+    },
+    {
+      "id": "MED-C17-09",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 466,
+      "fmt": "recall",
+      "q": "Which downstream mechanisms are printed after antigen-antibody complex formation?",
+      "opts": [
+        "Platelet inhibition and fibrinolysis leading to bleeding",
+        "Complement inhibition with no thrombotic tendency",
+        "Purely arterial vasospasm without thrombosis",
+        "Increased affinity for platelets and complement activation, plus reduced inhibition of coagulation factors, leading to thrombosis"
+      ],
+      "ans": 3,
+      "exp": "The diagram shows the Ag-Ab complex with increased affinity for platelets, activation of the complement cascade, thrombocytopenia with a raised thrombotic tendency, and reduced inhibition of coagulation factors progressing to thrombosis. (Book p466)"
+    },
+    {
+      "id": "MED-C17-10",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "recall",
+      "q": "What are the two hits printed in the APS model?",
+      "opts": [
+        "First hit: antibody causing endothelial injury; second hit: oestrogen, smoking, obesity or other prothrombotic states",
+        "First hit: infection; second hit: malignancy",
+        "First hit: platelet antibodies; second hit: complement deficiency",
+        "First hit: trauma; second hit: immobilisation only"
+      ],
+      "ans": 0,
+      "exp": "The two hits are the antibody causing endothelial injury and a second hit such as oestrogen, smoking, obesity or other prothrombotic states. (Book p467)"
+    },
+    {
+      "id": "MED-C17-11",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "scenario",
+      "q": "A young woman presents with an unprovoked venous thrombosis and thrombophilia testing is planned. Which ranking of causes does the source print?",
+      "opts": [
+        "Acquired and inherited causes are equally common",
+        "Acquired: antiphospholipid syndrome is the most common; inherited: factor V Leiden mutation",
+        "Acquired: malignancy is the most common; inherited: protein C deficiency",
+        "Inherited: factor V Leiden is more common than any acquired cause"
+      ],
+      "ans": 1,
+      "exp": "The most common cause of thrombophilia is acquired (APS), greater than inherited factor V Leiden mutation. (Book p467)"
+    },
+    {
+      "id": "MED-C17-12",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "recall",
+      "q": "How is the thrombosis spectrum ranked in the clinical-features list?",
+      "opts": [
+        "Stroke more than DVT more than Budd-Chiari syndrome",
+        "Superficial thrombophlebitis more than DVT",
+        "DVT more than arterial thrombosis (stroke) more than Budd-Chiari syndrome",
+        "Budd-Chiari syndrome more than DVT more than stroke"
+      ],
+      "ans": 2,
+      "exp": "Thrombosis: DVT is more common than arterial thrombosis (stroke), which is more common than Budd-Chiari syndrome. (Book p467)"
+    },
+    {
+      "id": "MED-C17-13",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "scenario",
+      "q": "A patient with antiphospholipid syndrome presents with painful hepatomegaly and ascites, and later with a cerebral venous thrombosis. Which venous territories does the source name?",
+      "opts": [
+        "Portal vein causing portal hypertension only",
+        "Renal vein causing nephrotic syndrome only",
+        "Upper-limb veins only",
+        "Hepatic vein causing Budd-Chiari syndrome and cerebral veins causing cortical vein thrombosis"
+      ],
+      "ans": 3,
+      "exp": "Veins involved: hepatic vein gives Budd-Chiari syndrome and cerebral veins give cerebral venous thrombosis. (Book p467)"
+    },
+    {
+      "id": "MED-C17-14",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "recall",
+      "q": "Which organs are listed under microvascular APS involvement?",
+      "opts": [
+        "Kidneys more than adrenals",
+        "Liver more than spleen",
+        "Skin more than joints",
+        "Heart more than lungs"
+      ],
+      "ans": 0,
+      "exp": "Microvascular involvement affects the kidneys more than the adrenals. (Book p467)"
+    },
+    {
+      "id": "MED-C17-15",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "scenario",
+      "q": "A young patient has livedo reticularis and an ischaemic stroke. Which syndrome does the source name?",
+      "opts": [
+        "Fabry disease",
+        "Sneddon's syndrome",
+        "Susac syndrome",
+        "Eales disease"
+      ],
+      "ans": 1,
+      "exp": "Sneddon's syndrome is listed with livedo reticularis and stroke in the APS clinical-features block. (Book p467)"
+    },
+    {
+      "id": "MED-C17-16",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "scenario",
+      "q": "A young woman presents with hepatic vein thrombosis and antiphospholipid antibodies are considered. Which differential diagnosis does the source list?",
+      "opts": [
+        "APS, sarcoidosis and amyloidosis",
+        "APS, malaria and leptospirosis",
+        "APS, polycythemia rubra vera and paroxysmal nocturnal haemoglobinuria",
+        "APS, Wilson disease and haemochromatosis"
+      ],
+      "ans": 2,
+      "exp": "The note gives the differential for hepatic vein thrombosis as APS, polycythemia rubra vera and PNH (paroxysmal nocturnal haemoglobinuria). (Book p467)"
+    },
+    {
+      "id": "MED-C17-17",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "page": 467,
+      "fmt": "scenario",
+      "q": "A young patient with antiphospholipid syndrome has an acute neurological deficit with a cranial nerve palsy and pyramidal weakness. Which stroke profile does the source highlight?",
+      "opts": [
+        "Insidious onset with a purely sensory deficit",
+        "Stepwise progression with normal examination",
+        "Always haemorrhagic with coma",
+        "Acute onset, cranial nerve palsy and a pyramidal pattern of weakness"
+      ],
+      "ans": 3,
+      "exp": "The note describes the stroke as acute in onset with cranial nerve palsy and a pyramidal pattern of weakness. (Book p467)"
+    },
+    {
+      "id": "MED-C17-18",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 467,
+      "fmt": "numeric",
+      "q": "What persistence requirement is printed for the Sapporo laboratory criteria?",
+      "opts": [
+        "Any antibody positive twice, at least 12 weeks apart",
+        "A single positive antibody at any time",
+        "Three positive results within one week",
+        "Antibody positivity for five consecutive years"
+      ],
+      "ans": 0,
+      "exp": "Laboratory criteria: any antibody positive twice over 12 weeks. (Book p467)"
+    },
+    {
+      "id": "MED-C17-19",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 467,
+      "fmt": "recall",
+      "q": "Which assay is attached to anti-beta-2 glycoprotein I antibodies in the Sapporo criteria?",
+      "opts": [
+        "Agglutination testing only",
+        "ELISA for IgG or IgM anti-beta-2 glycoprotein I",
+        "Indirect immunofluorescence on HEp-2 cells",
+        "Western blot only"
+      ],
+      "ans": 1,
+      "exp": "Anti-beta-2 glycoprotein I (IgG/IgM) is detected by ELISA. (Book p467)"
+    },
+    {
+      "id": "MED-C17-20",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 467,
+      "fmt": "numeric",
+      "q": "Which anticardiolipin threshold and performance are printed?",
+      "opts": [
+        "IgA above 40 units; described as specific",
+        "Any titre; described as neither sensitive nor specific",
+        "IgG or IgM above 40 units; described as sensitive",
+        "IgG or IgM above 4 units; described as specific"
+      ],
+      "ans": 2,
+      "exp": "Anti-cardiolipin antibody (IgG/IgM >40 units) is described as sensitive. (Book p467)"
+    },
+    {
+      "id": "MED-C17-21",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 467,
+      "fmt": "scenario",
+      "q": "A patient has an unexplained prolonged aPTT and a positive lupus anticoagulant. How does the source characterise this test, and which assays are named?",
+      "opts": [
+        "Sensitive but not specific: normal aPTT with a raised bleeding time",
+        "Both highly sensitive and specific: prolonged prothrombin time only",
+        "Of no diagnostic value in APS",
+        "Specific but not sensitive: raised aPTT and a raised dilute Russell's viper venom test (dRVVT)"
+      ],
+      "ans": 3,
+      "exp": "Lupus anticoagulant is specific but not sensitive, with a raised aPTT and a raised dRVVT (diluted Russell's viper venom test). (Book p467)"
+    },
+    {
+      "id": "MED-C17-22",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 468,
+      "fmt": "recall",
+      "q": "Which vascular event satisfies the clinical criterion for APS?",
+      "opts": [
+        "A vascular event due to venous or arterial thrombosis",
+        "Any episode of vasovagal syncope",
+        "A bleed requiring transfusion",
+        "An isolated elevation of D-dimer"
+      ],
+      "ans": 0,
+      "exp": "Clinical criteria: a vascular event due to venous or arterial thrombosis. (Book p468)"
+    },
+    {
+      "id": "MED-C17-23",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 468,
+      "fmt": "numeric",
+      "q": "Which obstetric criteria are printed for APS?",
+      "opts": [
+        "Infertility alone",
+        "Any one miscarriage at or beyond 10 weeks, or three or more miscarriages before 10 weeks, or premature delivery before 34 weeks of a morphologically normal neonate due to pre-eclampsia, eclampsia or HELLP syndrome",
+        "Any two first-trimester losses with a chromosomal abnormality",
+        "Delivery before 37 weeks for any reason"
+      ],
+      "ans": 1,
+      "exp": "Pregnancy criteria: one miscarriage ≥10 weeks, or ≥3 miscarriages before 10 weeks, or premature delivery <34 weeks of a morphologically normal neonate due to pre-eclampsia, eclampsia or HELLP syndrome. (Book p468)"
+    },
+    {
+      "id": "MED-C17-24",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "page": 468,
+      "fmt": "scenario",
+      "q": "A woman with recurrent pregnancy loss after 10 weeks of gestation is evaluated for antiphospholipid syndrome. Which obstetric role does the source highlight?",
+      "opts": [
+        "APS never causes pregnancy loss",
+        "APS causes loss only in the third trimester",
+        "APS is the most common cause of second-trimester abortion, that is loss after 10 weeks",
+        "APS only causes first-trimester loss"
+      ],
+      "ans": 2,
+      "exp": "The note states APS is the most common cause of second-trimester abortion (after 10 weeks). (Book p468)"
+    },
+    {
+      "id": "MED-C17-25",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 468,
+      "fmt": "scenario",
+      "q": "A patient with antiphospholipid syndrome has chorea and a pansystolic murmur from mitral regurgitation. Which non-criteria manifestations does the source list?",
+      "opts": [
+        "CNS: stroke only; cardiac: myocardial infarction only",
+        "CNS: dementia; cardiac: aortic stenosis",
+        "CNS: meningitis; cardiac: pericardial tamponade",
+        "CNS: chorea, epilepsy and migraine; cardiac: Libman-Sacks endocarditis and mitral regurgitation"
+      ],
+      "ans": 3,
+      "exp": "Non-criteria APS: CNS shows chorea, epilepsy and migraine; cardiac shows Libman-Sacks endocarditis and MR. (Book p468)"
+    },
+    {
+      "id": "MED-C17-26",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 468,
+      "fmt": "recall",
+      "q": "Which haematological manifestations are listed under non-criteria APS?",
+      "opts": [
+        "Warm-antibody autoimmune haemolytic anaemia and Evan's syndrome",
+        "Cold agglutinin disease and sickle cell crisis",
+        "Iron-deficiency anaemia and thalassaemia trait",
+        "Aplastic anaemia and myelodysplasia"
+      ],
+      "ans": 0,
+      "exp": "Hematological: warm-antibody autoimmune haemolytic anaemia and Evan's syndrome, with thrombocytopenia not significant enough to cause bleeding. (Book p468)"
+    },
+    {
+      "id": "MED-C17-27",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 468,
+      "fmt": "scenario",
+      "q": "A renal biopsy in a patient with antiphospholipid antibodies shows thrombotic microangiopathy. How does the source describe the renal lesion?",
+      "opts": [
+        "Acute tubular necrosis from hypotension",
+        "APS nephropathy: thrombotic microangiopathy from microvascular involvement of the kidney",
+        "Immune-complex membranous nephropathy",
+        "Minimal-change disease"
+      ],
+      "ans": 1,
+      "exp": "Renal: APS nephropathy is a thrombotic microangiopathy due to microvascular involvement of the kidney. (Book p468)"
+    },
+    {
+      "id": "MED-C17-28",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 468,
+      "fmt": "scenario",
+      "q": "A patient with antiphospholipid syndrome collapses in shock and livedo reticularis is noted over the legs. Which non-criteria entries explain these findings?",
+      "opts": [
+        "Endocrine: diabetes insipidus; dermatological: vitiligo",
+        "Endocrine: hyperparathyroidism; dermatological: psoriasis",
+        "Endocrine: adrenal-vessel infarction with adrenal insufficiency; dermatological: venous obstruction and venular dilatation producing livedo reticularis",
+        "Endocrine: thyroiditis; dermatological: urticaria"
+      ],
+      "ans": 2,
+      "exp": "Endocrine: infarction of adrenal vessels leads to adrenal insufficiency (shock); dermatological: venous obstruction with venular dilatation gives livedo reticularis. (Book p468)"
+    },
+    {
+      "id": "MED-C17-29",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "recall",
+      "q": "Which domains are listed under the clinical and laboratory columns of the APS domain table?",
+      "opts": [
+        "Clinical: fever and rash; laboratory: ESR and CRP",
+        "Clinical: renal and hepatic; laboratory: complement and immunoglobulins",
+        "Clinical: neurologic and pulmonary; laboratory: imaging and biopsy",
+        "Clinical: macrovascular venous, macrovascular arterial, microvascular, obstetric, cardiac valve and haematology; laboratory: lupus anticoagulant test and other antibody tests"
+      ],
+      "ans": 3,
+      "exp": "Domains: clinical domains 1-6 (macrovascular venous, macrovascular arterial, microvascular, obstetric, cardiac valve, haematology) and laboratory domains 7-8 (lupus anticoagulant test, other antibody tests). (Book p469)"
+    },
+    {
+      "id": "MED-C17-30",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "numeric",
+      "q": "How is catastrophic APS defined in the note?",
+      "opts": [
+        "Three or more organ systems involved within one week, with small-vessel involvement",
+        "One organ system involved over one year",
+        "Two organ systems over one month with large-vessel disease",
+        "Any thrombotic event with a positive antibody"
+      ],
+      "ans": 0,
+      "exp": "Catastrophic APS: three or more organ systems involved within one week, with small vessels involved; presentations include thrombotic microangiopathy of the kidney and adrenal insufficiency. (Book p469)"
+    },
+    {
+      "id": "MED-C17-31",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "management",
+      "q": "An asymptomatic adult with antiphospholipid antibodies but no events is reviewed. What does the source advise?",
+      "opts": [
+        "Monthly intravenous immunoglobulin",
+        "No treatment is required",
+        "Lifelong warfarin",
+        "Dual antiplatelet therapy"
+      ],
+      "ans": 1,
+      "exp": "Management: an asymptomatic adult requires no treatment. (Book p469)"
+    },
+    {
+      "id": "MED-C17-32",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "numeric",
+      "q": "Which anticoagulation targets and regimens are printed for an adult with a thrombotic episode?",
+      "opts": [
+        "Target INR 3.5-4.5 with warfarin alone for six weeks",
+        "Target INR 2.5-3 with a direct oral anticoagulant",
+        "Target INR 2.5-3 using heparin 5000 units three times daily subcutaneously or LMWH 60 mg twice daily, overlapped with warfarin continued lifelong",
+        "Target INR 1-1.5 with aspirin alone"
+      ],
+      "ans": 2,
+      "exp": "To attain an INR of 2.5-3: heparin 5000 units TDS SC or LMWH 60 mg BD SC, with warfarin overlapped with heparin/LMWH and continued lifelong; the note adds there is no role for NOACs. (Book p469)"
+    },
+    {
+      "id": "MED-C17-33",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "management",
+      "q": "A pregnant patient with known APS and a history of previous thrombosis asks about prophylaxis. What is printed?",
+      "opts": [
+        "Warfarin throughout pregnancy",
+        "Aspirin alone for the first trimester only",
+        "No prophylaxis is required",
+        "Prophylactic low-dose aspirin plus heparin throughout pregnancy and for 6-12 weeks post-partum"
+      ],
+      "ans": 3,
+      "exp": "Pregnancy management: prophylactic low-dose aspirin with heparin throughout pregnancy and for 6-12 weeks post-partum; warfarin is continued lifelong if APS is diagnosed. (Book p469)"
+    },
+    {
+      "id": "MED-C17-34",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "management",
+      "q": "Which regimen is printed for catastrophic APS?",
+      "opts": [
+        "Steroids plus intravenous immunoglobulin plus plasmapheresis",
+        "Warfarin alone",
+        "Aspirin plus clopidogrel",
+        "Cyclophosphamide pulses"
+      ],
+      "ans": 0,
+      "exp": "Catastrophic APS is managed with steroids, IV Ig and plasmapheresis. (Book p469)"
+    },
+    {
+      "id": "MED-C17-35",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "page": 469,
+      "fmt": "scenario",
+      "q": "A patient with antiphospholipid syndrome on warfarin asks whether a direct oral anticoagulant can replace it. Which caution does the source print?",
+      "opts": [
+        "NOACs replace warfarin after one year",
+        "There is no role for new oral anticoagulants (NOACs) in APS",
+        "NOACs are the first-line choice in all APS patients",
+        "NOACs are preferred in pregnancy"
+      ],
+      "ans": 1,
+      "exp": "The note states there is no role for new oral anticoagulants (NOACs) in APS. (Book p469)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U17-1",
+      "ch": 17,
+      "n": 1,
+      "title": "1. APS Overview, SLE Association & Pathophysiology",
+      "sec": "APS Overview, SLE Association & Pathophysiology",
+      "guide": "The chapter opens with the older APLA terminology and the size of the APS/SLE overlap.\nA note lists the complications of SLE that set the stage for APS.\nPathophysiology then traces antigen-antibody complexes to thrombosis.",
+      "qs": [
+        "MED-C17-01",
+        "MED-C17-02",
+        "MED-C17-03",
+        "MED-C17-04",
+        "MED-C17-05",
+        "MED-C17-06"
+      ]
+    },
+    {
+      "id": "MED-U17-2",
+      "ch": 17,
+      "n": 2,
+      "title": "2. Two-Hit Model, Clinical Features & Thrombophilia",
+      "sec": "Two-Hit Model, Clinical Features & Thrombophilia",
+      "guide": "The two-hit model separates the antibody from the prothrombotic co-trigger.\nThrombosis is then ranked by site, with venous disease leading and Budd-Chiari next.\nMicrovascular involvement and Sneddon syndrome close the clinical list.",
+      "qs": [
+        "MED-C17-07",
+        "MED-C17-08",
+        "MED-C17-09",
+        "MED-C17-10",
+        "MED-C17-11",
+        "MED-C17-12",
+        "MED-C17-13",
+        "MED-C17-14",
+        "MED-C17-15",
+        "MED-C17-16",
+        "MED-C17-17"
+      ]
+    },
+    {
+      "id": "MED-U17-3",
+      "ch": 17,
+      "n": 3,
+      "title": "3. Sapporo Classification & Clinical Criteria",
+      "sec": "Sapporo Classification & Clinical Criteria",
+      "guide": "The Sapporo laboratory criteria require persistence of antibodies over 12 weeks.\nEach antibody is then characterised as sensitive or specific, with its own assay.\nThe clinical criteria span vascular events and the obstetric definitions.",
+      "qs": [
+        "MED-C17-18",
+        "MED-C17-19",
+        "MED-C17-20",
+        "MED-C17-21",
+        "MED-C17-22",
+        "MED-C17-23",
+        "MED-C17-24"
+      ]
+    },
+    {
+      "id": "MED-U17-4",
+      "ch": 17,
+      "n": 4,
+      "title": "4. Non-Criteria APS, Catastrophic APS & Management",
+      "sec": "Non-Criteria APS, Catastrophic APS & Management",
+      "guide": "Non-criteria manifestations are mapped organ by organ, outside the classification.\nCatastrophic APS is defined by speed, small-vessel involvement and organ count.\nManagement then separates the asymptomatic carrier from thrombosis, pregnancy and catastrophe.",
+      "qs": [
+        "MED-C17-25",
+        "MED-C17-26",
+        "MED-C17-27",
+        "MED-C17-28",
+        "MED-C17-29",
+        "MED-C17-30",
+        "MED-C17-31",
+        "MED-C17-32",
+        "MED-C17-33",
+        "MED-C17-34",
+        "MED-C17-35"
+      ]
+    }
+  ]
+}

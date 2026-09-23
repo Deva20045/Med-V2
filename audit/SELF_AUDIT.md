@@ -1,12 +1,13 @@
-# Chapters 2–15 — visual self-audit gate
+# Chapters 2–20 — visual self-audit gate
 
-Reviewed 2026-09-22, before live deployment. Source: `uploads/01.pdf`, 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–23 (Book p468–490), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
-- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–457 (PDF19–93). PDF13–18 were previously read for Chapter 1. All 103 PDF sheets were checked for printed page numbering.
+- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–490. PDF13–18 of `01.pdf` were previously read for Chapter 1. Every printed page number quoted below was read visually from the rendered sheet.
 - Reading order: top-to-bottom content blocks; parallel comparison columns treated as unified comparison blocks; diagrams remained with their adjacent text. Each unit is a contiguous slice of that sequence. Repeated publisher footers, lesson timestamps and 'Active space' furniture are excluded.
-- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–15 (no fill-up or match worksheets), and exact citation references.
+- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.
+- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–20 (no fill-up or match worksheets), and exact citation references.
 - Software verifies schema, exact app parsers, sequential IDs, page ordering, inventory ordering and full unit coverage. Semantic completeness is verified via visual self-audit.
 
 ## Rescue completed before new chapter authoring
@@ -52,6 +53,28 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 442–448 | Sjogren classification thresholds and treatment are source-specific; real diagnosis requires clinician assessment and current criteria. |
 | 449–451 | IgG4 RCD criteria, percentages and therapy sequence are reproduced as source statements; overlap/mimic diagnosis requires clinical correlation. |
 | 452–457 | SLE serology, antibody pattern and prognosis associations are source-specific teaching points; test results are not diagnostic in isolation. |
+| 458–465 | Cutaneous-lupus terminology, the discoid 5/20 rule, lupus-nephritis class thresholds, the EULAR/ACR domain weights and every steroid/immunosuppressant dose are reproduced as printed book-study material, not as prescribing guidance. |
+| 459 | The discoid '5/20 rule' percentages were enlarged and re-read before use (5% of discoid patients have SLE; 20% of SLE patients have discoid rash). |
+| 461 | The rotated 'autoimmune hemolytic anaemia' annotation and the DAH-versus-viral/TB branch are read as source statements; distinguishing infection from DAH requires clinical correlation. |
+| 462 | The prognosis cell shared by class III and class IV lupus nephritis prints 'and worst'; no question asks for a single class-specific value from that merged cell. |
+| 464 | Methylprednisolone 500 mg–1 g in 100 ml normal saline over 1–2 hours, pulse × 3 days, then oral steroid 1 mg/kg/day tapered over 3 months to 5 mg/day is the source's regimen and is not a universal induction protocol. |
+| 465 | The rotated 'switch to cyclophosphamide' arm and the CHImP drug mnemonic are transcribed as printed; drug-induced lupus lists historical culprits and the note that such drugs are safe in SLE patients is a source statement. |
+| 466 | '50% primary / ≥50% secondary' APS split and the reduced-inhibition-of-coagulation-factors step are retained as printed pathophysiology. |
+| 467 | Anticardiolipin >40 units, the 12-week persistence rule and dRVVT are Sapporo-era statements; current laboratory classification criteria differ. |
+| 469 | INR 2.5–3 with heparin 5000 units TDS or LMWH 60 mg BD, and 'no role for NOACs', are printed management statements that do not replace current guidance. |
+| 470 | The 'groove sign: aplastic anaemia' annotation is printed beside the scleroderma mimics and is transcribed as a source note. |
+| 472 | The primary/secondary Raynaud columns (including the centromere annotation on the ANA row) are read as printed; the demographic cell 'middle aged female' is not attributed to either column by any question. |
+| 474–475 | The antibody-to-complication map (anti-centromere/PAH, anti-RNA polymerase III/renal crisis) and the ACE-inhibitor drug of choice are source teaching, and the printed percentage for renal crisis in diffuse SSc is not legible enough to transcribe — no question relies on that numeral. |
+| 476 | Nintedanib plus MMF for SSc-ILD and bosentan as second line for Raynaud phenomenon are transcribed as printed indications. |
+| 479 | The Gottron-papule frequency is printed as a small fraction glyph that cannot be read with confidence; the question on this lesion tests its morphology and site, not the frequency. |
+| 481 | The rotated 'Jaccoud's arthropathy: also seen in Sjogren syndrome' annotation is transcribed as printed. |
+| 483 | The rotated dysphagia-frequency annotation beside inclusion body myositis was not legible; no question relies on it. Steroid-unresponsive disease and red-rimmed vacuoles are the tested points. |
+| 484 | The '50/25/5' outcome split and the testicular sparing statement are printed source epidemiology. |
+| 485 | The rotated 'HLA DRB1*03 — Lofgren syndrome (good prognosis)' annotation is read after rotation and transcribed as printed. |
+| 487 | The rotated annotation linking lupus pernio to lytic or cystic bone change is transcribed as a source note. |
+| 488 | The BAL CD4/CD8 cut-off numeral is too small to read with confidence; the question asks only for the raised ratio. The panda sign and the PET 'node to biopsy' role are transcribed as printed. |
+| 489 | The therapeutic paradox (TNF-alpha blockade producing sarcoid-like skin lesions that resolve on dose reduction) is a source observation. |
+| 490 | 'About 20% evolve into limited SSc' and pulmonary artery hypertension as the most common cause of death are printed MCTD statements. |
 
 ## Per-chapter units
 
@@ -112,6 +135,38 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 15 | 1. ANA Methodology, Titre & Pattern Interpretation | 455 | MED-C15-01–MED-C15-11 | 11 |
 | 15 | 2. ANA Profile, DILE & Clinical Approach | 456 | MED-C15-12–MED-C15-18 | 7 |
 | 15 | 3. SLE Antibodies, Prognosis & Activity | 457 | MED-C15-19–MED-C15-32 | 14 |
+| 16 | 1. Constitutional & Cutaneous Manifestations | 458–459 | MED-C16-01–MED-C16-14 | 14 |
+| 16 | 2. Musculoskeletal, Organ & System Involvement | 460 | MED-C16-15–MED-C16-24 | 10 |
+| 16 | 3. Haematological, Lung, Cardiac, GI & Renal | 461 | MED-C16-25–MED-C16-36 | 12 |
+| 16 | 4. Lupus Nephritis Classification & Histology | 462 | MED-C16-37–MED-C16-42 | 6 |
+| 16 | 5. CNS Involvement & SLE Classification Criteria | 462–463 | MED-C16-43–MED-C16-55 | 13 |
+| 16 | 6. Treat-to-Target, Induction & Maintenance Therapy | 464–465 | MED-C16-56–MED-C16-70 | 15 |
+| 16 | 7. Drug Induced Lupus | 465 | MED-C16-71–MED-C16-74 | 4 |
+| 17 | 1. APS Overview, SLE Association & Pathophysiology | 466 | MED-C17-01–MED-C17-06 | 6 |
+| 17 | 2. Two-Hit Model, Clinical Features & Thrombophilia | 466–467 | MED-C17-07–MED-C17-17 | 11 |
+| 17 | 3. Sapporo Classification & Clinical Criteria | 467–468 | MED-C17-18–MED-C17-24 | 7 |
+| 17 | 4. Non-Criteria APS, Catastrophic APS & Management | 468–469 | MED-C17-25–MED-C17-35 | 11 |
+| 18 | 1. General Features, Classification & Mimics | 470 | MED-C18-01–MED-C18-08 | 8 |
+| 18 | 2. Etiology, Very Early SSc & Raynaud's Phenomenon | 471 | MED-C18-09–MED-C18-16 | 8 |
+| 18 | 3. Primary vs Secondary Raynaud's & Diffuse vs Limited SSc | 472 | MED-C18-17–MED-C18-22 | 6 |
+| 18 | 4. Limited SSc, PAH & Diffuse Cutaneous Features | 473 | MED-C18-23–MED-C18-29 | 7 |
+| 18 | 5. Joint, Gastrointestinal & Antibody Associations | 474 | MED-C18-30–MED-C18-38 | 9 |
+| 18 | 6. Renal Crisis, Phases & Investigations | 475 | MED-C18-39–MED-C18-43 | 5 |
+| 18 | 7. HRCT Patterns & Treatment | 476 | MED-C18-44–MED-C18-50 | 7 |
+| 19 | 1. Definition, Classification & Bohan-Peter Criteria | 477 | MED-C19-01–MED-C19-08 | 8 |
+| 19 | 2. Risk Factors, HLA Links & Muscular Presentation | 477–478 | MED-C19-09–MED-C19-17 | 9 |
+| 19 | 3. Skin Manifestations | 479 | MED-C19-18–MED-C19-24 | 7 |
+| 19 | 4. Rash Comparison & Investigations | 480 | MED-C19-25–MED-C19-32 | 8 |
+| 19 | 5. Polymyositis vs Dermatomyositis & Antisynthetase Syndrome | 481 | MED-C19-33–MED-C19-41 | 9 |
+| 19 | 6. ILD Patterns, Amyopathic & Juvenile DM, Necrotizing Myopathy | 482 | MED-C19-42–MED-C19-47 | 6 |
+| 19 | 7. Inclusion Body Myositis, Antibodies & Treatment | 483 | MED-C19-48–MED-C19-57 | 10 |
+| 20 | 1. Sarcoidosis Definition, ACR Criteria & Classification | 484 | MED-C20-01–MED-C20-08 | 8 |
+| 20 | 2. HLA Associations, Immune Paradox & Lofgren Syndrome | 485 | MED-C20-09–MED-C20-16 | 8 |
+| 20 | 3. Hilar Adenopathy, Heerfordt Syndrome & Chronic Sarcoidosis | 486 | MED-C20-17–MED-C20-23 | 7 |
+| 20 | 4. Fibrosis, Skin & Eye Involvement | 487 | MED-C20-24–MED-C20-28 | 5 |
+| 20 | 5. Multisystem Manifestations & Investigations | 488 | MED-C20-29–MED-C20-37 | 9 |
+| 20 | 6. Treatment, Therapeutic Paradox & Overlap Syndromes | 489 | MED-C20-38–MED-C20-44 | 7 |
+| 20 | 7. MCTD: Serology, Clinical Features & Complications | 489–490 | MED-C20-45–MED-C20-52 | 8 |
 
 ## Format distribution
 
@@ -132,93 +187,131 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 13 | 16 | 0 | 0 | 0 | 5 | 1 | 0 | 1 | 23 |
 | 14 | 15 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 18 |
 | 15 | 23 | 0 | 0 | 0 | 6 | 0 | 3 | 0 | 32 |
-| Total | 204 | 57 | 41 | 25 | 137 | 28 | 62 | 25 | 579 |
+| 16 | 34 | 0 | 0 | 0 | 16 | 2 | 14 | 8 | 74 |
+| 17 | 12 | 0 | 0 | 0 | 12 | 0 | 8 | 3 | 35 |
+| 18 | 27 | 0 | 0 | 0 | 19 | 0 | 1 | 3 | 50 |
+| 19 | 34 | 0 | 0 | 0 | 18 | 0 | 2 | 3 | 57 |
+| 20 | 28 | 0 | 0 | 0 | 16 | 1 | 4 | 3 | 52 |
+| Total | 339 | 57 | 41 | 25 | 218 | 31 | 91 | 45 | 847 |
 
 ## Page-by-page coverage summary
 
 | Book page | PDF sheet | Inventoried points | Questions | Unasked |
 |---:|---:|---:|---:|---:|
-| 383 | 19 | 18 | 10 | 0 |
-| 384 | 20 | 24 | 11 | 0 |
-| 385 | 21 | 35 | 12 | 0 |
-| 386 | 22 | 9 | 4 | 0 |
-| 387 | 23 | 30 | 12 | 0 |
-| 388 | 24 | 35 | 11 | 0 |
-| 389 | 25 | 28 | 15 | 0 |
-| 390 | 26 | 26 | 8 | 0 |
-| 391 | 27 | 27 | 12 | 0 |
-| 392 | 28 | 16 | 6 | 0 |
-| 393 | 29 | 14 | 9 | 0 |
-| 394 | 30 | 10 | 7 | 0 |
-| 395 | 31 | 9 | 7 | 0 |
-| 396 | 32 | 6 | 6 | 0 |
-| 397 | 33 | 4 | 4 | 0 |
-| 398 | 34 | 4 | 4 | 0 |
-| 399 | 35 | 6 | 6 | 0 |
-| 400 | 36 | 9 | 9 | 0 |
-| 401 | 37 | 5 | 5 | 0 |
-| 402 | 38 | 4 | 4 | 0 |
-| 403 | 39 | 11 | 11 | 0 |
-| 404 | 40 | 8 | 8 | 0 |
-| 405 | 41 | 9 | 9 | 0 |
-| 406 | 42 | 5 | 5 | 0 |
-| 407 | 43 | 9 | 9 | 0 |
-| 408 | 44 | 6 | 6 | 0 |
-| 409 | 45 | 4 | 4 | 0 |
-| 410 | 46 | 8 | 8 | 0 |
-| 411 | 47 | 6 | 6 | 0 |
-| 412 | 48 | 3 | 3 | 0 |
-| 413 | 49 | 6 | 6 | 0 |
-| 414 | 50 | 8 | 8 | 0 |
-| 415 | 51 | 7 | 7 | 0 |
-| 416 | 52 | 10 | 10 | 0 |
-| 417 | 53 | 7 | 7 | 0 |
-| 418 | 54 | 5 | 5 | 0 |
-| 419 | 55 | 9 | 9 | 0 |
-| 420 | 56 | 6 | 6 | 0 |
-| 421 | 57 | 6 | 6 | 0 |
-| 422 | 58 | 5 | 5 | 0 |
-| 423 | 59 | 4 | 4 | 0 |
-| 424 | 60 | 5 | 5 | 0 |
-| 425 | 61 | 5 | 5 | 0 |
-| 426 | 62 | 8 | 8 | 0 |
-| 427 | 63 | 7 | 7 | 0 |
-| 428 | 64 | 6 | 6 | 0 |
-| 429 | 65 | 3 | 3 | 0 |
-| 430 | 66 | 5 | 5 | 0 |
-| 431 | 67 | 6 | 6 | 0 |
-| 432 | 68 | 6 | 6 | 0 |
-| 433 | 69 | 4 | 4 | 0 |
-| 434 | 70 | 5 | 5 | 0 |
-| 435 | 71 | 5 | 5 | 0 |
-| 436 | 72 | 7 | 7 | 0 |
-| 437 | 73 | 8 | 8 | 0 |
-| 438 | 74 | 7 | 7 | 0 |
-| 439 | 75 | 6 | 6 | 0 |
-| 440 | 76 | 7 | 7 | 0 |
-| 441 | 77 | 6 | 6 | 0 |
-| 442 | 78 | 5 | 5 | 0 |
-| 443 | 79 | 6 | 6 | 0 |
-| 444 | 80 | 8 | 8 | 0 |
-| 445 | 81 | 7 | 7 | 0 |
-| 446 | 82 | 8 | 8 | 0 |
-| 447 | 83 | 7 | 7 | 0 |
-| 448 | 84 | 6 | 6 | 0 |
-| 449 | 85 | 8 | 8 | 0 |
-| 450 | 86 | 6 | 6 | 0 |
-| 451 | 87 | 9 | 9 | 0 |
-| 452 | 88 | 5 | 5 | 0 |
-| 453 | 89 | 6 | 6 | 0 |
-| 454 | 90 | 7 | 7 | 0 |
-| 455 | 91 | 11 | 11 | 0 |
-| 456 | 92 | 7 | 7 | 0 |
-| 457 | 93 | 14 | 14 | 0 |
+| 383 | 01 PDF19 | 18 | 10 | 0 |
+| 384 | 01 PDF20 | 24 | 11 | 0 |
+| 385 | 01 PDF21 | 35 | 12 | 0 |
+| 386 | 01 PDF22 | 9 | 4 | 0 |
+| 387 | 01 PDF23 | 30 | 12 | 0 |
+| 388 | 01 PDF24 | 35 | 11 | 0 |
+| 389 | 01 PDF25 | 28 | 15 | 0 |
+| 390 | 01 PDF26 | 26 | 8 | 0 |
+| 391 | 01 PDF27 | 27 | 12 | 0 |
+| 392 | 01 PDF28 | 16 | 6 | 0 |
+| 393 | 01 PDF29 | 14 | 9 | 0 |
+| 394 | 01 PDF30 | 10 | 7 | 0 |
+| 395 | 01 PDF31 | 9 | 7 | 0 |
+| 396 | 01 PDF32 | 6 | 6 | 0 |
+| 397 | 01 PDF33 | 4 | 4 | 0 |
+| 398 | 01 PDF34 | 4 | 4 | 0 |
+| 399 | 01 PDF35 | 6 | 6 | 0 |
+| 400 | 01 PDF36 | 9 | 9 | 0 |
+| 401 | 01 PDF37 | 5 | 5 | 0 |
+| 402 | 01 PDF38 | 4 | 4 | 0 |
+| 403 | 01 PDF39 | 11 | 11 | 0 |
+| 404 | 01 PDF40 | 8 | 8 | 0 |
+| 405 | 01 PDF41 | 9 | 9 | 0 |
+| 406 | 01 PDF42 | 5 | 5 | 0 |
+| 407 | 01 PDF43 | 9 | 9 | 0 |
+| 408 | 01 PDF44 | 6 | 6 | 0 |
+| 409 | 01 PDF45 | 4 | 4 | 0 |
+| 410 | 01 PDF46 | 8 | 8 | 0 |
+| 411 | 01 PDF47 | 6 | 6 | 0 |
+| 412 | 01 PDF48 | 3 | 3 | 0 |
+| 413 | 01 PDF49 | 6 | 6 | 0 |
+| 414 | 01 PDF50 | 8 | 8 | 0 |
+| 415 | 01 PDF51 | 7 | 7 | 0 |
+| 416 | 01 PDF52 | 10 | 10 | 0 |
+| 417 | 01 PDF53 | 7 | 7 | 0 |
+| 418 | 01 PDF54 | 5 | 5 | 0 |
+| 419 | 01 PDF55 | 9 | 9 | 0 |
+| 420 | 01 PDF56 | 6 | 6 | 0 |
+| 421 | 01 PDF57 | 6 | 6 | 0 |
+| 422 | 01 PDF58 | 5 | 5 | 0 |
+| 423 | 01 PDF59 | 4 | 4 | 0 |
+| 424 | 01 PDF60 | 5 | 5 | 0 |
+| 425 | 01 PDF61 | 5 | 5 | 0 |
+| 426 | 01 PDF62 | 8 | 8 | 0 |
+| 427 | 01 PDF63 | 7 | 7 | 0 |
+| 428 | 01 PDF64 | 6 | 6 | 0 |
+| 429 | 01 PDF65 | 3 | 3 | 0 |
+| 430 | 01 PDF66 | 5 | 5 | 0 |
+| 431 | 01 PDF67 | 6 | 6 | 0 |
+| 432 | 01 PDF68 | 6 | 6 | 0 |
+| 433 | 01 PDF69 | 4 | 4 | 0 |
+| 434 | 01 PDF70 | 5 | 5 | 0 |
+| 435 | 01 PDF71 | 5 | 5 | 0 |
+| 436 | 01 PDF72 | 7 | 7 | 0 |
+| 437 | 01 PDF73 | 8 | 8 | 0 |
+| 438 | 01 PDF74 | 7 | 7 | 0 |
+| 439 | 01 PDF75 | 6 | 6 | 0 |
+| 440 | 01 PDF76 | 7 | 7 | 0 |
+| 441 | 01 PDF77 | 6 | 6 | 0 |
+| 442 | 01 PDF78 | 5 | 5 | 0 |
+| 443 | 01 PDF79 | 6 | 6 | 0 |
+| 444 | 01 PDF80 | 8 | 8 | 0 |
+| 445 | 01 PDF81 | 7 | 7 | 0 |
+| 446 | 01 PDF82 | 8 | 8 | 0 |
+| 447 | 01 PDF83 | 7 | 7 | 0 |
+| 448 | 01 PDF84 | 6 | 6 | 0 |
+| 449 | 01 PDF85 | 8 | 8 | 0 |
+| 450 | 01 PDF86 | 6 | 6 | 0 |
+| 451 | 01 PDF87 | 9 | 9 | 0 |
+| 452 | 01 PDF88 | 5 | 5 | 0 |
+| 453 | 01 PDF89 | 6 | 6 | 0 |
+| 454 | 01 PDF90 | 7 | 7 | 0 |
+| 455 | 01 PDF91 | 11 | 11 | 0 |
+| 456 | 01 PDF92 | 7 | 7 | 0 |
+| 457 | 01 PDF93 | 14 | 14 | 0 |
+| 458 | 01 PDF94 | 7 | 7 | 0 |
+| 459 | 01 PDF95 | 7 | 7 | 0 |
+| 460 | 01 PDF96 | 10 | 10 | 0 |
+| 461 | 01 PDF97 | 12 | 12 | 0 |
+| 462 | 01 PDF98 | 8 | 8 | 0 |
+| 463 | 01 PDF99 | 11 | 11 | 0 |
+| 464 | 01 PDF100 | 9 | 9 | 0 |
+| 465 | 01 PDF101 | 10 | 10 | 0 |
+| 466 | 01 PDF102 | 9 | 9 | 0 |
+| 467 | 01 PDF103 | 12 | 12 | 0 |
+| 468 | 02 PDF1 | 7 | 7 | 0 |
+| 469 | 02 PDF2 | 7 | 7 | 0 |
+| 470 | 02 PDF3 | 8 | 8 | 0 |
+| 471 | 02 PDF4 | 8 | 8 | 0 |
+| 472 | 02 PDF5 | 6 | 6 | 0 |
+| 473 | 02 PDF6 | 7 | 7 | 0 |
+| 474 | 02 PDF7 | 9 | 9 | 0 |
+| 475 | 02 PDF8 | 5 | 5 | 0 |
+| 476 | 02 PDF9 | 7 | 7 | 0 |
+| 477 | 02 PDF10 | 10 | 10 | 0 |
+| 478 | 02 PDF11 | 7 | 7 | 0 |
+| 479 | 02 PDF12 | 7 | 7 | 0 |
+| 480 | 02 PDF13 | 8 | 8 | 0 |
+| 481 | 02 PDF14 | 9 | 9 | 0 |
+| 482 | 02 PDF15 | 6 | 6 | 0 |
+| 483 | 02 PDF16 | 10 | 10 | 0 |
+| 484 | 02 PDF17 | 8 | 8 | 0 |
+| 485 | 02 PDF18 | 8 | 8 | 0 |
+| 486 | 02 PDF19 | 7 | 7 | 0 |
+| 487 | 02 PDF20 | 5 | 5 | 0 |
+| 488 | 02 PDF21 | 9 | 9 | 0 |
+| 489 | 02 PDF22 | 9 | 9 | 0 |
+| 490 | 02 PDF23 | 6 | 6 | 0 |
 
-**Total: 687 mapped educational points; 579 questions; 55 units across 15 live chapters of 57.**
+**Total: 955 mapped educational points; 847 questions; 87 units across 20 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
-### Book p383 / PDF19
+### Book p383 / 01 PDF19
 
 | Printed point / call-out | Question |
 |---|---|
@@ -243,7 +336,7 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 
 Unasked points: **none found**.
 
-### Book p384 / PDF20
+### Book p384 / 01 PDF20
 
 | Printed point / call-out | Question |
 |---|---|
@@ -274,7 +367,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p385 / PDF21
+### Book p385 / 01 PDF21
 
 | Printed point / call-out | Question |
 |---|---|
@@ -316,7 +409,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p386 / PDF22
+### Book p386 / 01 PDF22
 
 | Printed point / call-out | Question |
 |---|---|
@@ -332,7 +425,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p387 / PDF23
+### Book p387 / 01 PDF23
 
 | Printed point / call-out | Question |
 |---|---|
@@ -369,7 +462,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p388 / PDF24
+### Book p388 / 01 PDF24
 
 | Printed point / call-out | Question |
 |---|---|
@@ -411,7 +504,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p389 / PDF25
+### Book p389 / 01 PDF25
 
 | Printed point / call-out | Question |
 |---|---|
@@ -446,7 +539,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p390 / PDF26
+### Book p390 / 01 PDF26
 
 | Printed point / call-out | Question |
 |---|---|
@@ -479,7 +572,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p391 / PDF27
+### Book p391 / 01 PDF27
 
 | Printed point / call-out | Question |
 |---|---|
@@ -513,7 +606,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p392 / PDF28
+### Book p392 / 01 PDF28
 
 | Printed point / call-out | Question |
 |---|---|
@@ -536,7 +629,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p393 / PDF29
+### Book p393 / 01 PDF29
 
 | Printed point / call-out | Question |
 |---|---|
@@ -557,7 +650,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p394 / PDF30
+### Book p394 / 01 PDF30
 
 | Printed point / call-out | Question |
 |---|---|
@@ -574,7 +667,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p395 / PDF31
+### Book p395 / 01 PDF31
 
 | Printed point / call-out | Question |
 |---|---|
@@ -590,7 +683,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p396 / PDF32
+### Book p396 / 01 PDF32
 
 | Printed point / call-out | Question |
 |---|---|
@@ -603,7 +696,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p397 / PDF33
+### Book p397 / 01 PDF33
 
 | Printed point / call-out | Question |
 |---|---|
@@ -614,7 +707,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p398 / PDF34
+### Book p398 / 01 PDF34
 
 | Printed point / call-out | Question |
 |---|---|
@@ -625,7 +718,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p399 / PDF35
+### Book p399 / 01 PDF35
 
 | Printed point / call-out | Question |
 |---|---|
@@ -638,7 +731,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p400 / PDF36
+### Book p400 / 01 PDF36
 
 | Printed point / call-out | Question |
 |---|---|
@@ -654,7 +747,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p401 / PDF37
+### Book p401 / 01 PDF37
 
 | Printed point / call-out | Question |
 |---|---|
@@ -666,7 +759,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p402 / PDF38
+### Book p402 / 01 PDF38
 
 | Printed point / call-out | Question |
 |---|---|
@@ -677,7 +770,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p403 / PDF39
+### Book p403 / 01 PDF39
 
 | Printed point / call-out | Question |
 |---|---|
@@ -695,7 +788,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p404 / PDF40
+### Book p404 / 01 PDF40
 
 | Printed point / call-out | Question |
 |---|---|
@@ -710,7 +803,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p405 / PDF41
+### Book p405 / 01 PDF41
 
 | Printed point / call-out | Question |
 |---|---|
@@ -726,7 +819,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p406 / PDF42
+### Book p406 / 01 PDF42
 
 | Printed point / call-out | Question |
 |---|---|
@@ -738,7 +831,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p407 / PDF43
+### Book p407 / 01 PDF43
 
 | Printed point / call-out | Question |
 |---|---|
@@ -754,7 +847,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p408 / PDF44
+### Book p408 / 01 PDF44
 
 | Printed point / call-out | Question |
 |---|---|
@@ -767,7 +860,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p409 / PDF45
+### Book p409 / 01 PDF45
 
 | Printed point / call-out | Question |
 |---|---|
@@ -778,7 +871,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p410 / PDF46
+### Book p410 / 01 PDF46
 
 | Printed point / call-out | Question |
 |---|---|
@@ -793,7 +886,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p411 / PDF47
+### Book p411 / 01 PDF47
 
 | Printed point / call-out | Question |
 |---|---|
@@ -806,7 +899,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p412 / PDF48
+### Book p412 / 01 PDF48
 
 | Printed point / call-out | Question |
 |---|---|
@@ -816,7 +909,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p413 / PDF49
+### Book p413 / 01 PDF49
 
 | Printed point / call-out | Question |
 |---|---|
@@ -829,7 +922,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p414 / PDF50
+### Book p414 / 01 PDF50
 
 | Printed point / call-out | Question |
 |---|---|
@@ -844,7 +937,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p415 / PDF51
+### Book p415 / 01 PDF51
 
 | Printed point / call-out | Question |
 |---|---|
@@ -858,7 +951,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p416 / PDF52
+### Book p416 / 01 PDF52
 
 | Printed point / call-out | Question |
 |---|---|
@@ -875,7 +968,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p417 / PDF53
+### Book p417 / 01 PDF53
 
 | Printed point / call-out | Question |
 |---|---|
@@ -889,7 +982,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p418 / PDF54
+### Book p418 / 01 PDF54
 
 | Printed point / call-out | Question |
 |---|---|
@@ -901,7 +994,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p419 / PDF55
+### Book p419 / 01 PDF55
 
 | Printed point / call-out | Question |
 |---|---|
@@ -917,7 +1010,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p420 / PDF56
+### Book p420 / 01 PDF56
 
 | Printed point / call-out | Question |
 |---|---|
@@ -930,7 +1023,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p421 / PDF57
+### Book p421 / 01 PDF57
 
 | Printed point / call-out | Question |
 |---|---|
@@ -943,7 +1036,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p422 / PDF58
+### Book p422 / 01 PDF58
 
 | Printed point / call-out | Question |
 |---|---|
@@ -955,7 +1048,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p423 / PDF59
+### Book p423 / 01 PDF59
 
 | Printed point / call-out | Question |
 |---|---|
@@ -966,7 +1059,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p424 / PDF60
+### Book p424 / 01 PDF60
 
 | Printed point / call-out | Question |
 |---|---|
@@ -978,7 +1071,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p425 / PDF61
+### Book p425 / 01 PDF61
 
 | Printed point / call-out | Question |
 |---|---|
@@ -990,7 +1083,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p426 / PDF62
+### Book p426 / 01 PDF62
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1005,7 +1098,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p427 / PDF63
+### Book p427 / 01 PDF63
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1019,7 +1112,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p428 / PDF64
+### Book p428 / 01 PDF64
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1032,7 +1125,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p429 / PDF65
+### Book p429 / 01 PDF65
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1042,7 +1135,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p430 / PDF66
+### Book p430 / 01 PDF66
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1054,7 +1147,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p431 / PDF67
+### Book p431 / 01 PDF67
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1067,7 +1160,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p432 / PDF68
+### Book p432 / 01 PDF68
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1080,7 +1173,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p433 / PDF69
+### Book p433 / 01 PDF69
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1091,7 +1184,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p434 / PDF70
+### Book p434 / 01 PDF70
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1103,7 +1196,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p435 / PDF71
+### Book p435 / 01 PDF71
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1115,7 +1208,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p436 / PDF72
+### Book p436 / 01 PDF72
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1129,7 +1222,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p437 / PDF73
+### Book p437 / 01 PDF73
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1144,7 +1237,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p438 / PDF74
+### Book p438 / 01 PDF74
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1158,7 +1251,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p439 / PDF75
+### Book p439 / 01 PDF75
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1171,7 +1264,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p440 / PDF76
+### Book p440 / 01 PDF76
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1185,7 +1278,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p441 / PDF77
+### Book p441 / 01 PDF77
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1198,7 +1291,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p442 / PDF78
+### Book p442 / 01 PDF78
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1210,7 +1303,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p443 / PDF79
+### Book p443 / 01 PDF79
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1223,7 +1316,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p444 / PDF80
+### Book p444 / 01 PDF80
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1238,7 +1331,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p445 / PDF81
+### Book p445 / 01 PDF81
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1252,7 +1345,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p446 / PDF82
+### Book p446 / 01 PDF82
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1267,7 +1360,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p447 / PDF83
+### Book p447 / 01 PDF83
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1281,7 +1374,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p448 / PDF84
+### Book p448 / 01 PDF84
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1294,7 +1387,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p449 / PDF85
+### Book p449 / 01 PDF85
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1309,7 +1402,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p450 / PDF86
+### Book p450 / 01 PDF86
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1322,7 +1415,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p451 / PDF87
+### Book p451 / 01 PDF87
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1338,7 +1431,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p452 / PDF88
+### Book p452 / 01 PDF88
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1350,7 +1443,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p453 / PDF89
+### Book p453 / 01 PDF89
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1363,7 +1456,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p454 / PDF90
+### Book p454 / 01 PDF90
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1377,7 +1470,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p455 / PDF91
+### Book p455 / 01 PDF91
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1395,7 +1488,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p456 / PDF92
+### Book p456 / 01 PDF92
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1409,7 +1502,7 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
-### Book p457 / PDF93
+### Book p457 / 01 PDF93
 
 | Printed point / call-out | Question |
 |---|---|
@@ -1430,10 +1523,509 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p458 / 01 PDF94
+
+| Printed point / call-out | Question |
+|---|---|
+| Constitutional symptoms are listed as fatigue and weight loss, pyrexia of unknown origin (PUO) and leucopenia. | MED-C16-01 |
+| The cutaneous section opens with the Gilliam-Sontheimer classification into lupus specific and lupus non-specific lesions. | MED-C16-02 |
+| ACLE is listed first among lupus-specific lesions and marked (m/c); its localised form (malar rash) is also marked m/c. | MED-C16-03 |
+| Localised ACLE is symmetrical, erythematous, scaly and NON-scarring (with or without oedema); scarring belongs to discoid/CCLE disease. | MED-C16-04 |
+| The ACLE block associates painless oral/nasopharyngeal ulcers and non-scarring alopecia with the malar rash. | MED-C16-05 |
+| Generalised ACLE is annotated as sparing the knuckles; the TEN-like lupus image is attached to the same ACLE arm. | MED-C16-06 |
+| SCLE is listed with anti-Ro/La (+), association with HLA DR3 and photosensitivity. | MED-C16-07 |
+
+Unasked points: **none found**.
+
+### Book p459 / 01 PDF95
+
+| Printed point / call-out | Question |
+|---|---|
+| The note lists rash involving the nasolabial fold under acne rosacea (a) and dermatomyositis (b); SLE malar rash spares the nasolabial fold. | MED-C16-08 |
+| The 5/20 rule: 5% of patients with discoid rash have SLE and 20% of patients with SLE have a discoid rash. | MED-C16-09 |
+| CCLE/discoid rash: circular raised erythematous patching with scarring; biopsy shows follicular plugging, keratotic scaling and dermal atrophy; there is a risk of progression to squamous cell carcinoma. | MED-C16-10 |
+| CCLE is associated with cicatricial (scarring) alopecia, shown with the carpet-track sign of DLE. | MED-C16-11 |
+| SCLE patterns listed are annular and psoriasiform, the latter marked with increased conversion to SLE. | MED-C16-12 |
+| SCLE: 20% of patients with SCLE have SLE, white population, association with HLA DR3, anti-Ro with reduced renal involvement. | MED-C16-13 |
+| Lupus non-specific lesions listed are chilblain lupus and lupus panniculitis/profundus (subcutaneous, tender erythematous nodules). | MED-C16-14 |
+
+Unasked points: **none found**.
+
+### Book p460 / 01 PDF96
+
+| Printed point / call-out | Question |
+|---|---|
+| The note states lupus pernio is sarcoidosis and lupus vulgaris is TB. | MED-C16-15 |
+| Musculoskeletal manifestations are marked (m/c system involved); the site is upper limb >> lower limb with small-joint and wrist involvement progressing to arthritis. | MED-C16-16 |
+| SLE arthritis is non-erosive and deforming from ligament laxity, producing Jaccoud arthropathy, which is also seen in Sjogren syndrome. | MED-C16-17 |
+| SLE with erosive arthritis is labelled Rhupus (RA/SLE overlap) and anti-CCP is positive. | MED-C16-18 |
+| Under complications, septic arthritis is the concern in a patient on SLE treatment with a single joint involved out of proportion; the monoarthritis note lists crystal arthropathy and septic arthritis in the differential. | MED-C16-19 |
+| Avascular necrosis presents as acute joint pain after about three months of disease; MRI is marked as the investigation of choice. | MED-C16-20 |
+| SLE with constitutional, skin and joint involvement is labelled non-organ/life-threatening SLE, in contrast to organ-system involvement which carries a bad prognosis. | MED-C16-21 |
+| Organ-system involvement: kidney involved in 50-60%, and 10% progress to CKD. | MED-C16-22 |
+| Immunosuppressive therapy leading to infection is the most common cause of death in the first 10 years; acute coronary syndrome is the most common cause of death after 10 years, in keeping with accelerated atherosclerosis being an MI equivalent. | MED-C16-23 |
+| Vascular disease is noted in one-third of patients (thrombosis and accelerated atherosclerosis); dangerous vasculitis is medium-vessel, involving mesenteric and CNS vessels. | MED-C16-24 |
+
+Unasked points: **none found**.
+
+### Book p461 / 01 PDF97
+
+| Printed point / call-out | Question |
+|---|---|
+| RBC: anaemia of chronic disease is the most common; rapidly progressive anaemia is autoimmune haemolytic anaemia. | MED-C16-25 |
+| WBC: leucopenia/lymphopenia with a raised risk of DLBCL; the note contrasts Sjogren syndrome, which raises the risk of marginal zone B-cell lymphoma. | MED-C16-26 |
+| Platelet: secondary ITP is listed in the haematological manifestations. | MED-C16-27 |
+| The lung block states the lung parenchyma is spared in SLE, therefore there is no ILD; pleuritis and diffuse alveolar haemorrhage dominate instead. | MED-C16-28 |
+| Pleuritis is the most common lung manifestation, with or without a small, bilateral, exudative effusion. | MED-C16-29 |
+| Cough, haemoptysis and bilateral air-space opacification indicate diffuse alveolar haemorrhage, which requires active immunosuppression; the contrasting branch (viral/TB) is managed by stopping immunosuppression. | MED-C16-30 |
+| DAH is flagged as carrying a poor prognosis and as the most important marker of SLE disease activity in the lung. | MED-C16-31 |
+| Activity assessment: clinically active disease with new-onset rashes, rising anti-dsDNA titres, falling C3 and C4, and a raised ESR with a low CRP (below 10 mg/dL). | MED-C16-32 |
+| Cardiac: pericarditis without tamponade is the most common manifestation; myocarditis is associated with anti-Ro antibody. | MED-C16-33 |
+| Libman-Sacks endocarditis is described with vegetations on the undersurface of the valve leaflet; mitral regurgitation is the most common valvular lesion. | MED-C16-34 |
+| GIT: generally spared. Hepatobiliary: type 1 autoimmune hepatitis (lupoid hepatitis). | MED-C16-35 |
+| Indications for renal biopsy: proteinuria >1 g/day, or proteinuria ≥500 mg/day plus ≥3 RBCs in urine (microhaematuria). | MED-C16-36 |
+
+Unasked points: **none found**.
+
+### Book p462 / 01 PDF98
+
+| Printed point / call-out | Question |
+|---|---|
+| Class I minimal mesangial lupus nephritis shows mesangial immune-complex deposits, is asymptomatic and has an excellent prognosis, whereas class II mesangial proliferative disease is marked as having a poor prognosis. | MED-C16-37 |
+| Class III focal lupus nephritis has <50% glomerular involvement; class IV diffuse has >50% glomerular involvement. | MED-C16-38 |
+| Class III focal lupus nephritis is linked with RPGN and the table states these patients require active immunosuppression. | MED-C16-39 |
+| Class V shows membranous nephropathy with adult-onset nephrotic syndrome, is resistant to steroid, and carries a better prognosis. | MED-C16-40 |
+| Class VI advanced sclerotic lupus has >90% glomerular sclerosis and CKD, and is marked as the worst prognosis. | MED-C16-41 |
+| Class III and IV lupus nephritis: HP shows endocapillary plus mesangial proliferation. | MED-C16-42 |
+| IF shows IgG, IgA, IgM, C1q and C3 deposits, the full-house pattern; the note adds that it is also seen in HIV. | MED-C16-43 |
+| EM shows subendothelial (wire loop lesion) and mesangial deposits; hematoxylin bodies of Gross are described as most specific, and tubuloreticular inclusions are also shown. | MED-C16-44 |
+
+Unasked points: **none found**.
+
+### Book p463 / 01 PDF99
+
+| Printed point / call-out | Question |
+|---|---|
+| CNS: cognitive decline is the most common manifestation, with a raised risk of stroke due to antiphospholipid antibodies; small-fibre neuropathy and CNS vasculitis are also listed. | MED-C16-45 |
+| Constitutional domain: fever 2. Arthritis domain: synovitis or tenderness in at least 2 joints, 6. | MED-C16-46 |
+| Cutaneous domain: non-scarring alopecia 2, oral ulcers 2, subacute cutaneous or discoid lupus 4 and acute cutaneous lupus 6. | MED-C16-47 |
+| Neurologic domain: delirium 2, psychosis 3, seizure 5. | MED-C16-48 |
+| Serositis domain: pleural or pericardial effusion 5 and acute pericarditis 6. | MED-C16-49 |
+| Haematologic domain: leukopenia 3, thrombocytopenia 4, autoimmune haemolysis 4. | MED-C16-50 |
+| Renal domain: proteinuria >0.5 g/24 hr = 4 points; class II or V lupus nephritis = 8; class III or IV lupus nephritis = 10. | MED-C16-51 |
+| Antiphospholipid antibody domain: anticardiolipin IgG >40 GPL, or anti-β2 glycoprotein I IgG >40 units, or lupus anticoagulant scores 2. | MED-C16-52 |
+| Complement proteins domain: low C3 or low C4 = 3; low C3 and low C4 = 4. Highly specific antibodies domain: anti-dsDNA = 6 and anti-Sm = 6. | MED-C16-53 |
+| The table notes that all patients classified as having SLE must have ANA ≥1:80 (entry criterion) and patients must have ≥10 points to be classified as SLE. | MED-C16-54 |
+| The note states that classification criteria are not diagnostic criteria. | MED-C16-55 |
+
+Unasked points: **none found**.
+
+### Book p464 / 01 PDF100
+
+| Printed point / call-out | Question |
+|---|---|
+| Treat to target: SLE diagnosis to active disease to initial treatment to remission; the target is the SLE Disease Activity Index (SLEDAI) to 0, which is the indicator of remission. | MED-C16-56 |
+| Initial Rx: constitutional symptoms are managed with HCQ (hydroxychloroquine) and observation. | MED-C16-57 |
+| Non-life-threatening SLE: low-dose steroid (<7.5 mg/day) plus HCQ 5 mg/kg/day. | MED-C16-58 |
+| Optical coherence tomography (OCT) is listed to look for retinal toxicity during HCQ therapy. | MED-C16-59 |
+| IV steroid: methylprednisolone 500 mg to 1 g IV infusion in 100 ml normal saline over 1-2 hours, given as a pulse for 3 days. | MED-C16-60 |
+| The pulse is followed by oral steroid 1 mg/kg/day, tapered over 3 months to 5 mg/day. | MED-C16-61 |
+| Alongside IV steroid: oral MMF (mycophenolate mofetil) 2-3 g/day or IV cyclophosphamide 500 mg, two doses two weeks apart. | MED-C16-62 |
+| Adverse effects with long-term cyclophosphamide use: secondary malignancy (AML) and gonadal toxicity. | MED-C16-63 |
+| The algorithm states: assess remission after more than 3 months using the SLEDAI index. | MED-C16-64 |
+
+Unasked points: **none found**.
+
+### Book p465 / 01 PDF101
+
+| Printed point / call-out | Question |
+|---|---|
+| Maintenance Rx: steroid (<7.5 mg/day) plus MMF (1 g/day) or azathioprine for 2-3 years. | MED-C16-65 |
+| Belimumab is listed as the steroid-sparing agent in the maintenance block. | MED-C16-66 |
+| The flowchart takes the no-remission (>3 months) branch to switching to cyclophosphamide, and if there is still no response the case is labelled refractory lupus. | MED-C16-67 |
+| Refractory lupus: rituximab, voclosporin (a calcineurin inhibitor) with MMF, belimumab (anti-BLyS) and anifrolumab (anti type I interferon). | MED-C16-68 |
+| The refractory-lupus block adds that plasma exchange is done if DAH or CNS vasculitis is present. | MED-C16-69 |
+| Goals of Rx: asymptomatic, urine normal, complement normal, and no fever and no cytopenias. | MED-C16-70 |
+| The CHImP mnemonic lists carbamazepine, chlorpromazine, hydralazine, isoniazid, interferon, infliximab, methyldopa, procainamide and phenytoin. | MED-C16-71 |
+| Clinical features: M = F, CNS and renal not involved, anti-dsDNA negative, antihistone antibody positive, ANA positive in 100% and skin plus joint involvement. | MED-C16-72 |
+| Drug-induced lupus spares the CNS and kidneys and is anti-dsDNA negative; nephritis with a rising anti-dsDNA belongs to SLE. | MED-C16-73 |
+| The note states that drugs causing SLE (drug-induced lupus) are safe in lupus patients. | MED-C16-74 |
+
+Unasked points: **none found**.
+
+### Book p466 / 01 PDF102
+
+| Printed point / call-out | Question |
+|---|---|
+| The heading notes the syndrome was earlier called antiphospholipid antibody syndrome (APLA). | MED-C17-01 |
+| The chapter notes that one-third of SLE cases are APS positive. | MED-C17-02 |
+| In the complications-of-SLE note, APS is described as increasing susceptibility to thrombus formation, with venous more than arterial events. | MED-C17-03 |
+| The SLE complications note lists accelerated atherosclerosis, glomerular disease (class III/IV lupus nephritis), complications of immunosuppression, vasculitis of medium vessels (GIT/CNS) and APS. | MED-C17-04 |
+| APS: 50% of cases are primary, associated with HLA DR4 and HLA DRw53; 50% or more are secondary, most commonly due to SLE (one-third of APS). | MED-C17-05 |
+| The side note states the most common cause of secondary Sjogren is RA and that HLA DR3 positivity is associated with Sjogren syndrome and SLE. | MED-C17-06 |
+| Antibodies are directed against phospholipid-binding proteins: beta-2 glycoprotein I, the prothrombin-phosphatidylserine complex and annexin, with platelet surface proteins shown alongside. | MED-C17-07 |
+| The pathway ends in thrombocytopenia (50,000 to one lakh) with an increased propensity to thrombosis. | MED-C17-08 |
+| The diagram shows the Ag-Ab complex with increased affinity for platelets, activation of the complement cascade, thrombocytopenia with a raised thrombotic tendency, and reduced inhibition of coagulation factors progressing to thrombosis. | MED-C17-09 |
+
+Unasked points: **none found**.
+
+### Book p467 / 01 PDF103
+
+| Printed point / call-out | Question |
+|---|---|
+| The two hits are the antibody causing endothelial injury and a second hit such as oestrogen, smoking, obesity or other prothrombotic states. | MED-C17-10 |
+| The most common cause of thrombophilia is acquired (APS), greater than inherited factor V Leiden mutation. | MED-C17-11 |
+| Thrombosis: DVT is more common than arterial thrombosis (stroke), which is more common than Budd-Chiari syndrome. | MED-C17-12 |
+| Veins involved: hepatic vein gives Budd-Chiari syndrome and cerebral veins give cerebral venous thrombosis. | MED-C17-13 |
+| Microvascular involvement affects the kidneys more than the adrenals. | MED-C17-14 |
+| Sneddon's syndrome is listed with livedo reticularis and stroke in the APS clinical-features block. | MED-C17-15 |
+| The note gives the differential for hepatic vein thrombosis as APS, polycythemia rubra vera and PNH (paroxysmal nocturnal haemoglobinuria). | MED-C17-16 |
+| The note describes the stroke as acute in onset with cranial nerve palsy and a pyramidal pattern of weakness. | MED-C17-17 |
+| Laboratory criteria: any antibody positive twice over 12 weeks. | MED-C17-18 |
+| Anti-beta-2 glycoprotein I (IgG/IgM) is detected by ELISA. | MED-C17-19 |
+| Anti-cardiolipin antibody (IgG/IgM >40 units) is described as sensitive. | MED-C17-20 |
+| Lupus anticoagulant is specific but not sensitive, with a raised aPTT and a raised dRVVT (diluted Russell's viper venom test). | MED-C17-21 |
+
+Unasked points: **none found**.
+
+### Book p468 / 02 PDF1
+
+| Printed point / call-out | Question |
+|---|---|
+| Clinical criteria: a vascular event due to venous or arterial thrombosis. | MED-C17-22 |
+| Pregnancy criteria: one miscarriage ≥10 weeks, or ≥3 miscarriages before 10 weeks, or premature delivery <34 weeks of a morphologically normal neonate due to pre-eclampsia, eclampsia or HELLP syndrome. | MED-C17-23 |
+| The note states APS is the most common cause of second-trimester abortion (after 10 weeks). | MED-C17-24 |
+| Non-criteria APS: CNS shows chorea, epilepsy and migraine; cardiac shows Libman-Sacks endocarditis and MR. | MED-C17-25 |
+| Hematological: warm-antibody autoimmune haemolytic anaemia and Evan's syndrome, with thrombocytopenia not significant enough to cause bleeding. | MED-C17-26 |
+| Renal: APS nephropathy is a thrombotic microangiopathy due to microvascular involvement of the kidney. | MED-C17-27 |
+| Endocrine: infarction of adrenal vessels leads to adrenal insufficiency (shock); dermatological: venous obstruction with venular dilatation gives livedo reticularis. | MED-C17-28 |
+
+Unasked points: **none found**.
+
+### Book p469 / 02 PDF2
+
+| Printed point / call-out | Question |
+|---|---|
+| Domains: clinical domains 1-6 (macrovascular venous, macrovascular arterial, microvascular, obstetric, cardiac valve, haematology) and laboratory domains 7-8 (lupus anticoagulant test, other antibody tests). | MED-C17-29 |
+| Catastrophic APS: three or more organ systems involved within one week, with small vessels involved; presentations include thrombotic microangiopathy of the kidney and adrenal insufficiency. | MED-C17-30 |
+| Management: an asymptomatic adult requires no treatment. | MED-C17-31 |
+| To attain an INR of 2.5-3: heparin 5000 units TDS SC or LMWH 60 mg BD SC, with warfarin overlapped with heparin/LMWH and continued lifelong; the note adds there is no role for NOACs. | MED-C17-32 |
+| Pregnancy management: prophylactic low-dose aspirin with heparin throughout pregnancy and for 6-12 weeks post-partum; warfarin is continued lifelong if APS is diagnosed. | MED-C17-33 |
+| Catastrophic APS is managed with steroids, IV Ig and plasmapheresis. | MED-C17-34 |
+| The note states there is no role for new oral anticoagulants (NOACs) in APS. | MED-C17-35 |
+
+Unasked points: **none found**.
+
+### Book p470 / 02 PDF3
+
+| Printed point / call-out | Question |
+|---|---|
+| The general-features diagram contrasts inflammation: SLE +++ versus SSc + with a low or normal ESR. | MED-C18-01 |
+| SSc pathogenesis: fibrosis (with interstitial lung disease), vasculopathy from small-vessel endothelial injury with anti-endothelial antibody causing thrombosis, and immune-complex-mediated small-vessel vasculitis producing capillary hypoxia. | MED-C18-02 |
+| Severe form: involvement of medium vessels (mesenteric and CNS vessels) with TGF-beta release acting on mesenchymal cells to produce myofibroblasts. | MED-C18-03 |
+| Pulmonary arteriolar hypertension (class 1) is attached to the vasculopathy arm and marked as carrying a bad prognosis. | MED-C18-04 |
+| Scleroderma is defined as thickening and induration. | MED-C18-05 |
+| Local manifestations are localised scleroderma (morphoea, linear scleroderma); systemic manifestation is systemic sclerosis, subdivided by extent of skin involvement into diffuse and limited SSc. | MED-C18-06 |
+| Diffuse SSc: skin lesion over all parts of the body, complications of ILD, pathogenesis of fibrosis plus vasculopathy with minimal inflammation. Limited SSc: skin distal to elbow and face, pulmonary hypertension, vasculopathy predominant. | MED-C18-07 |
+| Scleroderma mimics: eosinophilic fasciitis with groove sign, and nephrogenic systemic fibrosis, which is drug induced after gadolinium contrast. | MED-C18-08 |
+
+Unasked points: **none found**.
+
+### Book p471 / 02 PDF4
+
+| Printed point / call-out | Question |
+|---|---|
+| Etiology: orphan disease with unknown cause; age 35-50 years; F:M = 5:1. | MED-C18-09 |
+| Immune susceptibility is listed as HLA DRB1/II (DR5) and viral associations are EBV, CMV and parvovirus B19. | MED-C18-10 |
+| Agents inducing scleroderma: vinyl chloride, bleomycin, pentazocine, contaminated L-tryptophan and silica, with silica carrying the maximum association with SSc. | MED-C18-11 |
+| The note pairs HLA DR-3 with SLE and Sjogren syndrome, DR-4 with APS and RA, DR-5 with SSc, and adds that silica is also associated with SLE. | MED-C18-12 |
+| Very early systemic sclerosis: 3-5 years, with two-thirds of cases progressing to SSc. | MED-C18-13 |
+| The triad pairs Raynaud's phenomenon and ANA positivity with the investigation nail-fold capillaroscopy. | MED-C18-14 |
+| Raynaud's phenomenon is episodic vasoconstriction in response to stimuli; triggers listed are cold, stress and vibration. | MED-C18-15 |
+| Clinical manifestations listed: pallor, cyanosis, redness on rewarming, pain and tightness of digits and a puffy hand. | MED-C18-16 |
+
+Unasked points: **none found**.
+
+### Book p472 / 02 PDF5
+
+| Printed point / call-out | Question |
+|---|---|
+| Primary (Raynaud's disease): ANA negative, family history positive, symptoms self-limiting and symmetric, and other features listed as a good prognosis. | MED-C18-17 |
+| Secondary Raynaud phenomenon: severe with critical limb ischaemia, ulcer and gangrene of the extremities, and associated diseases (SSc, Sjogren syndrome, MCTD and inflammatory muscle disease). | MED-C18-18 |
+| Nail-fold capillaroscopy in secondary disease: dropout of capillaries, dilated tortuous capillaries and microhaemorrhages; the primary column is normal. | MED-C18-19 |
+| Limited SSc: ANA pattern centromere with anti-centromere antibody; diffuse SSc: fine speckled with anti-topoisomerase and anti-RNA polymerase III. | MED-C18-20 |
+| Raynaud phenomenon: limited SSc is long standing and severe (due to predominant vasculopathy) with critical limb ischaemia present; diffuse SSc is short lasting and less severe (due to predominant fibrosis) with critical limb ischaemia not extensive. | MED-C18-21 |
+| Diffuse SSc: anti-topoisomerase and anti-RNA polymerase III, with a fine-speckled ANA pattern. | MED-C18-22 |
+
+Unasked points: **none found**.
+
+### Book p473 / 02 PDF6
+
+| Printed point / call-out | Question |
+|---|---|
+| CREST: C is calcinosis of the tissues; E is oesophagitis, marked limited much greater than diffuse. | MED-C18-23 |
+| CREST: R is Raynaud's phenomenon, S is sclerodactyly (scleroderma of fingers) and T is telangiectasia, with minimal fibrosis noted for limited disease. | MED-C18-24 |
+| Pulmonary artery hypertension is asymptomatic with normal FEV1, FVC and FEV1/FVC but a reduced DLCO. | MED-C18-25 |
+| Pulmonary artery hypertension: poor prognosis due to increased mortality. | MED-C18-26 |
+| Features against limited SSc: extensive fibrosis, ILD, cardiac involvement and renal involvement. | MED-C18-27 |
+| Skin manifestations: dry tight skin, facial hypo- and hyperpigmentation (salt-and-pepper appearance), hair loss, intense itching, and progression to face tightening with microstomia, pursed lip, puckered mouth and mask facies. | MED-C18-28 |
+| Diffuse SSc skin manifestations include bilateral symmetrical skin thickening. | MED-C18-29 |
+
+Unasked points: **none found**.
+
+### Book p474 / 02 PDF7
+
+| Printed point / call-out | Question |
+|---|---|
+| Joint manifestations: diffuse SSc shows arthritis/myositis due to inflammation; limited SSc shows acral osteolysis (falling off of fingers) with diffuse severe Raynaud's phenomenon. | MED-C18-30 |
+| Other manifestations include acral osteolysis, attributed to fibrosis or vasculopathy. | MED-C18-31 |
+| Oesophageal hypomotility progresses to small-intestinal bacterial overgrowth and pneumatosis intestinalis. | MED-C18-32 |
+| The watermelon-stomach image is labelled as seen on upper GI endoscopy. | MED-C18-33 |
+| Disease progression: pulmonary manifestations leading to interstitial lung disease, which is the most common cause of death; cardiac and renal manifestations are also listed. | MED-C18-34 |
+| Anti-centromere is limited-type SSc with CREST syndrome and pulmonary hypertension as the complication. | MED-C18-35 |
+| Anti-RNA polymerase III (diffuse) is linked to scleroderma renal crisis, more than anti-topoisomerase, and to malignancy of lung and breast. | MED-C18-36 |
+| Anti-topoisomerase-1 (anti-Scl-70), diffuse: renal TMA progressing to scleroderma renal crisis, lung ILD, tendon friction rubs on passive movement (diffuse more than limited), GAVE (watermelon stomach) and rapidly progressive skin involvement with joint contractures and tendon friction rubs. | MED-C18-37 |
+| The antibody table lists anti-PM/Scl-70 in overlap disease with ILD positive and anti-Ku in overlap disease with no ILD. | MED-C18-38 |
+
+Unasked points: **none found**.
+
+### Book p475 / 02 PDF8
+
+| Printed point / call-out | Question |
+|---|---|
+| Renal disease in diffuse SSc presents within the first 4 years, affects small vessels of the kidney and is a thrombotic microangiopathy. | MED-C18-39 |
+| Thrombotic microangiopathy: accelerated hypertension plus microangiopathic haemolytic anaemia plus thrombocytopenia. | MED-C18-40 |
+| Rx for scleroderma renal crisis: ACE inhibitors, described as the drug of choice. | MED-C18-41 |
+| Phases of diffuse SSc: the oedematous phase, more common in diffuse disease and associated with non-pitting oedema, progresses to the fibrotic phase. | MED-C18-42 |
+| Investigations: PFT for ILD shows DLCO markedly reduced and FRC reduced; the chest radiograph shows bilateral basal subpleural reticular infiltrates. | MED-C18-43 |
+
+Unasked points: **none found**.
+
+### Book p476 / 02 PDF9
+
+| Printed point / call-out | Question |
+|---|---|
+| HRCT: IOC. Scleroderma: NSIP more than UIP. | MED-C18-44 |
+| NSIP shows no destruction with ground-glass opacities and is treated with steroids and mycophenolate mofetil (better prognosis); UIP shows destruction with cystic changes, honeycombing and traction bronchiectasis with no treatment listed. | MED-C18-45 |
+| The note attributes UIP to RA, LIP as characteristic of Sjogren's disease, and NSIP to others. | MED-C18-46 |
+| Rx of RP: first line is a calcium-channel blocker, with or without a PDE-5 inhibitor (sildenafil). | MED-C18-47 |
+| Second line for Raynaud phenomenon is bosentan, an endothelin antagonist. | MED-C18-48 |
+| ILD: nintedanib plus MMF, and the source notes the disease is non-responsive to steroid. | MED-C18-49 |
+| Treatment: skin is treated with mycophenolate mofetil, and joint plus muscle involvement with steroids and methotrexate; scleroderma renal crisis is treated with ACE inhibitors. | MED-C18-50 |
+
+Unasked points: **none found**.
+
+### Book p477 / 02 PDF10
+
+| Printed point / call-out | Question |
+|---|---|
+| Definition: a multisystem autoimmune CTD characterised by mononuclear inflammation within skeletal muscle, with subacute muscle weakness and fatigue, lasting 6-8 weeks. | MED-C19-01 |
+| Old classification: polymyositis, dermatomyositis, inclusion body myositis and immune-mediated necrotizing myopathy. | MED-C19-02 |
+| Current classification opens with polymyositis, now an obsolete term, and then lists dermatomyositis, antisynthetase syndrome, necrotizing myopathies, juvenile DM, paraneoplastic myositis, inclusion body myositis and amyopathic DM. | MED-C19-03 |
+| Criterion A: proximal and symmetrical muscle weakness of the pelvic and scapular girdle and anterior flexors of the neck, progressing for weeks to months, with or without dysphagia or involvement of respiratory muscles. | MED-C19-04 |
+| Criterion B: elevation of serum levels of skeletal-muscle enzymes, namely creatine kinase, aspartate aminotransferase, lactate dehydrogenase and aldolase. | MED-C19-05 |
+| Criterion C: EMG characteristic of myopathy with short and small motor units, fibrillation, positive sharp waves, insertional irritability and repetitive high-frequency firing. | MED-C19-06 |
+| Criterion D: muscle biopsy showing necrosis, phagocytosis and inflammatory exudate. | MED-C19-07 |
+| Typical cutaneous changes: heliotrope rash with periorbital oedema and violaceous erythema, and Gottron's sign with vasculitis in the elbow, metacarpophalangeal and proximal interphalangeal joints. | MED-C19-08 |
+| Risk factors, genetic: HLA-DRB1-03 and HLA-DRB1-07. | MED-C19-09 |
+| Environmental risk factors: UV B rays, Coxsackie and parvovirus B19 virus, and drugs including chloroquine, colchicine and statins. | MED-C19-10 |
+
+Unasked points: **none found**.
+
+### Book p478 / 02 PDF11
+
+| Printed point / call-out | Question |
+|---|---|
+| The note lists 03 with SLE, Sjogren's and dermatomyositis, 04 with APS and RA, and 05 with scleroderma. | MED-C19-11 |
+| Typical (55-60%): most commonly middle-aged; juvenile 5-15 years, adult 40-60 years, females more than males (2:1). | MED-C19-12 |
+| Typical features: weakness that is bilateral and symmetrical, purely motor, proximal, autoimmune (acquired), persistent, with no significant pain and progressive motor weakness over weeks to months. | MED-C19-13 |
+| Examination findings: bulk normal, power reduced, tone reduced, reflexes normal and sensory system intact. | MED-C19-14 |
+| The note lists the muscle groups not involved in IMD as the extraocular muscles and the facial muscles. | MED-C19-15 |
+| Atypical: 30% present with proximal pain and weakness with an acute-subacute onset, and 10% with chronic proximal plus distal weakness; the syndrome table gives the same 30 and 10 figures for the corresponding rows. | MED-C19-16 |
+| The syndrome table lists insidious proximal and distal weakness over 1-10 years, contrasted with painless proximal weakness over 3-10 months and acute or subacute proximal pain and weakness over weeks to months. | MED-C19-17 |
+
+Unasked points: **none found**.
+
+### Book p479 / 02 PDF12
+
+| Printed point / call-out | Question |
+|---|---|
+| Pathognomonic skin lesions: Gottron's papule (scaly erythematous flat-topped violaceous papule/plaque over the dorsal MCP, PIP and DIP) and heliotrope rash (violaceous periorbital oedema and erythema). | MED-C19-18 |
+| Gottron's papule: scaly erythematous flat-topped violaceous papule/plaque on the dorsal surface of MCP, PIP and DIP joints. | MED-C19-19 |
+| Heliotrope rash: violaceous periorbital oedema and erythema. | MED-C19-20 |
+| Other skin lesions: Gottron rash/sign is macular erythema over Gottron's papule, typically on extensor surfaces, photosensitive, with linear erythema over the dorsum of the hand. | MED-C19-21 |
+| V sign is located over the chest, shawl sign posteriorly over the back and holster sign is erythema on the lateral aspect of the thigh; scalp involvement is generally pruritic. | MED-C19-22 |
+| Telangiectasia: nail-fold capillary involvement with periungual erythema or oedema, and cuticular hyperplasia also seen. | MED-C19-23 |
+| Calcinosis cutis: also seen in CREST syndrome and in juvenile dermatomyositis, and due to deposition of calcium hydroxyapatite. | MED-C19-24 |
+
+Unasked points: **none found**.
+
+### Book p480 / 02 PDF13
+
+| Printed point / call-out | Question |
+|---|---|
+| SLE rash: never involves the knuckles, may involve the nasolabial fold, associated with painless oral cavity ulcers and non-pruritic. Dermatomyositis rash: involves the knuckles (MCP joint), does not involve the nasolabial fold, not associated with oral cavity ulcers and pruritic. | MED-C19-25 |
+| Mechanic's hand: not specific for dermatomyositis and part of the antisynthetase syndrome. | MED-C19-26 |
+| Muscle biopsy is described as the gold standard test. | MED-C19-27 |
+| Muscle biopsy shows a mononuclear lymphocytic infiltrate of CD4+ T cells and perifascicular atrophy. | MED-C19-28 |
+| MRI: the STIR sequence shows hyperintense areas within muscle. | MED-C19-29 |
+| EMG: polyphasic short-duration small-amplitude potentials, high-frequency discharges, and spontaneous fibrillation or denervation. | MED-C19-30 |
+| Enzymes: CPK is greater than AST. | MED-C19-31 |
+| Antibody associated: anti-Mi-2 alpha with good prognosis, low risk for ILD and responsiveness to conventional therapy (steroid plus MMF). | MED-C19-32 |
+
+Unasked points: **none found**.
+
+### Book p481 / 02 PDF14
+
+| Printed point / call-out | Question |
+|---|---|
+| Age group: polymyositis only in adults; dermatomyositis seen in the elderly or juvenile. | MED-C19-33 |
+| Skin changes are absent in polymyositis and present in dermatomyositis; calcinosis is rare in polymyositis and seen in dermatomyositis. Both share subacute onset, proximal symmetric weakness, systemic features and normal-to-high enzymes. | MED-C19-34 |
+| Associated systemic conditions or overlap syndrome: yes for polymyositis, which never exists on its own, and yes for dermatomyositis, which can exist on its own. | MED-C19-35 |
+| Biopsy findings: polymyositis shows CD8+ T-cell involvement while dermatomyositis shows CD4+ and B cells with perifascicular atrophy and perivascular inflammation. | MED-C19-36 |
+| The antisynthetase syndrome block opens with the statement that it is treatable if diagnosed early. | MED-C19-37 |
+| Antisynthetase syndrome clinical features: mechanic's hand, Raynaud's phenomenon, cardiomyopathy and an SLE-like arthritis (Jaccoud's arthropathy). | MED-C19-38 |
+| Mechanic's hand is seen on the radial aspect of the index and middle finger and is characterised by crusted hyperkeratotic lesions. | MED-C19-39 |
+| The note adds that Jaccoud's arthropathy is also seen in Sjogren's syndrome. | MED-C19-40 |
+| Investigations: CXR shows fever with infiltrates, which can be mistaken for viral pneumonia and can progress into ILD; ILD can be the first presentation of the syndrome and is the most common cause of death. | MED-C19-41 |
+
+Unasked points: **none found**.
+
+### Book p482 / 02 PDF15
+
+| Printed point / call-out | Question |
+|---|---|
+| ILD pattern: NSIP plus COP. NSIP is most common and identified by ground-glass opacities; COP is identified by consolidations. | MED-C19-42 |
+| The note states UIP in the lung is identified by a honeycombing structure, that is destruction of the parenchyma. | MED-C19-43 |
+| Amyopathic DM: poor prognosis and not treatable, with anti-MDA-5 antibody and a clinical triad featuring rapidly progressive ILD. | MED-C19-44 |
+| Juvenile DM commonly affects girls aged 5-15 years and malignancy, cardiac involvement and ILD are absent. | MED-C19-45 |
+| Juvenile DM antibodies are anti-NXP2 and anti-TIF1-gamma; if seen in adults they indicate cancer-associated myositis. | MED-C19-46 |
+| Immune-mediated necrotizing DM: anti-SRP in severe disease with ILD and cardiac manifestations does not respond; anti-HMG-CoA reductase, seen with statin therapy, responds to steroid plus IVIG plus rituximab (rarely). | MED-C19-47 |
+
+Unasked points: **none found**.
+
+### Book p483 / 02 PDF16
+
+| Printed point / call-out | Question |
+|---|---|
+| IBM: most common in the elderly (males more than females), presenting with recurrent falls and a chronic presentation. | MED-C19-48 |
+| IBM weakness is asymmetrical, proximal plus distal, and involves the quadriceps, vastus and finger flexors. | MED-C19-49 |
+| IBM histology shows red-rimmed vacuoles and the disease is steroid unresponsive. | MED-C19-50 |
+| Cancers associated with DM: carcinoma ovary is characteristic and carcinoma lung is the most common. | MED-C19-51 |
+| Antibodies specific to IMDs: dermatomyositis with anti-Mi-2 alpha, antisynthetase syndrome with anti-Jo-1, necrotizing myopathy with anti-SRP and anti-HMG-CoA reductase, amyopathic DM with anti-MDA-5, and juvenile DM and cancer-associated myositis with anti-NXP2 and anti-TIF1-gamma. | MED-C19-52 |
+| Other associated antibodies: anti-Ro; anti-Ku, which may develop ILD; and anti-PM/Scl, seen in polymyositis with scleroderma with or without ILD and showing an ANA nucleolar pattern. | MED-C19-53 |
+| Both juvenile DM and cancer-associated myositis are listed with anti-NXP2 and anti-TIF1-gamma. | MED-C19-54 |
+| Treatment: the goal is clinical elimination of all disease activity; first line is steroid plus MTX or steroid plus MMF. | MED-C19-55 |
+| Second-line treatment: rituximab and JAK inhibitors (tofacitinib). | MED-C19-56 |
+| The treatment goal is clinical elimination of all disease activity. | MED-C19-57 |
+
+Unasked points: **none found**.
+
+### Book p484 / 02 PDF17
+
+| Printed point / call-out | Question |
+|---|---|
+| Sarcoidosis is defined as a chronic, multisystem, granulomatous, immunological disorder; biopsy usually shows non-caseating granulomas. | MED-C20-01 |
+| Biopsy usually shows non-caseating granulomas, but caseating granulomas can occur in one-third of cases. | MED-C20-02 |
+| Outcome: 50% spontaneous resolution, 25% become chronic (mostly the lung is affected) and 5% mortality, attributed to interstitial lung disease and infections. | MED-C20-03 |
+| Diseases that can have non-caseating granulomas: 30% of TB cases, lymphoma, berylliosis, hypersensitivity pneumonitis (HP), Crohn's disease and cat-scratch disease. | MED-C20-04 |
+| ACR criteria: compatible clinical picture, histological non-caseating granulomas and exclusion of other causes. | MED-C20-05 |
+| Classification: acute sarcoidosis is represented by Lofgren syndrome and chronic sarcoidosis by Heerfordt syndrome; hilar adenopathy is the important finding. | MED-C20-06 |
+| Major manifestations: lung (ILD) more than skin more than eyes more than joints; multisystem manifestations include cardiac and renal disease, and the only organ spared is the testes. | MED-C20-07 |
+| Risk factors: Propionibacterium acnes infection and excessive firewood burning. | MED-C20-08 |
+
+Unasked points: **none found**.
+
+### Book p485 / 02 PDF18
+
+| Printed point / call-out | Question |
+|---|---|
+| HLA DRB1*03 is associated with Lofgren syndrome and a good prognosis. | MED-C20-09 |
+| HLA DRB1*04 has a protective role, while HLA DRB1*11 is associated with CNS and cardiac sarcoidosis, which carries a bad prognosis. | MED-C20-10 |
+| The note repeats: HLA DRB1*03 with SLE, Sjogren syndrome and dermatomyositis; DRB1*04 with APS and RA; DRB1*05 with scleroderma. | MED-C20-11 |
+| Immune paradox/anergy: lymphopenia in blood leading to increased risk of infection, and a Mantoux test that is false negative because of low lymphocytes. | MED-C20-12 |
+| The note states HIV positivity leads to lymphopenia and a reduced risk of sarcoidosis. | MED-C20-13 |
+| Lofgren syndrome is drawn with erythema nodosum, arthritis and hilar adenopathy. | MED-C20-14 |
+| Erythema nodosum in Lofgren syndrome is described with the 3 P's: painful, pretibial, papule. | MED-C20-15 |
+| Arthritis/tenosynovitis is acute, involves the ankle joint, is bilateral and symmetrical and is seen in the young. | MED-C20-16 |
+
+Unasked points: **none found**.
+
+### Book p486 / 02 PDF19
+
+| Printed point / call-out | Question |
+|---|---|
+| In Behcet's disease, erythema nodosum has 4 P's: painful, pretibial, papules with pigmentation. | MED-C20-17 |
+| Hilar adenopathy is described as the most consistent feature and is generally bilateral, with right paratracheal and left hilar nodes shown. | MED-C20-18 |
+| Heerfordt-Waldenstrom syndrome: uveitis, bilateral LMN seventh-nerve palsy and parotitis. | MED-C20-19 |
+| Uveitis: any type or compartment, acute anterior uveitis more common, and the most common ocular manifestation of sarcoid. | MED-C20-20 |
+| Bilateral LMN seventh-nerve palsy is the most common neurological manifestation in sarcoid; the note pairs it with Guillain-Barre syndrome as its main differential. | MED-C20-21 |
+| Clinical paradox: it helps identify chronicity, because as the lung disease worsens the nodal enlargement regresses. | MED-C20-22 |
+| Stages: 1 bilateral hilar lymphadenopathy with nodal enlargement only, 2 nodal enlargement plus parenchymal disease (node size starts to fall as infiltrate rises), 3 parenchymal disease only, 4 fibrosis. | MED-C20-23 |
+
+Unasked points: **none found**.
+
+### Book p487 / 02 PDF20
+
+| Printed point / call-out | Question |
+|---|---|
+| Fibrosis pattern: thickening of bronchovascular bundles and traction bronchiectasis of the upper lobe; upper-lobe fibrosis is also listed for ankylosing spondylitis and sarcoidosis. | MED-C20-24 |
+| Lupus pernio: violaceous or erythematous, indurated, infiltrative plaques on the central face that are less responsive to treatment; bone changes (lytic or cystic) are also associated. | MED-C20-25 |
+| Eye involvement: chronic bilateral panuveitis is the most common manifestation. | MED-C20-26 |
+| Features unlikely of sarcoidosis: pleural involvement and a UIP-like pattern with honeycombing and parenchymal destruction in the lung; episcleritis, scleritis and sicca in the eye. | MED-C20-27 |
+| The note lists episcleritis, scleritis and sicca as ocular features unlikely of sarcoidosis. | MED-C20-28 |
+
+Unasked points: **none found**.
+
+### Book p488 / 02 PDF21
+
+| Printed point / call-out | Question |
+|---|---|
+| Endocrine manifestation: hypercalcaemia. | MED-C20-29 |
+| CNS: bilateral LMN seventh-nerve palsy (most common), neurosarcoidosis with a pituitary mass causing stalk effect and central diabetes insipidus, basilar meningitis and acute transverse myelitis. | MED-C20-30 |
+| CVS: dilated cardiomyopathy more than restrictive cardiomyopathy, and AV blocks. | MED-C20-31 |
+| Hematology: pancytopenia with splenomegaly. | MED-C20-32 |
+| Renal: AKI is hypercalcaemia-induced pre-renal failure, CKD is chronic tubulointerstitial disease (CTID) and the glomerulus is rarely affected, with membranous nephropathy. | MED-C20-33 |
+| The note lists rheumatological disorders causing CTID as Sjogren's syndrome, IgG4-related disease and sarcoidosis. | MED-C20-34 |
+| Investigations: gallium-67 scintigraphy (panda sign) and PET scan, which is the investigation of choice to identify nodes to take a biopsy from. | MED-C20-35 |
+| Blood markers: angiotensin-converting enzyme (if normal, sarcoidosis can be ruled out) and soluble interleukin-2 (sIL-2) receptor. | MED-C20-36 |
+| Bronchoalveolar lavage is listed with a raised CD4/CD8 ratio above the cut-off printed on the page. | MED-C20-37 |
+
+Unasked points: **none found**.
+
+### Book p489 / 02 PDF22
+
+| Printed point / call-out | Question |
+|---|---|
+| Treatment: acute sarcoidosis requires no treatment; chronic disease is treated in steps. | MED-C20-38 |
+| Chronic: first line steroids, second line methotrexate and azathioprine, third line anti-TNF-alpha (adalimumab). | MED-C20-39 |
+| Therapeutic paradox: in a patient treated with TNF-alpha (adalimumab), skin lesions similar to sarcoidosis can appear, and they disappear on reducing the dose. | MED-C20-40 |
+| Overlap syndrome: features of two or more out of the six autoimmune systemic connective tissue diseases. | MED-C20-41 |
+| The overlap list is Sjogren syndrome (most common, most having anti-Ro antibody), SLE, polymyositis, dermatomyositis, systemic sclerosis and rheumatoid arthritis. | MED-C20-42 |
+| The source states that treatment is based on the predominant disease in the overlap. | MED-C20-43 |
+| Undifferentiated CTD: patients presenting with some features of CTD who do not fulfil the criteria to be classified under a disease. | MED-C20-44 |
+| MCTD is introduced as a specific type of overlap syndrome, with patients presenting unique features, in middle-aged females (female:male about 15:1). | MED-C20-45 |
+| Serology: ANA positive in 100% with a coarse speckled pattern and anti-U1 RNP antibody positive. | MED-C20-46 |
+
+Unasked points: **none found**.
+
+### Book p490 / 02 PDF23
+
+| Printed point / call-out | Question |
+|---|---|
+| Clinical features: Raynaud's phenomenon is the most common manifestation, followed by oedema of hands, nail pitting, acrosclerosis, myositis and erosive synovitis. | MED-C20-47 |
+| Acrosclerosis is defined as Raynaud's phenomenon plus MCTD plus the systemic-sclerosis features of the hand. | MED-C20-48 |
+| Clinical features note that the CNS and renal system are usually spared in MCTD. | MED-C20-49 |
+| HLA association for MCTD: HLA DRB1*04. | MED-C20-50 |
+| Complications: ILD is the most common, and about 20% evolve into limited SSc with pulmonary artery hypertension, which is the most common cause of death. | MED-C20-51 |
+| The capillaroscopy panel in RP shows normal, dilated, tortuous, bushy and meandering capillaries with microhaemorrhage. | MED-C20-52 |
+
+Unasked points: **none found**.
+
 ## Post-build verification
 
-- `python3 build_content.py` embedded 579 questions / 55 units / 15 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 847 questions / 87 units / 20 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 579 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 847 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 

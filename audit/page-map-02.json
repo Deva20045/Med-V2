@@ -1,0 +1,139 @@
+{
+  "source": "uploads/02.pdf",
+  "sha256": "8d4150718da72508ad6dff6f90792b2bdec656678b240bea7e1b0d2525e6b0de",
+  "render": "pymupdf Matrix(2,2)",
+  "reviewed": "2026-09-23",
+  "note": "Second upload of the same volume; it continues the printed sequence where uploads/01.pdf ends (01.pdf PDF103 = Book p467).",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "printedPage": 468,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 2,
+      "printedPage": 469,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 3,
+      "printedPage": 470,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 4,
+      "printedPage": 471,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 5,
+      "printedPage": 472,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 6,
+      "printedPage": 473,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 7,
+      "printedPage": 474,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 8,
+      "printedPage": 475,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 9,
+      "printedPage": 476,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 10,
+      "printedPage": 477,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 11,
+      "printedPage": 478,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 12,
+      "printedPage": 479,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 13,
+      "printedPage": 480,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 14,
+      "printedPage": 481,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 15,
+      "printedPage": 482,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 16,
+      "printedPage": 483,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 17,
+      "printedPage": 484,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 18,
+      "printedPage": 485,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 19,
+      "printedPage": 486,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 20,
+      "printedPage": 487,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 21,
+      "printedPage": 488,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 22,
+      "printedPage": 489,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 23,
+      "printedPage": 490,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 24,
+      "printedPage": 491,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 25,
+      "printedPage": 492,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 26,
+      "printedPage": 493,
+      "kind": "Book content"
+    }
+  ]
+}

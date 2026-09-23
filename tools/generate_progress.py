@@ -1,89 +1,145 @@
+"""Regenerate PROGRESS.md from the chapter artifacts, the ledger and the roadmap."""
 import json
 from collections import Counter
+from pathlib import Path
+import sys
 
-cov = json.load(open('audit/coverage.json'))
-chapters_data = [json.load(open(f'data/ch{n:02d}.json')) for n in range(1, 9)]
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from build_content import CHAPTERS  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+cov = json.loads((ROOT / "audit" / "coverage.json").read_text(encoding="utf-8"))
+numbers = sorted({c["chapter"] for c in
+                  [json.loads((ROOT / "data" / f"ch{n:02d}.json").read_text()) for n in range(1, 58)]
+                  } ) if False else None
+
+chapters_data = []
+for n in range(1, 58):
+    path = ROOT / "data" / f"ch{n:02d}.json"
+    if path.exists():
+        chapters_data.append(json.loads(path.read_text(encoding="utf-8")))
+
+live = {c["chapter"] for c in chapters_data}
+total_q = sum(len(c["questions"]) for c in chapters_data)
+total_u = sum(len(c["units"]) for c in chapters_data)
+release = [c for c in chapters_data if 16 <= c["chapter"] <= 20]
+release_q = sum(len(c["questions"]) for c in release)
+release_u = sum(len(c["units"]) for c in release)
+release_pages = sum(
+    int(c["pageRange"].split("-")[1]) - int(c["pageRange"].split("-")[0]) + 1 for c in release
+)
 
 out = []
 out.append("# PULSE Medicine Vol 2 — Progress\n")
-out.append("Updated 2026-09-22. Single offline HTML quiz for Medicine Vol 2, Book p377–702.\n")
+out.append("Updated **2026-09-23**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.\n")
 out.append("- Repository: `Deva20045/Med-V2`")
-out.append("- Session branch: `arena/01a0c840-med-v2`")
+out.append("- Session branch: `arena/01a0cd13-med-v2`")
 out.append("- Published URL: https://deva20045.github.io/Med-V2/")
-out.append("- Source of truth: `data/chNN.json`; generated deliverable: `pulse-medicine.html`; `index.html` redirects to it.")
-out.append("- Build status: **8 live chapters / 57**, **294 questions / 34 units**. Chapters 9–57 remain `live:false`.\n")
+out.append("- Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.")
+out.append(f"- **Build status: {len(live)} live chapters / 57 · {total_q} questions / {total_u} units.** "
+           "Chapters 21–57 remain `live:false`.\n")
 
-out.append("## This release (Chapters 5–8)")
-out.append("""
-1. Authored and verified four consecutive cardiology chapters from printed pages 394–414 of `uploads/01.pdf`:
-   - **Chapter 5: Tachyarrhythmias** (p394–402): 52 questions / 5 units.
-   - **Chapter 6: Atrial Fibrillation and Flutter** (p403–406): 33 questions / 4 units.
-   - **Chapter 7: Ventricular Arrhythmias** (p407–412): 36 questions / 3 units.
-   - **Chapter 8: WPW Syndrome** (p413–414): 14 questions / 2 units.
-2. Complete visual self-audit: **402 total educational point-to-question mappings** (262 existing + 140 new across p394–414), with **0 unasked points**.
-3. High-quality clinical question authoring: strictly non-predictable options, realistic clinical distractors, true/false balanced pairs, match bijections, exact `(Book pX)` citations.
-4. Schema, actual app regex parsers (`parseMatch`, `fillupHtml`, `matchOptHtml`, `splitExp`), bijections, unit coverage, and book-order validation all pass.
-5. All 294 questions and 34 units successfully compiled and embedded into standalone offline deliverable `pulse-medicine.html`.
-6. Full test suite passing: `python3 validate_content.py --embedded`, `tests/app_parsers.cjs`, and `python3 -m unittest discover -s tests -v`.
+out.append("## This release — Chapters 16–20\n")
+out.append("Five consecutive rheumatology chapters were rendered from the scans, read block by block, "
+           "source-ordered and made live:\n")
+out.append("| Ch | Title | Printed pages | Questions | Units |")
+out.append("|---:|---|---:|---:|---:|")
+for c in release:
+    out.append(f"| {c['chapter']} | {c['title']} | {c['pageRange'].replace('-', '–')} "
+               f"| {len(c['questions'])} | {len(c['units'])} |")
+out.append(f"| **Release total** |  | **{release_pages} pages** | **{release_q}** | **{release_u}** |\n")
 
-Full evidence: [self-audit and page-by-page ledger](audit/SELF_AUDIT.md), [pre-build validation output](audit/PREBUILD_VALIDATION.txt), [machine-readable inventory](audit/coverage.json).
-""")
+out.append("### Quality and ordering contract delivered\n")
+out.append("1. All pages were read in printed order (`uploads/01.pdf` PDF94–103 = Book p458–467 and "
+           "`uploads/02.pdf` PDF1–23 = Book p468–490), including flowchart arms, comparison tables, numeric "
+           "thresholds, morphology images, rotated annotations, notes, management ladders and drug doses.")
+out.append(f"2. Every source-mapped learning target has a four-option, citation-backed question in "
+           f"`audit/coverage.json`; Chapters 16–20 add **{release_q} ordered mappings**, bringing the audited "
+           f"ledger to **{len(cov)} mappings** for Chapters 2–20. Every target is marked asked.\n"
+           "   Chapters 16–20 are unusually dense (a six-class lupus-nephritis table, the weighted EULAR/ACR domain "
+           "table, two management ladders with doses, four antibody-to-organ tables and three comparison tables), so "
+           "the block-by-block inventory resolved into more discrete printed points than the 120–150 planning "
+           "estimate; no point was dropped to meet a round number.")
+out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–20. "
+           "Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating "
+           "odd-one-out cases use plausible medical distractors.")
+out.append("4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question "
+           "lists are exact contiguous slices of source order, and every explanation ends with its exact "
+           "`(Book pX)` citation.")
+out.append("5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are "
+           "retained as book-study material and qualified in the audit; they are not a replacement for current "
+           "local clinical guidance.")
+out.append("6. Chapters 16–20 are embedded in the standalone app and all twenty roadmap flags are live.\n")
+out.append("Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), "
+           "[machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) "
+           "and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).\n")
 
 out.append("## Verified PDF → printed-page map\n")
-out.append("**Printed page numbers are ground truth.** All 103 pages of this copy of `uploads/01.pdf` were rendered with PyMuPDF `Matrix(2,2)` and visually checked. Full explicit mapping and source hash: [PAGE_MAP.md](audit/PAGE_MAP.md), [page-map.json](audit/page-map.json).\n")
-out.append("- PDF1–12: unnumbered front-matter and Contents.")
-out.append("- PDF13–18: 377–382 (Chapter 1).")
-out.append("- PDF19–22: 383–386 (Chapter 2).")
-out.append("- PDF23–25: 387–389 (Chapter 3).")
-out.append("- PDF26–29: 390–393 (Chapter 4).")
-out.append("- PDF30–38: 394–402 (Chapter 5: Tachyarrhythmias).")
-out.append("- PDF39–42: 403–406 (Chapter 6: Atrial Fibrillation and Flutter).")
-out.append("- PDF43–48: 407–412 (Chapter 7: Ventricular Arrhythmias).")
-out.append("- PDF49–50: 413–414 (Chapter 8: WPW Syndrome).")
-out.append("- PDF51–103: 415–467 (Chapter 9 onwards).\n")
+out.append("Printed page numbers are ground truth. Every sheet used so far was rendered at 2× and checked "
+           "visually. `uploads/01.pdf` is sequential after 12 unnumbered front-matter sheets; `uploads/02.pdf` "
+           "continues the same volume at Book p468. Full mappings and hashes are in [PAGE_MAP.md](audit/PAGE_MAP.md), "
+           "[page-map.json](audit/page-map.json) and [page-map-02.json](audit/page-map-02.json).\n")
+out.append("- PDF13–18: Book p377–382 (Ch1)")
+out.append("- PDF19–29: p383–393 (Ch2–4)")
+out.append("- PDF30–38: p394–402 (Ch5)")
+out.append("- PDF39–42: p403–406 (Ch6)")
+out.append("- PDF43–48: p407–412 (Ch7)")
+out.append("- PDF49–50: p413–414 (Ch8)")
+out.append("- PDF51–60: p415–424 (Ch9)")
+out.append("- PDF61–65: p425–429 (Ch10)")
+out.append("- PDF66–77: p430–441 (Ch11)")
+out.append("- PDF78–84: p442–448 (Ch12)")
+out.append("- PDF85–87: p449–451 (Ch13)")
+out.append("- PDF88–90: p452–454 (Ch14)")
+out.append("- PDF91–93: p455–457 (Ch15)")
+out.append("- **PDF94–101: p458–465 (Ch16)**")
+out.append("- **PDF102–103 + 02.pdf PDF1–2: p466–469 (Ch17)**")
+out.append("- **02.pdf PDF3–9: p470–476 (Ch18)**")
+out.append("- **02.pdf PDF10–16: p477–483 (Ch19)**")
+out.append("- **02.pdf PDF17–23: p484–490 (Ch20)**")
+out.append("- 02.pdf PDF24 onward: p491+ (Ch21 onward, not yet live)\n")
 
 out.append("## Schema and order contract\n")
-out.append("- Chapter: `chapter`, exact roadmap `title`, `pageRange` beginning at the roadmap start, nonempty `questions` and `units`.")
-out.append("- Question: sequential `MED-C<N>-<seq>` IDs; `sec`, integer `page`, `fmt` in recall/fillup/match/truefalse/scenario/oddoneout/numeric/management; `q`; exactly four unique options; integer `ans` 0–3; `exp` ending exactly `(Book pX)` matching `page`.")
-out.append("- Unit: `MED-U<N>-<n>`, `ch`, `n`, `title`, `sec`, a 2–4-line `guide`; `qs` rebuilt from that section in question-array order. Flattened units must exactly equal the full chapter question sequence.")
-out.append("- Fill-up stems contain `____`. Match grammar: `<prompt> — 1) left 2) left … A) right B) right`. No nested reserved item-label tokens. Every option covers all left items; the correct mapping is a bijection.")
-out.append("- True/false has exactly two True and two False options. Answer options shuffle in the app; questions do not.")
-out.append("- Inventory order follows printed page/content blocks. Software checks the inventory's sequence and references; visual review checks semantic coverage and within-page placement.")
-out.append("- Source discrepancies are explicitly qualified in explanations. Questions are book-study material, not a substitute for current clinical guidelines.\n")
+out.append("- Chapter: exact roadmap number/title, `pageRange` starts at the roadmap page, nonempty `questions` and `units`.")
+out.append("- Question: sequential `MED-C<N>-<seq>` ID; section/page/format/stem; exactly four unique options; one answer; explanation ending exactly `(Book pX)` matching `page`.")
+out.append("- Units: sequential `MED-U<N>-<n>` IDs; each has a 2–4-line guide; its IDs are rebuilt from exactly one section in original question order; flattened units equal the full chapter sequence.")
+out.append("- Questions are in printed book-page order; all printed pages in every live chapter are represented.")
+out.append("- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–20, in exact question order and with matching book page.")
+out.append("- Questions are educational book-study material, not a substitute for current clinical guidelines or patient care.\n")
 
-out.append("## Build / audit / test workflow\n")
-out.append("""```sh
-# Python 3 and Node required for the fail-closed build gate.
-python3 validate_content.py --ledger     # print every point before building
-python3 -m unittest discover -s tests -v
-python3 build_content.py
-python3 validate_content.py --embedded
-```
-""")
+out.append("## Build, audit and test workflow\n")
+out.append("```sh")
+out.append("# Generate/edit chapter artifacts only when source artefacts need regeneration.")
+out.append("python3 tools/generate_ch09_15.py        # Chapters 9-15")
+out.append("python3 tools/generate_ch16_20.py        # Chapters 16-20")
+out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-20)")
+out.append("python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md")
+out.append("")
+out.append("# Fail-closed source gate, standalone-app build, and embedded-array gate.")
+out.append("python3 validate_content.py --ledger")
+out.append("python3 -m unittest discover -s tests -v")
+out.append("python3 build_content.py")
+out.append("python3 validate_content.py --embedded")
+out.append("node tests/app_parsers.cjs")
+out.append("```\n")
 
 out.append("## Per-chapter units\n")
 out.append("| Ch | Unit | Pages | Question range | Count |")
 out.append("|---:|---|---|---|---:|")
 for c in chapters_data:
-    for u in c['units']:
-        q_start = u['qs'][0]
-        q_end = u['qs'][-1]
-        pages_in_unit = sorted(list({next(q['page'] for q in c['questions'] if q['id'] == qid) for qid in u['qs']}))
+    for u in c["units"]:
+        q_start, q_end = u["qs"][0], u["qs"][-1]
+        pages_in_unit = sorted({next(q["page"] for q in c["questions"] if q["id"] == qid) for qid in u["qs"]})
         p_str = f"{pages_in_unit[0]}" if len(pages_in_unit) == 1 else f"{pages_in_unit[0]}–{pages_in_unit[-1]}"
         q_range = f"{q_start}–{q_end}" if q_start != q_end else q_start
         out.append(f"| {c['chapter']} | {u['title']} | {p_str} | {q_range} | {len(u['qs'])} |")
 
-import sys
-sys.path.insert(0, '.')
-from build_content import CHAPTERS
 out.append("\n## Full roadmap\n")
 out.append("| Ch | Title | Starts | State |")
 out.append("|---:|---|---:|---|")
-live_chapters = {c['chapter'] for c in chapters_data}
 for num, title, start in CHAPTERS:
-    state = "Live" if num in live_chapters else "Soon"
+    state = "**Live**" if num in live else "Soon"
     out.append(f"| {num} | {title} | {start} | {state} |")
 
-with open('PROGRESS.md', 'w') as f:
-    f.write('\n'.join(out) + '\n')
-print("Successfully updated PROGRESS.md!")
+(ROOT / "PROGRESS.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+print(f"Successfully updated PROGRESS.md: {len(live)} live chapters, {total_q} questions, {total_u} units.")

@@ -4120,5 +4120,1613 @@
     "page": 457,
     "point": "Biomarkers: anti-dsDNA titre, ↓C3/↓C4, and ↑ESR with ↓CRP.",
     "question": "MED-C15-32"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "Constitutional symptoms are listed as fatigue and weight loss, pyrexia of unknown origin (PUO) and leucopenia.",
+    "question": "MED-C16-01"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "The cutaneous section opens with the Gilliam-Sontheimer classification into lupus specific and lupus non-specific lesions.",
+    "question": "MED-C16-02"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "ACLE is listed first among lupus-specific lesions and marked (m/c); its localised form (malar rash) is also marked m/c.",
+    "question": "MED-C16-03"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "Localised ACLE is symmetrical, erythematous, scaly and NON-scarring (with or without oedema); scarring belongs to discoid/CCLE disease.",
+    "question": "MED-C16-04"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "The ACLE block associates painless oral/nasopharyngeal ulcers and non-scarring alopecia with the malar rash.",
+    "question": "MED-C16-05"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "Generalised ACLE is annotated as sparing the knuckles; the TEN-like lupus image is attached to the same ACLE arm.",
+    "question": "MED-C16-06"
+  },
+  {
+    "chapter": 16,
+    "page": 458,
+    "point": "SCLE is listed with anti-Ro/La (+), association with HLA DR3 and photosensitivity.",
+    "question": "MED-C16-07"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "The note lists rash involving the nasolabial fold under acne rosacea (a) and dermatomyositis (b); SLE malar rash spares the nasolabial fold.",
+    "question": "MED-C16-08"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "The 5/20 rule: 5% of patients with discoid rash have SLE and 20% of patients with SLE have a discoid rash.",
+    "question": "MED-C16-09"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "CCLE/discoid rash: circular raised erythematous patching with scarring; biopsy shows follicular plugging, keratotic scaling and dermal atrophy; there is a risk of progression to squamous cell carcinoma.",
+    "question": "MED-C16-10"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "CCLE is associated with cicatricial (scarring) alopecia, shown with the carpet-track sign of DLE.",
+    "question": "MED-C16-11"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "SCLE patterns listed are annular and psoriasiform, the latter marked with increased conversion to SLE.",
+    "question": "MED-C16-12"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "SCLE: 20% of patients with SCLE have SLE, white population, association with HLA DR3, anti-Ro with reduced renal involvement.",
+    "question": "MED-C16-13"
+  },
+  {
+    "chapter": 16,
+    "page": 459,
+    "point": "Lupus non-specific lesions listed are chilblain lupus and lupus panniculitis/profundus (subcutaneous, tender erythematous nodules).",
+    "question": "MED-C16-14"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "The note states lupus pernio is sarcoidosis and lupus vulgaris is TB.",
+    "question": "MED-C16-15"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "Musculoskeletal manifestations are marked (m/c system involved); the site is upper limb >> lower limb with small-joint and wrist involvement progressing to arthritis.",
+    "question": "MED-C16-16"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "SLE arthritis is non-erosive and deforming from ligament laxity, producing Jaccoud arthropathy, which is also seen in Sjogren syndrome.",
+    "question": "MED-C16-17"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "SLE with erosive arthritis is labelled Rhupus (RA/SLE overlap) and anti-CCP is positive.",
+    "question": "MED-C16-18"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "Under complications, septic arthritis is the concern in a patient on SLE treatment with a single joint involved out of proportion; the monoarthritis note lists crystal arthropathy and septic arthritis in the differential.",
+    "question": "MED-C16-19"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "Avascular necrosis presents as acute joint pain after about three months of disease; MRI is marked as the investigation of choice.",
+    "question": "MED-C16-20"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "SLE with constitutional, skin and joint involvement is labelled non-organ/life-threatening SLE, in contrast to organ-system involvement which carries a bad prognosis.",
+    "question": "MED-C16-21"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "Organ-system involvement: kidney involved in 50-60%, and 10% progress to CKD.",
+    "question": "MED-C16-22"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "Immunosuppressive therapy leading to infection is the most common cause of death in the first 10 years; acute coronary syndrome is the most common cause of death after 10 years, in keeping with accelerated atherosclerosis being an MI equivalent.",
+    "question": "MED-C16-23"
+  },
+  {
+    "chapter": 16,
+    "page": 460,
+    "point": "Vascular disease is noted in one-third of patients (thrombosis and accelerated atherosclerosis); dangerous vasculitis is medium-vessel, involving mesenteric and CNS vessels.",
+    "question": "MED-C16-24"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "RBC: anaemia of chronic disease is the most common; rapidly progressive anaemia is autoimmune haemolytic anaemia.",
+    "question": "MED-C16-25"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "WBC: leucopenia/lymphopenia with a raised risk of DLBCL; the note contrasts Sjogren syndrome, which raises the risk of marginal zone B-cell lymphoma.",
+    "question": "MED-C16-26"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Platelet: secondary ITP is listed in the haematological manifestations.",
+    "question": "MED-C16-27"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "The lung block states the lung parenchyma is spared in SLE, therefore there is no ILD; pleuritis and diffuse alveolar haemorrhage dominate instead.",
+    "question": "MED-C16-28"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Pleuritis is the most common lung manifestation, with or without a small, bilateral, exudative effusion.",
+    "question": "MED-C16-29"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Cough, haemoptysis and bilateral air-space opacification indicate diffuse alveolar haemorrhage, which requires active immunosuppression; the contrasting branch (viral/TB) is managed by stopping immunosuppression.",
+    "question": "MED-C16-30"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "DAH is flagged as carrying a poor prognosis and as the most important marker of SLE disease activity in the lung.",
+    "question": "MED-C16-31"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Activity assessment: clinically active disease with new-onset rashes, rising anti-dsDNA titres, falling C3 and C4, and a raised ESR with a low CRP (below 10 mg/dL).",
+    "question": "MED-C16-32"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Cardiac: pericarditis without tamponade is the most common manifestation; myocarditis is associated with anti-Ro antibody.",
+    "question": "MED-C16-33"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Libman-Sacks endocarditis is described with vegetations on the undersurface of the valve leaflet; mitral regurgitation is the most common valvular lesion.",
+    "question": "MED-C16-34"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "GIT: generally spared. Hepatobiliary: type 1 autoimmune hepatitis (lupoid hepatitis).",
+    "question": "MED-C16-35"
+  },
+  {
+    "chapter": 16,
+    "page": 461,
+    "point": "Indications for renal biopsy: proteinuria >1 g/day, or proteinuria ≥500 mg/day plus ≥3 RBCs in urine (microhaematuria).",
+    "question": "MED-C16-36"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "Class I minimal mesangial lupus nephritis shows mesangial immune-complex deposits, is asymptomatic and has an excellent prognosis, whereas class II mesangial proliferative disease is marked as having a poor prognosis.",
+    "question": "MED-C16-37"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "Class III focal lupus nephritis has <50% glomerular involvement; class IV diffuse has >50% glomerular involvement.",
+    "question": "MED-C16-38"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "Class III focal lupus nephritis is linked with RPGN and the table states these patients require active immunosuppression.",
+    "question": "MED-C16-39"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "Class V shows membranous nephropathy with adult-onset nephrotic syndrome, is resistant to steroid, and carries a better prognosis.",
+    "question": "MED-C16-40"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "Class VI advanced sclerotic lupus has >90% glomerular sclerosis and CKD, and is marked as the worst prognosis.",
+    "question": "MED-C16-41"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "Class III and IV lupus nephritis: HP shows endocapillary plus mesangial proliferation.",
+    "question": "MED-C16-42"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "IF shows IgG, IgA, IgM, C1q and C3 deposits, the full-house pattern; the note adds that it is also seen in HIV.",
+    "question": "MED-C16-43"
+  },
+  {
+    "chapter": 16,
+    "page": 462,
+    "point": "EM shows subendothelial (wire loop lesion) and mesangial deposits; hematoxylin bodies of Gross are described as most specific, and tubuloreticular inclusions are also shown.",
+    "question": "MED-C16-44"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "CNS: cognitive decline is the most common manifestation, with a raised risk of stroke due to antiphospholipid antibodies; small-fibre neuropathy and CNS vasculitis are also listed.",
+    "question": "MED-C16-45"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Constitutional domain: fever 2. Arthritis domain: synovitis or tenderness in at least 2 joints, 6.",
+    "question": "MED-C16-46"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Cutaneous domain: non-scarring alopecia 2, oral ulcers 2, subacute cutaneous or discoid lupus 4 and acute cutaneous lupus 6.",
+    "question": "MED-C16-47"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Neurologic domain: delirium 2, psychosis 3, seizure 5.",
+    "question": "MED-C16-48"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Serositis domain: pleural or pericardial effusion 5 and acute pericarditis 6.",
+    "question": "MED-C16-49"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Haematologic domain: leukopenia 3, thrombocytopenia 4, autoimmune haemolysis 4.",
+    "question": "MED-C16-50"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Renal domain: proteinuria >0.5 g/24 hr = 4 points; class II or V lupus nephritis = 8; class III or IV lupus nephritis = 10.",
+    "question": "MED-C16-51"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Antiphospholipid antibody domain: anticardiolipin IgG >40 GPL, or anti-β2 glycoprotein I IgG >40 units, or lupus anticoagulant scores 2.",
+    "question": "MED-C16-52"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "Complement proteins domain: low C3 or low C4 = 3; low C3 and low C4 = 4. Highly specific antibodies domain: anti-dsDNA = 6 and anti-Sm = 6.",
+    "question": "MED-C16-53"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "The table notes that all patients classified as having SLE must have ANA ≥1:80 (entry criterion) and patients must have ≥10 points to be classified as SLE.",
+    "question": "MED-C16-54"
+  },
+  {
+    "chapter": 16,
+    "page": 463,
+    "point": "The note states that classification criteria are not diagnostic criteria.",
+    "question": "MED-C16-55"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "Treat to target: SLE diagnosis to active disease to initial treatment to remission; the target is the SLE Disease Activity Index (SLEDAI) to 0, which is the indicator of remission.",
+    "question": "MED-C16-56"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "Initial Rx: constitutional symptoms are managed with HCQ (hydroxychloroquine) and observation.",
+    "question": "MED-C16-57"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "Non-life-threatening SLE: low-dose steroid (<7.5 mg/day) plus HCQ 5 mg/kg/day.",
+    "question": "MED-C16-58"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "Optical coherence tomography (OCT) is listed to look for retinal toxicity during HCQ therapy.",
+    "question": "MED-C16-59"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "IV steroid: methylprednisolone 500 mg to 1 g IV infusion in 100 ml normal saline over 1-2 hours, given as a pulse for 3 days.",
+    "question": "MED-C16-60"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "The pulse is followed by oral steroid 1 mg/kg/day, tapered over 3 months to 5 mg/day.",
+    "question": "MED-C16-61"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "Alongside IV steroid: oral MMF (mycophenolate mofetil) 2-3 g/day or IV cyclophosphamide 500 mg, two doses two weeks apart.",
+    "question": "MED-C16-62"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "Adverse effects with long-term cyclophosphamide use: secondary malignancy (AML) and gonadal toxicity.",
+    "question": "MED-C16-63"
+  },
+  {
+    "chapter": 16,
+    "page": 464,
+    "point": "The algorithm states: assess remission after more than 3 months using the SLEDAI index.",
+    "question": "MED-C16-64"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "Maintenance Rx: steroid (<7.5 mg/day) plus MMF (1 g/day) or azathioprine for 2-3 years.",
+    "question": "MED-C16-65"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "Belimumab is listed as the steroid-sparing agent in the maintenance block.",
+    "question": "MED-C16-66"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "The flowchart takes the no-remission (>3 months) branch to switching to cyclophosphamide, and if there is still no response the case is labelled refractory lupus.",
+    "question": "MED-C16-67"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "Refractory lupus: rituximab, voclosporin (a calcineurin inhibitor) with MMF, belimumab (anti-BLyS) and anifrolumab (anti type I interferon).",
+    "question": "MED-C16-68"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "The refractory-lupus block adds that plasma exchange is done if DAH or CNS vasculitis is present.",
+    "question": "MED-C16-69"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "Goals of Rx: asymptomatic, urine normal, complement normal, and no fever and no cytopenias.",
+    "question": "MED-C16-70"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "The CHImP mnemonic lists carbamazepine, chlorpromazine, hydralazine, isoniazid, interferon, infliximab, methyldopa, procainamide and phenytoin.",
+    "question": "MED-C16-71"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "Clinical features: M = F, CNS and renal not involved, anti-dsDNA negative, antihistone antibody positive, ANA positive in 100% and skin plus joint involvement.",
+    "question": "MED-C16-72"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "Drug-induced lupus spares the CNS and kidneys and is anti-dsDNA negative; nephritis with a rising anti-dsDNA belongs to SLE.",
+    "question": "MED-C16-73"
+  },
+  {
+    "chapter": 16,
+    "page": 465,
+    "point": "The note states that drugs causing SLE (drug-induced lupus) are safe in lupus patients.",
+    "question": "MED-C16-74"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "The heading notes the syndrome was earlier called antiphospholipid antibody syndrome (APLA).",
+    "question": "MED-C17-01"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "The chapter notes that one-third of SLE cases are APS positive.",
+    "question": "MED-C17-02"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "In the complications-of-SLE note, APS is described as increasing susceptibility to thrombus formation, with venous more than arterial events.",
+    "question": "MED-C17-03"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "The SLE complications note lists accelerated atherosclerosis, glomerular disease (class III/IV lupus nephritis), complications of immunosuppression, vasculitis of medium vessels (GIT/CNS) and APS.",
+    "question": "MED-C17-04"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "APS: 50% of cases are primary, associated with HLA DR4 and HLA DRw53; 50% or more are secondary, most commonly due to SLE (one-third of APS).",
+    "question": "MED-C17-05"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "The side note states the most common cause of secondary Sjogren is RA and that HLA DR3 positivity is associated with Sjogren syndrome and SLE.",
+    "question": "MED-C17-06"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "Antibodies are directed against phospholipid-binding proteins: beta-2 glycoprotein I, the prothrombin-phosphatidylserine complex and annexin, with platelet surface proteins shown alongside.",
+    "question": "MED-C17-07"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "The pathway ends in thrombocytopenia (50,000 to one lakh) with an increased propensity to thrombosis.",
+    "question": "MED-C17-08"
+  },
+  {
+    "chapter": 17,
+    "page": 466,
+    "point": "The diagram shows the Ag-Ab complex with increased affinity for platelets, activation of the complement cascade, thrombocytopenia with a raised thrombotic tendency, and reduced inhibition of coagulation factors progressing to thrombosis.",
+    "question": "MED-C17-09"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "The two hits are the antibody causing endothelial injury and a second hit such as oestrogen, smoking, obesity or other prothrombotic states.",
+    "question": "MED-C17-10"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "The most common cause of thrombophilia is acquired (APS), greater than inherited factor V Leiden mutation.",
+    "question": "MED-C17-11"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Thrombosis: DVT is more common than arterial thrombosis (stroke), which is more common than Budd-Chiari syndrome.",
+    "question": "MED-C17-12"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Veins involved: hepatic vein gives Budd-Chiari syndrome and cerebral veins give cerebral venous thrombosis.",
+    "question": "MED-C17-13"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Microvascular involvement affects the kidneys more than the adrenals.",
+    "question": "MED-C17-14"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Sneddon's syndrome is listed with livedo reticularis and stroke in the APS clinical-features block.",
+    "question": "MED-C17-15"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "The note gives the differential for hepatic vein thrombosis as APS, polycythemia rubra vera and PNH (paroxysmal nocturnal haemoglobinuria).",
+    "question": "MED-C17-16"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "The note describes the stroke as acute in onset with cranial nerve palsy and a pyramidal pattern of weakness.",
+    "question": "MED-C17-17"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Laboratory criteria: any antibody positive twice over 12 weeks.",
+    "question": "MED-C17-18"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Anti-beta-2 glycoprotein I (IgG/IgM) is detected by ELISA.",
+    "question": "MED-C17-19"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Anti-cardiolipin antibody (IgG/IgM >40 units) is described as sensitive.",
+    "question": "MED-C17-20"
+  },
+  {
+    "chapter": 17,
+    "page": 467,
+    "point": "Lupus anticoagulant is specific but not sensitive, with a raised aPTT and a raised dRVVT (diluted Russell's viper venom test).",
+    "question": "MED-C17-21"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "Clinical criteria: a vascular event due to venous or arterial thrombosis.",
+    "question": "MED-C17-22"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "Pregnancy criteria: one miscarriage ≥10 weeks, or ≥3 miscarriages before 10 weeks, or premature delivery <34 weeks of a morphologically normal neonate due to pre-eclampsia, eclampsia or HELLP syndrome.",
+    "question": "MED-C17-23"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "The note states APS is the most common cause of second-trimester abortion (after 10 weeks).",
+    "question": "MED-C17-24"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "Non-criteria APS: CNS shows chorea, epilepsy and migraine; cardiac shows Libman-Sacks endocarditis and MR.",
+    "question": "MED-C17-25"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "Hematological: warm-antibody autoimmune haemolytic anaemia and Evan's syndrome, with thrombocytopenia not significant enough to cause bleeding.",
+    "question": "MED-C17-26"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "Renal: APS nephropathy is a thrombotic microangiopathy due to microvascular involvement of the kidney.",
+    "question": "MED-C17-27"
+  },
+  {
+    "chapter": 17,
+    "page": 468,
+    "point": "Endocrine: infarction of adrenal vessels leads to adrenal insufficiency (shock); dermatological: venous obstruction with venular dilatation gives livedo reticularis.",
+    "question": "MED-C17-28"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "Domains: clinical domains 1-6 (macrovascular venous, macrovascular arterial, microvascular, obstetric, cardiac valve, haematology) and laboratory domains 7-8 (lupus anticoagulant test, other antibody tests).",
+    "question": "MED-C17-29"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "Catastrophic APS: three or more organ systems involved within one week, with small vessels involved; presentations include thrombotic microangiopathy of the kidney and adrenal insufficiency.",
+    "question": "MED-C17-30"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "Management: an asymptomatic adult requires no treatment.",
+    "question": "MED-C17-31"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "To attain an INR of 2.5-3: heparin 5000 units TDS SC or LMWH 60 mg BD SC, with warfarin overlapped with heparin/LMWH and continued lifelong; the note adds there is no role for NOACs.",
+    "question": "MED-C17-32"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "Pregnancy management: prophylactic low-dose aspirin with heparin throughout pregnancy and for 6-12 weeks post-partum; warfarin is continued lifelong if APS is diagnosed.",
+    "question": "MED-C17-33"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "Catastrophic APS is managed with steroids, IV Ig and plasmapheresis.",
+    "question": "MED-C17-34"
+  },
+  {
+    "chapter": 17,
+    "page": 469,
+    "point": "The note states there is no role for new oral anticoagulants (NOACs) in APS.",
+    "question": "MED-C17-35"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "The general-features diagram contrasts inflammation: SLE +++ versus SSc + with a low or normal ESR.",
+    "question": "MED-C18-01"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "SSc pathogenesis: fibrosis (with interstitial lung disease), vasculopathy from small-vessel endothelial injury with anti-endothelial antibody causing thrombosis, and immune-complex-mediated small-vessel vasculitis producing capillary hypoxia.",
+    "question": "MED-C18-02"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "Severe form: involvement of medium vessels (mesenteric and CNS vessels) with TGF-beta release acting on mesenchymal cells to produce myofibroblasts.",
+    "question": "MED-C18-03"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "Pulmonary arteriolar hypertension (class 1) is attached to the vasculopathy arm and marked as carrying a bad prognosis.",
+    "question": "MED-C18-04"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "Scleroderma is defined as thickening and induration.",
+    "question": "MED-C18-05"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "Local manifestations are localised scleroderma (morphoea, linear scleroderma); systemic manifestation is systemic sclerosis, subdivided by extent of skin involvement into diffuse and limited SSc.",
+    "question": "MED-C18-06"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "Diffuse SSc: skin lesion over all parts of the body, complications of ILD, pathogenesis of fibrosis plus vasculopathy with minimal inflammation. Limited SSc: skin distal to elbow and face, pulmonary hypertension, vasculopathy predominant.",
+    "question": "MED-C18-07"
+  },
+  {
+    "chapter": 18,
+    "page": 470,
+    "point": "Scleroderma mimics: eosinophilic fasciitis with groove sign, and nephrogenic systemic fibrosis, which is drug induced after gadolinium contrast.",
+    "question": "MED-C18-08"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "Etiology: orphan disease with unknown cause; age 35-50 years; F:M = 5:1.",
+    "question": "MED-C18-09"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "Immune susceptibility is listed as HLA DRB1/II (DR5) and viral associations are EBV, CMV and parvovirus B19.",
+    "question": "MED-C18-10"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "Agents inducing scleroderma: vinyl chloride, bleomycin, pentazocine, contaminated L-tryptophan and silica, with silica carrying the maximum association with SSc.",
+    "question": "MED-C18-11"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "The note pairs HLA DR-3 with SLE and Sjogren syndrome, DR-4 with APS and RA, DR-5 with SSc, and adds that silica is also associated with SLE.",
+    "question": "MED-C18-12"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "Very early systemic sclerosis: 3-5 years, with two-thirds of cases progressing to SSc.",
+    "question": "MED-C18-13"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "The triad pairs Raynaud's phenomenon and ANA positivity with the investigation nail-fold capillaroscopy.",
+    "question": "MED-C18-14"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "Raynaud's phenomenon is episodic vasoconstriction in response to stimuli; triggers listed are cold, stress and vibration.",
+    "question": "MED-C18-15"
+  },
+  {
+    "chapter": 18,
+    "page": 471,
+    "point": "Clinical manifestations listed: pallor, cyanosis, redness on rewarming, pain and tightness of digits and a puffy hand.",
+    "question": "MED-C18-16"
+  },
+  {
+    "chapter": 18,
+    "page": 472,
+    "point": "Primary (Raynaud's disease): ANA negative, family history positive, symptoms self-limiting and symmetric, and other features listed as a good prognosis.",
+    "question": "MED-C18-17"
+  },
+  {
+    "chapter": 18,
+    "page": 472,
+    "point": "Secondary Raynaud phenomenon: severe with critical limb ischaemia, ulcer and gangrene of the extremities, and associated diseases (SSc, Sjogren syndrome, MCTD and inflammatory muscle disease).",
+    "question": "MED-C18-18"
+  },
+  {
+    "chapter": 18,
+    "page": 472,
+    "point": "Nail-fold capillaroscopy in secondary disease: dropout of capillaries, dilated tortuous capillaries and microhaemorrhages; the primary column is normal.",
+    "question": "MED-C18-19"
+  },
+  {
+    "chapter": 18,
+    "page": 472,
+    "point": "Limited SSc: ANA pattern centromere with anti-centromere antibody; diffuse SSc: fine speckled with anti-topoisomerase and anti-RNA polymerase III.",
+    "question": "MED-C18-20"
+  },
+  {
+    "chapter": 18,
+    "page": 472,
+    "point": "Raynaud phenomenon: limited SSc is long standing and severe (due to predominant vasculopathy) with critical limb ischaemia present; diffuse SSc is short lasting and less severe (due to predominant fibrosis) with critical limb ischaemia not extensive.",
+    "question": "MED-C18-21"
+  },
+  {
+    "chapter": 18,
+    "page": 472,
+    "point": "Diffuse SSc: anti-topoisomerase and anti-RNA polymerase III, with a fine-speckled ANA pattern.",
+    "question": "MED-C18-22"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "CREST: C is calcinosis of the tissues; E is oesophagitis, marked limited much greater than diffuse.",
+    "question": "MED-C18-23"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "CREST: R is Raynaud's phenomenon, S is sclerodactyly (scleroderma of fingers) and T is telangiectasia, with minimal fibrosis noted for limited disease.",
+    "question": "MED-C18-24"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "Pulmonary artery hypertension is asymptomatic with normal FEV1, FVC and FEV1/FVC but a reduced DLCO.",
+    "question": "MED-C18-25"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "Pulmonary artery hypertension: poor prognosis due to increased mortality.",
+    "question": "MED-C18-26"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "Features against limited SSc: extensive fibrosis, ILD, cardiac involvement and renal involvement.",
+    "question": "MED-C18-27"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "Skin manifestations: dry tight skin, facial hypo- and hyperpigmentation (salt-and-pepper appearance), hair loss, intense itching, and progression to face tightening with microstomia, pursed lip, puckered mouth and mask facies.",
+    "question": "MED-C18-28"
+  },
+  {
+    "chapter": 18,
+    "page": 473,
+    "point": "Diffuse SSc skin manifestations include bilateral symmetrical skin thickening.",
+    "question": "MED-C18-29"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Joint manifestations: diffuse SSc shows arthritis/myositis due to inflammation; limited SSc shows acral osteolysis (falling off of fingers) with diffuse severe Raynaud's phenomenon.",
+    "question": "MED-C18-30"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Other manifestations include acral osteolysis, attributed to fibrosis or vasculopathy.",
+    "question": "MED-C18-31"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Oesophageal hypomotility progresses to small-intestinal bacterial overgrowth and pneumatosis intestinalis.",
+    "question": "MED-C18-32"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "The watermelon-stomach image is labelled as seen on upper GI endoscopy.",
+    "question": "MED-C18-33"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Disease progression: pulmonary manifestations leading to interstitial lung disease, which is the most common cause of death; cardiac and renal manifestations are also listed.",
+    "question": "MED-C18-34"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Anti-centromere is limited-type SSc with CREST syndrome and pulmonary hypertension as the complication.",
+    "question": "MED-C18-35"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Anti-RNA polymerase III (diffuse) is linked to scleroderma renal crisis, more than anti-topoisomerase, and to malignancy of lung and breast.",
+    "question": "MED-C18-36"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "Anti-topoisomerase-1 (anti-Scl-70), diffuse: renal TMA progressing to scleroderma renal crisis, lung ILD, tendon friction rubs on passive movement (diffuse more than limited), GAVE (watermelon stomach) and rapidly progressive skin involvement with joint contractures and tendon friction rubs.",
+    "question": "MED-C18-37"
+  },
+  {
+    "chapter": 18,
+    "page": 474,
+    "point": "The antibody table lists anti-PM/Scl-70 in overlap disease with ILD positive and anti-Ku in overlap disease with no ILD.",
+    "question": "MED-C18-38"
+  },
+  {
+    "chapter": 18,
+    "page": 475,
+    "point": "Renal disease in diffuse SSc presents within the first 4 years, affects small vessels of the kidney and is a thrombotic microangiopathy.",
+    "question": "MED-C18-39"
+  },
+  {
+    "chapter": 18,
+    "page": 475,
+    "point": "Thrombotic microangiopathy: accelerated hypertension plus microangiopathic haemolytic anaemia plus thrombocytopenia.",
+    "question": "MED-C18-40"
+  },
+  {
+    "chapter": 18,
+    "page": 475,
+    "point": "Rx for scleroderma renal crisis: ACE inhibitors, described as the drug of choice.",
+    "question": "MED-C18-41"
+  },
+  {
+    "chapter": 18,
+    "page": 475,
+    "point": "Phases of diffuse SSc: the oedematous phase, more common in diffuse disease and associated with non-pitting oedema, progresses to the fibrotic phase.",
+    "question": "MED-C18-42"
+  },
+  {
+    "chapter": 18,
+    "page": 475,
+    "point": "Investigations: PFT for ILD shows DLCO markedly reduced and FRC reduced; the chest radiograph shows bilateral basal subpleural reticular infiltrates.",
+    "question": "MED-C18-43"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "HRCT: IOC. Scleroderma: NSIP more than UIP.",
+    "question": "MED-C18-44"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "NSIP shows no destruction with ground-glass opacities and is treated with steroids and mycophenolate mofetil (better prognosis); UIP shows destruction with cystic changes, honeycombing and traction bronchiectasis with no treatment listed.",
+    "question": "MED-C18-45"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "The note attributes UIP to RA, LIP as characteristic of Sjogren's disease, and NSIP to others.",
+    "question": "MED-C18-46"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "Rx of RP: first line is a calcium-channel blocker, with or without a PDE-5 inhibitor (sildenafil).",
+    "question": "MED-C18-47"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "Second line for Raynaud phenomenon is bosentan, an endothelin antagonist.",
+    "question": "MED-C18-48"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "ILD: nintedanib plus MMF, and the source notes the disease is non-responsive to steroid.",
+    "question": "MED-C18-49"
+  },
+  {
+    "chapter": 18,
+    "page": 476,
+    "point": "Treatment: skin is treated with mycophenolate mofetil, and joint plus muscle involvement with steroids and methotrexate; scleroderma renal crisis is treated with ACE inhibitors.",
+    "question": "MED-C18-50"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Definition: a multisystem autoimmune CTD characterised by mononuclear inflammation within skeletal muscle, with subacute muscle weakness and fatigue, lasting 6-8 weeks.",
+    "question": "MED-C19-01"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Old classification: polymyositis, dermatomyositis, inclusion body myositis and immune-mediated necrotizing myopathy.",
+    "question": "MED-C19-02"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Current classification opens with polymyositis, now an obsolete term, and then lists dermatomyositis, antisynthetase syndrome, necrotizing myopathies, juvenile DM, paraneoplastic myositis, inclusion body myositis and amyopathic DM.",
+    "question": "MED-C19-03"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Criterion A: proximal and symmetrical muscle weakness of the pelvic and scapular girdle and anterior flexors of the neck, progressing for weeks to months, with or without dysphagia or involvement of respiratory muscles.",
+    "question": "MED-C19-04"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Criterion B: elevation of serum levels of skeletal-muscle enzymes, namely creatine kinase, aspartate aminotransferase, lactate dehydrogenase and aldolase.",
+    "question": "MED-C19-05"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Criterion C: EMG characteristic of myopathy with short and small motor units, fibrillation, positive sharp waves, insertional irritability and repetitive high-frequency firing.",
+    "question": "MED-C19-06"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Criterion D: muscle biopsy showing necrosis, phagocytosis and inflammatory exudate.",
+    "question": "MED-C19-07"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Typical cutaneous changes: heliotrope rash with periorbital oedema and violaceous erythema, and Gottron's sign with vasculitis in the elbow, metacarpophalangeal and proximal interphalangeal joints.",
+    "question": "MED-C19-08"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Risk factors, genetic: HLA-DRB1-03 and HLA-DRB1-07.",
+    "question": "MED-C19-09"
+  },
+  {
+    "chapter": 19,
+    "page": 477,
+    "point": "Environmental risk factors: UV B rays, Coxsackie and parvovirus B19 virus, and drugs including chloroquine, colchicine and statins.",
+    "question": "MED-C19-10"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "The note lists 03 with SLE, Sjogren's and dermatomyositis, 04 with APS and RA, and 05 with scleroderma.",
+    "question": "MED-C19-11"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "Typical (55-60%): most commonly middle-aged; juvenile 5-15 years, adult 40-60 years, females more than males (2:1).",
+    "question": "MED-C19-12"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "Typical features: weakness that is bilateral and symmetrical, purely motor, proximal, autoimmune (acquired), persistent, with no significant pain and progressive motor weakness over weeks to months.",
+    "question": "MED-C19-13"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "Examination findings: bulk normal, power reduced, tone reduced, reflexes normal and sensory system intact.",
+    "question": "MED-C19-14"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "The note lists the muscle groups not involved in IMD as the extraocular muscles and the facial muscles.",
+    "question": "MED-C19-15"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "Atypical: 30% present with proximal pain and weakness with an acute-subacute onset, and 10% with chronic proximal plus distal weakness; the syndrome table gives the same 30 and 10 figures for the corresponding rows.",
+    "question": "MED-C19-16"
+  },
+  {
+    "chapter": 19,
+    "page": 478,
+    "point": "The syndrome table lists insidious proximal and distal weakness over 1-10 years, contrasted with painless proximal weakness over 3-10 months and acute or subacute proximal pain and weakness over weeks to months.",
+    "question": "MED-C19-17"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "Pathognomonic skin lesions: Gottron's papule (scaly erythematous flat-topped violaceous papule/plaque over the dorsal MCP, PIP and DIP) and heliotrope rash (violaceous periorbital oedema and erythema).",
+    "question": "MED-C19-18"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "Gottron's papule: scaly erythematous flat-topped violaceous papule/plaque on the dorsal surface of MCP, PIP and DIP joints.",
+    "question": "MED-C19-19"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "Heliotrope rash: violaceous periorbital oedema and erythema.",
+    "question": "MED-C19-20"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "Other skin lesions: Gottron rash/sign is macular erythema over Gottron's papule, typically on extensor surfaces, photosensitive, with linear erythema over the dorsum of the hand.",
+    "question": "MED-C19-21"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "V sign is located over the chest, shawl sign posteriorly over the back and holster sign is erythema on the lateral aspect of the thigh; scalp involvement is generally pruritic.",
+    "question": "MED-C19-22"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "Telangiectasia: nail-fold capillary involvement with periungual erythema or oedema, and cuticular hyperplasia also seen.",
+    "question": "MED-C19-23"
+  },
+  {
+    "chapter": 19,
+    "page": 479,
+    "point": "Calcinosis cutis: also seen in CREST syndrome and in juvenile dermatomyositis, and due to deposition of calcium hydroxyapatite.",
+    "question": "MED-C19-24"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "SLE rash: never involves the knuckles, may involve the nasolabial fold, associated with painless oral cavity ulcers and non-pruritic. Dermatomyositis rash: involves the knuckles (MCP joint), does not involve the nasolabial fold, not associated with oral cavity ulcers and pruritic.",
+    "question": "MED-C19-25"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "Mechanic's hand: not specific for dermatomyositis and part of the antisynthetase syndrome.",
+    "question": "MED-C19-26"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "Muscle biopsy is described as the gold standard test.",
+    "question": "MED-C19-27"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "Muscle biopsy shows a mononuclear lymphocytic infiltrate of CD4+ T cells and perifascicular atrophy.",
+    "question": "MED-C19-28"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "MRI: the STIR sequence shows hyperintense areas within muscle.",
+    "question": "MED-C19-29"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "EMG: polyphasic short-duration small-amplitude potentials, high-frequency discharges, and spontaneous fibrillation or denervation.",
+    "question": "MED-C19-30"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "Enzymes: CPK is greater than AST.",
+    "question": "MED-C19-31"
+  },
+  {
+    "chapter": 19,
+    "page": 480,
+    "point": "Antibody associated: anti-Mi-2 alpha with good prognosis, low risk for ILD and responsiveness to conventional therapy (steroid plus MMF).",
+    "question": "MED-C19-32"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Age group: polymyositis only in adults; dermatomyositis seen in the elderly or juvenile.",
+    "question": "MED-C19-33"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Skin changes are absent in polymyositis and present in dermatomyositis; calcinosis is rare in polymyositis and seen in dermatomyositis. Both share subacute onset, proximal symmetric weakness, systemic features and normal-to-high enzymes.",
+    "question": "MED-C19-34"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Associated systemic conditions or overlap syndrome: yes for polymyositis, which never exists on its own, and yes for dermatomyositis, which can exist on its own.",
+    "question": "MED-C19-35"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Biopsy findings: polymyositis shows CD8+ T-cell involvement while dermatomyositis shows CD4+ and B cells with perifascicular atrophy and perivascular inflammation.",
+    "question": "MED-C19-36"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "The antisynthetase syndrome block opens with the statement that it is treatable if diagnosed early.",
+    "question": "MED-C19-37"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Antisynthetase syndrome clinical features: mechanic's hand, Raynaud's phenomenon, cardiomyopathy and an SLE-like arthritis (Jaccoud's arthropathy).",
+    "question": "MED-C19-38"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Mechanic's hand is seen on the radial aspect of the index and middle finger and is characterised by crusted hyperkeratotic lesions.",
+    "question": "MED-C19-39"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "The note adds that Jaccoud's arthropathy is also seen in Sjogren's syndrome.",
+    "question": "MED-C19-40"
+  },
+  {
+    "chapter": 19,
+    "page": 481,
+    "point": "Investigations: CXR shows fever with infiltrates, which can be mistaken for viral pneumonia and can progress into ILD; ILD can be the first presentation of the syndrome and is the most common cause of death.",
+    "question": "MED-C19-41"
+  },
+  {
+    "chapter": 19,
+    "page": 482,
+    "point": "ILD pattern: NSIP plus COP. NSIP is most common and identified by ground-glass opacities; COP is identified by consolidations.",
+    "question": "MED-C19-42"
+  },
+  {
+    "chapter": 19,
+    "page": 482,
+    "point": "The note states UIP in the lung is identified by a honeycombing structure, that is destruction of the parenchyma.",
+    "question": "MED-C19-43"
+  },
+  {
+    "chapter": 19,
+    "page": 482,
+    "point": "Amyopathic DM: poor prognosis and not treatable, with anti-MDA-5 antibody and a clinical triad featuring rapidly progressive ILD.",
+    "question": "MED-C19-44"
+  },
+  {
+    "chapter": 19,
+    "page": 482,
+    "point": "Juvenile DM commonly affects girls aged 5-15 years and malignancy, cardiac involvement and ILD are absent.",
+    "question": "MED-C19-45"
+  },
+  {
+    "chapter": 19,
+    "page": 482,
+    "point": "Juvenile DM antibodies are anti-NXP2 and anti-TIF1-gamma; if seen in adults they indicate cancer-associated myositis.",
+    "question": "MED-C19-46"
+  },
+  {
+    "chapter": 19,
+    "page": 482,
+    "point": "Immune-mediated necrotizing DM: anti-SRP in severe disease with ILD and cardiac manifestations does not respond; anti-HMG-CoA reductase, seen with statin therapy, responds to steroid plus IVIG plus rituximab (rarely).",
+    "question": "MED-C19-47"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "IBM: most common in the elderly (males more than females), presenting with recurrent falls and a chronic presentation.",
+    "question": "MED-C19-48"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "IBM weakness is asymmetrical, proximal plus distal, and involves the quadriceps, vastus and finger flexors.",
+    "question": "MED-C19-49"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "IBM histology shows red-rimmed vacuoles and the disease is steroid unresponsive.",
+    "question": "MED-C19-50"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "Cancers associated with DM: carcinoma ovary is characteristic and carcinoma lung is the most common.",
+    "question": "MED-C19-51"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "Antibodies specific to IMDs: dermatomyositis with anti-Mi-2 alpha, antisynthetase syndrome with anti-Jo-1, necrotizing myopathy with anti-SRP and anti-HMG-CoA reductase, amyopathic DM with anti-MDA-5, and juvenile DM and cancer-associated myositis with anti-NXP2 and anti-TIF1-gamma.",
+    "question": "MED-C19-52"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "Other associated antibodies: anti-Ro; anti-Ku, which may develop ILD; and anti-PM/Scl, seen in polymyositis with scleroderma with or without ILD and showing an ANA nucleolar pattern.",
+    "question": "MED-C19-53"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "Both juvenile DM and cancer-associated myositis are listed with anti-NXP2 and anti-TIF1-gamma.",
+    "question": "MED-C19-54"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "Treatment: the goal is clinical elimination of all disease activity; first line is steroid plus MTX or steroid plus MMF.",
+    "question": "MED-C19-55"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "Second-line treatment: rituximab and JAK inhibitors (tofacitinib).",
+    "question": "MED-C19-56"
+  },
+  {
+    "chapter": 19,
+    "page": 483,
+    "point": "The treatment goal is clinical elimination of all disease activity.",
+    "question": "MED-C19-57"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Sarcoidosis is defined as a chronic, multisystem, granulomatous, immunological disorder; biopsy usually shows non-caseating granulomas.",
+    "question": "MED-C20-01"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Biopsy usually shows non-caseating granulomas, but caseating granulomas can occur in one-third of cases.",
+    "question": "MED-C20-02"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Outcome: 50% spontaneous resolution, 25% become chronic (mostly the lung is affected) and 5% mortality, attributed to interstitial lung disease and infections.",
+    "question": "MED-C20-03"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Diseases that can have non-caseating granulomas: 30% of TB cases, lymphoma, berylliosis, hypersensitivity pneumonitis (HP), Crohn's disease and cat-scratch disease.",
+    "question": "MED-C20-04"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "ACR criteria: compatible clinical picture, histological non-caseating granulomas and exclusion of other causes.",
+    "question": "MED-C20-05"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Classification: acute sarcoidosis is represented by Lofgren syndrome and chronic sarcoidosis by Heerfordt syndrome; hilar adenopathy is the important finding.",
+    "question": "MED-C20-06"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Major manifestations: lung (ILD) more than skin more than eyes more than joints; multisystem manifestations include cardiac and renal disease, and the only organ spared is the testes.",
+    "question": "MED-C20-07"
+  },
+  {
+    "chapter": 20,
+    "page": 484,
+    "point": "Risk factors: Propionibacterium acnes infection and excessive firewood burning.",
+    "question": "MED-C20-08"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "HLA DRB1*03 is associated with Lofgren syndrome and a good prognosis.",
+    "question": "MED-C20-09"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "HLA DRB1*04 has a protective role, while HLA DRB1*11 is associated with CNS and cardiac sarcoidosis, which carries a bad prognosis.",
+    "question": "MED-C20-10"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "The note repeats: HLA DRB1*03 with SLE, Sjogren syndrome and dermatomyositis; DRB1*04 with APS and RA; DRB1*05 with scleroderma.",
+    "question": "MED-C20-11"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "Immune paradox/anergy: lymphopenia in blood leading to increased risk of infection, and a Mantoux test that is false negative because of low lymphocytes.",
+    "question": "MED-C20-12"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "The note states HIV positivity leads to lymphopenia and a reduced risk of sarcoidosis.",
+    "question": "MED-C20-13"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "Lofgren syndrome is drawn with erythema nodosum, arthritis and hilar adenopathy.",
+    "question": "MED-C20-14"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "Erythema nodosum in Lofgren syndrome is described with the 3 P's: painful, pretibial, papule.",
+    "question": "MED-C20-15"
+  },
+  {
+    "chapter": 20,
+    "page": 485,
+    "point": "Arthritis/tenosynovitis is acute, involves the ankle joint, is bilateral and symmetrical and is seen in the young.",
+    "question": "MED-C20-16"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "In Behcet's disease, erythema nodosum has 4 P's: painful, pretibial, papules with pigmentation.",
+    "question": "MED-C20-17"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "Hilar adenopathy is described as the most consistent feature and is generally bilateral, with right paratracheal and left hilar nodes shown.",
+    "question": "MED-C20-18"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "Heerfordt-Waldenstrom syndrome: uveitis, bilateral LMN seventh-nerve palsy and parotitis.",
+    "question": "MED-C20-19"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "Uveitis: any type or compartment, acute anterior uveitis more common, and the most common ocular manifestation of sarcoid.",
+    "question": "MED-C20-20"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "Bilateral LMN seventh-nerve palsy is the most common neurological manifestation in sarcoid; the note pairs it with Guillain-Barre syndrome as its main differential.",
+    "question": "MED-C20-21"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "Clinical paradox: it helps identify chronicity, because as the lung disease worsens the nodal enlargement regresses.",
+    "question": "MED-C20-22"
+  },
+  {
+    "chapter": 20,
+    "page": 486,
+    "point": "Stages: 1 bilateral hilar lymphadenopathy with nodal enlargement only, 2 nodal enlargement plus parenchymal disease (node size starts to fall as infiltrate rises), 3 parenchymal disease only, 4 fibrosis.",
+    "question": "MED-C20-23"
+  },
+  {
+    "chapter": 20,
+    "page": 487,
+    "point": "Fibrosis pattern: thickening of bronchovascular bundles and traction bronchiectasis of the upper lobe; upper-lobe fibrosis is also listed for ankylosing spondylitis and sarcoidosis.",
+    "question": "MED-C20-24"
+  },
+  {
+    "chapter": 20,
+    "page": 487,
+    "point": "Lupus pernio: violaceous or erythematous, indurated, infiltrative plaques on the central face that are less responsive to treatment; bone changes (lytic or cystic) are also associated.",
+    "question": "MED-C20-25"
+  },
+  {
+    "chapter": 20,
+    "page": 487,
+    "point": "Eye involvement: chronic bilateral panuveitis is the most common manifestation.",
+    "question": "MED-C20-26"
+  },
+  {
+    "chapter": 20,
+    "page": 487,
+    "point": "Features unlikely of sarcoidosis: pleural involvement and a UIP-like pattern with honeycombing and parenchymal destruction in the lung; episcleritis, scleritis and sicca in the eye.",
+    "question": "MED-C20-27"
+  },
+  {
+    "chapter": 20,
+    "page": 487,
+    "point": "The note lists episcleritis, scleritis and sicca as ocular features unlikely of sarcoidosis.",
+    "question": "MED-C20-28"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "Endocrine manifestation: hypercalcaemia.",
+    "question": "MED-C20-29"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "CNS: bilateral LMN seventh-nerve palsy (most common), neurosarcoidosis with a pituitary mass causing stalk effect and central diabetes insipidus, basilar meningitis and acute transverse myelitis.",
+    "question": "MED-C20-30"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "CVS: dilated cardiomyopathy more than restrictive cardiomyopathy, and AV blocks.",
+    "question": "MED-C20-31"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "Hematology: pancytopenia with splenomegaly.",
+    "question": "MED-C20-32"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "Renal: AKI is hypercalcaemia-induced pre-renal failure, CKD is chronic tubulointerstitial disease (CTID) and the glomerulus is rarely affected, with membranous nephropathy.",
+    "question": "MED-C20-33"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "The note lists rheumatological disorders causing CTID as Sjogren's syndrome, IgG4-related disease and sarcoidosis.",
+    "question": "MED-C20-34"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "Investigations: gallium-67 scintigraphy (panda sign) and PET scan, which is the investigation of choice to identify nodes to take a biopsy from.",
+    "question": "MED-C20-35"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "Blood markers: angiotensin-converting enzyme (if normal, sarcoidosis can be ruled out) and soluble interleukin-2 (sIL-2) receptor.",
+    "question": "MED-C20-36"
+  },
+  {
+    "chapter": 20,
+    "page": 488,
+    "point": "Bronchoalveolar lavage is listed with a raised CD4/CD8 ratio above the cut-off printed on the page.",
+    "question": "MED-C20-37"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "Treatment: acute sarcoidosis requires no treatment; chronic disease is treated in steps.",
+    "question": "MED-C20-38"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "Chronic: first line steroids, second line methotrexate and azathioprine, third line anti-TNF-alpha (adalimumab).",
+    "question": "MED-C20-39"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "Therapeutic paradox: in a patient treated with TNF-alpha (adalimumab), skin lesions similar to sarcoidosis can appear, and they disappear on reducing the dose.",
+    "question": "MED-C20-40"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "Overlap syndrome: features of two or more out of the six autoimmune systemic connective tissue diseases.",
+    "question": "MED-C20-41"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "The overlap list is Sjogren syndrome (most common, most having anti-Ro antibody), SLE, polymyositis, dermatomyositis, systemic sclerosis and rheumatoid arthritis.",
+    "question": "MED-C20-42"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "The source states that treatment is based on the predominant disease in the overlap.",
+    "question": "MED-C20-43"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "Undifferentiated CTD: patients presenting with some features of CTD who do not fulfil the criteria to be classified under a disease.",
+    "question": "MED-C20-44"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "MCTD is introduced as a specific type of overlap syndrome, with patients presenting unique features, in middle-aged females (female:male about 15:1).",
+    "question": "MED-C20-45"
+  },
+  {
+    "chapter": 20,
+    "page": 489,
+    "point": "Serology: ANA positive in 100% with a coarse speckled pattern and anti-U1 RNP antibody positive.",
+    "question": "MED-C20-46"
+  },
+  {
+    "chapter": 20,
+    "page": 490,
+    "point": "Clinical features: Raynaud's phenomenon is the most common manifestation, followed by oedema of hands, nail pitting, acrosclerosis, myositis and erosive synovitis.",
+    "question": "MED-C20-47"
+  },
+  {
+    "chapter": 20,
+    "page": 490,
+    "point": "Acrosclerosis is defined as Raynaud's phenomenon plus MCTD plus the systemic-sclerosis features of the hand.",
+    "question": "MED-C20-48"
+  },
+  {
+    "chapter": 20,
+    "page": 490,
+    "point": "Clinical features note that the CNS and renal system are usually spared in MCTD.",
+    "question": "MED-C20-49"
+  },
+  {
+    "chapter": 20,
+    "page": 490,
+    "point": "HLA association for MCTD: HLA DRB1*04.",
+    "question": "MED-C20-50"
+  },
+  {
+    "chapter": 20,
+    "page": 490,
+    "point": "Complications: ILD is the most common, and about 20% evolve into limited SSc with pulmonary artery hypertension, which is the most common cause of death.",
+    "question": "MED-C20-51"
+  },
+  {
+    "chapter": 20,
+    "page": 490,
+    "point": "The capillaroscopy panel in RP shows normal, dilated, tortuous, bushy and meandering capillaries with microhaemorrhage.",
+    "question": "MED-C20-52"
   }
 ]

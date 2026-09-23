@@ -1,34 +1,28 @@
-PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 570 questions + 5 rejection controls
-Ch1: 49 questions / 7 units; formats {'match': 17, 'fillup': 9, 'recall': 5, 'numeric': 4, 'oddoneout': 5, 'truefalse': 6, 'scenario': 3}
-Ch2: 37 questions / 5 units; formats {'recall': 4, 'scenario': 8, 'numeric': 5, 'fillup': 10, 'truefalse': 3, 'oddoneout': 2, 'match': 5}
-Ch3: 38 questions / 4 units; formats {'fillup': 10, 'scenario': 7, 'match': 5, 'numeric': 4, 'truefalse': 2, 'management': 1, 'recall': 6, 'oddoneout': 3}
-Ch4: 35 questions / 4 units; formats {'recall': 4, 'oddoneout': 1, 'management': 2, 'fillup': 9, 'truefalse': 3, 'scenario': 10, 'numeric': 5, 'match': 1}
-Ch5: 52 questions / 5 units; formats {'numeric': 8, 'recall': 9, 'fillup': 6, 'scenario': 11, 'match': 5, 'truefalse': 4, 'oddoneout': 4, 'management': 5}
-Ch6: 33 questions / 4 units; formats {'numeric': 6, 'fillup': 5, 'recall': 6, 'match': 3, 'scenario': 6, 'truefalse': 2, 'oddoneout': 1, 'management': 4}
-Ch7: 36 questions / 3 units; formats {'fillup': 6, 'match': 3, 'scenario': 5, 'numeric': 6, 'recall': 5, 'oddoneout': 4, 'management': 4, 'truefalse': 3}
-Ch8: 14 questions / 2 units; formats {'recall': 3, 'oddoneout': 1, 'fillup': 2, 'match': 2, 'truefalse': 2, 'scenario': 2, 'management': 2}
-Ch9: 55 questions / 4 units; formats {'scenario': 23, 'recall': 24, 'oddoneout': 3, 'numeric': 4, 'management': 1}
-Ch10: 29 questions / 3 units; formats {'recall': 17, 'scenario': 12}
-Ch11: 72 questions / 4 units; formats {'recall': 33, 'numeric': 11, 'scenario': 24, 'management': 3, 'oddoneout': 1}
-Ch12: 47 questions / 3 units; formats {'recall': 26, 'scenario': 13, 'management': 2, 'numeric': 5, 'oddoneout': 1}
-Ch13: 23 questions / 2 units; formats {'recall': 16, 'scenario': 5, 'oddoneout': 1, 'management': 1}
+== python3 validate_content.py --ledger (final pages)
 Ch14: 18 questions / 2 units; formats {'recall': 15, 'numeric': 1, 'scenario': 1, 'oddoneout': 1}
 Ch15: 32 questions / 3 units; formats {'numeric': 3, 'recall': 23, 'scenario': 6}
-PASS: schema, book/unit order, 678 inventoried points, full unit coverage, embedded arrays/live flags
-PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 570 questions + 5 rejection controls
-
-Unit tests:
-test_fillup (test_content.ContentGateTests.test_fillup) ... ok
-test_guide_lines (test_content.ContentGateTests.test_guide_lines) ... ok
-test_ledger (test_content.ContentGateTests.test_ledger) ... ok
-test_missing_unit (test_content.ContentGateTests.test_missing_unit) ... ok
-test_page_order (test_content.ContentGateTests.test_page_order) ... ok
-test_schema_mutations (test_content.ContentGateTests.test_schema_mutations) ... ok
-test_true_false_balance (test_content.ContentGateTests.test_true_false_balance) ... ok
-test_unit_order (test_content.ContentGateTests.test_unit_order) ... ok
-test_valid (test_content.ContentGateTests.test_valid) ... ok
-
+Ch16: 74 questions / 7 units; formats {'recall': 34, 'oddoneout': 2, 'scenario': 16, 'numeric': 14, 'management': 8}
+Ch17: 35 questions / 4 units; formats {'recall': 12, 'numeric': 8, 'scenario': 12, 'management': 3}
+Ch18: 50 questions / 7 units; formats {'scenario': 19, 'recall': 27, 'numeric': 1, 'management': 3}
+Ch19: 57 questions / 7 units; formats {'recall': 34, 'scenario': 18, 'numeric': 2, 'management': 3}
+Ch20: 52 questions / 7 units; formats {'scenario': 16, 'numeric': 4, 'recall': 28, 'oddoneout': 1, 'management': 3}
+PASS: schema, book/unit order, 955 inventoried points, full unit coverage
+Ch16: 74 questions / 7 units; formats {'recall': 34, 'oddoneout': 2, 'scenario': 16, 'numeric': 14, 'management': 8}
+Ch17: 35 questions / 4 units; formats {'recall': 12, 'numeric': 8, 'scenario': 12, 'management': 3}
+Ch18: 50 questions / 7 units; formats {'scenario': 19, 'recall': 27, 'numeric': 1, 'management': 3}
+Ch19: 57 questions / 7 units; formats {'recall': 34, 'scenario': 18, 'numeric': 2, 'management': 3}
+Ch20: 52 questions / 7 units; formats {'scenario': 16, 'numeric': 4, 'recall': 28, 'oddoneout': 1, 'management': 3}
 ----------------------------------------------------------------------
-Ran 9 tests in 0.016s
+Ran 9 tests in 0.020s
 
 OK
+Embedded 847 questions and 87 units across 20 live chapter(s) of 57 roadmap chapters in pulse-medicine.html.
+Ch14: 18 questions / 2 units; formats {'recall': 15, 'numeric': 1, 'scenario': 1, 'oddoneout': 1}
+Ch15: 32 questions / 3 units; formats {'numeric': 3, 'recall': 23, 'scenario': 6}
+Ch16: 74 questions / 7 units; formats {'recall': 34, 'oddoneout': 2, 'scenario': 16, 'numeric': 14, 'management': 8}
+Ch17: 35 questions / 4 units; formats {'recall': 12, 'numeric': 8, 'scenario': 12, 'management': 3}
+Ch18: 50 questions / 7 units; formats {'scenario': 19, 'recall': 27, 'numeric': 1, 'management': 3}
+Ch19: 57 questions / 7 units; formats {'recall': 34, 'scenario': 18, 'numeric': 2, 'management': 3}
+Ch20: 52 questions / 7 units; formats {'scenario': 16, 'numeric': 4, 'recall': 28, 'oddoneout': 1, 'management': 3}
+PASS: schema, book/unit order, 955 inventoried points, full unit coverage, embedded arrays/live flags
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 847 questions + 5 rejection controls

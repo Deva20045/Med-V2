@@ -111,3 +111,42 @@ Source SHA-256: `e272242de28982a609779801f3415f7fff3d92eb1eb8972c5520ccdd93e317f
 | 101 | 465 | Book content |
 | 102 | 466 | Book content |
 | 103 | 467 | Book content |
+
+---
+
+# Verified map — uploads/02.pdf
+
+Date: 2026-09-23. Sheets rendered at `pymupdf.Matrix(2,2)` and the printed numbers read visually; no text layer or offset assumption was used. This second upload continues the book where `uploads/01.pdf` stops (01.pdf PDF103 prints 467), so `uploads/02.pdf` PDF1 prints 468.
+
+Source SHA-256: `8d4150718da72508ad6dff6f90792b2bdec656678b240bea7e1b0d2525e6b0de`
+
+| PDF page (1-based) | Printed book page | Kind |
+|---:|---:|---|
+| 1 | 468 | Book content |
+| 2 | 469 | Book content |
+| 3 | 470 | Book content |
+| 4 | 471 | Book content |
+| 5 | 472 | Book content |
+| 6 | 473 | Book content |
+| 7 | 474 | Book content |
+| 8 | 475 | Book content |
+| 9 | 476 | Book content |
+| 10 | 477 | Book content |
+| 11 | 478 | Book content |
+| 12 | 479 | Book content |
+| 13 | 480 | Book content |
+| 14 | 481 | Book content |
+| 15 | 482 | Book content |
+| 16 | 483 | Book content |
+| 17 | 484 | Book content |
+| 18 | 485 | Book content |
+| 19 | 486 | Book content |
+| 20 | 487 | Book content |
+| 21 | 488 | Book content |
+| 22 | 489 | Book content |
+| 23 | 490 | Book content |
+| 24 | 491 | Book content |
+| 25 | 492 | Book content |
+| 26 | 493 | Book content |
+
+Chapters 17–20 were authored from this mapping: Ch16 p458–465 (01.pdf PDF94–101), Ch17 p466–469 (01.pdf PDF102–103 + 02.pdf PDF1–2), Ch18 p470–476 (02.pdf PDF3–9), Ch19 p477–483 (02.pdf PDF10–16), Ch20 p484–490 (02.pdf PDF17–23). Chapter 21 begins at p491 (02.pdf PDF24), which is outside the current release.
