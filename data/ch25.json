@@ -1,0 +1,195 @@
+{
+  "chapter": 25,
+  "title": "Basic Approach to Arthritis",
+  "pageRange": "519-520",
+  "questions": [
+    {
+      "id": "MED-C25-01",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 519,
+      "fmt": "recall",
+      "q": "Which list matches the differentiating features in arthritis at the chapter start?",
+      "opts": [
+        "Only ESR, CRP and ANCA",
+        "Only HLA status and age",
+        "Only oral ulcers and pathergy",
+        "Articular/periarticular, inflammatory/non-inflammatory, axial/peripheral, acute/chronic, small/large joints, upper/lower/combined limbs, symmetry and number of joints"
+      ],
+      "ans": 3,
+      "exp": "The approach lists articular versus periarticular, inflammatory versus non-inflammatory, axial versus peripheral, acute <6 weeks versus chronic >6 weeks, small versus large joints, upper/lower/combined involvement, symmetrical/asymmetrical involvement and number of joints. (Book p519)"
+    },
+    {
+      "id": "MED-C25-02",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 519,
+      "fmt": "numeric",
+      "q": "Which joint-count definition is printed?",
+      "opts": [
+        "Monoarthritis 1 joint, oligoarthritis 1–4 joints, polyarthritis ≥5 joints",
+        "Monoarthritis 2 joints, oligoarthritis 5–10 joints, polyarthritis >10 joints",
+        "Monoarthritis 0 joints, oligoarthritis exactly 5 joints, polyarthritis exactly 6 joints",
+        "All definitions require only axial joints"
+      ],
+      "ans": 0,
+      "exp": "The number-of-joints branch defines monoarthritis as 1 joint, oligoarthritis 1–4 joints and polyarthritis ≥5 joints. (Book p519)"
+    },
+    {
+      "id": "MED-C25-03",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 519,
+      "fmt": "scenario",
+      "q": "A patient has localized point tenderness away from the capsule along the tendon line and pain mainly on active movement against gravity. Which category fits?",
+      "opts": [
+        "Crystal monoarthritis",
+        "Periarticular arthritis",
+        "Articular arthritis",
+        "Axial spondyloarthritis"
+      ],
+      "ans": 1,
+      "exp": "Periarticular disease has localized point tenderness, pain away from the joint capsule along tendon/bony prominences and painful active movement against gravity. (Book p519)"
+    },
+    {
+      "id": "MED-C25-04",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 519,
+      "fmt": "scenario",
+      "q": "Deep diffuse pain near the joint with painful passive and active movements plus crepitation, locking, deformity, instability or swelling points to what?",
+      "opts": [
+        "Neuropathy",
+        "Cutaneous vasculitis",
+        "Articular arthritis",
+        "Periarticular tendinitis only"
+      ],
+      "ans": 2,
+      "exp": "Articular arthritis has deep diffuse pain, pain in the vicinity of the joint, both passive and active painful movements, and additional crepitation/locking/deformity/instability/swelling. (Book p519)"
+    },
+    {
+      "id": "MED-C25-05",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 519,
+      "fmt": "numeric",
+      "q": "Which inflammatory arthritis feature and synovial-fluid threshold are printed?",
+      "opts": [
+        "Morning stiffness <5 minutes worsened by activity and WBC <200 cells/µL",
+        "Pain only at night with no lab changes",
+        "Synovial urate crystals as the sole differentiator",
+        "Morning stiffness >45 minutes relieved by activity, worsened by rest, and synovial WBC >2000 cells/µL"
+      ],
+      "ans": 3,
+      "exp": "Inflammatory arthritis has early morning stiffness >45 minutes, relieved with activity and worsened by rest; synovial fluid WBC >2000 cells/µL is best to differentiate inflammatory versus non-inflammatory. (Book p519)"
+    },
+    {
+      "id": "MED-C25-06",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 519,
+      "fmt": "recall",
+      "q": "Which structure note is printed for RA versus OA?",
+      "opts": [
+        "RA involves synovium; OA involves articular cartilage and stiffness worsens with activity",
+        "RA involves cartilage only; OA involves synovium only",
+        "Both involve only tendons",
+        "RA and OA both spare joints"
+      ],
+      "ans": 0,
+      "exp": "The note states the structure involved in RA is synovium and in OA is articular cartilage, with joint stiffness worsening with activity. (Book p519)"
+    },
+    {
+      "id": "MED-C25-07",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 520,
+      "fmt": "recall",
+      "q": "Which predominant-joint pattern is printed for RA?",
+      "opts": [
+        "Peripheral spondyloarthritis without C-spine",
+        "Peripheral predominant RA with peripheral joints plus C-spine",
+        "Axial predominant RA involving spine plus shoulder and hip root joints",
+        "Monoarthritis only from septic arthritis"
+      ],
+      "ans": 1,
+      "exp": "Types based on predominant joints list peripheral predominant RA as peripheral joints plus C-spine. (Book p520)"
+    },
+    {
+      "id": "MED-C25-08",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 520,
+      "fmt": "scenario",
+      "q": "Inflammatory arthritis presents as monoarthritis. Which two diagnoses does the source flowchart first split to?",
+      "opts": [
+        "Post-viral parvovirus B19 and undifferentiated arthritis",
+        "SLE and OA hand only",
+        "Septic arthritis and acute crystal arthropathy",
+        "RA and sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "The approach to inflammatory arthritis splits monoarthritis into septic arthritis and acute crystal arthropathy, which then branches to gout and pseudogout. (Book p520)"
+    },
+    {
+      "id": "MED-C25-09",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 520,
+      "fmt": "recall",
+      "q": "Which pair is printed as erosive arthritis in the table?",
+      "opts": [
+        "SLE and acute rheumatic fever",
+        "Behcet disease and relapsing polychondritis",
+        "Acute crystal arthropathies and Jaccoud arthropathy",
+        "RA and psoriatic arthritis"
+      ],
+      "ans": 3,
+      "exp": "The erosive arthritis column includes RA, psoriatic arthritis, chronic crystal arthropathy, CTDs including mixed CTDs and sarcoidosis, multicentric reticulohistiocytosis and Rhupus. (Book p520)"
+    },
+    {
+      "id": "MED-C25-10",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 520,
+      "fmt": "recall",
+      "q": "Which pair is printed as non-erosive arthritis in the table?",
+      "opts": [
+        "SLE/SLE-like arthritis and acute rheumatic fever Jaccoud arthropathy",
+        "RA and psoriatic arthritis",
+        "Chronic crystal arthropathy and Rhupus",
+        "Multicentric reticulohistiocytosis and mixed CTD"
+      ],
+      "ans": 0,
+      "exp": "The non-erosive column includes SLE/SLE-like arthritis, acute rheumatic fever Jaccoud arthropathy, relapsing polychondritis, Behcet disease and acute crystal arthropathies. (Book p520)"
+    },
+    {
+      "id": "MED-C25-11",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "page": 520,
+      "fmt": "recall",
+      "q": "The MAGIC syndrome note in the arthritis approach means what?",
+      "opts": [
+        "Meniere disease with keratitis",
+        "Behcet disease plus relapsing polychondritis with mouth and genital ulcers and inflamed cartilage",
+        "Monosodium urate monohydrate gout",
+        "Methotrexate-induced gastritis"
+      ],
+      "ans": 1,
+      "exp": "MAGIC syndrome is Behcet disease plus relapsing polychondritis, with mouth and genital ulcers and inflamed cartilage. (Book p520)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U25-1",
+      "ch": 25,
+      "n": 1,
+      "title": "1. Differentiating arthritis patterns and inflammatory arthritis",
+      "sec": "Differentiating arthritis patterns and inflammatory arthritis",
+      "guide": "The arthritis approach starts with differentiating axes: articular/periarticular, inflammatory/non-inflammatory, axial/peripheral and joint count.\nArticular versus periarticular pain, inflammatory arthritis lab/synovial findings and RA/OA structures are kept together.\nPredominant-joint, inflammatory-arthritis flowchart, erosion table and MAGIC note complete the brief chapter.",
+      "qs": [
+        "MED-C25-01",
+        "MED-C25-02",
+        "MED-C25-03",
+        "MED-C25-04",
+        "MED-C25-05",
+        "MED-C25-06",
+        "MED-C25-07",
+        "MED-C25-08",
+        "MED-C25-09",
+        "MED-C25-10",
+        "MED-C25-11"
+      ]
+    }
+  ]
+}

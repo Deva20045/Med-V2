@@ -6,11 +6,11 @@ Updated **2026-09-23**. Standalone offline quiz based on *PULSE Medicine Vol 2*,
 - Session branch: `arena/01a0cd13-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 20 live chapters / 57 · 847 questions / 87 units.** Chapters 21–57 remain `live:false`.
+- **Build status: 26 live chapters / 57 · 1096 questions / 102 units.** Chapters 27–57 remain `live:false`.
 
-## This release — Chapters 16–20
+## This release — Chapters 16–26
 
-Five consecutive rheumatology chapters were rendered from the scans, read block by block, source-ordered and made live:
+Eleven consecutive rheumatology chapters were rendered from the scans, read block by block, source-ordered and made live:
 
 | Ch | Title | Printed pages | Questions | Units |
 |---:|---|---:|---:|---:|
@@ -19,17 +19,23 @@ Five consecutive rheumatology chapters were rendered from the scans, read block 
 | 18 | Systemic Sclerosis | 470–476 | 50 | 7 |
 | 19 | Inflammatory Muscle Diseases | 477–483 | 57 | 7 |
 | 20 | Sarcoidosis and Mixed Connective Tissue Disease | 484–490 | 52 | 7 |
-| **Release total** |  | **33 pages** | **268** | **32** |
+| 21 | Classification of Vasculitis and Large Vessel Vasculitis | 491–498 | 44 | 3 |
+| 22 | Small Vessel Vasculitis | 499–508 | 52 | 3 |
+| 23 | Henoch-Schonlein Purpura V/S Cryoglobulinemia | 509–513 | 26 | 2 |
+| 24 | Variable Vessel Vasculitis | 514–518 | 36 | 2 |
+| 25 | Basic Approach to Arthritis | 519–520 | 11 | 1 |
+| 26 | Rheumatoid Arthritis | 521–531 | 80 | 4 |
+| **Release total** |  | **74 pages** | **517** | **47** |
 
 ### Quality and ordering contract delivered
 
-1. All pages were read in printed order (`uploads/01.pdf` PDF94–103 = Book p458–467 and `uploads/02.pdf` PDF1–23 = Book p468–490), including flowchart arms, comparison tables, numeric thresholds, morphology images, rotated annotations, notes, management ladders and drug doses.
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 16–20 add **268 ordered mappings**, bringing the audited ledger to **955 mappings** for Chapters 2–20. Every target is marked asked.
+1. All pages were read in printed order (`uploads/01.pdf` PDF94–103 = Book p458–467 and `uploads/02.pdf` PDF1–63 = Book p468–531; printed p527 is absent), including flowchart arms, comparison tables, numeric thresholds, morphology images, rotated annotations, notes, management ladders and drug doses.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 16–26 add **517 ordered mappings**, bringing the audited ledger to **1204 mappings** for Chapters 2–26. Every target is marked asked.
    Chapters 16–20 are unusually dense (a six-class lupus-nephritis table, the weighted EULAR/ACR domain table, two management ladders with doses, four antibody-to-organ tables and three comparison tables), so the block-by-block inventory resolved into more discrete printed points than the 120–150 planning estimate; no point was dropped to meet a round number.
-3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–20. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
+3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–26. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 16–20 are embedded in the standalone app and all twenty roadmap flags are live.
+6. Chapters 16–26 are embedded in the standalone app and all 26 roadmap flags are live.
 
 Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
 
@@ -55,7 +61,8 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **02.pdf PDF3–9: p470–476 (Ch18)**
 - **02.pdf PDF10–16: p477–483 (Ch19)**
 - **02.pdf PDF17–23: p484–490 (Ch20)**
-- 02.pdf PDF24 onward: p491+ (Ch21 onward, not yet live)
+- **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**
+- 02.pdf PDF64 onward: p532+ (Ch27 onward, not yet live)
 
 ## Schema and order contract
 
@@ -63,7 +70,7 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - Question: sequential `MED-C<N>-<seq>` ID; section/page/format/stem; exactly four unique options; one answer; explanation ending exactly `(Book pX)` matching `page`.
 - Units: sequential `MED-U<N>-<n>` IDs; each has a 2–4-line guide; its IDs are rebuilt from exactly one section in original question order; flattened units equal the full chapter sequence.
 - Questions are in printed book-page order; all printed pages in every live chapter are represented.
-- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–20, in exact question order and with matching book page.
+- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–26, in exact question order and with matching book page.
 - Questions are educational book-study material, not a substitute for current clinical guidelines or patient care.
 
 ## Build, audit and test workflow
@@ -72,7 +79,8 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 # Generate/edit chapter artifacts only when source artefacts need regeneration.
 python3 tools/generate_ch09_15.py        # Chapters 9-15
 python3 tools/generate_ch16_20.py        # Chapters 16-20
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-20)
+python3 tools/generate_ch21_26.py        # Chapters 21-26
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-20, Ch21-26)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -174,6 +182,21 @@ node tests/app_parsers.cjs
 | 20 | 5. Multisystem Manifestations & Investigations | 488 | MED-C20-29–MED-C20-37 | 9 |
 | 20 | 6. Treatment, Therapeutic Paradox & Overlap Syndromes | 489 | MED-C20-38–MED-C20-44 | 7 |
 | 20 | 7. MCTD: Serology, Clinical Features & Complications | 489–490 | MED-C20-45–MED-C20-52 | 8 |
+| 21 | 1. Vasculitis definition and Chapel-Hill vessel-size classification | 491–493 | MED-C21-01–MED-C21-15 | 15 |
+| 21 | 2. Giant cell arteritis and PMR | 493–495 | MED-C21-16–MED-C21-32 | 17 |
+| 21 | 3. Takayasu arteritis | 496–498 | MED-C21-33–MED-C21-44 | 12 |
+| 22 | 1. ANCA biology, testing and skin-vessel clinical framework | 499–501 | MED-C22-01–MED-C22-15 | 15 |
+| 22 | 2. GPA and MPA manifestations, management and classification | 501–505 | MED-C22-16–MED-C22-32 | 17 |
+| 22 | 3. EGPA and PAN | 505–508 | MED-C22-33–MED-C22-52 | 20 |
+| 23 | 1. Immune-complex small-vessel vasculitis and HSP | 509–511 | MED-C23-01–MED-C23-14 | 14 |
+| 23 | 2. Cryoglobulinemia | 512–513 | MED-C23-15–MED-C23-26 | 12 |
+| 24 | 1. Behcet disease classification, criteria and manifestations | 514–517 | MED-C24-01–MED-C24-27 | 27 |
+| 24 | 2. Diagnosis, treatment and Cogan syndrome | 518 | MED-C24-28–MED-C24-36 | 9 |
+| 25 | 1. Differentiating arthritis patterns and inflammatory arthritis | 519–520 | MED-C25-01–MED-C25-11 | 11 |
+| 26 | 1. RA diagnosis duration, joint involvement and etiopathogenesis | 521–523 | MED-C26-01–MED-C26-22 | 22 |
+| 26 | 2. RA prediction markers, clinical manifestations and deformities | 524–526 | MED-C26-23–MED-C26-43 | 21 |
+| 26 | 3. Extra-articular RA and RA versus SLE | 527–529 | MED-C26-44–MED-C26-61 | 18 |
+| 26 | 4. RA management | 530–531 | MED-C26-62–MED-C26-80 | 19 |
 
 ## Full roadmap
 
@@ -199,12 +222,12 @@ node tests/app_parsers.cjs
 | 18 | Systemic Sclerosis | 470 | **Live** |
 | 19 | Inflammatory Muscle Diseases | 477 | **Live** |
 | 20 | Sarcoidosis and Mixed Connective Tissue Disease | 484 | **Live** |
-| 21 | Classification of Vasculitis and Large Vessel Vasculitis | 491 | Soon |
-| 22 | Small Vessel Vasculitis | 499 | Soon |
-| 23 | Henoch-Schonlein Purpura V/S Cryoglobulinemia | 509 | Soon |
-| 24 | Variable Vessel Vasculitis | 514 | Soon |
-| 25 | Basic Approach to Arthritis | 519 | Soon |
-| 26 | Rheumatoid Arthritis | 521 | Soon |
+| 21 | Classification of Vasculitis and Large Vessel Vasculitis | 491 | **Live** |
+| 22 | Small Vessel Vasculitis | 499 | **Live** |
+| 23 | Henoch-Schonlein Purpura V/S Cryoglobulinemia | 509 | **Live** |
+| 24 | Variable Vessel Vasculitis | 514 | **Live** |
+| 25 | Basic Approach to Arthritis | 519 | **Live** |
+| 26 | Rheumatoid Arthritis | 521 | **Live** |
 | 27 | Spondyloarthritis | 532 | Soon |
 | 28 | Crystal Arthropathies | 543 | Soon |
 | 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | Soon |

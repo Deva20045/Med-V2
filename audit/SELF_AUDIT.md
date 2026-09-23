@@ -1,22 +1,18 @@
-# Chapters 2–20 — visual self-audit gate
+# Chapters 2–26 — visual self-audit gate
 
-Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–23 (Book p468–490), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–63 (Book p468–531; printed p527 is absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
-- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–490. PDF13–18 of `01.pdf` were previously read for Chapter 1. Every printed page number quoted below was read visually from the rendered sheet.
-- Reading order: top-to-bottom content blocks; parallel comparison columns treated as unified comparison blocks; diagrams remained with their adjacent text. Each unit is a contiguous slice of that sequence. Repeated publisher footers, lesson timestamps and 'Active space' furniture are excluded.
+- Read every educational heading, bullet, sub-bullet, note, equation, table cell, flowchart arm, annotated ECG, morphology panel, image label, threshold, dose, contraindication and treatment branch on printed p383–531. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded.
 - Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.
-- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–20 (no fill-up or match worksheets), and exact citation references.
-- Software verifies schema, exact app parsers, sequential IDs, page ordering, inventory ordering and full unit coverage. Semantic completeness is verified via visual self-audit.
+- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–26 (no fill-up or match worksheets), and exact citation references.
+- Questions in Chapters 9–26 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
+- Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.
 
-## Rescue completed before new chapter authoring
+## Source-specific notes retained as book-study material
 
-Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored audit points MED-C1-02/03/20/32/43.
-
-## Source discrepancies handled explicitly
-
-| Page | Source-specific wording retained and qualified |
+| Pages | Note |
 |---:|---|
 | 383 | aVL is printed as 30° without a minus; explanation distinguishes conventional −30°. |
 | 385 / 388 | 'Trifascicular' = bifascicular + increased PR is identified as source terminology, not anatomical proof of third-fascicle disease. |
@@ -75,6 +71,15 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 488 | The BAL CD4/CD8 cut-off numeral is too small to read with confidence; the question asks only for the raised ratio. The panda sign and the PET 'node to biopsy' role are transcribed as printed. |
 | 489 | The therapeutic paradox (TNF-alpha blockade producing sarcoid-like skin lesions that resolve on dose reduction) is a source observation. |
 | 490 | 'About 20% evolve into limited SSc' and pulmonary artery hypertension as the most common cause of death are printed MCTD statements. |
+
+| 491–498 | Vasculitis classification, GCA/PMR, Takayasu criteria, imaging and steroid/tocilizumab/stenting treatment statements are reproduced as source-specific teaching points. |
+| 499–508 | ANCA testing, GPA/MPA/EGPA/PAN scoring, doses, plasma-exchange indications and HBV-based PAN treatment are retained exactly as printed for study. |
+| 509–513 | HSP versus cryoglobulinemia criteria, triads, complement/cryocrit findings and treatment branches are source-specific. |
+| 514–518 | Behcet and Cogan diagnostic/treatment criteria, pathergy values and systemic warning signs are retained as printed. |
+| 519–520 | Arthritis approach thresholds, inflammatory synovial-fluid cut-off and erosion table are study points, not a substitute for clinical assessment. |
+| 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |
+
+Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526, PDF60 is p528, PDF63 is p531, and PDF64 begins p532. Printed p527 is absent. The five existing upstream Chapter 26 questions citing p527 are preserved, but their source verification remains unresolved; software coverage does not establish visual completeness for that missing page.
 
 ## Per-chapter units
 
@@ -167,32 +172,68 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 20 | 5. Multisystem Manifestations & Investigations | 488 | MED-C20-29–MED-C20-37 | 9 |
 | 20 | 6. Treatment, Therapeutic Paradox & Overlap Syndromes | 489 | MED-C20-38–MED-C20-44 | 7 |
 | 20 | 7. MCTD: Serology, Clinical Features & Complications | 489–490 | MED-C20-45–MED-C20-52 | 8 |
+| 21 | 1. Vasculitis definition and Chapel-Hill vessel-size classification | 491–493 | MED-C21-01–MED-C21-15 | 15 |
+| 21 | 2. Giant cell arteritis and PMR | 493–495 | MED-C21-16–MED-C21-32 | 17 |
+| 21 | 3. Takayasu arteritis | 496–498 | MED-C21-33–MED-C21-44 | 12 |
+| 22 | 1. ANCA biology, testing and skin-vessel clinical framework | 499–501 | MED-C22-01–MED-C22-15 | 15 |
+| 22 | 2. GPA and MPA manifestations, management and classification | 501–505 | MED-C22-16–MED-C22-32 | 17 |
+| 22 | 3. EGPA and PAN | 505–508 | MED-C22-33–MED-C22-52 | 20 |
+| 23 | 1. Immune-complex small-vessel vasculitis and HSP | 509–511 | MED-C23-01–MED-C23-14 | 14 |
+| 23 | 2. Cryoglobulinemia | 512–513 | MED-C23-15–MED-C23-26 | 12 |
+| 24 | 1. Behcet disease classification, criteria and manifestations | 514–517 | MED-C24-01–MED-C24-27 | 27 |
+| 24 | 2. Diagnosis, treatment and Cogan syndrome | 518 | MED-C24-28–MED-C24-36 | 9 |
+| 25 | 1. Differentiating arthritis patterns and inflammatory arthritis | 519–520 | MED-C25-01–MED-C25-11 | 11 |
+| 26 | 1. RA diagnosis duration, joint involvement and etiopathogenesis | 521–523 | MED-C26-01–MED-C26-22 | 22 |
+| 26 | 2. RA prediction markers, clinical manifestations and deformities | 524–526 | MED-C26-23–MED-C26-43 | 21 |
+| 26 | 3. Extra-articular RA and RA versus SLE | 527–529 | MED-C26-44–MED-C26-61 | 18 |
+| 26 | 4. RA management | 530–531 | MED-C26-62–MED-C26-80 | 19 |
 
 ## Format distribution
 
-| Chapter | Recall | Fill-up | Match | True/false | Scenario | Odd-one-out | Numeric | Management | Total |
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | 5 | 9 | 17 | 6 | 3 | 5 | 4 | 0 | 49 |
-| 2 | 4 | 10 | 5 | 3 | 8 | 2 | 5 | 0 | 37 |
-| 3 | 6 | 10 | 5 | 2 | 7 | 3 | 4 | 1 | 38 |
-| 4 | 4 | 9 | 1 | 3 | 10 | 1 | 5 | 2 | 35 |
-| 5 | 9 | 6 | 5 | 4 | 11 | 4 | 8 | 5 | 52 |
-| 6 | 6 | 5 | 3 | 2 | 6 | 1 | 6 | 4 | 33 |
-| 7 | 5 | 6 | 3 | 3 | 5 | 4 | 6 | 4 | 36 |
-| 8 | 3 | 2 | 2 | 2 | 2 | 1 | 0 | 2 | 14 |
-| 9 | 32 | 0 | 0 | 0 | 24 | 3 | 4 | 1 | 64 |
-| 10 | 17 | 0 | 0 | 0 | 12 | 0 | 0 | 0 | 29 |
-| 11 | 33 | 0 | 0 | 0 | 24 | 1 | 11 | 3 | 72 |
-| 12 | 26 | 0 | 0 | 0 | 13 | 1 | 5 | 2 | 47 |
-| 13 | 16 | 0 | 0 | 0 | 5 | 1 | 0 | 1 | 23 |
-| 14 | 15 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 18 |
-| 15 | 23 | 0 | 0 | 0 | 6 | 0 | 3 | 0 | 32 |
-| 16 | 34 | 0 | 0 | 0 | 16 | 2 | 14 | 8 | 74 |
-| 17 | 12 | 0 | 0 | 0 | 12 | 0 | 8 | 3 | 35 |
-| 18 | 27 | 0 | 0 | 0 | 19 | 0 | 1 | 3 | 50 |
-| 19 | 34 | 0 | 0 | 0 | 18 | 0 | 2 | 3 | 57 |
-| 20 | 28 | 0 | 0 | 0 | 16 | 1 | 4 | 3 | 52 |
-| Total | 339 | 57 | 41 | 25 | 218 | 31 | 91 | 45 | 847 |
+| Chapter | Recall | Scenario | Numeric | Odd-one-out | Management | Other | Total | Ledger points |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 5 | 3 | 4 | 5 | 0 | 32 | 49 | 0 |
+| 2 | 4 | 8 | 5 | 2 | 0 | 18 | 37 | 86 |
+| 3 | 6 | 7 | 4 | 3 | 1 | 17 | 38 | 93 |
+| 4 | 4 | 10 | 5 | 1 | 2 | 13 | 35 | 83 |
+| 5 | 9 | 11 | 8 | 4 | 5 | 15 | 52 | 57 |
+| 6 | 6 | 6 | 6 | 1 | 4 | 10 | 33 | 33 |
+| 7 | 5 | 5 | 6 | 4 | 4 | 12 | 36 | 36 |
+| 8 | 3 | 2 | 0 | 1 | 2 | 6 | 14 | 14 |
+| 9 | 32 | 24 | 4 | 3 | 1 | 0 | 64 | 64 |
+| 10 | 17 | 12 | 0 | 0 | 0 | 0 | 29 | 29 |
+| 11 | 33 | 24 | 11 | 1 | 3 | 0 | 72 | 72 |
+| 12 | 26 | 13 | 5 | 1 | 2 | 0 | 47 | 47 |
+| 13 | 16 | 5 | 0 | 1 | 1 | 0 | 23 | 23 |
+| 14 | 15 | 1 | 1 | 1 | 0 | 0 | 18 | 18 |
+| 15 | 23 | 6 | 3 | 0 | 0 | 0 | 32 | 32 |
+| 16 | 34 | 16 | 14 | 2 | 8 | 0 | 74 | 74 |
+| 17 | 12 | 12 | 8 | 0 | 3 | 0 | 35 | 35 |
+| 18 | 27 | 19 | 1 | 0 | 3 | 0 | 50 | 50 |
+| 19 | 34 | 18 | 2 | 0 | 3 | 0 | 57 | 57 |
+| 20 | 28 | 16 | 4 | 1 | 3 | 0 | 52 | 52 |
+| 21 | 26 | 7 | 6 | 2 | 3 | 0 | 44 | 44 |
+| 22 | 38 | 2 | 5 | 2 | 5 | 0 | 52 | 52 |
+| 23 | 18 | 3 | 2 | 0 | 3 | 0 | 26 | 26 |
+| 24 | 27 | 0 | 4 | 2 | 3 | 0 | 36 | 36 |
+| 25 | 6 | 3 | 2 | 0 | 0 | 0 | 11 | 11 |
+| 26 | 58 | 9 | 8 | 0 | 5 | 0 | 80 | 80 |
+
+## Chapters 16–26 release table
+
+| Ch | Title | Printed pages | Questions | Units | Ledger mappings |
+|---:|---|---:|---:|---:|---:|
+| 16 | SLE - Clinical Profile and Management | 458–465 | 74 | 7 | 74 |
+| 17 | Antiphospholipid Syndrome | 466–469 | 35 | 4 | 35 |
+| 18 | Systemic Sclerosis | 470–476 | 50 | 7 | 50 |
+| 19 | Inflammatory Muscle Diseases | 477–483 | 57 | 7 | 57 |
+| 20 | Sarcoidosis and Mixed Connective Tissue Disease | 484–490 | 52 | 7 | 52 |
+| 21 | Classification of Vasculitis and Large Vessel Vasculitis | 491–498 | 44 | 3 | 44 |
+| 22 | Small Vessel Vasculitis | 499–508 | 52 | 3 | 52 |
+| 23 | Henoch-Schonlein Purpura V/S Cryoglobulinemia | 509–513 | 26 | 2 | 26 |
+| 24 | Variable Vessel Vasculitis | 514–518 | 36 | 2 | 36 |
+| 25 | Basic Approach to Arthritis | 519–520 | 11 | 1 | 11 |
+| 26 | Rheumatoid Arthritis | 521–531 | 80 | 4 | 80 |
 
 ## Page-by-page coverage summary
 
@@ -306,8 +347,49 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 488 | 02 PDF21 | 9 | 9 | 0 |
 | 489 | 02 PDF22 | 9 | 9 | 0 |
 | 490 | 02 PDF23 | 6 | 6 | 0 |
+| 491 | 02 PDF24 | 7 | 7 | 0 |
+| 492 | 02 PDF25 | 7 | 7 | 0 |
+| 493 | 02 PDF26 | 6 | 6 | 0 |
+| 494 | 02 PDF27 | 6 | 6 | 0 |
+| 495 | 02 PDF28 | 6 | 6 | 0 |
+| 496 | 02 PDF29 | 6 | 6 | 0 |
+| 497 | 02 PDF30 | 3 | 3 | 0 |
+| 498 | 02 PDF31 | 3 | 3 | 0 |
+| 499 | 02 PDF32 | 4 | 4 | 0 |
+| 500 | 02 PDF33 | 6 | 6 | 0 |
+| 501 | 02 PDF34 | 7 | 7 | 0 |
+| 502 | 02 PDF35 | 4 | 4 | 0 |
+| 503 | 02 PDF36 | 4 | 4 | 0 |
+| 504 | 02 PDF37 | 5 | 5 | 0 |
+| 505 | 02 PDF38 | 7 | 7 | 0 |
+| 506 | 02 PDF39 | 6 | 6 | 0 |
+| 507 | 02 PDF40 | 6 | 6 | 0 |
+| 508 | 02 PDF41 | 3 | 3 | 0 |
+| 509 | 02 PDF42 | 5 | 5 | 0 |
+| 510 | 02 PDF43 | 4 | 4 | 0 |
+| 511 | 02 PDF44 | 5 | 5 | 0 |
+| 512 | 02 PDF45 | 6 | 6 | 0 |
+| 513 | 02 PDF46 | 6 | 6 | 0 |
+| 514 | 02 PDF47 | 6 | 6 | 0 |
+| 515 | 02 PDF48 | 8 | 8 | 0 |
+| 516 | 02 PDF49 | 6 | 6 | 0 |
+| 517 | 02 PDF50 | 7 | 7 | 0 |
+| 518 | 02 PDF51 | 9 | 9 | 0 |
+| 519 | 02 PDF52 | 6 | 6 | 0 |
+| 520 | 02 PDF53 | 5 | 5 | 0 |
+| 521 | 02 PDF54 | 8 | 8 | 0 |
+| 522 | 02 PDF55 | 6 | 6 | 0 |
+| 523 | 02 PDF56 | 8 | 8 | 0 |
+| 524 | 02 PDF57 | 7 | 7 | 0 |
+| 525 | 02 PDF58 | 8 | 8 | 0 |
+| 526 | 02 PDF59 | 6 | 6 | 0 |
+| 527 | Missing from supplied scan | 5 | 5 | 0 |
+| 528 | 02 PDF60 | 9 | 9 | 0 |
+| 529 | 02 PDF61 | 4 | 4 | 0 |
+| 530 | 02 PDF62 | 8 | 8 | 0 |
+| 531 | 02 PDF63 | 11 | 11 | 0 |
 
-**Total: 955 mapped educational points; 847 questions; 87 units across 20 live chapters of 57.**
+**Total: 1204 mapped educational points; 1096 questions; 102 units across 26 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -2022,10 +2104,550 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p491 / 02 PDF24
+
+| Printed point / call-out | Question |
+|---|---|
+| Vasculitis is defined as vessel-wall inflammation, with raised ESR/CRP and ischemia or organ damage. | MED-C21-01 |
+| The page explicitly notes no gold standard test to diagnose vasculitis and no diagnostic criteria. | MED-C21-02 |
+| The vasculopathy note uses systemic sclerosis as the example and lists endothelial injury through TGF-beta fibrosis with low ESR/CRP. | MED-C21-03 |
+| The classification criteria are the revised Chapel Hill consensus 2012 classification and are based on predominantly affected vessel size. | MED-C21-04 |
+| Large vessels are the aorta and its branches, with temporal/giant-cell arteritis and Takayasu arteritis listed. | MED-C21-05 |
+| The ANCA-associated list contains GPA, allergic/eosinophilic GPA and microscopic polyangiitis. | MED-C21-06 |
+| The immune-complex mediated list includes anti-GBM disease, HSP and cryoglobulinemia-associated vasculitis. | MED-C21-07 |
+
+Unasked points: **none found**.
+
+### Book p492 / 02 PDF25
+
+| Printed point / call-out | Question |
+|---|---|
+| HUV is marked by anti-C1q antibody, SLE-overlap features and pathognomonic interface dermatitis. | MED-C21-08 |
+| The margin note states most common vasculitis: adults temporal/giant-cell arteritis worldwide, children HSP. | MED-C21-09 |
+| Variable vessel vasculitis consists of Behcet disease and Cogan syndrome in the printed list. | MED-C21-10 |
+| Single-organ vasculitis examples list skin capillaries/post-capillary venules as cutaneous leukocytoclastic angiitis. | MED-C21-11 |
+| Among CTD-associated exceptions, RA and Sjogren are bracketed with medium-vessel vasculitis. | MED-C21-12 |
+| Drug-induced ANCA-associated vasculitis lists hydralazine and propylthiouracil, while penicillins, sulfonamides and thiazides are immune-complex mediated. | MED-C21-13 |
+| The infection list pairs HCV with cryoglobulinemia-like vasculitis and HBV with PAN-like disease. | MED-C21-14 |
+
+Unasked points: **none found**.
+
+### Book p493 / 02 PDF26
+
+| Printed point / call-out | Question |
+|---|---|
+| Malignancy-related vasculitis is noted to involve small vessels and is associated with lymphoma, hairy-cell leukemia, bladder carcinoma and RCC. | MED-C21-15 |
+| Both large-vessel diseases have similar histology: transmural inflammation involving intima/media/adventitia, lymphocytes/macrophages, granuloma and few giant cells, seen in 50% cases. | MED-C21-16 |
+| GCA synonyms are temporal arteritis, cranial arteritis and granulomatous arteritis; vessels are extracranial vessels with internal elastic lamina, sparing intracranial vessels. | MED-C21-17 |
+| GCA presents after 50 years, mean age of diagnosis is 72 years and the female:male ratio is 2:1. | MED-C21-18 |
+| The most common artery sequence in GCA is superficial temporal, then vertebral, ophthalmic and posterior ciliary. | MED-C21-19 |
+| The GCA-PMR syndrome note states PMR symptoms occur in 50% of GCA cases and GCA symptoms occur in 20% of PMR cases. | MED-C21-20 |
+
+Unasked points: **none found**.
+
+### Book p494 / 02 PDF27
+
+| Printed point / call-out | Question |
+|---|---|
+| PMR features are tendinitis/bursitis/enthesitis with early morning pain and stiffness in shoulder, hip and pelvic girdle, ESR >50, and differential diagnosis is late-onset RA. | MED-C21-21 |
+| PMR pathology is listed as IL-6 predominant inflammation type and IFN-gamma mediated ischemia type. | MED-C21-22 |
+| Associations include smoking, VZV isolated from biopsy with no role of acyclovir, and genetic HLA DRB1-04/MICA A5 allele. | MED-C21-23 |
+| Typical GCA headache is new onset, moderate-severe, recurring, unusual type and boring in nature. | MED-C21-24 |
+| The clinical-features page prints ESR >100 mm/hr and notes ACR >50 mm/hr. | MED-C21-25 |
+| Jaw claudication due to maxillary artery involvement, along with ophthalmoplegia, is noted as 100% positive predictive value for GCA. | MED-C21-26 |
+
+Unasked points: **none found**.
+
+### Book p495 / 02 PDF28
+
+| Printed point / call-out | Question |
+|---|---|
+| Atypical GCA includes pyrexia of unknown origin in age over 50 years, cervical radiculopathy and recurrent throat pain/cough. | MED-C21-27 |
+| Temporal artery biopsy is the investigation of choice, and a 4–6 cm long segment is taken to overcome skip lesions. | MED-C21-28 |
+| Color Doppler is listed with 70% sensitivity and 80% specificity; the halo sign is a hypoechoic area around the temporal artery in longitudinal and transverse sections. | MED-C21-29 |
+| ACR criteria shown are onset age >50, new localized headache, temporal artery tenderness or decreased pulsations, ESR ≥50 mm/hr and biopsy with transmural inflammation. | MED-C21-30 |
+| Treatment lists steroids as first line, 40–60 mg/day or 1 mg/kg/day, tapered down. | MED-C21-31 |
+| Tocilizumab is anti-IL-6 and is indicated for flares, especially common at low-dose steroids with increased ESR. | MED-C21-32 |
+
+Unasked points: **none found**.
+
+### Book p496 / 02 PDF29
+
+| Printed point / call-out | Question |
+|---|---|
+| Takayasu synonyms listed are aortic arch syndrome, nonspecific aortoarteritis, occlusive thromboaortopathy, pulseless disease and middle aortic syndrome. | MED-C21-33 |
+| Takayasu arteritis presents before 40 years, mean age of diagnosis 24 years, with female:male ratio 9:1. | MED-C21-34 |
+| The 9:1 note lists Sjogren, SLE, Takayasu, fibromyalgia, chronic fatigue syndrome and primary biliary cirrhosis. | MED-C21-35 |
+| The note lists pulmonary artery involvement in Takayasu arteritis and Behcet disease. | MED-C21-36 |
+| Takayasu pathology includes HLA-B52/B67, TLR expression differing by vessel, segmental stenosis more than aneurysm and subclavian artery as the most common vessel. | MED-C21-37 |
+| Takayasu clinical features include upper-extremity claudication, pulse inequality, unequal arm BP >10 mmHg and abdominal/carotid/aortic/femoral bruits. | MED-C21-38 |
+
+Unasked points: **none found**.
+
+### Book p497 / 02 PDF30
+
+| Printed point / call-out | Question |
+|---|---|
+| Takayasu ACR criteria include onset <40 years, limb claudication, decreased brachial artery pulse, unequal arm BP >10 mmHg, subclavian/aortic bruit and angiographic stenosis. | MED-C21-39 |
+| MR angiography is IOC for diagnosis and follow-up and gives the best measure of vessel wall thickness. | MED-C21-40 |
+| Conventional angiography is marked gold standard and done if vessel intervention is planned. | MED-C21-41 |
+
+Unasked points: **none found**.
+
+### Book p498 / 02 PDF31
+
+| Printed point / call-out | Question |
+|---|---|
+| Treatment lists steroids as DOC, tocilizumab and percutaneous transluminal renal angiogram with stenting. | MED-C21-42 |
+| Takayasu shows F:M 9:1, age <40 years, average onset 25 years and Asian highest incidence; temporal arteritis has visual loss 10–30%, average age 72 and Scandinavian incidence. | MED-C21-43 |
+| Temporal arteritis has visual loss 10–30%, one-third aorta/major branch involvement, rare renal HTN/claudication and rare need for surgical intervention. | MED-C21-44 |
+
+Unasked points: **none found**.
+
+### Book p499 / 02 PDF32
+
+| Printed point / call-out | Question |
+|---|---|
+| Small-vessel vasculitis is split into immune-complex mediated and ANCA-associated; ANCA-associated examples are GPA, MPA and allergic/eosinophilic GPA. | MED-C22-01 |
+| ANCA targets are in azurophilic granules of resting neutrophils more than lysosomes of monocytes and include PR3 and MPO. | MED-C22-02 |
+| The ANCA pathogenesis flowchart starts with infection/LPS, primes neutrophils to express PR3/MPO and proceeds through ANCA, alternate complement activation, degranulation and NETosis. | MED-C22-03 |
+| NETosis forms neutrophil extracellular traps; ineffective degradation exposes NET components, stimulates ANCA production and attacks primed neutrophils. | MED-C22-04 |
+
+Unasked points: **none found**.
+
+### Book p500 / 02 PDF33
+
+| Printed point / call-out | Question |
+|---|---|
+| The ANCA screening test shown is indirect immunofluorescence. | MED-C22-05 |
+| The cytoplasmic pattern is anti-PR3; confirmation is by ELISA, producing true c-ANCA positivity. | MED-C22-06 |
+| True c-ANCA causes are ordered GPA > MPA > renal-limited vasculitis > EGPA. | MED-C22-07 |
+| True p-ANCA against MPO is ordered renal-limited vasculitis > MPA > EGPA > GPA and includes drug-induced hydralazine, PTU, levamisole-adulterated cocaine and minocycline. | MED-C22-08 |
+| False p-ANCA causes include autoimmune hepatitis type 1, primary sclerosing cholangitis, RA, IBD, infective endocarditis and cystic fibrosis. | MED-C22-09 |
+| Biopsy and immunofluorescence of skin are marked most preferred; no deposits indicate pauci-immune disease. | MED-C22-10 |
+
+Unasked points: **none found**.
+
+### Book p501 / 02 PDF34
+
+| Printed point / call-out | Question |
+|---|---|
+| ANCA cutaneous palpable purpura is labelled non-thrombocytopenic palpable purpura and hallmark feature. | MED-C22-11 |
+| Petechiae are described as non-blanchable pinpoint macules due to capillary inflammation. | MED-C22-12 |
+| Small-vessel involvement is capillaries and post-capillary venules in superficial capillary dermis with purpura, petechiae, bulla and urticaria. | MED-C22-13 |
+| Medium-vessel vasculitis involves muscular arteries in the reticular dermis and features nodules, gangrene, mononeuritis multiplex and deep ulcers. | MED-C22-14 |
+| The page states ANCA titres are a predictor of relapse. | MED-C22-15 |
+| GPA features include necrotising vasculitis plus fibrinoid necrosis due to neutrophils plus granuloma. | MED-C22-16 |
+| GPA lists c-ANCA 70% > p-ANCA 25%, age group >40 years, sex M=F and HLA DPB1 04. | MED-C22-17 |
+
+Unasked points: **none found**.
+
+### Book p502 / 02 PDF35
+
+| Printed point / call-out | Question |
+|---|---|
+| GPA major manifestations list upper respiratory tract involvement in 95% with midline nasal deformities, including septal ulcers/crusting/perforation and saddle nose deformity. | MED-C22-18 |
+| Lower respiratory involvement in GPA is 90%, with thick-walled cavitating nodules and DAH. | MED-C22-19 |
+| Renal involvement in GPA is 60%; RPGN is type 3 and pauci-immune. | MED-C22-20 |
+| GPA minor systemic manifestations include joints arthralgia, CNS peripheral neuropathy, skin palpable purpura and ocular scleritis, orbital pseudotumour and rare lacrimal involvement. | MED-C22-21 |
+
+Unasked points: **none found**.
+
+### Book p503 / 02 PDF36
+
+| Printed point / call-out | Question |
+|---|---|
+| The note lists thick-walled cavitating nodules in Wegener granulomatosis, SCC of lung, histoplasmosis and lung abscess. | MED-C22-22 |
+| MPA is described in elderly 50–65 years, male>female, necrotising vasculitis with fibrinoid necrosis but no granuloma, and p-ANCA > c-ANCA. | MED-C22-23 |
+| MPA lists lower respiratory 50% DAH, upper respiratory 30% sinusitis and renal 100%, most commonly RPGN type 3. | MED-C22-24 |
+| MPA minor manifestations are ocular unlikely, joints not significant, skin more common than GPA and CNS minimal neuropathy. | MED-C22-25 |
+
+Unasked points: **none found**.
+
+### Book p504 / 02 PDF37
+
+| Printed point / call-out | Question |
+|---|---|
+| Induction shows methylprednisolone IV 500 mg–1 g for 3 days, then oral 1 mg/kg/day tapering over 2–3 months to 5 mg/day, plus cyclophosphamide as DOC. | MED-C22-26 |
+| Rituximab is shown as an alternative if unwilling for cyclophosphamide and is used in relapse. | MED-C22-27 |
+| Minimal disease is treated with steroid plus methotrexate; maintenance is low-dose steroid plus azathioprine. | MED-C22-28 |
+| Plasma exchange indications are ongoing DAH, serum creatinine >5.5 mg/dL and CNS involvement. | MED-C22-29 |
+| In the GPA table, cANCA or anti-PR3 ANCA positive scores +5, higher than +3 or +2 items. | MED-C22-30 |
+
+Unasked points: **none found**.
+
+### Book p505 / 02 PDF38
+
+| Printed point / call-out | Question |
+|---|---|
+| For GPA, total score of ≥5 is needed, with sensitivity 93% and specificity 94%. | MED-C22-31 |
+| The MPA table assigns eosinophil count ≥1×10^9/L a score of -4; pANCA/MPO is +6, pauci-immune GN +3 and fibrosis/ILD +3. | MED-C22-32 |
+| Churg-Strauss syndrome is AKA eosinophilic granulomatosis with polyangiitis and allergic granulomatosis with polyangiitis. | MED-C22-33 |
+| EGPA features include necrotising vasculitis, fibrinoid necrosis, extravascular granuloma, eosinophilic disease and predominantly ANCA-negative status; ANCA positivity is bad prognosis. | MED-C22-34 |
+| The asthmatic phase is seen in adolescents and includes recurrent allergic rhinitis plus asthma and migratory lung infiltrations in CXR. | MED-C22-35 |
+| The vasculitic phase includes eosinophilic gastroenteritis, eosinophilic myocarditis as the most common cause of death, and severe neuropathy including cranial nerves. | MED-C22-36 |
+| High-titre ANCA-positive cases have DAH, RPGN, mononeuritis multiplex that may involve medium vessels, predominant skin lesions and bad prognosis. | MED-C22-37 |
+
+Unasked points: **none found**.
+
+### Book p506 / 02 PDF39
+
+| Printed point / call-out | Question |
+|---|---|
+| ACR criteria for EGPA are asthma, eosinophilia >10%, mono/polyneuropathy, migratory pulmonary infiltrates, paranasal sinus abnormality and extravascular eosinophils on biopsy. | MED-C22-38 |
+| EGPA treatment lists steroid plus IL-5 antagonist mepolizumab. | MED-C22-39 |
+| PAN is described as transmural necrotising inflammation without granuloma, neutrophil predominant, focal and segmental necrosis and ANCA negative. | MED-C22-40 |
+| The PAN association note states Hepatitis B 30/1 rule: 30% of PAN cases have hepatitis B and 1% of hepatitis B cases have PAN. | MED-C22-41 |
+| Aneurysms/microaneurysms in PAN are linked to conventional angiography as the investigation. | MED-C22-42 |
+| PAN systemic manifestations include constitutional symptoms as first symptom, nodules/ulcers/gangrene, hemoptysis, renal failure from renal artery stenosis with abdominal pain, testicular pain and mononeuritis multiplex. | MED-C22-43 |
+
+Unasked points: **none found**.
+
+### Book p507 / 02 PDF40
+
+| Printed point / call-out | Question |
+|---|---|
+| PAN danger signs are abdominal pain due to mesenteric vasculitis, renal artery stenosis and CNS vasculitis. | MED-C22-44 |
+| Findings against PAN due to capillary involvement include DAH, RPGN, petechiae, purpura, bulla, ecchymosis, ENT/ocular manifestations, asthma, positive ANCA and cryoglobulinemia. | MED-C22-45 |
+| ACR criteria for PAN include weight loss >4 kg, livedo reticularis, testicular pain/tenderness, mono/polyneuropathy, diastolic BP >90, elevated BUN/creatinine, HBV, arteriographic abnormality and polymorphonuclear neutrophils on biopsy. | MED-C22-46 |
+| Cutaneous PAN involves small arteries/arterioles, spares venules and is non-progressive. | MED-C22-47 |
+| PAN investigation lists MR angiogram as first investigation and conventional angiography as DOC. | MED-C22-48 |
+| The note states ADA-2 deficiency in children resembles PAN. | MED-C22-49 |
+
+Unasked points: **none found**.
+
+### Book p508 / 02 PDF41
+
+| Printed point / call-out | Question |
+|---|---|
+| The treatment flowchart gives hepatitis B positive as steroid, antiviral and plasma exchange with good prognosis, and negative as steroid plus cyclophosphamide with poor prognosis. | MED-C22-50 |
+| The table comments note asthma and eosinophilia in CSS and peripheral nervous system involvement often prominent in CSS. | MED-C22-51 |
+| The differential table shows WG with high pulmonary infiltrates/nodules, alveolar hemorrhage, glomerulonephritis and upper airway disease; the comment says ENT disease usually favors WG. | MED-C22-52 |
+
+Unasked points: **none found**.
+
+### Book p509 / 02 PDF42
+
+| Printed point / call-out | Question |
+|---|---|
+| The comparison table shows ANCA vasculitis is ANCA positive with immune-complex deposits negative, while immune-complex mediated vasculitis is ANCA negative with deposits present. | MED-C23-01 |
+| The immune-complex mediated biopsy row lists leukocytoclasis with fragmented neutrophils/neutrophilic debris. | MED-C23-02 |
+| Primary immune-complex mediated small-vessel vasculitis list includes HSP, CAV, HUV with anti-C1q positivity and Goodpasture syndrome. | MED-C23-03 |
+| Secondary immune-complex mediated vasculitis is listed under SLE, RA, drugs and infections. | MED-C23-04 |
+| Single-organ vasculitis is cutaneous leukocytoclastic angiitis, involving only skin and AKA hypersensitive vasculitis. | MED-C23-05 |
+
+Unasked points: **none found**.
+
+### Book p510 / 02 PDF43
+
+| Printed point / call-out | Question |
+|---|---|
+| The pathogenesis diagram shows small immune complexes not effectively cleared by RES, leading to complement activation and neutrophil recruitment in small vessels of superficial capillary dermis. | MED-C23-06 |
+| Cutaneous palpable purpura is explicitly labelled the most characteristic skin lesion. | MED-C23-07 |
+| The HSP section states AKA IgA vasculitis. | MED-C23-08 |
+| HSP is most common in children around 5 years, boys; non-thrombocytopenic palpable purpura in a child is HSP unless proven otherwise, symmetrical on extensor lower limbs especially buttocks and occurring in crops. | MED-C23-09 |
+
+Unasked points: **none found**.
+
+### Book p511 / 02 PDF44
+
+| Printed point / call-out | Question |
+|---|---|
+| Joint involvement occurs in 70%, 15% initially present with joint symptoms, and features are KLNNO: knee predominant, large joint, migratory, non-deforming oligoarthritis. | MED-C23-10 |
+| GIT involvement is 50%; complications include hemorrhage, bowel ischemia, scrotal swelling and intussusception, specifically ileoileal as most dangerous. | MED-C23-11 |
+| HSP renal involvement is 20–50%, with asymptomatic microhematuria; adults can have type 2 RPGN, ESRD risk and high relapse rate. | MED-C23-12 |
+| ACR criteria shown are palpable purpura, age at onset <20 years, bowel angina and biopsy with vessel wall granulocytes. | MED-C23-13 |
+| Treatment is supportive care because HSP is self-limiting with no disease/recurrence treatment; steroids are for severe joint/GIT symptoms or adult HSP with RPGN. | MED-C23-14 |
+
+Unasked points: **none found**.
+
+### Book p512 / 02 PDF45
+
+| Printed point / call-out | Question |
+|---|---|
+| Cryoglobulins are immunoglobulins that precipitate in cold and dissolve on rewarming. | MED-C23-15 |
+| Cryoglobulinemia pathogenesis shows increased production of immunoglobulins adhering to small vessel surfaces more than medium vessels and is seen in middle-aged elderly females. | MED-C23-16 |
+| Type 1 cryoglobulinemia is monoclonal IgG/IgM kappa or lambda, RF negative, with multiple myeloma and Waldenstrom macroglobulinemia including IgM and hyperviscosity symptoms. | MED-C23-17 |
+| Mixed cryoglobulinemia is type 2 plus type 3; type 2 is associated with hepatitis C in 90% and Sjogren/SLE. | MED-C23-18 |
+| Extrahepatic HCV manifestations listed are porphyria cutanea tarda and lichen planus. | MED-C23-19 |
+| Cryoglobulinemia manifestations include non-thrombocytopenic palpable purpura, ulcers/gangrene due to medium-vessel involvement in HCV-positive disease, arthralgia similar to SLE, HCV GIT involvement and MPGN. | MED-C23-20 |
+
+Unasked points: **none found**.
+
+### Book p513 / 02 PDF46
+
+| Printed point / call-out | Question |
+|---|---|
+| The neurology note states mononeuritis multiplex is medium vessel and small fibre neuropathy is small vessel. | MED-C23-21 |
+| The triangle labels Meltzer triad as purpura, arthralgia and myalgia or weakness. | MED-C23-22 |
+| Investigations list direct immunofluorescence showing IgG/IgM and cryocrit with decreased C3/C4. | MED-C23-23 |
+| The treatment branch for type 1 high IgM lists PLEX, steroid and cyclophosphamide. | MED-C23-24 |
+| For type 2/3, HCV positive leads to treating HCV; HCV negative leads to rituximab. | MED-C23-25 |
+| The bottom note states increased risk of conversion to DLBCL, diffuse large B-cell lymphoma. | MED-C23-26 |
+
+Unasked points: **none found**.
+
+### Book p514 / 02 PDF47
+
+| Printed point / call-out | Question |
+|---|---|
+| Variable vessel vasculitis types are Behcet disease and Cogan syndrome. | MED-C24-01 |
+| The Behcet section notes it was previously classified under large-vessel vasculitis. | MED-C24-02 |
+| The comparison table lists Takayasu panarteritis with lymphocyte predominance and granulomas, while Behcet has panarteritis, non-necrotizing inflammation without fibrinoid necrosis/RBC extravasation, panniculitis, obliterative phlebitis, neutrophils and absent granulomas. | MED-C24-03 |
+| The note states differential diagnosis for obliterative phlebitis is IgG4 disease. | MED-C24-04 |
+| The arteritis-without-granuloma column lists Behcet disease and MPA; the granuloma column lists large-vessel vasculitis, GPA, EGPA, rheumatoid vasculitis and Cogan syndrome. | MED-C24-05 |
+| Risk factors list HLA-B51 as associated with Behcet disease, with other HLA-A26, HLA-B27 and HLA-B57. | MED-C24-06 |
+
+Unasked points: **none found**.
+
+### Book p515 / 02 PDF48
+
+| Printed point / call-out | Question |
+|---|---|
+| Pathophysiology is T-cell mediated inflammation, Th1 greater than Th17. | MED-C24-07 |
+| Factors expressed include ASCA antibody, anti-selenium binding protein, anti-enolase, MICA gene and ER aminopeptidase. | MED-C24-08 |
+| The note states ASCA antibody is also found in Crohn disease and GIT manifestations are similar. | MED-C24-09 |
+| Behcet disease most affected age group is 30–50 years, severe disease occurs in young males and it is chronic relapsing multisystem autoimmune disease. | MED-C24-10 |
+| The clinical manifestations line explicitly states Behcet spares the kidney. | MED-C24-11 |
+| The note says pulmonary artery vasculitis/aneurysm is seen in Takayasu arteritis and Behcet disease. | MED-C24-12 |
+| The International criteria column states diagnosis is established by score ≥4. | MED-C24-13 |
+| The table assigns 2 points each to oral aphthosis, genital aphthosis and ocular lesions. | MED-C24-14 |
+
+Unasked points: **none found**.
+
+### Book p516 / 02 PDF49
+
+| Printed point / call-out | Question |
+|---|---|
+| Oral aphthous ulcers are mandatory/pathognomonic, recurrent ≥3 times/year painful ulcers, commonly at lips, buccal mucosa, tongue and soft palate. | MED-C24-15 |
+| The page notes to rule out HIV during diagnosis of ulcer. | MED-C24-16 |
+| Behcet genital ulcers most commonly involve scrotum and labia; they are deep, painful, less recurrent, heal with scarring and spare glans penis/urethra. | MED-C24-17 |
+| Pathergy test is hypersensitivity to long scratch/intradermal saline injection, oblique skin puncture using a 25-gauge needle, with papule/pustule and erythema after 24–48 hours. | MED-C24-18 |
+| The pathergy test is described as low sensitivity 60% and high specificity 80%. | MED-C24-19 |
+| Cutaneous manifestations include all types of skin lesions and list papulopustular lesions as most common. | MED-C24-20 |
+
+Unasked points: **none found**.
+
+### Book p517 / 02 PDF50
+
+| Printed point / call-out | Question |
+|---|---|
+| The note states erythema nodosum in sarcoidosis has all P's except pigmentation. | MED-C24-21 |
+| Ophthalmic table: characteristic feature is chronic relapsing bilateral panuveitis; Behcet has retinal vasculitis and hypopyon, and chamber involvement PC > AC, while sarcoidosis has AC > PC. | MED-C24-22 |
+| Behcet joint manifestation is asymmetrical non-erosive oligoarthritis. | MED-C24-23 |
+| Warning signs include vascular thrombosis, GI involvement resembling Crohn disease, CNS involvement and very rare cardiac involvement. | MED-C24-24 |
+| CNS involvement is under influence of IL-6 and types listed are vascular, parenchymal and brainstem encephalitis. | MED-C24-25 |
+| Sweet syndrome is acute febrile neutrophilic dermatosis and is stated to be only seen in Behcet. | MED-C24-26 |
+| MAGIC syndrome is mouth and genital ulcers with inflamed cartilage, a combination of Behcet disease and relapsing polychondritis. | MED-C24-27 |
+
+Unasked points: **none found**.
+
+### Book p518 / 02 PDF51
+
+| Printed point / call-out | Question |
+|---|---|
+| Diagnosis section states it is a clinical diagnosis. | MED-C24-28 |
+| Skin lesions are predominantly neutrophilic with cutaneous leukocytoclastic vasculitis; immunoglobulins are mixed infiltrate IgG/IgM/C3. | MED-C24-29 |
+| The treatment table lists mucocutaneous disease as topical steroid plus PGE2 gel. | MED-C24-30 |
+| Severe mucocutaneous disease treatment is thalidomide plus methotrexate plus topical steroid. | MED-C24-31 |
+| Systemic treatment includes oral steroid prednisolone plus methotrexate or MMF; more severe disease uses MMF and less severe uses methotrexate. | MED-C24-32 |
+| Cogan syndrome age group is 20–30 years. | MED-C24-33 |
+| The Cogan triad shows aortitis, interstitial keratitis and vestibulitis with sensorineural hearing loss similar to Meniere disease, with less than 2 years shown between ocular and vestibular components. | MED-C24-34 |
+| Cogan clinical manifestations include fever with systemic manifestations and gaze-induced nystagmus. | MED-C24-35 |
+| The note says SNHL is also seen in Wegener granulomatosis. | MED-C24-36 |
+
+Unasked points: **none found**.
+
+### Book p519 / 02 PDF52
+
+| Printed point / call-out | Question |
+|---|---|
+| The approach lists articular versus periarticular, inflammatory versus non-inflammatory, axial versus peripheral, acute <6 weeks versus chronic >6 weeks, small versus large joints, upper/lower/combined involvement, symmetrical/asymmetrical involvement and number of joints. | MED-C25-01 |
+| The number-of-joints branch defines monoarthritis as 1 joint, oligoarthritis 1–4 joints and polyarthritis ≥5 joints. | MED-C25-02 |
+| Periarticular disease has localized point tenderness, pain away from the joint capsule along tendon/bony prominences and painful active movement against gravity. | MED-C25-03 |
+| Articular arthritis has deep diffuse pain, pain in the vicinity of the joint, both passive and active painful movements, and additional crepitation/locking/deformity/instability/swelling. | MED-C25-04 |
+| Inflammatory arthritis has early morning stiffness >45 minutes, relieved with activity and worsened by rest; synovial fluid WBC >2000 cells/µL is best to differentiate inflammatory versus non-inflammatory. | MED-C25-05 |
+| The note states the structure involved in RA is synovium and in OA is articular cartilage, with joint stiffness worsening with activity. | MED-C25-06 |
+
+Unasked points: **none found**.
+
+### Book p520 / 02 PDF53
+
+| Printed point / call-out | Question |
+|---|---|
+| Types based on predominant joints list peripheral predominant RA as peripheral joints plus C-spine. | MED-C25-07 |
+| The approach to inflammatory arthritis splits monoarthritis into septic arthritis and acute crystal arthropathy, which then branches to gout and pseudogout. | MED-C25-08 |
+| The erosive arthritis column includes RA, psoriatic arthritis, chronic crystal arthropathy, CTDs including mixed CTDs and sarcoidosis, multicentric reticulohistiocytosis and Rhupus. | MED-C25-09 |
+| The non-erosive column includes SLE/SLE-like arthritis, acute rheumatic fever Jaccoud arthropathy, relapsing polychondritis, Behcet disease and acute crystal arthropathies. | MED-C25-10 |
+| MAGIC syndrome is Behcet disease plus relapsing polychondritis, with mouth and genital ulcers and inflamed cartilage. | MED-C25-11 |
+
+Unasked points: **none found**.
+
+### Book p521 / 02 PDF54
+
+| Printed point / call-out | Question |
+|---|---|
+| Diagnosis of RA is based on duration of symptoms greater than 6 weeks. | MED-C26-01 |
+| 0–3 months is labelled very early rheumatoid arthritis. | MED-C26-02 |
+| More than 2 years is labelled chronic stabilized rheumatoid arthritis with deformities. | MED-C26-03 |
+| RA is described as the most common multisystem autoimmune inflammatory CTD with arthritis/arthralgia and chronic inflammatory symmetrical peripheral polyarthritis. | MED-C26-04 |
+| Upper-limb RA involves PIP, MCP and rarely elbow; spared joints include DIP due to least synovium and 1st CMC. | MED-C26-05 |
+| RA lower limb involves 5th MTP and rarely knee, spares 1st MTP; axial skeleton involves C1-C2 and spares thoracic, lumbar and sacral vertebrae. | MED-C26-06 |
+| The page states 40% of RA patients have extra-articular manifestations, with rheumatoid nodule most common. | MED-C26-07 |
+| The DIP note lists psoriatic arthritis, osteoarthritis as the most common arthritis, multicentric reticulohistiocytosis and calcium pyrophosphate dihydrate disease. | MED-C26-08 |
+
+Unasked points: **none found**.
+
+### Book p522 / 02 PDF55
+
+| Printed point / call-out | Question |
+|---|---|
+| The RA pathogenesis diagram starts with genetics plus environment, abnormal protein modification such as citrullination/carbamylation, detection as antigen by Langerhans dendritic cells and DC-T interaction. | MED-C26-09 |
+| The diagram labels TNF-alpha as the key pathogenic cytokine. | MED-C26-10 |
+| The normal joint progresses to chronic synovitis with synovial hypertrophy, pannus and periarticular erosion/osteopenia. | MED-C26-11 |
+| TNF-alpha activates osteoclast via RANK ligand pathway and inhibits osteoblast via Dkk-1, leading to osteoporosis. | MED-C26-12 |
+| HLA DRB1-04 is listed in 70%, increases risk five times and has shared epitope QKRAA motif. | MED-C26-13 |
+| The genetic HLA list notes DR-13 is associated with protection. | MED-C26-14 |
+
+Unasked points: **none found**.
+
+### Book p523 / 02 PDF56
+
+| Printed point / call-out | Question |
+|---|---|
+| PADI-4 is peptidyl arginine deiminase IV, post-translationally modifying arginine to citrulline and is seen in Asian populations. | MED-C26-15 |
+| PTPN22 is specifically noted as not seen in the Asian population. | MED-C26-16 |
+| Smoking is the strongest environmental risk factor, increases PADI-4 expression in airway and increases risk for ILD with bad prognosis. | MED-C26-17 |
+| Protective environmental factors listed are alcohol and OCP. | MED-C26-18 |
+| Other factors list females > males 3:1, most common presentation in males as ILD/vasculitis, and infection Porphyromonas gingivalis chronic periodontitis. | MED-C26-19 |
+| Pregnancy is listed as increased IL-10 inducing remission. | MED-C26-20 |
+| The risk-prediction flow shows acute inflammatory polyarthritis at 6 weeks: persistent goes to undifferentiated arthritis and reduced goes to post-viral. | MED-C26-21 |
+| Undifferentiated arthritis branches into one-third remission, one-third persistent/progress to other disease and one-third evolve to RA. | MED-C26-22 |
+
+Unasked points: **none found**.
+
+### Book p524 / 02 PDF57
+
+| Printed point / call-out | Question |
+|---|---|
+| The predicted-risk score lists age, female, joint distribution, swollen joints, tender joints, CRP, rheumatoid factor and anti-CCP antibody. | MED-C26-23 |
+| The page states if score >8 there is >80% chance to progress to RA. | MED-C26-24 |
+| Anti-CCP/ACPA/MCV is used for diagnostic purpose and not repeated, specificity >90%, best marker for preclinical infection and high titre suggests extra-articular manifestations. | MED-C26-25 |
+| RF specificity is 75–80%, it is a marker of preclinical infection and extra-articular manifestations, and is nonspecific in cryoglobulinemia, Sjogren, JIA, 5% normal population, infections and other diseases. | MED-C26-26 |
+| RF antibodies are shown as IgM most common against IgG Fc, with IgA in Caplan syndrome. | MED-C26-27 |
+| For relapse, the page lists CRP and ESR. | MED-C26-28 |
+| The clinical manifestation section begins with chronic inflammatory symmetric peripheral polyarthritis and notes insidious presentation in 55–65% as most common. | MED-C26-29 |
+
+Unasked points: **none found**.
+
+### Book p525 / 02 PDF58
+
+| Printed point / call-out | Question |
+|---|---|
+| Elderly RA is >60 years, acute destructive polyarthritis with painful erosions and mimics PMR with shoulder/pelvic pain, increased ESR and periarticular enthesitis/bursitis. | MED-C26-30 |
+| Arthritis robustus is described as minimal symptoms, blissfully unaware, with erosions on X-ray. | MED-C26-31 |
+| Palindromic rheumatism occurs in young girls, acute episodic monoarthritis with complete resolution and later other joints, anti-CARP positive, with 30% progressing to RA. | MED-C26-32 |
+| The deformities triangle is labelled synovitis, tendinitis and bursitis. | MED-C26-33 |
+| Zig-zag deformity is the first change and includes wrist radial deviation, MCP ulnar deviation plus subluxation and interphalangeal joints extended. | MED-C26-34 |
+| Piano-key deformity is due to rupture of the ulnar collateral ligament and deformity of the ulnar styloid. | MED-C26-35 |
+| Hitchhiker thumb is a Z-shaped deformity with abduction and hyperextension of the thumb. | MED-C26-36 |
+| Trigger finger is listed as tenosynovitis. | MED-C26-37 |
+
+Unasked points: **none found**.
+
+### Book p526 / 02 PDF59
+
+| Printed point / call-out | Question |
+|---|---|
+| Swan-neck deformity has hyperextended PIP, flexion of DIP and rupture of FDS tendon. | MED-C26-38 |
+| Boutonniere deformity is flexion of PIP and hyperextension of DIP due to synovitis of PIP causing subluxation of the lateral band. | MED-C26-39 |
+| Opera glass hand deformity is labelled arthritis mutilans. | MED-C26-40 |
+| Vaughan-Jackson syndrome is impaired medial extensor tendons. | MED-C26-41 |
+| Intrinsic plus deformity is tightness of intrinsic muscles, hyperflexion of MCP and extension of interphalangeal joints. | MED-C26-42 |
+| The note states pointing index finger is median nerve palsy. | MED-C26-43 |
+
+Unasked points: **none found**.
+
+### Book p527 / Missing from supplied scan
+
+| Printed point / call-out | Question |
+|---|---|
+| The RA pulmonary row includes interstitial lung disease, pleural effusion, rheumatoid lung nodules and Caplan syndrome. | MED-C26-44 |
+| The pulmonary row notes rheumatoid lung nodules, usually upper lobe, and Caplan syndrome as rheumatoid nodules plus pneumoconiosis. | MED-C26-45 |
+| The pulmonary row describes rheumatoid interstitial lung disease with organizing pneumonia/BOOP and lower-lobe peripheral reticular shadowing. | MED-C26-46 |
+| The table note states worst prognosis is rheumatoid lung disease. | MED-C26-47 |
+| The page expands BOOP as bronchiolitis obliterans organizing pneumonia. | MED-C26-48 |
+
+Unasked points: **none found**.
+
+### Book p528 / 02 PDF60
+
+| Printed point / call-out | Question |
+|---|---|
+| RA CNS row lists normal cognitive function and C1-C2 atlantoaxial subluxation with acute-onset quadriparesis and erosion of odontoid process; SLE lists cognitive decline as most common. | MED-C26-49 |
+| The ocular row notes keratoconjunctivitis sicca symptoms RA > SLE and no uveitis. | MED-C26-50 |
+| Episcleritis is most common, seen with increased activity and not associated with visual loss. | MED-C26-51 |
+| Scleritis causes granulomatous resorption leading to scleromalacia perforans and visual loss. | MED-C26-52 |
+| The vascular/cardiovascular area lists accelerated atherosclerosis as MI equivalent and APS. | MED-C26-53 |
+| RA vasculitis is associated with history of smoking, men>women, long-standing radiodamage, RF positivity, low complements, and small vessel more than medium vessel involving muscular arteries in dermis. | MED-C26-54 |
+| The RA vasculitis row notes ulcers and digital gangrene with instruction to start rituximab. | MED-C26-55 |
+| The SLE vascular column lists mesenteric vasculitis and CNS vasculitis with mononeuritis multiplex. | MED-C26-56 |
+| The hematologic row lists anemia of chronic disease as most common cause of anemia, warm antibody autoimmune hemolytic anemia, secondary immune thrombocytopenic purpura with thrombocytosis, and SLE leukopenia. | MED-C26-57 |
+
+Unasked points: **none found**.
+
+### Book p529 / 02 PDF61
+
+| Printed point / call-out | Question |
+|---|---|
+| Felty syndrome is RA with neutropenia and splenomegaly, long-standing deformities, RF positive, HLA DRB1-04, nodules present and antibody against citrullinated histones. | MED-C26-58 |
+| The row notes increased risk of conversion to DLBCL and LGL, large granular lymphocytic leukemia. | MED-C26-59 |
+| RA cardiovascular row lists pericarditis without tamponade as most common CVS cause, mitral regurgitation as most common valvular heart disease, and ACS as most common cause of death. | MED-C26-60 |
+| The endocrine row lists osteoporosis and hypoadrenalism; skin row lists rheumatoid nodule and pyoderma gangrenosum. | MED-C26-61 |
+
+Unasked points: **none found**.
+
+### Book p530 / 02 PDF62
+
+| Printed point / call-out | Question |
+|---|---|
+| Management states newly diagnosed RA should achieve remission/low disease activity on treatment. | MED-C26-62 |
+| Best response to treatment is stated as <3 months in very early rheumatoid arthritis. | MED-C26-63 |
+| The conventional DMARD table pairs methotrexate with increased adenosine levels. | MED-C26-64 |
+| Leflunomide is listed as a dihydroorotate dehydrogenase inhibitor and pyrimidine pathway blocker. | MED-C26-65 |
+| Hydroxychloroquine is paired with toll-like receptor inhibitor. | MED-C26-66 |
+| Among anti-TNF-alpha biological agents, etanercept is noted as a fusion molecule with least side effect. | MED-C26-67 |
+| The biologic list pairs anti-CD20 with rituximab, anti-IL-1 with anakinra unavailable in India, anti-IL-6 with tocilizumab and fusion CTLA4-FcIgG with abatacept. | MED-C26-68 |
+| Small-molecule oral JAK inhibitors list tofacitinib as 1/3 inhibitor and baricitinib as 1/2 inhibitor. | MED-C26-69 |
+
+Unasked points: **none found**.
+
+### Book p531 / 02 PDF63
+
+| Printed point / call-out | Question |
+|---|---|
+| The algorithm shows bridge therapy with steroid for active inflammation because action of DMARDs starts by 6–8 weeks. | MED-C26-70 |
+| First-line methotrexate is printed as 5 mg to 20 mg weekly for 3 months. | MED-C26-71 |
+| Methotrexate complications list mucositis as most common, with oral ulcers and hair loss. | MED-C26-72 |
+| Liver failure is marked the most dangerous methotrexate complication; monitor LFT and stop if enzymes are elevated >4 times. | MED-C26-73 |
+| The Boolean definition of remission lists tender joints ≤1, swollen joints ≤1, C-reactive protein ≤1 and patient global assessment ≤1. | MED-C26-74 |
+| The adequate-response branch directs continuing methotrexate. | MED-C26-75 |
+| The MTX plus sulfasalazine branch lists sulfasalazine 500 mg BD/TDS with maximum 2 g. | MED-C26-76 |
+| The sulfasalazine branch includes G6-PD deficiency. | MED-C26-77 |
+| The branch lists HCQ 5 mg/kg, corneal complication as most common and retinal complication as most dangerous, specifically bull's-eye maculopathy. | MED-C26-78 |
+| The anti-TNF branch lists increased risk of infection, malignancy, hepatitis B and TB reactivation. | MED-C26-79 |
+| The JAK inhibitor branch lists less costly, most preferred, cardiac toxicity and hyperlipidemia. | MED-C26-80 |
+
+Unasked points: **none found**.
+
 ## Post-build verification
 
-- `python3 build_content.py` embedded 847 questions / 87 units / 20 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 1096 questions / 102 units / 26 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 847 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1096 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
+
+## Gate summary
+
+Live chapter artifacts present: **26/57**. Embedded question total after build: **1096**; units: **102**. Ledger points: **1204**. Unasked points: **NONE** in the visually recorded inventory.
 

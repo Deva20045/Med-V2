@@ -150,3 +150,7 @@ Source SHA-256: `8d4150718da72508ad6dff6f90792b2bdec656678b240bea7e1b0d2525e6b0d
 | 26 | 493 | Book content |
 
 Chapters 17–20 were authored from this mapping: Ch16 p458–465 (01.pdf PDF94–101), Ch17 p466–469 (01.pdf PDF102–103 + 02.pdf PDF1–2), Ch18 p470–476 (02.pdf PDF3–9), Ch19 p477–483 (02.pdf PDF10–16), Ch20 p484–490 (02.pdf PDF17–23). Chapter 21 begins at p491 (02.pdf PDF24), which is outside the current release.
+
+## Merge-time source-map correction
+
+Spot checks of the 2× renders found PDF59 = printed p526, PDF60 = p528, PDF61 = p529, PDF62 = p530, PDF63 = p531, and PDF64 = p532. Printed p527 is absent from the supplied scan. Do not extrapolate the earlier offset past p526. The five upstream Chapter 26 questions citing p527 are retained unchanged, but source verification for them remains unresolved. Chapters 16–20 are unaffected.

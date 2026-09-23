@@ -73,7 +73,7 @@ def validate_ledger(chapters, ledger):
     indexed = {q['id']: q for c in chapters for q in c['questions']}
     seen_points = set()
     covered = []
-    audited_chapters = tuple(range(2, 21))
+    audited_chapters = tuple(range(2, 27))
     for row in ledger:
         require(row['chapter'] in audited_chapters, 'ledger: unexpected chapter')
         require(row['question'] in indexed, f"ledger: unknown {row['question']}")

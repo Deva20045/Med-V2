@@ -22,7 +22,7 @@ for n in range(1, 58):
 live = {c["chapter"] for c in chapters_data}
 total_q = sum(len(c["questions"]) for c in chapters_data)
 total_u = sum(len(c["units"]) for c in chapters_data)
-release = [c for c in chapters_data if 16 <= c["chapter"] <= 20]
+release = [c for c in chapters_data if 16 <= c["chapter"] <= 26]
 release_q = sum(len(c["questions"]) for c in release)
 release_u = sum(len(c["units"]) for c in release)
 release_pages = sum(
@@ -37,10 +37,10 @@ out.append("- Session branch: `arena/01a0cd13-med-v2`")
 out.append("- Published URL: https://deva20045.github.io/Med-V2/")
 out.append("- Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.")
 out.append(f"- **Build status: {len(live)} live chapters / 57 · {total_q} questions / {total_u} units.** "
-           "Chapters 21–57 remain `live:false`.\n")
+           f"Chapters {min(27, max(live) + 1)}–57 remain `live:false`.\n")
 
-out.append("## This release — Chapters 16–20\n")
-out.append("Five consecutive rheumatology chapters were rendered from the scans, read block by block, "
+out.append("## This release — Chapters 16–26\n")
+out.append("Eleven consecutive rheumatology chapters were rendered from the scans, read block by block, "
            "source-ordered and made live:\n")
 out.append("| Ch | Title | Printed pages | Questions | Units |")
 out.append("|---:|---|---:|---:|---:|")
@@ -51,16 +51,16 @@ out.append(f"| **Release total** |  | **{release_pages} pages** | **{release_q}*
 
 out.append("### Quality and ordering contract delivered\n")
 out.append("1. All pages were read in printed order (`uploads/01.pdf` PDF94–103 = Book p458–467 and "
-           "`uploads/02.pdf` PDF1–23 = Book p468–490), including flowchart arms, comparison tables, numeric "
+           "`uploads/02.pdf` PDF1–63 = Book p468–531; printed p527 is absent), including flowchart arms, comparison tables, numeric "
            "thresholds, morphology images, rotated annotations, notes, management ladders and drug doses.")
 out.append(f"2. Every source-mapped learning target has a four-option, citation-backed question in "
-           f"`audit/coverage.json`; Chapters 16–20 add **{release_q} ordered mappings**, bringing the audited "
-           f"ledger to **{len(cov)} mappings** for Chapters 2–20. Every target is marked asked.\n"
+           f"`audit/coverage.json`; Chapters 16–26 add **{release_q} ordered mappings**, bringing the audited "
+           f"ledger to **{len(cov)} mappings** for Chapters 2–26. Every target is marked asked.\n"
            "   Chapters 16–20 are unusually dense (a six-class lupus-nephritis table, the weighted EULAR/ACR domain "
            "table, two management ladders with doses, four antibody-to-organ tables and three comparison tables), so "
            "the block-by-block inventory resolved into more discrete printed points than the 120–150 planning "
            "estimate; no point was dropped to meet a round number.")
-out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–20. "
+out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–26. "
            "Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating "
            "odd-one-out cases use plausible medical distractors.")
 out.append("4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question "
@@ -69,7 +69,7 @@ out.append("4. IDs are sequential, question arrays remain strictly nondecreasing
 out.append("5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are "
            "retained as book-study material and qualified in the audit; they are not a replacement for current "
            "local clinical guidance.")
-out.append("6. Chapters 16–20 are embedded in the standalone app and all twenty roadmap flags are live.\n")
+out.append(f"6. Chapters 16–26 are embedded in the standalone app and all {len(live)} roadmap flags are live.\n")
 out.append("Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), "
            "[machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) "
            "and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).\n")
@@ -97,14 +97,15 @@ out.append("- **PDF102–103 + 02.pdf PDF1–2: p466–469 (Ch17)**")
 out.append("- **02.pdf PDF3–9: p470–476 (Ch18)**")
 out.append("- **02.pdf PDF10–16: p477–483 (Ch19)**")
 out.append("- **02.pdf PDF17–23: p484–490 (Ch20)**")
-out.append("- 02.pdf PDF24 onward: p491+ (Ch21 onward, not yet live)\n")
+out.append("- **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**")
+out.append("- 02.pdf PDF64 onward: p532+ (Ch27 onward, not yet live)\n")
 
 out.append("## Schema and order contract\n")
 out.append("- Chapter: exact roadmap number/title, `pageRange` starts at the roadmap page, nonempty `questions` and `units`.")
 out.append("- Question: sequential `MED-C<N>-<seq>` ID; section/page/format/stem; exactly four unique options; one answer; explanation ending exactly `(Book pX)` matching `page`.")
 out.append("- Units: sequential `MED-U<N>-<n>` IDs; each has a 2–4-line guide; its IDs are rebuilt from exactly one section in original question order; flattened units equal the full chapter sequence.")
 out.append("- Questions are in printed book-page order; all printed pages in every live chapter are represented.")
-out.append("- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–20, in exact question order and with matching book page.")
+out.append("- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–26, in exact question order and with matching book page.")
 out.append("- Questions are educational book-study material, not a substitute for current clinical guidelines or patient care.\n")
 
 out.append("## Build, audit and test workflow\n")
@@ -112,7 +113,8 @@ out.append("```sh")
 out.append("# Generate/edit chapter artifacts only when source artefacts need regeneration.")
 out.append("python3 tools/generate_ch09_15.py        # Chapters 9-15")
 out.append("python3 tools/generate_ch16_20.py        # Chapters 16-20")
-out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-20)")
+out.append("python3 tools/generate_ch21_26.py        # Chapters 21-26")
+out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-20, Ch21-26)")
 out.append("python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md")
 out.append("")
 out.append("# Fail-closed source gate, standalone-app build, and embedded-array gate.")

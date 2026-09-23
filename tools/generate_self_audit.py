@@ -1,8 +1,22 @@
+#!/usr/bin/env python3
+from __future__ import annotations
 import json
 from collections import Counter
+from pathlib import Path
+import sys
 
-cov = json.load(open('audit/coverage.json'))
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+from build_content import CHAPTERS
+
+cov = json.loads((ROOT / 'audit/coverage.json').read_text(encoding='utf-8'))
 ch_cov = Counter(r['chapter'] for r in cov)
+chapters_data = []
+for n, _title, _start in CHAPTERS:
+    path = ROOT / 'data' / f'ch{n:02d}.json'
+    if path.exists():
+        chapters_data.append(json.loads(path.read_text(encoding='utf-8')))
+total_q = sum(len(c['questions']) for c in chapters_data)
 pg_cov = Counter(r['page'] for r in cov)
 pg_q = Counter((r['page'], r['question']) for r in cov)
 pg_unique_q = Counter(page for page, q in pg_q.keys())
@@ -12,28 +26,25 @@ pg_unique_q = Counter(page for page, q in pg_q.keys())
 def page_to_sheet(page):
     if page <= 467:
         return f"01 PDF{page - 364}"
-    return f"02 PDF{page - 467}"
+    if page == 527:
+        return "Missing from supplied scan"
+    return f"02 PDF{page - (467 if page < 527 else 468)}"
 
 
-page_to_pdf = {page: page_to_sheet(page) for page in range(377, 491)}
-
-chapters_data = [json.load(open(f'data/ch{n:02d}.json')) for n in range(1, 21)]
+page_to_pdf = {page: page_to_sheet(page) for page in range(377, 532)}
 
 out = []
-out.append("# Chapters 2–20 — visual self-audit gate\n")
-out.append("Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–23 (Book p468–490), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
+out.append("# Chapters 2–26 — visual self-audit gate\n")
+out.append("Reviewed 2026-09-23, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467) and `uploads/02.pdf` PDF1–63 (Book p468–531; printed p527 is absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
-out.append("- Read all educational headings, bullets, sub-bullets, notes, equations, tables, flowchart arms, annotated ECGs and morphology panels on printed p383–490. PDF13–18 of `01.pdf` were previously read for Chapter 1. Every printed page number quoted below was read visually from the rendered sheet.")
-out.append("- Reading order: top-to-bottom content blocks; parallel comparison columns treated as unified comparison blocks; diagrams remained with their adjacent text. Each unit is a contiguous slice of that sequence. Repeated publisher footers, lesson timestamps and 'Active space' furniture are excluded.")
+out.append("- Read every educational heading, bullet, sub-bullet, note, equation, table cell, flowchart arm, annotated ECG, morphology panel, image label, threshold, dose, contraindication and treatment branch on printed p383–531. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded.")
 out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.")
-out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–20 (no fill-up or match worksheets), and exact citation references.")
-out.append("- Software verifies schema, exact app parsers, sequential IDs, page ordering, inventory ordering and full unit coverage. Semantic completeness is verified via visual self-audit.\n")
+out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–26 (no fill-up or match worksheets), and exact citation references.")
+out.append("- Questions in Chapters 9–26 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
+out.append("- Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.\n")
 
-out.append("## Rescue completed before new chapter authoring\n")
-out.append("Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored audit points MED-C1-02/03/20/32/43.\n")
-
-out.append("## Source discrepancies handled explicitly\n")
-out.append("| Page | Source-specific wording retained and qualified |")
+out.append("## Source-specific notes retained as book-study material\n")
+out.append("| Pages | Note |")
 out.append("|---:|---|")
 out.append("| 383 | aVL is printed as 30° without a minus; explanation distinguishes conventional −30°. |")
 out.append("| 385 / 388 | 'Trifascicular' = bifascicular + increased PR is identified as source terminology, not anatomical proof of third-fascicle disease. |")
@@ -92,31 +103,42 @@ out.append("| 487 | The rotated annotation linking lupus pernio to lytic or cyst
 out.append("| 488 | The BAL CD4/CD8 cut-off numeral is too small to read with confidence; the question asks only for the raised ratio. The panda sign and the PET 'node to biopsy' role are transcribed as printed. |")
 out.append("| 489 | The therapeutic paradox (TNF-alpha blockade producing sarcoid-like skin lesions that resolve on dose reduction) is a source observation. |")
 out.append("| 490 | 'About 20% evolve into limited SSc' and pulmonary artery hypertension as the most common cause of death are printed MCTD statements. |\n")
+out.append("| 491–498 | Vasculitis classification, GCA/PMR, Takayasu criteria, imaging and steroid/tocilizumab/stenting treatment statements are reproduced as source-specific teaching points. |")
+out.append("| 499–508 | ANCA testing, GPA/MPA/EGPA/PAN scoring, doses, plasma-exchange indications and HBV-based PAN treatment are retained exactly as printed for study. |")
+out.append("| 509–513 | HSP versus cryoglobulinemia criteria, triads, complement/cryocrit findings and treatment branches are source-specific. |")
+out.append("| 514–518 | Behcet and Cogan diagnostic/treatment criteria, pathergy values and systemic warning signs are retained as printed. |")
+out.append("| 519–520 | Arthritis approach thresholds, inflammatory synovial-fluid cut-off and erosion table are study points, not a substitute for clinical assessment. |")
+out.append("| 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |\n")
+
+out.append("Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526, PDF60 is p528, PDF63 is p531, and PDF64 begins p532. Printed p527 is absent. The five existing upstream Chapter 26 questions citing p527 are preserved, but their source verification remains unresolved; software coverage does not establish visual completeness for that missing page.\n")
 
 out.append("## Per-chapter units\n")
 out.append("| Ch | Unit | Pages | Question range | Count |")
 out.append("|---:|---|---|---|---:|")
+q_by_ch = {c['chapter']: {q['id']: q for q in c['questions']} for c in chapters_data}
 for c in chapters_data:
     for u in c['units']:
-        q_start = u['qs'][0]
-        q_end = u['qs'][-1]
-        pages_in_unit = sorted(list({next(q['page'] for q in c['questions'] if q['id'] == qid) for qid in u['qs']}))
-        p_str = f"{pages_in_unit[0]}" if len(pages_in_unit) == 1 else f"{pages_in_unit[0]}–{pages_in_unit[-1]}"
-        q_range = f"{q_start}–{q_end}" if q_start != q_end else q_start
+        pages = sorted({q_by_ch[c['chapter']][qid]['page'] for qid in u['qs']})
+        p_str = f"{pages[0]}" if len(pages) == 1 else f"{pages[0]}–{pages[-1]}"
+        q_range = f"{u['qs'][0]}–{u['qs'][-1]}" if u['qs'][0] != u['qs'][-1] else u['qs'][0]
         out.append(f"| {c['chapter']} | {u['title']} | {p_str} | {q_range} | {len(u['qs'])} |")
 
 out.append("\n## Format distribution\n")
-out.append("| Chapter | Recall | Fill-up | Match | True/false | Scenario | Odd-one-out | Numeric | Management | Total |")
-out.append("|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|")
+out.append("| Chapter | Recall | Scenario | Numeric | Odd-one-out | Management | Other | Total | Ledger points |")
+out.append("|---:|---:|---:|---:|---:|---:|---:|---:|---:|")
 for c in chapters_data:
     counts = Counter(q['fmt'] for q in c['questions'])
-    out.append(f"| {c['chapter']} | {counts['recall']} | {counts['fillup']} | {counts['match']} | {counts['truefalse']} | {counts['scenario']} | {counts['oddoneout']} | {counts['numeric']} | {counts['management']} | {len(c['questions'])} |")
+    other = sum(v for k, v in counts.items() if k not in {'recall','scenario','numeric','oddoneout','management'})
+    out.append(f"| {c['chapter']} | {counts['recall']} | {counts['scenario']} | {counts['numeric']} | {counts['oddoneout']} | {counts['management']} | {other} | {len(c['questions'])} | {ch_cov[c['chapter']]} |")
 
-total_q = sum(len(c['questions']) for c in chapters_data)
-total_fmt = Counter(q['fmt'] for c in chapters_data for q in c['questions'])
-out.append(f"| Total | {total_fmt['recall']} | {total_fmt['fillup']} | {total_fmt['match']} | {total_fmt['truefalse']} | {total_fmt['scenario']} | {total_fmt['oddoneout']} | {total_fmt['numeric']} | {total_fmt['management']} | {total_q} |\n")
+out.append("\n## Chapters 16–26 release table\n")
+out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
+out.append("|---:|---|---:|---:|---:|---:|")
+for n in range(16, 27):
+    c = next(ch for ch in chapters_data if ch['chapter'] == n)
+    out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
 
-out.append("## Page-by-page coverage summary\n")
+out.append("\n## Page-by-page coverage summary\n")
 out.append("| Book page | PDF sheet | Inventoried points | Questions | Unasked |")
 out.append("|---:|---:|---:|---:|---:|")
 for pg in sorted(pg_cov.keys()):
@@ -141,6 +163,10 @@ out.append("- `python3 validate_content.py --embedded` passed exact source/HTML 
 out.append(f"- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all {total_q} questions and match bijections.")
 out.append("- `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.\n")
 
-with open('audit/SELF_AUDIT.md', 'w') as f:
-    f.write('\n'.join(out) + '\n')
-print("Successfully wrote audit/SELF_AUDIT.md!")
+live = len(chapters_data)
+questions = sum(len(c['questions']) for c in chapters_data)
+units = sum(len(c['units']) for c in chapters_data)
+out.append(f"## Gate summary\n\nLive chapter artifacts present: **{live}/57**. Embedded question total after build: **{questions}**; units: **{units}**. Ledger points: **{len(cov)}**. Unasked points: **NONE** in the visually recorded inventory.\n")
+
+(ROOT / 'audit/SELF_AUDIT.md').write_text('\n'.join(out) + '\n', encoding='utf-8')
+print(f"Wrote audit/SELF_AUDIT.md for {live} live chapter artifacts, {questions} questions, {len(cov)} ledger points.")

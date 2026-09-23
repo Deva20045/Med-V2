@@ -1,0 +1,1329 @@
+{
+  "chapter": 26,
+  "title": "Rheumatoid Arthritis",
+  "pageRange": "521-531",
+  "questions": [
+    {
+      "id": "MED-C26-01",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "numeric",
+      "q": "What symptom duration is required for diagnosis of rheumatoid arthritis in the source?",
+      "opts": [
+        "Exactly 3 months only",
+        "More than 2 years only",
+        "More than 6 weeks",
+        "Less than 6 days"
+      ],
+      "ans": 2,
+      "exp": "Diagnosis of RA is based on duration of symptoms greater than 6 weeks. (Book p521)"
+    },
+    {
+      "id": "MED-C26-02",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "Which duration label is printed for 0–3 months of symptoms?",
+      "opts": [
+        "Late established rheumatoid arthritis",
+        "Chronic stabilized rheumatoid arthritis",
+        "Palindromic rheumatism",
+        "Very early rheumatoid arthritis"
+      ],
+      "ans": 3,
+      "exp": "0–3 months is labelled very early rheumatoid arthritis. (Book p521)"
+    },
+    {
+      "id": "MED-C26-03",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "Which duration label is printed for more than 2 years?",
+      "opts": [
+        "Chronic stabilized rheumatoid arthritis with deformities",
+        "Very early rheumatoid arthritis",
+        "Early established rheumatoid arthritis",
+        "Undifferentiated arthritis"
+      ],
+      "ans": 0,
+      "exp": "More than 2 years is labelled chronic stabilized rheumatoid arthritis with deformities. (Book p521)"
+    },
+    {
+      "id": "MED-C26-04",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "Which feature statement best matches RA at the chapter start?",
+      "opts": [
+        "Pure monoarthritis from crystal deposition",
+        "Most common multisystem autoimmune inflammatory connective tissue disease with arthritis/arthralgia and chronic inflammatory symmetrical peripheral polyarthritis",
+        "Self-limited IgA vasculitis of childhood",
+        "Large-vessel vasculitis with upper-limb claudication"
+      ],
+      "ans": 1,
+      "exp": "RA is described as the most common multisystem autoimmune inflammatory CTD with arthritis/arthralgia and chronic inflammatory symmetrical peripheral polyarthritis. (Book p521)"
+    },
+    {
+      "id": "MED-C26-05",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "Which upper-limb joints are involved in RA and which are spared according to the table?",
+      "opts": [
+        "Only shoulder and hip involved",
+        "Only sacroiliac joints involved",
+        "PIP, MCP and rare elbow involved; DIP and 1st CMC spared",
+        "DIP and 1st CMC involved; MCP spared"
+      ],
+      "ans": 2,
+      "exp": "Upper-limb RA involves PIP, MCP and rarely elbow; spared joints include DIP due to least synovium and 1st CMC. (Book p521)"
+    },
+    {
+      "id": "MED-C26-06",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "Which lower-limb and axial pattern is printed for RA?",
+      "opts": [
+        "1st MTP involved with 5th MTP spared; lumbar spine involved",
+        "Sacroiliac joint as the main involved site",
+        "Hip and shoulder root joints only",
+        "5th MTP and rare knee involved; 1st MTP spared; C1-C2 spine involved with thoracic/lumbar/sacral vertebrae spared"
+      ],
+      "ans": 3,
+      "exp": "RA lower limb involves 5th MTP and rarely knee, spares 1st MTP; axial skeleton involves C1-C2 and spares thoracic, lumbar and sacral vertebrae. (Book p521)"
+    },
+    {
+      "id": "MED-C26-07",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "Which extra-articular statement is printed at the end of the joint table?",
+      "opts": [
+        "40% of RA patients have extra-articular manifestations, most commonly rheumatoid nodules",
+        "Extra-articular disease never occurs in RA",
+        "All patients have rheumatoid lung first",
+        "Uveitis is the most common manifestation"
+      ],
+      "ans": 0,
+      "exp": "The page states 40% of RA patients have extra-articular manifestations, with rheumatoid nodule most common. (Book p521)"
+    },
+    {
+      "id": "MED-C26-08",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 521,
+      "fmt": "recall",
+      "q": "DIP involvement suggests which diseases in the RA note?",
+      "opts": [
+        "HSP and cryoglobulinemia",
+        "Psoriatic arthritis, osteoarthritis, multicentric reticulohistiocytosis and CPPD disease",
+        "RA alone",
+        "Takayasu and GCA"
+      ],
+      "ans": 1,
+      "exp": "The DIP note lists psoriatic arthritis, osteoarthritis as the most common arthritis, multicentric reticulohistiocytosis and calcium pyrophosphate dihydrate disease. (Book p521)"
+    },
+    {
+      "id": "MED-C26-09",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 522,
+      "fmt": "recall",
+      "q": "Which pathogenesis sequence is printed for RA initiation?",
+      "opts": [
+        "ANCA activates neutrophils after LPS only",
+        "ASCA causes pathergy directly",
+        "Genetics plus environment causes abnormal protein modification such as citrullination/carbamylation, antigen detection by Langerhans dendritic cells and T-cell interaction",
+        "Cryoglobulins precipitate in cold then dissolve on warming"
+      ],
+      "ans": 2,
+      "exp": "The RA pathogenesis diagram starts with genetics plus environment, abnormal protein modification such as citrullination/carbamylation, detection as antigen by Langerhans dendritic cells and DC-T interaction. (Book p522)"
+    },
+    {
+      "id": "MED-C26-10",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 522,
+      "fmt": "recall",
+      "q": "Which cytokine is labelled the key pathogenic cytokine in RA?",
+      "opts": [
+        "IL-5",
+        "Anti-C1q",
+        "IgM RF",
+        "TNF-alpha"
+      ],
+      "ans": 3,
+      "exp": "The diagram labels TNF-alpha as the key pathogenic cytokine. (Book p522)"
+    },
+    {
+      "id": "MED-C26-11",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 522,
+      "fmt": "recall",
+      "q": "How does pannus-related joint damage appear in the RA diagram?",
+      "opts": [
+        "Chronic synovitis with synovial hypertrophy forming pannus and periarticular erosion/osteopenia",
+        "Cartilage calcification without synovitis",
+        "Pure enthesitis without pannus",
+        "Aortic aneurysm formation"
+      ],
+      "ans": 0,
+      "exp": "The normal joint progresses to chronic synovitis with synovial hypertrophy, pannus and periarticular erosion/osteopenia. (Book p522)"
+    },
+    {
+      "id": "MED-C26-12",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 522,
+      "fmt": "recall",
+      "q": "Which pathway from TNF-alpha to osteoporosis is printed?",
+      "opts": [
+        "ASCA increases urate crystals",
+        "TNF-alpha activates osteoclast through RANK ligand pathway and inhibits osteoblast through Dkk-1",
+        "TNF-alpha blocks osteoclast and increases osteoblast",
+        "IL-10 directly erodes cartilage only"
+      ],
+      "ans": 1,
+      "exp": "TNF-alpha activates osteoclast via RANK ligand pathway and inhibits osteoblast via Dkk-1, leading to osteoporosis. (Book p522)"
+    },
+    {
+      "id": "MED-C26-13",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 522,
+      "fmt": "recall",
+      "q": "Which HLA factor is printed as major RA risk with shared epitope?",
+      "opts": [
+        "HLA-B27, bamboo spine risk",
+        "HLA-Cw6, psoriasis only",
+        "DRB1-04, 70%, fivefold risk, shared epitope QKRAA motif",
+        "HLA-B51, pathergy risk"
+      ],
+      "ans": 2,
+      "exp": "HLA DRB1-04 is listed in 70%, increases risk five times and has shared epitope QKRAA motif. (Book p522)"
+    },
+    {
+      "id": "MED-C26-14",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 522,
+      "fmt": "recall",
+      "q": "Which HLA factor is associated with protection in RA?",
+      "opts": [
+        "DRB1-04",
+        "HLA-B51",
+        "HLA-B52",
+        "DR-13"
+      ],
+      "ans": 3,
+      "exp": "The genetic HLA list notes DR-13 is associated with protection. (Book p522)"
+    },
+    {
+      "id": "MED-C26-15",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "recall",
+      "q": "Which non-HLA factor is seen in Asian populations and what does it do?",
+      "opts": [
+        "PADI-4 converts arginine to citrulline by post-translational modification",
+        "PTPN22 converts citrulline to arginine and is seen in Asians",
+        "ASCA causes erosive arthritis",
+        "Anti-C1q causes nodules"
+      ],
+      "ans": 0,
+      "exp": "PADI-4 is peptidyl arginine deiminase IV, post-translationally modifying arginine to citrulline and is seen in Asian populations. (Book p523)"
+    },
+    {
+      "id": "MED-C26-16",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "recall",
+      "q": "Which non-HLA factor is not seen in Asian population according to the source?",
+      "opts": [
+        "DR-13",
+        "PTPN22",
+        "PADI-4",
+        "DRB1-04"
+      ],
+      "ans": 1,
+      "exp": "PTPN22 is specifically noted as not seen in the Asian population. (Book p523)"
+    },
+    {
+      "id": "MED-C26-17",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "recall",
+      "q": "Which environmental factor is the strongest harmful RA risk factor and what does it increase?",
+      "opts": [
+        "OCP, increasing erosions",
+        "Pregnancy, worsening RA",
+        "Smoking, increasing PADI-4 expression in airway and ILD risk",
+        "Alcohol, increasing RA risk"
+      ],
+      "ans": 2,
+      "exp": "Smoking is the strongest environmental risk factor, increases PADI-4 expression in airway and increases risk for ILD with bad prognosis. (Book p523)"
+    },
+    {
+      "id": "MED-C26-18",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "recall",
+      "q": "Which environmental factors are protective in RA?",
+      "opts": [
+        "Smoking and silica",
+        "Porphyromonas gingivalis and silica",
+        "PTPN22 and PADI-4",
+        "Alcohol and oral contraceptive pills"
+      ],
+      "ans": 3,
+      "exp": "Protective environmental factors listed are alcohol and OCP. (Book p523)"
+    },
+    {
+      "id": "MED-C26-19",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "recall",
+      "q": "Which gender and infection statements are printed?",
+      "opts": [
+        "Females exceed males 3:1; male presentations more often include ILD and vasculitis; Porphyromonas gingivalis chronic periodontitis is linked",
+        "Males exceed females 9:1 with no infection link",
+        "Children are most affected and infection is HCV",
+        "Sex distribution is equal and periodontal disease is protective"
+      ],
+      "ans": 0,
+      "exp": "Other factors list females > males 3:1, most common presentation in males as ILD/vasculitis, and infection Porphyromonas gingivalis chronic periodontitis. (Book p523)"
+    },
+    {
+      "id": "MED-C26-20",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "recall",
+      "q": "What pregnancy effect is printed in RA?",
+      "opts": [
+        "Pregnancy causes pathergy positivity",
+        "Increased IL-10 induces remission",
+        "Pregnancy always worsens RA",
+        "Pregnancy causes PAN"
+      ],
+      "ans": 1,
+      "exp": "Pregnancy is listed as increased IL-10 inducing remission. (Book p523)"
+    },
+    {
+      "id": "MED-C26-21",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "numeric",
+      "q": "In the acute inflammatory polyarthritis risk-prediction flow, what happens at 6 weeks?",
+      "opts": [
+        "All patients remit permanently",
+        "All patients have septic arthritis",
+        "Persistent disease becomes undifferentiated arthritis; reduced disease becomes post-viral",
+        "All patients become RA"
+      ],
+      "ans": 2,
+      "exp": "The risk-prediction flow shows acute inflammatory polyarthritis at 6 weeks: persistent goes to undifferentiated arthritis and reduced goes to post-viral. (Book p523)"
+    },
+    {
+      "id": "MED-C26-22",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "page": 523,
+      "fmt": "numeric",
+      "q": "What are the three equal outcomes of persistent undifferentiated arthritis in the printed flow?",
+      "opts": [
+        "Half evolve to RA and half to OA",
+        "All progress to RA",
+        "Two-thirds become gout and one-third MPA",
+        "One-third remission, one-third persistent/progress to other disease, one-third evolve to RA"
+      ],
+      "ans": 3,
+      "exp": "Undifferentiated arthritis branches into one-third remission, one-third persistent/progress to other disease and one-third evolve to RA. (Book p523)"
+    },
+    {
+      "id": "MED-C26-23",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "recall",
+      "q": "Which variables are included in the printed score for predicted risk of RA?",
+      "opts": [
+        "Age, female sex, joint distribution, swollen joints, tender joints, CRP, rheumatoid factor and anti-CCP antibody",
+        "Only ESR and CRP",
+        "Only HLA-B27 and sacroiliitis",
+        "Only oral ulcers and pathergy"
+      ],
+      "ans": 0,
+      "exp": "The predicted-risk score lists age, female, joint distribution, swollen joints, tender joints, CRP, rheumatoid factor and anti-CCP antibody. (Book p524)"
+    },
+    {
+      "id": "MED-C26-24",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "numeric",
+      "q": "What does a predicted-risk score above 8 imply in the source?",
+      "opts": [
+        "Immediate diagnosis of gout",
+        "More than 80% chance to progress to RA",
+        "Less than 5% chance to progress",
+        "Diagnostic exclusion of RA"
+      ],
+      "ans": 1,
+      "exp": "The page states if score >8 there is >80% chance to progress to RA. (Book p524)"
+    },
+    {
+      "id": "MED-C26-25",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "recall",
+      "q": "Which anti-CCP/ACPA statement is printed?",
+      "opts": [
+        "Only used for relapse monitoring",
+        "IgM against IgA Fc",
+        "Used for diagnosis and not repeated; specificity >90%; best marker for preclinical infection; high titre suggests extra-articular manifestations",
+        "Specificity 75–80% and non-specific in 5% of normal population"
+      ],
+      "ans": 2,
+      "exp": "Anti-CCP/ACPA/MCV is used for diagnostic purpose and not repeated, specificity >90%, best marker for preclinical infection and high titre suggests extra-articular manifestations. (Book p524)"
+    },
+    {
+      "id": "MED-C26-26",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "recall",
+      "q": "Which rheumatoid factor statement is printed?",
+      "opts": [
+        "Specificity >99% and never occurs outside RA",
+        "IgA RF is most common and against IgG Fc",
+        "Used only for relapse, not diagnosis",
+        "Specificity 75–80%, marker of preclinical infection, suggests extra-articular manifestations and is nonspecific in several diseases and 5% normal population"
+      ],
+      "ans": 3,
+      "exp": "RF specificity is 75–80%, it is a marker of preclinical infection and extra-articular manifestations, and is nonspecific in cryoglobulinemia, Sjogren, JIA, 5% normal population, infections and other diseases. (Book p524)"
+    },
+    {
+      "id": "MED-C26-27",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "recall",
+      "q": "Which antibody detail is printed for rheumatoid factor?",
+      "opts": [
+        "IgM is most common against IgG Fc; IgA RF occurs in Caplan syndrome",
+        "IgG is most common against IgA Fc; IgM occurs only in SLE",
+        "IgE is most common against IgM Fc",
+        "RF is an anti-citrullinated peptide only"
+      ],
+      "ans": 0,
+      "exp": "RF antibodies are shown as IgM most common against IgG Fc, with IgA in Caplan syndrome. (Book p524)"
+    },
+    {
+      "id": "MED-C26-28",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "recall",
+      "q": "Which markers are printed for relapse?",
+      "opts": [
+        "Pathergy test only",
+        "CRP and ESR",
+        "Anti-CCP only",
+        "HLA-B51 only"
+      ],
+      "ans": 1,
+      "exp": "For relapse, the page lists CRP and ESR. (Book p524)"
+    },
+    {
+      "id": "MED-C26-29",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 524,
+      "fmt": "recall",
+      "q": "Which articular presentation is printed as most common in RA?",
+      "opts": [
+        "Axial spine pain relieved by rest",
+        "Migratory oligoarthritis in children only",
+        "Chronic inflammatory symmetric peripheral polyarthritis, insidious in 55–65%",
+        "Acute crystal monoarthritis"
+      ],
+      "ans": 2,
+      "exp": "The clinical manifestation section begins with chronic inflammatory symmetric peripheral polyarthritis and notes insidious presentation in 55–65% as most common. (Book p524)"
+    },
+    {
+      "id": "MED-C26-30",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "scenario",
+      "q": "An elderly patient over 60 has acute destructive painful erosive polyarthritis mimicking PMR with shoulder/pelvic pain, raised ESR and periarticular enthesitis/bursitis. Which RA variant is printed?",
+      "opts": [
+        "Arthritis robustus",
+        "Palindromic rheumatism",
+        "Cogan syndrome",
+        "Elderly RA"
+      ],
+      "ans": 3,
+      "exp": "Elderly RA is >60 years, acute destructive polyarthritis with painful erosions and mimics PMR with shoulder/pelvic pain, increased ESR and periarticular enthesitis/bursitis. (Book p525)"
+    },
+    {
+      "id": "MED-C26-31",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "scenario",
+      "q": "A patient has minimal symptoms but erosions on X-ray. Which printed RA variant is this?",
+      "opts": [
+        "Arthritis robustus",
+        "Palindromic rheumatism",
+        "Very early RA",
+        "Felty syndrome"
+      ],
+      "ans": 0,
+      "exp": "Arthritis robustus is described as minimal symptoms, blissfully unaware, with erosions on X-ray. (Book p525)"
+    },
+    {
+      "id": "MED-C26-32",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "scenario",
+      "q": "Young girls have recurrent acute episodic monoarthritis with complete resolution, later involving other joints, anti-CarP positivity and 30% progression to RA. What is this?",
+      "opts": [
+        "HSP arthritis",
+        "Palindromic rheumatism",
+        "Elderly RA",
+        "OA hand"
+      ],
+      "ans": 1,
+      "exp": "Palindromic rheumatism occurs in young girls, acute episodic monoarthritis with complete resolution and later other joints, anti-CARP positive, with 30% progressing to RA. (Book p525)"
+    },
+    {
+      "id": "MED-C26-33",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "recall",
+      "q": "The source's synovitis deformity triangle contains which three processes?",
+      "opts": [
+        "Purpura, arthralgia and myalgia",
+        "Sclerosis, stenosis and aneurysm",
+        "Synovitis, tendinitis and bursitis",
+        "Pannus, uveitis and aortitis"
+      ],
+      "ans": 2,
+      "exp": "The deformities triangle is labelled synovitis, tendinitis and bursitis. (Book p525)"
+    },
+    {
+      "id": "MED-C26-34",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "scenario",
+      "q": "A hand shows wrist radial deviation, MCP ulnar deviation plus subluxation, and interphalangeal joints extended. Which reversible deformity is printed?",
+      "opts": [
+        "Piano-key deformity",
+        "Hitchhiker thumb",
+        "Swan-neck deformity",
+        "Zig-zag deformity as first change"
+      ],
+      "ans": 3,
+      "exp": "Zig-zag deformity is the first change and includes wrist radial deviation, MCP ulnar deviation plus subluxation and interphalangeal joints extended. (Book p525)"
+    },
+    {
+      "id": "MED-C26-35",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "scenario",
+      "q": "A patient has rupture of the ulnar collateral ligament and deformity of the ulnar styloid. Which reversible deformity is this?",
+      "opts": [
+        "Piano-key deformity",
+        "Zig-zag deformity",
+        "Boutonniere deformity",
+        "Opera-glass hand"
+      ],
+      "ans": 0,
+      "exp": "Piano-key deformity is due to rupture of the ulnar collateral ligament and deformity of the ulnar styloid. (Book p525)"
+    },
+    {
+      "id": "MED-C26-36",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "scenario",
+      "q": "A thumb has a Z-shaped deformity with abduction and hyperextension. Which RA deformity is printed?",
+      "opts": [
+        "Intrinsic plus deformity",
+        "Hitchhiker thumb",
+        "Trigger finger",
+        "Vaughan-Jackson syndrome"
+      ],
+      "ans": 1,
+      "exp": "Hitchhiker thumb is a Z-shaped deformity with abduction and hyperextension of the thumb. (Book p525)"
+    },
+    {
+      "id": "MED-C26-37",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 525,
+      "fmt": "recall",
+      "q": "Trigger finger in RA is attributed to what?",
+      "opts": [
+        "Atlantoaxial subluxation",
+        "Interstitial lung disease",
+        "Tenosynovitis",
+        "Ulnar styloid deformity"
+      ],
+      "ans": 2,
+      "exp": "Trigger finger is listed as tenosynovitis. (Book p525)"
+    },
+    {
+      "id": "MED-C26-38",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 526,
+      "fmt": "scenario",
+      "q": "A hand has hyperextended PIP, flexed DIP and rupture of the flexor digitorum superficialis tendon. Which irreversible deformity is this?",
+      "opts": [
+        "Boutonniere deformity",
+        "Zig-zag deformity",
+        "Piano-key deformity",
+        "Swan-neck deformity"
+      ],
+      "ans": 3,
+      "exp": "Swan-neck deformity has hyperextended PIP, flexion of DIP and rupture of FDS tendon. (Book p526)"
+    },
+    {
+      "id": "MED-C26-39",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 526,
+      "fmt": "scenario",
+      "q": "A hand has PIP flexion and DIP hyperextension from PIP synovitis with lateral band subluxation. Which deformity is this?",
+      "opts": [
+        "Boutonniere deformity",
+        "Swan-neck deformity",
+        "Hitchhiker thumb",
+        "Trigger finger"
+      ],
+      "ans": 0,
+      "exp": "Boutonniere deformity is flexion of PIP and hyperextension of DIP due to synovitis of PIP causing subluxation of the lateral band. (Book p526)"
+    },
+    {
+      "id": "MED-C26-40",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 526,
+      "fmt": "recall",
+      "q": "Opera-glass hand deformity is also called what in the source?",
+      "opts": [
+        "Jaccoud arthropathy",
+        "Arthritis mutilans",
+        "Felty syndrome",
+        "Caplan syndrome"
+      ],
+      "ans": 1,
+      "exp": "Opera glass hand deformity is labelled arthritis mutilans. (Book p526)"
+    },
+    {
+      "id": "MED-C26-41",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 526,
+      "fmt": "recall",
+      "q": "Vaughan-Jackson syndrome in RA is impairment of which tendons?",
+      "opts": [
+        "Ulnar collateral ligament",
+        "Achilles tendon",
+        "Medial extensor tendons",
+        "Flexor digitorum superficialis only"
+      ],
+      "ans": 2,
+      "exp": "Vaughan-Jackson syndrome is impaired medial extensor tendons. (Book p526)"
+    },
+    {
+      "id": "MED-C26-42",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 526,
+      "fmt": "recall",
+      "q": "Which features define intrinsic plus deformity?",
+      "opts": [
+        "Hyperextended PIP with flexed DIP",
+        "PIP flexion with DIP hyperextension",
+        "Radial wrist deviation with MCP ulnar deviation",
+        "Tight intrinsic muscles with hyperflexion of MCP and extension of interphalangeal joints"
+      ],
+      "ans": 3,
+      "exp": "Intrinsic plus deformity is tightness of intrinsic muscles, hyperflexion of MCP and extension of interphalangeal joints. (Book p526)"
+    },
+    {
+      "id": "MED-C26-43",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "page": 526,
+      "fmt": "recall",
+      "q": "Pointing index finger is noted as what?",
+      "opts": [
+        "Median nerve palsy",
+        "Ulnar nerve palsy",
+        "Radial nerve palsy",
+        "Sciatic neuropathy"
+      ],
+      "ans": 0,
+      "exp": "The note states pointing index finger is median nerve palsy. (Book p526)"
+    },
+    {
+      "id": "MED-C26-44",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 527,
+      "fmt": "recall",
+      "q": "Which pulmonary features are printed under RA in the RA-versus-SLE table?",
+      "opts": [
+        "Saddle nose and DAH",
+        "Interstitial lung disease, pleural effusion, rheumatoid lung nodules and Caplan syndrome",
+        "Libman-Sacks endocarditis and nephritis",
+        "Bamboo spine and sacroiliitis"
+      ],
+      "ans": 1,
+      "exp": "The RA pulmonary row includes interstitial lung disease, pleural effusion, rheumatoid lung nodules and Caplan syndrome. (Book p527)"
+    },
+    {
+      "id": "MED-C26-45",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 527,
+      "fmt": "recall",
+      "q": "Which pulmonary statement is printed for RA nodules/Caplan syndrome?",
+      "opts": [
+        "Caplan is Behcet plus polychondritis",
+        "Nodules are absent in RA",
+        "Rheumatoid lung nodules are usually upper lobe; Caplan syndrome is rheumatoid nodules plus pneumoconiosis",
+        "Nodules are lower lobe only and Caplan is RA plus nephritis"
+      ],
+      "ans": 2,
+      "exp": "The pulmonary row notes rheumatoid lung nodules, usually upper lobe, and Caplan syndrome as rheumatoid nodules plus pneumoconiosis. (Book p527)"
+    },
+    {
+      "id": "MED-C26-46",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 527,
+      "fmt": "scenario",
+      "q": "A rheumatoid patient has dyspnea with organizing pneumonia/BOOP and lower-lobe, peripheral reticular shadowing. Which table entity is being described?",
+      "opts": [
+        "Cogan syndrome",
+        "HSP renal disease",
+        "Takayasu stenosis",
+        "Rheumatoid interstitial lung disease"
+      ],
+      "ans": 3,
+      "exp": "The pulmonary row describes rheumatoid interstitial lung disease with organizing pneumonia/BOOP and lower-lobe peripheral reticular shadowing. (Book p527)"
+    },
+    {
+      "id": "MED-C26-47",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 527,
+      "fmt": "recall",
+      "q": "Which pulmonary complication has the worst prognosis in RA?",
+      "opts": [
+        "Rheumatoid lung disease",
+        "Keratosis sicca",
+        "Felty syndrome",
+        "Rheumatoid nodule"
+      ],
+      "ans": 0,
+      "exp": "The table note states worst prognosis is rheumatoid lung disease. (Book p527)"
+    },
+    {
+      "id": "MED-C26-48",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 527,
+      "fmt": "recall",
+      "q": "Which RA pulmonary pathology is printed as BOOP?",
+      "opts": [
+        "Bone-on-bone osteoarthritis pattern",
+        "Bronchiolitis obliterans organizing pneumonia",
+        "Bilateral ocular optic papillitis",
+        "Behcet oral pathergy pattern"
+      ],
+      "ans": 1,
+      "exp": "The page expands BOOP as bronchiolitis obliterans organizing pneumonia. (Book p527)"
+    },
+    {
+      "id": "MED-C26-49",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which CNS complication belongs to RA rather than SLE in the table?",
+      "opts": [
+        "Brainstem encephalitis",
+        "Central nervous vasculitis only",
+        "C1-C2 atlantoaxial subluxation causing acute-onset quadriparesis and erosion of the odontoid process",
+        "Cognitive decline as most common CNS feature"
+      ],
+      "ans": 2,
+      "exp": "RA CNS row lists normal cognitive function and C1-C2 atlantoaxial subluxation with acute-onset quadriparesis and erosion of odontoid process; SLE lists cognitive decline as most common. (Book p528)"
+    },
+    {
+      "id": "MED-C26-50",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which ocular statement belongs to RA?",
+      "opts": [
+        "Hypopyon is characteristic",
+        "Uveitis is mandatory",
+        "Only retinal vasculitis occurs",
+        "Keratoconjunctivitis sicca symptoms are more common in RA than SLE and there is no uveitis"
+      ],
+      "ans": 3,
+      "exp": "The ocular row notes keratoconjunctivitis sicca symptoms RA > SLE and no uveitis. (Book p528)"
+    },
+    {
+      "id": "MED-C26-51",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which RA ocular complication is associated with increased activity but not visual loss?",
+      "opts": [
+        "Episcleritis",
+        "Scleritis with scleromalacia perforans",
+        "Hypopyon",
+        "Retinal vasculitis"
+      ],
+      "ans": 0,
+      "exp": "Episcleritis is most common, seen with increased activity and not associated with visual loss. (Book p528)"
+    },
+    {
+      "id": "MED-C26-52",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which RA ocular complication can cause visual loss by granulomatous resorption?",
+      "opts": [
+        "Conjunctival pallor",
+        "Scleritis leading to scleromalacia perforans",
+        "Episcleritis",
+        "Keratoconjunctivitis sicca alone"
+      ],
+      "ans": 1,
+      "exp": "Scleritis causes granulomatous resorption leading to scleromalacia perforans and visual loss. (Book p528)"
+    },
+    {
+      "id": "MED-C26-53",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which vascular risk line is shared in the table?",
+      "opts": [
+        "Aortitis only",
+        "Pulmonary aneurysm only",
+        "Accelerated atherosclerosis as MI equivalent and APS",
+        "Hyperviscosity only"
+      ],
+      "ans": 2,
+      "exp": "The vascular/cardiovascular area lists accelerated atherosclerosis as MI equivalent and APS. (Book p528)"
+    },
+    {
+      "id": "MED-C26-54",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which risk factors and vessel distribution are printed for RA vasculitis?",
+      "opts": [
+        "Young females with HLA-B51 only",
+        "Children below 5 with IgA deposits",
+        "Only renal arteries with hypertension",
+        "History of smoking, men more than women, long-standing radiodamage, RF positive, low complements, small vessel more than medium vessel with muscular arteries in dermis"
+      ],
+      "ans": 3,
+      "exp": "RA vasculitis is associated with history of smoking, men>women, long-standing radiodamage, RF positivity, low complements, and small vessel more than medium vessel involving muscular arteries in dermis. (Book p528)"
+    },
+    {
+      "id": "MED-C26-55",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "management",
+      "q": "When does the RA vasculitis row direct rituximab?",
+      "opts": [
+        "Ulcers or digital gangrene",
+        "Mild dry eyes only",
+        "Isolated CRP elevation",
+        "Every RA patient at diagnosis"
+      ],
+      "ans": 0,
+      "exp": "The RA vasculitis row notes ulcers and digital gangrene with instruction to start rituximab. (Book p528)"
+    },
+    {
+      "id": "MED-C26-56",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which SLE vascular manifestations are contrasted in the table?",
+      "opts": [
+        "Felty syndrome and LGL leukemia",
+        "Mesenteric vasculitis and CNS vasculitis with mononeuritis multiplex",
+        "Rheumatoid nodules and pyoderma gangrenosum",
+        "Caplan syndrome and scleromalacia"
+      ],
+      "ans": 1,
+      "exp": "The SLE vascular column lists mesenteric vasculitis and CNS vasculitis with mononeuritis multiplex. (Book p528)"
+    },
+    {
+      "id": "MED-C26-57",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 528,
+      "fmt": "recall",
+      "q": "Which hematologic features are printed in the comparison table?",
+      "opts": [
+        "Only polycythemia",
+        "Only thrombocytopenia without anemia",
+        "Anemia of chronic disease as most common anemia, warm autoimmune hemolytic anemia, secondary ITP with thrombocytosis, and SLE leukopenia",
+        "Only eosinophilia"
+      ],
+      "ans": 2,
+      "exp": "The hematologic row lists anemia of chronic disease as most common cause of anemia, warm antibody autoimmune hemolytic anemia, secondary immune thrombocytopenic purpura with thrombocytosis, and SLE leukopenia. (Book p528)"
+    },
+    {
+      "id": "MED-C26-58",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 529,
+      "fmt": "recall",
+      "q": "Which Felty syndrome features are printed?",
+      "opts": [
+        "RA plus asthma plus eosinophilia",
+        "SLE plus oral ulcers plus uveitis",
+        "HSP plus abdominal pain plus purpura",
+        "RA plus neutropenia plus splenomegaly, long-standing deformities, RF positive, HLA DRB1-04, nodules and antibodies against citrullinated histones"
+      ],
+      "ans": 3,
+      "exp": "Felty syndrome is RA with neutropenia and splenomegaly, long-standing deformities, RF positive, HLA DRB1-04, nodules present and antibody against citrullinated histones. (Book p529)"
+    },
+    {
+      "id": "MED-C26-59",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 529,
+      "fmt": "recall",
+      "q": "Which malignancy/hematology risk is printed with Felty/LGL?",
+      "opts": [
+        "Increased risk of conversion to DLBCL and LGL leukemia",
+        "Increased risk of melanoma only",
+        "Increased osteosarcoma only",
+        "No malignancy risk"
+      ],
+      "ans": 0,
+      "exp": "The row notes increased risk of conversion to DLBCL and LGL, large granular lymphocytic leukemia. (Book p529)"
+    },
+    {
+      "id": "MED-C26-60",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 529,
+      "fmt": "recall",
+      "q": "Which cardiovascular statement belongs to RA in the table?",
+      "opts": [
+        "Cardiac disease is absent",
+        "Pericarditis without tamponade is the most common CVS cause, mitral regurgitation is most common valvular disease, and ACS is most common cause of death",
+        "Libman-Sacks endocarditis is the RA hallmark",
+        "Aortic stenosis is most common valvular disease"
+      ],
+      "ans": 1,
+      "exp": "RA cardiovascular row lists pericarditis without tamponade as most common CVS cause, mitral regurgitation as most common valvular heart disease, and ACS as most common cause of death. (Book p529)"
+    },
+    {
+      "id": "MED-C26-61",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "page": 529,
+      "fmt": "recall",
+      "q": "Which endocrine and skin manifestations are printed for RA?",
+      "opts": [
+        "Thyroid storm and livedo only",
+        "No endocrine or skin disease",
+        "Osteoporosis, hypoadrenalism, rheumatoid nodule and pyoderma gangrenosum",
+        "Diabetes insipidus and calcinosis only"
+      ],
+      "ans": 2,
+      "exp": "The endocrine row lists osteoporosis and hypoadrenalism; skin row lists rheumatoid nodule and pyoderma gangrenosum. (Book p529)"
+    },
+    {
+      "id": "MED-C26-62",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "management",
+      "q": "What treatment target is printed for newly diagnosed RA?",
+      "opts": [
+        "Immediate cure without monitoring",
+        "Only pain control without disease activity target",
+        "Surgery as first-line treatment",
+        "Remission or low disease activity on treatment"
+      ],
+      "ans": 3,
+      "exp": "Management states newly diagnosed RA should achieve remission/low disease activity on treatment. (Book p530)"
+    },
+    {
+      "id": "MED-C26-63",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "numeric",
+      "q": "When is the best response to RA treatment expected in the source, especially in VERA?",
+      "opts": [
+        "Less than 3 months",
+        "After 2 years",
+        "Exactly 6 weeks only",
+        "After 10 years"
+      ],
+      "ans": 0,
+      "exp": "Best response to treatment is stated as <3 months in very early rheumatoid arthritis. (Book p530)"
+    },
+    {
+      "id": "MED-C26-64",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "recall",
+      "q": "Which conventional DMARD mechanism is paired with methotrexate?",
+      "opts": [
+        "Toll-like receptor inhibition",
+        "Increased adenosine levels",
+        "Dihydroorotate dehydrogenase inhibition",
+        "Blocks synthesis of folic acid"
+      ],
+      "ans": 1,
+      "exp": "The conventional DMARD table pairs methotrexate with increased adenosine levels. (Book p530)"
+    },
+    {
+      "id": "MED-C26-65",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "recall",
+      "q": "Which conventional DMARD is a dihydroorotate dehydrogenase inhibitor blocking the pyrimidine pathway?",
+      "opts": [
+        "Hydroxychloroquine",
+        "Methotrexate",
+        "Leflunomide",
+        "Sulfasalazine"
+      ],
+      "ans": 2,
+      "exp": "Leflunomide is listed as a dihydroorotate dehydrogenase inhibitor and pyrimidine pathway blocker. (Book p530)"
+    },
+    {
+      "id": "MED-C26-66",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "recall",
+      "q": "Which conventional DMARD mechanism is paired with hydroxychloroquine?",
+      "opts": [
+        "Increased adenosine levels",
+        "Blocks synthesis of folic acid",
+        "Anti-CD20 depletion",
+        "Toll-like receptor inhibitor"
+      ],
+      "ans": 3,
+      "exp": "Hydroxychloroquine is paired with toll-like receptor inhibitor. (Book p530)"
+    },
+    {
+      "id": "MED-C26-67",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "recall",
+      "q": "Which anti-TNF agent is marked as a fusion molecule with least side effect?",
+      "opts": [
+        "Etanercept",
+        "Infliximab",
+        "Adalimumab",
+        "Golimumab"
+      ],
+      "ans": 0,
+      "exp": "Among anti-TNF-alpha biological agents, etanercept is noted as a fusion molecule with least side effect. (Book p530)"
+    },
+    {
+      "id": "MED-C26-68",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "recall",
+      "q": "Which biologic-agent pairing is correct?",
+      "opts": [
+        "JAK inhibitor: infliximab",
+        "Anti-CD20: rituximab; anti-IL-1: anakinra unavailable in India; anti-IL-6: tocilizumab; CTLA4-FcIgG: abatacept",
+        "Anti-CD20: abatacept; anti-IL-6: anakinra",
+        "Anti-TNF: rituximab only"
+      ],
+      "ans": 1,
+      "exp": "The biologic list pairs anti-CD20 with rituximab, anti-IL-1 with anakinra unavailable in India, anti-IL-6 with tocilizumab and fusion CTLA4-FcIgG with abatacept. (Book p530)"
+    },
+    {
+      "id": "MED-C26-69",
+      "sec": "RA management",
+      "page": 530,
+      "fmt": "recall",
+      "q": "Which JAK inhibitor selectivity is printed?",
+      "opts": [
+        "Both are anti-TNF agents",
+        "Both are IL-5 antagonists",
+        "Tofacitinib is a 1/3 inhibitor and baricitinib is a 1/2 inhibitor",
+        "Tofacitinib is 1/2 and baricitinib is 1/3"
+      ],
+      "ans": 2,
+      "exp": "Small-molecule oral JAK inhibitors list tofacitinib as 1/3 inhibitor and baricitinib as 1/2 inhibitor. (Book p530)"
+    },
+    {
+      "id": "MED-C26-70",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "management",
+      "q": "In the RA treatment approach, why is bridge steroid therapy used?",
+      "opts": [
+        "To replace all DMARDs permanently",
+        "Only after remission is achieved",
+        "Only for inactive disease",
+        "For active inflammation while DMARD action starts by 6–8 weeks"
+      ],
+      "ans": 3,
+      "exp": "The algorithm shows bridge therapy with steroid for active inflammation because action of DMARDs starts by 6–8 weeks. (Book p531)"
+    },
+    {
+      "id": "MED-C26-71",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "numeric",
+      "q": "What first-line methotrexate dose escalation is printed?",
+      "opts": [
+        "5 mg to 20 mg weekly for 3 months",
+        "500 mg twice daily for 3 months",
+        "1 mg/kg/day tapered to 5 mg/day",
+        "40–60 mg/day"
+      ],
+      "ans": 0,
+      "exp": "First-line methotrexate is printed as 5 mg to 20 mg weekly for 3 months. (Book p531)"
+    },
+    {
+      "id": "MED-C26-72",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "recall",
+      "q": "Which methotrexate complication is most common in the source?",
+      "opts": [
+        "Hepatitis B reactivation",
+        "Mucositis with oral ulcers and hair loss",
+        "Retinal bull's-eye maculopathy",
+        "Cardiac toxicity"
+      ],
+      "ans": 1,
+      "exp": "Methotrexate complications list mucositis as most common, with oral ulcers and hair loss. (Book p531)"
+    },
+    {
+      "id": "MED-C26-73",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "management",
+      "q": "Which methotrexate toxicity is most dangerous and how should enzymes be handled?",
+      "opts": [
+        "Mild hair loss; stop if enzymes are twice normal",
+        "Bone marrow suppression; no monitoring needed",
+        "Liver failure; monitor LFT and stop if enzymes are elevated more than 4 times",
+        "Corneal complication; continue regardless"
+      ],
+      "ans": 2,
+      "exp": "Liver failure is marked the most dangerous methotrexate complication; monitor LFT and stop if enzymes are elevated >4 times. (Book p531)"
+    },
+    {
+      "id": "MED-C26-74",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "recall",
+      "q": "Which Boolean remission definition is printed after 3 months?",
+      "opts": [
+        "Tender joints ≤10 and CRP ≤10 only",
+        "ESR <50 and RF negative only",
+        "No tender joints but swollen joints ignored",
+        "Tender joints ≤1, swollen joints ≤1, CRP ≤1 and patient global assessment ≤1"
+      ],
+      "ans": 3,
+      "exp": "The Boolean definition of remission lists tender joints ≤1, swollen joints ≤1, C-reactive protein ≤1 and patient global assessment ≤1. (Book p531)"
+    },
+    {
+      "id": "MED-C26-75",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "management",
+      "q": "If response is adequate after methotrexate, what does the algorithm direct?",
+      "opts": [
+        "Continue methotrexate",
+        "Stop all treatment permanently",
+        "Switch immediately to JAK inhibitor",
+        "Start antiviral therapy"
+      ],
+      "ans": 0,
+      "exp": "The adequate-response branch directs continuing methotrexate. (Book p531)"
+    },
+    {
+      "id": "MED-C26-76",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "numeric",
+      "q": "For inadequate response using methotrexate plus sulfasalazine, what dose and maximum are printed?",
+      "opts": [
+        "Sulfasalazine 1 g IV daily",
+        "Sulfasalazine 500 mg BD/TDS with maximum 2 g",
+        "Sulfasalazine 5 mg/kg with maximum 20 mg",
+        "Sulfasalazine 40–60 mg/day"
+      ],
+      "ans": 1,
+      "exp": "The MTX plus sulfasalazine branch lists sulfasalazine 500 mg BD/TDS with maximum 2 g. (Book p531)"
+    },
+    {
+      "id": "MED-C26-77",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "recall",
+      "q": "Which contraindication/issue is printed with sulfasalazine?",
+      "opts": [
+        "Anti-CCP positivity",
+        "Mild uveitis",
+        "G6PD deficiency",
+        "HLA-B27 positivity"
+      ],
+      "ans": 2,
+      "exp": "The sulfasalazine branch includes G6-PD deficiency. (Book p531)"
+    },
+    {
+      "id": "MED-C26-78",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "numeric",
+      "q": "What hydroxychloroquine dose and complications are printed in the escalation branch?",
+      "opts": [
+        "HCQ 20 mg weekly; liver failure most dangerous",
+        "HCQ 500 mg BD; hepatitis B reactivation",
+        "HCQ 1 mg/kg; gonadal toxicity",
+        "HCQ 5 mg/kg; corneal complication most common and retinal bull's-eye maculopathy most dangerous"
+      ],
+      "ans": 3,
+      "exp": "The branch lists HCQ 5 mg/kg, corneal complication as most common and retinal complication as most dangerous, specifically bull's-eye maculopathy. (Book p531)"
+    },
+    {
+      "id": "MED-C26-79",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "recall",
+      "q": "Which risks are printed with methotrexate plus anti-TNF-alpha escalation?",
+      "opts": [
+        "Increased risk of infection, malignancy, hepatitis B and TB reactivation",
+        "Corneal and retinal toxicity",
+        "G6PD deficiency only",
+        "Painless oral ulcers over hard palate"
+      ],
+      "ans": 0,
+      "exp": "The anti-TNF branch lists increased risk of infection, malignancy, hepatitis B and TB reactivation. (Book p531)"
+    },
+    {
+      "id": "MED-C26-80",
+      "sec": "RA management",
+      "page": 531,
+      "fmt": "recall",
+      "q": "Which JAK-inhibitor branch features are printed?",
+      "opts": [
+        "Only retinal maculopathy",
+        "Less costly, most preferred, cardiac toxicity and hyperlipidemia",
+        "Least side effect fusion molecule only",
+        "Unavailable in India as anti-IL-1"
+      ],
+      "ans": 1,
+      "exp": "The JAK inhibitor branch lists less costly, most preferred, cardiac toxicity and hyperlipidemia. (Book p531)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U26-1",
+      "ch": 26,
+      "n": 1,
+      "title": "1. RA diagnosis duration, joint involvement and etiopathogenesis",
+      "sec": "RA diagnosis duration, joint involvement and etiopathogenesis",
+      "guide": "Duration-based labels, chronic symmetric peripheral polyarthritis and spared/involved joints open RA.\nPathogenesis diagram, pannus, TNF-alpha, Dkk-1 and osteoporosis are retained.\nGenetic, environmental, gender, age, pregnancy, infection and risk-prediction points follow in order.",
+      "qs": [
+        "MED-C26-01",
+        "MED-C26-02",
+        "MED-C26-03",
+        "MED-C26-04",
+        "MED-C26-05",
+        "MED-C26-06",
+        "MED-C26-07",
+        "MED-C26-08",
+        "MED-C26-09",
+        "MED-C26-10",
+        "MED-C26-11",
+        "MED-C26-12",
+        "MED-C26-13",
+        "MED-C26-14",
+        "MED-C26-15",
+        "MED-C26-16",
+        "MED-C26-17",
+        "MED-C26-18",
+        "MED-C26-19",
+        "MED-C26-20",
+        "MED-C26-21",
+        "MED-C26-22"
+      ]
+    },
+    {
+      "id": "MED-U26-2",
+      "ch": 26,
+      "n": 2,
+      "title": "2. RA prediction markers, clinical manifestations and deformities",
+      "sec": "RA prediction markers, clinical manifestations and deformities",
+      "guide": "Predicted-risk scoring factors and serologic markers lead into chronic symmetric peripheral polyarthritis.\nRA variants, palindromic rheumatism and deformity mechanisms are retained.\nReversible and irreversible hand deformities and median nerve note are kept in source order.",
+      "qs": [
+        "MED-C26-23",
+        "MED-C26-24",
+        "MED-C26-25",
+        "MED-C26-26",
+        "MED-C26-27",
+        "MED-C26-28",
+        "MED-C26-29",
+        "MED-C26-30",
+        "MED-C26-31",
+        "MED-C26-32",
+        "MED-C26-33",
+        "MED-C26-34",
+        "MED-C26-35",
+        "MED-C26-36",
+        "MED-C26-37",
+        "MED-C26-38",
+        "MED-C26-39",
+        "MED-C26-40",
+        "MED-C26-41",
+        "MED-C26-42",
+        "MED-C26-43"
+      ]
+    },
+    {
+      "id": "MED-U26-3",
+      "ch": 26,
+      "n": 3,
+      "title": "3. Extra-articular RA and RA versus SLE",
+      "sec": "Extra-articular RA and RA versus SLE",
+      "guide": "The extra-articular comparison table is captured by pulmonary, CNS/PNS, ocular, vascular, hematologic, cardiac, GIT, endocrine and skin rows.\nRA and SLE contrasts are retained as book-study material.\nHigh-yield complication triggers such as atlantoaxial subluxation, vasculitis, Felty and lung disease are explicitly asked.",
+      "qs": [
+        "MED-C26-44",
+        "MED-C26-45",
+        "MED-C26-46",
+        "MED-C26-47",
+        "MED-C26-48",
+        "MED-C26-49",
+        "MED-C26-50",
+        "MED-C26-51",
+        "MED-C26-52",
+        "MED-C26-53",
+        "MED-C26-54",
+        "MED-C26-55",
+        "MED-C26-56",
+        "MED-C26-57",
+        "MED-C26-58",
+        "MED-C26-59",
+        "MED-C26-60",
+        "MED-C26-61"
+      ]
+    },
+    {
+      "id": "MED-U26-4",
+      "ch": 26,
+      "n": 4,
+      "title": "4. RA management",
+      "sec": "RA management",
+      "guide": "Newly diagnosed RA targets remission/low activity, with very early RA best response under 3 months.\nConventional DMARD mechanisms, biologics and JAK inhibitors are retained.\nThe treatment algorithm includes bridge steroid therapy, methotrexate dosing, toxicities, Boolean remission and escalation choices.",
+      "qs": [
+        "MED-C26-62",
+        "MED-C26-63",
+        "MED-C26-64",
+        "MED-C26-65",
+        "MED-C26-66",
+        "MED-C26-67",
+        "MED-C26-68",
+        "MED-C26-69",
+        "MED-C26-70",
+        "MED-C26-71",
+        "MED-C26-72",
+        "MED-C26-73",
+        "MED-C26-74",
+        "MED-C26-75",
+        "MED-C26-76",
+        "MED-C26-77",
+        "MED-C26-78",
+        "MED-C26-79",
+        "MED-C26-80"
+      ]
+    }
+  ]
+}
