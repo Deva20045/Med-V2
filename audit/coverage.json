@@ -2420,326 +2420,380 @@
   {
     "chapter": 9,
     "page": 415,
-    "point": "Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side.",
+    "point": "The ‘Types of plaque’ arm is explicitly divided into vulnerable and non-vulnerable plaque in the pathophysiology diagram.",
     "question": "MED-C9-02"
   },
   {
     "chapter": 9,
     "page": 415,
-    "point": "The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries.",
+    "point": "Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side.",
     "question": "MED-C9-03"
   },
   {
     "chapter": 9,
     "page": 415,
-    "point": "Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP.",
+    "point": "The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries.",
     "question": "MED-C9-04"
   },
   {
     "chapter": 9,
     "page": 415,
-    "point": "The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death.",
+    "point": "Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP.",
     "question": "MED-C9-05"
   },
   {
     "chapter": 9,
     "page": 415,
-    "point": "Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X.",
+    "point": "The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death.",
     "question": "MED-C9-06"
   },
   {
     "chapter": 9,
-    "page": 416,
-    "point": "O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure.",
+    "page": 415,
+    "point": "Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X.",
     "question": "MED-C9-07"
   },
   {
     "chapter": 9,
     "page": 416,
-    "point": "Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia.",
+    "point": "O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure.",
     "question": "MED-C9-08"
   },
   {
     "chapter": 9,
     "page": 416,
-    "point": "Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki.",
+    "point": "Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia.",
     "question": "MED-C9-09"
   },
   {
     "chapter": 9,
     "page": 416,
-    "point": "Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors.",
+    "point": "Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki.",
     "question": "MED-C9-10"
   },
   {
     "chapter": 9,
     "page": 416,
-    "point": "The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased.",
+    "point": "The R/F list begins with 1. Family history, 2. Degree of calcification and 3. Lifestyle: physical inactivity before smoking as the most crucial preventable cause.",
     "question": "MED-C9-11"
   },
   {
     "chapter": 9,
     "page": 416,
-    "point": "The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL.",
+    "point": "Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors.",
     "question": "MED-C9-12"
   },
   {
     "chapter": 9,
     "page": 416,
-    "point": "Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant.",
+    "point": "The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased.",
     "question": "MED-C9-13"
   },
   {
     "chapter": 9,
-    "page": 417,
-    "point": "Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction.",
+    "page": 416,
+    "point": "The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL.",
     "question": "MED-C9-14"
   },
   {
     "chapter": 9,
-    "page": 417,
-    "point": "Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state.",
+    "page": 416,
+    "point": "Hypertension is listed with alters vessel architecture, endothelial dysfunction and LVH increasing myocardial O2 demand.",
     "question": "MED-C9-15"
   },
   {
     "chapter": 9,
-    "page": 417,
-    "point": "The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis.",
+    "page": 416,
+    "point": "Diabetes (centripetal obesity with increased lipolysis and insulin resistance), Age 40–50 years and Gender F greater than M are listed after hyperlipidaemia.",
     "question": "MED-C9-16"
   },
   {
     "chapter": 9,
-    "page": 417,
-    "point": "The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’",
+    "page": 416,
+    "point": "Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant.",
     "question": "MED-C9-17"
   },
   {
     "chapter": 9,
     "page": 417,
-    "point": "Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4.",
+    "point": "Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction.",
     "question": "MED-C9-18"
   },
   {
     "chapter": 9,
     "page": 417,
-    "point": "The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%.",
+    "point": "Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state.",
     "question": "MED-C9-19"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis.",
+    "question": "MED-C9-20"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’",
+    "question": "MED-C9-21"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4.",
+    "question": "MED-C9-22"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%.",
+    "question": "MED-C9-23"
+  },
+  {
+    "chapter": 9,
+    "page": 417,
+    "point": "The page notes malnutrition-inflammation-atherosclerosis with protein malnutrition increasing CRP under the lifestyle modifications block.",
+    "question": "MED-C9-24"
   },
   {
     "chapter": 9,
     "page": 418,
     "point": "In the diagram, >70% plaque with symptoms leads to angiography/stenting; the asymptomatic branch is labelled ACS. A roughly 20–30% plaque may rupture and cause MI.",
-    "question": "MED-C9-20"
+    "question": "MED-C9-25"
   },
   {
     "chapter": 9,
     "page": 418,
     "point": "Chronic stable angina is exertional chest tightness/squeezing/burning behind or left of mediastinum, can radiate C8–T4, lasts <20 min, and responds well to SL/oral NTG; >30 min suggests ACS.",
-    "question": "MED-C9-21"
+    "question": "MED-C9-26"
   },
   {
     "chapter": 9,
     "page": 418,
     "point": "Treadmill testing is indicated in chronic stable angina and asymptomatic risk-factor patients; rest symptoms, aortic stenosis and HOCM are contraindications.",
-    "question": "MED-C9-22"
+    "question": "MED-C9-27"
   },
   {
     "chapter": 9,
     "page": 418,
     "point": "Positive treadmill test: 2 mm horizontal/downsloping ST segment before 6 minutes/before achieving maximum HR, followed by angiography.",
-    "question": "MED-C9-23"
+    "question": "MED-C9-28"
   },
   {
     "chapter": 9,
     "page": 418,
     "point": "The presentation block states radiation may involve any dermatome from C8 to T4.",
-    "question": "MED-C9-24"
-  },
-  {
-    "chapter": 9,
-    "page": 419,
-    "point": "MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation.",
-    "question": "MED-C9-25"
-  },
-  {
-    "chapter": 9,
-    "page": 419,
-    "point": "FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction.",
-    "question": "MED-C9-26"
-  },
-  {
-    "chapter": 9,
-    "page": 419,
-    "point": "The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions.",
-    "question": "MED-C9-27"
-  },
-  {
-    "chapter": 9,
-    "page": 419,
-    "point": "MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection.",
-    "question": "MED-C9-28"
-  },
-  {
-    "chapter": 9,
-    "page": 419,
-    "point": "After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line.",
     "question": "MED-C9-29"
   },
   {
     "chapter": 9,
     "page": 419,
-    "point": "Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT.",
+    "point": "MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation.",
     "question": "MED-C9-30"
   },
   {
     "chapter": 9,
     "page": 419,
-    "point": "Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator.",
+    "point": "FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction.",
     "question": "MED-C9-31"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "Electron beam CT is listed to quantify cardiac calcification in the miscellaneous points.",
+    "question": "MED-C9-32"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions.",
+    "question": "MED-C9-33"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection.",
+    "question": "MED-C9-34"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line.",
+    "question": "MED-C9-35"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "The table lists 1st line nitrates vasodilation with ↑HR ↓BP limitation tolerance, beta-blockers ↓pump function ↓HR ↓BP prolonging life post MI, and 2nd line CCBs ↓pump function plus vasodilation ↓HR ↓BP.",
+    "question": "MED-C9-36"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT.",
+    "question": "MED-C9-37"
+  },
+  {
+    "chapter": 9,
+    "page": 419,
+    "point": "Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator.",
+    "question": "MED-C9-38"
   },
   {
     "chapter": 9,
     "page": 420,
     "point": "The stenting note lists abciximab, eptifibatide and tirofiban as GP IIb–IIIa inhibitors and favours tacrolimus/paclitaxel drug-eluting over bare-metal stents.",
-    "question": "MED-C9-32"
+    "question": "MED-C9-39"
   },
   {
     "chapter": 9,
     "page": 420,
     "point": "Prinzmetal angina is rest angina, lasts 5–15 min, has transient ST elevation and normal angiography; beta-blockers are to be avoided.",
-    "question": "MED-C9-33"
+    "question": "MED-C9-40"
   },
   {
     "chapter": 9,
     "page": 420,
     "point": "Kingmaker segment is stated to be the ST segment: end of J point to onset of T wave.",
-    "question": "MED-C9-34"
+    "question": "MED-C9-41"
   },
   {
     "chapter": 9,
     "page": 420,
     "point": "Systolic current from subepicardial/transmural injury flows toward injured myocardium and produces ST elevation (MI or pericarditis); subendocardial diastolic current flows away and produces non-localising ST depression.",
-    "question": "MED-C9-35"
+    "question": "MED-C9-42"
   },
   {
     "chapter": 9,
     "page": 420,
     "point": "The diagrams contrast non-concave/convex ST elevation in MI with concave/saddle-shaped elevation in pericarditis.",
-    "question": "MED-C9-36"
+    "question": "MED-C9-43"
+  },
+  {
+    "chapter": 9,
+    "page": 420,
+    "point": "The diagram labels PR interval, ST interval, TP interval, QT interval and RR interval with calibration 0.04 s =40 ms and 0.20 s =200 ms.",
+    "question": "MED-C9-44"
   },
   {
     "chapter": 9,
     "page": 421,
     "point": "Listed alternatives are Prinzmetal angina, hyperkalaemia > hypokalaemia, LBBB, benign early repolarisation and LV aneurysm.",
-    "question": "MED-C9-37"
+    "question": "MED-C9-45"
   },
   {
     "chapter": 9,
     "page": 421,
     "point": "Convex and coved morphologies are labelled ACS; horizontal/plateau is ‘ACS unless proven otherwise’; oblique is <30% ACS and concave <15% ACS.",
-    "question": "MED-C9-38"
+    "question": "MED-C9-46"
   },
   {
     "chapter": 9,
     "page": 421,
     "point": "Significant V2–V3 elevation is ≥2.5 mm if <40 years, ≥2 mm if >40 years, and ≥1.5 mm in females; reciprocal changes must be present in the source's MI diagnosis note.",
-    "question": "MED-C9-39"
+    "question": "MED-C9-47"
   },
   {
     "chapter": 9,
     "page": 421,
     "point": "The sequence progresses from hyperacute T wave to hyperacute T waves with ST elevation, then pathological Q/decreasing R and further ST/T changes over hours to days.",
-    "question": "MED-C9-40"
+    "question": "MED-C9-48"
   },
   {
     "chapter": 9,
     "page": 421,
     "point": "The illustrated tracing is captioned ST elevation with reciprocal changes and marks a high lateral MI pattern.",
-    "question": "MED-C9-41"
+    "question": "MED-C9-49"
+  },
+  {
+    "chapter": 9,
+    "page": 421,
+    "point": "The page marks normal ST elevation at the transient zone in V2–V3 without pathological reciprocal changes.",
+    "question": "MED-C9-50"
   },
   {
     "chapter": 9,
     "page": 422,
     "point": "Benign early repolarisation has ST elevation and J-point hook effect; PR depression supports pericarditis instead.",
-    "question": "MED-C9-42"
+    "question": "MED-C9-51"
   },
   {
     "chapter": 9,
     "page": 422,
     "point": "The pericarditis block gives clinical features/acute illness, global concave upward ST elevation, PR depression and no reciprocal changes.",
-    "question": "MED-C9-43"
+    "question": "MED-C9-52"
   },
   {
     "chapter": 9,
     "page": 422,
     "point": "Hypothermia is labelled with an Osborne wave. The page also illustrates post-DC-cardioversion tracing and Takotsubo cardiomyopathy.",
-    "question": "MED-C9-44"
+    "question": "MED-C9-53"
   },
   {
     "chapter": 9,
     "page": 422,
     "point": "Takotsubo cardiomyopathy is labelled catecholamine-induced cardiac failure/broken-heart syndrome and most common in middle-aged females.",
-    "question": "MED-C9-45"
+    "question": "MED-C9-54"
   },
   {
     "chapter": 9,
     "page": 422,
     "point": "The printed differential says BER has no PR depression; pericarditis has PR depression, global concave elevation and no reciprocal changes.",
-    "question": "MED-C9-46"
+    "question": "MED-C9-55"
   },
   {
     "chapter": 9,
     "page": 423,
     "point": "The summary panel lists LVH, LBBB, acute pericarditis, pseudo-infarction pattern (hyperkalaemia), acute anteroseptal MI, acute anterolateral MI and Brugada syndrome.",
-    "question": "MED-C9-47"
+    "question": "MED-C9-56"
   },
   {
     "chapter": 9,
     "page": 423,
     "point": "The summary labels horizontal ST depression ‘probable ischemia’; sloping ST is strain-related and scoop-shaped ST is digoxin-related.",
-    "question": "MED-C9-48"
+    "question": "MED-C9-57"
   },
   {
     "chapter": 9,
     "page": 423,
     "point": "The ‘scoop’ example is explicitly labelled digoxin related; morphology must be interpreted in clinical context.",
-    "question": "MED-C9-49"
+    "question": "MED-C9-58"
   },
   {
     "chapter": 9,
     "page": 423,
     "point": "The final tracing is captioned ‘de Winter T waves: evolves to MI.’",
-    "question": "MED-C9-50"
+    "question": "MED-C9-59"
   },
   {
     "chapter": 9,
     "page": 424,
     "point": "The page contrasts normal myocardium, tall/peaked T waves in subendocardial ischaemia, and deep symmetrical inversion in transmural ischaemia.",
-    "question": "MED-C9-51"
+    "question": "MED-C9-60"
   },
   {
     "chapter": 9,
     "page": 424,
     "point": "Deep symmetrical T inversion is labelled transmural ischaemia; tall/peaked T waves are subendocardial ischaemia.",
-    "question": "MED-C9-52"
+    "question": "MED-C9-61"
   },
   {
     "chapter": 9,
     "page": 424,
     "point": "The lower paired ECGs show hyperacute T waves progressing to STEMI.",
-    "question": "MED-C9-53"
+    "question": "MED-C9-62"
   },
   {
     "chapter": 9,
     "page": 424,
     "point": "The note beneath the strip states ‘U waves: Hypokalemia.’",
-    "question": "MED-C9-54"
+    "question": "MED-C9-63"
   },
   {
     "chapter": 9,
     "page": 424,
     "point": "The page presents serial ST-depression changes at 60, 90 and 120 minutes before its T-wave panels.",
-    "question": "MED-C9-55"
+    "question": "MED-C9-64"
   },
   {
     "chapter": 10,

@@ -91,10 +91,10 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 7 | 3. Polymorphic VT, Torsades de Pointes & Defibrillation | 411–412 | MED-C7-28–MED-C7-36 | 9 |
 | 8 | 1. Pathophysiology, ECG Manifestations & Types | 413 | MED-C8-01–MED-C8-06 | 6 |
 | 8 | 2. Vector Differentiation & Algorithmic Management | 414 | MED-C8-07–MED-C8-14 | 8 |
-| 9 | 1. ACS Mechanism, Vascular Beds & Cardiac Syndromes | 415 | MED-C9-01–MED-C9-06 | 6 |
-| 9 | 2. ACS Risk, Prevention & Chronic Stable Angina | 416–418 | MED-C9-07–MED-C9-24 | 18 |
-| 9 | 3. Imaging, Stable-Angina Therapy & ST-Segment Foundations | 419–422 | MED-C9-25–MED-C9-46 | 22 |
-| 9 | 4. ST Depression, T-Waves & ACS Mimics | 423–424 | MED-C9-47–MED-C9-55 | 9 |
+| 9 | 1. ACS Mechanism, Vascular Beds & Cardiac Syndromes | 415 | MED-C9-01–MED-C9-07 | 7 |
+| 9 | 2. ACS Risk, Prevention & Chronic Stable Angina | 416–418 | MED-C9-08–MED-C9-29 | 22 |
+| 9 | 3. Imaging, Stable-Angina Therapy & ST-Segment Foundations | 419–422 | MED-C9-30–MED-C9-55 | 26 |
+| 9 | 4. ST Depression, T-Waves & ACS Mimics | 423–424 | MED-C9-56–MED-C9-64 | 9 |
 | 10 | 1. Coronary Territories, Dominance & Right Coronary Artery | 425–426 | MED-C10-01–MED-C10-13 | 13 |
 | 10 | 2. Inferior MI Localisation & Left Coronary Anatomy | 427 | MED-C10-14–MED-C10-20 | 7 |
 | 10 | 3. LAD Localisation, Left-Main Occlusion & Complications | 428–429 | MED-C10-21–MED-C10-29 | 9 |
@@ -125,14 +125,14 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 6 | 6 | 5 | 3 | 2 | 6 | 1 | 6 | 4 | 33 |
 | 7 | 5 | 6 | 3 | 3 | 5 | 4 | 6 | 4 | 36 |
 | 8 | 3 | 2 | 2 | 2 | 2 | 1 | 0 | 2 | 14 |
-| 9 | 24 | 0 | 0 | 0 | 23 | 3 | 4 | 1 | 55 |
+| 9 | 32 | 0 | 0 | 0 | 24 | 3 | 4 | 1 | 64 |
 | 10 | 17 | 0 | 0 | 0 | 12 | 0 | 0 | 0 | 29 |
 | 11 | 33 | 0 | 0 | 0 | 24 | 1 | 11 | 3 | 72 |
 | 12 | 26 | 0 | 0 | 0 | 13 | 1 | 5 | 2 | 47 |
 | 13 | 16 | 0 | 0 | 0 | 5 | 1 | 0 | 1 | 23 |
 | 14 | 15 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 18 |
 | 15 | 23 | 0 | 0 | 0 | 6 | 0 | 3 | 0 | 32 |
-| Total | 196 | 57 | 41 | 25 | 136 | 28 | 62 | 25 | 570 |
+| Total | 204 | 57 | 41 | 25 | 137 | 28 | 62 | 25 | 579 |
 
 ## Page-by-page coverage summary
 
@@ -170,13 +170,13 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 412 | 48 | 3 | 3 | 0 |
 | 413 | 49 | 6 | 6 | 0 |
 | 414 | 50 | 8 | 8 | 0 |
-| 415 | 51 | 6 | 6 | 0 |
-| 416 | 52 | 7 | 7 | 0 |
-| 417 | 53 | 6 | 6 | 0 |
+| 415 | 51 | 7 | 7 | 0 |
+| 416 | 52 | 10 | 10 | 0 |
+| 417 | 53 | 7 | 7 | 0 |
 | 418 | 54 | 5 | 5 | 0 |
-| 419 | 55 | 7 | 7 | 0 |
-| 420 | 56 | 5 | 5 | 0 |
-| 421 | 57 | 5 | 5 | 0 |
+| 419 | 55 | 9 | 9 | 0 |
+| 420 | 56 | 6 | 6 | 0 |
+| 421 | 57 | 6 | 6 | 0 |
 | 422 | 58 | 5 | 5 | 0 |
 | 423 | 59 | 4 | 4 | 0 |
 | 424 | 60 | 5 | 5 | 0 |
@@ -214,7 +214,7 @@ Chapter 1 contains 49 questions (MED-C1-01 to MED-C1-49), including restored aud
 | 456 | 92 | 7 | 7 | 0 |
 | 457 | 93 | 14 | 14 | 0 |
 
-**Total: 678 mapped educational points; 570 questions; 55 units across 15 live chapters of 57.**
+**Total: 687 mapped educational points; 579 questions; 55 units across 15 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -849,11 +849,12 @@ Unasked points: **none found**.
 | Printed point / call-out | Question |
 |---|---|
 | The ACS flowchart links rupture/erosion with critical fibrin-rich thrombosis to STEMI; incomplete platelet-rich thrombosis leads to NSTEMI. | MED-C9-01 |
-| Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side. | MED-C9-02 |
-| The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries. | MED-C9-03 |
-| Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP. | MED-C9-04 |
-| The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death. | MED-C9-05 |
-| Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X. | MED-C9-06 |
+| The ‘Types of plaque’ arm is explicitly divided into vulnerable and non-vulnerable plaque in the pathophysiology diagram. | MED-C9-02 |
+| Epicardial arteries larger than 400 μm are placed in macrocirculation; small arteries, arterioles and capillaries form the microcirculatory side. | MED-C9-03 |
+| The diagram assigns flow and transport to epicardial arteries, pressure and regulation to small arteries/arterioles, and metabolites/exchange to capillaries. | MED-C9-04 |
+| Syndrome X is described as critical microvascular disease with impaired coronary reserve, reduced NO and increased endothelin/CRP. | MED-C9-05 |
+| The table labels this young-smoker, rest-angina, slow-flow phenotype as Syndrome Y; thickened wall/decreased lumen raise resting coronary resistance and prognosis includes arrhythmia/sudden death. | MED-C9-06 |
+| Syndrome Y is linked to young male smokers, rest angina, slow flow, vasodilator response and risk of sudden death/arrhythmias; the benign/antianginal profile is Syndrome X. | MED-C9-07 |
 
 Unasked points: **none found**.
 
@@ -861,13 +862,16 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure. | MED-C9-07 |
-| Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia. | MED-C9-08 |
-| Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki. | MED-C9-09 |
-| Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors. | MED-C9-10 |
-| The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased. | MED-C9-11 |
-| The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL. | MED-C9-12 |
-| Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant. | MED-C9-13 |
+| O2 demand: systemic SBP, HR, myocardial contractility and myocardial wall stress. Supply: coronary resistance/diameter, HR and perfusion pressure. | MED-C9-08 |
+| Syndrome Z is associated with OSAS and is drawn with centripetal obesity, insulin resistance, hypertension and hyperlipidaemia. | MED-C9-09 |
+| Large-vessel CAD causes listed are plaque, septic/other emboli, spasm (Prinzmetal angina), and vasculitis including Takayasu/Kawasaki. | MED-C9-10 |
+| The R/F list begins with 1. Family history, 2. Degree of calcification and 3. Lifestyle: physical inactivity before smoking as the most crucial preventable cause. | MED-C9-11 |
+| Smoking is explicitly marked as the most crucial preventable cause; family history, calcification, inactivity, diabetes, age and sex are also risk factors. | MED-C9-12 |
+| The sheet marks hs-CRP <1 mg/dL as low, 1–3 as increased, and >3 mg/dL as markedly increased. | MED-C9-13 |
+| The hyperlipidaemia list includes hs-CRP, Lp(a), Lp-PLA2, high small dense/oxidised LDL and low HDL. | MED-C9-14 |
+| Hypertension is listed with alters vessel architecture, endothelial dysfunction and LVH increasing myocardial O2 demand. | MED-C9-15 |
+| Diabetes (centripetal obesity with increased lipolysis and insulin resistance), Age 40–50 years and Gender F greater than M are listed after hyperlipidaemia. | MED-C9-16 |
+| Plaque is termed atherosclerotic coronary vascular disease (ASCVD); stenosis around 60–70% or more is marked significant. | MED-C9-17 |
 
 Unasked points: **none found**.
 
@@ -875,12 +879,13 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction. | MED-C9-14 |
-| Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state. | MED-C9-15 |
-| The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis. | MED-C9-16 |
-| The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’ | MED-C9-17 |
-| Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4. | MED-C9-18 |
-| The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%. | MED-C9-19 |
+| Hibernation is chronic persistent ischaemic dysfunction; the table notes FDG-PET > MRI for differentiating ischaemia and infarction. | MED-C9-18 |
+| Stunning is an acute, transient post-reperfusion segmental dysfunction, whereas hibernation is a chronic state. | MED-C9-19 |
+| The page lists LDL >190 mg/dL with target <100 mg/dL, diabetes age 40–75 (moderate-intensity rosuvastatin 10–20 mg), and clinical atherosclerosis. | MED-C9-20 |
+| The printed HOPE note reads ‘Ramipril ↓ fatal/non-vascular events → ACE inhibitors > ARBs.’ | MED-C9-21 |
+| Agatston score is determined by coronary CT; calcification is noted as irreversible, and medial calcification is linked to increased PTH and Ca×PO4. | MED-C9-22 |
+| The printed advice is salt <6 g/day, protein 1 g/kg/day, dietary cholesterol <200 mg/day, soluble fibre >10–25 g/day, and saturated fat <7%. | MED-C9-23 |
+| The page notes malnutrition-inflammation-atherosclerosis with protein malnutrition increasing CRP under the lifestyle modifications block. | MED-C9-24 |
 
 Unasked points: **none found**.
 
@@ -888,11 +893,11 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| In the diagram, >70% plaque with symptoms leads to angiography/stenting; the asymptomatic branch is labelled ACS. A roughly 20–30% plaque may rupture and cause MI. | MED-C9-20 |
-| Chronic stable angina is exertional chest tightness/squeezing/burning behind or left of mediastinum, can radiate C8–T4, lasts <20 min, and responds well to SL/oral NTG; >30 min suggests ACS. | MED-C9-21 |
-| Treadmill testing is indicated in chronic stable angina and asymptomatic risk-factor patients; rest symptoms, aortic stenosis and HOCM are contraindications. | MED-C9-22 |
-| Positive treadmill test: 2 mm horizontal/downsloping ST segment before 6 minutes/before achieving maximum HR, followed by angiography. | MED-C9-23 |
-| The presentation block states radiation may involve any dermatome from C8 to T4. | MED-C9-24 |
+| In the diagram, >70% plaque with symptoms leads to angiography/stenting; the asymptomatic branch is labelled ACS. A roughly 20–30% plaque may rupture and cause MI. | MED-C9-25 |
+| Chronic stable angina is exertional chest tightness/squeezing/burning behind or left of mediastinum, can radiate C8–T4, lasts <20 min, and responds well to SL/oral NTG; >30 min suggests ACS. | MED-C9-26 |
+| Treadmill testing is indicated in chronic stable angina and asymptomatic risk-factor patients; rest symptoms, aortic stenosis and HOCM are contraindications. | MED-C9-27 |
+| Positive treadmill test: 2 mm horizontal/downsloping ST segment before 6 minutes/before achieving maximum HR, followed by angiography. | MED-C9-28 |
+| The presentation block states radiation may involve any dermatome from C8 to T4. | MED-C9-29 |
 
 Unasked points: **none found**.
 
@@ -900,13 +905,15 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation. | MED-C9-25 |
-| FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction. | MED-C9-26 |
-| The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions. | MED-C9-27 |
-| MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection. | MED-C9-28 |
-| After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line. | MED-C9-29 |
-| Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT. | MED-C9-30 |
-| Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator. | MED-C9-31 |
+| MPS is done with Tc-99m or thallium; listed uses include rest symptoms, localisation, abnormal baseline ECG, and assessing completeness of revascularisation. | MED-C9-30 |
+| FDG-PET distinguishes stunned from scarred myocardium. The source also states FDG-PET/MRI are preferred over MPS to distinguish ischaemia from infarction. | MED-C9-31 |
+| Electron beam CT is listed to quantify cardiac calcification in the miscellaneous points. | MED-C9-32 |
+| The page identifies exercise radionuclide angiography/MUGA for cardiac volumes and functions. | MED-C9-33 |
+| MRI is marked IOC for myocardial fibrosis/ejection fraction and gold standard for ejection fraction; IVUS is IOC for ostial left-main lesion/coronary dissection. | MED-C9-34 |
+| After SL NTG 3 tablets/20 min without improvement, the flowchart flags ACS and lists NTG plus beta-blockers as first line. | MED-C9-35 |
+| The table lists 1st line nitrates vasodilation with ↑HR ↓BP limitation tolerance, beta-blockers ↓pump function ↓HR ↓BP prolonging life post MI, and 2nd line CCBs ↓pump function plus vasodilation ↓HR ↓BP. | MED-C9-36 |
+| Ivabradine inhibits funny current and lowers HR; visual disturbance is its source-listed adverse effect. Trimetazidine inhibits pFOX with no BP/HR effect; ranolazine may prolong QT. | MED-C9-37 |
+| Fasudil is shown as a Rho-kinase inhibitor; nicorandil is a K+ channel activator. | MED-C9-38 |
 
 Unasked points: **none found**.
 
@@ -914,11 +921,12 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| The stenting note lists abciximab, eptifibatide and tirofiban as GP IIb–IIIa inhibitors and favours tacrolimus/paclitaxel drug-eluting over bare-metal stents. | MED-C9-32 |
-| Prinzmetal angina is rest angina, lasts 5–15 min, has transient ST elevation and normal angiography; beta-blockers are to be avoided. | MED-C9-33 |
-| Kingmaker segment is stated to be the ST segment: end of J point to onset of T wave. | MED-C9-34 |
-| Systolic current from subepicardial/transmural injury flows toward injured myocardium and produces ST elevation (MI or pericarditis); subendocardial diastolic current flows away and produces non-localising ST depression. | MED-C9-35 |
-| The diagrams contrast non-concave/convex ST elevation in MI with concave/saddle-shaped elevation in pericarditis. | MED-C9-36 |
+| The stenting note lists abciximab, eptifibatide and tirofiban as GP IIb–IIIa inhibitors and favours tacrolimus/paclitaxel drug-eluting over bare-metal stents. | MED-C9-39 |
+| Prinzmetal angina is rest angina, lasts 5–15 min, has transient ST elevation and normal angiography; beta-blockers are to be avoided. | MED-C9-40 |
+| Kingmaker segment is stated to be the ST segment: end of J point to onset of T wave. | MED-C9-41 |
+| Systolic current from subepicardial/transmural injury flows toward injured myocardium and produces ST elevation (MI or pericarditis); subendocardial diastolic current flows away and produces non-localising ST depression. | MED-C9-42 |
+| The diagrams contrast non-concave/convex ST elevation in MI with concave/saddle-shaped elevation in pericarditis. | MED-C9-43 |
+| The diagram labels PR interval, ST interval, TP interval, QT interval and RR interval with calibration 0.04 s =40 ms and 0.20 s =200 ms. | MED-C9-44 |
 
 Unasked points: **none found**.
 
@@ -926,11 +934,12 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| Listed alternatives are Prinzmetal angina, hyperkalaemia > hypokalaemia, LBBB, benign early repolarisation and LV aneurysm. | MED-C9-37 |
-| Convex and coved morphologies are labelled ACS; horizontal/plateau is ‘ACS unless proven otherwise’; oblique is <30% ACS and concave <15% ACS. | MED-C9-38 |
-| Significant V2–V3 elevation is ≥2.5 mm if <40 years, ≥2 mm if >40 years, and ≥1.5 mm in females; reciprocal changes must be present in the source's MI diagnosis note. | MED-C9-39 |
-| The sequence progresses from hyperacute T wave to hyperacute T waves with ST elevation, then pathological Q/decreasing R and further ST/T changes over hours to days. | MED-C9-40 |
-| The illustrated tracing is captioned ST elevation with reciprocal changes and marks a high lateral MI pattern. | MED-C9-41 |
+| Listed alternatives are Prinzmetal angina, hyperkalaemia > hypokalaemia, LBBB, benign early repolarisation and LV aneurysm. | MED-C9-45 |
+| Convex and coved morphologies are labelled ACS; horizontal/plateau is ‘ACS unless proven otherwise’; oblique is <30% ACS and concave <15% ACS. | MED-C9-46 |
+| Significant V2–V3 elevation is ≥2.5 mm if <40 years, ≥2 mm if >40 years, and ≥1.5 mm in females; reciprocal changes must be present in the source's MI diagnosis note. | MED-C9-47 |
+| The sequence progresses from hyperacute T wave to hyperacute T waves with ST elevation, then pathological Q/decreasing R and further ST/T changes over hours to days. | MED-C9-48 |
+| The illustrated tracing is captioned ST elevation with reciprocal changes and marks a high lateral MI pattern. | MED-C9-49 |
+| The page marks normal ST elevation at the transient zone in V2–V3 without pathological reciprocal changes. | MED-C9-50 |
 
 Unasked points: **none found**.
 
@@ -938,11 +947,11 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| Benign early repolarisation has ST elevation and J-point hook effect; PR depression supports pericarditis instead. | MED-C9-42 |
-| The pericarditis block gives clinical features/acute illness, global concave upward ST elevation, PR depression and no reciprocal changes. | MED-C9-43 |
-| Hypothermia is labelled with an Osborne wave. The page also illustrates post-DC-cardioversion tracing and Takotsubo cardiomyopathy. | MED-C9-44 |
-| Takotsubo cardiomyopathy is labelled catecholamine-induced cardiac failure/broken-heart syndrome and most common in middle-aged females. | MED-C9-45 |
-| The printed differential says BER has no PR depression; pericarditis has PR depression, global concave elevation and no reciprocal changes. | MED-C9-46 |
+| Benign early repolarisation has ST elevation and J-point hook effect; PR depression supports pericarditis instead. | MED-C9-51 |
+| The pericarditis block gives clinical features/acute illness, global concave upward ST elevation, PR depression and no reciprocal changes. | MED-C9-52 |
+| Hypothermia is labelled with an Osborne wave. The page also illustrates post-DC-cardioversion tracing and Takotsubo cardiomyopathy. | MED-C9-53 |
+| Takotsubo cardiomyopathy is labelled catecholamine-induced cardiac failure/broken-heart syndrome and most common in middle-aged females. | MED-C9-54 |
+| The printed differential says BER has no PR depression; pericarditis has PR depression, global concave elevation and no reciprocal changes. | MED-C9-55 |
 
 Unasked points: **none found**.
 
@@ -950,10 +959,10 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| The summary panel lists LVH, LBBB, acute pericarditis, pseudo-infarction pattern (hyperkalaemia), acute anteroseptal MI, acute anterolateral MI and Brugada syndrome. | MED-C9-47 |
-| The summary labels horizontal ST depression ‘probable ischemia’; sloping ST is strain-related and scoop-shaped ST is digoxin-related. | MED-C9-48 |
-| The ‘scoop’ example is explicitly labelled digoxin related; morphology must be interpreted in clinical context. | MED-C9-49 |
-| The final tracing is captioned ‘de Winter T waves: evolves to MI.’ | MED-C9-50 |
+| The summary panel lists LVH, LBBB, acute pericarditis, pseudo-infarction pattern (hyperkalaemia), acute anteroseptal MI, acute anterolateral MI and Brugada syndrome. | MED-C9-56 |
+| The summary labels horizontal ST depression ‘probable ischemia’; sloping ST is strain-related and scoop-shaped ST is digoxin-related. | MED-C9-57 |
+| The ‘scoop’ example is explicitly labelled digoxin related; morphology must be interpreted in clinical context. | MED-C9-58 |
+| The final tracing is captioned ‘de Winter T waves: evolves to MI.’ | MED-C9-59 |
 
 Unasked points: **none found**.
 
@@ -961,11 +970,11 @@ Unasked points: **none found**.
 
 | Printed point / call-out | Question |
 |---|---|
-| The page contrasts normal myocardium, tall/peaked T waves in subendocardial ischaemia, and deep symmetrical inversion in transmural ischaemia. | MED-C9-51 |
-| Deep symmetrical T inversion is labelled transmural ischaemia; tall/peaked T waves are subendocardial ischaemia. | MED-C9-52 |
-| The lower paired ECGs show hyperacute T waves progressing to STEMI. | MED-C9-53 |
-| The note beneath the strip states ‘U waves: Hypokalemia.’ | MED-C9-54 |
-| The page presents serial ST-depression changes at 60, 90 and 120 minutes before its T-wave panels. | MED-C9-55 |
+| The page contrasts normal myocardium, tall/peaked T waves in subendocardial ischaemia, and deep symmetrical inversion in transmural ischaemia. | MED-C9-60 |
+| Deep symmetrical T inversion is labelled transmural ischaemia; tall/peaked T waves are subendocardial ischaemia. | MED-C9-61 |
+| The lower paired ECGs show hyperacute T waves progressing to STEMI. | MED-C9-62 |
+| The note beneath the strip states ‘U waves: Hypokalemia.’ | MED-C9-63 |
+| The page presents serial ST-depression changes at 60, 90 and 120 minutes before its T-wave panels. | MED-C9-64 |
 
 Unasked points: **none found**.
 
@@ -1423,8 +1432,8 @@ Unasked points: **none found**.
 
 ## Post-build verification
 
-- `python3 build_content.py` embedded 570 questions / 55 units / 15 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 579 questions / 55 units / 15 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 570 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 579 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
