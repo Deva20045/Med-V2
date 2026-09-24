@@ -49,12 +49,12 @@ page_to_pdf = {page: page_to_sheet(page) for page in range(377, 602)}
 
 out = []
 out.append("# Chapters 2–38 — visual self-audit gate\n")
-out.append("Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF5–37 (Book p566–601; printed p586, p590 and p591 are absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
+out.append("Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562). See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
 out.append("- Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).")
 out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.")
-out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–29 and 33–38 (no fill-up or match worksheets), and exact citation references.")
-out.append("- Questions in Chapters 9–29 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
+out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–31 and 33–38 (no fill-up or match worksheets), and exact citation references.")
+out.append("- Questions in Chapters 9–31 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
 out.append("- Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.\n")
 
 out.append("## Source-specific notes retained as book-study material\n")
@@ -124,6 +124,15 @@ out.append("| 514–518 | Behcet and Cogan diagnostic/treatment criteria, pather
 out.append("| 519–520 | Arthritis approach thresholds, inflammatory synovial-fluid cut-off and erosion table are study points, not a substitute for clinical assessment. |")
 out.append("| 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |")
 out.append("| 532–554 | Chapters 27–29 book-study notes: non-radiographic axial SpA 5%→radiographic in 5–10 y; Schober A–B 15 cm with normal ≥20; indomethacin 50 TID 2–3 wks; Reiter's triad; Chlamydia GU 9:1 vs Shigella India 1:1; keratoderma d/d palmo-plantar psoriasis; LMAP self-limiting vs SMAP-u→anti-TNF; 60/30/30 with 90% nail change; CASPER; pencil-in-cup; inflammasome→IL-1β; humans lack uricase; stone thresholds uric>7 / Ca>4 m/c / citrate<11; 4-compartment 100/50/40/10; >6F/>7M with 90% underexcretion; CANT LEAP; Kelley 6.8; first-MTP 85% with UA normal 40%; MSUM needles strong negative parallel; colchicine 1.2→0.6 schedule; ACR triad; 60% flare/yr; allopurinol 300 HLA-B5801; febuxostat cardiotoxic; oxalate envelope; AOSD 25–45 quotidian salmon poly knee>wrist; Yamaguchi >5; HLH 10% ESR↓ fibrinogen↓ TG↑ ferritin↑↑; NSAID→steroid+MTX→anti-IL1/6 with sulfasalazine avoided; gonococcal vs septic table; synovial WBC >50 000 gold standard; vanco+ceftriaxone; drainage thick pus/shoulder/hip — retained exactly as printed book-study material. |\n")
+out.append("| 555 | The MMSE is presented as a higher-mental-function screen 'based on' the printed ORAR LC list; the mnemonic is not expanded beyond those six bullets and no scoring cut-off (for example 24/30) is printed on this sheet. |")
+out.append("| 556 | Area 8 is printed twice, for the supplementary motor area (medially) and for the frontal eye field; areas 9–12 prefrontal, 44/45 Broca and the H-shaped orbital sulcus are transcribed as drawn. |")
+out.append("| 557 | Both the primary motor area and the premotor/supplementary block print 30% of motor fibres, while p560 prints the 40/30/30 split including primary sensory cortex; the percentages are reproduced as printed rather than reconciled. |")
+out.append("| 558 | The motor-cortex lesion line prints 'Fare & upper Limb' (read as Face) and 'Initiate lesion' (the irritative-lesion arm); the flowchart boxes 'Right PTO', 'DLPN', 'NPH VN' and 'Internal sagittal stratum' are printed without expansions, so no question asks what those abbreviations stand for. |")
+out.append("| 558 | The gaze rules ('frontal lobe lesion — look towards the side of the lesion', 'brain stem lesion (PPRF) — look away') are reproduced as printed bedside rules and are not extended to other causes of deviation. |")
+out.append("| 559 | JIPFA (Judgement, Insight, Problem solving/personality, Fluency, Abstract thinking) and the apathy → abulia → akinetic mutism ladder are printed mnemonics/gradings of this source, not validated clinical scales; the NPH gait line prints 'Ignition failure : Foot feels like stuck to floor'. |")
+out.append("| 560 | 'Origin of motor fibres' 40% sensory / 30% motor / 30% premotor-SMA is the source's own accounting; the parietal figure annotates the superior parietal lobule as Praxicons, the supramarginal gyrus as Gnosis and the angular gyrus as Gerstmann syndrome. |")
+out.append("| 561 | The visual-agnosia panel prints the four object captions snake, stereo or computer, bug and lamp as misreadings; the handedness table (right-handed 5% right / 90–95% left; left-handed 40% / 50–60%) is transcribed as printed. |")
+out.append("| 562 | 'Gerstman syndrome' (printed without the second 'n'), 'Left hemispatal neglect' (as printed), the ROCF A1/A2/A3 copies and the pie-in-floor/pie-in-sky table are reproduced exactly as drawn; macular sparing in the PCA branch is a source statement. |")
 out.append("| 566 | Broca (44,45) grammar/syntax/rhythm/fluency vs Wernicke (22) sound/comprehension, non-dominant prosody and 'pure word deafness' labelled on the connecting fibres are transcribed as printed. |")
 out.append("| 567 | The DESP non-fluent list and the four-arm comprehension/repetition flowchart (watershed infarct for transcortical motor) are reproduced as printed. |")
 out.append("| 568 | Four dysarthria types by anatomical level and the 'lesion of parietal lobe: inferior quadrantanopia' note (vs superior quadrantanopia in the Wernicke's arm) are source statements. |")
@@ -175,6 +184,13 @@ out.append("\n## Chapters 27–29 release table\n")
 out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
 out.append("|---:|---|---:|---:|---:|---:|")
 for n in range(27, 30):
+    c = next(ch for ch in chapters_data if ch['chapter'] == n)
+    out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
+
+out.append("\n## Chapters 30–31 release table\n")
+out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
+out.append("|---:|---|---:|---:|---:|---:|")
+for n in range(30, 32):
     c = next(ch for ch in chapters_data if ch['chapter'] == n)
     out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
 
