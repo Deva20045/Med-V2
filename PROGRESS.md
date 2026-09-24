@@ -3,12 +3,30 @@
 Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0d219-med-v2`
+- Session branch: `arena/01a0d35c-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 35 live chapters / 57 · 1465 questions / 149 units.** Chapters 30–32, 39–57 remain `live:false`.
+- **Build status: 37 live chapters / 57 · 1527 questions / 157 units.** Chapters 32, 39–57 remain `live:false`.
 
-## This release — Chapters 27–29
+## This release — Chapters 30–31
+
+Two consecutive neurology chapters were rendered from the supplied scans, read line-to-line in printed order and made live (Book p555–562: `uploads/02.pdf` PDF87–93 and `uploads/03.pdf` PDF1):
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 30 | Frontal Lobe | 555–559 | 35 | 5 |
+| 31 | Praxicons | 560–562 | 27 | 3 |
+| **Release total** |  | **8 book pages** | **62** | **8** |
+
+### Quality and ordering contract delivered
+
+1. All eight supplied sheets were read top-to-bottom at 2×, including the MMSE acronym, surface/functional diagrams, Brodmann-area labels, motor homunculus, lesion-pattern rules, gaze circuit, prefrontal table, parietal association map, percentages, apraxia distinctions, neglect table, Gerstmann syndrome and visual-field notes. The p562 handoff was verified (`02.pdf` PDF93 → `03.pdf` PDF1); no sheet in p555–562 is missing.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 30–31 add **62 ordered mappings**, bringing the audited ledger to **1635 mappings** for Chapters 2–38.
+3. New questions are reasoning-first: **no fill-up, matching or true/false worksheets**. Clinical scenarios, mechanism-based recall and numeric interpretation use plausible medical distractors rather than predictable options.
+4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. Chapters 30–31 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
+
+## Previous release — Chapters 27–29
 
 Three consecutive rheumatology chapters were rendered from `uploads/02.pdf`, read block by block, source-ordered and made live (Book p532–554, all in `uploads/02.pdf` PDF64–86):
 
@@ -25,7 +43,7 @@ Three consecutive rheumatology chapters were rendered from `uploads/02.pdf`, rea
 2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 27–29 add **201 ordered mappings**, bringing the audited ledger to **1573 mappings** for Chapters 2–38.
 3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
-5. Chapters 27–29 are embedded in the standalone app and all 35 roadmap flags for live chapters are set.
+5. Chapters 27–29 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 33–38
 
@@ -48,7 +66,7 @@ Six consecutive neurology chapters were rendered from the scans, read block by b
 3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 33–38 are embedded in the standalone app and all 35 roadmap flags for live chapters are set.
+6. Chapters 33–38 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 16–26
 
@@ -68,7 +86,7 @@ Eleven consecutive rheumatology chapters (Book p458–531):
 | 26 | Rheumatoid Arthritis | 521–531 | 80 | 4 |
 | **Release total** |  | **74 pages** | **517** | **47** |
 
-Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
+Full evidence: [Chapter 30–31 read notes](audit/READ_NOTES_30_31.md), [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
 
 ## Verified PDF → printed-page map
 
@@ -94,8 +112,9 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **02.pdf PDF17–23: p484–490 (Ch20)**
 - **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**
 - **02.pdf PDF64–86: p532–554 (Ch27–29)**
-- 02.pdf PDF87–93: p555–561 (Ch30–32 territory, not yet live)
-- 03.pdf PDF1–4: p562–565 (Ch30–32 territory, not yet live)
+- **02.pdf PDF87–93: p555–561 (Ch30–31)**
+- **03.pdf PDF1: p562 (Ch31)**
+- 03.pdf PDF2–4: p563–565 (Ch32 territory, not yet live)
 - **03.pdf PDF5–10: p566–571 (Ch33–34)**
 - **03.pdf PDF11–21: p572–582 (Ch35–36)**
 - **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**
@@ -119,8 +138,9 @@ python3 tools/generate_ch09_15.py        # Chapters 9-15
 python3 tools/generate_ch16_20.py        # Chapters 16-20
 python3 tools/generate_ch21_26.py        # Chapters 21-26
 python3 tools/generate_ch27_29.py        # Chapters 27-29
+python3 tools/generate_ch30_31.py        # Chapters 30-31
 python3 tools/generate_ch33_38.py        # Chapters 33-38
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-29, Ch33-38)
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-31, Ch33-38)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -258,6 +278,14 @@ node tests/app_parsers.cjs
 | 29 | 1. Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria | 552 | MED-C29-01–MED-C29-09 | 9 |
 | 29 | 2. Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations | 553 | MED-C29-10–MED-C29-20 | 11 |
 | 29 | 3. Gonococcal versus septic comparison, septic-arthritis management and arthritis approach | 554 | MED-C29-21–MED-C29-28 | 8 |
+| 30 | 1. MMSE and frontal-lobe surface orientation | 555 | MED-C30-01–MED-C30-05 | 5 |
+| 30 | 2. Frontal-lobe areas and surface anatomy | 556 | MED-C30-06–MED-C30-12 | 7 |
+| 30 | 3. Motor cortex, movement sequence and homunculus | 557 | MED-C30-13–MED-C30-19 | 7 |
+| 30 | 4. Motor lesions, frontal eye field and Broca area | 558 | MED-C30-20–MED-C30-28 | 9 |
+| 30 | 5. Prefrontal cortex and bilateral frontal pathology | 559 | MED-C30-29–MED-C30-35 | 7 |
+| 31 | 1. Parietal map, postcentral gyrus and motor-fibre origins | 560 | MED-C31-01–MED-C31-07 | 7 |
+| 31 | 2. Praxicons, apraxias and parietal dominance | 561 | MED-C31-08–MED-C31-18 | 11 |
+| 31 | 3. Hemispatial neglect, angular gyrus and visual pathways | 562 | MED-C31-19–MED-C31-27 | 9 |
 | 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
 | 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
 | 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
@@ -318,8 +346,8 @@ node tests/app_parsers.cjs
 | 27 | Spondyloarthritis | 532 | **Live** |
 | 28 | Crystal Arthropathies | 543 | **Live** |
 | 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | **Live** |
-| 30 | Frontal Lobe | 555 | Soon |
-| 31 | Praxicons | 560 | Soon |
+| 30 | Frontal Lobe | 555 | **Live** |
+| 31 | Praxicons | 560 | **Live** |
 | 32 | Temporal and Occipital Lobe | 563 | Soon |
 | 33 | Language V/S Speech | 566 | **Live** |
 | 34 | Memory | 569 | **Live** |
