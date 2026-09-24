@@ -1,0 +1,1893 @@
+{
+  "chapter": 41,
+  "title": "CNS Infections",
+  "pageRange": "613-617",
+  "questions": [
+    {
+      "id": "MED-C41-01",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Encephalitis is defined in the book as:",
+      "opts": [
+        "Signs & symptoms of seizure activity",
+        "Sudden loss of muscle tone",
+        "Transient hypersynchronous neuronal activity",
+        "Abnormal cerebral function"
+      ],
+      "ans": 3,
+      "exp": "Encephalitis: Abnormal cerebral function (Book p613)"
+    },
+    {
+      "id": "MED-C41-02",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Severity of bacterial meningitis is described as:",
+      "opts": [
+        "Acute and catastrophic",
+        "Benign disease",
+        "Severe: Brain parenchyma involved",
+        "Chronic and slowly progressive"
+      ],
+      "ans": 0,
+      "exp": "Bacterial meningitis Severity: Acute and catastrophic (Book p613)"
+    },
+    {
+      "id": "MED-C41-03",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Viral meningitis presentation severity is described as:",
+      "opts": [
+        "Refractory status epilepticus only",
+        "Benign disease",
+        "Acute and catastrophic",
+        "Severe: Brain parenchyma involved"
+      ],
+      "ans": 1,
+      "exp": "Viral meningitis Presentation: Benign disease (Book p613)"
+    },
+    {
+      "id": "MED-C41-04",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Viral encephalitis severity is:",
+      "opts": [
+        "Acute and catastrophic without parenchyma",
+        "Mild with no confusion",
+        "Severe: Brain parenchyma involved",
+        "Benign disease"
+      ],
+      "ans": 2,
+      "exp": "Viral encephalitis Severity: Severe Brain parenchyma involved (Book p613)"
+    },
+    {
+      "id": "MED-C41-05",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "numeric",
+      "q": "Onset of symptoms in bacterial meningitis is:",
+      "opts": [
+        "3-5 days",
+        "1-2 days",
+        "5-10 years before",
+        "24-48 hrs"
+      ],
+      "ans": 3,
+      "exp": "Bacterial meningitis Onset of Symptoms 24-48 hrs (Book p613)"
+    },
+    {
+      "id": "MED-C41-06",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "numeric",
+      "q": "Onset of symptoms in viral meningitis is:",
+      "opts": [
+        "3-5 days",
+        "24-48 hrs",
+        "1-2 days",
+        "1-2 days with refractory status"
+      ],
+      "ans": 0,
+      "exp": "Viral meningitis Onset 3-5 days (Book p613)"
+    },
+    {
+      "id": "MED-C41-07",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "numeric",
+      "q": "Onset of symptoms in viral encephalitis is:",
+      "opts": [
+        "4-10 yrs",
+        "1-2 days",
+        "24-48 hrs",
+        "3-5 days"
+      ],
+      "ans": 1,
+      "exp": "Viral encephalitis Onset 1-2 days (Book p613)"
+    },
+    {
+      "id": "MED-C41-08",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Clinical features of bacterial meningitis include high fever spikes, neck stiffness, vomiting, severe headache, photophobia and:",
+      "opts": [
+        "Pause/stare > automatisms > eye movement",
+        "Sudden brief shock like contractions",
+        "Altered mental status (Patient lethargic, confused and distractable)",
+        "Day dreaming and loss of focus"
+      ],
+      "ans": 2,
+      "exp": "Bacterial meningitis Clinical Features: High fever spikes, Neck stiffness, Vomiting, Severe headache, Photophobia, Altered mental status (Patient lethargic, confused and distractable) (Book p613)"
+    },
+    {
+      "id": "MED-C41-09",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "management",
+      "q": "Bacterial meningitis should start treatment ASAP because mortality in untreated patients is:",
+      "opts": [
+        "50% in untreated",
+        "Good prognosis with remission by 12 yrs",
+        "Self-limiting with good prognosis",
+        "100% in untreated patients"
+      ],
+      "ans": 3,
+      "exp": "Bacterial meningitis Should start treatment ASAP (mortality 100% in untreated patients) (Book p613)"
+    },
+    {
+      "id": "MED-C41-10",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Viral meningitis clinical course peaks initially with fever + headache and lasts:",
+      "opts": [
+        "1-2 days",
+        "24-48 hrs",
+        "1-2 days with refractory status",
+        "5-10 years"
+      ],
+      "ans": 0,
+      "exp": "Viral meningitis Peaks initially with fever + headache, Last 1-2 days (Book p613)"
+    },
+    {
+      "id": "MED-C41-11",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Viral meningitis associated symptoms include nausea, vomiting, photophobia, neck stiffness, discomfort, distracted, confusion, lethargy and m/c organism:",
+      "opts": [
+        "HSV-1 > JE virus",
+        "Enterovirus type 7 > HSV-2",
+        "Streptococcus pneumoniae (m/c)",
+        "E.coli (m/c)"
+      ],
+      "ans": 1,
+      "exp": "Viral meningitis m/c organism: Enterovirus type 7 > HSV-2 with symptoms Nausea, Vomiting, Photophobia, Neck stiffness, Discomfort, Distracted, Confusion, Lethargy (Book p613)"
+    },
+    {
+      "id": "MED-C41-12",
+      "sec": "CNS Infections Overview and Comparison",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Viral encephalitis clinical features include refractory status epilepticus, complete altered behaviour/personality changes, confusion status subtle -> unresponsive, speech defect and:",
+      "opts": [
+        "Day dreaming absent minded",
+        "Sudden loss of muscle tone",
+        "Focal neurological deficit motor/sensory",
+        "Neck stiffness only"
+      ],
+      "ans": 2,
+      "exp": "Viral encephalitis Clinical Features: Refractory status epilepticus, Complete altered behaviour/personality changes, Confusion status Subtle changes -> unresponsive state, Speech defect, Focal neurological deficit motor/sensory (Book p613)"
+    },
+    {
+      "id": "MED-C41-13",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Most common organism for viral encephalitis in India is:",
+      "opts": [
+        "Enterovirus type 7 > HSV-2",
+        "Streptococcus pneumoniae (m/c)",
+        "E.coli (m/c)",
+        "HSV-1 > Japanese encephalitis virus"
+      ],
+      "ans": 3,
+      "exp": "Viral encephalitis Etiology m/c organism in India: HSV-1 > Japanese encephalitis virus (Book p613)"
+    },
+    {
+      "id": "MED-C41-14",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Rare viral encephalitis organism listed is:",
+      "opts": [
+        "Nipah virus (rare)",
+        "HSV-1",
+        "Enterovirus type 7",
+        "Japanese encephalitis virus"
+      ],
+      "ans": 0,
+      "exp": "Viral encephalitis Nipah virus (rare) (Book p613)"
+    },
+    {
+      "id": "MED-C41-15",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Types of viral encephalitis are:",
+      "opts": [
+        "Focal and generalized only",
+        "Pure encephalitis and meningoencephalitis",
+        "Bacterial and fungal only",
+        "Acute and chronic only"
+      ],
+      "ans": 1,
+      "exp": "Viral encephalitis Types: Pure encephalitis, meningoencephalitis (Book p613)"
+    },
+    {
+      "id": "MED-C41-16",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "CSF analysis in viral encephalitis sugar is:",
+      "opts": [
+        "<4.0",
+        "Raised >0.6",
+        "Normal range",
+        "<0.4"
+      ],
+      "ans": 2,
+      "exp": "Viral encephalitis CSF Analysis Sugar: Normal range (Book p613)"
+    },
+    {
+      "id": "MED-C41-17",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "numeric",
+      "q": "CSF protein in viral encephalitis is raised:",
+      "opts": [
+        "15-45 mg/dL",
+        ">100 (~250 mg/dL)",
+        "<100 mg/dL",
+        "50-300 mg/dL"
+      ],
+      "ans": 3,
+      "exp": "Viral encephalitis CSF Protein: Raised (50-300 mg/dL) (Book p613)"
+    },
+    {
+      "id": "MED-C41-18",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "numeric",
+      "q": "CSF cell count in viral encephalitis is raised:",
+      "opts": [
+        "10-1000",
+        "<5 cells/µL",
+        ">1000 cells/µL",
+        "500-800 cells/µL"
+      ],
+      "ans": 0,
+      "exp": "Viral encephalitis Cell count: Raised (10-1000) (Book p613)"
+    },
+    {
+      "id": "MED-C41-19",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "RBC count in viral encephalitis CSF is:",
+      "opts": [
+        ">1000 cells/µL",
+        "NIL",
+        "Raised",
+        "Cloudy/yellow"
+      ],
+      "ans": 1,
+      "exp": "Viral encephalitis RBC count: NIL (Book p613)"
+    },
+    {
+      "id": "MED-C41-20",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "Antibodies in viral encephalitis are positive for:",
+      "opts": [
+        "Streptococcus pneumoniae",
+        "E.coli",
+        "HSV and JE",
+        "Enterovirus type 7 > HSV-2"
+      ],
+      "ans": 2,
+      "exp": "Viral encephalitis Antibodies: Positive for HSV and JE (Book p613)"
+    },
+    {
+      "id": "MED-C41-21",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 613,
+      "fmt": "recall",
+      "q": "MRI findings in HSV or JE encephalitis are hyperintensity in which three regions?",
+      "opts": [
+        "B/L PCA lesion, C5-C6, Cingulate gyrus",
+        "Frontal/Fronto-parietal, T2 flare, T1 flare",
+        "Posterior superior iliac spine region",
+        "Medio-temporal, Orbito-frontal, Insula"
+      ],
+      "ans": 3,
+      "exp": "HSV or JE encephalitis findings: Hyperintensity medio-temporal, Orbito-frontal, Insula (Book p613)"
+    },
+    {
+      "id": "MED-C41-22",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 614,
+      "fmt": "management",
+      "q": "Treatment note for viral encephalitis/meningitis says start antibiotics:",
+      "opts": [
+        "Should start even with suspicion of encephalitis",
+        "Only after culture 80% positive",
+        "Only if gram stain 60% positive",
+        "Only after imaging shows SOL"
+      ],
+      "ans": 0,
+      "exp": "Treatment: Start Antibiotics (Should start even with suspicion of encephalitis) (Book p614)"
+    },
+    {
+      "id": "MED-C41-23",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Anti NMDA antibody is associated with autoimmune encephalitis; treatment is:",
+      "opts": [
+        "Vancomycin 1gm IV BD",
+        "IVIg PLEX",
+        "Penicillin",
+        "Ceftriaxone 2gm IV BD"
+      ],
+      "ans": 1,
+      "exp": "Anti NMDA Antibody: Autoimmune encephalitis Rx: IVIg PLEX (Book p614)"
+    },
+    {
+      "id": "MED-C41-24",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Anti Na antibody is associated with:",
+      "opts": [
+        "Thymoma only",
+        "SCLC and thymoma",
+        "SCLC (Small cell lung cancer)",
+        "Testicular malignancy"
+      ],
+      "ans": 2,
+      "exp": "Anti Na Antibody: SCLC (Small cell lung cancer) (Book p614)"
+    },
+    {
+      "id": "MED-C41-25",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Anti CRMP5 antibody is associated with:",
+      "opts": [
+        "Testicular malignancy only",
+        "SCLC only",
+        "Autoimmune encephalitis with IVIg PLEX",
+        "SCLC, thymoma"
+      ],
+      "ans": 3,
+      "exp": "Anti CRMP5 Antibody: SCLC, thymoma (Book p614)"
+    },
+    {
+      "id": "MED-C41-26",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Anti Hu 2 antibody is associated with:",
+      "opts": [
+        "Testicular malignancy",
+        "SCLC only",
+        "Thymoma only",
+        "SCLC, thymoma"
+      ],
+      "ans": 0,
+      "exp": "Anti Hu 2 Antibody: Testicular malignancy (Book p614)"
+    },
+    {
+      "id": "MED-C41-27",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Acute meningitis should be considered what unless proven otherwise?",
+      "opts": [
+        "TB",
+        "Bacterial",
+        "Viral",
+        "Fungal"
+      ],
+      "ans": 1,
+      "exp": "Acute meningitis should be considered bacterial unless proven otherwise (Book p614)"
+    },
+    {
+      "id": "MED-C41-28",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "CSF subarachnoid space normal cell count is:",
+      "opts": [
+        ">1000 cells/µL",
+        "500-800 cells/µL",
+        "<5 cell/µL",
+        "<1000 cells/µL"
+      ],
+      "ans": 2,
+      "exp": "CSF (Subarachnoid space) <5 cell/µL (Book p614)"
+    },
+    {
+      "id": "MED-C41-29",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "CSF favourable condition for organism includes no complements and:",
+      "opts": [
+        "No neutrophils",
+        "High lactate",
+        "Cloudy colour",
+        "No Immunoglobulin"
+      ],
+      "ans": 3,
+      "exp": "CSF No Complements, No Immunoglobulin is Favourable condition for organism (Book p614)"
+    },
+    {
+      "id": "MED-C41-30",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "PMNL stands for:",
+      "opts": [
+        "Polymorphonuclear neutrophils",
+        "Paroxysmal fast activity",
+        "Penicillin-Resistant Streptococcus pneumoniae",
+        "Progressive myoclonic epilepsy"
+      ],
+      "ans": 0,
+      "exp": "PMNL: Polymorphonuclear neutrophils (Book p614)"
+    },
+    {
+      "id": "MED-C41-31",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Organism entry into CSF releases endotoxins, teichonic acid etc leading to inflammatory cascade mediated by:",
+      "opts": [
+        "TGF-β/PDGF",
+        "Cytokines",
+        "Complement C5b-C9",
+        "IgG4"
+      ],
+      "ans": 1,
+      "exp": "Organism entry into CSF Release Endotoxins teichonic acid etc Inflammatory cascade (mediated by cytokines) (Book p614)"
+    },
+    {
+      "id": "MED-C41-32",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Inflammatory cascade leads to symptoms and can involve brain parenchyma to form:",
+      "opts": [
+        "Benign disease only",
+        "Acute catastrophic only",
+        "Meningoencephalitis",
+        "Pure encephalitis only"
+      ],
+      "ans": 2,
+      "exp": "Symptoms -> meningitis and meningoencephalitis with + Involvement of Brain parenchyma (Book p614)"
+    },
+    {
+      "id": "MED-C41-33",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In adults, most common cause of acute meningitis is:",
+      "opts": [
+        "Enterobacteriaceae E.coli (m/c)",
+        "Streptococcus agalactiae (m/c)",
+        "Hib",
+        "Streptococcus pneumoniae (m/c)"
+      ],
+      "ans": 3,
+      "exp": "Acute meningitis In Adults Streptococcus pneumoniae (m/c) (Book p614)"
+    },
+    {
+      "id": "MED-C41-34",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In adults, other organisms include Neisseria meningitidis and:",
+      "opts": [
+        "Listeria (>50 age)",
+        "E.coli (m/c)",
+        "Streptococcus agalactiae (m/c)",
+        "Pseudomonas"
+      ],
+      "ans": 0,
+      "exp": "In Adults Neisseria meningitidis, Listeria (>50 age) (Book p614)"
+    },
+    {
+      "id": "MED-C41-35",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In <2 months, most common organism is:",
+      "opts": [
+        "Hib",
+        "Enterobacteriaceae: E.coli (m/c)",
+        "Streptococcus pneumoniae (m/c)",
+        "Streptococcus agalactiae (m/c)"
+      ],
+      "ans": 1,
+      "exp": "In <2 months Enterobacteriaceae: E.coli (m/c) (Book p614)"
+    },
+    {
+      "id": "MED-C41-36",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In <2 months, other organisms are Streptococcus agalactiae and:",
+      "opts": [
+        "Hib",
+        "Pseudomonas",
+        "Listeria",
+        "Neisseria meningitidis"
+      ],
+      "ans": 2,
+      "exp": "In <2 months Streptococcus agalactiae, Listeria (Book p614)"
+    },
+    {
+      "id": "MED-C41-37",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In 2 months to 2 yr, most common organism is:",
+      "opts": [
+        "E.coli (m/c)",
+        "Streptococcus pneumoniae (m/c)",
+        "Hib",
+        "Streptococcus agalactiae (m/c)"
+      ],
+      "ans": 3,
+      "exp": "In 2 months to 2 yr Streptococcus agalactiae (m/c) (Book p614)"
+    },
+    {
+      "id": "MED-C41-38",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In 2 months to 2 yr, other organism is:",
+      "opts": [
+        "E.coli",
+        "Neisseria meningitidis",
+        "Listeria",
+        "Pseudomonas"
+      ],
+      "ans": 0,
+      "exp": "In 2 months to 2 yr E.coli (Book p614)"
+    },
+    {
+      "id": "MED-C41-39",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "In immunocompromised (HIV, oldage, chronic infection, diabetes) most common is:",
+      "opts": [
+        "CONS infection",
+        "Streptococcus pneumoniae (m/c)",
+        "E.coli (m/c)",
+        "Streptococcus agalactiae (m/c)"
+      ],
+      "ans": 1,
+      "exp": "In Immunocompromised Streptococcus pneumoniae (m/c) (Book p614)"
+    },
+    {
+      "id": "MED-C41-40",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 614,
+      "fmt": "recall",
+      "q": "Immunocompromised list includes HIV, Oldage, Chronic infection, Diabetes and other organisms:",
+      "opts": [
+        "Staph aureus and CONS",
+        "Angiostrongylus cantonensis",
+        "Neisseria meningitidis, Listeria, Hib",
+        "E.coli and Pseudomonas"
+      ],
+      "ans": 2,
+      "exp": "In Immunocompromised Neisseria meningitidis, Listeria, Hib (Book p614)"
+    },
+    {
+      "id": "MED-C41-41",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 615,
+      "fmt": "recall",
+      "q": "In post head injury/post craniotomy and post-CSF rhinorrhea, most common organism is:",
+      "opts": [
+        "Staphylococcus aureus (m/c) with CONS",
+        "Streptococcus pneumoniae (m/c)",
+        "Streptococcus agalactiae (m/c)",
+        "E.coli (m/c) with Pseudomonas"
+      ],
+      "ans": 3,
+      "exp": "In Post head injury/Post craniotomy, Post-CSF Rhinorrhea E.coli (m/c), Pseudomonas (Book p615)"
+    },
+    {
+      "id": "MED-C41-42",
+      "sec": "Acute Meningitis and Etiology",
+      "page": 615,
+      "fmt": "recall",
+      "q": "In post shunt and Omaya reservoir, most common is:",
+      "opts": [
+        "Staphylococcus aureus (m/c) with CONS infection",
+        "E.coli (m/c) with Pseudomonas",
+        "Streptococcus pneumoniae (m/c)",
+        "Listeria"
+      ],
+      "ans": 0,
+      "exp": "In Post Shunt, Omaya reservoir Staphylococcus aureus (m/c), CONS infection (Book p615)"
+    },
+    {
+      "id": "MED-C41-43",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Pneumococcus colonizes in which site before invasion?",
+      "opts": [
+        "CSF directly",
+        "Nasopharyngeal wall",
+        "Subarachnoid space",
+        "Choroid plexus"
+      ],
+      "ans": 1,
+      "exp": "Pathogenesis Colonizes in nasopharyngeal wall (Book p615)"
+    },
+    {
+      "id": "MED-C41-44",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Invasive serotype noted for pneumococcus is:",
+      "opts": [
+        "Serotype-2",
+        "Serotype-1",
+        "Serotype-3",
+        "Serotype-7"
+      ],
+      "ans": 2,
+      "exp": "Pathogenesis Invades (Serotype-3) (Book p615)"
+    },
+    {
+      "id": "MED-C41-45",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Circulation entry to CSF is via which route marked m/c?",
+      "opts": [
+        "Direct via nasopharyngeal wall",
+        "Via omaya reservoir",
+        "Via post-CSF rhinorrhea",
+        "Choroid Plexus (m/c)"
+      ],
+      "ans": 3,
+      "exp": "Pathogenesis Circulation Via Choroid Plexus (m/c) to CSF (Book p615)"
+    },
+    {
+      "id": "MED-C41-46",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Age groups that can be infected even if immunocompetent are:",
+      "opts": [
+        "<20 and >50 years",
+        "20-50 years only",
+        ">65 yr only",
+        "<2 months only"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis <20 and >50 years Can also infect immunocompetent (Book p615)"
+    },
+    {
+      "id": "MED-C41-47",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Age group where infection occurs only in immunocompromised state is:",
+      "opts": [
+        "<2 months",
+        "20-50 year",
+        "<20 and >50 years",
+        ">65 yr only"
+      ],
+      "ans": 1,
+      "exp": "Pathogenesis 20-50 year infection only in Immunocompromised state (Book p615)"
+    },
+    {
+      "id": "MED-C41-48",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Cytokine storm leads to cytolytic toxin named:",
+      "opts": [
+        "Teichonic acid",
+        "Endotoxins only",
+        "Pneumolysin: Pores in cell membrane",
+        "Lipopolysaccharide"
+      ],
+      "ans": 2,
+      "exp": "Cytokine storm Cytolytic toxin (Pneumolysin: Pores in cell membrane) (Book p615)"
+    },
+    {
+      "id": "MED-C41-49",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Altered BBB permeability leads to which two edemas in the flow?",
+      "opts": [
+        "Cytotoxic only",
+        "Interstitial only",
+        "Vasogenic only",
+        "Vasogenic edema and Interstitial edema from blocked exudate plus Cytotoxic edema from WBC activation"
+      ],
+      "ans": 3,
+      "exp": "Altered BBB permeability leads to Vasogenic edema, increased exudate in CSF blocking CSF flow to Interstitial edema and WBC activation to Cytotoxic edema (Book p615)"
+    },
+    {
+      "id": "MED-C41-50",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Pneumococcus gram stain is:",
+      "opts": [
+        "Gram +ve",
+        "Gram -ve",
+        "Gram variable",
+        "Acid fast"
+      ],
+      "ans": 0,
+      "exp": "Features Pneumococcus Gram +ve (Book p615)"
+    },
+    {
+      "id": "MED-C41-51",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Pneumococcus catalase and hemolysis on blood agar is:",
+      "opts": [
+        "Catalase +ve/gamma hemolysis",
+        "Catalase +ve/α-hemolysis on blood agar",
+        "Catalase -ve/beta hemolysis",
+        "Catalase -ve/alpha hemolysis"
+      ],
+      "ans": 1,
+      "exp": "Pneumococcus Catalase +ve/α-hemolysis on blood agar (Book p615)"
+    },
+    {
+      "id": "MED-C41-52",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Pneumococcus biochemical features include:",
+      "opts": [
+        "Inulin non-fermenter only",
+        "Catalase -ve only",
+        "Bile soluble/Optochin Sensitive/Inulin fermenter",
+        "Bile insoluble/Optochin resistant"
+      ],
+      "ans": 2,
+      "exp": "Pneumococcus Bile soluble/Optochin Sensitive/Inulin fermenter (Book p615)"
+    },
+    {
+      "id": "MED-C41-53",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Capsule function in pneumococcus is:",
+      "opts": [
+        "Produces pores in cell membrane",
+        "Causes vasogenic edema",
+        "Blocks CSF flow",
+        "Helps in avoiding phagocytosis"
+      ],
+      "ans": 3,
+      "exp": "Pneumococcus Capsule: Helps in avoiding phagocytosis (Book p615)"
+    },
+    {
+      "id": "MED-C41-54",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Quellung reaction is described as:",
+      "opts": [
+        "Swollen capsule of pneumococci following addition of antiserum for rapid identification",
+        "Microscopic diplococcus without capsule",
+        "Bile soluble reaction",
+        "Optochin sensitive reaction"
+      ],
+      "ans": 0,
+      "exp": "Quellung reaction: Swollen capsule of pneumococci following addition of antiserum, Rapid identification (Book p615)"
+    },
+    {
+      "id": "MED-C41-55",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Predisposing factors for meningitis include age >65 yr, sickle cell, celiac disease, CSF leak, HIV, DM and:",
+      "opts": [
+        "Female > male 6-25 yrs",
+        "Cochlear implant patient",
+        "Adolescents with axial thrust",
+        "Boys > girls 4-10 yrs"
+      ],
+      "ans": 1,
+      "exp": "Predisposing factors meningitis: Age >65 yr, Sickle cell, Celiac disease, CSF leak, HIV, DM, Cochlear implant patient (Book p615)"
+    },
+    {
+      "id": "MED-C41-56",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Meningococcal meningitis predisposing complement deficiency is:",
+      "opts": [
+        "C3 deficiency only",
+        "Early complement only",
+        "C5b-C9 deficiency (Late complement)",
+        "C1q > C2 > C4"
+      ],
+      "ans": 2,
+      "exp": "Meningococcal meningitis Predisposing factors C5b-C9 deficiency (Late complement) (Book p615)"
+    },
+    {
+      "id": "MED-C41-57",
+      "sec": "Pathogenesis and Pneumococcus",
+      "page": 615,
+      "fmt": "recall",
+      "q": "Other predisposing factors for meningococcal meningitis are:",
+      "opts": [
+        "Hypergammaglobulinemia and hypersplenism",
+        "Sickle cell and celiac only",
+        "HIV and DM only",
+        "Hypogammaglobulinemia and Hyposplenism"
+      ],
+      "ans": 3,
+      "exp": "Meningococcal meningitis Hypogammaglobulinemia, Hyposplenism (Book p615)"
+    },
+    {
+      "id": "MED-C41-58",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Meningococcal meningitis features include large purpuric rash, shock and:",
+      "opts": [
+        "Adrenal hemorrhage",
+        "Day dreaming and loss of focus",
+        "Pause/stare > automatisms",
+        "Sudden loss of muscle tone"
+      ],
+      "ans": 0,
+      "exp": "Features: Large purpuric rash, Shock, Adrenal hemorrhage (Book p616)"
+    },
+    {
+      "id": "MED-C41-59",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "numeric",
+      "q": "Carrier state in meningococcal disease is seen in:",
+      "opts": [
+        "5% in 5-10 years",
+        "70-90%",
+        "90% of JME",
+        "1/3rd cases"
+      ],
+      "ans": 1,
+      "exp": "Carrier state in 70-90% (Book p616)"
+    },
+    {
+      "id": "MED-C41-60",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Most common endotoxin in meningococcus is:",
+      "opts": [
+        "Teichonic acid",
+        "Capsule",
+        "Lipopolysaccharide",
+        "Pneumolysin"
+      ],
+      "ans": 2,
+      "exp": "Meningococcal m/c Endotoxin: Lipopolysaccharide (Book p616)"
+    },
+    {
+      "id": "MED-C41-61",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "management",
+      "q": "Treatment for both pneumococcus and meningococcus susceptible per Rx line is:",
+      "opts": [
+        "Ceftriaxone 2gm IV BD only",
+        "Vancomycin 1gm IV BD only",
+        "Ampicillin 2g Q4h only",
+        "Penicillin (Both pneumococcus & meningococcus susceptible)"
+      ],
+      "ans": 3,
+      "exp": "Rx: Penicillin (Both pneumococcus & meningococcus susceptible) (Book p616)"
+    },
+    {
+      "id": "MED-C41-62",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Clinical presentation of bacterial meningitis onset is:",
+      "opts": [
+        "Acute presentation (1-2 days)",
+        "3-5 days benign",
+        "1-2 days with refractory status",
+        "5-10 years before onset"
+      ],
+      "ans": 0,
+      "exp": "Clinical Presentation Features Acute presentation (1-2 days) (Book p616)"
+    },
+    {
+      "id": "MED-C41-63",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Most common headache type in meningitis presentation is:",
+      "opts": [
+        "Orthostatic daily bilateral",
+        "Severe Headache (m/c)",
+        "Band-like pressure",
+        "Pulsatile with V2/V3 triggers"
+      ],
+      "ans": 1,
+      "exp": "Clinical Presentation Severe Headache (m/c) (Book p616)"
+    },
+    {
+      "id": "MED-C41-64",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Classic triad of bacterial meningitis includes fever (high grade), neck stiffness and:",
+      "opts": [
+        "Pause/stare > automatisms",
+        "Sudden loss of muscle tone",
+        "Altered sensorium: Drowsy, Lethargic",
+        "Day dreaming, absent minded"
+      ],
+      "ans": 2,
+      "exp": "Triad: Fever (high grade), Neck stiffness, Altered sensorium Drowsy, Lethargic (Book p616)"
+    },
+    {
+      "id": "MED-C41-65",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Other features table: lymphadenopathy suggests:",
+      "opts": [
+        "Encephalitis",
+        "Meningococcus",
+        "Pneumococcus",
+        "TB"
+      ],
+      "ans": 3,
+      "exp": "Other features Lymphadenopathy -> TB (Book p616)"
+    },
+    {
+      "id": "MED-C41-66",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Focal neurological signs/seizure in other features table suggests:",
+      "opts": [
+        "Encephalitis",
+        "TB",
+        "Meningococcus",
+        "Pneumococcus"
+      ],
+      "ans": 0,
+      "exp": "Focal neurological signs/seizure -> Encephalitis (Book p616)"
+    },
+    {
+      "id": "MED-C41-67",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Rash in other features table suggests:",
+      "opts": [
+        "TB",
+        "Meningococcus",
+        "Pneumococcus",
+        "Listeria"
+      ],
+      "ans": 1,
+      "exp": "Rash -> meningococcus (Book p616)"
+    },
+    {
+      "id": "MED-C41-68",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Cerebral infarction in other features table suggests:",
+      "opts": [
+        "Listeria",
+        "TB",
+        "Pneumococcus",
+        "Meningococcus"
+      ],
+      "ans": 2,
+      "exp": "Cerebral infarction -> Pneumococcus (Book p616)"
+    },
+    {
+      "id": "MED-C41-69",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Seizure with ataxia/cerebral nerve palsy suggests:",
+      "opts": [
+        "Meningococcus",
+        "Pneumococcus",
+        "TB",
+        "Listeria"
+      ],
+      "ans": 3,
+      "exp": "Seizure with ataxia/Cerebral nerve palsy -> Listeria (Book p616)"
+    },
+    {
+      "id": "MED-C41-70",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Petechiae and palpable purpura with concurrent arthritis suggests:",
+      "opts": [
+        "Meningococcus",
+        "Pneumococcus",
+        "Listeria",
+        "TB"
+      ],
+      "ans": 0,
+      "exp": "Petechiae and palpable purpura, Concurrent arthritis -> meningococcus (Book p616)"
+    },
+    {
+      "id": "MED-C41-71",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "High grade fever as other feature suggests:",
+      "opts": [
+        "Pneumococcus only",
+        "Malaria, Dengue",
+        "TB only",
+        "Encephalitis only"
+      ],
+      "ans": 1,
+      "exp": "High grade fever -> malaria, Dengue (Book p616)"
+    },
+    {
+      "id": "MED-C41-72",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Brudzinski's sign is defined as:",
+      "opts": [
+        "Axial thrust movements",
+        "Low sympathetic activity",
+        "Flexion of hips and knees in response to neck flexion",
+        "Resistance to extension of leg while hip is flexed"
+      ],
+      "ans": 2,
+      "exp": "Brudzinski's sign: Flexion of hips and knees in response to neck flexion (Book p616)"
+    },
+    {
+      "id": "MED-C41-73",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Kernig's sign is defined as:",
+      "opts": [
+        "Flexion of hips and knees in response to neck flexion",
+        "Axial thrust movements",
+        "Pause/stare > automatisms",
+        "Resistance to extension of leg while the hip is flexed"
+      ],
+      "ans": 3,
+      "exp": "Kernig's sign: Resistance to extension of leg while the hip is flexed (Book p616)"
+    },
+    {
+      "id": "MED-C41-74",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 616,
+      "fmt": "recall",
+      "q": "Lumbar puncture relative contraindications include immuno-compromised and:",
+      "opts": [
+        "Papilloedema without SOL or Abscess",
+        "Papilloedema with SOL only",
+        "Cushing reflex bradycardia",
+        "Features of impending herniation 3rd nerve palsy"
+      ],
+      "ans": 0,
+      "exp": "Lumbar Puncture Relative contraindications: Immuno-compromised, Papilloedema without SOL or Abscess (Book p616)"
+    },
+    {
+      "id": "MED-C41-75",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Absolute contraindications (imaging to be done) include papilloedema d/t:",
+      "opts": [
+        "Cochlear implant",
+        "Space occupying lesion (SOL) and Abscess",
+        "Without SOL or Abscess",
+        "Immuno-compromised only"
+      ],
+      "ans": 1,
+      "exp": "Absolute contraindications: Papilloedema D/t Space occupying lesion (SOL), Abscess (Book p617)"
+    },
+    {
+      "id": "MED-C41-76",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Features of impending herniation absolute contraindication is:",
+      "opts": [
+        "2nd nerve palsy",
+        "4th nerve palsy",
+        "3rd nerve palsy",
+        "6th nerve palsy false localizing"
+      ],
+      "ans": 2,
+      "exp": "Features of impending herniation: 3rd nerve palsy (Book p617)"
+    },
+    {
+      "id": "MED-C41-77",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Cushing reflex is described as:",
+      "opts": [
+        "Tachycardia, hypotension, tachyarrhythmia",
+        "Fever, neck stiffness, altered sensorium",
+        "Large purpuric rash, shock, adrenal hemorrhage",
+        "Bradycardia, HTN, Bradyarrhythmia"
+      ],
+      "ans": 3,
+      "exp": "Cushing reflex: Bradycardia, HTN, Bradyarrhythmia (Book p617)"
+    },
+    {
+      "id": "MED-C41-78",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Other absolute contraindications include recent onset seizure, impaired consciousness and:",
+      "opts": [
+        "Focal neurological signs",
+        "Day dreaming absent minded",
+        "Pause/stare > automatisms",
+        "Carrier state 70-90%"
+      ],
+      "ans": 0,
+      "exp": "Absolute contraindications: Recent onset seizure, Impaired consciousness, Focal neurological signs (Book p617)"
+    },
+    {
+      "id": "MED-C41-79",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal CSF pressure is:",
+      "opts": [
+        "High",
+        "50-180 mm H2O",
+        "180-350 mm H2O",
+        "Normal to 220"
+      ],
+      "ans": 1,
+      "exp": "CSF Analysis Normal CSF Pressure 50-180 mm H2O (Book p617)"
+    },
+    {
+      "id": "MED-C41-80",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Bacterial CSF pressure is:",
+      "opts": [
+        "Normal to 220",
+        "Normal/Elevated",
+        "180-350 mm H2O",
+        "50-180 mm H2O"
+      ],
+      "ans": 2,
+      "exp": "Bacterial CSF Pressure 180-350 mm H2O (Book p617)"
+    },
+    {
+      "id": "MED-C41-81",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Viral CSF pressure is:",
+      "opts": [
+        "180-350 mm H2O",
+        "High",
+        "50-180 mm H2O",
+        "Normal to 220"
+      ],
+      "ans": 3,
+      "exp": "Viral CSF Pressure Normal to 220 (Book p617)"
+    },
+    {
+      "id": "MED-C41-82",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "TB CSF pressure is:",
+      "opts": [
+        "High",
+        "50-180 mm H2O",
+        "Normal to 220",
+        "Normal/Elevated"
+      ],
+      "ans": 0,
+      "exp": "TB CSF Pressure High (Book p617)"
+    },
+    {
+      "id": "MED-C41-83",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Fungal CSF pressure is:",
+      "opts": [
+        "High only",
+        "Normal/Elevated",
+        "50-180 mm H2O",
+        "180-350 mm H2O"
+      ],
+      "ans": 1,
+      "exp": "Fungal CSF Pressure Normal/Elevated (Book p617)"
+    },
+    {
+      "id": "MED-C41-84",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal CSF/S. Glucose ratio is:",
+      "opts": [
+        "0.4-0.6",
+        "<4.0",
+        ">0.6",
+        "<0.4"
+      ],
+      "ans": 2,
+      "exp": "Normal CSF/S. Glucose >0.6 (Book p617)"
+    },
+    {
+      "id": "MED-C41-85",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Bacterial CSF/S. Glucose is:",
+      "opts": [
+        ">0.6",
+        "Normal",
+        "0.4-0.6",
+        "<0.4"
+      ],
+      "ans": 3,
+      "exp": "Bacterial CSF/S. Glucose <0.4 (Book p617)"
+    },
+    {
+      "id": "MED-C41-86",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Viral CSF/S. Glucose is:",
+      "opts": [
+        "Normal",
+        "<0.4",
+        "0.4-0.6",
+        "<4.0"
+      ],
+      "ans": 0,
+      "exp": "Viral CSF/S. Glucose Normal (Book p617)"
+    },
+    {
+      "id": "MED-C41-87",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "TB CSF/S. Glucose is:",
+      "opts": [
+        "<4.0",
+        "0.4-0.6",
+        ">0.6",
+        "<0.4"
+      ],
+      "ans": 1,
+      "exp": "TB CSF/S. Glucose 0.4-0.6 (Book p617)"
+    },
+    {
+      "id": "MED-C41-88",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Fungal CSF/S. Glucose is printed as:",
+      "opts": [
+        "<0.4",
+        "0.4-0.6",
+        "<4.0",
+        ">0.6"
+      ],
+      "ans": 2,
+      "exp": "Fungal CSF/S. Glucose <4.0 as printed (Book p617)"
+    },
+    {
+      "id": "MED-C41-89",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal CSF protein is:",
+      "opts": [
+        ">100 (~250 mg/dl)",
+        "Normal - 80",
+        ">100 mg/dl",
+        "15-45 mg/dl"
+      ],
+      "ans": 3,
+      "exp": "Normal CSF Protein 15-45 mg/dl (Book p617)"
+    },
+    {
+      "id": "MED-C41-90",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Bacterial CSF protein is:",
+      "opts": [
+        ">100 (~250 mg/dl)",
+        "15-45 mg/dl",
+        "Normal - 80",
+        ">100 mg/dl"
+      ],
+      "ans": 0,
+      "exp": "Bacterial CSF Protein >100 (~250 mg/dl) (Book p617)"
+    },
+    {
+      "id": "MED-C41-91",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Viral CSF protein is:",
+      "opts": [
+        ">100 mg/dl",
+        "Normal - 80",
+        "15-45 mg/dl",
+        ">100 (~250 mg/dl)"
+      ],
+      "ans": 1,
+      "exp": "Viral CSF Protein Normal - 80 (Book p617)"
+    },
+    {
+      "id": "MED-C41-92",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "TB CSF protein is:",
+      "opts": [
+        "Normal - 80",
+        "<100 mg/dl",
+        ">100 mg/dl",
+        "15-45 mg/dl"
+      ],
+      "ans": 2,
+      "exp": "TB CSF Protein >100 mg/dl (Book p617)"
+    },
+    {
+      "id": "MED-C41-93",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Fungal CSF protein is:",
+      "opts": [
+        "15-45 mg/dl",
+        ">100 (~250 mg/dl)",
+        ">100 mg/dl",
+        "<100 mg/dl"
+      ],
+      "ans": 3,
+      "exp": "Fungal CSF Protein <100 mg/dl (Book p617)"
+    },
+    {
+      "id": "MED-C41-94",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal cell count is:",
+      "opts": [
+        "<5 cells/µL",
+        ">1000 cells/µL",
+        "<1000 cells/µL",
+        "500-800 cells/µL"
+      ],
+      "ans": 0,
+      "exp": "Normal Cell count <5 cells/µL (Book p617)"
+    },
+    {
+      "id": "MED-C41-95",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Bacterial cell count is:",
+      "opts": [
+        "<100 cells/µL",
+        ">1000 cells/µL",
+        "<5 cells/µL",
+        "<1000 cells/µL"
+      ],
+      "ans": 1,
+      "exp": "Bacterial Cell count >1000 cells/µL (Book p617)"
+    },
+    {
+      "id": "MED-C41-96",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Viral cell count is:",
+      "opts": [
+        ">1000 cells/µL",
+        "500-800 cells/µL",
+        "<1000 cells/µL",
+        "<5 cells/µL"
+      ],
+      "ans": 2,
+      "exp": "Viral Cell count <1000 cells/µL (Book p617)"
+    },
+    {
+      "id": "MED-C41-97",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "TB cell count is:",
+      "opts": [
+        "<5 cells/µL",
+        ">1000 cells/µL",
+        "<100 cells/µL",
+        "500-800 cells/µL"
+      ],
+      "ans": 3,
+      "exp": "TB Cell count 500-800 cells/µL (Book p617)"
+    },
+    {
+      "id": "MED-C41-98",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Fungal cell count is:",
+      "opts": [
+        "<100 cells/µL",
+        "<5 cells/µL",
+        ">1000 cells/µL",
+        "500-800 cells/µL"
+      ],
+      "ans": 0,
+      "exp": "Fungal Cell count <100 cells/µL (Book p617)"
+    },
+    {
+      "id": "MED-C41-99",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Normal CSF colour is Clear; bacterial is Cloudy; viral is Clear; TB is:",
+      "opts": [
+        "Clear/Cloudy",
+        "Cloudy/yellow",
+        "Clear",
+        "Cloudy only"
+      ],
+      "ans": 1,
+      "exp": "CSF Colour TB Cloudy/yellow (Book p617)"
+    },
+    {
+      "id": "MED-C41-100",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Fungal CSF colour is:",
+      "opts": [
+        "Cloudy only",
+        "Cloudy/yellow",
+        "Clear/Cloudy",
+        "Clear only"
+      ],
+      "ans": 2,
+      "exp": "Fungal Colour Clear/Cloudy (Book p617)"
+    },
+    {
+      "id": "MED-C41-101",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Type of cell normal is Lymphocytic; bacterial is Neutrophils; viral is Lymphocytes; TB is:",
+      "opts": [
+        "Neutrophils",
+        "Monocytic",
+        "Eosinophilic",
+        "Lymphocytic"
+      ],
+      "ans": 3,
+      "exp": "Type of cell TB Lymphocytic (Book p617)"
+    },
+    {
+      "id": "MED-C41-102",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Lactate level raised in which two meningitis types?",
+      "opts": [
+        "TB, Bacterial meningitis",
+        "Viral and Fungal only",
+        "Viral only",
+        "Fungal only"
+      ],
+      "ans": 0,
+      "exp": "Lactate level raised: TB, Bacterial meningitis (Book p617)"
+    },
+    {
+      "id": "MED-C41-103",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Sensitivity of gram stain and culture are:",
+      "opts": [
+        "Both 50%",
+        "Gram stain 60% and Culture 80%",
+        "Gram stain 80% and Culture 60%",
+        "Both 100%"
+      ],
+      "ans": 1,
+      "exp": "Sensitivity Gram stain 60%, Culture 80% (Book p617)"
+    },
+    {
+      "id": "MED-C41-104",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "management",
+      "q": "First line treatment for bacterial meningitis is:",
+      "opts": [
+        "Vancomycin only",
+        "Ampicillin 2g Q4h only",
+        "Ceftriaxone 2gm IV BD",
+        "Penicillin only"
+      ],
+      "ans": 2,
+      "exp": "Treatment Ceftriaxone 2gm IV BD (Book p617)"
+    },
+    {
+      "id": "MED-C41-105",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "management",
+      "q": "If suspecting PRSP, add which drug?",
+      "opts": [
+        "Ampicillin 2g Q4h",
+        "Metronidazole",
+        "Penicillin",
+        "Vancomycin 1gm IV BD"
+      ],
+      "ans": 3,
+      "exp": "If suspecting PRSP add Vancomycin 1gm IV BD (Book p617)"
+    },
+    {
+      "id": "MED-C41-106",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "management",
+      "q": "If suspecting listeria, add:",
+      "opts": [
+        "Ampicillin 2g Q4h",
+        "Vancomycin 1gm IV BD",
+        "Metronidazole",
+        "Ceftriaxone 2gm IV BD"
+      ],
+      "ans": 0,
+      "exp": "If suspecting listeria add Ampicillin 2g Q4h (Book p617)"
+    },
+    {
+      "id": "MED-C41-107",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "management",
+      "q": "If suspecting mastoiditis/sinusitis/urine infection, add:",
+      "opts": [
+        "Penicillin",
+        "Metronidazole",
+        "Vancomycin",
+        "Ampicillin"
+      ],
+      "ans": 1,
+      "exp": "If suspecting mastoiditis/sinusitis/urine infection add metronidazole (Book p617)"
+    },
+    {
+      "id": "MED-C41-108",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "management",
+      "q": "Vasogenic edema mandatory treatment before antibiotics is dexamethasone dose and timing:",
+      "opts": [
+        "1gm IV BD after antibiotics",
+        "2g Q4h before antibiotics",
+        "0.15mg/kg Q6H x 3-5 days (15-20 minutes before Antibiotics)",
+        "0.5mg/kg Q12H x 1 day after antibiotics"
+      ],
+      "ans": 2,
+      "exp": "Vasogenic edema: 0.15mg/kg Dexamethasone Q6H x 3-5 days (15-20 minutes before Antibiotics) is mandatory (Book p617)"
+    },
+    {
+      "id": "MED-C41-109",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Eosinophilic meningitis most common cause is:",
+      "opts": [
+        "Baylisascaris only",
+        "Gnathostoma only",
+        "E.coli (m/c)",
+        "Angiostrongylus cantonensis (m/c)"
+      ],
+      "ans": 3,
+      "exp": "Eosinophilic meningitis seen in Angiostrongylus cantonensis (m/c), Baylisascaris, Gnathostoma (Book p617)"
+    },
+    {
+      "id": "MED-C41-110",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "Other causes of eosinophilic meningitis include Baylisascaris and:",
+      "opts": [
+        "Gnathostoma",
+        "Pseudomonas",
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae"
+      ],
+      "ans": 0,
+      "exp": "Eosinophilic meningitis Baylisascaris, Gnathostoma (Book p617)"
+    },
+    {
+      "id": "MED-C41-111",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal CSF specific gravity is:",
+      "opts": [
+        "50-180 mm H2O",
+        "1.006-1.008",
+        "7.28-7.32",
+        "115-130 meq/L"
+      ],
+      "ans": 1,
+      "exp": "Normal CSF findings Specific gravity 1.006-1.008 (Book p617)"
+    },
+    {
+      "id": "MED-C41-112",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal CSF pH is:",
+      "opts": [
+        "115-130 meq/L",
+        "50-180 mm H2O",
+        "7.28-7.32",
+        "1.006-1.008"
+      ],
+      "ans": 2,
+      "exp": "Normal CSF pH 7.28-7.32 (Book p617)"
+    },
+    {
+      "id": "MED-C41-113",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "numeric",
+      "q": "Normal CSF Cl- is:",
+      "opts": [
+        "1.006-1.008",
+        "7.28-7.32",
+        "50-180 mm H2O",
+        "115-130 meq/L"
+      ],
+      "ans": 3,
+      "exp": "Normal CSF Cl- 115-130 meq/L (Book p617)"
+    },
+    {
+      "id": "MED-C41-114",
+      "sec": "CSF Analysis and Treatment",
+      "page": 617,
+      "fmt": "recall",
+      "q": "PRSP stands for:",
+      "opts": [
+        "Penicillin-Resistant Streptococcus pneumoniae",
+        "Polymorphonuclear neutrophils",
+        "Progressive myoclonic epilepsy",
+        "Paroxysmal fast activity"
+      ],
+      "ans": 0,
+      "exp": "PRSP: Penicillin-Resistant Streptococcus pneumoniae (Book p617)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U41-1",
+      "ch": 41,
+      "n": 1,
+      "title": "1. Bacterial vs Viral Meningitis vs Viral Encephalitis",
+      "sec": "CNS Infections Overview and Comparison",
+      "guide": "Encephalitis is abnormal cerebral function; severity is acute catastrophic bacterial, benign viral meningitis and severe brain parenchyma involvement in viral encephalitis.\nOnset is 24-48 hrs bacterial, 3-5 days viral meningitis and 1-2 days encephalitis, with distinct clinical features and mortality 100% untreated bacterial.",
+      "qs": [
+        "MED-C41-01",
+        "MED-C41-02",
+        "MED-C41-03",
+        "MED-C41-04",
+        "MED-C41-05",
+        "MED-C41-06",
+        "MED-C41-07",
+        "MED-C41-08",
+        "MED-C41-09",
+        "MED-C41-10",
+        "MED-C41-11",
+        "MED-C41-12"
+      ]
+    },
+    {
+      "id": "MED-U41-2",
+      "ch": 41,
+      "n": 2,
+      "title": "2. Viral Encephalitis Etiology, Investigations and Autoimmune Encephalitis Notes",
+      "sec": "Viral Encephalitis and Autoimmune Notes",
+      "guide": "Most common organism in India for viral encephalitis is HSV-1 > Japanese encephalitis virus, Nipah rare, with pure encephalitis and meningoencephalitis types.\nCSF shows normal sugar, raised protein 50-300, raised cells 10-1000, RBC NIL, antibodies positive for HSV and JE, MRI hyperintensity medio-temporal orbito-frontal insula, and autoimmune notes link anti NMDA to IVIg PLEX, anti Na to SCLC, anti CRMP5 to SCLC thymoma and anti Hu 2 to testicular malignancy.",
+      "qs": [
+        "MED-C41-13",
+        "MED-C41-14",
+        "MED-C41-15",
+        "MED-C41-16",
+        "MED-C41-17",
+        "MED-C41-18",
+        "MED-C41-19",
+        "MED-C41-20",
+        "MED-C41-21",
+        "MED-C41-22",
+        "MED-C41-23",
+        "MED-C41-24",
+        "MED-C41-25",
+        "MED-C41-26"
+      ]
+    },
+    {
+      "id": "MED-U41-3",
+      "ch": 41,
+      "n": 3,
+      "title": "3. Acute Meningitis and Etiology by Age Group",
+      "sec": "Acute Meningitis and Etiology",
+      "guide": "Acute meningitis should be considered bacterial unless proven otherwise; CSF subarachnoid space normally <5 cell/µL, no complements, no immunoglobulin is favourable for organisms, with PMNL as polymorphonuclear neutrophils.\nEtiology varies by age: adults strep pneumo m/c, neisseria, listeria >50; <2 months E.coli m/c enterobacteriaceae, strep agalactiae, listeria; 2 months to 2yr strep agalactiae m/c, E.coli; immunocompromised HIV oldage chronic infection diabetes strep pneumo m/c, neisseria, listeria, Hib; post head injury craniotomy CSF rhinorrhea E.coli m/c pseudomonas and post shunt omaya staph aureus m/c CONS.",
+      "qs": [
+        "MED-C41-27",
+        "MED-C41-28",
+        "MED-C41-29",
+        "MED-C41-30",
+        "MED-C41-31",
+        "MED-C41-32",
+        "MED-C41-33",
+        "MED-C41-34",
+        "MED-C41-35",
+        "MED-C41-36",
+        "MED-C41-37",
+        "MED-C41-38",
+        "MED-C41-39",
+        "MED-C41-40",
+        "MED-C41-41",
+        "MED-C41-42"
+      ]
+    },
+    {
+      "id": "MED-U41-4",
+      "ch": 41,
+      "n": 4,
+      "title": "4. Pathogenesis, Pneumococcus Features and Predisposing Factors",
+      "sec": "Pathogenesis and Pneumococcus",
+      "guide": "Pneumococcus colonizes nasopharyngeal wall, invades serotype-3, enters circulation via choroid plexus m/c to CSF, can infect immunocompetent <20 and >50 years but only immunocompromised 20-50, leading to cytokine storm, pneumolysin cytolytic toxin pores, altered BBB, vasogenic edema, exudate blocking CSF interstitial edema and cytotoxic edema.\nFeatures are gram +ve, catalase +ve/alpha hemolysis, bile soluble/optochin sensitive/inulin fermenter, capsule avoids phagocytosis, Quellung reaction swollen capsule with antiserum for rapid identification, with predisposing age >65, sickle cell, celiac, CSF leak, HIV, DM, cochlear implant and meningococcal late complement C5b-C9 deficiency, hypogammaglobulinemia, hyposplenism.",
+      "qs": [
+        "MED-C41-43",
+        "MED-C41-44",
+        "MED-C41-45",
+        "MED-C41-46",
+        "MED-C41-47",
+        "MED-C41-48",
+        "MED-C41-49",
+        "MED-C41-50",
+        "MED-C41-51",
+        "MED-C41-52",
+        "MED-C41-53",
+        "MED-C41-54",
+        "MED-C41-55",
+        "MED-C41-56",
+        "MED-C41-57"
+      ]
+    },
+    {
+      "id": "MED-U41-5",
+      "ch": 41,
+      "n": 5,
+      "title": "5. Clinical Presentation, Meningeal Signs and LP Contraindications",
+      "sec": "Clinical Presentation and Lumbar Puncture",
+      "guide": "Meningococcal features include large purpuric rash, shock, adrenal hemorrhage, carrier 70-90%, endotoxin lipopolysaccharide, penicillin susceptible.\nClinical presentation is acute 1-2 days severe headache m/c with triad fever high grade, neck stiffness, altered sensorium drowsy lethargic, other features table linking lymphadenopathy TB, focal signs encephalitis, rash meningococcus, infarction pneumococcus, ataxia nerve palsy listeria, petechiae purpura arthritis meningococcus, high fever malaria dengue, with Brudzinski and Kernig signs and LP relative and absolute contraindications including papilledema SOL abscess, impending herniation 3rd nerve palsy, Cushing reflex bradycardia HTN bradyarrhythmia, recent seizure, impaired consciousness, focal signs.",
+      "qs": [
+        "MED-C41-58",
+        "MED-C41-59",
+        "MED-C41-60",
+        "MED-C41-61",
+        "MED-C41-62",
+        "MED-C41-63",
+        "MED-C41-64",
+        "MED-C41-65",
+        "MED-C41-66",
+        "MED-C41-67",
+        "MED-C41-68",
+        "MED-C41-69",
+        "MED-C41-70",
+        "MED-C41-71",
+        "MED-C41-72",
+        "MED-C41-73",
+        "MED-C41-74",
+        "MED-C41-75",
+        "MED-C41-76",
+        "MED-C41-77",
+        "MED-C41-78"
+      ]
+    },
+    {
+      "id": "MED-U41-6",
+      "ch": 41,
+      "n": 6,
+      "title": "6. CSF Analysis, Treatment and Eosinophilic Meningitis",
+      "sec": "CSF Analysis and Treatment",
+      "guide": "CSF analysis compares normal vs bacterial vs viral vs TB vs fungal for pressure, glucose ratio, protein, cell count, colour and cell type, with lactate raised in TB bacterial, gram stain 60% culture 80% sensitivity.\nTreatment is ceftriaxone 2gm IV BD, add vancomycin if PRSP, ampicillin if listeria, metronidazole if mastoiditis sinusitis urine infection, dexamethasone 0.15mg/kg Q6H 3-5 days 15-20 min before antibiotics mandatory for vasogenic edema, eosinophilic meningitis Angiostrongylus cantonensis m/c, normal CSF specific gravity 1.006-1.008 pH 7.28-7.32 Cl 115-130 and PRSP penicillin-resistant strep pneumo.",
+      "qs": [
+        "MED-C41-79",
+        "MED-C41-80",
+        "MED-C41-81",
+        "MED-C41-82",
+        "MED-C41-83",
+        "MED-C41-84",
+        "MED-C41-85",
+        "MED-C41-86",
+        "MED-C41-87",
+        "MED-C41-88",
+        "MED-C41-89",
+        "MED-C41-90",
+        "MED-C41-91",
+        "MED-C41-92",
+        "MED-C41-93",
+        "MED-C41-94",
+        "MED-C41-95",
+        "MED-C41-96",
+        "MED-C41-97",
+        "MED-C41-98",
+        "MED-C41-99",
+        "MED-C41-100",
+        "MED-C41-101",
+        "MED-C41-102",
+        "MED-C41-103",
+        "MED-C41-104",
+        "MED-C41-105",
+        "MED-C41-106",
+        "MED-C41-107",
+        "MED-C41-108",
+        "MED-C41-109",
+        "MED-C41-110",
+        "MED-C41-111",
+        "MED-C41-112",
+        "MED-C41-113",
+        "MED-C41-114"
+      ]
+    }
+  ]
+}

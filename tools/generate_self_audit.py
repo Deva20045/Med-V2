@@ -42,10 +42,18 @@ def page_to_sheet(page):
         return f"03 PDF{page - 560}"
     if 592 <= page <= 601:
         return f"03 PDF{page - 564}"
+    if 602 <= page <= 607:
+        return f"03 PDF{page - 564}"  # 602=38, 607=43
+    if 608 <= page <= 612:
+        return f"03 PDF{page - 564}"  # 608=44 .. 612=48
+    if 613 <= page <= 617:
+        return f"03 PDF{page - 564}"  # 613=49 .. 617=53
+    if 618 <= page <= 622:
+        return f"03 PDF{page - 564}"  # 618=54 .. 622=58
     return "?"
 
 
-page_to_pdf = {page: page_to_sheet(page) for page in range(377, 602)}
+page_to_pdf = {page: page_to_sheet(page) for page in range(377, 623)}
 
 out = []
 out.append("# Chapters 2–38 — visual self-audit gate\n")

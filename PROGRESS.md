@@ -6,24 +6,26 @@ Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*,
 - Session branch: `arena/01a0d425-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 38 live chapters / 57 · 1613 questions / 162 units.** Chapters 39–57 remain `live:false`.
+- **Build status: 41 live chapters / 57 · 1942 questions / 183 units.** Chapters 42–57 remain `live:false`.
 
-## This release — Chapter 32
+## This release — Chapters 39, 40 and 41
 
-The remaining temporal/occipital-lobe chapter was rendered line-to-line from `uploads/03.pdf` PDF2–4 (Book p563–565), source-ordered and made live:
+Three neurology chapters — Seizure Semiology, Generalised Tonic-Clonic Seizure and CNS Infections — were rendered line-to-line from `uploads/03.pdf` at 3× zoom (PDF38–53 = Book p602–617), source-ordered and made live. This completes the seizure semiology to CNS infections block.
 
 | Ch | Title | Printed pages | Questions | Units |
 |---:|---|---:|---:|---:|
-| 32 | Temporal and Occipital Lobe | 563–565 | 37 | 5 |
-| **Release total** |  | **3 book pages** | **37** | **5** |
+| 39 | Seizure Semiology | 602–607 | 91 | 6 |
+| 40 | Generalised Tonic-Clonic Seizure | 608–612 | 124 | 9 |
+| 41 | CNS Infections | 613–617 | 114 | 6 |
+| **Release total** |  | **16 book pages** | **329** | **21** |
 
 ### Quality and ordering contract delivered
 
-1. All three sheets were read top-to-bottom in printed order at 2× and 4×, cross-checked with OCR and targeted 12–48× crops because the scan has no text layer; the site-of-lesion/defect table, limbic diagrams, the Kluver-Bucy five features, the Anton's/Balint's lesion columns and the colour-deficit list were all covered, and the p563–565 handoffs are verified with no sheet missing.
-2. Chapter 32 adds **37 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **1721 mappings** for Chapters 2–38.
-3. Questions use no fill-up, matching or true/false worksheets; distractors are plausible and questions are reasoning-first.
-4. IDs, book-page order, contiguous unit slices and exact `(Book pX)` explanation suffixes pass the fail-closed validator.
-5. Chapter 32 is embedded in the standalone app and all 38 roadmap flags for live chapters are set.
+1. All 16 pages were read top-to-bottom in printed order at 3× (`pymupdf.Matrix(3,3)` renders in `.audit-render/03_pdf38_3x..53_3x`), because the scan has no text layer. Visual extraction covered every heading, table cell, flowchart arrow, MRI/EEG panel label, numeric threshold, note, side-effect, management dose and histopathology image in exact book order. Verified page map: PDF38=p602 Ch39 start, PDF43=p607 Ch39 end, PDF44=p608 Ch40 start, PDF48=p612 Childhood Seizures table, PDF49=p613 Ch41 start, PDF53=p617 Ch41 end. No sheets missing in p602–617.
+2. Chapters 39–41 add **329 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **2050 mappings** for Chapters 2–41.
+3. Questions use no fill-up, matching or true/false worksheets; only recall, scenario, numeric, oddoneout and management formats are used, with plausible distractors and reasoning-first stems.
+4. IDs are sequential `MED-C39-01..91`, `MED-C40-01..124`, `MED-C41-01..114`, question arrays are strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. All three chapters are embedded in the standalone app and live flags for 39, 40 and 41 are set; 41/57 roadmap chapters are now live with 1942 questions.
 
 ## Previous release — Chapters 30–31
 
@@ -42,7 +44,7 @@ Two consecutive neurology chapters — Frontal Lobe and Praxicons — were rende
 3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, mechanism-based recall, numeric interpretation, bedside-test decisions and discriminating odd-one-out cases use plausible medical distractors, and printed typos (Fare & upper Limb, hemispatal, Gerstman) are read charitably with the discrepancy recorded in the audit.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific mnemonics (ORAR LC, JIPFA), the 30%/30% and 40/30/30 motor-fibre accounts, the unexpanded flowchart boxes (Right PTO, DLPN, NPH VN, internal sagittal stratum) and the visual-field ladder are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 30–31 are embedded in the standalone app and all 38 roadmap flags for live chapters are set.
+6. Chapters 30–31 are embedded in the standalone app and all 41 roadmap flags for live chapters are set.
 
 _Note:_ an earlier 62-question pass for these two chapters reached `main` from a parallel session. It is superseded here: every page was re-read line to line and the release now carries 111 questions (67 + 44), so no printed learning target that the first pass inventoried is left unasked. The printed typos it did not flag — *Fare & upper Limb*, *hemispatal*, *Gerstman*, *Initiate lesion* — are recorded in [audit/READ_NOTES_30_31.md](audit/READ_NOTES_30_31.md) and the self-audit.
 
@@ -85,7 +87,7 @@ Six consecutive neurology chapters were rendered from the scans, read block by b
 3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 33–38 are embedded in the standalone app and all 38 roadmap flags for live chapters are set.
+6. Chapters 33–38 are embedded in the standalone app and all 41 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 16–26
 
@@ -138,7 +140,10 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **03.pdf PDF11–21: p572–582 (Ch35–36)**
 - **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**
 - **03.pdf PDF29–37: p593–601 (Ch38)**
-- 03.pdf PDF38–61: p602–622 (Ch39 onward, not yet live); 04.pdf: p626 onward
+- **03.pdf PDF38–43: p602–607 (Ch39)**
+- **03.pdf PDF44–48: p608–612 (Ch40)**
+- **03.pdf PDF49–53: p613–617 (Ch41)**
+- 03.pdf PDF54–61: p618–622 (Ch42 onward, not yet live); 04.pdf: p626 onward
 
 ## Schema and order contract
 
@@ -146,7 +151,7 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - Question: sequential `MED-C<N>-<seq>` ID; section/page/format/stem; exactly four unique options; one answer; explanation ending exactly `(Book pX)` matching `page`.
 - Units: sequential `MED-U<N>-<n>` IDs; each has a 2–4-line guide; its IDs are rebuilt from exactly one section in original question order; flattened units equal the full chapter sequence.
 - Questions are in printed book-page order; all printed pages in every live chapter are represented.
-- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–38, in exact question order and with matching book page.
+- The source-order inventory is fail-closed: the validator requires a ledger mapping for every question in audited Chapters 2–41, in exact question order and with matching book page.
 - Questions are educational book-study material, not a substitute for current clinical guidelines or patient care.
 
 ## Build, audit and test workflow
@@ -160,7 +165,9 @@ python3 tools/generate_ch27_29.py        # Chapters 27-29
 python3 tools/generate_ch30_31.py        # Chapters 30-31
 python3 tools/generate_ch32.py           # Chapter 32
 python3 tools/generate_ch33_38.py        # Chapters 33-38
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-32, Ch33-38)
+python3 tools/generate_ch39_41.py        # Chapters 39 and 41
+python3 tools/generate_ch40.py           # Chapter 40
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-41)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -337,6 +344,27 @@ node tests/app_parsers.cjs
 | 38 | 4. TAC, Cluster & Variants | 597–599 | MED-C38-29–MED-C38-39 | 11 |
 | 38 | 5. Trigeminal & Glossopharyngeal Neuralgia | 599 | MED-C38-40–MED-C38-43 | 4 |
 | 38 | 6. Benign Intracranial Hypertension | 600–601 | MED-C38-44–MED-C38-51 | 8 |
+| 39 | 1. Definitions, Semiology and Pseudo Seizure | 602 | MED-C39-01–MED-C39-09 | 9 |
+| 39 | 2. Classification (ILAE 2017), Focal and Generalized Onset | 602–603 | MED-C39-10–MED-C39-22 | 13 |
+| 39 | 3. Epilepsy Evaluation and Focal Seizures | 603–604 | MED-C39-23–MED-C39-34 | 12 |
+| 39 | 4. Focal Presentation, Investigations and Medial Temporal Lobe Epilepsy | 604 | MED-C39-35–MED-C39-52 | 18 |
+| 39 | 5. Generalized Seizures and Typical Childhood Absence | 605–606 | MED-C39-53–MED-C39-73 | 21 |
+| 39 | 6. Juvenile Myoclonic Epilepsy, Myoclonic and Atonic Seizures | 606–607 | MED-C39-74–MED-C39-91 | 18 |
+| 40 | 1. GTCS Causes: Metabolic, Encephalopathy and Encephalitis | 608 | MED-C40-01–MED-C40-14 | 14 |
+| 40 | 2. Brain Injury, Post Stroke, Drugs, Withdrawal and Syncope Types | 608 | MED-C40-15–MED-C40-21 | 7 |
+| 40 | 3. Seizure vs Syncope Table | 609 | MED-C40-22–MED-C40-42 | 21 |
+| 40 | 4. Management Flowchart and Antiepileptic Drugs | 609 | MED-C40-43–MED-C40-53 | 11 |
+| 40 | 5. Pregnancy and AED Side Effects | 610 | MED-C40-54–MED-C40-64 | 11 |
+| 40 | 6. Status Epilepticus Definition, Time Points and Classification | 610 | MED-C40-65–MED-C40-76 | 12 |
+| 40 | 7. Clinical Features and EEG Monitoring | 611 | MED-C40-77–MED-C40-84 | 8 |
+| 40 | 8. Status Epilepticus Management | 611 | MED-C40-85–MED-C40-100 | 16 |
+| 40 | 9. Childhood Seizures and Lafora Disease | 612 | MED-C40-101–MED-C40-124 | 24 |
+| 41 | 1. Bacterial vs Viral Meningitis vs Viral Encephalitis | 613 | MED-C41-01–MED-C41-12 | 12 |
+| 41 | 2. Viral Encephalitis Etiology, Investigations and Autoimmune Encephalitis Notes | 613–614 | MED-C41-13–MED-C41-26 | 14 |
+| 41 | 3. Acute Meningitis and Etiology by Age Group | 614–615 | MED-C41-27–MED-C41-42 | 16 |
+| 41 | 4. Pathogenesis, Pneumococcus Features and Predisposing Factors | 615 | MED-C41-43–MED-C41-57 | 15 |
+| 41 | 5. Clinical Presentation, Meningeal Signs and LP Contraindications | 616–617 | MED-C41-58–MED-C41-78 | 21 |
+| 41 | 6. CSF Analysis, Treatment and Eosinophilic Meningitis | 617 | MED-C41-79–MED-C41-114 | 36 |
 
 ## Full roadmap
 
@@ -380,9 +408,9 @@ node tests/app_parsers.cjs
 | 36 | Dementia : Part 2 | 577 | **Live** |
 | 37 | Parkinson's Disease | 583 | **Live** |
 | 38 | Headache | 593 | **Live** |
-| 39 | Seizure Semiology | 602 | Soon |
-| 40 | Generalised Tonic-Clonic Seizure | 608 | Soon |
-| 41 | CNS Infections | 613 | Soon |
+| 39 | Seizure Semiology | 602 | **Live** |
+| 40 | Generalised Tonic-Clonic Seizure | 608 | **Live** |
+| 41 | CNS Infections | 613 | **Live** |
 | 42 | LMN Approach : Part 1 | 618 | Soon |
 | 43 | LMN Approach : Part 2 | 624 | Soon |
 | 44 | Inherited Neuropathies | 627 | Soon |

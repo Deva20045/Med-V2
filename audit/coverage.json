@@ -10324,5 +10324,1979 @@
     "page": 601,
     "point": "Mx of acute up ICP: 1. elevate head; 2. mannitol; 3. sedation; 4. hyperventilation; 5. pressor therapy to maintain CPP >60 mmHg.",
     "question": "MED-C38-51"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Semiology: Signs & symptoms of seizure activity",
+    "question": "MED-C39-01"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Seizure: Transient occurrence of signs &/symptoms d/t abnormal excessive hypersynchronous neuronal activity in brain",
+    "question": "MED-C39-02"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Hypersynchronous neuronal motor activity: myoclonic Fastest, Clonic, Tonic, Atonic Slowest with arrow from fastest to slowest",
+    "question": "MED-C39-03"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Myoclonic is marked Fastest in the hypersynchronous neuronal motor activity list",
+    "question": "MED-C39-04"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Atonic is marked Slowest in the hypersynchronous neuronal motor activity list",
+    "question": "MED-C39-05"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Pseudo seizure: Adolescents",
+    "question": "MED-C39-06"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Pseudo seizure: increased axial thrust movements",
+    "question": "MED-C39-07"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Pseudo seizure: increased actions to gain attention",
+    "question": "MED-C39-08"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Pseudo seizure pupils: Low sympathetic activity -> Less dilation",
+    "question": "MED-C39-09"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Classification (ILAE 2017) is Based on onset",
+    "question": "MED-C39-10"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "ILAE 2017 classification splits into Focal, Generalized, Unknown based on onset",
+    "question": "MED-C39-11"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Generalized onset is annotated as Loss of consciousness +",
+    "question": "MED-C39-12"
+  },
+  {
+    "chapter": 39,
+    "page": 602,
+    "point": "Focal onset splits into LOC + (Impaired awareness) and LOC - (Aware)",
+    "question": "MED-C39-13"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Focal onset table: Loss of consciousness (LOC) in Complex partial is Impaired awareness/dyscognition (+)",
+    "question": "MED-C39-14"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Focal onset table: Loss of consciousness in Simple partial is Absent",
+    "question": "MED-C39-15"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Focal onset table motor onset: Complex partial shows Automatisms",
+    "question": "MED-C39-16"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Focal onset table motor onset Simple partial lists Tonic, Clonic, Atonic, myoclonic, Hyperkinetic, Epileptic spasm",
+    "question": "MED-C39-17"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Simple partial motor onset table brackets Hyperkinetic and Epileptic spasm as Rare",
+    "question": "MED-C39-18"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Non-motor onset lists Autonomic symptoms, Behaviour arrest, Cognitive issues, Emotional issues, Sensory Issues",
+    "question": "MED-C39-19"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Non-motor onset bracket is marked m/c in complex partial seizures",
+    "question": "MED-C39-20"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Generalized onset motor (GTCS): Tonic clonic, Clonic, Tonic, myoclonic, Atonic",
+    "question": "MED-C39-21"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Generalized onset Non-motor (Absent seizures): Typical absent, Atypical absent, myoclonic",
+    "question": "MED-C39-22"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "To evaluate epilepsy: 1. MRI 2. EEG 3. Type of onset 4. LOC",
+    "question": "MED-C39-23"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Epilepsy evaluation flow: Predict risk for further seizure -> Determine if epilepsy syndrome",
+    "question": "MED-C39-24"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Epilepsy syndrome: ≥2 unprovoked seizures separated for ≥24hrs without an identifiable cause",
+    "question": "MED-C39-25"
+  },
+  {
+    "chapter": 39,
+    "page": 603,
+    "point": "Single episode seizure with evidence suggestive of epileptiform syndrome on MRI/EEG with risk of subsequent seizure >60%",
+    "question": "MED-C39-26"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Focal seizures table AKA: Without dyscognition is Simple partial seizure",
+    "question": "MED-C39-27"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Focal seizures table AKA: With dyscognition is Complex partial seizure",
+    "question": "MED-C39-28"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Focal seizures table Onset: Without dyscognition Focal -> motor, With dyscognition Focal -> motor/non-motor",
+    "question": "MED-C39-29"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Consciousness: Without dyscognition Aware, With dyscognition LOC +, post ictal disorientation",
+    "question": "MED-C39-30"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Epileptiform syndrome: Without dyscognition Nil, With dyscognition Present (Further risk of seizure ↑), Localization medial temporal lobe (m/c)",
+    "question": "MED-C39-31"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Etiology without dyscognition: Structural lesion (Frontal/Fronto-parietal lobe) -> Irritate opposite side brain -> Seizure",
+    "question": "MED-C39-32"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Etiology without dyscognition lists Tuberculoma, Neurocysticercosis, Brain tumours, Post stroke seizure (in elderly)",
+    "question": "MED-C39-33"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Etiology with dyscognition is Family history (+)",
+    "question": "MED-C39-34"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Presentation without dyscognition: motor (Tonic > Tonic clonic) > sensory (Flashing light)/Autonomic",
+    "question": "MED-C39-35"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Clonic movements: 2-3 Hz",
+    "question": "MED-C39-36"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Presentation without dyscognition: Abnormal facial movements synchronous with limbs",
+    "question": "MED-C39-37"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Todd's palsy: Post ictal (Transient) palsy lasting upto 24 hours",
+    "question": "MED-C39-38"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Jacksonian march: migration of motor activity (Distal to proximal)",
+    "question": "MED-C39-39"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Epilepsia partialis continua: Continuous activity lasting hours to days",
+    "question": "MED-C39-40"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Presentation without dyscognition: Aura Rare",
+    "question": "MED-C39-41"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Aura with dyscognition: Subjective internal event not observed by others",
+    "question": "MED-C39-42"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Aura with dyscognition Abdominal (Feeling of fullness -> Regurgitation) > Visual > Auditory",
+    "question": "MED-C39-43"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Behavioural arrest: motionless stare",
+    "question": "MED-C39-44"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Automatisms: Coordinated motor activity resembling movement (Eg: Lip smacking, chewing)",
+    "question": "MED-C39-45"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "With dyscognition: Anterograde amnesia",
+    "question": "MED-C39-46"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "MRI: Without dyscognition To determine etiology, With dyscognition Hippocampal sclerosis",
+    "question": "MED-C39-47"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "EEG: Without dyscognition Normal (Transient abnormality -> Not diagnostic), With dyscognition Temporal spikes",
+    "question": "MED-C39-48"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Treatment: Without dyscognition Not indication for anti epileptics, With dyscognition Antiepileptics Lifelong",
+    "question": "MED-C39-49"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Medial temporal lobe epilepsy: m/c type of complex partial seizure",
+    "question": "MED-C39-50"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Medial temporal lobe epilepsy: Family history present, H/o febrile seizures in childhood",
+    "question": "MED-C39-51"
+  },
+  {
+    "chapter": 39,
+    "page": 604,
+    "point": "Medial temporal lobe epilepsy EEG: Temporal spikes",
+    "question": "MED-C39-52"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "MRI T2 flare, T1 flare labelled as Hippocampal sclerosis",
+    "question": "MED-C39-53"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "EEG panels show Temporal lobe spikes and Normal EEG",
+    "question": "MED-C39-54"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Generalised Seizures ABSENT SEIZURES Non-motor",
+    "question": "MED-C39-55"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Absent seizures Epileptiform syndromes: Typical childhood absence seizure and Atypical juvenile absence seizure",
+    "question": "MED-C39-56"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Typical childhood absence seizure: Remission by 12 yrs (Good prognosis)",
+    "question": "MED-C39-57"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Typical childhood absent seizures Age: 4-10 yrs",
+    "question": "MED-C39-58"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Typical childhood absent seizures Gender: Boys > girls",
+    "question": "MED-C39-59"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Typical childhood absent Association: Genetically determined epilepsy in childhood",
+    "question": "MED-C39-60"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Typical childhood absent Presentation Consciousness: Sudden brief lapse (No loss of postural control)",
+    "question": "MED-C39-61"
+  },
+  {
+    "chapter": 39,
+    "page": 605,
+    "point": "Typical childhood absent Post-ictal confusion: Absent",
+    "question": "MED-C39-62"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent IQ: Normal",
+    "question": "MED-C39-63"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent: Day dreaming, absent minded, loss of focus",
+    "question": "MED-C39-64"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent motor activity: Pause/stare > automatisms > eye movement",
+    "question": "MED-C39-65"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent Aggravating factor: Hyperventilation",
+    "question": "MED-C39-66"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent Investigations MRI: Normal",
+    "question": "MED-C39-67"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent EEG: 3Hz spike & wave pattern",
+    "question": "MED-C39-68"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Typical childhood absent Treatment: Antiepileptic drugs till 12 years of age (Remission + Good prognosis), Valproate (Preferred), ethosuximide",
+    "question": "MED-C39-69"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Atypical juvenile absent seizure Age: 9-13 years",
+    "question": "MED-C39-70"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Atypical juvenile absent Presentation: Loss of consciousness Longer duration, Loss of postural control, Status epilepticus",
+    "question": "MED-C39-71"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Atypical juvenile absent EEG: Asymmetrical slow spike and wave pattern, Abnormal interictal background",
+    "question": "MED-C39-72"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Atypical juvenile absent Treatment: Antiepileptic drugs (Lifelong), Valproate",
+    "question": "MED-C39-73"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Juvenile myoclonic epilepsy Age: 6-25 years",
+    "question": "MED-C39-74"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "Juvenile myoclonic epilepsy Gender: Female > male",
+    "question": "MED-C39-75"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "JME Associations: Sleep deprivation (upon awakening)",
+    "question": "MED-C39-76"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "JME Associations: GTCS in 90%",
+    "question": "MED-C39-77"
+  },
+  {
+    "chapter": 39,
+    "page": 606,
+    "point": "JME Associations: Absence seizure in 1/3rd cases",
+    "question": "MED-C39-78"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME Presentation Loss of consciousness: very short",
+    "question": "MED-C39-79"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME Presentation myoclonus (Sudden brief shock like contractions)",
+    "question": "MED-C39-80"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME Presentation Generalized, face and trunk, upper limb > lower limb",
+    "question": "MED-C39-81"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME Presentation Subtle to dramatic",
+    "question": "MED-C39-82"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME Presentation IQ: Normal",
+    "question": "MED-C39-83"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME Treatment Antiepileptic therapy: Levetiracetam, Valproate (Lifelong), Lamotrigine, Topiramate",
+    "question": "MED-C39-84"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "JME EEG: Polyspike & wave pattern and EEG of myoclonic seizure",
+    "question": "MED-C39-85"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "Atonic seizures: Sudden loss of muscle tone",
+    "question": "MED-C39-86"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "Atonic seizures Age: Children",
+    "question": "MED-C39-87"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "Atonic seizures Association: Lennox Gestaut syndrome (Tonic > Atonic > Drop attacks > Absent seizure)",
+    "question": "MED-C39-88"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "LG syndrome diagram: mental retardation, multiple seizure type + Childhood Refractory Epilepsy, Paroxysmal fast activity Background -> Slow spike and wave",
+    "question": "MED-C39-89"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "Pediatric epileptic encephalopathies: Lennox gestaut syndrome (Not associated with myoclonic seizures), West syndrome, Dravet syndrome",
+    "question": "MED-C39-90"
+  },
+  {
+    "chapter": 39,
+    "page": 607,
+    "point": "Note: Lennox gestaut syndrome (Not associated with myoclonic seizures)",
+    "question": "MED-C39-91"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "GTCS causes and Syncope heading timestamp 00:01:42",
+    "question": "MED-C40-01"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Causes of GTCS 1. metabolic: Hypoglycemia",
+    "question": "MED-C40-02"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Electrolyte causes: ↓ Na+",
+    "question": "MED-C40-03"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Electrolyte ↑ Na+ (rare)",
+    "question": "MED-C40-04"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Electrolyte ↓ Ca2+ / ↓ Ca2+ + ↑ PO4 3-",
+    "question": "MED-C40-05"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Electrolyte ↓ Mg2+",
+    "question": "MED-C40-06"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Electrolyte ↑ Mg2+ (rare)",
+    "question": "MED-C40-07"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Encephalopathy: Hepatic, Uremic",
+    "question": "MED-C40-08"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Note: K+, PO4 3-: Abnormalities don't produce seizures",
+    "question": "MED-C40-09"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Encephalitis Viral: HSV-1 encephalitis",
+    "question": "MED-C40-10"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "HSV-1 encephalitis MRI: B/L Temporal lobe hyperintensity",
+    "question": "MED-C40-11"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "HSV-1 encephalitis Rx: Acyclovir",
+    "question": "MED-C40-12"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Encephalitis Autoimmune: Anti NMDA Ab",
+    "question": "MED-C40-13"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Encephalitis Paraneoplastic",
+    "question": "MED-C40-14"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Brain injury (Remote/long standing)",
+    "question": "MED-C40-15"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Post stroke seizures listed as 5",
+    "question": "MED-C40-16"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Drug non adherence/discontinuation is cause 6",
+    "question": "MED-C40-17"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Drugs: Theophylline, Imipenem, Cefepime, Quinolones",
+    "question": "MED-C40-18"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Drugs Lithium, TCA",
+    "question": "MED-C40-19"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Withdrawal seizures: Alcohol, Barbiturate, Benzodiazepine (BZD)",
+    "question": "MED-C40-20"
+  },
+  {
+    "chapter": 40,
+    "page": 608,
+    "point": "Syncope Types: vasovagal, Cardiac, Orthostatic hypotension, Situational syncope",
+    "question": "MED-C40-21"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Seizure vs Syncope Immediate precipitating factors Seizure Usually none",
+    "question": "MED-C40-22"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Syncope Immediate precipitating factors Emotional stress, valsalva, orthostatic hypotension, cardiac etiologies",
+    "question": "MED-C40-23"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Premonitory symptoms Seizure None or aura (Eg: Odd odor)",
+    "question": "MED-C40-24"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Premonitory symptoms Syncope Tiredness, nausea, diaphoresis, tunneling of vision",
+    "question": "MED-C40-25"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Posture at onset Seizure Variable",
+    "question": "MED-C40-26"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Posture at onset Syncope Usually erect",
+    "question": "MED-C40-27"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Transition to unconsciousness Seizure Often immediate",
+    "question": "MED-C40-28"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Transition Syncope Gradual over seconds",
+    "question": "MED-C40-29"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Duration of unconsciousness Seizure Minutes",
+    "question": "MED-C40-30"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Duration of unconsciousness Syncope Seconds",
+    "question": "MED-C40-31"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Duration of tonic or clonic movements Seizure 30-60 s",
+    "question": "MED-C40-32"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Duration of tonic or clonic movements Syncope Never >15 s",
+    "question": "MED-C40-33"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Facial appearance during event Seizure Cyanosis, frothing at mouth",
+    "question": "MED-C40-34"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Facial appearance Syncope Pallor",
+    "question": "MED-C40-35"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Disorientation and sleepiness after event Seizure Many minutes to hours",
+    "question": "MED-C40-36"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Disorientation after event Syncope <5 min",
+    "question": "MED-C40-37"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Aching of muscles after event Seizure Often",
+    "question": "MED-C40-38"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Aching of muscles after event Syncope Sometimes",
+    "question": "MED-C40-39"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Biting of tongue Seizure Sometimes, Syncope Rarely",
+    "question": "MED-C40-40"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Incontinence Seizure Sometimes, Syncope Rarely",
+    "question": "MED-C40-41"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Headache Seizure Sometimes, Syncope Rarely",
+    "question": "MED-C40-42"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Management of GTCS timestamp 00:13:36",
+    "question": "MED-C40-43"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "New Onset Seizure splits into Focal and Generalized",
+    "question": "MED-C40-44"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Focal LOC+ Complex Partial Seizure (CPS)",
+    "question": "MED-C40-45"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Focal LOC- Simple Partial Seizure (SPS)",
+    "question": "MED-C40-46"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Generalized Non motor Absence Seizure",
+    "question": "MED-C40-47"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Generalized motor GTCS, Atonic seizures, myotonic seizures",
+    "question": "MED-C40-48"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "CPS (medial temporal lobe epilepsy): Carbamazepine, Oxcarbazepine",
+    "question": "MED-C40-49"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "CPS Lamotrigine, Levetiracetam",
+    "question": "MED-C40-50"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Absence Typical Atypical JME Valproate Lamotrigine Topiramate",
+    "question": "MED-C40-51"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "Note Ethosuximide Typical absence <3 years",
+    "question": "MED-C40-52"
+  },
+  {
+    "chapter": 40,
+    "page": 609,
+    "point": "GTCS Valproate > Lamotrigine",
+    "question": "MED-C40-53"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Pregnancy Lamotrigine (Best): Least teratogenic",
+    "question": "MED-C40-54"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "If already on AED Folic Acid supplementation",
+    "question": "MED-C40-55"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Side effect Carbamazepine Steven Johnson Syndrome (SJS)",
+    "question": "MED-C40-56"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Oxcarbazepine ↑ Risk of SIADH (↓ Na+) more than Carbamazepine",
+    "question": "MED-C40-57"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Lamotrigine SJS, HLH / MAS (Hemophagocytic lymphohistiocytosis/ macrophage activation syndrome)",
+    "question": "MED-C40-58"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Levetiracetam Suicidal ideation",
+    "question": "MED-C40-59"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Valproate Alopecia, Liver abnormalities, ↑ NH3, Pancreatitis, Thrombocytopenia, Weight gain",
+    "question": "MED-C40-60"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Topiramate Renal Stones, Weight loss",
+    "question": "MED-C40-61"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Zonisamide Cognitive slowing",
+    "question": "MED-C40-62"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Felbamate Aplastic anemia",
+    "question": "MED-C40-63"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Lacosamide ↑ PR Interval",
+    "question": "MED-C40-64"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Status Epilepticus timestamp 00:20:21",
+    "question": "MED-C40-65"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Definition Continuous seizure ≥ 5 minutes (or) ≥ 2 discrete seizures without regaining consciousness in between",
+    "question": "MED-C40-66"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Definition ≥ 2 discrete seizures without regaining consciousness in between",
+    "question": "MED-C40-67"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Time T1 5 mins (T1)",
+    "question": "MED-C40-68"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "T1 Most ideal time to start Rx",
+    "question": "MED-C40-69"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Time 30 mins (T2)",
+    "question": "MED-C40-70"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Beyond T2 Risk of brain damage",
+    "question": "MED-C40-71"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "1 hr Within this time, seizure must be controlled",
+    "question": "MED-C40-72"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Note NORSE (New Onset Refractory Status Epilepticus) is viral in etiology unless proven otherwise",
+    "question": "MED-C40-73"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Classification Convulsive status epilepticus (CSE), Non-convulsive SE (NCSE) (Also seen post CSE), Refractory SE unresponsive to AED + BZD",
+    "question": "MED-C40-74"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Non-convulsive SE (NCSE) (Also seen post CSE)",
+    "question": "MED-C40-75"
+  },
+  {
+    "chapter": 40,
+    "page": 610,
+    "point": "Refractory SE unresponsive to AED + BZD",
+    "question": "MED-C40-76"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Initial Compensatory Phase Sympathetic overdrive",
+    "question": "MED-C40-77"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Initial Compensatory Phase ↑ CO, ↑ BP, ↑ blood sugar, ↑ lactate",
+    "question": "MED-C40-78"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Decompensation Phase Cardiac arrest, Rhabdomyolysis + Acute Tubular Necrosis + Electrolyte imbalance",
+    "question": "MED-C40-79"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Decompensation Electrolyte imbalance ↓ Ca2+, ↓ PO4 3-, ↑ K+",
+    "question": "MED-C40-80"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Decompensation MODS, ↑ Intracranial Pressure Herniation coning",
+    "question": "MED-C40-81"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Decompensation Hyperthermia",
+    "question": "MED-C40-82"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Mx EEG Continuous monitoring",
+    "question": "MED-C40-83"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "EEG ≥48 hours in comatose to evaluate NCSE",
+    "question": "MED-C40-84"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Rapid IV access available minimum 2 lines",
+    "question": "MED-C40-85"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "No IV IM midazolam 0.2 mg/kg (max 10 mg) or Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg)",
+    "question": "MED-C40-86"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "IM midazolam 0.2 mg/kg (max 10 mg)",
+    "question": "MED-C40-87"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg)",
+    "question": "MED-C40-88"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "If seizures do not stop in 5 min, achieve IV access",
+    "question": "MED-C40-89"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Yes IV Lorazepam 0.1 mg/kg slow push (max 4 mg) or Slow IV Diazepam 1 mL in 4 mL NS",
+    "question": "MED-C40-90"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "IV Lorazepam 0.1 mg/kg slow push (max 4 mg)",
+    "question": "MED-C40-91"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Slow IV Diazepam 1 mL in 4 mL NS",
+    "question": "MED-C40-92"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "If seizures do not stop in 5 min Repeat IV Lorazepam 0.1 mg/kg slow push",
+    "question": "MED-C40-93"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "Shift to 2nd line drugs Through 2nd IV line",
+    "question": "MED-C40-94"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "If possibility of subtherapeutic levels, Valproate 30-40 mg/kg @ 6 mg/kg/min can be tried",
+    "question": "MED-C40-95"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "IV Phenytoin 20 mg/kg @ 50 mg/min",
+    "question": "MED-C40-96"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "IV Fosphenytoin 20 mg/kg @150 mg/min",
+    "question": "MED-C40-97"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "IV Levetiracetam 30-40 mg/kg",
+    "question": "MED-C40-98"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "If seizures do not stop in 20 min 3rd line drugs",
+    "question": "MED-C40-99"
+  },
+  {
+    "chapter": 40,
+    "page": 611,
+    "point": "3rd line drugs Eg propofol, phenobarbitone, thiopentone",
+    "question": "MED-C40-100"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Childhood Seizures timestamp 00:32:51",
+    "question": "MED-C40-101"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Childhood Seizures Epileptic Encephalopathies, Lafora's disease, Rolandic Seizures (Benign centrotemporal epilepsy)",
+    "question": "MED-C40-102"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Epileptic Encephalopathies Lannox Gastaut Syndrome, West Syndrome, Dravet's Syndrome",
+    "question": "MED-C40-103"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Dravet's Syndrome Age Group <1 year",
+    "question": "MED-C40-104"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Lafora's disease Age Group 10-18 years",
+    "question": "MED-C40-105"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Rolandic Seizures Age Group Before puberty",
+    "question": "MED-C40-106"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "West Syndrome Age Group -",
+    "question": "MED-C40-107"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "West Syndrome Type of seizure Infantile spasms",
+    "question": "MED-C40-108"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Dravet's Syndrome Type of seizure Febrile seizures myoclonic CPS atypical absence",
+    "question": "MED-C40-109"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Lafora's disease Type of seizure Progressive myoclonic epilepsy",
+    "question": "MED-C40-110"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Rolandic Seizures Type of seizure SPS (Infrequent)",
+    "question": "MED-C40-111"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "West Syndrome Mental retardation +",
+    "question": "MED-C40-112"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Dravet's Syndrome Mental retardation +",
+    "question": "MED-C40-113"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Lafora's disease Mental retardation -",
+    "question": "MED-C40-114"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Rolandic Seizures Mental retardation -",
+    "question": "MED-C40-115"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "West Syndrome Other features Associated with tuberous sclerosis",
+    "question": "MED-C40-116"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Lafora's disease Other features AR inheritance, Dementia, Hallucinations, Bx PAS +ve inclusions",
+    "question": "MED-C40-117"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Rolandic Seizures Other features m/c seizures in childhood",
+    "question": "MED-C40-118"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Dravet's Syndrome Other features -",
+    "question": "MED-C40-119"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "West Syndrome EEG Hypsarrhythmia (mountain waves)",
+    "question": "MED-C40-120"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Rolandic Seizures EEG Centrotemporal Spikes",
+    "question": "MED-C40-121"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Dravet's Syndrome EEG -",
+    "question": "MED-C40-122"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Lafora's disease EEG -",
+    "question": "MED-C40-123"
+  },
+  {
+    "chapter": 40,
+    "page": 612,
+    "point": "Lafora's disease Histopathology Arrow PAS + intracellular inclusions",
+    "question": "MED-C40-124"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Encephalitis: Abnormal cerebral function",
+    "question": "MED-C41-01"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Bacterial meningitis Severity: Acute and catastrophic",
+    "question": "MED-C41-02"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral meningitis Presentation: Benign disease",
+    "question": "MED-C41-03"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Severity: Severe Brain parenchyma involved",
+    "question": "MED-C41-04"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Bacterial meningitis Onset of Symptoms 24-48 hrs",
+    "question": "MED-C41-05"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral meningitis Onset 3-5 days",
+    "question": "MED-C41-06"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Onset 1-2 days",
+    "question": "MED-C41-07"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Bacterial meningitis Clinical Features: High fever spikes, Neck stiffness, Vomiting, Severe headache, Photophobia, Altered mental status (Patient lethargic, confused and distractable)",
+    "question": "MED-C41-08"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Bacterial meningitis Should start treatment ASAP (mortality 100% in untreated patients)",
+    "question": "MED-C41-09"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral meningitis Peaks initially with fever + headache, Last 1-2 days",
+    "question": "MED-C41-10"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral meningitis m/c organism: Enterovirus type 7 > HSV-2 with symptoms Nausea, Vomiting, Photophobia, Neck stiffness, Discomfort, Distracted, Confusion, Lethargy",
+    "question": "MED-C41-11"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Clinical Features: Refractory status epilepticus, Complete altered behaviour/personality changes, Confusion status Subtle changes -> unresponsive state, Speech defect, Focal neurological deficit motor/sensory",
+    "question": "MED-C41-12"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Etiology m/c organism in India: HSV-1 > Japanese encephalitis virus",
+    "question": "MED-C41-13"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Nipah virus (rare)",
+    "question": "MED-C41-14"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Types: Pure encephalitis, meningoencephalitis",
+    "question": "MED-C41-15"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis CSF Analysis Sugar: Normal range",
+    "question": "MED-C41-16"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis CSF Protein: Raised (50-300 mg/dL)",
+    "question": "MED-C41-17"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Cell count: Raised (10-1000)",
+    "question": "MED-C41-18"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis RBC count: NIL",
+    "question": "MED-C41-19"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "Viral encephalitis Antibodies: Positive for HSV and JE",
+    "question": "MED-C41-20"
+  },
+  {
+    "chapter": 41,
+    "page": 613,
+    "point": "HSV or JE encephalitis findings: Hyperintensity medio-temporal, Orbito-frontal, Insula",
+    "question": "MED-C41-21"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Treatment: Start Antibiotics (Should start even with suspicion of encephalitis)",
+    "question": "MED-C41-22"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Anti NMDA Antibody: Autoimmune encephalitis Rx: IVIg PLEX",
+    "question": "MED-C41-23"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Anti Na Antibody: SCLC (Small cell lung cancer)",
+    "question": "MED-C41-24"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Anti CRMP5 Antibody: SCLC, thymoma",
+    "question": "MED-C41-25"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Anti Hu 2 Antibody: Testicular malignancy",
+    "question": "MED-C41-26"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Acute meningitis should be considered bacterial unless proven otherwise",
+    "question": "MED-C41-27"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "CSF (Subarachnoid space) <5 cell/µL",
+    "question": "MED-C41-28"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "CSF No Complements, No Immunoglobulin is Favourable condition for organism",
+    "question": "MED-C41-29"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "PMNL: Polymorphonuclear neutrophils",
+    "question": "MED-C41-30"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Organism entry into CSF Release Endotoxins teichonic acid etc Inflammatory cascade (mediated by cytokines)",
+    "question": "MED-C41-31"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Symptoms -> meningitis and meningoencephalitis with + Involvement of Brain parenchyma",
+    "question": "MED-C41-32"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "Acute meningitis In Adults Streptococcus pneumoniae (m/c)",
+    "question": "MED-C41-33"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In Adults Neisseria meningitidis, Listeria (>50 age)",
+    "question": "MED-C41-34"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In <2 months Enterobacteriaceae: E.coli (m/c)",
+    "question": "MED-C41-35"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In <2 months Streptococcus agalactiae, Listeria",
+    "question": "MED-C41-36"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In 2 months to 2 yr Streptococcus agalactiae (m/c)",
+    "question": "MED-C41-37"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In 2 months to 2 yr E.coli",
+    "question": "MED-C41-38"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In Immunocompromised Streptococcus pneumoniae (m/c)",
+    "question": "MED-C41-39"
+  },
+  {
+    "chapter": 41,
+    "page": 614,
+    "point": "In Immunocompromised Neisseria meningitidis, Listeria, Hib",
+    "question": "MED-C41-40"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "In Post head injury/Post craniotomy, Post-CSF Rhinorrhea E.coli (m/c), Pseudomonas",
+    "question": "MED-C41-41"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "In Post Shunt, Omaya reservoir Staphylococcus aureus (m/c), CONS infection",
+    "question": "MED-C41-42"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pathogenesis Colonizes in nasopharyngeal wall",
+    "question": "MED-C41-43"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pathogenesis Invades (Serotype-3)",
+    "question": "MED-C41-44"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pathogenesis Circulation Via Choroid Plexus (m/c) to CSF",
+    "question": "MED-C41-45"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pathogenesis <20 and >50 years Can also infect immunocompetent",
+    "question": "MED-C41-46"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pathogenesis 20-50 year infection only in Immunocompromised state",
+    "question": "MED-C41-47"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Cytokine storm Cytolytic toxin (Pneumolysin: Pores in cell membrane)",
+    "question": "MED-C41-48"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Altered BBB permeability leads to Vasogenic edema, increased exudate in CSF blocking CSF flow to Interstitial edema and WBC activation to Cytotoxic edema",
+    "question": "MED-C41-49"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Features Pneumococcus Gram +ve",
+    "question": "MED-C41-50"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pneumococcus Catalase +ve/α-hemolysis on blood agar",
+    "question": "MED-C41-51"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pneumococcus Bile soluble/Optochin Sensitive/Inulin fermenter",
+    "question": "MED-C41-52"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Pneumococcus Capsule: Helps in avoiding phagocytosis",
+    "question": "MED-C41-53"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Quellung reaction: Swollen capsule of pneumococci following addition of antiserum, Rapid identification",
+    "question": "MED-C41-54"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Predisposing factors meningitis: Age >65 yr, Sickle cell, Celiac disease, CSF leak, HIV, DM, Cochlear implant patient",
+    "question": "MED-C41-55"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Meningococcal meningitis Predisposing factors C5b-C9 deficiency (Late complement)",
+    "question": "MED-C41-56"
+  },
+  {
+    "chapter": 41,
+    "page": 615,
+    "point": "Meningococcal meningitis Hypogammaglobulinemia, Hyposplenism",
+    "question": "MED-C41-57"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Features: Large purpuric rash, Shock, Adrenal hemorrhage",
+    "question": "MED-C41-58"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Carrier state in 70-90%",
+    "question": "MED-C41-59"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Meningococcal m/c Endotoxin: Lipopolysaccharide",
+    "question": "MED-C41-60"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Rx: Penicillin (Both pneumococcus & meningococcus susceptible)",
+    "question": "MED-C41-61"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Clinical Presentation Features Acute presentation (1-2 days)",
+    "question": "MED-C41-62"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Clinical Presentation Severe Headache (m/c)",
+    "question": "MED-C41-63"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Triad: Fever (high grade), Neck stiffness, Altered sensorium Drowsy, Lethargic",
+    "question": "MED-C41-64"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Other features Lymphadenopathy -> TB",
+    "question": "MED-C41-65"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Focal neurological signs/seizure -> Encephalitis",
+    "question": "MED-C41-66"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Rash -> meningococcus",
+    "question": "MED-C41-67"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Cerebral infarction -> Pneumococcus",
+    "question": "MED-C41-68"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Seizure with ataxia/Cerebral nerve palsy -> Listeria",
+    "question": "MED-C41-69"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Petechiae and palpable purpura, Concurrent arthritis -> meningococcus",
+    "question": "MED-C41-70"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "High grade fever -> malaria, Dengue",
+    "question": "MED-C41-71"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Brudzinski's sign: Flexion of hips and knees in response to neck flexion",
+    "question": "MED-C41-72"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Kernig's sign: Resistance to extension of leg while the hip is flexed",
+    "question": "MED-C41-73"
+  },
+  {
+    "chapter": 41,
+    "page": 616,
+    "point": "Lumbar Puncture Relative contraindications: Immuno-compromised, Papilloedema without SOL or Abscess",
+    "question": "MED-C41-74"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Absolute contraindications: Papilloedema D/t Space occupying lesion (SOL), Abscess",
+    "question": "MED-C41-75"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Features of impending herniation: 3rd nerve palsy",
+    "question": "MED-C41-76"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Cushing reflex: Bradycardia, HTN, Bradyarrhythmia",
+    "question": "MED-C41-77"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Absolute contraindications: Recent onset seizure, Impaired consciousness, Focal neurological signs",
+    "question": "MED-C41-78"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "CSF Analysis Normal CSF Pressure 50-180 mm H2O",
+    "question": "MED-C41-79"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Bacterial CSF Pressure 180-350 mm H2O",
+    "question": "MED-C41-80"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Viral CSF Pressure Normal to 220",
+    "question": "MED-C41-81"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "TB CSF Pressure High",
+    "question": "MED-C41-82"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Fungal CSF Pressure Normal/Elevated",
+    "question": "MED-C41-83"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Normal CSF/S. Glucose >0.6",
+    "question": "MED-C41-84"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Bacterial CSF/S. Glucose <0.4",
+    "question": "MED-C41-85"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Viral CSF/S. Glucose Normal",
+    "question": "MED-C41-86"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "TB CSF/S. Glucose 0.4-0.6",
+    "question": "MED-C41-87"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Fungal CSF/S. Glucose <4.0 as printed",
+    "question": "MED-C41-88"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Normal CSF Protein 15-45 mg/dl",
+    "question": "MED-C41-89"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Bacterial CSF Protein >100 (~250 mg/dl)",
+    "question": "MED-C41-90"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Viral CSF Protein Normal - 80",
+    "question": "MED-C41-91"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "TB CSF Protein >100 mg/dl",
+    "question": "MED-C41-92"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Fungal CSF Protein <100 mg/dl",
+    "question": "MED-C41-93"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Normal Cell count <5 cells/µL",
+    "question": "MED-C41-94"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Bacterial Cell count >1000 cells/µL",
+    "question": "MED-C41-95"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Viral Cell count <1000 cells/µL",
+    "question": "MED-C41-96"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "TB Cell count 500-800 cells/µL",
+    "question": "MED-C41-97"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Fungal Cell count <100 cells/µL",
+    "question": "MED-C41-98"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "CSF Colour TB Cloudy/yellow",
+    "question": "MED-C41-99"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Fungal Colour Clear/Cloudy",
+    "question": "MED-C41-100"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Type of cell TB Lymphocytic",
+    "question": "MED-C41-101"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Lactate level raised: TB, Bacterial meningitis",
+    "question": "MED-C41-102"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Sensitivity Gram stain 60%, Culture 80%",
+    "question": "MED-C41-103"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Treatment Ceftriaxone 2gm IV BD",
+    "question": "MED-C41-104"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "If suspecting PRSP add Vancomycin 1gm IV BD",
+    "question": "MED-C41-105"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "If suspecting listeria add Ampicillin 2g Q4h",
+    "question": "MED-C41-106"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "If suspecting mastoiditis/sinusitis/urine infection add metronidazole",
+    "question": "MED-C41-107"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Vasogenic edema: 0.15mg/kg Dexamethasone Q6H x 3-5 days (15-20 minutes before Antibiotics) is mandatory",
+    "question": "MED-C41-108"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Eosinophilic meningitis seen in Angiostrongylus cantonensis (m/c), Baylisascaris, Gnathostoma",
+    "question": "MED-C41-109"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Eosinophilic meningitis Baylisascaris, Gnathostoma",
+    "question": "MED-C41-110"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Normal CSF findings Specific gravity 1.006-1.008",
+    "question": "MED-C41-111"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Normal CSF pH 7.28-7.32",
+    "question": "MED-C41-112"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "Normal CSF Cl- 115-130 meq/L",
+    "question": "MED-C41-113"
+  },
+  {
+    "chapter": 41,
+    "page": 617,
+    "point": "PRSP: Penicillin-Resistant Streptococcus pneumoniae",
+    "question": "MED-C41-114"
   }
 ]

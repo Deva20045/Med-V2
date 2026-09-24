@@ -1,0 +1,308 @@
+#!/usr/bin/env python3
+"""Author the audited, source-ordered learning sets for Chapters 39 and 41.
+
+Source: uploads/03.pdf PDF38-43 = Book p602-607 (Ch39) and PDF49-53 = Book p613-617 (Ch41)
+No text layer - read visually at 3x. Strictly book order, line to line.
+"""
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "data"
+
+def make_chapter(number, title, page_range, unit_specs):
+    questions = []
+    units = []
+    for unit_no, (section, unit_title, guide, rows) in enumerate(unit_specs, 1):
+        ids = []
+        for page, fmt, stem, correct, distractors, explanation in rows:
+            qid = f"MED-C{number}-{len(questions)+1:02d}"
+            choices = [correct, *distractors]
+            shift = (len(questions) * 3 + number) % 4
+            choices = choices[shift:] + choices[:shift]
+            questions.append({
+                "id": qid, "sec": section, "page": page, "fmt": fmt,
+                "q": stem, "opts": choices, "ans": choices.index(correct),
+                "exp": explanation + f" (Book p{page})",
+            })
+            ids.append(qid)
+        units.append({
+            "id": f"MED-U{number}-{unit_no}", "ch": number, "n": unit_no,
+            "title": f"{unit_no}. {unit_title}", "sec": section,
+            "guide": guide, "qs": ids,
+        })
+    return {"chapter": number, "title": title, "pageRange": page_range,
+            "questions": questions, "units": units}
+
+def q(page, fmt, stem, correct, *distractors, exp):
+    assert len(distractors) == 3, f"{stem} needs 3 distractors got {distractors}"
+    return (page, fmt, stem, correct, list(distractors), exp)
+
+def write(chapter):
+    path = OUT / f"ch{chapter['chapter']:02d}.json"
+    path.write_text(json.dumps(chapter, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"{path.name}: {len(chapter['questions'])} questions / {len(chapter['units'])} units")
+
+# -------------------- Chapter 39 Seizure Semiology p602-607
+ch39 = make_chapter(39, "Seizure Semiology", "602-607", [
+("Definitions, Semiology & Pseudo Seizure", "Definitions, Semiology and Pseudo Seizure",
+ "Semiology is the signs and symptoms of seizure activity; seizure is transient excessive hypersynchronous neuronal activity.\nMotor activity is ordered fastest to slowest from myoclonic to atonic, and pseudo seizure has adolescent, attention-seeking and pupillary clues.",
+ [
+  q(602,"recall","Semiology is defined in the book as which of the following?","Signs & symptoms of seizure activity","Transient hypersynchronous neuronal activity only","Low sympathetic pupillary activity","Axial thrust movements in adolescents",exp="Semiology: Signs & symptoms of seizure activity"),
+  q(602,"recall","Seizure is defined as transient occurrence of signs &/symptoms d/t which process?","Abnormal excessive hypersynchronous neuronal activity in brain","Low sympathetic activity with less dilation","Increased actions to gain attention","Axial thrust movements in adolescents",exp="Seizure: Transient occurrence of signs &/symptoms d/t abnormal excessive hypersynchronous neuronal activity in brain"),
+  q(602,"recall","The hypersynchronous neuronal motor activity list in order from fastest to slowest is:","Myoclonic -> Clonic -> Tonic -> Atonic","Atonic -> Tonic -> Clonic -> Myoclonic","Clonic -> Myoclonic -> Atonic -> Tonic","Tonic -> Atonic -> Myoclonic -> Clonic",exp="Hypersynchronous neuronal motor activity: myoclonic Fastest, Clonic, Tonic, Atonic Slowest with arrow from fastest to slowest"),
+  q(602,"numeric","Which motor activity is marked as the fastest in the list?","Myoclonic","Clonic","Tonic","Atonic",exp="Myoclonic is marked Fastest in the hypersynchronous neuronal motor activity list"),
+  q(602,"numeric","Which motor activity is marked as the slowest in the list?","Atonic","Myoclonic","Clonic","Tonic",exp="Atonic is marked Slowest in the hypersynchronous neuronal motor activity list"),
+  q(602,"recall","Pseudo seizure is noted to occur commonly in which age group per the page?","Adolescents","Children 4-10 years","Elderly >65 years","Infants <1 year",exp="Pseudo seizure: Adolescents"),
+  q(602,"recall","Pseudo seizure is associated with which movement pattern?","Increased axial thrust movements","Tonic clonic movements lasting 30-60 s with cyanosis","Pause/stare > automatisms > eye movement","Sudden loss of muscle tone",exp="Pseudo seizure: increased axial thrust movements"),
+  q(602,"recall","Which behavioural clue is listed for pseudo seizure?","Increased actions to gain attention","Day dreaming with loss of focus","Behavioural arrest with motionless stare","Anterograde amnesia",exp="Pseudo seizure: increased actions to gain attention"),
+  q(602,"scenario","Pupils in pseudo seizure are described as less dilated due to which mechanism?","Low sympathetic activity","High parasympathetic activity from oculomotor lesion","Third nerve palsy from uncal herniation","Bilateral occipital lesion",exp="Pseudo seizure pupils: Low sympathetic activity -> Less dilation"),
+ ]),
+("Classification and Onset Types", "Classification (ILAE 2017), Focal and Generalized Onset",
+ "ILAE 2017 classification is based on onset into focal, generalized and unknown, with LOC awareness subdividing focal.\nFocal motor and non-motor tables separate complex partial impaired awareness with automatisms from simple partial motor types, and generalized onset splits into motor GTCS and non-motor absence.",
+ [
+  q(602,"recall","Classification (ILAE 2017) is based on which criterion?","Based on onset","Based on EEG frequency only","Based on age of onset only","Based on response to valproate",exp="Classification (ILAE 2017) is Based on onset"),
+  q(602,"recall","The three onset categories under ILAE 2017 are:","Focal, Generalized, Unknown","Simple partial, Complex partial, Generalized","Motor, Non-motor, Unknown","Tonic, Clonic, Atonic",exp="ILAE 2017 classification splits into Focal, Generalized, Unknown based on onset"),
+  q(602,"recall","Generalized onset is annotated with which consciousness clue?","Loss of consciousness +","Aware with no LOC","Impaired awareness only","Post-ictal confusion absent",exp="Generalized onset is annotated as Loss of consciousness +"),
+  q(602,"recall","Focal onset is subdivided by LOC into:","LOC + (Impaired awareness) and LOC - (Aware)","LOC + with hyperventilation and LOC - with photic stimulation","Tonic and atonic only","Typical and atypical absence",exp="Focal onset splits into LOC + (Impaired awareness) and LOC - (Aware)"),
+  q(603,"recall","In the focal onset table, loss of consciousness in complex partial is:","Impaired awareness/dyscognition (+)","Absent","Sudden brief lapse with no loss of postural control","Very short with myoclonus",exp="Focal onset table: Loss of consciousness (LOC) in Complex partial is Impaired awareness/dyscognition (+)"),
+  q(603,"recall","In the focal onset table, LOC in simple partial is:","Absent","Impaired awareness/dyscognition (+)","Loss of consciousness + with post-ictal disorientation","Longer duration with loss of postural control",exp="Focal onset table: Loss of consciousness in Simple partial is Absent"),
+  q(603,"recall","Motor onset in complex partial seizures is represented by which feature?","Automatisms","Tonic, Clonic, Atonic, Myoclonic only","Hyperkinetic and Epileptic spasm as common","Pause/stare",exp="Focal onset table motor onset: Complex partial shows Automatisms"),
+  q(603,"recall","Motor onset in simple partial seizures includes which list?","Tonic, Clonic, Atonic, Myoclonic, Hyperkinetic, Epileptic spasm","Automatisms only","Autonomic symptoms and behaviour arrest","Cognitive and emotional issues",exp="Focal onset table motor onset Simple partial lists Tonic, Clonic, Atonic, myoclonic, Hyperkinetic, Epileptic spasm"),
+  q(603,"oddoneout","Pick the ODD ONE OUT - the motor type bracketed as Rare in simple partial:","Tonic","Hyperkinetic","Epileptic spasm","Clonic",exp="Simple partial motor onset table brackets Hyperkinetic and Epileptic spasm as Rare"),
+  q(603,"recall","Non-motor onset includes which five symptom groups?","Autonomic symptoms, Behaviour arrest, Cognitive issues, Emotional issues, Sensory Issues","Tonic, Clonic, Atonic, Myoclonic, Hyperkinetic","Typical absent, Atypical absent, Myoclonic","Fever, Neck stiffness, Altered sensorium",exp="Non-motor onset lists Autonomic symptoms, Behaviour arrest, Cognitive issues, Emotional issues, Sensory Issues"),
+  q(603,"recall","Non-motor onset symptoms are noted to be most common in which seizure type?","Complex partial seizures","Simple partial seizures","Generalized tonic clonic seizures","Atonic seizures",exp="Non-motor onset bracket is marked m/c in complex partial seizures"),
+  q(603,"recall","Generalized motor (GTCS) onset types listed are:","Tonic clonic, Clonic, Tonic, Myoclonic, Atonic","Typical absent, Atypical absent, Myoclonic","Automatisms only","Autonomic symptoms and behaviour arrest",exp="Generalized onset motor (GTCS): Tonic clonic, Clonic, Tonic, myoclonic, Atonic"),
+  q(603,"recall","Generalized non-motor (Absent seizures) types listed are:","Typical absent, Atypical absent, Myoclonic","Tonic clonic, Clonic, Tonic","Hyperkinetic and Epileptic spasm","Automatisms and behavioural arrest",exp="Generalized onset Non-motor (Absent seizures): Typical absent, Atypical absent, myoclonic"),
+ ]),
+("Epilepsy Evaluation and Focal Seizures", "Epilepsy Evaluation and Focal Seizures",
+ "Epilepsy work-up evaluates MRI, EEG, type of onset and LOC to predict further seizure risk and determine syndrome.\nFocal seizures are compared without vs with dyscognition: simple partial aware vs complex partial with LOC, post-ictal disorientation and medial temporal localization, with structural frontal lesions irritating opposite brain.",
+ [
+  q(603,"recall","To evaluate epilepsy, the four items listed are:","MRI, EEG, Type of onset, LOC","Age, Gender, IQ, Sleep deprivation","Tonic, Clonic, Atonic, Myoclonic","Hyperventilation, Photophobia, Phonophobia, Osmophobia",exp="To evaluate epilepsy: 1. MRI 2. EEG 3. Type of onset 4. LOC"),
+  q(603,"recall","The evaluation flow predicts risk for further seizure and then determines:","If epilepsy syndrome","If status epilepticus only","If pseudo seizure","If syncope vs seizure",exp="Epilepsy evaluation flow: Predict risk for further seizure -> Determine if epilepsy syndrome"),
+  q(603,"numeric","Epilepsy syndrome is defined by how many unprovoked seizures separated by what interval without identifiable cause?","≥2 unprovoked seizures separated for ≥24 hrs","≥3 seizures separated for ≥1 hr","≥2 seizures separated for ≥12 hrs","≥1 seizure with <24 hrs separation",exp="Epilepsy syndrome: ≥2 unprovoked seizures separated for ≥24hrs without an identifiable cause"),
+  q(603,"numeric","Single episode seizure qualifies as epilepsy syndrome if MRI/EEG shows epileptiform syndrome with risk of subsequent seizure:",">60%","<20%",">90%","<5%",exp="Single episode seizure with evidence suggestive of epileptiform syndrome on MRI/EEG with risk of subsequent seizure >60%"),
+  q(604,"recall","Focal seizures AKA without dyscognition is:","Simple partial seizure","Complex partial seizure","Typical absent seizure","Generalized tonic clonic seizure",exp="Focal seizures table AKA: Without dyscognition is Simple partial seizure"),
+  q(604,"recall","Focal seizures AKA with dyscognition is:","Complex partial seizure","Simple partial seizure","Atonic seizure","Myoclonic seizure",exp="Focal seizures table AKA: With dyscognition is Complex partial seizure"),
+  q(604,"recall","Onset in without dyscognition is focal -> motor; with dyscognition is:","Focal -> motor/non-motor","Generalized -> motor only","Unknown onset","Focal -> non-motor only",exp="Focal seizures table Onset: Without dyscognition Focal -> motor, With dyscognition Focal -> motor/non-motor"),
+  q(604,"recall","Consciousness in without dyscognition is Aware; with dyscognition is:","LOC +, post ictal disorientation","Sudden brief lapse with no loss of postural control","Absent post-ictal confusion","Very short",exp="Consciousness: Without dyscognition Aware, With dyscognition LOC +, post ictal disorientation"),
+  q(604,"recall","Epileptiform syndrome in without dyscognition is Nil; with dyscognition is:","Present (Further risk of seizure ↑), Localization medial temporal lobe (m/c)","Absent with no risk","Present in frontal lobe only","Nil with good prognosis",exp="Epileptiform syndrome: Without dyscognition Nil, With dyscognition Present (Further risk of seizure ↑), Localization medial temporal lobe (m/c)"),
+  q(604,"recall","Etiology of focal seizure without dyscognition is structural lesion in which lobes irritating opposite side brain?","Frontal/Fronto-parietal lobe","Medial temporal lobe only","Occipital lobe bilateral","Cerebellum",exp="Etiology without dyscognition: Structural lesion (Frontal/Fronto-parietal lobe) -> Irritate opposite side brain -> Seizure"),
+  q(604,"recall","Structural lesion etiologies listed for focal without dyscognition include:","Tuberculoma, Neurocysticercosis, Brain tumours, Post stroke seizure (in elderly)","Febrile seizures in childhood only","Hippocampal sclerosis only","Genetically determined epilepsy",exp="Etiology without dyscognition lists Tuberculoma, Neurocysticercosis, Brain tumours, Post stroke seizure (in elderly)"),
+  q(604,"recall","Etiology of focal with dyscognition is marked as:","Family history (+)","Tuberculoma only","Neurocysticercosis only","Post stroke in elderly only",exp="Etiology with dyscognition is Family history (+)"),
+ ]),
+("Focal Seizure Presentation and Medial Temporal Lobe Epilepsy", "Focal Presentation, Investigations and Medial Temporal Lobe Epilepsy",
+ "Without dyscognition presentation is tonic > tonic clonic > sensory flashing light/autonomic with 2-3 Hz clonic, Todd's palsy up to 24h, Jacksonian march distal to proximal and epilepsia partialis continua hours to days.\nWith dyscognition has abdominal aura fullness->regurgitation > visual > auditory, behavioural arrest motionless stare, automatisms lip smacking chewing and anterograde amnesia, with MRI hippocampal sclerosis, EEG temporal spikes and lifelong AED for with dyscognition.",
+ [
+  q(604,"recall","In without dyscognition presentation, motor vs sensory ordering is:","Motor (Tonic > Tonic clonic) > sensory (Flashing light)/Autonomic","Sensory > Motor","Autonomic only","Myoclonic > Atonic only",exp="Presentation without dyscognition: motor (Tonic > Tonic clonic) > sensory (Flashing light)/Autonomic"),
+  q(604,"numeric","Clonic movements frequency is listed as:","2-3 Hz","3 Hz spike & wave","4-6 Hz","30-60 s",exp="Clonic movements: 2-3 Hz"),
+  q(604,"recall","Abnormal facial movements in focal without dyscognition are:","Synchronous with limbs","Asynchronous with limbs","Only with eye movement","Only with automatisms",exp="Presentation without dyscognition: Abnormal facial movements synchronous with limbs"),
+  q(604,"recall","Todd's palsy is described as:","Post ictal (Transient) palsy lasting upto 24 hours","Pre-ictal palsy lasting seconds","Ictal palsy lasting minutes","Permanent hemiplegia",exp="Todd's palsy: Post ictal (Transient) palsy lasting upto 24 hours"),
+  q(604,"recall","Jacksonian march is defined as:","Migration of motor activity (Distal to proximal)","Migration proximal to distal","Continuous activity lasting hours to days","Motionless stare",exp="Jacksonian march: migration of motor activity (Distal to proximal)"),
+  q(604,"recall","Epilepsia partialis continua is:","Continuous activity lasting hours to days","Activity lasting 30-60 s","Brief lapse with no postural loss","Very short myoclonus",exp="Epilepsia partialis continua: Continuous activity lasting hours to days"),
+  q(604,"oddoneout","Pick the ODD ONE OUT - aura frequency in without dyscognition:","Common","Rare","Absent","Very common",exp="Presentation without dyscognition: Aura Rare"),
+  q(604,"recall","Aura in with dyscognition is described as:","Subjective internal event not observed by others","Objective event observed by others","Axial thrust movements","Low sympathetic pupillary dilation",exp="Aura with dyscognition: Subjective internal event not observed by others"),
+  q(604,"recall","Abdominal aura ranking is feeling of fullness -> regurgitation, then which order?","Visual > Auditory","Auditory > Visual","Olfactory > Gustatory","Tonic > Atonic",exp="Aura with dyscognition Abdominal (Feeling of fullness -> Regurgitation) > Visual > Auditory"),
+  q(604,"recall","Behavioural arrest in with dyscognition is:","Motionless stare","Flexion of hips and knees in response to neck flexion","Resistance to extension of leg","Axial thrust movements",exp="Behavioural arrest: motionless stare"),
+  q(604,"recall","Automatisms in with dyscognition are defined as:","Coordinated motor activity resembling movement (Eg: Lip smacking, chewing)","Uncoordinated axial thrust","Increased actions to gain attention","Pause/stare > automatisms > eye movement",exp="Automatisms: Coordinated motor activity resembling movement (Eg: Lip smacking, chewing)"),
+  q(604,"recall","Memory issue listed with dyscognition is:","Anterograde amnesia","Retrograde amnesia only","Immediate working memory loss only","No storage",exp="With dyscognition: Anterograde amnesia"),
+  q(604,"recall","MRI in without dyscognition is to determine etiology; with dyscognition shows:","Hippocampal sclerosis","Normal MRI only","B/L Temporal lobe hyperintensity","3 Hz spike & wave",exp="MRI: Without dyscognition To determine etiology, With dyscognition Hippocampal sclerosis"),
+  q(604,"recall","EEG in without dyscognition is Normal (Transient abnormality -> Not diagnostic); with dyscognition shows:","Temporal spikes","3Hz spike & wave pattern","Polyspike & wave pattern","Centrotemporal spikes",exp="EEG: Without dyscognition Normal (Transient abnormality -> Not diagnostic), With dyscognition Temporal spikes"),
+  q(604,"management","Treatment without dyscognition is Not indication for anti epileptics; with dyscognition is:","Antiepileptics: Lifelong","Antiepileptics till 12 years only","No treatment required","Valproate preferred but stop after 12",exp="Treatment: Without dyscognition Not indication for anti epileptics, With dyscognition Antiepileptics Lifelong"),
+  q(604,"recall","Medial temporal lobe epilepsy is described as:","m/c type of complex partial seizure","m/c type of simple partial seizure","m/c type of generalized tonic clonic","m/c type of atonic seizure",exp="Medial temporal lobe epilepsy: m/c type of complex partial seizure"),
+  q(604,"recall","Medial temporal lobe epilepsy has which history clues?","Family history present and H/o febrile seizures in childhood","Adolescents with axial thrust only","Age >65 with CSF leak","Post head injury E.coli infection",exp="Medial temporal lobe epilepsy: Family history present, H/o febrile seizures in childhood"),
+  q(604,"recall","EEG in medial temporal lobe epilepsy shows:","Temporal spikes","3Hz spike & wave","Polyspike & wave","Hypsarrhythmia mountain waves",exp="Medial temporal lobe epilepsy EEG: Temporal spikes"),
+ ]),
+("Generalized Seizures and Absent Seizures", "Generalized Seizures and Typical Childhood Absence",
+ "MRI T2 flare and T1 flare point to hippocampal sclerosis with temporal lobe spikes on EEG, while normal EEG is also shown.\nTypical childhood absence is non-motor with sudden brief lapse, no postural loss, absent post-ictal confusion, IQ normal, pause/stare > automatisms > eye movement, hyperventilation aggravation, normal MRI and 3Hz spike-wave, treated till 12 with valproate preferred and ethosuximide.",
+ [
+  q(605,"recall","MRI images labelled T2 flare and T1 flare show which pathology?","Hippocampal sclerosis","B/L Temporal lobe hyperintensity of HSV encephalitis","Medio-temporal, orbito-frontal, insula hyperintensity","Normal MRI",exp="MRI T2 flare, T1 flare labelled as Hippocampal sclerosis"),
+  q(605,"recall","Temporal lobe spikes EEG is shown with three strips circled; the other EEG shown is:","Normal EEG","3 Hz spike & wave pattern","Polyspike & wave pattern","Hypsarrhythmia",exp="EEG panels show Temporal lobe spikes and Normal EEG"),
+  q(605,"recall","Absent seizures are classified under which onset?","Non-motor generalized","Motor generalized GTCS","Focal motor onset","Unknown onset",exp="Generalised Seizures ABSENT SEIZURES Non-motor"),
+  q(605,"recall","Epileptiform syndromes listed under absent seizures are:","Typical childhood absence and Atypical juvenile absence","West and Dravet only","Lennox Gastaut only","Rolandic seizures only",exp="Absent seizures Epileptiform syndromes: Typical childhood absence seizure and Atypical juvenile absence seizure"),
+  q(605,"recall","Typical childhood absence seizure remission is:","Remission by 12 yrs (Good prognosis)","Lifelong with no remission","Remission by 4-10 yrs only","Remission after 25 yrs",exp="Typical childhood absence seizure: Remission by 12 yrs (Good prognosis)"),
+  q(605,"numeric","Typical childhood absent seizures age group is:","4-10 yrs","9-13 years","6-25 years","<1 year",exp="Typical childhood absent seizures Age: 4-10 yrs"),
+  q(605,"recall","Gender predominance in typical childhood absent is:","Boys > girls","Female > male","M=F","Girls > boys only in atypical",exp="Typical childhood absent seizures Gender: Boys > girls"),
+  q(605,"recall","Association of typical childhood absent is:","Genetically determined epilepsy in childhood","Post head injury E.coli infection","Tuberous sclerosis","AR inheritance with PAS +ve inclusions",exp="Typical childhood absent Association: Genetically determined epilepsy in childhood"),
+  q(605,"recall","Consciousness in typical childhood absent is:","Sudden brief lapse (No loss of postural control)","Very short with myoclonus","Longer duration with loss of postural control","Sudden loss of muscle tone",exp="Typical childhood absent Presentation Consciousness: Sudden brief lapse (No loss of postural control)"),
+  q(605,"recall","Post-ictal confusion in typical childhood absent is:","Absent","Present for many minutes to hours","Present <5 min","Present with anterograde amnesia",exp="Typical childhood absent Post-ictal confusion: Absent"),
+  q(606,"recall","IQ in typical childhood absent is:","Normal","Impaired with mental retardation","Low with dementia","Not assessed",exp="Typical childhood absent IQ: Normal"),
+  q(606,"recall","Typical childhood absent day-to-day description includes:","Day dreaming, absent minded, loss of focus","Increased axial thrust movements","Large purpuric rash and shock","Fever, neck stiffness, altered sensorium",exp="Typical childhood absent: Day dreaming, absent minded, loss of focus"),
+  q(606,"recall","Motor activity in typical childhood absent is ordered:","Pause/stare > automatisms > eye movement","Eye movement > automatisms > pause/stare","Automatisms > pause/stare > eye movement","Tonic > clonic > atonic",exp="Typical childhood absent motor activity: Pause/stare > automatisms > eye movement"),
+  q(606,"recall","Aggravating factor for typical childhood absent is:","Hyperventilation","Sleep deprivation upon awakening","Photophobia","Valsalva",exp="Typical childhood absent Aggravating factor: Hyperventilation"),
+  q(606,"recall","Investigations in typical childhood absent MRI is:","Normal","Hippocampal sclerosis","B/L Temporal lobe hyperintensity","Cerebral infarction",exp="Typical childhood absent Investigations MRI: Normal"),
+  q(606,"recall","EEG in typical childhood absent shows:","3Hz spike & wave pattern","Temporal lobe spikes","Polyspike & wave pattern","Asymmetrical slow spike and wave",exp="Typical childhood absent EEG: 3Hz spike & wave pattern"),
+  q(606,"management","Treatment of typical childhood absent is antiepileptic drugs till 12 years with good prognosis; preferred drugs are:","Valproate (Preferred), ethosuximide","Carbamazepine, oxcarbazepine","Phenytoin only","Levetiracetam only lifelong",exp="Typical childhood absent Treatment: Antiepileptic drugs till 12 years of age (Remission + Good prognosis), Valproate (Preferred), ethosuximide"),
+  q(606,"numeric","Atypical juvenile absent seizure age group is:","9-13 years","4-10 yrs","6-25 years","10-18 years",exp="Atypical juvenile absent seizure Age: 9-13 years"),
+  q(606,"recall","Atypical juvenile absent presentation includes longer LOC duration, loss of postural control and:","Status epilepticus","Day dreaming only","Remission by 12 yrs","No loss of postural control",exp="Atypical juvenile absent Presentation: Loss of consciousness Longer duration, Loss of postural control, Status epilepticus"),
+  q(606,"recall","EEG in atypical juvenile absent shows:","Asymmetrical slow spike and wave pattern and Abnormal interictal background","3Hz spike & wave with normal background","Normal EEG only","Centrotemporal spikes",exp="Atypical juvenile absent EEG: Asymmetrical slow spike and wave pattern, Abnormal interictal background"),
+  q(606,"management","Treatment of atypical juvenile absent is:","Antiepileptic drugs (Lifelong) with Valproate","Till 12 years only with ethosuximide","Carbamazepine first line","No treatment needed",exp="Atypical juvenile absent Treatment: Antiepileptic drugs (Lifelong), Valproate"),
+ ]),
+("Myoclonic and Atonic Seizures", "Juvenile Myoclonic Epilepsy, Myoclonic and Atonic Seizures",
+ "Juvenile myoclonic epilepsy presents 6-25 years female > male with sleep deprivation upon awakening, GTCS 90% and absence 1/3, very short LOC, shock-like myoclonus face-trunk-upper limb > lower limb.\nAtonic seizures are sudden loss of muscle tone in children, associated with Lennox Gastaut syndrome tonic > atonic > drop attacks > absent, with mental retardation, refractory epilepsy and slow spike-wave background; Lennox is not associated with myoclonic seizures.",
+ [
+  q(606,"numeric","Juvenile myoclonic epilepsy age group is:","6-25 years","4-10 yrs","9-13 years","<1 year",exp="Juvenile myoclonic epilepsy Age: 6-25 years"),
+  q(606,"recall","Gender predominance in juvenile myoclonic epilepsy is:","Female > male","Boys > girls","M=F","Male > female",exp="Juvenile myoclonic epilepsy Gender: Female > male"),
+  q(606,"recall","Association of JME with sleep is:","Sleep deprivation (upon awakening)","Hyperventilation aggravation","Day dreaming absent minded","Post head injury",exp="JME Associations: Sleep deprivation (upon awakening)"),
+  q(606,"numeric","GTCS in juvenile myoclonic epilepsy is seen in what percentage?","90%","70-90%","100%","50-70%",exp="JME Associations: GTCS in 90%"),
+  q(606,"numeric","Absence seizure in JME is seen in:","1/3rd cases","90% cases","100% cases","70-90% cases",exp="JME Associations: Absence seizure in 1/3rd cases"),
+  q(607,"recall","Loss of consciousness in JME myoclonus presentation is:","Very short","Longer duration","Absent","Many minutes to hours",exp="JME Presentation Loss of consciousness: very short"),
+  q(607,"recall","Myoclonus is defined as:","Sudden brief shock like contractions","Flexion of hips and knees in response to neck flexion","Resistance to extension of leg","Continuous activity lasting hours to days",exp="JME Presentation myoclonus (Sudden brief shock like contractions)"),
+  q(607,"recall","Distribution of myoclonus in JME is:","Generalized, face and trunk, upper limb > lower limb","Focal -> motor only","Lower limb > upper limb","Unilateral periorbital only",exp="JME Presentation Generalized, face and trunk, upper limb > lower limb"),
+  q(607,"recall","Severity of myoclonus ranges:","Subtle to dramatic","Only dramatic","Only subtle","Only with loss of postural control",exp="JME Presentation Subtle to dramatic"),
+  q(607,"recall","IQ in JME is:","Normal","Impaired with mental retardation","Low with dementia","Abnormal interictal background",exp="JME Presentation IQ: Normal"),
+  q(607,"management","Antiepileptic therapy for JME includes which four drugs?","Levetiracetam, Valproate (Lifelong), Lamotrigine, Topiramate","Carbamazepine, Oxcarbazepine, Phenytoin, Phenobarbitone","Ethosuximide only","Carbamazepine and oxcarbazepine only",exp="JME Treatment Antiepileptic therapy: Levetiracetam, Valproate (Lifelong), Lamotrigine, Topiramate"),
+  q(607,"recall","EEG of myoclonic seizure shows:","Polyspike & wave pattern","3Hz spike & wave pattern","Temporal lobe spikes","Hypsarrhythmia",exp="JME EEG: Polyspike & wave pattern and EEG of myoclonic seizure"),
+  q(607,"recall","Atonic seizures are characterized by:","Sudden loss of muscle tone","Sudden brief shock like contractions","Pause/stare > automatisms > eye movement","Increased axial thrust movements",exp="Atonic seizures: Sudden loss of muscle tone"),
+  q(607,"recall","Atonic seizures age group is:","Children","Adolescents","Adults >65","4-10 yrs boys > girls",exp="Atonic seizures Age: Children"),
+  q(607,"recall","Atonic seizures association is Lennox Gastaut syndrome with which seizure hierarchy?","Tonic > Atonic > Drop attacks > Absent seizure","Myoclonic > Tonic > Atonic only","Typical absent > Atypical absent > Myoclonic","Focal -> motor > sensory",exp="Atonic seizures Association: Lennox Gestaut syndrome (Tonic > Atonic > Drop attacks > Absent seizure)"),
+  q(607,"recall","Lennox Gastaut syndrome triangle includes mental retardation, multiple seizure type + childhood refractory epilepsy and:","Paroxysmal fast activity Background -> Slow spike and wave","3Hz spike & wave with normal background","Hippocampal sclerosis","Centrotemporal spikes",exp="LG syndrome diagram: mental retardation, multiple seizure type + Childhood Refractory Epilepsy, Paroxysmal fast activity Background -> Slow spike and wave"),
+  q(607,"oddoneout","Pick the ODD ONE OUT - pediatric epileptic encephalopathies listed:","Juvenile myoclonic epilepsy","Lennox gestaut syndrome (Not associated with myoclonic seizures)","West syndrome","Dravet syndrome",exp="Pediatric epileptic encephalopathies: Lennox gestaut syndrome (Not associated with myoclonic seizures), West syndrome, Dravet syndrome"),
+  q(607,"recall","Lennox gestaut syndrome is noted as not associated with which seizure type?","Myoclonic seizures","Tonic seizures","Atonic seizures","Absent seizures",exp="Note: Lennox gestaut syndrome (Not associated with myoclonic seizures)"),
+ ]),
+])
+
+# -------------------- Chapter 41 CNS Infections p613-617
+ch41 = make_chapter(41, "CNS Infections", "613-617", [
+("CNS Infections Overview and Comparison", "Bacterial vs Viral Meningitis vs Viral Encephalitis",
+ "Encephalitis is abnormal cerebral function; severity is acute catastrophic bacterial, benign viral meningitis and severe brain parenchyma involvement in viral encephalitis.\nOnset is 24-48 hrs bacterial, 3-5 days viral meningitis and 1-2 days encephalitis, with distinct clinical features and mortality 100% untreated bacterial.",
+ [
+  q(613,"recall","Encephalitis is defined in the book as:","Abnormal cerebral function","Signs & symptoms of seizure activity","Sudden loss of muscle tone","Transient hypersynchronous neuronal activity",exp="Encephalitis: Abnormal cerebral function"),
+  q(613,"recall","Severity of bacterial meningitis is described as:","Acute and catastrophic","Benign disease","Severe: Brain parenchyma involved","Chronic and slowly progressive",exp="Bacterial meningitis Severity: Acute and catastrophic"),
+  q(613,"recall","Viral meningitis presentation severity is described as:","Benign disease","Acute and catastrophic","Severe: Brain parenchyma involved","Refractory status epilepticus only",exp="Viral meningitis Presentation: Benign disease"),
+  q(613,"recall","Viral encephalitis severity is:","Severe: Brain parenchyma involved","Benign disease","Acute and catastrophic without parenchyma","Mild with no confusion",exp="Viral encephalitis Severity: Severe Brain parenchyma involved"),
+  q(613,"numeric","Onset of symptoms in bacterial meningitis is:","24-48 hrs","3-5 days","1-2 days","5-10 years before",exp="Bacterial meningitis Onset of Symptoms 24-48 hrs"),
+  q(613,"numeric","Onset of symptoms in viral meningitis is:","3-5 days","24-48 hrs","1-2 days","1-2 days with refractory status",exp="Viral meningitis Onset 3-5 days"),
+  q(613,"numeric","Onset of symptoms in viral encephalitis is:","1-2 days","24-48 hrs","3-5 days","4-10 yrs",exp="Viral encephalitis Onset 1-2 days"),
+  q(613,"recall","Clinical features of bacterial meningitis include high fever spikes, neck stiffness, vomiting, severe headache, photophobia and:","Altered mental status (Patient lethargic, confused and distractable)","Day dreaming and loss of focus","Pause/stare > automatisms > eye movement","Sudden brief shock like contractions",exp="Bacterial meningitis Clinical Features: High fever spikes, Neck stiffness, Vomiting, Severe headache, Photophobia, Altered mental status (Patient lethargic, confused and distractable)"),
+  q(613,"management","Bacterial meningitis should start treatment ASAP because mortality in untreated patients is:","100% in untreated patients","50% in untreated","Good prognosis with remission by 12 yrs","Self-limiting with good prognosis",exp="Bacterial meningitis Should start treatment ASAP (mortality 100% in untreated patients)"),
+  q(613,"recall","Viral meningitis clinical course peaks initially with fever + headache and lasts:","1-2 days","24-48 hrs","1-2 days with refractory status","5-10 years",exp="Viral meningitis Peaks initially with fever + headache, Last 1-2 days"),
+  q(613,"recall","Viral meningitis associated symptoms include nausea, vomiting, photophobia, neck stiffness, discomfort, distracted, confusion, lethargy and m/c organism:","Enterovirus type 7 > HSV-2","Streptococcus pneumoniae (m/c)","E.coli (m/c)","HSV-1 > JE virus",exp="Viral meningitis m/c organism: Enterovirus type 7 > HSV-2 with symptoms Nausea, Vomiting, Photophobia, Neck stiffness, Discomfort, Distracted, Confusion, Lethargy"),
+  q(613,"recall","Viral encephalitis clinical features include refractory status epilepticus, complete altered behaviour/personality changes, confusion status subtle -> unresponsive, speech defect and:","Focal neurological deficit motor/sensory","Neck stiffness only","Day dreaming absent minded","Sudden loss of muscle tone",exp="Viral encephalitis Clinical Features: Refractory status epilepticus, Complete altered behaviour/personality changes, Confusion status Subtle changes -> unresponsive state, Speech defect, Focal neurological deficit motor/sensory"),
+ ]),
+("Viral Encephalitis and Autoimmune Notes", "Viral Encephalitis Etiology, Investigations and Autoimmune Encephalitis Notes",
+ "Most common organism in India for viral encephalitis is HSV-1 > Japanese encephalitis virus, Nipah rare, with pure encephalitis and meningoencephalitis types.\nCSF shows normal sugar, raised protein 50-300, raised cells 10-1000, RBC NIL, antibodies positive for HSV and JE, MRI hyperintensity medio-temporal orbito-frontal insula, and autoimmune notes link anti NMDA to IVIg PLEX, anti Na to SCLC, anti CRMP5 to SCLC thymoma and anti Hu 2 to testicular malignancy.",
+ [
+  q(613,"recall","Most common organism for viral encephalitis in India is:","HSV-1 > Japanese encephalitis virus","Enterovirus type 7 > HSV-2","Streptococcus pneumoniae (m/c)","E.coli (m/c)",exp="Viral encephalitis Etiology m/c organism in India: HSV-1 > Japanese encephalitis virus"),
+  q(613,"recall","Rare viral encephalitis organism listed is:","Nipah virus (rare)","HSV-1","Enterovirus type 7","Japanese encephalitis virus",exp="Viral encephalitis Nipah virus (rare)"),
+  q(613,"recall","Types of viral encephalitis are:","Pure encephalitis and meningoencephalitis","Bacterial and fungal only","Acute and chronic only","Focal and generalized only",exp="Viral encephalitis Types: Pure encephalitis, meningoencephalitis"),
+  q(613,"recall","CSF analysis in viral encephalitis sugar is:","Normal range","<0.4","<4.0","Raised >0.6",exp="Viral encephalitis CSF Analysis Sugar: Normal range"),
+  q(613,"numeric","CSF protein in viral encephalitis is raised:","50-300 mg/dL","15-45 mg/dL",">100 (~250 mg/dL)","<100 mg/dL",exp="Viral encephalitis CSF Protein: Raised (50-300 mg/dL)"),
+  q(613,"numeric","CSF cell count in viral encephalitis is raised:","10-1000","<5 cells/µL",">1000 cells/µL","500-800 cells/µL",exp="Viral encephalitis Cell count: Raised (10-1000)"),
+  q(613,"recall","RBC count in viral encephalitis CSF is:","NIL","Raised","Cloudy/yellow",">1000 cells/µL",exp="Viral encephalitis RBC count: NIL"),
+  q(613,"recall","Antibodies in viral encephalitis are positive for:","HSV and JE","Enterovirus type 7 > HSV-2","Streptococcus pneumoniae","E.coli",exp="Viral encephalitis Antibodies: Positive for HSV and JE"),
+  q(613,"recall","MRI findings in HSV or JE encephalitis are hyperintensity in which three regions?","Medio-temporal, Orbito-frontal, Insula","B/L PCA lesion, C5-C6, Cingulate gyrus","Frontal/Fronto-parietal, T2 flare, T1 flare","Posterior superior iliac spine region",exp="HSV or JE encephalitis findings: Hyperintensity medio-temporal, Orbito-frontal, Insula"),
+  q(614,"management","Treatment note for viral encephalitis/meningitis says start antibiotics:","Should start even with suspicion of encephalitis","Only after culture 80% positive","Only if gram stain 60% positive","Only after imaging shows SOL",exp="Treatment: Start Antibiotics (Should start even with suspicion of encephalitis)"),
+  q(614,"recall","Anti NMDA antibody is associated with autoimmune encephalitis; treatment is:","IVIg PLEX","Penicillin","Ceftriaxone 2gm IV BD","Vancomycin 1gm IV BD",exp="Anti NMDA Antibody: Autoimmune encephalitis Rx: IVIg PLEX"),
+  q(614,"recall","Anti Na antibody is associated with:","SCLC (Small cell lung cancer)","Testicular malignancy","Thymoma only","SCLC and thymoma",exp="Anti Na Antibody: SCLC (Small cell lung cancer)"),
+  q(614,"recall","Anti CRMP5 antibody is associated with:","SCLC, thymoma","Testicular malignancy only","SCLC only","Autoimmune encephalitis with IVIg PLEX",exp="Anti CRMP5 Antibody: SCLC, thymoma"),
+  q(614,"recall","Anti Hu 2 antibody is associated with:","Testicular malignancy","SCLC only","Thymoma only","SCLC, thymoma",exp="Anti Hu 2 Antibody: Testicular malignancy"),
+ ]),
+("Acute Meningitis and Etiology", "Acute Meningitis and Etiology by Age Group",
+ "Acute meningitis should be considered bacterial unless proven otherwise; CSF subarachnoid space normally <5 cell/µL, no complements, no immunoglobulin is favourable for organisms, with PMNL as polymorphonuclear neutrophils.\nEtiology varies by age: adults strep pneumo m/c, neisseria, listeria >50; <2 months E.coli m/c enterobacteriaceae, strep agalactiae, listeria; 2 months to 2yr strep agalactiae m/c, E.coli; immunocompromised HIV oldage chronic infection diabetes strep pneumo m/c, neisseria, listeria, Hib; post head injury craniotomy CSF rhinorrhea E.coli m/c pseudomonas and post shunt omaya staph aureus m/c CONS.",
+ [
+  q(614,"recall","Acute meningitis should be considered what unless proven otherwise?","Bacterial","Viral","Fungal","TB",exp="Acute meningitis should be considered bacterial unless proven otherwise"),
+  q(614,"recall","CSF subarachnoid space normal cell count is:","<5 cell/µL","<1000 cells/µL",">1000 cells/µL","500-800 cells/µL",exp="CSF (Subarachnoid space) <5 cell/µL"),
+  q(614,"recall","CSF favourable condition for organism includes no complements and:","No Immunoglobulin","No neutrophils","High lactate","Cloudy colour",exp="CSF No Complements, No Immunoglobulin is Favourable condition for organism"),
+  q(614,"recall","PMNL stands for:","Polymorphonuclear neutrophils","Paroxysmal fast activity","Penicillin-Resistant Streptococcus pneumoniae","Progressive myoclonic epilepsy",exp="PMNL: Polymorphonuclear neutrophils"),
+  q(614,"recall","Organism entry into CSF releases endotoxins, teichonic acid etc leading to inflammatory cascade mediated by:","Cytokines","Complement C5b-C9","IgG4","TGF-β/PDGF",exp="Organism entry into CSF Release Endotoxins teichonic acid etc Inflammatory cascade (mediated by cytokines)"),
+  q(614,"recall","Inflammatory cascade leads to symptoms and can involve brain parenchyma to form:","Meningoencephalitis","Pure encephalitis only","Benign disease only","Acute catastrophic only",exp="Symptoms -> meningitis and meningoencephalitis with + Involvement of Brain parenchyma"),
+  q(614,"recall","In adults, most common cause of acute meningitis is:","Streptococcus pneumoniae (m/c)","Enterobacteriaceae E.coli (m/c)","Streptococcus agalactiae (m/c)","Hib",exp="Acute meningitis In Adults Streptococcus pneumoniae (m/c)"),
+  q(614,"recall","In adults, other organisms include Neisseria meningitidis and:","Listeria (>50 age)","E.coli (m/c)","Streptococcus agalactiae (m/c)","Pseudomonas",exp="In Adults Neisseria meningitidis, Listeria (>50 age)"),
+  q(614,"recall","In <2 months, most common organism is:","Enterobacteriaceae: E.coli (m/c)","Streptococcus pneumoniae (m/c)","Streptococcus agalactiae (m/c)","Hib",exp="In <2 months Enterobacteriaceae: E.coli (m/c)"),
+  q(614,"recall","In <2 months, other organisms are Streptococcus agalactiae and:","Listeria","Neisseria meningitidis","Hib","Pseudomonas",exp="In <2 months Streptococcus agalactiae, Listeria"),
+  q(614,"recall","In 2 months to 2 yr, most common organism is:","Streptococcus agalactiae (m/c)","E.coli (m/c)","Streptococcus pneumoniae (m/c)","Hib",exp="In 2 months to 2 yr Streptococcus agalactiae (m/c)"),
+  q(614,"recall","In 2 months to 2 yr, other organism is:","E.coli","Neisseria meningitidis","Listeria","Pseudomonas",exp="In 2 months to 2 yr E.coli"),
+  q(614,"recall","In immunocompromised (HIV, oldage, chronic infection, diabetes) most common is:","Streptococcus pneumoniae (m/c)","E.coli (m/c)","Streptococcus agalactiae (m/c)","CONS infection",exp="In Immunocompromised Streptococcus pneumoniae (m/c)"),
+  q(614,"recall","Immunocompromised list includes HIV, Oldage, Chronic infection, Diabetes and other organisms:","Neisseria meningitidis, Listeria, Hib","E.coli and Pseudomonas","Staph aureus and CONS","Angiostrongylus cantonensis",exp="In Immunocompromised Neisseria meningitidis, Listeria, Hib"),
+  q(615,"recall","In post head injury/post craniotomy and post-CSF rhinorrhea, most common organism is:","E.coli (m/c) with Pseudomonas","Staphylococcus aureus (m/c) with CONS","Streptococcus pneumoniae (m/c)","Streptococcus agalactiae (m/c)",exp="In Post head injury/Post craniotomy, Post-CSF Rhinorrhea E.coli (m/c), Pseudomonas"),
+  q(615,"recall","In post shunt and Omaya reservoir, most common is:","Staphylococcus aureus (m/c) with CONS infection","E.coli (m/c) with Pseudomonas","Streptococcus pneumoniae (m/c)","Listeria",exp="In Post Shunt, Omaya reservoir Staphylococcus aureus (m/c), CONS infection"),
+ ]),
+("Pathogenesis and Pneumococcus", "Pathogenesis, Pneumococcus Features and Predisposing Factors",
+ "Pneumococcus colonizes nasopharyngeal wall, invades serotype-3, enters circulation via choroid plexus m/c to CSF, can infect immunocompetent <20 and >50 years but only immunocompromised 20-50, leading to cytokine storm, pneumolysin cytolytic toxin pores, altered BBB, vasogenic edema, exudate blocking CSF interstitial edema and cytotoxic edema.\nFeatures are gram +ve, catalase +ve/alpha hemolysis, bile soluble/optochin sensitive/inulin fermenter, capsule avoids phagocytosis, Quellung reaction swollen capsule with antiserum for rapid identification, with predisposing age >65, sickle cell, celiac, CSF leak, HIV, DM, cochlear implant and meningococcal late complement C5b-C9 deficiency, hypogammaglobulinemia, hyposplenism.",
+ [
+  q(615,"recall","Pneumococcus colonizes in which site before invasion?","Nasopharyngeal wall","Subarachnoid space","Choroid plexus","CSF directly",exp="Pathogenesis Colonizes in nasopharyngeal wall"),
+  q(615,"recall","Invasive serotype noted for pneumococcus is:","Serotype-3","Serotype-7","Serotype-2","Serotype-1",exp="Pathogenesis Invades (Serotype-3)"),
+  q(615,"recall","Circulation entry to CSF is via which route marked m/c?","Choroid Plexus (m/c)","Direct via nasopharyngeal wall","Via omaya reservoir","Via post-CSF rhinorrhea",exp="Pathogenesis Circulation Via Choroid Plexus (m/c) to CSF"),
+  q(615,"recall","Age groups that can be infected even if immunocompetent are:","<20 and >50 years","20-50 years only",">65 yr only","<2 months only",exp="Pathogenesis <20 and >50 years Can also infect immunocompetent"),
+  q(615,"recall","Age group where infection occurs only in immunocompromised state is:","20-50 year","<20 and >50 years",">65 yr only","<2 months",exp="Pathogenesis 20-50 year infection only in Immunocompromised state"),
+  q(615,"recall","Cytokine storm leads to cytolytic toxin named:","Pneumolysin: Pores in cell membrane","Lipopolysaccharide","Teichonic acid","Endotoxins only",exp="Cytokine storm Cytolytic toxin (Pneumolysin: Pores in cell membrane)"),
+  q(615,"recall","Altered BBB permeability leads to which two edemas in the flow?","Vasogenic edema and Interstitial edema from blocked exudate plus Cytotoxic edema from WBC activation","Cytotoxic only","Interstitial only","Vasogenic only",exp="Altered BBB permeability leads to Vasogenic edema, increased exudate in CSF blocking CSF flow to Interstitial edema and WBC activation to Cytotoxic edema"),
+  q(615,"recall","Pneumococcus gram stain is:","Gram +ve","Gram -ve","Gram variable","Acid fast",exp="Features Pneumococcus Gram +ve"),
+  q(615,"recall","Pneumococcus catalase and hemolysis on blood agar is:","Catalase +ve/α-hemolysis on blood agar","Catalase -ve/beta hemolysis","Catalase -ve/alpha hemolysis","Catalase +ve/gamma hemolysis",exp="Pneumococcus Catalase +ve/α-hemolysis on blood agar"),
+  q(615,"recall","Pneumococcus biochemical features include:","Bile soluble/Optochin Sensitive/Inulin fermenter","Bile insoluble/Optochin resistant","Inulin non-fermenter only","Catalase -ve only",exp="Pneumococcus Bile soluble/Optochin Sensitive/Inulin fermenter"),
+  q(615,"recall","Capsule function in pneumococcus is:","Helps in avoiding phagocytosis","Produces pores in cell membrane","Causes vasogenic edema","Blocks CSF flow",exp="Pneumococcus Capsule: Helps in avoiding phagocytosis"),
+  q(615,"recall","Quellung reaction is described as:","Swollen capsule of pneumococci following addition of antiserum for rapid identification","Microscopic diplococcus without capsule","Bile soluble reaction","Optochin sensitive reaction",exp="Quellung reaction: Swollen capsule of pneumococci following addition of antiserum, Rapid identification"),
+  q(615,"recall","Predisposing factors for meningitis include age >65 yr, sickle cell, celiac disease, CSF leak, HIV, DM and:","Cochlear implant patient","Adolescents with axial thrust","Boys > girls 4-10 yrs","Female > male 6-25 yrs",exp="Predisposing factors meningitis: Age >65 yr, Sickle cell, Celiac disease, CSF leak, HIV, DM, Cochlear implant patient"),
+  q(615,"recall","Meningococcal meningitis predisposing complement deficiency is:","C5b-C9 deficiency (Late complement)","C1q > C2 > C4","C3 deficiency only","Early complement only",exp="Meningococcal meningitis Predisposing factors C5b-C9 deficiency (Late complement)"),
+  q(615,"recall","Other predisposing factors for meningococcal meningitis are:","Hypogammaglobulinemia and Hyposplenism","Hypergammaglobulinemia and hypersplenism","Sickle cell and celiac only","HIV and DM only",exp="Meningococcal meningitis Hypogammaglobulinemia, Hyposplenism"),
+ ]),
+("Clinical Presentation and Lumbar Puncture", "Clinical Presentation, Meningeal Signs and LP Contraindications",
+ "Meningococcal features include large purpuric rash, shock, adrenal hemorrhage, carrier 70-90%, endotoxin lipopolysaccharide, penicillin susceptible.\nClinical presentation is acute 1-2 days severe headache m/c with triad fever high grade, neck stiffness, altered sensorium drowsy lethargic, other features table linking lymphadenopathy TB, focal signs encephalitis, rash meningococcus, infarction pneumococcus, ataxia nerve palsy listeria, petechiae purpura arthritis meningococcus, high fever malaria dengue, with Brudzinski and Kernig signs and LP relative and absolute contraindications including papilledema SOL abscess, impending herniation 3rd nerve palsy, Cushing reflex bradycardia HTN bradyarrhythmia, recent seizure, impaired consciousness, focal signs.",
+ [
+  q(616,"recall","Meningococcal meningitis features include large purpuric rash, shock and:","Adrenal hemorrhage","Day dreaming and loss of focus","Pause/stare > automatisms","Sudden loss of muscle tone",exp="Features: Large purpuric rash, Shock, Adrenal hemorrhage"),
+  q(616,"numeric","Carrier state in meningococcal disease is seen in:","70-90%","90% of JME","1/3rd cases","5% in 5-10 years",exp="Carrier state in 70-90%"),
+  q(616,"recall","Most common endotoxin in meningococcus is:","Lipopolysaccharide","Pneumolysin","Teichonic acid","Capsule",exp="Meningococcal m/c Endotoxin: Lipopolysaccharide"),
+  q(616,"management","Treatment for both pneumococcus and meningococcus susceptible per Rx line is:","Penicillin (Both pneumococcus & meningococcus susceptible)","Ceftriaxone 2gm IV BD only","Vancomycin 1gm IV BD only","Ampicillin 2g Q4h only",exp="Rx: Penicillin (Both pneumococcus & meningococcus susceptible)"),
+  q(616,"recall","Clinical presentation of bacterial meningitis onset is:","Acute presentation (1-2 days)","3-5 days benign","1-2 days with refractory status","5-10 years before onset",exp="Clinical Presentation Features Acute presentation (1-2 days)"),
+  q(616,"recall","Most common headache type in meningitis presentation is:","Severe Headache (m/c)","Band-like pressure","Pulsatile with V2/V3 triggers","Orthostatic daily bilateral",exp="Clinical Presentation Severe Headache (m/c)"),
+  q(616,"recall","Classic triad of bacterial meningitis includes fever (high grade), neck stiffness and:","Altered sensorium: Drowsy, Lethargic","Day dreaming, absent minded","Pause/stare > automatisms","Sudden loss of muscle tone",exp="Triad: Fever (high grade), Neck stiffness, Altered sensorium Drowsy, Lethargic"),
+  q(616,"recall","Other features table: lymphadenopathy suggests:","TB","Encephalitis","Meningococcus","Pneumococcus",exp="Other features Lymphadenopathy -> TB"),
+  q(616,"recall","Focal neurological signs/seizure in other features table suggests:","Encephalitis","TB","Meningococcus","Pneumococcus",exp="Focal neurological signs/seizure -> Encephalitis"),
+  q(616,"recall","Rash in other features table suggests:","Meningococcus","Pneumococcus","Listeria","TB",exp="Rash -> meningococcus"),
+  q(616,"recall","Cerebral infarction in other features table suggests:","Pneumococcus","Meningococcus","Listeria","TB",exp="Cerebral infarction -> Pneumococcus"),
+  q(616,"recall","Seizure with ataxia/cerebral nerve palsy suggests:","Listeria","Meningococcus","Pneumococcus","TB",exp="Seizure with ataxia/Cerebral nerve palsy -> Listeria"),
+  q(616,"recall","Petechiae and palpable purpura with concurrent arthritis suggests:","Meningococcus","Pneumococcus","Listeria","TB",exp="Petechiae and palpable purpura, Concurrent arthritis -> meningococcus"),
+  q(616,"recall","High grade fever as other feature suggests:","Malaria, Dengue","TB only","Encephalitis only","Pneumococcus only",exp="High grade fever -> malaria, Dengue"),
+  q(616,"recall","Brudzinski's sign is defined as:","Flexion of hips and knees in response to neck flexion","Resistance to extension of leg while hip is flexed","Axial thrust movements","Low sympathetic activity",exp="Brudzinski's sign: Flexion of hips and knees in response to neck flexion"),
+  q(616,"recall","Kernig's sign is defined as:","Resistance to extension of leg while the hip is flexed","Flexion of hips and knees in response to neck flexion","Axial thrust movements","Pause/stare > automatisms",exp="Kernig's sign: Resistance to extension of leg while the hip is flexed"),
+  q(616,"recall","Lumbar puncture relative contraindications include immuno-compromised and:","Papilloedema without SOL or Abscess","Papilloedema with SOL only","Cushing reflex bradycardia","Features of impending herniation 3rd nerve palsy",exp="Lumbar Puncture Relative contraindications: Immuno-compromised, Papilloedema without SOL or Abscess"),
+  q(617,"recall","Absolute contraindications (imaging to be done) include papilloedema d/t:","Space occupying lesion (SOL) and Abscess","Without SOL or Abscess","Immuno-compromised only","Cochlear implant",exp="Absolute contraindications: Papilloedema D/t Space occupying lesion (SOL), Abscess"),
+  q(617,"recall","Features of impending herniation absolute contraindication is:","3rd nerve palsy","6th nerve palsy false localizing","2nd nerve palsy","4th nerve palsy",exp="Features of impending herniation: 3rd nerve palsy"),
+  q(617,"recall","Cushing reflex is described as:","Bradycardia, HTN, Bradyarrhythmia","Tachycardia, hypotension, tachyarrhythmia","Fever, neck stiffness, altered sensorium","Large purpuric rash, shock, adrenal hemorrhage",exp="Cushing reflex: Bradycardia, HTN, Bradyarrhythmia"),
+  q(617,"recall","Other absolute contraindications include recent onset seizure, impaired consciousness and:","Focal neurological signs","Day dreaming absent minded","Pause/stare > automatisms","Carrier state 70-90%",exp="Absolute contraindications: Recent onset seizure, Impaired consciousness, Focal neurological signs"),
+ ]),
+("CSF Analysis and Treatment", "CSF Analysis, Treatment and Eosinophilic Meningitis",
+ "CSF analysis compares normal vs bacterial vs viral vs TB vs fungal for pressure, glucose ratio, protein, cell count, colour and cell type, with lactate raised in TB bacterial, gram stain 60% culture 80% sensitivity.\nTreatment is ceftriaxone 2gm IV BD, add vancomycin if PRSP, ampicillin if listeria, metronidazole if mastoiditis sinusitis urine infection, dexamethasone 0.15mg/kg Q6H 3-5 days 15-20 min before antibiotics mandatory for vasogenic edema, eosinophilic meningitis Angiostrongylus cantonensis m/c, normal CSF specific gravity 1.006-1.008 pH 7.28-7.32 Cl 115-130 and PRSP penicillin-resistant strep pneumo.",
+ [
+  q(617,"numeric","Normal CSF pressure is:","50-180 mm H2O","180-350 mm H2O","Normal to 220","High",exp="CSF Analysis Normal CSF Pressure 50-180 mm H2O"),
+  q(617,"numeric","Bacterial CSF pressure is:","180-350 mm H2O","50-180 mm H2O","Normal to 220","Normal/Elevated",exp="Bacterial CSF Pressure 180-350 mm H2O"),
+  q(617,"recall","Viral CSF pressure is:","Normal to 220","180-350 mm H2O","High","50-180 mm H2O",exp="Viral CSF Pressure Normal to 220"),
+  q(617,"recall","TB CSF pressure is:","High","50-180 mm H2O","Normal to 220","Normal/Elevated",exp="TB CSF Pressure High"),
+  q(617,"recall","Fungal CSF pressure is:","Normal/Elevated","50-180 mm H2O","180-350 mm H2O","High only",exp="Fungal CSF Pressure Normal/Elevated"),
+  q(617,"numeric","Normal CSF/S. Glucose ratio is:",">0.6","<0.4","0.4-0.6","<4.0",exp="Normal CSF/S. Glucose >0.6"),
+  q(617,"numeric","Bacterial CSF/S. Glucose is:","<0.4",">0.6","Normal","0.4-0.6",exp="Bacterial CSF/S. Glucose <0.4"),
+  q(617,"recall","Viral CSF/S. Glucose is:","Normal","<0.4","0.4-0.6","<4.0",exp="Viral CSF/S. Glucose Normal"),
+  q(617,"numeric","TB CSF/S. Glucose is:","0.4-0.6",">0.6","<0.4","<4.0",exp="TB CSF/S. Glucose 0.4-0.6"),
+  q(617,"numeric","Fungal CSF/S. Glucose is printed as:","<4.0",">0.6","<0.4","0.4-0.6",exp="Fungal CSF/S. Glucose <4.0 as printed"),
+  q(617,"numeric","Normal CSF protein is:","15-45 mg/dl",">100 (~250 mg/dl)","Normal - 80",">100 mg/dl",exp="Normal CSF Protein 15-45 mg/dl"),
+  q(617,"numeric","Bacterial CSF protein is:",">100 (~250 mg/dl)","15-45 mg/dl","Normal - 80",">100 mg/dl",exp="Bacterial CSF Protein >100 (~250 mg/dl)"),
+  q(617,"numeric","Viral CSF protein is:","Normal - 80","15-45 mg/dl",">100 (~250 mg/dl)",">100 mg/dl",exp="Viral CSF Protein Normal - 80"),
+  q(617,"numeric","TB CSF protein is:",">100 mg/dl","15-45 mg/dl","Normal - 80","<100 mg/dl",exp="TB CSF Protein >100 mg/dl"),
+  q(617,"numeric","Fungal CSF protein is:","<100 mg/dl","15-45 mg/dl",">100 (~250 mg/dl)",">100 mg/dl",exp="Fungal CSF Protein <100 mg/dl"),
+  q(617,"numeric","Normal cell count is:","<5 cells/µL",">1000 cells/µL","<1000 cells/µL","500-800 cells/µL",exp="Normal Cell count <5 cells/µL"),
+  q(617,"numeric","Bacterial cell count is:",">1000 cells/µL","<5 cells/µL","<1000 cells/µL","<100 cells/µL",exp="Bacterial Cell count >1000 cells/µL"),
+  q(617,"numeric","Viral cell count is:","<1000 cells/µL","<5 cells/µL",">1000 cells/µL","500-800 cells/µL",exp="Viral Cell count <1000 cells/µL"),
+  q(617,"numeric","TB cell count is:","500-800 cells/µL","<5 cells/µL",">1000 cells/µL","<100 cells/µL",exp="TB Cell count 500-800 cells/µL"),
+  q(617,"numeric","Fungal cell count is:","<100 cells/µL","<5 cells/µL",">1000 cells/µL","500-800 cells/µL",exp="Fungal Cell count <100 cells/µL"),
+  q(617,"recall","Normal CSF colour is Clear; bacterial is Cloudy; viral is Clear; TB is:","Cloudy/yellow","Clear","Cloudy only","Clear/Cloudy",exp="CSF Colour TB Cloudy/yellow"),
+  q(617,"recall","Fungal CSF colour is:","Clear/Cloudy","Clear only","Cloudy only","Cloudy/yellow",exp="Fungal Colour Clear/Cloudy"),
+  q(617,"recall","Type of cell normal is Lymphocytic; bacterial is Neutrophils; viral is Lymphocytes; TB is:","Lymphocytic","Neutrophils","Monocytic","Eosinophilic",exp="Type of cell TB Lymphocytic"),
+  q(617,"recall","Lactate level raised in which two meningitis types?","TB, Bacterial meningitis","Viral and Fungal only","Viral only","Fungal only",exp="Lactate level raised: TB, Bacterial meningitis"),
+  q(617,"numeric","Sensitivity of gram stain and culture are:","Gram stain 60% and Culture 80%","Gram stain 80% and Culture 60%","Both 100%","Both 50%",exp="Sensitivity Gram stain 60%, Culture 80%"),
+  q(617,"management","First line treatment for bacterial meningitis is:","Ceftriaxone 2gm IV BD","Penicillin only","Vancomycin only","Ampicillin 2g Q4h only",exp="Treatment Ceftriaxone 2gm IV BD"),
+  q(617,"management","If suspecting PRSP, add which drug?","Vancomycin 1gm IV BD","Ampicillin 2g Q4h","Metronidazole","Penicillin",exp="If suspecting PRSP add Vancomycin 1gm IV BD"),
+  q(617,"management","If suspecting listeria, add:","Ampicillin 2g Q4h","Vancomycin 1gm IV BD","Metronidazole","Ceftriaxone 2gm IV BD",exp="If suspecting listeria add Ampicillin 2g Q4h"),
+  q(617,"management","If suspecting mastoiditis/sinusitis/urine infection, add:","Metronidazole","Vancomycin","Ampicillin","Penicillin",exp="If suspecting mastoiditis/sinusitis/urine infection add metronidazole"),
+  q(617,"management","Vasogenic edema mandatory treatment before antibiotics is dexamethasone dose and timing:","0.15mg/kg Q6H x 3-5 days (15-20 minutes before Antibiotics)","0.5mg/kg Q12H x 1 day after antibiotics","1gm IV BD after antibiotics","2g Q4h before antibiotics",exp="Vasogenic edema: 0.15mg/kg Dexamethasone Q6H x 3-5 days (15-20 minutes before Antibiotics) is mandatory"),
+  q(617,"recall","Eosinophilic meningitis most common cause is:","Angiostrongylus cantonensis (m/c)","Baylisascaris only","Gnathostoma only","E.coli (m/c)",exp="Eosinophilic meningitis seen in Angiostrongylus cantonensis (m/c), Baylisascaris, Gnathostoma"),
+  q(617,"recall","Other causes of eosinophilic meningitis include Baylisascaris and:","Gnathostoma","Pseudomonas","Staphylococcus aureus","Streptococcus pneumoniae",exp="Eosinophilic meningitis Baylisascaris, Gnathostoma"),
+  q(617,"numeric","Normal CSF specific gravity is:","1.006-1.008","7.28-7.32","115-130 meq/L","50-180 mm H2O",exp="Normal CSF findings Specific gravity 1.006-1.008"),
+  q(617,"numeric","Normal CSF pH is:","7.28-7.32","1.006-1.008","115-130 meq/L","50-180 mm H2O",exp="Normal CSF pH 7.28-7.32"),
+  q(617,"numeric","Normal CSF Cl- is:","115-130 meq/L","1.006-1.008","7.28-7.32","50-180 mm H2O",exp="Normal CSF Cl- 115-130 meq/L"),
+  q(617,"recall","PRSP stands for:","Penicillin-Resistant Streptococcus pneumoniae","Polymorphonuclear neutrophils","Progressive myoclonic epilepsy","Paroxysmal fast activity",exp="PRSP: Penicillin-Resistant Streptococcus pneumoniae"),
+ ]),
+])
+
+write(ch39)
+write(ch41)
