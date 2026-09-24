@@ -154,6 +154,8 @@ out.append("| 600–601 | Modified Dandy criteria (LP >25 cm H2O), acetazolamide
 out.append("Source-map discrepancy found during merge: uploads/02.pdf PDF59 is printed p526, PDF60 is p528, PDF63 is p531, and PDF64 begins p532. Printed p527 is absent. The five existing upstream Chapter 26 questions citing p527 are preserved, but their source verification remains unresolved; software coverage does not establish visual completeness for that missing page.\n")
 out.append("Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed p587 and PDF28 is printed p592 (decisive 10× corner reads), and 28 printed pages (p566-p593) span only 25 sheets — printed p586, p590 and p591 are absent from the supplied scan. Three transparently-flagged bracketing questions (MED-C37-13 citing p586, MED-C37-33 citing p590, MED-C37-34 citing p591) keep the ledger's page set complete; their source verification remains unresolved, following the p527 precedent.\n")
 
+out.append("Chapter 30–31 supersession note: a parallel session merged a 62-question first pass for Book p555–562 into `main`. This release re-read all eight sheets and ships 111 questions (Ch30 67, Ch31 44), covering every target of the first pass plus the figure labels, flowchart arrows and table cells it summarised. Printed spellings are quoted as drawn: 'Fare & upper Limb' (p558), 'Initiate lesion' (p558, the irritative arm), '(Gnosis)' (p560), 'Left hemispatal neglect' and 'Gerstman syndrome' (p562).\n")
+
 out.append("## Per-chapter units\n")
 out.append("| Ch | Unit | Pages | Question range | Count |")
 out.append("|---:|---|---|---|---:|")

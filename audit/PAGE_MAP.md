@@ -155,6 +155,29 @@ Chapters 17–20 were authored from this mapping: Ch16 p458–465 (01.pdf PDF94�
 
 Spot checks of the 2× renders found PDF59 = printed p526, PDF60 = p528, PDF61 = p529, PDF62 = p530, PDF63 = p531, and PDF64 = p532. Printed p527 is absent from the supplied scan. Do not extrapolate the earlier offset past p526. The five upstream Chapter 26 questions citing p527 are retained unchanged, but source verification for them remains unresolved. Chapters 16–20 are unaffected.
 
+## Chapters 30–31 verification — Book p555–562
+
+The Chapter 30–31 sheets were rendered at `pymupdf.Matrix(2,2)` and read line-to-line in printed order on 2026-09-24, with `Matrix(8,8)`/`Matrix(10,10)` corner re-reads for the printed digits. No sheet in this range has an extractable text layer (`page.get_text()` returns an empty string for all nine sheets), so every heading, bullet, table cell, flowchart box and figure label was read from the images. The chapter boundary is fixed by the printed title pages: Ch30 **Frontal Lobe** begins at p555, Ch31 **Praxicons** begins at p560 and Ch32 begins at p563. The p555–561 sheets are `uploads/02.pdf` PDF87–93; p562 is `uploads/03.pdf` PDF1.
+
+| PDF sheet | Printed page | Evidence |
+|---:|---:|---|
+| 02.pdf 87 | 555 | Verified (top-right corner "555", "FRONTAL LOBE" title page) |
+| 02.pdf 88 | 556 | Verified (top-left corner "556", "Neurology" running head) |
+| 02.pdf 89 | 557 | Verified (top-right corner "557", "Frontal Lobe" running head) |
+| 02.pdf 90 | 558 | Verified (top-left corner "558"; FEF flowchart boxes re-read at 10×) |
+| 02.pdf 91 | 559 | Verified (top-right corner "559", PFC table and bilateral frontal list) |
+| 02.pdf 92 | 560 | **Bracketed** — the left page number falls in the cut gutter margin; PDF91 prints 559, PDF93 prints 561, and the sheet carries the "PRAXICONS" chapter title page, which the book Contents places at p560 |
+| 02.pdf 93 | 561 | Verified (top-right corner "561", "Praxicons" running head) |
+| 03.pdf 1 | 562 | Verified (corner reads "62" with the leading digit in the gutter, as already recorded for this sheet) |
+| 03.pdf 2 | 563 | Verified (corner "563" and the "TEMPORAL AND OCCIPITAL LOBE" title page — chapter boundary) |
+
+Chapter spans: **Ch30 Frontal Lobe p555–559 = 02.pdf PDF87–91** and **Ch31 Praxicons p560–562 = 02.pdf
+PDF92–93 + 03.pdf PDF1**. Chapter 32 (Temporal and Occipital Lobe) begins on 03.pdf PDF2 (p563) and is not yet
+live. No printed page in p555–562 is missing from the supplied scan, so — unlike p527, p586, p590 and p591 — no
+bracketing question is needed for page completeness.
+
+The p562 handoff is sequential: `uploads/02.pdf` PDF93 is p561 and `uploads/03.pdf` PDF1 is p562; 03.pdf PDF2 then prints 563 and opens Chapter 32.
+
 ## uploads/03.pdf (61 sheets, Book p562–622) — final map for Chapters 33–38
 
 This scan continues the same volume at printed page 562. **Printed p586, p590 and p591 are absent from this scan** — the 16 sheets PDF22–PDF37 carry the 19 printed values p583–p601 minus the three missing pages. All sheets PDF1–PDF38 were rendered at 2× and read in full; printed numbers below were verified by full-page reads and, where contested, by decisive 10× single-index corner crops (see correction note).
@@ -218,26 +241,3 @@ The three missing pages each carry one transparently-flagged bracketing question
 | 3–76 | 628 onward | Not read in this session (outside Ch33–38 scope) |
 
 `uploads/04.pdf` is not needed for Chapters 33–38: the full Ch33–38 range (Book p566–601) lies entirely inside `uploads/03.pdf` (PDF5–PDF37).
-
-## uploads/02.pdf PDF87–93 + uploads/03.pdf PDF1–2 — verified for Chapters 30–31
-
-Date: 2026-09-24. Rendered with `pymupdf.Matrix(2,2)` for content and `Matrix(8,8)`/`Matrix(10,10)` for corner
-digits. Neither sheet has an extractable text layer (`page.get_text()` returns an empty string for all eight
-sheets), so every heading, bullet, table cell, flowchart box and figure label was read from the images.
-
-| PDF sheet | Printed page | Evidence |
-|---:|---:|---|
-| 02.pdf 87 | 555 | Verified (top-right corner "555", "FRONTAL LOBE" title page) |
-| 02.pdf 88 | 556 | Verified (top-left corner "556", "Neurology" running head) |
-| 02.pdf 89 | 557 | Verified (top-right corner "557", "Frontal Lobe" running head) |
-| 02.pdf 90 | 558 | Verified (top-left corner "558"; FEF flowchart boxes re-read at 10×) |
-| 02.pdf 91 | 559 | Verified (top-right corner "559", PFC table and bilateral frontal list) |
-| 02.pdf 92 | 560 | **Bracketed** — the left page number falls in the cut gutter margin; PDF91 prints 559, PDF93 prints 561, and the sheet carries the "PRAXICONS" chapter title page, which the book Contents places at p560 |
-| 02.pdf 93 | 561 | Verified (top-right corner "561", "Praxicons" running head) |
-| 03.pdf 1 | 562 | Verified (corner reads "62" with the leading digit in the gutter, as already recorded for this sheet) |
-| 03.pdf 2 | 563 | Verified (corner "563" and the "TEMPORAL AND OCCIPITAL LOBE" title page — chapter boundary) |
-
-Chapter spans: **Ch30 Frontal Lobe p555–559 = 02.pdf PDF87–91** and **Ch31 Praxicons p560–562 = 02.pdf
-PDF92–93 + 03.pdf PDF1**. Chapter 32 (Temporal and Occipital Lobe) begins on 03.pdf PDF2 (p563) and is not yet
-live. No printed page in p555–562 is missing from the supplied scan, so — unlike p527, p586, p590 and p591 — no
-bracketing question is needed for page completeness.

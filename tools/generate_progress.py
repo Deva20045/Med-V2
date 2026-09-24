@@ -108,6 +108,11 @@ out.append("5. Source-specific mnemonics (ORAR LC, JIPFA), the 30%/30% and 40/30
            "current local clinical guidance.")
 out.append(f"6. Chapters 30–31 are embedded in the standalone app and all {len(live)} roadmap flags for live "
            "chapters are set.\n")
+out.append("_Note:_ an earlier 62-question pass for these two chapters reached `main` from a parallel session. "
+           "It is superseded here: every page was re-read line to line and the release now carries 111 questions "
+           "(67 + 44), so no printed learning target that the first pass inventoried is left unasked. The printed "
+           "typos it did not flag — *Fare & upper Limb*, *hemispatal*, *Gerstman*, *Initiate lesion* — are recorded "
+           "in [audit/READ_NOTES_30_31.md](audit/READ_NOTES_30_31.md) and the self-audit.\n")
 
 out.append("## Previous release — Chapters 27–29\n")
 out.append("Three consecutive rheumatology chapters were rendered from `uploads/02.pdf`, read block by block, "

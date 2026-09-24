@@ -6,7 +6,7 @@ Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*,
 - Session branch: `arena/01a0d315-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 37 live chapters / 57 · 1572 questions / 157 units.** Chapters 32, 39–57 remain `live:false`.
+- **Build status: 37 live chapters / 57 · 1576 questions / 157 units.** Chapters 32, 39–57 remain `live:false`.
 
 ## This release — Chapters 30–31
 
@@ -14,18 +14,20 @@ Two consecutive neurology chapters — Frontal Lobe and Praxicons — were rende
 
 | Ch | Title | Printed pages | Questions | Units |
 |---:|---|---:|---:|---:|
-| 30 | Frontal Lobe | 555–559 | 64 | 5 |
-| 31 | Praxicons | 560–562 | 43 | 3 |
-| **Release total** |  | **8 book pages** | **107** | **8** |
+| 30 | Frontal Lobe | 555–559 | 67 | 5 |
+| 31 | Praxicons | 560–562 | 44 | 3 |
+| **Release total** |  | **8 book pages** | **111** | **8** |
 
 ### Quality and ordering contract delivered
 
 1. All pages were read in printed order (`uploads/02.pdf` PDF87–93 = Book p555–561 and `uploads/03.pdf` PDF1 = Book p562), including the MMSE list, every gyral and sulcal figure label, the frontal-area map, the motor-homunculus and frontal-eye-field flowcharts, both comparison tables, the Rey-Osterrieth and clock-drawing panels and the lobe-wise visual field ladder. Scans have no extractable text: every reading used 2× PyMuPDF renders, printed numbers were re-read at 10×, and 02.pdf PDF92 (p560) is fixed by bracketing — PDF91 prints 559, PDF93 prints 561 and 03.pdf PDF2 prints 563 where Chapter 32 begins.
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 30–31 add **107 ordered mappings**, bringing the audited ledger to **1680 mappings** for Chapters 2–38.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 30–31 add **111 ordered mappings**, bringing the audited ledger to **1684 mappings** for Chapters 2–38.
 3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, mechanism-based recall, numeric interpretation, bedside-test decisions and discriminating odd-one-out cases use plausible medical distractors, and printed typos (Fare & upper Limb, hemispatal, Gerstman) are read charitably with the discrepancy recorded in the audit.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific mnemonics (ORAR LC, JIPFA), the 30%/30% and 40/30/30 motor-fibre accounts, the unexpanded flowchart boxes (Right PTO, DLPN, NPH VN, internal sagittal stratum) and the visual-field ladder are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
 6. Chapters 30–31 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
+
+_Note:_ an earlier 62-question pass for these two chapters reached `main` from a parallel session. It is superseded here: every page was re-read line to line and the release now carries 111 questions (67 + 44), so no printed learning target that the first pass inventoried is left unasked. The printed typos it did not flag — *Fare & upper Limb*, *hemispatal*, *Gerstman*, *Initiate lesion* — are recorded in [audit/READ_NOTES_30_31.md](audit/READ_NOTES_30_31.md) and the self-audit.
 
 ## Previous release — Chapters 27–29
 
@@ -62,7 +64,7 @@ Six consecutive neurology chapters were rendered from the scans, read block by b
 ### Quality and ordering contract delivered
 
 1. All pages were read in printed order (`uploads/03.pdf` PDF5–37 = Book p566–601; printed p586, p590 and p591 are absent from the scan), including flowchart arms, comparison tables, numeric thresholds, diagram labels, notes, management ladders and drug doses. Scans have no extractable text: every reading used 2× PyMuPDF renders, and every printed page number was verified against the page map (decisive 10× corner reads settled the missing sheets).
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1680 mappings** for Chapters 2–38. Every target is marked asked.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1684 mappings** for Chapters 2–38. Every target is marked asked.
 3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
@@ -279,13 +281,13 @@ node tests/app_parsers.cjs
 | 29 | 2. Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations | 553 | MED-C29-10–MED-C29-20 | 11 |
 | 29 | 3. Gonococcal versus septic comparison, septic-arthritis management and arthritis approach | 554 | MED-C29-21–MED-C29-28 | 8 |
 | 30 | 1. Frontal-lobe entry: MMSE screening and the superolateral surface map | 555 | MED-C30-01–MED-C30-09 | 9 |
-| 30 | 2. Areas on the frontal lobe: lateral map, medial surface and orbital surface | 556 | MED-C30-10–MED-C30-19 | 10 |
-| 30 | 3. Area 4, premotor/SMA roles, the movement ladder and the motor homunculus | 557 | MED-C30-20–MED-C30-31 | 12 |
-| 30 | 4. Vascular and motor-cortex lesions, the frontal eye field and Broca's area | 558 | MED-C30-32–MED-C30-48 | 17 |
-| 30 | 5. Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology | 559 | MED-C30-49–MED-C30-64 | 16 |
-| 31 | 1. Parietal lobe map, the 40/30/30 motor-fibre origins and the postcentral gyrus | 560 | MED-C31-01–MED-C31-12 | 12 |
-| 31 | 2. Superior parietal praxicons, apraxia types and the inferior parietal lobule | 561 | MED-C31-13–MED-C31-26 | 14 |
-| 31 | 3. Hemispatial neglect, the angular gyrus and alexia without agraphia | 562 | MED-C31-27–MED-C31-43 | 17 |
+| 30 | 2. Areas on the frontal lobe: lateral map, medial surface and orbital surface | 556 | MED-C30-10–MED-C30-22 | 13 |
+| 30 | 3. Area 4, premotor/SMA roles, the movement ladder and the motor homunculus | 557 | MED-C30-23–MED-C30-34 | 12 |
+| 30 | 4. Vascular and motor-cortex lesions, the frontal eye field and Broca's area | 558 | MED-C30-35–MED-C30-51 | 17 |
+| 30 | 5. Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology | 559 | MED-C30-52–MED-C30-67 | 16 |
+| 31 | 1. Parietal lobe map, the 40/30/30 motor-fibre origins and the postcentral gyrus | 560 | MED-C31-01–MED-C31-13 | 13 |
+| 31 | 2. Superior parietal praxicons, apraxia types and the inferior parietal lobule | 561 | MED-C31-14–MED-C31-27 | 14 |
+| 31 | 3. Hemispatial neglect, the angular gyrus and alexia without agraphia | 562 | MED-C31-28–MED-C31-44 | 17 |
 | 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
 | 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
 | 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |

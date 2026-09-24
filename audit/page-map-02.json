@@ -2,8 +2,8 @@
   "source": "uploads/02.pdf",
   "sha256": "8d4150718da72508ad6dff6f90792b2bdec656678b240bea7e1b0d2525e6b0de",
   "render": "pymupdf Matrix(2,2)",
-  "reviewed": "2026-09-23",
-  "note": "Second upload of the same volume; it continues the printed sequence where uploads/01.pdf ends (01.pdf PDF103 = Book p467).",
+  "reviewed": "2026-09-24",
+  "note": "Second upload of the same volume; it continues the printed sequence where uploads/01.pdf ends (01.pdf PDF103 = Book p467). PDF59 is Book p526 and the supplied scan omits printed p527; PDF60 is p528. Chapters 30–31 use PDF87–93 = Book p555–561.",
   "pages": [
     {
       "pdfPage": 1,
@@ -133,6 +133,341 @@
     {
       "pdfPage": 26,
       "printedPage": 493,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 27,
+      "printedPage": 494,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 28,
+      "printedPage": 495,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 29,
+      "printedPage": 496,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 30,
+      "printedPage": 497,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 31,
+      "printedPage": 498,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 32,
+      "printedPage": 499,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 33,
+      "printedPage": 500,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 34,
+      "printedPage": 501,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 35,
+      "printedPage": 502,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 36,
+      "printedPage": 503,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 37,
+      "printedPage": 504,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 38,
+      "printedPage": 505,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 39,
+      "printedPage": 506,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 40,
+      "printedPage": 507,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 41,
+      "printedPage": 508,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 42,
+      "printedPage": 509,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 43,
+      "printedPage": 510,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 44,
+      "printedPage": 511,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 45,
+      "printedPage": 512,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 46,
+      "printedPage": 513,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 47,
+      "printedPage": 514,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 48,
+      "printedPage": 515,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 49,
+      "printedPage": 516,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 50,
+      "printedPage": 517,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 51,
+      "printedPage": 518,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 52,
+      "printedPage": 519,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 53,
+      "printedPage": 520,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 54,
+      "printedPage": 521,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 55,
+      "printedPage": 522,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 56,
+      "printedPage": 523,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 57,
+      "printedPage": 524,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 58,
+      "printedPage": 525,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 59,
+      "printedPage": 526,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 60,
+      "printedPage": 528,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 61,
+      "printedPage": 529,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 62,
+      "printedPage": 530,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 63,
+      "printedPage": 531,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 64,
+      "printedPage": 532,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 65,
+      "printedPage": 533,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 66,
+      "printedPage": 534,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 67,
+      "printedPage": 535,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 68,
+      "printedPage": 536,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 69,
+      "printedPage": 537,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 70,
+      "printedPage": 538,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 71,
+      "printedPage": 539,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 72,
+      "printedPage": 540,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 73,
+      "printedPage": 541,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 74,
+      "printedPage": 542,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 75,
+      "printedPage": 543,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 76,
+      "printedPage": 544,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 77,
+      "printedPage": 545,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 78,
+      "printedPage": 546,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 79,
+      "printedPage": 547,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 80,
+      "printedPage": 548,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 81,
+      "printedPage": 549,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 82,
+      "printedPage": 550,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 83,
+      "printedPage": 551,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 84,
+      "printedPage": 552,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 85,
+      "printedPage": 553,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 86,
+      "printedPage": 554,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 87,
+      "printedPage": 555,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 88,
+      "printedPage": 556,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 89,
+      "printedPage": 557,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 90,
+      "printedPage": 558,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 91,
+      "printedPage": 559,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 92,
+      "printedPage": 560,
+      "kind": "Book content"
+    },
+    {
+      "pdfPage": 93,
+      "printedPage": 561,
       "kind": "Book content"
     }
   ]
