@@ -1,0 +1,1525 @@
+{
+  "chapter": 39,
+  "title": "Seizure Semiology",
+  "pageRange": "602-607",
+  "questions": [
+    {
+      "id": "MED-C39-01",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Semiology is defined in the book as which of the following?",
+      "opts": [
+        "Axial thrust movements in adolescents",
+        "Signs & symptoms of seizure activity",
+        "Transient hypersynchronous neuronal activity only",
+        "Low sympathetic pupillary activity"
+      ],
+      "ans": 1,
+      "exp": "Semiology: Signs & symptoms of seizure activity (Book p602)"
+    },
+    {
+      "id": "MED-C39-02",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Seizure is defined as transient occurrence of signs &/symptoms d/t which process?",
+      "opts": [
+        "Increased actions to gain attention",
+        "Axial thrust movements in adolescents",
+        "Abnormal excessive hypersynchronous neuronal activity in brain",
+        "Low sympathetic activity with less dilation"
+      ],
+      "ans": 2,
+      "exp": "Seizure: Transient occurrence of signs &/symptoms d/t abnormal excessive hypersynchronous neuronal activity in brain (Book p602)"
+    },
+    {
+      "id": "MED-C39-03",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "recall",
+      "q": "The hypersynchronous neuronal motor activity list in order from fastest to slowest is:",
+      "opts": [
+        "Atonic -> Tonic -> Clonic -> Myoclonic",
+        "Clonic -> Myoclonic -> Atonic -> Tonic",
+        "Tonic -> Atonic -> Myoclonic -> Clonic",
+        "Myoclonic -> Clonic -> Tonic -> Atonic"
+      ],
+      "ans": 3,
+      "exp": "Hypersynchronous neuronal motor activity: myoclonic Fastest, Clonic, Tonic, Atonic Slowest with arrow from fastest to slowest (Book p602)"
+    },
+    {
+      "id": "MED-C39-04",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "numeric",
+      "q": "Which motor activity is marked as the fastest in the list?",
+      "opts": [
+        "Myoclonic",
+        "Clonic",
+        "Tonic",
+        "Atonic"
+      ],
+      "ans": 0,
+      "exp": "Myoclonic is marked Fastest in the hypersynchronous neuronal motor activity list (Book p602)"
+    },
+    {
+      "id": "MED-C39-05",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "numeric",
+      "q": "Which motor activity is marked as the slowest in the list?",
+      "opts": [
+        "Tonic",
+        "Atonic",
+        "Myoclonic",
+        "Clonic"
+      ],
+      "ans": 1,
+      "exp": "Atonic is marked Slowest in the hypersynchronous neuronal motor activity list (Book p602)"
+    },
+    {
+      "id": "MED-C39-06",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Pseudo seizure is noted to occur commonly in which age group per the page?",
+      "opts": [
+        "Elderly >65 years",
+        "Infants <1 year",
+        "Adolescents",
+        "Children 4-10 years"
+      ],
+      "ans": 2,
+      "exp": "Pseudo seizure: Adolescents (Book p602)"
+    },
+    {
+      "id": "MED-C39-07",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Pseudo seizure is associated with which movement pattern?",
+      "opts": [
+        "Tonic clonic movements lasting 30-60 s with cyanosis",
+        "Pause/stare > automatisms > eye movement",
+        "Sudden loss of muscle tone",
+        "Increased axial thrust movements"
+      ],
+      "ans": 3,
+      "exp": "Pseudo seizure: increased axial thrust movements (Book p602)"
+    },
+    {
+      "id": "MED-C39-08",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Which behavioural clue is listed for pseudo seizure?",
+      "opts": [
+        "Increased actions to gain attention",
+        "Day dreaming with loss of focus",
+        "Behavioural arrest with motionless stare",
+        "Anterograde amnesia"
+      ],
+      "ans": 0,
+      "exp": "Pseudo seizure: increased actions to gain attention (Book p602)"
+    },
+    {
+      "id": "MED-C39-09",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "page": 602,
+      "fmt": "scenario",
+      "q": "Pupils in pseudo seizure are described as less dilated due to which mechanism?",
+      "opts": [
+        "Bilateral occipital lesion",
+        "Low sympathetic activity",
+        "High parasympathetic activity from oculomotor lesion",
+        "Third nerve palsy from uncal herniation"
+      ],
+      "ans": 1,
+      "exp": "Pseudo seizure pupils: Low sympathetic activity -> Less dilation (Book p602)"
+    },
+    {
+      "id": "MED-C39-10",
+      "sec": "Classification and Onset Types",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Classification (ILAE 2017) is based on which criterion?",
+      "opts": [
+        "Based on age of onset only",
+        "Based on response to valproate",
+        "Based on onset",
+        "Based on EEG frequency only"
+      ],
+      "ans": 2,
+      "exp": "Classification (ILAE 2017) is Based on onset (Book p602)"
+    },
+    {
+      "id": "MED-C39-11",
+      "sec": "Classification and Onset Types",
+      "page": 602,
+      "fmt": "recall",
+      "q": "The three onset categories under ILAE 2017 are:",
+      "opts": [
+        "Simple partial, Complex partial, Generalized",
+        "Motor, Non-motor, Unknown",
+        "Tonic, Clonic, Atonic",
+        "Focal, Generalized, Unknown"
+      ],
+      "ans": 3,
+      "exp": "ILAE 2017 classification splits into Focal, Generalized, Unknown based on onset (Book p602)"
+    },
+    {
+      "id": "MED-C39-12",
+      "sec": "Classification and Onset Types",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Generalized onset is annotated with which consciousness clue?",
+      "opts": [
+        "Loss of consciousness +",
+        "Aware with no LOC",
+        "Impaired awareness only",
+        "Post-ictal confusion absent"
+      ],
+      "ans": 0,
+      "exp": "Generalized onset is annotated as Loss of consciousness + (Book p602)"
+    },
+    {
+      "id": "MED-C39-13",
+      "sec": "Classification and Onset Types",
+      "page": 602,
+      "fmt": "recall",
+      "q": "Focal onset is subdivided by LOC into:",
+      "opts": [
+        "Typical and atypical absence",
+        "LOC + (Impaired awareness) and LOC - (Aware)",
+        "LOC + with hyperventilation and LOC - with photic stimulation",
+        "Tonic and atonic only"
+      ],
+      "ans": 1,
+      "exp": "Focal onset splits into LOC + (Impaired awareness) and LOC - (Aware) (Book p602)"
+    },
+    {
+      "id": "MED-C39-14",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "In the focal onset table, loss of consciousness in complex partial is:",
+      "opts": [
+        "Sudden brief lapse with no loss of postural control",
+        "Very short with myoclonus",
+        "Impaired awareness/dyscognition (+)",
+        "Absent"
+      ],
+      "ans": 2,
+      "exp": "Focal onset table: Loss of consciousness (LOC) in Complex partial is Impaired awareness/dyscognition (+) (Book p603)"
+    },
+    {
+      "id": "MED-C39-15",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "In the focal onset table, LOC in simple partial is:",
+      "opts": [
+        "Impaired awareness/dyscognition (+)",
+        "Loss of consciousness + with post-ictal disorientation",
+        "Longer duration with loss of postural control",
+        "Absent"
+      ],
+      "ans": 3,
+      "exp": "Focal onset table: Loss of consciousness in Simple partial is Absent (Book p603)"
+    },
+    {
+      "id": "MED-C39-16",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "Motor onset in complex partial seizures is represented by which feature?",
+      "opts": [
+        "Automatisms",
+        "Tonic, Clonic, Atonic, Myoclonic only",
+        "Hyperkinetic and Epileptic spasm as common",
+        "Pause/stare"
+      ],
+      "ans": 0,
+      "exp": "Focal onset table motor onset: Complex partial shows Automatisms (Book p603)"
+    },
+    {
+      "id": "MED-C39-17",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "Motor onset in simple partial seizures includes which list?",
+      "opts": [
+        "Cognitive and emotional issues",
+        "Tonic, Clonic, Atonic, Myoclonic, Hyperkinetic, Epileptic spasm",
+        "Automatisms only",
+        "Autonomic symptoms and behaviour arrest"
+      ],
+      "ans": 1,
+      "exp": "Focal onset table motor onset Simple partial lists Tonic, Clonic, Atonic, myoclonic, Hyperkinetic, Epileptic spasm (Book p603)"
+    },
+    {
+      "id": "MED-C39-18",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - the motor type bracketed as Rare in simple partial:",
+      "opts": [
+        "Epileptic spasm",
+        "Clonic",
+        "Tonic",
+        "Hyperkinetic"
+      ],
+      "ans": 2,
+      "exp": "Simple partial motor onset table brackets Hyperkinetic and Epileptic spasm as Rare (Book p603)"
+    },
+    {
+      "id": "MED-C39-19",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "Non-motor onset includes which five symptom groups?",
+      "opts": [
+        "Tonic, Clonic, Atonic, Myoclonic, Hyperkinetic",
+        "Typical absent, Atypical absent, Myoclonic",
+        "Fever, Neck stiffness, Altered sensorium",
+        "Autonomic symptoms, Behaviour arrest, Cognitive issues, Emotional issues, Sensory Issues"
+      ],
+      "ans": 3,
+      "exp": "Non-motor onset lists Autonomic symptoms, Behaviour arrest, Cognitive issues, Emotional issues, Sensory Issues (Book p603)"
+    },
+    {
+      "id": "MED-C39-20",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "Non-motor onset symptoms are noted to be most common in which seizure type?",
+      "opts": [
+        "Complex partial seizures",
+        "Simple partial seizures",
+        "Generalized tonic clonic seizures",
+        "Atonic seizures"
+      ],
+      "ans": 0,
+      "exp": "Non-motor onset bracket is marked m/c in complex partial seizures (Book p603)"
+    },
+    {
+      "id": "MED-C39-21",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "Generalized motor (GTCS) onset types listed are:",
+      "opts": [
+        "Autonomic symptoms and behaviour arrest",
+        "Tonic clonic, Clonic, Tonic, Myoclonic, Atonic",
+        "Typical absent, Atypical absent, Myoclonic",
+        "Automatisms only"
+      ],
+      "ans": 1,
+      "exp": "Generalized onset motor (GTCS): Tonic clonic, Clonic, Tonic, myoclonic, Atonic (Book p603)"
+    },
+    {
+      "id": "MED-C39-22",
+      "sec": "Classification and Onset Types",
+      "page": 603,
+      "fmt": "recall",
+      "q": "Generalized non-motor (Absent seizures) types listed are:",
+      "opts": [
+        "Hyperkinetic and Epileptic spasm",
+        "Automatisms and behavioural arrest",
+        "Typical absent, Atypical absent, Myoclonic",
+        "Tonic clonic, Clonic, Tonic"
+      ],
+      "ans": 2,
+      "exp": "Generalized onset Non-motor (Absent seizures): Typical absent, Atypical absent, myoclonic (Book p603)"
+    },
+    {
+      "id": "MED-C39-23",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 603,
+      "fmt": "recall",
+      "q": "To evaluate epilepsy, the four items listed are:",
+      "opts": [
+        "Age, Gender, IQ, Sleep deprivation",
+        "Tonic, Clonic, Atonic, Myoclonic",
+        "Hyperventilation, Photophobia, Phonophobia, Osmophobia",
+        "MRI, EEG, Type of onset, LOC"
+      ],
+      "ans": 3,
+      "exp": "To evaluate epilepsy: 1. MRI 2. EEG 3. Type of onset 4. LOC (Book p603)"
+    },
+    {
+      "id": "MED-C39-24",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 603,
+      "fmt": "recall",
+      "q": "The evaluation flow predicts risk for further seizure and then determines:",
+      "opts": [
+        "If epilepsy syndrome",
+        "If status epilepticus only",
+        "If pseudo seizure",
+        "If syncope vs seizure"
+      ],
+      "ans": 0,
+      "exp": "Epilepsy evaluation flow: Predict risk for further seizure -> Determine if epilepsy syndrome (Book p603)"
+    },
+    {
+      "id": "MED-C39-25",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 603,
+      "fmt": "numeric",
+      "q": "Epilepsy syndrome is defined by how many unprovoked seizures separated by what interval without identifiable cause?",
+      "opts": [
+        "≥1 seizure with <24 hrs separation",
+        "≥2 unprovoked seizures separated for ≥24 hrs",
+        "≥3 seizures separated for ≥1 hr",
+        "≥2 seizures separated for ≥12 hrs"
+      ],
+      "ans": 1,
+      "exp": "Epilepsy syndrome: ≥2 unprovoked seizures separated for ≥24hrs without an identifiable cause (Book p603)"
+    },
+    {
+      "id": "MED-C39-26",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 603,
+      "fmt": "numeric",
+      "q": "Single episode seizure qualifies as epilepsy syndrome if MRI/EEG shows epileptiform syndrome with risk of subsequent seizure:",
+      "opts": [
+        ">90%",
+        "<5%",
+        ">60%",
+        "<20%"
+      ],
+      "ans": 2,
+      "exp": "Single episode seizure with evidence suggestive of epileptiform syndrome on MRI/EEG with risk of subsequent seizure >60% (Book p603)"
+    },
+    {
+      "id": "MED-C39-27",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Focal seizures AKA without dyscognition is:",
+      "opts": [
+        "Complex partial seizure",
+        "Typical absent seizure",
+        "Generalized tonic clonic seizure",
+        "Simple partial seizure"
+      ],
+      "ans": 3,
+      "exp": "Focal seizures table AKA: Without dyscognition is Simple partial seizure (Book p604)"
+    },
+    {
+      "id": "MED-C39-28",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Focal seizures AKA with dyscognition is:",
+      "opts": [
+        "Complex partial seizure",
+        "Simple partial seizure",
+        "Atonic seizure",
+        "Myoclonic seizure"
+      ],
+      "ans": 0,
+      "exp": "Focal seizures table AKA: With dyscognition is Complex partial seizure (Book p604)"
+    },
+    {
+      "id": "MED-C39-29",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Onset in without dyscognition is focal -> motor; with dyscognition is:",
+      "opts": [
+        "Focal -> non-motor only",
+        "Focal -> motor/non-motor",
+        "Generalized -> motor only",
+        "Unknown onset"
+      ],
+      "ans": 1,
+      "exp": "Focal seizures table Onset: Without dyscognition Focal -> motor, With dyscognition Focal -> motor/non-motor (Book p604)"
+    },
+    {
+      "id": "MED-C39-30",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Consciousness in without dyscognition is Aware; with dyscognition is:",
+      "opts": [
+        "Absent post-ictal confusion",
+        "Very short",
+        "LOC +, post ictal disorientation",
+        "Sudden brief lapse with no loss of postural control"
+      ],
+      "ans": 2,
+      "exp": "Consciousness: Without dyscognition Aware, With dyscognition LOC +, post ictal disorientation (Book p604)"
+    },
+    {
+      "id": "MED-C39-31",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Epileptiform syndrome in without dyscognition is Nil; with dyscognition is:",
+      "opts": [
+        "Absent with no risk",
+        "Present in frontal lobe only",
+        "Nil with good prognosis",
+        "Present (Further risk of seizure ↑), Localization medial temporal lobe (m/c)"
+      ],
+      "ans": 3,
+      "exp": "Epileptiform syndrome: Without dyscognition Nil, With dyscognition Present (Further risk of seizure ↑), Localization medial temporal lobe (m/c) (Book p604)"
+    },
+    {
+      "id": "MED-C39-32",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Etiology of focal seizure without dyscognition is structural lesion in which lobes irritating opposite side brain?",
+      "opts": [
+        "Frontal/Fronto-parietal lobe",
+        "Medial temporal lobe only",
+        "Occipital lobe bilateral",
+        "Cerebellum"
+      ],
+      "ans": 0,
+      "exp": "Etiology without dyscognition: Structural lesion (Frontal/Fronto-parietal lobe) -> Irritate opposite side brain -> Seizure (Book p604)"
+    },
+    {
+      "id": "MED-C39-33",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Structural lesion etiologies listed for focal without dyscognition include:",
+      "opts": [
+        "Genetically determined epilepsy",
+        "Tuberculoma, Neurocysticercosis, Brain tumours, Post stroke seizure (in elderly)",
+        "Febrile seizures in childhood only",
+        "Hippocampal sclerosis only"
+      ],
+      "ans": 1,
+      "exp": "Etiology without dyscognition lists Tuberculoma, Neurocysticercosis, Brain tumours, Post stroke seizure (in elderly) (Book p604)"
+    },
+    {
+      "id": "MED-C39-34",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Etiology of focal with dyscognition is marked as:",
+      "opts": [
+        "Neurocysticercosis only",
+        "Post stroke in elderly only",
+        "Family history (+)",
+        "Tuberculoma only"
+      ],
+      "ans": 2,
+      "exp": "Etiology with dyscognition is Family history (+) (Book p604)"
+    },
+    {
+      "id": "MED-C39-35",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "In without dyscognition presentation, motor vs sensory ordering is:",
+      "opts": [
+        "Sensory > Motor",
+        "Autonomic only",
+        "Myoclonic > Atonic only",
+        "Motor (Tonic > Tonic clonic) > sensory (Flashing light)/Autonomic"
+      ],
+      "ans": 3,
+      "exp": "Presentation without dyscognition: motor (Tonic > Tonic clonic) > sensory (Flashing light)/Autonomic (Book p604)"
+    },
+    {
+      "id": "MED-C39-36",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "numeric",
+      "q": "Clonic movements frequency is listed as:",
+      "opts": [
+        "2-3 Hz",
+        "3 Hz spike & wave",
+        "4-6 Hz",
+        "30-60 s"
+      ],
+      "ans": 0,
+      "exp": "Clonic movements: 2-3 Hz (Book p604)"
+    },
+    {
+      "id": "MED-C39-37",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Abnormal facial movements in focal without dyscognition are:",
+      "opts": [
+        "Only with automatisms",
+        "Synchronous with limbs",
+        "Asynchronous with limbs",
+        "Only with eye movement"
+      ],
+      "ans": 1,
+      "exp": "Presentation without dyscognition: Abnormal facial movements synchronous with limbs (Book p604)"
+    },
+    {
+      "id": "MED-C39-38",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Todd's palsy is described as:",
+      "opts": [
+        "Ictal palsy lasting minutes",
+        "Permanent hemiplegia",
+        "Post ictal (Transient) palsy lasting upto 24 hours",
+        "Pre-ictal palsy lasting seconds"
+      ],
+      "ans": 2,
+      "exp": "Todd's palsy: Post ictal (Transient) palsy lasting upto 24 hours (Book p604)"
+    },
+    {
+      "id": "MED-C39-39",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Jacksonian march is defined as:",
+      "opts": [
+        "Migration proximal to distal",
+        "Continuous activity lasting hours to days",
+        "Motionless stare",
+        "Migration of motor activity (Distal to proximal)"
+      ],
+      "ans": 3,
+      "exp": "Jacksonian march: migration of motor activity (Distal to proximal) (Book p604)"
+    },
+    {
+      "id": "MED-C39-40",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Epilepsia partialis continua is:",
+      "opts": [
+        "Continuous activity lasting hours to days",
+        "Activity lasting 30-60 s",
+        "Brief lapse with no postural loss",
+        "Very short myoclonus"
+      ],
+      "ans": 0,
+      "exp": "Epilepsia partialis continua: Continuous activity lasting hours to days (Book p604)"
+    },
+    {
+      "id": "MED-C39-41",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - aura frequency in without dyscognition:",
+      "opts": [
+        "Very common",
+        "Common",
+        "Rare",
+        "Absent"
+      ],
+      "ans": 1,
+      "exp": "Presentation without dyscognition: Aura Rare (Book p604)"
+    },
+    {
+      "id": "MED-C39-42",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Aura in with dyscognition is described as:",
+      "opts": [
+        "Axial thrust movements",
+        "Low sympathetic pupillary dilation",
+        "Subjective internal event not observed by others",
+        "Objective event observed by others"
+      ],
+      "ans": 2,
+      "exp": "Aura with dyscognition: Subjective internal event not observed by others (Book p604)"
+    },
+    {
+      "id": "MED-C39-43",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Abdominal aura ranking is feeling of fullness -> regurgitation, then which order?",
+      "opts": [
+        "Auditory > Visual",
+        "Olfactory > Gustatory",
+        "Tonic > Atonic",
+        "Visual > Auditory"
+      ],
+      "ans": 3,
+      "exp": "Aura with dyscognition Abdominal (Feeling of fullness -> Regurgitation) > Visual > Auditory (Book p604)"
+    },
+    {
+      "id": "MED-C39-44",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Behavioural arrest in with dyscognition is:",
+      "opts": [
+        "Motionless stare",
+        "Flexion of hips and knees in response to neck flexion",
+        "Resistance to extension of leg",
+        "Axial thrust movements"
+      ],
+      "ans": 0,
+      "exp": "Behavioural arrest: motionless stare (Book p604)"
+    },
+    {
+      "id": "MED-C39-45",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Automatisms in with dyscognition are defined as:",
+      "opts": [
+        "Pause/stare > automatisms > eye movement",
+        "Coordinated motor activity resembling movement (Eg: Lip smacking, chewing)",
+        "Uncoordinated axial thrust",
+        "Increased actions to gain attention"
+      ],
+      "ans": 1,
+      "exp": "Automatisms: Coordinated motor activity resembling movement (Eg: Lip smacking, chewing) (Book p604)"
+    },
+    {
+      "id": "MED-C39-46",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Memory issue listed with dyscognition is:",
+      "opts": [
+        "Immediate working memory loss only",
+        "No storage",
+        "Anterograde amnesia",
+        "Retrograde amnesia only"
+      ],
+      "ans": 2,
+      "exp": "With dyscognition: Anterograde amnesia (Book p604)"
+    },
+    {
+      "id": "MED-C39-47",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "MRI in without dyscognition is to determine etiology; with dyscognition shows:",
+      "opts": [
+        "Normal MRI only",
+        "B/L Temporal lobe hyperintensity",
+        "3 Hz spike & wave",
+        "Hippocampal sclerosis"
+      ],
+      "ans": 3,
+      "exp": "MRI: Without dyscognition To determine etiology, With dyscognition Hippocampal sclerosis (Book p604)"
+    },
+    {
+      "id": "MED-C39-48",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "EEG in without dyscognition is Normal (Transient abnormality -> Not diagnostic); with dyscognition shows:",
+      "opts": [
+        "Temporal spikes",
+        "3Hz spike & wave pattern",
+        "Polyspike & wave pattern",
+        "Centrotemporal spikes"
+      ],
+      "ans": 0,
+      "exp": "EEG: Without dyscognition Normal (Transient abnormality -> Not diagnostic), With dyscognition Temporal spikes (Book p604)"
+    },
+    {
+      "id": "MED-C39-49",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "management",
+      "q": "Treatment without dyscognition is Not indication for anti epileptics; with dyscognition is:",
+      "opts": [
+        "Valproate preferred but stop after 12",
+        "Antiepileptics: Lifelong",
+        "Antiepileptics till 12 years only",
+        "No treatment required"
+      ],
+      "ans": 1,
+      "exp": "Treatment: Without dyscognition Not indication for anti epileptics, With dyscognition Antiepileptics Lifelong (Book p604)"
+    },
+    {
+      "id": "MED-C39-50",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Medial temporal lobe epilepsy is described as:",
+      "opts": [
+        "m/c type of generalized tonic clonic",
+        "m/c type of atonic seizure",
+        "m/c type of complex partial seizure",
+        "m/c type of simple partial seizure"
+      ],
+      "ans": 2,
+      "exp": "Medial temporal lobe epilepsy: m/c type of complex partial seizure (Book p604)"
+    },
+    {
+      "id": "MED-C39-51",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "Medial temporal lobe epilepsy has which history clues?",
+      "opts": [
+        "Adolescents with axial thrust only",
+        "Age >65 with CSF leak",
+        "Post head injury E.coli infection",
+        "Family history present and H/o febrile seizures in childhood"
+      ],
+      "ans": 3,
+      "exp": "Medial temporal lobe epilepsy: Family history present, H/o febrile seizures in childhood (Book p604)"
+    },
+    {
+      "id": "MED-C39-52",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "page": 604,
+      "fmt": "recall",
+      "q": "EEG in medial temporal lobe epilepsy shows:",
+      "opts": [
+        "Temporal spikes",
+        "3Hz spike & wave",
+        "Polyspike & wave",
+        "Hypsarrhythmia mountain waves"
+      ],
+      "ans": 0,
+      "exp": "Medial temporal lobe epilepsy EEG: Temporal spikes (Book p604)"
+    },
+    {
+      "id": "MED-C39-53",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "MRI images labelled T2 flare and T1 flare show which pathology?",
+      "opts": [
+        "Normal MRI",
+        "Hippocampal sclerosis",
+        "B/L Temporal lobe hyperintensity of HSV encephalitis",
+        "Medio-temporal, orbito-frontal, insula hyperintensity"
+      ],
+      "ans": 1,
+      "exp": "MRI T2 flare, T1 flare labelled as Hippocampal sclerosis (Book p605)"
+    },
+    {
+      "id": "MED-C39-54",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Temporal lobe spikes EEG is shown with three strips circled; the other EEG shown is:",
+      "opts": [
+        "Polyspike & wave pattern",
+        "Hypsarrhythmia",
+        "Normal EEG",
+        "3 Hz spike & wave pattern"
+      ],
+      "ans": 2,
+      "exp": "EEG panels show Temporal lobe spikes and Normal EEG (Book p605)"
+    },
+    {
+      "id": "MED-C39-55",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Absent seizures are classified under which onset?",
+      "opts": [
+        "Motor generalized GTCS",
+        "Focal motor onset",
+        "Unknown onset",
+        "Non-motor generalized"
+      ],
+      "ans": 3,
+      "exp": "Generalised Seizures ABSENT SEIZURES Non-motor (Book p605)"
+    },
+    {
+      "id": "MED-C39-56",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Epileptiform syndromes listed under absent seizures are:",
+      "opts": [
+        "Typical childhood absence and Atypical juvenile absence",
+        "West and Dravet only",
+        "Lennox Gastaut only",
+        "Rolandic seizures only"
+      ],
+      "ans": 0,
+      "exp": "Absent seizures Epileptiform syndromes: Typical childhood absence seizure and Atypical juvenile absence seizure (Book p605)"
+    },
+    {
+      "id": "MED-C39-57",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Typical childhood absence seizure remission is:",
+      "opts": [
+        "Remission after 25 yrs",
+        "Remission by 12 yrs (Good prognosis)",
+        "Lifelong with no remission",
+        "Remission by 4-10 yrs only"
+      ],
+      "ans": 1,
+      "exp": "Typical childhood absence seizure: Remission by 12 yrs (Good prognosis) (Book p605)"
+    },
+    {
+      "id": "MED-C39-58",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "numeric",
+      "q": "Typical childhood absent seizures age group is:",
+      "opts": [
+        "6-25 years",
+        "<1 year",
+        "4-10 yrs",
+        "9-13 years"
+      ],
+      "ans": 2,
+      "exp": "Typical childhood absent seizures Age: 4-10 yrs (Book p605)"
+    },
+    {
+      "id": "MED-C39-59",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Gender predominance in typical childhood absent is:",
+      "opts": [
+        "Female > male",
+        "M=F",
+        "Girls > boys only in atypical",
+        "Boys > girls"
+      ],
+      "ans": 3,
+      "exp": "Typical childhood absent seizures Gender: Boys > girls (Book p605)"
+    },
+    {
+      "id": "MED-C39-60",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Association of typical childhood absent is:",
+      "opts": [
+        "Genetically determined epilepsy in childhood",
+        "Post head injury E.coli infection",
+        "Tuberous sclerosis",
+        "AR inheritance with PAS +ve inclusions"
+      ],
+      "ans": 0,
+      "exp": "Typical childhood absent Association: Genetically determined epilepsy in childhood (Book p605)"
+    },
+    {
+      "id": "MED-C39-61",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Consciousness in typical childhood absent is:",
+      "opts": [
+        "Sudden loss of muscle tone",
+        "Sudden brief lapse (No loss of postural control)",
+        "Very short with myoclonus",
+        "Longer duration with loss of postural control"
+      ],
+      "ans": 1,
+      "exp": "Typical childhood absent Presentation Consciousness: Sudden brief lapse (No loss of postural control) (Book p605)"
+    },
+    {
+      "id": "MED-C39-62",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 605,
+      "fmt": "recall",
+      "q": "Post-ictal confusion in typical childhood absent is:",
+      "opts": [
+        "Present <5 min",
+        "Present with anterograde amnesia",
+        "Absent",
+        "Present for many minutes to hours"
+      ],
+      "ans": 2,
+      "exp": "Typical childhood absent Post-ictal confusion: Absent (Book p605)"
+    },
+    {
+      "id": "MED-C39-63",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "IQ in typical childhood absent is:",
+      "opts": [
+        "Impaired with mental retardation",
+        "Low with dementia",
+        "Not assessed",
+        "Normal"
+      ],
+      "ans": 3,
+      "exp": "Typical childhood absent IQ: Normal (Book p606)"
+    },
+    {
+      "id": "MED-C39-64",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Typical childhood absent day-to-day description includes:",
+      "opts": [
+        "Day dreaming, absent minded, loss of focus",
+        "Increased axial thrust movements",
+        "Large purpuric rash and shock",
+        "Fever, neck stiffness, altered sensorium"
+      ],
+      "ans": 0,
+      "exp": "Typical childhood absent: Day dreaming, absent minded, loss of focus (Book p606)"
+    },
+    {
+      "id": "MED-C39-65",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Motor activity in typical childhood absent is ordered:",
+      "opts": [
+        "Tonic > clonic > atonic",
+        "Pause/stare > automatisms > eye movement",
+        "Eye movement > automatisms > pause/stare",
+        "Automatisms > pause/stare > eye movement"
+      ],
+      "ans": 1,
+      "exp": "Typical childhood absent motor activity: Pause/stare > automatisms > eye movement (Book p606)"
+    },
+    {
+      "id": "MED-C39-66",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Aggravating factor for typical childhood absent is:",
+      "opts": [
+        "Photophobia",
+        "Valsalva",
+        "Hyperventilation",
+        "Sleep deprivation upon awakening"
+      ],
+      "ans": 2,
+      "exp": "Typical childhood absent Aggravating factor: Hyperventilation (Book p606)"
+    },
+    {
+      "id": "MED-C39-67",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Investigations in typical childhood absent MRI is:",
+      "opts": [
+        "Hippocampal sclerosis",
+        "B/L Temporal lobe hyperintensity",
+        "Cerebral infarction",
+        "Normal"
+      ],
+      "ans": 3,
+      "exp": "Typical childhood absent Investigations MRI: Normal (Book p606)"
+    },
+    {
+      "id": "MED-C39-68",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "EEG in typical childhood absent shows:",
+      "opts": [
+        "3Hz spike & wave pattern",
+        "Temporal lobe spikes",
+        "Polyspike & wave pattern",
+        "Asymmetrical slow spike and wave"
+      ],
+      "ans": 0,
+      "exp": "Typical childhood absent EEG: 3Hz spike & wave pattern (Book p606)"
+    },
+    {
+      "id": "MED-C39-69",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "management",
+      "q": "Treatment of typical childhood absent is antiepileptic drugs till 12 years with good prognosis; preferred drugs are:",
+      "opts": [
+        "Levetiracetam only lifelong",
+        "Valproate (Preferred), ethosuximide",
+        "Carbamazepine, oxcarbazepine",
+        "Phenytoin only"
+      ],
+      "ans": 1,
+      "exp": "Typical childhood absent Treatment: Antiepileptic drugs till 12 years of age (Remission + Good prognosis), Valproate (Preferred), ethosuximide (Book p606)"
+    },
+    {
+      "id": "MED-C39-70",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "numeric",
+      "q": "Atypical juvenile absent seizure age group is:",
+      "opts": [
+        "6-25 years",
+        "10-18 years",
+        "9-13 years",
+        "4-10 yrs"
+      ],
+      "ans": 2,
+      "exp": "Atypical juvenile absent seizure Age: 9-13 years (Book p606)"
+    },
+    {
+      "id": "MED-C39-71",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Atypical juvenile absent presentation includes longer LOC duration, loss of postural control and:",
+      "opts": [
+        "Day dreaming only",
+        "Remission by 12 yrs",
+        "No loss of postural control",
+        "Status epilepticus"
+      ],
+      "ans": 3,
+      "exp": "Atypical juvenile absent Presentation: Loss of consciousness Longer duration, Loss of postural control, Status epilepticus (Book p606)"
+    },
+    {
+      "id": "MED-C39-72",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "EEG in atypical juvenile absent shows:",
+      "opts": [
+        "Asymmetrical slow spike and wave pattern and Abnormal interictal background",
+        "3Hz spike & wave with normal background",
+        "Normal EEG only",
+        "Centrotemporal spikes"
+      ],
+      "ans": 0,
+      "exp": "Atypical juvenile absent EEG: Asymmetrical slow spike and wave pattern, Abnormal interictal background (Book p606)"
+    },
+    {
+      "id": "MED-C39-73",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "page": 606,
+      "fmt": "management",
+      "q": "Treatment of atypical juvenile absent is:",
+      "opts": [
+        "No treatment needed",
+        "Antiepileptic drugs (Lifelong) with Valproate",
+        "Till 12 years only with ethosuximide",
+        "Carbamazepine first line"
+      ],
+      "ans": 1,
+      "exp": "Atypical juvenile absent Treatment: Antiepileptic drugs (Lifelong), Valproate (Book p606)"
+    },
+    {
+      "id": "MED-C39-74",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 606,
+      "fmt": "numeric",
+      "q": "Juvenile myoclonic epilepsy age group is:",
+      "opts": [
+        "9-13 years",
+        "<1 year",
+        "6-25 years",
+        "4-10 yrs"
+      ],
+      "ans": 2,
+      "exp": "Juvenile myoclonic epilepsy Age: 6-25 years (Book p606)"
+    },
+    {
+      "id": "MED-C39-75",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Gender predominance in juvenile myoclonic epilepsy is:",
+      "opts": [
+        "Boys > girls",
+        "M=F",
+        "Male > female",
+        "Female > male"
+      ],
+      "ans": 3,
+      "exp": "Juvenile myoclonic epilepsy Gender: Female > male (Book p606)"
+    },
+    {
+      "id": "MED-C39-76",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 606,
+      "fmt": "recall",
+      "q": "Association of JME with sleep is:",
+      "opts": [
+        "Sleep deprivation (upon awakening)",
+        "Hyperventilation aggravation",
+        "Day dreaming absent minded",
+        "Post head injury"
+      ],
+      "ans": 0,
+      "exp": "JME Associations: Sleep deprivation (upon awakening) (Book p606)"
+    },
+    {
+      "id": "MED-C39-77",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 606,
+      "fmt": "numeric",
+      "q": "GTCS in juvenile myoclonic epilepsy is seen in what percentage?",
+      "opts": [
+        "50-70%",
+        "90%",
+        "70-90%",
+        "100%"
+      ],
+      "ans": 1,
+      "exp": "JME Associations: GTCS in 90% (Book p606)"
+    },
+    {
+      "id": "MED-C39-78",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 606,
+      "fmt": "numeric",
+      "q": "Absence seizure in JME is seen in:",
+      "opts": [
+        "100% cases",
+        "70-90% cases",
+        "1/3rd cases",
+        "90% cases"
+      ],
+      "ans": 2,
+      "exp": "JME Associations: Absence seizure in 1/3rd cases (Book p606)"
+    },
+    {
+      "id": "MED-C39-79",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Loss of consciousness in JME myoclonus presentation is:",
+      "opts": [
+        "Longer duration",
+        "Absent",
+        "Many minutes to hours",
+        "Very short"
+      ],
+      "ans": 3,
+      "exp": "JME Presentation Loss of consciousness: very short (Book p607)"
+    },
+    {
+      "id": "MED-C39-80",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Myoclonus is defined as:",
+      "opts": [
+        "Sudden brief shock like contractions",
+        "Flexion of hips and knees in response to neck flexion",
+        "Resistance to extension of leg",
+        "Continuous activity lasting hours to days"
+      ],
+      "ans": 0,
+      "exp": "JME Presentation myoclonus (Sudden brief shock like contractions) (Book p607)"
+    },
+    {
+      "id": "MED-C39-81",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Distribution of myoclonus in JME is:",
+      "opts": [
+        "Unilateral periorbital only",
+        "Generalized, face and trunk, upper limb > lower limb",
+        "Focal -> motor only",
+        "Lower limb > upper limb"
+      ],
+      "ans": 1,
+      "exp": "JME Presentation Generalized, face and trunk, upper limb > lower limb (Book p607)"
+    },
+    {
+      "id": "MED-C39-82",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Severity of myoclonus ranges:",
+      "opts": [
+        "Only subtle",
+        "Only with loss of postural control",
+        "Subtle to dramatic",
+        "Only dramatic"
+      ],
+      "ans": 2,
+      "exp": "JME Presentation Subtle to dramatic (Book p607)"
+    },
+    {
+      "id": "MED-C39-83",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "IQ in JME is:",
+      "opts": [
+        "Impaired with mental retardation",
+        "Low with dementia",
+        "Abnormal interictal background",
+        "Normal"
+      ],
+      "ans": 3,
+      "exp": "JME Presentation IQ: Normal (Book p607)"
+    },
+    {
+      "id": "MED-C39-84",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "management",
+      "q": "Antiepileptic therapy for JME includes which four drugs?",
+      "opts": [
+        "Levetiracetam, Valproate (Lifelong), Lamotrigine, Topiramate",
+        "Carbamazepine, Oxcarbazepine, Phenytoin, Phenobarbitone",
+        "Ethosuximide only",
+        "Carbamazepine and oxcarbazepine only"
+      ],
+      "ans": 0,
+      "exp": "JME Treatment Antiepileptic therapy: Levetiracetam, Valproate (Lifelong), Lamotrigine, Topiramate (Book p607)"
+    },
+    {
+      "id": "MED-C39-85",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "EEG of myoclonic seizure shows:",
+      "opts": [
+        "Hypsarrhythmia",
+        "Polyspike & wave pattern",
+        "3Hz spike & wave pattern",
+        "Temporal lobe spikes"
+      ],
+      "ans": 1,
+      "exp": "JME EEG: Polyspike & wave pattern and EEG of myoclonic seizure (Book p607)"
+    },
+    {
+      "id": "MED-C39-86",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Atonic seizures are characterized by:",
+      "opts": [
+        "Pause/stare > automatisms > eye movement",
+        "Increased axial thrust movements",
+        "Sudden loss of muscle tone",
+        "Sudden brief shock like contractions"
+      ],
+      "ans": 2,
+      "exp": "Atonic seizures: Sudden loss of muscle tone (Book p607)"
+    },
+    {
+      "id": "MED-C39-87",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Atonic seizures age group is:",
+      "opts": [
+        "Adolescents",
+        "Adults >65",
+        "4-10 yrs boys > girls",
+        "Children"
+      ],
+      "ans": 3,
+      "exp": "Atonic seizures Age: Children (Book p607)"
+    },
+    {
+      "id": "MED-C39-88",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Atonic seizures association is Lennox Gastaut syndrome with which seizure hierarchy?",
+      "opts": [
+        "Tonic > Atonic > Drop attacks > Absent seizure",
+        "Myoclonic > Tonic > Atonic only",
+        "Typical absent > Atypical absent > Myoclonic",
+        "Focal -> motor > sensory"
+      ],
+      "ans": 0,
+      "exp": "Atonic seizures Association: Lennox Gestaut syndrome (Tonic > Atonic > Drop attacks > Absent seizure) (Book p607)"
+    },
+    {
+      "id": "MED-C39-89",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Lennox Gastaut syndrome triangle includes mental retardation, multiple seizure type + childhood refractory epilepsy and:",
+      "opts": [
+        "Centrotemporal spikes",
+        "Paroxysmal fast activity Background -> Slow spike and wave",
+        "3Hz spike & wave with normal background",
+        "Hippocampal sclerosis"
+      ],
+      "ans": 1,
+      "exp": "LG syndrome diagram: mental retardation, multiple seizure type + Childhood Refractory Epilepsy, Paroxysmal fast activity Background -> Slow spike and wave (Book p607)"
+    },
+    {
+      "id": "MED-C39-90",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - pediatric epileptic encephalopathies listed:",
+      "opts": [
+        "West syndrome",
+        "Dravet syndrome",
+        "Juvenile myoclonic epilepsy",
+        "Lennox gestaut syndrome (Not associated with myoclonic seizures)"
+      ],
+      "ans": 2,
+      "exp": "Pediatric epileptic encephalopathies: Lennox gestaut syndrome (Not associated with myoclonic seizures), West syndrome, Dravet syndrome (Book p607)"
+    },
+    {
+      "id": "MED-C39-91",
+      "sec": "Myoclonic and Atonic Seizures",
+      "page": 607,
+      "fmt": "recall",
+      "q": "Lennox gestaut syndrome is noted as not associated with which seizure type?",
+      "opts": [
+        "Tonic seizures",
+        "Atonic seizures",
+        "Absent seizures",
+        "Myoclonic seizures"
+      ],
+      "ans": 3,
+      "exp": "Note: Lennox gestaut syndrome (Not associated with myoclonic seizures) (Book p607)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U39-1",
+      "ch": 39,
+      "n": 1,
+      "title": "1. Definitions, Semiology and Pseudo Seizure",
+      "sec": "Definitions, Semiology & Pseudo Seizure",
+      "guide": "Semiology is the signs and symptoms of seizure activity; seizure is transient excessive hypersynchronous neuronal activity.\nMotor activity is ordered fastest to slowest from myoclonic to atonic, and pseudo seizure has adolescent, attention-seeking and pupillary clues.",
+      "qs": [
+        "MED-C39-01",
+        "MED-C39-02",
+        "MED-C39-03",
+        "MED-C39-04",
+        "MED-C39-05",
+        "MED-C39-06",
+        "MED-C39-07",
+        "MED-C39-08",
+        "MED-C39-09"
+      ]
+    },
+    {
+      "id": "MED-U39-2",
+      "ch": 39,
+      "n": 2,
+      "title": "2. Classification (ILAE 2017), Focal and Generalized Onset",
+      "sec": "Classification and Onset Types",
+      "guide": "ILAE 2017 classification is based on onset into focal, generalized and unknown, with LOC awareness subdividing focal.\nFocal motor and non-motor tables separate complex partial impaired awareness with automatisms from simple partial motor types, and generalized onset splits into motor GTCS and non-motor absence.",
+      "qs": [
+        "MED-C39-10",
+        "MED-C39-11",
+        "MED-C39-12",
+        "MED-C39-13",
+        "MED-C39-14",
+        "MED-C39-15",
+        "MED-C39-16",
+        "MED-C39-17",
+        "MED-C39-18",
+        "MED-C39-19",
+        "MED-C39-20",
+        "MED-C39-21",
+        "MED-C39-22"
+      ]
+    },
+    {
+      "id": "MED-U39-3",
+      "ch": 39,
+      "n": 3,
+      "title": "3. Epilepsy Evaluation and Focal Seizures",
+      "sec": "Epilepsy Evaluation and Focal Seizures",
+      "guide": "Epilepsy work-up evaluates MRI, EEG, type of onset and LOC to predict further seizure risk and determine syndrome.\nFocal seizures are compared without vs with dyscognition: simple partial aware vs complex partial with LOC, post-ictal disorientation and medial temporal localization, with structural frontal lesions irritating opposite brain.",
+      "qs": [
+        "MED-C39-23",
+        "MED-C39-24",
+        "MED-C39-25",
+        "MED-C39-26",
+        "MED-C39-27",
+        "MED-C39-28",
+        "MED-C39-29",
+        "MED-C39-30",
+        "MED-C39-31",
+        "MED-C39-32",
+        "MED-C39-33",
+        "MED-C39-34"
+      ]
+    },
+    {
+      "id": "MED-U39-4",
+      "ch": 39,
+      "n": 4,
+      "title": "4. Focal Presentation, Investigations and Medial Temporal Lobe Epilepsy",
+      "sec": "Focal Seizure Presentation and Medial Temporal Lobe Epilepsy",
+      "guide": "Without dyscognition presentation is tonic > tonic clonic > sensory flashing light/autonomic with 2-3 Hz clonic, Todd's palsy up to 24h, Jacksonian march distal to proximal and epilepsia partialis continua hours to days.\nWith dyscognition has abdominal aura fullness->regurgitation > visual > auditory, behavioural arrest motionless stare, automatisms lip smacking chewing and anterograde amnesia, with MRI hippocampal sclerosis, EEG temporal spikes and lifelong AED for with dyscognition.",
+      "qs": [
+        "MED-C39-35",
+        "MED-C39-36",
+        "MED-C39-37",
+        "MED-C39-38",
+        "MED-C39-39",
+        "MED-C39-40",
+        "MED-C39-41",
+        "MED-C39-42",
+        "MED-C39-43",
+        "MED-C39-44",
+        "MED-C39-45",
+        "MED-C39-46",
+        "MED-C39-47",
+        "MED-C39-48",
+        "MED-C39-49",
+        "MED-C39-50",
+        "MED-C39-51",
+        "MED-C39-52"
+      ]
+    },
+    {
+      "id": "MED-U39-5",
+      "ch": 39,
+      "n": 5,
+      "title": "5. Generalized Seizures and Typical Childhood Absence",
+      "sec": "Generalized Seizures and Absent Seizures",
+      "guide": "MRI T2 flare and T1 flare point to hippocampal sclerosis with temporal lobe spikes on EEG, while normal EEG is also shown.\nTypical childhood absence is non-motor with sudden brief lapse, no postural loss, absent post-ictal confusion, IQ normal, pause/stare > automatisms > eye movement, hyperventilation aggravation, normal MRI and 3Hz spike-wave, treated till 12 with valproate preferred and ethosuximide.",
+      "qs": [
+        "MED-C39-53",
+        "MED-C39-54",
+        "MED-C39-55",
+        "MED-C39-56",
+        "MED-C39-57",
+        "MED-C39-58",
+        "MED-C39-59",
+        "MED-C39-60",
+        "MED-C39-61",
+        "MED-C39-62",
+        "MED-C39-63",
+        "MED-C39-64",
+        "MED-C39-65",
+        "MED-C39-66",
+        "MED-C39-67",
+        "MED-C39-68",
+        "MED-C39-69",
+        "MED-C39-70",
+        "MED-C39-71",
+        "MED-C39-72",
+        "MED-C39-73"
+      ]
+    },
+    {
+      "id": "MED-U39-6",
+      "ch": 39,
+      "n": 6,
+      "title": "6. Juvenile Myoclonic Epilepsy, Myoclonic and Atonic Seizures",
+      "sec": "Myoclonic and Atonic Seizures",
+      "guide": "Juvenile myoclonic epilepsy presents 6-25 years female > male with sleep deprivation upon awakening, GTCS 90% and absence 1/3, very short LOC, shock-like myoclonus face-trunk-upper limb > lower limb.\nAtonic seizures are sudden loss of muscle tone in children, associated with Lennox Gastaut syndrome tonic > atonic > drop attacks > absent, with mental retardation, refractory epilepsy and slow spike-wave background; Lennox is not associated with myoclonic seizures.",
+      "qs": [
+        "MED-C39-74",
+        "MED-C39-75",
+        "MED-C39-76",
+        "MED-C39-77",
+        "MED-C39-78",
+        "MED-C39-79",
+        "MED-C39-80",
+        "MED-C39-81",
+        "MED-C39-82",
+        "MED-C39-83",
+        "MED-C39-84",
+        "MED-C39-85",
+        "MED-C39-86",
+        "MED-C39-87",
+        "MED-C39-88",
+        "MED-C39-89",
+        "MED-C39-90",
+        "MED-C39-91"
+      ]
+    }
+  ]
+}

@@ -3,12 +3,30 @@
 Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0d425-med-v2`
+- Session branch: `arena/01a0d45d-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 38 live chapters / 57 · 1613 questions / 162 units.** Chapters 39–57 remain `live:false`.
+- **Build status: 40 live chapters / 57 · 1818 questions / 174 units.** Chapters 40, 42–57 remain `live:false`.
 
-## This release — Chapter 32
+## This release — Chapters 39 and 41
+
+Two neurology chapters — Seizure Semiology and CNS Infections — were rendered line-to-line from `uploads/03.pdf` at 3× zoom (PDF38–43 = Book p602–607 and PDF49–53 = Book p613–617), source-ordered and made live. Chapter 40 (Generalised Tonic-Clonic Seizure p608–612) is intentionally skipped in this release and remains Soon.
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 39 | Seizure Semiology | 602–607 | 91 | 6 |
+| 41 | CNS Infections | 613–617 | 114 | 6 |
+| **Release total** |  | **11 book pages** | **205** | **12** |
+
+### Quality and ordering contract delivered
+
+1. All pages were read top-to-bottom in printed order at 3× (`pymupdf.Matrix(3,3)` renders in `.audit-render/03_pdf38_3x..53_3x`), because the scan has no text layer. Visual extraction covered every heading, table cell, flowchart arrow, MRI/EEG panel label, numeric threshold, note and management line in exact book order. Verified page map: PDF38=p602 Ch39 start, PDF43=p607 Ch39 end, PDF44=p608–47=p611 Ch40 GTCS, PDF48=p612 Childhood Seizures table, PDF49=p613–53=p617 Ch41 CNS Infections. No sheets missing in p602–607 or p613–617.
+2. Chapters 39 and 41 add **205 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **1926 mappings** for Chapters 2–39 and 41 (Ch40 skipped).
+3. Questions use no fill-up, matching or true/false worksheets; only recall, scenario, numeric, oddoneout and management formats are used, with plausible distractors and reasoning-first stems.
+4. IDs are sequential `MED-C39-01..91` and `MED-C41-01..114`, question arrays are strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. Both chapters are embedded in the standalone app and live flags for 39 and 41 are set; Ch40 remains false.
+
+## Previous release — Chapter 32
 
 The remaining temporal/occipital-lobe chapter was rendered line-to-line from `uploads/03.pdf` PDF2–4 (Book p563–565), source-ordered and made live:
 
@@ -337,6 +355,18 @@ node tests/app_parsers.cjs
 | 38 | 4. TAC, Cluster & Variants | 597–599 | MED-C38-29–MED-C38-39 | 11 |
 | 38 | 5. Trigeminal & Glossopharyngeal Neuralgia | 599 | MED-C38-40–MED-C38-43 | 4 |
 | 38 | 6. Benign Intracranial Hypertension | 600–601 | MED-C38-44–MED-C38-51 | 8 |
+| 39 | 1. Definitions, Semiology and Pseudo Seizure | 602 | MED-C39-01–MED-C39-09 | 9 |
+| 39 | 2. Classification (ILAE 2017), Focal and Generalized Onset | 602–603 | MED-C39-10–MED-C39-22 | 13 |
+| 39 | 3. Epilepsy Evaluation and Focal Seizures | 603–604 | MED-C39-23–MED-C39-34 | 12 |
+| 39 | 4. Focal Presentation, Investigations and Medial Temporal Lobe Epilepsy | 604 | MED-C39-35–MED-C39-52 | 18 |
+| 39 | 5. Generalized Seizures and Typical Childhood Absence | 605–606 | MED-C39-53–MED-C39-73 | 21 |
+| 39 | 6. Juvenile Myoclonic Epilepsy, Myoclonic and Atonic Seizures | 606–607 | MED-C39-74–MED-C39-91 | 18 |
+| 41 | 1. Bacterial vs Viral Meningitis vs Viral Encephalitis | 613 | MED-C41-01–MED-C41-12 | 12 |
+| 41 | 2. Viral Encephalitis Etiology, Investigations and Autoimmune Encephalitis Notes | 613–614 | MED-C41-13–MED-C41-26 | 14 |
+| 41 | 3. Acute Meningitis and Etiology by Age Group | 614–615 | MED-C41-27–MED-C41-42 | 16 |
+| 41 | 4. Pathogenesis, Pneumococcus Features and Predisposing Factors | 615 | MED-C41-43–MED-C41-57 | 15 |
+| 41 | 5. Clinical Presentation, Meningeal Signs and LP Contraindications | 616–617 | MED-C41-58–MED-C41-78 | 21 |
+| 41 | 6. CSF Analysis, Treatment and Eosinophilic Meningitis | 617 | MED-C41-79–MED-C41-114 | 36 |
 
 ## Full roadmap
 
@@ -380,9 +410,9 @@ node tests/app_parsers.cjs
 | 36 | Dementia : Part 2 | 577 | **Live** |
 | 37 | Parkinson's Disease | 583 | **Live** |
 | 38 | Headache | 593 | **Live** |
-| 39 | Seizure Semiology | 602 | Soon |
+| 39 | Seizure Semiology | 602 | **Live** |
 | 40 | Generalised Tonic-Clonic Seizure | 608 | Soon |
-| 41 | CNS Infections | 613 | Soon |
+| 41 | CNS Infections | 613 | **Live** |
 | 42 | LMN Approach : Part 1 | 618 | Soon |
 | 43 | LMN Approach : Part 2 | 624 | Soon |
 | 44 | Inherited Neuropathies | 627 | Soon |

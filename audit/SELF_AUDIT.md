@@ -280,6 +280,18 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 38 | 4. TAC, Cluster & Variants | 597–599 | MED-C38-29–MED-C38-39 | 11 |
 | 38 | 5. Trigeminal & Glossopharyngeal Neuralgia | 599 | MED-C38-40–MED-C38-43 | 4 |
 | 38 | 6. Benign Intracranial Hypertension | 600–601 | MED-C38-44–MED-C38-51 | 8 |
+| 39 | 1. Definitions, Semiology and Pseudo Seizure | 602 | MED-C39-01–MED-C39-09 | 9 |
+| 39 | 2. Classification (ILAE 2017), Focal and Generalized Onset | 602–603 | MED-C39-10–MED-C39-22 | 13 |
+| 39 | 3. Epilepsy Evaluation and Focal Seizures | 603–604 | MED-C39-23–MED-C39-34 | 12 |
+| 39 | 4. Focal Presentation, Investigations and Medial Temporal Lobe Epilepsy | 604 | MED-C39-35–MED-C39-52 | 18 |
+| 39 | 5. Generalized Seizures and Typical Childhood Absence | 605–606 | MED-C39-53–MED-C39-73 | 21 |
+| 39 | 6. Juvenile Myoclonic Epilepsy, Myoclonic and Atonic Seizures | 606–607 | MED-C39-74–MED-C39-91 | 18 |
+| 41 | 1. Bacterial vs Viral Meningitis vs Viral Encephalitis | 613 | MED-C41-01–MED-C41-12 | 12 |
+| 41 | 2. Viral Encephalitis Etiology, Investigations and Autoimmune Encephalitis Notes | 613–614 | MED-C41-13–MED-C41-26 | 14 |
+| 41 | 3. Acute Meningitis and Etiology by Age Group | 614–615 | MED-C41-27–MED-C41-42 | 16 |
+| 41 | 4. Pathogenesis, Pneumococcus Features and Predisposing Factors | 615 | MED-C41-43–MED-C41-57 | 15 |
+| 41 | 5. Clinical Presentation, Meningeal Signs and LP Contraindications | 616–617 | MED-C41-58–MED-C41-78 | 21 |
+| 41 | 6. CSF Analysis, Treatment and Eosinophilic Meningitis | 617 | MED-C41-79–MED-C41-114 | 36 |
 
 ## Format distribution
 
@@ -323,6 +335,8 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 36 | 11 | 5 | 4 | 4 | 1 | 0 | 25 | 25 |
 | 37 | 15 | 12 | 5 | 3 | 2 | 0 | 37 | 37 |
 | 38 | 17 | 14 | 9 | 3 | 8 | 0 | 51 | 51 |
+| 39 | 73 | 1 | 10 | 3 | 4 | 0 | 91 | 91 |
+| 41 | 80 | 0 | 26 | 0 | 8 | 0 | 114 | 114 |
 
 ## Chapters 16–26 release table
 
@@ -590,8 +604,19 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 599 | 03 PDF35 | 5 | 5 | 0 |
 | 600 | 03 PDF36 | 5 | 5 | 0 |
 | 601 | 03 PDF37 | 3 | 3 | 0 |
+| 602 | 03 PDF38 | 13 | 13 | 0 |
+| 603 | 03 PDF39 | 13 | 13 | 0 |
+| 604 | 03 PDF40 | 26 | 26 | 0 |
+| 605 | 03 PDF41 | 10 | 10 | 0 |
+| 606 | 03 PDF42 | 16 | 16 | 0 |
+| 607 | 03 PDF43 | 13 | 13 | 0 |
+| 613 | 03 PDF49 | 21 | 21 | 0 |
+| 614 | 03 PDF50 | 19 | 19 | 0 |
+| 615 | 03 PDF51 | 17 | 17 | 0 |
+| 616 | 03 PDF52 | 17 | 17 | 0 |
+| 617 | 03 PDF53 | 40 | 40 | 0 |
 
-**Total: 1721 mapped educational points; 1613 questions; 162 units across 38 live chapters of 57.**
+**Total: 1926 mapped educational points; 1818 questions; 174 units across 40 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -3849,14 +3874,296 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p602 / 03 PDF38
+
+| Printed point / call-out | Question |
+|---|---|
+| Semiology: Signs & symptoms of seizure activity | MED-C39-01 |
+| Seizure: Transient occurrence of signs &/symptoms d/t abnormal excessive hypersynchronous neuronal activity in brain | MED-C39-02 |
+| Hypersynchronous neuronal motor activity: myoclonic Fastest, Clonic, Tonic, Atonic Slowest with arrow from fastest to slowest | MED-C39-03 |
+| Myoclonic is marked Fastest in the hypersynchronous neuronal motor activity list | MED-C39-04 |
+| Atonic is marked Slowest in the hypersynchronous neuronal motor activity list | MED-C39-05 |
+| Pseudo seizure: Adolescents | MED-C39-06 |
+| Pseudo seizure: increased axial thrust movements | MED-C39-07 |
+| Pseudo seizure: increased actions to gain attention | MED-C39-08 |
+| Pseudo seizure pupils: Low sympathetic activity -> Less dilation | MED-C39-09 |
+| Classification (ILAE 2017) is Based on onset | MED-C39-10 |
+| ILAE 2017 classification splits into Focal, Generalized, Unknown based on onset | MED-C39-11 |
+| Generalized onset is annotated as Loss of consciousness + | MED-C39-12 |
+| Focal onset splits into LOC + (Impaired awareness) and LOC - (Aware) | MED-C39-13 |
+
+Unasked points: **none found**.
+
+### Book p603 / 03 PDF39
+
+| Printed point / call-out | Question |
+|---|---|
+| Focal onset table: Loss of consciousness (LOC) in Complex partial is Impaired awareness/dyscognition (+) | MED-C39-14 |
+| Focal onset table: Loss of consciousness in Simple partial is Absent | MED-C39-15 |
+| Focal onset table motor onset: Complex partial shows Automatisms | MED-C39-16 |
+| Focal onset table motor onset Simple partial lists Tonic, Clonic, Atonic, myoclonic, Hyperkinetic, Epileptic spasm | MED-C39-17 |
+| Simple partial motor onset table brackets Hyperkinetic and Epileptic spasm as Rare | MED-C39-18 |
+| Non-motor onset lists Autonomic symptoms, Behaviour arrest, Cognitive issues, Emotional issues, Sensory Issues | MED-C39-19 |
+| Non-motor onset bracket is marked m/c in complex partial seizures | MED-C39-20 |
+| Generalized onset motor (GTCS): Tonic clonic, Clonic, Tonic, myoclonic, Atonic | MED-C39-21 |
+| Generalized onset Non-motor (Absent seizures): Typical absent, Atypical absent, myoclonic | MED-C39-22 |
+| To evaluate epilepsy: 1. MRI 2. EEG 3. Type of onset 4. LOC | MED-C39-23 |
+| Epilepsy evaluation flow: Predict risk for further seizure -> Determine if epilepsy syndrome | MED-C39-24 |
+| Epilepsy syndrome: ≥2 unprovoked seizures separated for ≥24hrs without an identifiable cause | MED-C39-25 |
+| Single episode seizure with evidence suggestive of epileptiform syndrome on MRI/EEG with risk of subsequent seizure >60% | MED-C39-26 |
+
+Unasked points: **none found**.
+
+### Book p604 / 03 PDF40
+
+| Printed point / call-out | Question |
+|---|---|
+| Focal seizures table AKA: Without dyscognition is Simple partial seizure | MED-C39-27 |
+| Focal seizures table AKA: With dyscognition is Complex partial seizure | MED-C39-28 |
+| Focal seizures table Onset: Without dyscognition Focal -> motor, With dyscognition Focal -> motor/non-motor | MED-C39-29 |
+| Consciousness: Without dyscognition Aware, With dyscognition LOC +, post ictal disorientation | MED-C39-30 |
+| Epileptiform syndrome: Without dyscognition Nil, With dyscognition Present (Further risk of seizure ↑), Localization medial temporal lobe (m/c) | MED-C39-31 |
+| Etiology without dyscognition: Structural lesion (Frontal/Fronto-parietal lobe) -> Irritate opposite side brain -> Seizure | MED-C39-32 |
+| Etiology without dyscognition lists Tuberculoma, Neurocysticercosis, Brain tumours, Post stroke seizure (in elderly) | MED-C39-33 |
+| Etiology with dyscognition is Family history (+) | MED-C39-34 |
+| Presentation without dyscognition: motor (Tonic > Tonic clonic) > sensory (Flashing light)/Autonomic | MED-C39-35 |
+| Clonic movements: 2-3 Hz | MED-C39-36 |
+| Presentation without dyscognition: Abnormal facial movements synchronous with limbs | MED-C39-37 |
+| Todd's palsy: Post ictal (Transient) palsy lasting upto 24 hours | MED-C39-38 |
+| Jacksonian march: migration of motor activity (Distal to proximal) | MED-C39-39 |
+| Epilepsia partialis continua: Continuous activity lasting hours to days | MED-C39-40 |
+| Presentation without dyscognition: Aura Rare | MED-C39-41 |
+| Aura with dyscognition: Subjective internal event not observed by others | MED-C39-42 |
+| Aura with dyscognition Abdominal (Feeling of fullness -> Regurgitation) > Visual > Auditory | MED-C39-43 |
+| Behavioural arrest: motionless stare | MED-C39-44 |
+| Automatisms: Coordinated motor activity resembling movement (Eg: Lip smacking, chewing) | MED-C39-45 |
+| With dyscognition: Anterograde amnesia | MED-C39-46 |
+| MRI: Without dyscognition To determine etiology, With dyscognition Hippocampal sclerosis | MED-C39-47 |
+| EEG: Without dyscognition Normal (Transient abnormality -> Not diagnostic), With dyscognition Temporal spikes | MED-C39-48 |
+| Treatment: Without dyscognition Not indication for anti epileptics, With dyscognition Antiepileptics Lifelong | MED-C39-49 |
+| Medial temporal lobe epilepsy: m/c type of complex partial seizure | MED-C39-50 |
+| Medial temporal lobe epilepsy: Family history present, H/o febrile seizures in childhood | MED-C39-51 |
+| Medial temporal lobe epilepsy EEG: Temporal spikes | MED-C39-52 |
+
+Unasked points: **none found**.
+
+### Book p605 / 03 PDF41
+
+| Printed point / call-out | Question |
+|---|---|
+| MRI T2 flare, T1 flare labelled as Hippocampal sclerosis | MED-C39-53 |
+| EEG panels show Temporal lobe spikes and Normal EEG | MED-C39-54 |
+| Generalised Seizures ABSENT SEIZURES Non-motor | MED-C39-55 |
+| Absent seizures Epileptiform syndromes: Typical childhood absence seizure and Atypical juvenile absence seizure | MED-C39-56 |
+| Typical childhood absence seizure: Remission by 12 yrs (Good prognosis) | MED-C39-57 |
+| Typical childhood absent seizures Age: 4-10 yrs | MED-C39-58 |
+| Typical childhood absent seizures Gender: Boys > girls | MED-C39-59 |
+| Typical childhood absent Association: Genetically determined epilepsy in childhood | MED-C39-60 |
+| Typical childhood absent Presentation Consciousness: Sudden brief lapse (No loss of postural control) | MED-C39-61 |
+| Typical childhood absent Post-ictal confusion: Absent | MED-C39-62 |
+
+Unasked points: **none found**.
+
+### Book p606 / 03 PDF42
+
+| Printed point / call-out | Question |
+|---|---|
+| Typical childhood absent IQ: Normal | MED-C39-63 |
+| Typical childhood absent: Day dreaming, absent minded, loss of focus | MED-C39-64 |
+| Typical childhood absent motor activity: Pause/stare > automatisms > eye movement | MED-C39-65 |
+| Typical childhood absent Aggravating factor: Hyperventilation | MED-C39-66 |
+| Typical childhood absent Investigations MRI: Normal | MED-C39-67 |
+| Typical childhood absent EEG: 3Hz spike & wave pattern | MED-C39-68 |
+| Typical childhood absent Treatment: Antiepileptic drugs till 12 years of age (Remission + Good prognosis), Valproate (Preferred), ethosuximide | MED-C39-69 |
+| Atypical juvenile absent seizure Age: 9-13 years | MED-C39-70 |
+| Atypical juvenile absent Presentation: Loss of consciousness Longer duration, Loss of postural control, Status epilepticus | MED-C39-71 |
+| Atypical juvenile absent EEG: Asymmetrical slow spike and wave pattern, Abnormal interictal background | MED-C39-72 |
+| Atypical juvenile absent Treatment: Antiepileptic drugs (Lifelong), Valproate | MED-C39-73 |
+| Juvenile myoclonic epilepsy Age: 6-25 years | MED-C39-74 |
+| Juvenile myoclonic epilepsy Gender: Female > male | MED-C39-75 |
+| JME Associations: Sleep deprivation (upon awakening) | MED-C39-76 |
+| JME Associations: GTCS in 90% | MED-C39-77 |
+| JME Associations: Absence seizure in 1/3rd cases | MED-C39-78 |
+
+Unasked points: **none found**.
+
+### Book p607 / 03 PDF43
+
+| Printed point / call-out | Question |
+|---|---|
+| JME Presentation Loss of consciousness: very short | MED-C39-79 |
+| JME Presentation myoclonus (Sudden brief shock like contractions) | MED-C39-80 |
+| JME Presentation Generalized, face and trunk, upper limb > lower limb | MED-C39-81 |
+| JME Presentation Subtle to dramatic | MED-C39-82 |
+| JME Presentation IQ: Normal | MED-C39-83 |
+| JME Treatment Antiepileptic therapy: Levetiracetam, Valproate (Lifelong), Lamotrigine, Topiramate | MED-C39-84 |
+| JME EEG: Polyspike & wave pattern and EEG of myoclonic seizure | MED-C39-85 |
+| Atonic seizures: Sudden loss of muscle tone | MED-C39-86 |
+| Atonic seizures Age: Children | MED-C39-87 |
+| Atonic seizures Association: Lennox Gestaut syndrome (Tonic > Atonic > Drop attacks > Absent seizure) | MED-C39-88 |
+| LG syndrome diagram: mental retardation, multiple seizure type + Childhood Refractory Epilepsy, Paroxysmal fast activity Background -> Slow spike and wave | MED-C39-89 |
+| Pediatric epileptic encephalopathies: Lennox gestaut syndrome (Not associated with myoclonic seizures), West syndrome, Dravet syndrome | MED-C39-90 |
+| Note: Lennox gestaut syndrome (Not associated with myoclonic seizures) | MED-C39-91 |
+
+Unasked points: **none found**.
+
+### Book p613 / 03 PDF49
+
+| Printed point / call-out | Question |
+|---|---|
+| Encephalitis: Abnormal cerebral function | MED-C41-01 |
+| Bacterial meningitis Severity: Acute and catastrophic | MED-C41-02 |
+| Viral meningitis Presentation: Benign disease | MED-C41-03 |
+| Viral encephalitis Severity: Severe Brain parenchyma involved | MED-C41-04 |
+| Bacterial meningitis Onset of Symptoms 24-48 hrs | MED-C41-05 |
+| Viral meningitis Onset 3-5 days | MED-C41-06 |
+| Viral encephalitis Onset 1-2 days | MED-C41-07 |
+| Bacterial meningitis Clinical Features: High fever spikes, Neck stiffness, Vomiting, Severe headache, Photophobia, Altered mental status (Patient lethargic, confused and distractable) | MED-C41-08 |
+| Bacterial meningitis Should start treatment ASAP (mortality 100% in untreated patients) | MED-C41-09 |
+| Viral meningitis Peaks initially with fever + headache, Last 1-2 days | MED-C41-10 |
+| Viral meningitis m/c organism: Enterovirus type 7 > HSV-2 with symptoms Nausea, Vomiting, Photophobia, Neck stiffness, Discomfort, Distracted, Confusion, Lethargy | MED-C41-11 |
+| Viral encephalitis Clinical Features: Refractory status epilepticus, Complete altered behaviour/personality changes, Confusion status Subtle changes -> unresponsive state, Speech defect, Focal neurological deficit motor/sensory | MED-C41-12 |
+| Viral encephalitis Etiology m/c organism in India: HSV-1 > Japanese encephalitis virus | MED-C41-13 |
+| Viral encephalitis Nipah virus (rare) | MED-C41-14 |
+| Viral encephalitis Types: Pure encephalitis, meningoencephalitis | MED-C41-15 |
+| Viral encephalitis CSF Analysis Sugar: Normal range | MED-C41-16 |
+| Viral encephalitis CSF Protein: Raised (50-300 mg/dL) | MED-C41-17 |
+| Viral encephalitis Cell count: Raised (10-1000) | MED-C41-18 |
+| Viral encephalitis RBC count: NIL | MED-C41-19 |
+| Viral encephalitis Antibodies: Positive for HSV and JE | MED-C41-20 |
+| HSV or JE encephalitis findings: Hyperintensity medio-temporal, Orbito-frontal, Insula | MED-C41-21 |
+
+Unasked points: **none found**.
+
+### Book p614 / 03 PDF50
+
+| Printed point / call-out | Question |
+|---|---|
+| Treatment: Start Antibiotics (Should start even with suspicion of encephalitis) | MED-C41-22 |
+| Anti NMDA Antibody: Autoimmune encephalitis Rx: IVIg PLEX | MED-C41-23 |
+| Anti Na Antibody: SCLC (Small cell lung cancer) | MED-C41-24 |
+| Anti CRMP5 Antibody: SCLC, thymoma | MED-C41-25 |
+| Anti Hu 2 Antibody: Testicular malignancy | MED-C41-26 |
+| Acute meningitis should be considered bacterial unless proven otherwise | MED-C41-27 |
+| CSF (Subarachnoid space) <5 cell/µL | MED-C41-28 |
+| CSF No Complements, No Immunoglobulin is Favourable condition for organism | MED-C41-29 |
+| PMNL: Polymorphonuclear neutrophils | MED-C41-30 |
+| Organism entry into CSF Release Endotoxins teichonic acid etc Inflammatory cascade (mediated by cytokines) | MED-C41-31 |
+| Symptoms -> meningitis and meningoencephalitis with + Involvement of Brain parenchyma | MED-C41-32 |
+| Acute meningitis In Adults Streptococcus pneumoniae (m/c) | MED-C41-33 |
+| In Adults Neisseria meningitidis, Listeria (>50 age) | MED-C41-34 |
+| In <2 months Enterobacteriaceae: E.coli (m/c) | MED-C41-35 |
+| In <2 months Streptococcus agalactiae, Listeria | MED-C41-36 |
+| In 2 months to 2 yr Streptococcus agalactiae (m/c) | MED-C41-37 |
+| In 2 months to 2 yr E.coli | MED-C41-38 |
+| In Immunocompromised Streptococcus pneumoniae (m/c) | MED-C41-39 |
+| In Immunocompromised Neisseria meningitidis, Listeria, Hib | MED-C41-40 |
+
+Unasked points: **none found**.
+
+### Book p615 / 03 PDF51
+
+| Printed point / call-out | Question |
+|---|---|
+| In Post head injury/Post craniotomy, Post-CSF Rhinorrhea E.coli (m/c), Pseudomonas | MED-C41-41 |
+| In Post Shunt, Omaya reservoir Staphylococcus aureus (m/c), CONS infection | MED-C41-42 |
+| Pathogenesis Colonizes in nasopharyngeal wall | MED-C41-43 |
+| Pathogenesis Invades (Serotype-3) | MED-C41-44 |
+| Pathogenesis Circulation Via Choroid Plexus (m/c) to CSF | MED-C41-45 |
+| Pathogenesis <20 and >50 years Can also infect immunocompetent | MED-C41-46 |
+| Pathogenesis 20-50 year infection only in Immunocompromised state | MED-C41-47 |
+| Cytokine storm Cytolytic toxin (Pneumolysin: Pores in cell membrane) | MED-C41-48 |
+| Altered BBB permeability leads to Vasogenic edema, increased exudate in CSF blocking CSF flow to Interstitial edema and WBC activation to Cytotoxic edema | MED-C41-49 |
+| Features Pneumococcus Gram +ve | MED-C41-50 |
+| Pneumococcus Catalase +ve/α-hemolysis on blood agar | MED-C41-51 |
+| Pneumococcus Bile soluble/Optochin Sensitive/Inulin fermenter | MED-C41-52 |
+| Pneumococcus Capsule: Helps in avoiding phagocytosis | MED-C41-53 |
+| Quellung reaction: Swollen capsule of pneumococci following addition of antiserum, Rapid identification | MED-C41-54 |
+| Predisposing factors meningitis: Age >65 yr, Sickle cell, Celiac disease, CSF leak, HIV, DM, Cochlear implant patient | MED-C41-55 |
+| Meningococcal meningitis Predisposing factors C5b-C9 deficiency (Late complement) | MED-C41-56 |
+| Meningococcal meningitis Hypogammaglobulinemia, Hyposplenism | MED-C41-57 |
+
+Unasked points: **none found**.
+
+### Book p616 / 03 PDF52
+
+| Printed point / call-out | Question |
+|---|---|
+| Features: Large purpuric rash, Shock, Adrenal hemorrhage | MED-C41-58 |
+| Carrier state in 70-90% | MED-C41-59 |
+| Meningococcal m/c Endotoxin: Lipopolysaccharide | MED-C41-60 |
+| Rx: Penicillin (Both pneumococcus & meningococcus susceptible) | MED-C41-61 |
+| Clinical Presentation Features Acute presentation (1-2 days) | MED-C41-62 |
+| Clinical Presentation Severe Headache (m/c) | MED-C41-63 |
+| Triad: Fever (high grade), Neck stiffness, Altered sensorium Drowsy, Lethargic | MED-C41-64 |
+| Other features Lymphadenopathy -> TB | MED-C41-65 |
+| Focal neurological signs/seizure -> Encephalitis | MED-C41-66 |
+| Rash -> meningococcus | MED-C41-67 |
+| Cerebral infarction -> Pneumococcus | MED-C41-68 |
+| Seizure with ataxia/Cerebral nerve palsy -> Listeria | MED-C41-69 |
+| Petechiae and palpable purpura, Concurrent arthritis -> meningococcus | MED-C41-70 |
+| High grade fever -> malaria, Dengue | MED-C41-71 |
+| Brudzinski's sign: Flexion of hips and knees in response to neck flexion | MED-C41-72 |
+| Kernig's sign: Resistance to extension of leg while the hip is flexed | MED-C41-73 |
+| Lumbar Puncture Relative contraindications: Immuno-compromised, Papilloedema without SOL or Abscess | MED-C41-74 |
+
+Unasked points: **none found**.
+
+### Book p617 / 03 PDF53
+
+| Printed point / call-out | Question |
+|---|---|
+| Absolute contraindications: Papilloedema D/t Space occupying lesion (SOL), Abscess | MED-C41-75 |
+| Features of impending herniation: 3rd nerve palsy | MED-C41-76 |
+| Cushing reflex: Bradycardia, HTN, Bradyarrhythmia | MED-C41-77 |
+| Absolute contraindications: Recent onset seizure, Impaired consciousness, Focal neurological signs | MED-C41-78 |
+| CSF Analysis Normal CSF Pressure 50-180 mm H2O | MED-C41-79 |
+| Bacterial CSF Pressure 180-350 mm H2O | MED-C41-80 |
+| Viral CSF Pressure Normal to 220 | MED-C41-81 |
+| TB CSF Pressure High | MED-C41-82 |
+| Fungal CSF Pressure Normal/Elevated | MED-C41-83 |
+| Normal CSF/S. Glucose >0.6 | MED-C41-84 |
+| Bacterial CSF/S. Glucose <0.4 | MED-C41-85 |
+| Viral CSF/S. Glucose Normal | MED-C41-86 |
+| TB CSF/S. Glucose 0.4-0.6 | MED-C41-87 |
+| Fungal CSF/S. Glucose <4.0 as printed | MED-C41-88 |
+| Normal CSF Protein 15-45 mg/dl | MED-C41-89 |
+| Bacterial CSF Protein >100 (~250 mg/dl) | MED-C41-90 |
+| Viral CSF Protein Normal - 80 | MED-C41-91 |
+| TB CSF Protein >100 mg/dl | MED-C41-92 |
+| Fungal CSF Protein <100 mg/dl | MED-C41-93 |
+| Normal Cell count <5 cells/µL | MED-C41-94 |
+| Bacterial Cell count >1000 cells/µL | MED-C41-95 |
+| Viral Cell count <1000 cells/µL | MED-C41-96 |
+| TB Cell count 500-800 cells/µL | MED-C41-97 |
+| Fungal Cell count <100 cells/µL | MED-C41-98 |
+| CSF Colour TB Cloudy/yellow | MED-C41-99 |
+| Fungal Colour Clear/Cloudy | MED-C41-100 |
+| Type of cell TB Lymphocytic | MED-C41-101 |
+| Lactate level raised: TB, Bacterial meningitis | MED-C41-102 |
+| Sensitivity Gram stain 60%, Culture 80% | MED-C41-103 |
+| Treatment Ceftriaxone 2gm IV BD | MED-C41-104 |
+| If suspecting PRSP add Vancomycin 1gm IV BD | MED-C41-105 |
+| If suspecting listeria add Ampicillin 2g Q4h | MED-C41-106 |
+| If suspecting mastoiditis/sinusitis/urine infection add metronidazole | MED-C41-107 |
+| Vasogenic edema: 0.15mg/kg Dexamethasone Q6H x 3-5 days (15-20 minutes before Antibiotics) is mandatory | MED-C41-108 |
+| Eosinophilic meningitis seen in Angiostrongylus cantonensis (m/c), Baylisascaris, Gnathostoma | MED-C41-109 |
+| Eosinophilic meningitis Baylisascaris, Gnathostoma | MED-C41-110 |
+| Normal CSF findings Specific gravity 1.006-1.008 | MED-C41-111 |
+| Normal CSF pH 7.28-7.32 | MED-C41-112 |
+| Normal CSF Cl- 115-130 meq/L | MED-C41-113 |
+| PRSP: Penicillin-Resistant Streptococcus pneumoniae | MED-C41-114 |
+
+Unasked points: **none found**.
+
 ## Post-build verification
 
-- `python3 build_content.py` embedded 1613 questions / 162 units / 38 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 1818 questions / 174 units / 40 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1613 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1818 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **38/57**. Embedded question total after build: **1613**; units: **162**. Ledger points: **1721**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **40/57**. Embedded question total after build: **1818**; units: **174**. Ledger points: **1926**. Unasked points: **NONE** in the visually recorded inventory.
 

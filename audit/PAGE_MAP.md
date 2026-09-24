@@ -190,9 +190,9 @@ The Chapter 32 sheets (`uploads/03.pdf` PDF2–4) were rendered at `pymupdf.Matr
 
 No supplied sheet is missing in the p563–565 chapter range; `uploads/03.pdf` PDF4 (p565) is immediately followed by PDF5 (p566, Ch33 title page).
 
-## uploads/03.pdf (61 sheets, Book p562–622) — final map for Chapters 33–38
+## uploads/03.pdf (61 sheets, Book p562–622) — final map for Chapters 33–41
 
-This scan continues the same volume at printed page 562. **Printed p586, p590 and p591 are absent from this scan** — the 16 sheets PDF22–PDF37 carry the 19 printed values p583–p601 minus the three missing pages. All sheets PDF1–PDF38 were rendered at 2× and read in full; printed numbers below were verified by full-page reads and, where contested, by decisive 10× single-index corner crops (see correction note).
+This scan continues the same volume at printed page 562. **Printed p586, p590 and p591 are absent from this scan** — the 16 sheets PDF22–PDF37 carry the 19 printed values p583–p601 minus the three missing pages. All sheets PDF1–PDF61 were rendered at 2× and 3× and read in full; printed numbers below were verified by full-page reads and, where contested, by decisive 10× single-index corner crops.
 
 | PDF sheet | Printed page | Evidence |
 |---:|---:|---|
@@ -234,7 +234,22 @@ This scan continues the same volume at printed page 562. **Printed p586, p590 an
 | 36 | 600 | Verified (BIH, Dandy criteria) |
 | 37 | 601 | Verified (BIH features/treatment, acute ↑ICP) |
 | 38 | 602 | Verified (Ch39 "SEIZURE SEMIOLOGY" title page — chapter boundary) |
-| 39–61 | 603–622 | Not read in this session (outside Ch33–38 scope) |
+| 39 | 603 | Verified (Focal onset table, generalized onset) |
+| 40 | 604 | Verified (Focal seizures table, medial temporal lobe epilepsy) |
+| 41 | 605 | Verified (MRI T2/T1 flare hippocampal sclerosis, temporal spikes) |
+| 42 | 606 | Verified (Typical childhood absent, atypical juvenile, JME) |
+| 43 | 607 | Verified (Myoclonic presentation, atonic seizures, LG triangle) |
+| 44 | 608 | Verified (Ch40 "Generalised Tonic-Clonic Seizure" title page) |
+| 45 | 609 | Verified (Causes metabolic, seizure vs syncope) |
+| 46 | 610 | Verified (Management flowchart, AED choices) |
+| 47 | 611 | Verified (Status epilepticus, c/f, management) |
+| 48 | 612 | Verified (Childhood seizures table — belongs to Ch40) |
+| 49 | 613 | Verified (Ch41 "CNS INFECTIONS" title page, bacterial vs viral vs encephalitis table) |
+| 50 | 614 | Verified (Viral encephalitis treatment, acute meningitis etiology) |
+| 51 | 615 | Verified (Pathogenesis, pneumococcus features, predisposing factors) |
+| 52 | 616 | Verified (Clinical presentation, meningeal signs, LP relative) |
+| 53 | 617 | Verified (LP absolute, CSF analysis table, treatment) |
+| 54–61 | 618–622 | Not live in this release (Ch42 onward starts at p618 per roadmap) |
 
 ## Chapter 33–38 source-map correction
 
@@ -244,6 +259,12 @@ Chapter spans: Ch33 p566–568 = PDF5–7 · Ch34 p569–571 = PDF8–10 · Ch35
 
 The three missing pages each carry one transparently-flagged bracketing question in the ledger — MED-C37-13 (p586), MED-C37-33 (p590), MED-C37-34 (p591) — whose explanations state the page is missing from the supplied scan. Source verification for those pages remains unresolved, following the p527 precedent (02.pdf PDF59 = p526, PDF60 = p528).
 
+## Chapter 39–41 source-map correction
+
+Verified at 3× zoom `.audit-render/03_pdf38_3x..53_3x`: Ch39 Seizure Semiology p602–607 = PDF38–43 (6 sheets, no missing), Ch40 GTCS p608–612 = PDF44–48 (5 sheets), Ch41 CNS Infections p613–617 = PDF49–53 (5 sheets). No printed pages missing in Ch39 or Ch41 ranges. Ch40 is intentionally skipped and remains Soon.
+
+Chapter spans: Ch39 p602–607 = PDF38–43 · Ch40 p608–612 = PDF44–48 · Ch41 p613–617 = PDF49–53. Ch42 begins at p618 per roadmap (PDF54).
+
 ## uploads/04.pdf (76 sheets, Book p626 onward)
 
 | PDF sheet | Printed page | Evidence |
@@ -252,4 +273,4 @@ The three missing pages each carry one transparently-flagged bracketing question
 | 2 | 627 | Verified |
 | 3–76 | 628 onward | Not read in this session (outside Ch33–38 scope) |
 
-`uploads/04.pdf` is not needed for Chapters 33–38: the full Ch33–38 range (Book p566–601) lies entirely inside `uploads/03.pdf` (PDF5–PDF37).
+`uploads/04.pdf` is not needed for Chapters 33–41: the full Ch33–41 range (Book p566–617) lies inside `uploads/03.pdf` (PDF5–PDF53).
