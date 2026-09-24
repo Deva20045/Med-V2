@@ -9096,6 +9096,228 @@
     "question": "MED-C31-44"
   },
   {
+    "chapter": 32,
+    "page": 563,
+    "point": "The superolateral temporal-lobe section opens with a site-of-lesion and defect table, and its opening row is the auditory cortex.",
+    "question": "MED-C32-01"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The first table row labels the auditory cortex as areas 41 and 42.",
+    "question": "MED-C32-02"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The table states that the auditory cortex occupies the bilateral temporal lobe, so its lesion is bilateral.",
+    "question": "MED-C32-03"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The defect column pairs the auditory cortex with deafness, parenthesised as auditory inattention.",
+    "question": "MED-C32-04"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The auditory connection fibres join the auditory cortex to Wernicke's area, and their interruption is printed as causing pure word deafness.",
+    "question": "MED-C32-05"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The auditory association cortex row gives auditory agnosia as its defect.",
+    "question": "MED-C32-06"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "Wernicke's area is placed on the superior temporal gyrus and labelled area 22; its lesion gives Wernicke's aphasia, which is language comprehension, and no weakness.",
+    "question": "MED-C32-07"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The temporo-occipital association area is labelled for visuospatial function, and its defect is visual agnosia, defined as inability to identify objects by vision.",
+    "question": "MED-C32-08"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The page closes the lateral temporal-lobe list by attributing auditory, olfactory and gustatory hallucinations to lateral temporal lobe lesions.",
+    "question": "MED-C32-09"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The heading MEDIAL TEMPORAL LOBE (LIMBIC CORTEX) is followed by the notice that it is the most epileptogenic focus in the body.",
+    "question": "MED-C32-10"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The cingulate-cortex figure joins the cingulate cortex to the anterior thalamus, mamillary bodies and the medial temporal lobe, the limbic loop.",
+    "question": "MED-C32-11"
+  },
+  {
+    "chapter": 32,
+    "page": 563,
+    "point": "The components-in-the-cerebrum figure labels the cingulate gyrus, hippocampus, parahippocampal gyrus, corpus callosum, fornix, pineal gland, hypothalamus, mamillary body, anterior group of thalamic nuclei, amygdaloid body and caudate nucleus.",
+    "question": "MED-C32-12"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The components column lists the superior temporal gyrus, inferior temporal gyrus, parahippocampus and fusiform gyrus as the medial temporal lobe parts.",
+    "question": "MED-C32-13"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The functions column lists homeostasis, olfaction, memory, emotion and sexuality for the medial temporal lobe.",
+    "question": "MED-C32-14"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The coronal-section diagram in the cerebrum-components figure labels the hippocampus within the medial temporal region.",
+    "question": "MED-C32-15"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The page states the amygdala plays a role in memory and is present on the inferior surface.",
+    "question": "MED-C32-16"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The uncus is described as the elevation or bulge of the amygdala on the inferior surface.",
+    "question": "MED-C32-17"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "Under the uncus, the note states that herniation affects the pupil, with third-nerve palsy given in parentheses.",
+    "question": "MED-C32-18"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The page writes Kluver-Bucy syndrome as AKA bilateral limbic abnormality, bilateral medial temporal abnormality and bilateral amygdala abnormality.",
+    "question": "MED-C32-19"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "Hypersexuality is the first of the Kluver-Bucy features listed.",
+    "question": "MED-C32-20"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The page explains hyperorality as due to an affected hypothalamus, printing feeding and satiety centre in parentheses.",
+    "question": "MED-C32-21"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The Kluver-Bucy visual-agnosia line states that it affects the association areas.",
+    "question": "MED-C32-22"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "Hypermetamorphosis is printed as visual inattention, parenthesised as the need to touch any object to recognise it.",
+    "question": "MED-C32-23"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "The final Kluver-Bucy feature is decreased fear with increased aggression, printed as decreased Fear and increased Aggression.",
+    "question": "MED-C32-24"
+  },
+  {
+    "chapter": 32,
+    "page": 564,
+    "point": "Korsakoff's amnestic state is printed as due to a bilateral temporal lobe lesion with abnormality in the mamillary body.",
+    "question": "MED-C32-25"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The apathy note states that the lesion is in the medial prefrontal cortex and the thalamic connections.",
+    "question": "MED-C32-26"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The unilateral-lesion column gives the primary visual area (17) a contralateral congruent homonymous hemianopia with macular sparing.",
+    "question": "MED-C32-27"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The visual association area is printed as areas 18 and 19, labelled parastriate and peristriate cortex.",
+    "question": "MED-C32-28"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The functions listed under the visual association area are ocular fixation, fixing size/shape/colour and visual memory.",
+    "question": "MED-C32-29"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The visual association area's defect line reads lesion → colour agnosia.",
+    "question": "MED-C32-30"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The medial-view drawing labels the calcarine sulcus, the parieto-occipital fissure, the sagittal sulci, the lingual and cingulate landmarks and the primary visual area as area 17.",
+    "question": "MED-C32-31"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "Anton's syndrome describes cortical blindness without awareness of it; the patient confabulates a visual description or blames dim light or missing spectacles.",
+    "question": "MED-C32-32"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The Anton's syndrome note ends with the statement that the light reflex is intact.",
+    "question": "MED-C32-33"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "The two printed colour-vision deficits are colour agnosia and cerebral achromatopsia.",
+    "question": "MED-C32-34"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "Optic ataxia in Balint's syndrome is parenthesised as gauge abnormality, with overshoot on the finger-nose test.",
+    "question": "MED-C32-35"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "Balint's syndrome lists optic ataxia plus oculomotor apraxia and simultanagnosia, the last described as perceiving only specific details at a time rather than the whole.",
+    "question": "MED-C32-36"
+  },
+  {
+    "chapter": 32,
+    "page": 565,
+    "point": "Balint's syndrome is attributed to a bilateral occipital lobe lesion in the B/L-lesion column.",
+    "question": "MED-C32-37"
+  },
+  {
     "chapter": 33,
     "page": 566,
     "point": "Language is defined as the basic concept of communication and is a dominant-hemisphere function; its abnormality is aphasia.",
