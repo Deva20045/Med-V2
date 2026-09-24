@@ -155,6 +155,23 @@ Chapters 17–20 were authored from this mapping: Ch16 p458–465 (01.pdf PDF94�
 
 Spot checks of the 2× renders found PDF59 = printed p526, PDF60 = p528, PDF61 = p529, PDF62 = p530, PDF63 = p531, and PDF64 = p532. Printed p527 is absent from the supplied scan. Do not extrapolate the earlier offset past p526. The five upstream Chapter 26 questions citing p527 are retained unchanged, but source verification for them remains unresolved. Chapters 16–20 are unaffected.
 
+## Chapters 30–31 verification — Book p555–562
+
+The Chapter 30–31 sheets were rendered at `pymupdf.Matrix(2,2)` and read line-to-line in printed order on 2026-09-24. The chapter boundary is verified by the printed title pages: Ch30 **Frontal Lobe** begins at p555, Ch31 **Praxicons** begins at p560, and Ch32 begins at p563. The p555–561 sheets are `uploads/02.pdf` PDF87–93; p562 is `uploads/03.pdf` PDF1.
+
+| Source sheet | Printed page | Evidence |
+|---|---:|---|
+| 02.pdf PDF87 | 555 | Ch30 title “FRONTAL LOBE”; MMSE and frontal-lobe anatomy |
+| 02.pdf PDF88 | 556 | Areas of frontal lobe; medial and inferior surface diagrams |
+| 02.pdf PDF89 | 557 | Functions of frontal lobe; motor cortex, PMA/SMA and homunculus |
+| 02.pdf PDF90 | 558 | Motor-cortex lesions, frontal eye field and Broca area |
+| 02.pdf PDF91 | 559 | Prefrontal cortex and bilateral frontal-lobe pathology |
+| 02.pdf PDF92 | 560 | Ch31 title “PRAXICONS”; parietal map and postcentral gyrus |
+| 02.pdf PDF93 | 561 | Superior/inferior parietal lobules, apraxia and dominance |
+| 03.pdf PDF1 | 562 | Hemispatial neglect, angular gyrus, Gerstmann syndrome and visual pathways |
+
+The p562 handoff is sequential: `uploads/02.pdf` PDF93 is p561 and `uploads/03.pdf` PDF1 is p562. No supplied sheet is missing in the p555–562 chapter range.
+
 ## uploads/03.pdf (61 sheets, Book p562–622) — final map for Chapters 33–38
 
 This scan continues the same volume at printed page 562. **Printed p586, p590 and p591 are absent from this scan** — the 16 sheets PDF22–PDF37 carry the 19 printed values p583–p601 minus the three missing pages. All sheets PDF1–PDF38 were rendered at 2× and read in full; printed numbers below were verified by full-page reads and, where contested, by decisive 10× single-index corner crops (see correction note).

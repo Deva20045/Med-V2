@@ -1,0 +1,471 @@
+{
+  "chapter": 31,
+  "title": "Praxicons",
+  "pageRange": "560-562",
+  "questions": [
+    {
+      "id": "MED-C31-01",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "recall",
+      "q": "The Praxicons page places the parietal lobe in which relation to the central sulcus, and labels primary sensory cortex as which areas?",
+      "opts": [
+        "Medial to the corpus callosum; areas 9, 10 and 11",
+        "Posterior to the central sulcus; areas 3, 1 and 2",
+        "Anterior to the central sulcus; areas 4, 6 and 8",
+        "Inferior to the Sylvian fissure; areas 17 and 18"
+      ],
+      "ans": 1,
+      "exp": "The page heading says parietal lobe posterior to the central sulcus and labels primary sensory cortex as areas 3, 1 and 2. (Book p560)"
+    },
+    {
+      "id": "MED-C31-02",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "recall",
+      "q": "Which set of landmarks belongs to the posterior-parietal diagram?",
+      "opts": [
+        "Rectus gyrus, olfactory sulcus, orbital sulcus and orbital gyri",
+        "Hippocampal gyrus, uncus, fornix and cingulate sulcus only",
+        "Posterior parietal lobule, intraparietal sulcus, superior and inferior parietal lobules, supramarginal gyrus, angular gyrus and parieto-occipital association area",
+        "Precentral gyrus, premotor area, frontal eye field and Broca area"
+      ],
+      "ans": 2,
+      "exp": "The parietal map labels the posterior parietal lobule and intraparietal sulcus, superior parietal lobule as praxicons, inferior parietal lobule, supramarginal gyrus as gnosis, angular gyrus as Gerstmann syndrome and the parieto-occipital association area. (Book p560)"
+    },
+    {
+      "id": "MED-C31-03",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "numeric",
+      "q": "What proportions of motor fibres are assigned to the three cortical sources in the note?",
+      "opts": [
+        "Primary sensory 10%, primary motor 80%, premotor plus supplementary 10%",
+        "Primary sensory 30%, primary motor 30%, premotor plus supplementary 40%",
+        "Primary sensory 50%, primary motor 25%, premotor plus supplementary 25%",
+        "Primary sensory cortex 40%, primary motor cortex 30%, and premotor plus supplementary motor cortex 30%"
+      ],
+      "ans": 3,
+      "exp": "The origin-of-motor-fibres note gives primary sensory cortex 40%, primary motor cortex 30% and premotor/supplementary motor cortex 30%. (Book p560)"
+    },
+    {
+      "id": "MED-C31-04",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "scenario",
+      "q": "A postcentral-gyrus lesion is described as causing contralateral UMN weakness with the page's vascular association. Which vessel is named?",
+      "opts": [
+        "Middle cerebral artery",
+        "Anterior cerebral artery",
+        "Posterior cerebral artery",
+        "Basilar artery"
+      ],
+      "ans": 0,
+      "exp": "Under postcentral gyrus, contralateral upper-motor-neuron weakness is associated with the middle cerebral artery. (Book p560)"
+    },
+    {
+      "id": "MED-C31-05",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "scenario",
+      "q": "Compared with a primary motor-cortex lesion, the postcentral-gyrus profile on the page includes which combination?",
+      "opts": [
+        "Tone is unchanged, the FEF is affected and only language is impaired",
+        "Tone is less affected, the frontal eye field is spared and cortical sensations are impaired",
+        "Tone is severely increased, the FEF is destroyed and cortical sensations are normal",
+        "Tone is flaccid, the FEF is spared and only hearing is impaired"
+      ],
+      "ans": 1,
+      "exp": "The postcentral-gyrus list states that tone is less affected, the frontal eye field is spared and cortical sensations are impaired. (Book p560)"
+    },
+    {
+      "id": "MED-C31-06",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "recall",
+      "q": "Which group is explicitly listed under impaired cortical sensations?",
+      "opts": [
+        "Smell, hearing, taste and visual acuity",
+        "Fluency, insight, judgement and abstract thinking",
+        "Tactile localisation, two-point discrimination, stereognosis and graphesthesia",
+        "Pain, temperature, vibration and joint position only"
+      ],
+      "ans": 2,
+      "exp": "The page lists impaired cortical sensations as tactile localisation, two-point discrimination, stereognosis and graphesthesia. (Book p560)"
+    },
+    {
+      "id": "MED-C31-07",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "page": 560,
+      "fmt": "recall",
+      "q": "What association and blood-supply notes accompany the postcentral-gyrus section?",
+      "opts": [
+        "Association with the cerebellum relates to smell; primary cortices are supplied by PCA",
+        "Association with the hippocampus relates to memory; primary cortices are supplied by ACA only",
+        "Association with Broca area relates to hearing; primary cortices have no named arterial supply",
+        "Association with premotor and supplementary motor areas relates to tone and FEF; primary sensory and primary motor cortices are supplied by MCA"
+      ],
+      "ans": 3,
+      "exp": "The notes link premotor/supplementary motor association with tone and FEF, and state that primary sensory and primary motor cortices have middle-cerebral-artery blood supply. (Book p560)"
+    },
+    {
+      "id": "MED-C31-08",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "recall",
+      "q": "What does the superior parietal lobule generate according to the page?",
+      "opts": [
+        "Praxicons: a movement formula and sensory guidance for movement",
+        "A visual field defect and a motor speech programme",
+        "Only the emotional intonation of language",
+        "The basal-ganglia neurotransmitter loop"
+      ],
+      "ans": 0,
+      "exp": "The superior parietal lobule is stated to generate praxicons, defined here as the movement formula or sensory guidance for movement. (Book p561)"
+    },
+    {
+      "id": "MED-C31-09",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "scenario",
+      "q": "A patient cannot execute a learned voluntary skilled action despite normal cerebellar, motor and sensory function and preserved comprehension. What syndrome is described?",
+      "opts": [
+        "Aphasia from a dominant frontal lesion",
+        "Apraxia",
+        "Ataxia from a cerebellar lesion",
+        "A lower-motor-neuron palsy"
+      ],
+      "ans": 1,
+      "exp": "Apraxia is defined as inability to execute a learnt voluntary skilled action despite normal cerebellum, motor and sensory function and comprehension. (Book p561)"
+    },
+    {
+      "id": "MED-C31-10",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "recall",
+      "q": "What does a superior-parietal-lobule lesion do in the printed model?",
+      "opts": [
+        "It causes isolated lower-limb urinary incontinence",
+        "It causes a homonymous hemianopia with macular sparing",
+        "It causes inability to generate praxicons",
+        "It causes inability to recognise an object by touch only"
+      ],
+      "ans": 2,
+      "exp": "The page directly states that a lesion in the superior parietal lobule causes inability to generate praxicons. (Book p561)"
+    },
+    {
+      "id": "MED-C31-11",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "scenario",
+      "q": "A patient has lost the idea of a learned skilled act itself. Which apraxia type fits the page?",
+      "opts": [
+        "Ideomotor apraxia",
+        "Constructional apraxia",
+        "Dressing apraxia",
+        "Ideational apraxia"
+      ],
+      "ans": 3,
+      "exp": "Ideational apraxia is printed as the type in which the idea is absent. (Book p561)"
+    },
+    {
+      "id": "MED-C31-12",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "scenario",
+      "q": "A patient understands the idea of a skilled action but executes it poorly. Which apraxia type is this?",
+      "opts": [
+        "Ideomotor apraxia",
+        "Ideational apraxia",
+        "Topographic agnosia",
+        "Hemispatial neglect"
+      ],
+      "ans": 0,
+      "exp": "Ideomotor apraxia is printed as idea present with poor execution. (Book p561)"
+    },
+    {
+      "id": "MED-C31-13",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "recall",
+      "q": "What does gnosis mean in the supramarginal-gyrus section?",
+      "opts": [
+        "The ability to generate a movement formula from the cerebellum",
+        "The ability to recognise an object by touch, vision or sound",
+        "The inability to execute a learned action despite normal comprehension",
+        "The inability to differentiate a bedroom from a bathroom"
+      ],
+      "ans": 1,
+      "exp": "Gnosis is defined as the ability to recognise an object by touch, vision or sound. (Book p561)"
+    },
+    {
+      "id": "MED-C31-14",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "scenario",
+      "q": "A patient cannot identify an object by vision, with the page's affected areas being considered. Which finding is being described?",
+      "opts": [
+        "Pure alexia involving the fusiform gyrus only",
+        "A frontal eye-field lesion involving the PPRF",
+        "Visual agnosia involving the supramarginal gyrus and parieto-occipital association area for visuospatial orientation",
+        "Ideational apraxia involving the superior parietal lobule only"
+      ],
+      "ans": 2,
+      "exp": "Visual agnosia is described as inability to identify by vision; the page names the supramarginal gyrus and the parieto-occipital association area, the latter linked to visuospatial orientation. (Book p561)"
+    },
+    {
+      "id": "MED-C31-15",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "numeric",
+      "q": "For the dominant parietal lobe table, which handedness percentages are printed?",
+      "opts": [
+        "Right-handed: right 90–95% and left 5%; left-handed: right 50–60% and left 40%",
+        "Right-handed: both lobes 50%; left-handed: both lobes 50%",
+        "Right-handed: right 40% and left 50–60%; left-handed: right 5% and left 90–95%",
+        "Right-handed: right lobe 5% and left lobe 90–95%; left-handed: right lobe 40% and left lobe 50–60%"
+      ],
+      "ans": 3,
+      "exp": "The table prints right-handed dominance as right lobe 5% and left lobe 90–95%, and left-handed dominance as right lobe 40% and left lobe 50–60%. (Book p561)"
+    },
+    {
+      "id": "MED-C31-16",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "recall",
+      "q": "The page places language in which relationship to the dominant parietal lobe?",
+      "opts": [
+        "Language is part of the dominant lobe",
+        "Language is restricted to the non-dominant lobe",
+        "Language is part of the cerebellum rather than either parietal lobe",
+        "Language is assigned only to the occipital lobe"
+      ],
+      "ans": 0,
+      "exp": "Immediately below the dominance table, the source states that language is part of the dominant lobe. (Book p561)"
+    },
+    {
+      "id": "MED-C31-17",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "scenario",
+      "q": "Which non-dominant-parietal pattern is correctly interpreted as pseudoapraxia?",
+      "opts": [
+        "Both are defined as loss of the idea of a skilled action from a dominant superior parietal lesion",
+        "Constructional apraxia is inability to perceive and imagine geometric relations, while dressing apraxia is inability to dress, such as being unable to put on a jacket",
+        "Constructional apraxia is inability to read, while dressing apraxia is inability to name fingers",
+        "Constructional apraxia is inability to recognise by sound, while dressing apraxia is loss of bladder control"
+      ],
+      "ans": 1,
+      "exp": "The non-dominant parietal section calls these pseudoapraxias: constructional apraxia is inability to perceive and imagine geometric relation, and dressing apraxia is inability to dress, exemplified by inability to put on a jacket. (Book p561)"
+    },
+    {
+      "id": "MED-C31-18",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "page": 561,
+      "fmt": "scenario",
+      "q": "A patient cannot distinguish familiar places such as the bedroom and bathroom. Which non-dominant-parietal deficit is printed?",
+      "opts": [
+        "Graphesthesia",
+        "Ideomotor apraxia",
+        "Visuospatial disorientation",
+        "Anomia"
+      ],
+      "ans": 2,
+      "exp": "Visuospatial disorientation is defined as inability to differentiate places, for example bedroom and bathroom. (Book p561)"
+    },
+    {
+      "id": "MED-C31-19",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "scenario",
+      "q": "A patient visually scans only one side of the body schema and neglects activities related to one hemisphere. Which syndrome is named?",
+      "opts": [
+        "Topographic agnosia",
+        "Ideomotor apraxia",
+        "Pure alexia without agraphia",
+        "Hemispatial neglect, also termed anosognosia/asomatognosia in the note"
+      ],
+      "ans": 3,
+      "exp": "The page introduces hemispatial neglect with anosognosia/asomatognosia as abnormal visual scanning of the body schema leading to neglect of activities related to one hemisphere. (Book p562)"
+    },
+    {
+      "id": "MED-C31-20",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "scenario",
+      "q": "Which right-versus-left parietal lesion pairing is printed in the extrapersonal-space table?",
+      "opts": [
+        "Right parietal lesion: left hemispatial neglect; left parietal lesion: no abnormality",
+        "Right parietal lesion: no abnormality; left parietal lesion: bilateral neglect",
+        "Right parietal lesion: right neglect; left parietal lesion: left neglect",
+        "Both right and left parietal lesions cause only right hemispatial neglect"
+      ],
+      "ans": 0,
+      "exp": "The table shows extrapersonal space represented as right plus left under the right parietal lobe and right under the left parietal lobe; a right-parietal lesion gives left hemispatial neglect, while the left-parietal lesion column says no abnormality. (Book p562)"
+    },
+    {
+      "id": "MED-C31-21",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "recall",
+      "q": "What is topographic agnosia?",
+      "opts": [
+        "Loss of a visual field with preserved spatial orientation",
+        "Loss of orientation to topography",
+        "Loss of the idea of a learned motor act",
+        "Loss of reading with preserved writing"
+      ],
+      "ans": 1,
+      "exp": "Topographic agnosia is defined on the page as loss of orientation to topography. (Book p562)"
+    },
+    {
+      "id": "MED-C31-22",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "recall",
+      "q": "Which function set is assigned to the angular gyrus?",
+      "opts": [
+        "Eye abduction, adduction and the vestibulo-ocular reflex",
+        "Pain, temperature, vibration and primary touch only",
+        "Reading, writing, naming and spatial orientation with respect to fingers, numbers and body sites",
+        "Postural tone, proximal alignment and antagonist inhibition"
+      ],
+      "ans": 2,
+      "exp": "The angular-gyrus functions listed are reading, writing, naming and spatial orientation with respect to finger, number and body sites. (Book p562)"
+    },
+    {
+      "id": "MED-C31-23",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "scenario",
+      "q": "A dominant angular-gyrus lesion produces impaired reading and writing, impaired naming, finger anomia, acalculia and right-left disorientation. Which syndrome is this?",
+      "opts": [
+        "Horner syndrome",
+        "Brown-Sequard syndrome",
+        "Wernicke syndrome",
+        "Gerstmann syndrome"
+      ],
+      "ans": 3,
+      "exp": "Gerstmann syndrome is attributed to a lesion of the dominant angular gyrus and includes alexia plus agraphia, anomia, finger anomia or acalculia, and right-to-left disorientation. (Book p562)"
+    },
+    {
+      "id": "MED-C31-24",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "recall",
+      "q": "Which pairing correctly expands the two reading/writing deficits in Gerstmann syndrome?",
+      "opts": [
+        "Alexia means impaired reading and agraphia means impaired writing",
+        "Alexia means impaired writing and agraphia means impaired reading",
+        "Alexia means impaired naming and agraphia means impaired calculation",
+        "Alexia means impaired touch recognition and agraphia means impaired vision"
+      ],
+      "ans": 0,
+      "exp": "The Gerstmann list explicitly pairs alexia with impaired reading and agraphia with impaired writing. (Book p562)"
+    },
+    {
+      "id": "MED-C31-25",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "scenario",
+      "q": "A left PCA infarct involving the splenium is followed by an occipital lesion with normal vision because of macular sparing, a right homonymous hemianopia and loss of connection between cortices. Which additional disconnection finding is printed?",
+      "opts": [
+        "Fluent aphasia with preserved naming",
+        "Alexia without agraphia",
+        "Agraphia without alexia",
+        "Bilateral deafness with preserved reading"
+      ],
+      "ans": 1,
+      "exp": "The note links left PCA infarct plus splenium of corpus callosum to an occipital lesion with macular sparing, right homonymous hemianopia and a disconnection syndrome, including alexia without agraphia. (Book p562)"
+    },
+    {
+      "id": "MED-C31-26",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "recall",
+      "q": "Where does the page localise pure alexia?",
+      "opts": [
+        "A lesion of the precentral gyrus",
+        "A lesion of the PPRF",
+        "A lesion of the fusiform gyrus",
+        "A lesion of the superior parietal lobule"
+      ],
+      "ans": 2,
+      "exp": "The visual-abnormalities note states that pure alexia is due to a fusiform-gyrus lesion. (Book p562)"
+    },
+    {
+      "id": "MED-C31-27",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "page": 562,
+      "fmt": "scenario",
+      "q": "Which lobe-to-visual-field pattern is transcribed in the final list?",
+      "opts": [
+        "Frontal lobe—ipsilateral hemianopia; parietal lobe—superior quadrantanopia; temporal lobe—inferior quadrantanopia",
+        "Frontal lobe—bitemporal hemianopia; parietal lobe—central scotoma; temporal lobe—monocular blindness",
+        "All three lobes produce only macular sparing with no quadrantanopia",
+        "Frontal lobe—contralateral hemianopia; parietal lobe—inferior homonymous quadrantanopia or pie in the floor; temporal lobe—superior homonymous quadrantanopia or pie in the sky"
+      ],
+      "ans": 3,
+      "exp": "The final visual list assigns contralateral hemianopia to frontal lobe, inferior homonymous quadrantanopia or pie in the floor to parietal lobe, and superior homonymous quadrantanopia or pie in the sky to temporal lobe. (Book p562)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U31-1",
+      "ch": 31,
+      "n": 1,
+      "title": "1. Parietal map, postcentral gyrus and motor-fibre origins",
+      "sec": "Parietal map, postcentral gyrus and motor-fibre origins",
+      "guide": "The posterior-central-sulcus map identifies primary sensory cortex and the parietal association regions.\nThe motor-fibre percentages and the postcentral-gyrus lesion profile retain the page's supplied MCA, tone, FEF and cortical-sensation notes.",
+      "qs": [
+        "MED-C31-01",
+        "MED-C31-02",
+        "MED-C31-03",
+        "MED-C31-04",
+        "MED-C31-05",
+        "MED-C31-06",
+        "MED-C31-07"
+      ]
+    },
+    {
+      "id": "MED-U31-2",
+      "ch": 31,
+      "n": 2,
+      "title": "2. Praxicons, apraxias and parietal dominance",
+      "sec": "Praxicons, apraxias and parietal dominance",
+      "guide": "The superior parietal lobule generates the movement formula and sensory guidance for movement.\nApraxia, visual agnosia, handedness-based dominant-parietal percentages and non-dominant pseudoapraxias are kept in the printed order.",
+      "qs": [
+        "MED-C31-08",
+        "MED-C31-09",
+        "MED-C31-10",
+        "MED-C31-11",
+        "MED-C31-12",
+        "MED-C31-13",
+        "MED-C31-14",
+        "MED-C31-15",
+        "MED-C31-16",
+        "MED-C31-17",
+        "MED-C31-18"
+      ]
+    },
+    {
+      "id": "MED-U31-3",
+      "ch": 31,
+      "n": 3,
+      "title": "3. Hemispatial neglect, angular gyrus and visual pathways",
+      "sec": "Hemispatial neglect, angular gyrus and visual pathways",
+      "guide": "Right-versus-left parietal neglect, topographic agnosia, angular-gyrus functions and Gerstmann syndrome are followed by the PCA/splenium note.\nPure alexia and the frontal, parietal and temporal visual-field patterns close the source range at Book p562.",
+      "qs": [
+        "MED-C31-19",
+        "MED-C31-20",
+        "MED-C31-21",
+        "MED-C31-22",
+        "MED-C31-23",
+        "MED-C31-24",
+        "MED-C31-25",
+        "MED-C31-26",
+        "MED-C31-27"
+      ]
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 # Chapters 2–38 — visual self-audit gate
 
-Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF5–37 (Book p566–601; printed p586, p590 and p591 are absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent), `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
 - Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).
-- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.
-- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–29 and 33–38 (no fill-up or match worksheets), and exact citation references.
-- Questions in Chapters 9–29 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
+- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it. Chapters 30–31 used `uploads/02.pdf` PDF87–93 and `uploads/03.pdf` PDF1 for the p555–562 run.
+- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–31 and 33–38 (no fill-up or match worksheets), and exact citation references.
+- Questions in Chapters 9–31 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
 - Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.
 
 ## Source-specific notes retained as book-study material
@@ -80,6 +80,12 @@ Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–10
 | 521–531 | RA risk factors, antibodies, extra-articular manifestations, deformities and DMARD/biologic/JAK treatment algorithms are reproduced as book-study material. |
 | 532–554 | Chapters 27–29 book-study notes: non-radiographic axial SpA 5%→radiographic in 5–10 y; Schober A–B 15 cm with normal ≥20; indomethacin 50 TID 2–3 wks; Reiter's triad; Chlamydia GU 9:1 vs Shigella India 1:1; keratoderma d/d palmo-plantar psoriasis; LMAP self-limiting vs SMAP-u→anti-TNF; 60/30/30 with 90% nail change; CASPER; pencil-in-cup; inflammasome→IL-1β; humans lack uricase; stone thresholds uric>7 / Ca>4 m/c / citrate<11; 4-compartment 100/50/40/10; >6F/>7M with 90% underexcretion; CANT LEAP; Kelley 6.8; first-MTP 85% with UA normal 40%; MSUM needles strong negative parallel; colchicine 1.2→0.6 schedule; ACR triad; 60% flare/yr; allopurinol 300 HLA-B5801; febuxostat cardiotoxic; oxalate envelope; AOSD 25–45 quotidian salmon poly knee>wrist; Yamaguchi >5; HLH 10% ESR↓ fibrinogen↓ TG↑ ferritin↑↑; NSAID→steroid+MTX→anti-IL1/6 with sulfasalazine avoided; gonococcal vs septic table; synovial WBC >50 000 gold standard; vanco+ceftriaxone; drainage thick pus/shoulder/hip — retained exactly as printed book-study material. |
 
+| 555 | MMSE ORARLC components, frontal-lobe surface maps and motor/somatosensory/auditory/visual cortex labels are transcribed from the p555 diagrams. |
+| 556 | Area 4, area 6, area 8 (SMA/FEF), prefrontal areas 9–12, Broca areas 44–45 and the medial/inferior surface labels—including the H-shaped orbital sulcus—are source diagram statements. |
+| 557 | Area 4's 30% motor-fibre line and Betz-cell threshold, PMA/SMA preparation, bilateral-lesion spasticity/primitive reflexes, basal-ganglia→PMA/SMA→primary motor→cerebellum sequence and ACA/MCA homunculus territories are retained as printed. |
+| 558 | MCA face/upper-limb versus ACA lower-limb/incontinence patterns, Jacksonian march, the cortex-to-anterior-horn UMN definition, FEF gaze rules and Broca/anterior-versus-posterior central-sulcus note are source statements. |
+| 559 | PFC part/function table, executive inhibition/set-shifting, apathy→abulia→akinetic mutism, JIPFA, theory of mind/metacognition and bilateral frontal pathology are transcribed as printed book-study material. |
+| 560–562 | Praxicons pages: primary sensory areas 3/1/2, motor-fibre 40/30/30 split, postcentral-gyrus MCA/tone/FEF/cortical-sensation list, SPL praxicons and apraxia types, visual agnosia, dominance percentages, neglect table, Gerstmann syndrome, PCA/splenium disconnection, fusiform pure alexia and pie-in-floor/sky field labels are source statements. |
 | 566 | Broca (44,45) grammar/syntax/rhythm/fluency vs Wernicke (22) sound/comprehension, non-dominant prosody and 'pure word deafness' labelled on the connecting fibres are transcribed as printed. |
 | 567 | The DESP non-fluent list and the four-arm comprehension/repetition flowchart (watershed infarct for transcortical motor) are reproduced as printed. |
 | 568 | Four dysarthria types by anatomical level and the 'lesion of parietal lobe: inferior quadrantanopia' note (vs superior quadrantanopia in the Wernicke's arm) are source statements. |
@@ -229,6 +235,14 @@ Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed 
 | 29 | 1. Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria | 552 | MED-C29-01–MED-C29-09 | 9 |
 | 29 | 2. Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations | 553 | MED-C29-10–MED-C29-20 | 11 |
 | 29 | 3. Gonococcal versus septic comparison, septic-arthritis management and arthritis approach | 554 | MED-C29-21–MED-C29-28 | 8 |
+| 30 | 1. MMSE and frontal-lobe surface orientation | 555 | MED-C30-01–MED-C30-05 | 5 |
+| 30 | 2. Frontal-lobe areas and surface anatomy | 556 | MED-C30-06–MED-C30-12 | 7 |
+| 30 | 3. Motor cortex, movement sequence and homunculus | 557 | MED-C30-13–MED-C30-19 | 7 |
+| 30 | 4. Motor lesions, frontal eye field and Broca area | 558 | MED-C30-20–MED-C30-28 | 9 |
+| 30 | 5. Prefrontal cortex and bilateral frontal pathology | 559 | MED-C30-29–MED-C30-35 | 7 |
+| 31 | 1. Parietal map, postcentral gyrus and motor-fibre origins | 560 | MED-C31-01–MED-C31-07 | 7 |
+| 31 | 2. Praxicons, apraxias and parietal dominance | 561 | MED-C31-08–MED-C31-18 | 11 |
+| 31 | 3. Hemispatial neglect, angular gyrus and visual pathways | 562 | MED-C31-19–MED-C31-27 | 9 |
 | 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
 | 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
 | 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
@@ -289,6 +303,8 @@ Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed 
 | 27 | 58 | 11 | 20 | 5 | 7 | 0 | 101 | 101 |
 | 28 | 40 | 3 | 20 | 4 | 5 | 0 | 72 | 72 |
 | 29 | 15 | 0 | 5 | 5 | 3 | 0 | 28 | 28 |
+| 30 | 15 | 17 | 3 | 0 | 0 | 0 | 35 | 35 |
+| 31 | 12 | 13 | 2 | 0 | 0 | 0 | 27 | 27 |
 | 33 | 7 | 8 | 0 | 1 | 0 | 0 | 16 | 16 |
 | 34 | 6 | 5 | 0 | 1 | 0 | 0 | 12 | 12 |
 | 35 | 10 | 9 | 4 | 2 | 2 | 0 | 27 | 27 |
@@ -319,6 +335,13 @@ Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed 
 | 27 | Spondyloarthritis | 532–542 | 101 | 10 | 101 |
 | 28 | Crystal Arthropathies | 543–551 | 72 | 8 | 72 |
 | 29 | Adult-Onset Still's Disease and Septic Arthritis | 552–554 | 28 | 3 | 28 |
+
+## Chapters 30–31 release table
+
+| Ch | Title | Printed pages | Questions | Units | Ledger mappings |
+|---:|---|---:|---:|---:|---:|
+| 30 | Frontal Lobe | 555–559 | 35 | 5 | 35 |
+| 31 | Praxicons | 560–562 | 27 | 3 | 27 |
 
 ## Chapters 33–38 release table
 
@@ -507,6 +530,14 @@ Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed 
 | 552 | 02 PDF84 | 9 | 9 | 0 |
 | 553 | 02 PDF85 | 11 | 11 | 0 |
 | 554 | 02 PDF86 | 8 | 8 | 0 |
+| 555 | 02 PDF87 | 5 | 5 | 0 |
+| 556 | 02 PDF88 | 7 | 7 | 0 |
+| 557 | 02 PDF89 | 7 | 7 | 0 |
+| 558 | 02 PDF90 | 9 | 9 | 0 |
+| 559 | 02 PDF91 | 7 | 7 | 0 |
+| 560 | 02 PDF92 | 7 | 7 | 0 |
+| 561 | 02 PDF93 | 11 | 11 | 0 |
+| 562 | 03 PDF1 | 9 | 9 | 0 |
 | 566 | 03 PDF5 | 6 | 6 | 0 |
 | 567 | 03 PDF6 | 5 | 5 | 0 |
 | 568 | 03 PDF7 | 5 | 5 | 0 |
@@ -544,7 +575,7 @@ Second source-map discrepancy (Chapters 33-38): uploads/03.pdf PDF25 is printed 
 | 600 | 03 PDF36 | 5 | 5 | 0 |
 | 601 | 03 PDF37 | 3 | 3 | 0 |
 
-**Total: 1573 mapped educational points; 1465 questions; 149 units across 35 live chapters of 57.**
+**Total: 1635 mapped educational points; 1527 questions; 157 units across 37 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -3157,6 +3188,124 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p555 / 02 PDF87
+
+| Printed point / call-out | Question |
+|---|---|
+| The MMSE is introduced as helping to assess higher mental functions and cognitive status. | MED-C30-01 |
+| The printed MMSE list is ORARLC: orientation, registration, attention, recall, language and copying. | MED-C30-02 |
+| The superolateral diagram places the parietal lobe posterior to the central sulcus and the frontal lobe anterior to it. | MED-C30-03 |
+| The superolateral surface labels the Sylvian fissure laterally, with frontal and temporal regions around it; the central sulcus is the separate motor-sensory landmark. | MED-C30-04 |
+| The lower diagram labels motor cortex in the frontal region, somatosensory cortex in the parietal region, auditory cortex in the temporal region and visual cortex in the occipital region. | MED-C30-05 |
+
+Unasked points: **none found**.
+
+### Book p556 / 02 PDF88
+
+| Printed point / call-out | Question |
+|---|---|
+| The map labels area 4 in the precentral gyrus as the primary motor area. | MED-C30-06 |
+| The functional map identifies area 6 as premotor and area 8 as supplementary motor area medially; it separately labels another area-8 region as the frontal eye field. | MED-C30-07 |
+| Area 8 is also labelled the frontal eye field on the functional frontal-lobe diagram. | MED-C30-08 |
+| The map gives the prefrontal area as areas 9, 10, 11 and 12, anterior to areas 6 and 8. | MED-C30-09 |
+| The diagram places the motor speech area of Broca in the inferior frontal gyrus and labels it areas 44 and 45. | MED-C30-10 |
+| The medial-surface drawing labels the paracentral lobule, superior frontal and cingulate gyri/sulcus, corpus callosum, fornix, hippocampal gyrus and uncus, along with posterior medial structures. The inferior drawing carries the orbital and olfactory labels. | MED-C30-11 |
+| The inferior-surface diagram labels the olfactory sulcus beside the rectus gyrus and the orbital sulcus as H shaped, with anterior, medial, lateral and posterior orbital gyri around it. | MED-C30-12 |
+
+Unasked points: **none found**.
+
+### Book p557 / 02 PDF89
+
+| Printed point / call-out | Question |
+|---|---|
+| For area 4/primary motor cortex/precentral gyrus, the page states that only 30% of motor fibres originate there and that specialised Betz cells have the lowest threshold to initiate motor activity. | MED-C30-13 |
+| Area 4 is stated to initiate fine skilled voluntary movement; preparation and finesse are assigned to other parts of the sequence. | MED-C30-14 |
+| PMA and SMA are stated to provide 30% of motor fibres and prepare fine skilled voluntary movement by setting tone of posture, proximal muscle alignment and antagonist muscle inhibition. | MED-C30-15 |
+| The page notes that bilateral PMA/SMA lesions cause spasticity (a tone issue) and primitive reflexes. | MED-C30-16 |
+| The note orders fine-skilled movement as planning and coordination by the basal ganglia, preparation or setting up by PMA/SMA, initiation by the primary motor area, and finesse by the cerebellum. | MED-C30-17 |
+| The motor homunculus note assigns the lower limb to the medial surface and ACA, while face and upper limb lie on the superolateral surface and are supplied by MCA. | MED-C30-18 |
+| The page links the weakness pattern to the motor homunculus: lower limb is medial/ACA territory, while face and upper limb are superolateral/MCA territory. | MED-C30-19 |
+
+Unasked points: **none found**.
+
+### Book p558 / 02 PDF90
+
+| Printed point / call-out | Question |
+|---|---|
+| The page states MCA lesion causes face and upper-limb weakness, while ACA lesion causes lower-limb weakness with urinary incontinence. | MED-C30-20 |
+| An ACA lesion is printed as producing lower-limb weakness plus urinary incontinence, attributed to the paracentral lobule on the medial surface. | MED-C30-21 |
+| A motor-cortex lesion is described as contralateral weakness of fine skilled voluntary movements and an UMN lesion with spasticity or hypertonia. | MED-C30-22 |
+| The irritative lesion line states that a contralateral motor simple partial seizure may occur, with Jacksonian march. | MED-C30-23 |
+| The printed definition says UMN runs from the cortex till the anterior horn cell, which is in grey matter. | MED-C30-24 |
+| The abbreviations printed beside the FEF diagram are PPRF—parapontine reticular formation, LR—lateral rectus, MR—medial rectus and MLF—medial longitudinal fasciculus. | MED-C30-25 |
+| The diagram states that the left FEF activates the right lateral rectus and left medial rectus, producing rightward gaze. | MED-C30-26 |
+| The page states that a left FEF lesion prevents rightward gaze, so the patient looks left, toward the lesion. A brainstem PPRF lesion causes looking away from the side of the lesion. | MED-C30-27 |
+| Broca's area/areas 44 and 45 are linked to impaired fluency or non-fluent aphasia. The note contrasts anterior-to-central-sulcus lesions affecting fluency with posterior-to-central-sulcus lesions affecting comprehension. | MED-C30-28 |
+
+Unasked points: **none found**.
+
+### Book p559 / 02 PDF91
+
+| Printed point / call-out | Question |
+|---|---|
+| The table pairs dorsolateral PFC with executive function, medial PFC or cingulate gyrus with emotion and motivation, orbital PFC with behavioural response, and frontal pole with theory of mind. | MED-C30-29 |
+| Executive function is described as timeframe-dependent, goal-directed activity with cognitive inhibition, response inhibition and set shifting or flexibility. | MED-C30-30 |
+| The printed severity sequence is apathy when mild, then abulia, then akinetic mutism when severe. | MED-C30-31 |
+| Behavioural response is based on reward and punishment and includes JIPFA: judgement, insight, problem solving/personality, fluency and abstract thinking. | MED-C30-32 |
+| Theory of mind is listed with sympathy and empathy; metacognition is defined on the page as understanding oneself. | MED-C30-33 |
+| The bilateral frontal pathology list contains prefrontal personality changes, urinary incontinence due to bilateral paracentral-lobule lesions, primitive reflexes due to premotor-cortex involvement, akinetic mutism as severe apathy and gait apraxia in normal-pressure hydrocephalus. | MED-C30-34 |
+| Gait apraxia is associated with normal-pressure hydrocephalus and is described as ignition failure, with the foot feeling stuck to the floor. | MED-C30-35 |
+
+Unasked points: **none found**.
+
+### Book p560 / 02 PDF92
+
+| Printed point / call-out | Question |
+|---|---|
+| The page heading says parietal lobe posterior to the central sulcus and labels primary sensory cortex as areas 3, 1 and 2. | MED-C31-01 |
+| The parietal map labels the posterior parietal lobule and intraparietal sulcus, superior parietal lobule as praxicons, inferior parietal lobule, supramarginal gyrus as gnosis, angular gyrus as Gerstmann syndrome and the parieto-occipital association area. | MED-C31-02 |
+| The origin-of-motor-fibres note gives primary sensory cortex 40%, primary motor cortex 30% and premotor/supplementary motor cortex 30%. | MED-C31-03 |
+| Under postcentral gyrus, contralateral upper-motor-neuron weakness is associated with the middle cerebral artery. | MED-C31-04 |
+| The postcentral-gyrus list states that tone is less affected, the frontal eye field is spared and cortical sensations are impaired. | MED-C31-05 |
+| The page lists impaired cortical sensations as tactile localisation, two-point discrimination, stereognosis and graphesthesia. | MED-C31-06 |
+| The notes link premotor/supplementary motor association with tone and FEF, and state that primary sensory and primary motor cortices have middle-cerebral-artery blood supply. | MED-C31-07 |
+
+Unasked points: **none found**.
+
+### Book p561 / 02 PDF93
+
+| Printed point / call-out | Question |
+|---|---|
+| The superior parietal lobule is stated to generate praxicons, defined here as the movement formula or sensory guidance for movement. | MED-C31-08 |
+| Apraxia is defined as inability to execute a learnt voluntary skilled action despite normal cerebellum, motor and sensory function and comprehension. | MED-C31-09 |
+| The page directly states that a lesion in the superior parietal lobule causes inability to generate praxicons. | MED-C31-10 |
+| Ideational apraxia is printed as the type in which the idea is absent. | MED-C31-11 |
+| Ideomotor apraxia is printed as idea present with poor execution. | MED-C31-12 |
+| Gnosis is defined as the ability to recognise an object by touch, vision or sound. | MED-C31-13 |
+| Visual agnosia is described as inability to identify by vision; the page names the supramarginal gyrus and the parieto-occipital association area, the latter linked to visuospatial orientation. | MED-C31-14 |
+| The table prints right-handed dominance as right lobe 5% and left lobe 90–95%, and left-handed dominance as right lobe 40% and left lobe 50–60%. | MED-C31-15 |
+| Immediately below the dominance table, the source states that language is part of the dominant lobe. | MED-C31-16 |
+| The non-dominant parietal section calls these pseudoapraxias: constructional apraxia is inability to perceive and imagine geometric relation, and dressing apraxia is inability to dress, exemplified by inability to put on a jacket. | MED-C31-17 |
+| Visuospatial disorientation is defined as inability to differentiate places, for example bedroom and bathroom. | MED-C31-18 |
+
+Unasked points: **none found**.
+
+### Book p562 / 03 PDF1
+
+| Printed point / call-out | Question |
+|---|---|
+| The page introduces hemispatial neglect with anosognosia/asomatognosia as abnormal visual scanning of the body schema leading to neglect of activities related to one hemisphere. | MED-C31-19 |
+| The table shows extrapersonal space represented as right plus left under the right parietal lobe and right under the left parietal lobe; a right-parietal lesion gives left hemispatial neglect, while the left-parietal lesion column says no abnormality. | MED-C31-20 |
+| Topographic agnosia is defined on the page as loss of orientation to topography. | MED-C31-21 |
+| The angular-gyrus functions listed are reading, writing, naming and spatial orientation with respect to finger, number and body sites. | MED-C31-22 |
+| Gerstmann syndrome is attributed to a lesion of the dominant angular gyrus and includes alexia plus agraphia, anomia, finger anomia or acalculia, and right-to-left disorientation. | MED-C31-23 |
+| The Gerstmann list explicitly pairs alexia with impaired reading and agraphia with impaired writing. | MED-C31-24 |
+| The note links left PCA infarct plus splenium of corpus callosum to an occipital lesion with macular sparing, right homonymous hemianopia and a disconnection syndrome, including alexia without agraphia. | MED-C31-25 |
+| The visual-abnormalities note states that pure alexia is due to a fusiform-gyrus lesion. | MED-C31-26 |
+| The final visual list assigns contralateral hemianopia to frontal lobe, inferior homonymous quadrantanopia or pie in the floor to parietal lobe, and superior homonymous quadrantanopia or pie in the sky to temporal lobe. | MED-C31-27 |
+
+Unasked points: **none found**.
+
 ### Book p566 / 03 PDF5
 
 | Printed point / call-out | Question |
@@ -3579,12 +3728,12 @@ Unasked points: **none found**.
 
 ## Post-build verification
 
-- `python3 build_content.py` embedded 1465 questions / 149 units / 35 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 1527 questions / 157 units / 37 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1465 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1527 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **35/57**. Embedded question total after build: **1465**; units: **149**. Ledger points: **1573**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **37/57**. Embedded question total after build: **1527**; units: **157**. Ledger points: **1635**. Unasked points: **NONE** in the visually recorded inventory.
 
