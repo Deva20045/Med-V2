@@ -52,9 +52,9 @@ out.append("# Chapters 2–38 — visual self-audit gate\n")
 out.append("Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent), `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), 2× PyMuPDF renders. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
 out.append("- Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).")
-out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it. Chapters 30–31 used `uploads/02.pdf` PDF87–93 and `uploads/03.pdf` PDF1 for the p555–562 run.")
-out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–31 and 33–38 (no fill-up or match worksheets), and exact citation references.")
-out.append("- Questions in Chapters 9–31 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
+out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it. Chapters 30–31 used `uploads/02.pdf` PDF87–93 and `uploads/03.pdf` PDF1 for the p555–562 run; Chapter 32 used `uploads/03.pdf` PDF2–4 for the p563–565 run.")
+out.append("- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–32 and 33–38 (no fill-up or match worksheets), and exact citation references.")
+out.append("- Questions in Chapters 9–32 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.")
 out.append("- Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.\n")
 
 out.append("## Source-specific notes retained as book-study material\n")
@@ -130,6 +130,7 @@ out.append("| 557 | Area 4's 30% motor-fibre line and Betz-cell threshold, PMA/S
 out.append("| 558 | MCA face/upper-limb versus ACA lower-limb/incontinence patterns, Jacksonian march, the cortex-to-anterior-horn UMN definition, FEF gaze rules and Broca/anterior-versus-posterior central-sulcus note are source statements. |")
 out.append("| 559 | PFC part/function table, executive inhibition/set-shifting, apathy→abulia→akinetic mutism, JIPFA, theory of mind/metacognition and bilateral frontal pathology are transcribed as printed book-study material. |")
 out.append("| 560–562 | Praxicons pages: primary sensory areas 3/1/2, motor-fibre 40/30/30 split, postcentral-gyrus MCA/tone/FEF/cortical-sensation list, SPL praxicons and apraxia types, visual agnosia, dominance percentages, neglect table, Gerstmann syndrome, PCA/splenium disconnection, fusiform pure alexia and pie-in-floor/sky field labels are source statements. |")
+out.append("| 563–565 | Temporal & Occipital Lobe pages: the superolateral site-of-lesion/defect table (auditory cortex areas 41/42 → B/L temporal deafness; connection fibres → pure word deafness; association cortex → auditory agnosia; Wernicke's area 22 → comprehension, no weakness; temporo-occipital → visual agnosia), the limbic-cortex 'most epileptogenic focus' note, Kluver-Bucy (B/L limbic/medial temporal/amygdala; hypersexuality, hyperorality via hypothalamic feeding-satiety centre, visual agnosia of association areas, hypermetamorphosis, ↓fear ↑aggression), Korsakoff's B/L temporal + mamillary-body note, apathy sites (medial prefrontal cortex + thalamic connections), area 17 c/L congruent homonymous hemianopia with macular sparing, areas 18/19 parastriate-peristriate (ocular fixation, size/shape/colour, visual memory → colour agnosia), Anton's syndrome (cortical blindness, confabulation, intact light reflex), colour agnosia + cerebral achromatopsia and Balint's syndrome (optic ataxia overshoot, oculomotor apraxia, simultanagnosia) from a B/L occipital lesion are retained exactly as printed book-study material. |")
 out.append("| 566 | Broca (44,45) grammar/syntax/rhythm/fluency vs Wernicke (22) sound/comprehension, non-dominant prosody and 'pure word deafness' labelled on the connecting fibres are transcribed as printed. |")
 out.append("| 567 | The DESP non-fluent list and the four-arm comprehension/repetition flowchart (watershed infarct for transcortical motor) are reproduced as printed. |")
 out.append("| 568 | Four dysarthria types by anatomical level and the 'lesion of parietal lobe: inferior quadrantanopia' note (vs superior quadrantanopia in the Wernicke's arm) are source statements. |")
@@ -184,10 +185,10 @@ for n in range(27, 30):
     c = next(ch for ch in chapters_data if ch['chapter'] == n)
     out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
 
-out.append("\n## Chapters 30–31 release table\n")
+out.append("\n## Chapters 30–32 release table\n")
 out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
 out.append("|---:|---|---:|---:|---:|---:|")
-for n in range(30, 32):
+for n in range(30, 33):
     c = next(ch for ch in chapters_data if ch['chapter'] == n)
     out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
 

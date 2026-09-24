@@ -3,14 +3,31 @@
 Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0d35c-med-v2`
+- Session branch: `arena/01a0d425-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 37 live chapters / 57 · 1527 questions / 157 units.** Chapters 32, 39–57 remain `live:false`.
+- **Build status: 38 live chapters / 57 · 1564 questions / 162 units.** Chapters 39–57 remain `live:false`.
 
-## This release — Chapters 30–31
+## This release — Chapter 32
 
-Two consecutive neurology chapters were rendered from the supplied scans, read line-to-line in printed order and made live (Book p555–562: `uploads/02.pdf` PDF87–93 and `uploads/03.pdf` PDF1):
+The remaining temporal/occipital-lobe chapter was rendered line-to-line from `uploads/03.pdf` PDF2–4 (Book p563–565), source-ordered and made live:
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 32 | Temporal and Occipital Lobe | 563–565 | 37 | 5 |
+| **Release total** |  | **3 book pages** | **37** | **5** |
+
+### Quality and ordering contract delivered
+
+1. All three sheets were read top-to-bottom in printed order at 2× and 4×, cross-checked with OCR and targeted 12–48× crops because the scan has no text layer; the site-of-lesion/defect table, limbic diagrams, the Kluver-Bucy five features, the Anton's/Balint's lesion columns and the colour-deficit list were all covered, and the p563–565 handoffs are verified with no sheet missing.
+2. Chapter 32 adds **37 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **1672 mappings** for Chapters 2–38.
+3. Questions use no fill-up, matching or true/false worksheets; distractors are plausible and questions are reasoning-first.
+4. IDs, book-page order, contiguous unit slices and exact `(Book pX)` explanation suffixes pass the fail-closed validator.
+5. Chapter 32 is embedded in the standalone app and all 38 roadmap flags for live chapters are set.
+
+## Previous release — Chapters 30–31
+
+Two consecutive neurology chapters were rendered line-to-line from `uploads/02.pdf` PDF87–93 and `uploads/03.pdf` PDF1 (Book p555–562), source-ordered and made live:
 
 | Ch | Title | Printed pages | Questions | Units |
 |---:|---|---:|---:|---:|
@@ -20,11 +37,11 @@ Two consecutive neurology chapters were rendered from the supplied scans, read l
 
 ### Quality and ordering contract delivered
 
-1. All eight supplied sheets were read top-to-bottom at 2×, including the MMSE acronym, surface/functional diagrams, Brodmann-area labels, motor homunculus, lesion-pattern rules, gaze circuit, prefrontal table, parietal association map, percentages, apraxia distinctions, neglect table, Gerstmann syndrome and visual-field notes. The p562 handoff was verified (`02.pdf` PDF93 → `03.pdf` PDF1); no sheet in p555–562 is missing.
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 30–31 add **62 ordered mappings**, bringing the audited ledger to **1635 mappings** for Chapters 2–38.
-3. New questions are reasoning-first: **no fill-up, matching or true/false worksheets**. Clinical scenarios, mechanism-based recall and numeric interpretation use plausible medical distractors rather than predictable options.
-4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
-5. Chapters 30–31 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
+1. Every supplied sheet was read top-to-bottom at 2×, including diagrams, tables, percentages, lesion patterns, gaze rules and visual-field notes; the p562 handoff is verified and no sheet in p555–562 is missing.
+2. Chapters 30–31 add **62 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **1635 mappings** for Chapters 2–38.
+3. Questions use no fill-up, matching or true/false worksheets; distractors are plausible and questions are reasoning-first.
+4. IDs, book-page order, contiguous unit slices and exact `(Book pX)` explanation suffixes pass the fail-closed validator.
+5. Chapters 30–31 are embedded in the standalone app and all 38 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 27–29
 
@@ -43,7 +60,7 @@ Three consecutive rheumatology chapters were rendered from `uploads/02.pdf`, rea
 2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 27–29 add **201 ordered mappings**, bringing the audited ledger to **1573 mappings** for Chapters 2–38.
 3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
-5. Chapters 27–29 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
+5. Chapters 27–29 are embedded in the standalone app and all 38 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 33–38
 
@@ -62,11 +79,11 @@ Six consecutive neurology chapters were rendered from the scans, read block by b
 ### Quality and ordering contract delivered
 
 1. All pages were read in printed order (`uploads/03.pdf` PDF5–37 = Book p566–601; printed p586, p590 and p591 are absent from the scan), including flowchart arms, comparison tables, numeric thresholds, diagram labels, notes, management ladders and drug doses. Scans have no extractable text: every reading used 2× PyMuPDF renders, and every printed page number was verified against the page map (decisive 10× corner reads settled the missing sheets).
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1573 mappings** for Chapters 2–38. Every target is marked asked.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1372 mappings** for Chapters 2–38. Every target is marked asked.
 3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 33–38 are embedded in the standalone app and all 37 roadmap flags for live chapters are set.
+6. Chapters 33–38 are embedded in the standalone app and all 38 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 16–26
 
@@ -86,7 +103,7 @@ Eleven consecutive rheumatology chapters (Book p458–531):
 | 26 | Rheumatoid Arthritis | 521–531 | 80 | 4 |
 | **Release total** |  | **74 pages** | **517** | **47** |
 
-Full evidence: [Chapter 30–31 read notes](audit/READ_NOTES_30_31.md), [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
+Full evidence: [Chapter 32 read notes](audit/READ_NOTES_32.md), [Chapter 30–31 read notes](audit/READ_NOTES_30_31.md), [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), [machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).
 
 ## Verified PDF → printed-page map
 
@@ -114,7 +131,7 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **02.pdf PDF64–86: p532–554 (Ch27–29)**
 - **02.pdf PDF87–93: p555–561 (Ch30–31)**
 - **03.pdf PDF1: p562 (Ch31)**
-- 03.pdf PDF2–4: p563–565 (Ch32 territory, not yet live)
+- **03.pdf PDF2–4: p563–565 (Ch32)**
 - **03.pdf PDF5–10: p566–571 (Ch33–34)**
 - **03.pdf PDF11–21: p572–582 (Ch35–36)**
 - **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**
@@ -139,8 +156,9 @@ python3 tools/generate_ch16_20.py        # Chapters 16-20
 python3 tools/generate_ch21_26.py        # Chapters 21-26
 python3 tools/generate_ch27_29.py        # Chapters 27-29
 python3 tools/generate_ch30_31.py        # Chapters 30-31
+python3 tools/generate_ch32.py           # Chapter 32
 python3 tools/generate_ch33_38.py        # Chapters 33-38
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-31, Ch33-38)
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-32, Ch33-38)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -286,6 +304,11 @@ node tests/app_parsers.cjs
 | 31 | 1. Parietal map, postcentral gyrus and motor-fibre origins | 560 | MED-C31-01–MED-C31-07 | 7 |
 | 31 | 2. Praxicons, apraxias and parietal dominance | 561 | MED-C31-08–MED-C31-18 | 11 |
 | 31 | 3. Hemispatial neglect, angular gyrus and visual pathways | 562 | MED-C31-19–MED-C31-27 | 9 |
+| 32 | 1. Superolateral temporal lobe and the auditory cortex | 563 | MED-C32-01–MED-C32-09 | 9 |
+| 32 | 2. Medial temporal lobe (limbic cortex) and its circuits | 563 | MED-C32-10–MED-C32-12 | 3 |
+| 32 | 3. Components of the medial temporal lobe and their functions | 564 | MED-C32-13–MED-C32-18 | 6 |
+| 32 | 4. Kluver-Bucy syndrome and Korsakoff's amnestic state | 564 | MED-C32-19–MED-C32-25 | 7 |
+| 32 | 5. Apathy, occipital lesions and Balint's syndrome | 565 | MED-C32-26–MED-C32-37 | 12 |
 | 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
 | 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
 | 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
@@ -348,7 +371,7 @@ node tests/app_parsers.cjs
 | 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | **Live** |
 | 30 | Frontal Lobe | 555 | **Live** |
 | 31 | Praxicons | 560 | **Live** |
-| 32 | Temporal and Occipital Lobe | 563 | Soon |
+| 32 | Temporal and Occipital Lobe | 563 | **Live** |
 | 33 | Language V/S Speech | 566 | **Live** |
 | 34 | Memory | 569 | **Live** |
 | 35 | Dementia : Part 1 | 572 | **Live** |

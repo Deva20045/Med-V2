@@ -172,6 +172,18 @@ The Chapter 30–31 sheets were rendered at `pymupdf.Matrix(2,2)` and read line-
 
 The p562 handoff is sequential: `uploads/02.pdf` PDF93 is p561 and `uploads/03.pdf` PDF1 is p562. No supplied sheet is missing in the p555–562 chapter range.
 
+## Chapter 32 verification — Book p563–565
+
+The Chapter 32 sheets were rendered at `pymupdf.Matrix(2,2)` and `Matrix(4,4)` and read top-to-bottom in printed order on 2026-09-24 (cross-checked with RapidOCR and targeted 12–48× crops; the scan has no extractable text layer). The chapter boundary is verified by the corner printed numbers and page content: Ch32 **Temporal and Occipital Lobe** runs p563–565.
+
+| Source sheet | Printed page | Evidence |
+|---|---:|---|
+| 03.pdf PDF2 | 563 | Superolateral site-of-lesion/defect table; medial temporal lobe (limbic cortex) |
+| 03.pdf PDF3 | 564 | Components/functions, coronal section, Kluver-Bucy and Korsakoff's |
+| 03.pdf PDF4 | 565 | Apathy, occipital W/L and B/L lesions, colour deficits, Balint's syndrome |
+
+No supplied sheet is missing in the p563–565 chapter range; `uploads/03.pdf` PDF4 (p565) is immediately followed by PDF5 (p566, Ch33 title page).
+
 ## uploads/03.pdf (61 sheets, Book p562–622) — final map for Chapters 33–38
 
 This scan continues the same volume at printed page 562. **Printed p586, p590 and p591 are absent from this scan** — the 16 sheets PDF22–PDF37 carry the 19 printed values p583–p601 minus the three missing pages. All sheets PDF1–PDF38 were rendered at 2× and read in full; printed numbers below were verified by full-page reads and, where contested, by decisive 10× single-index corner crops (see correction note).

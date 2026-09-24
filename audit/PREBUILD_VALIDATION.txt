@@ -1826,6 +1826,49 @@ Book p562
   The visual-abnormalities note states that pure alexia is due to a fusiform-gyrus lesion. → MED-C31-26
   The final visual list assigns contralateral hemianopia to frontal lobe, inferior homonymous quadrantanopia or pie in the floor to parietal lobe, and superior homonymous quadrantanopia or pie in the sky to temporal lobe. → MED-C31-27
 
+Book p563
+  The superolateral temporal-lobe section opens with a site-of-lesion and defect table, and its opening row is the auditory cortex. → MED-C32-01
+  The first table row labels the auditory cortex as areas 41 and 42. → MED-C32-02
+  The table states that the auditory cortex occupies the bilateral temporal lobe, so its lesion is bilateral. → MED-C32-03
+  The defect column pairs the auditory cortex with deafness, parenthesised as auditory inattention. → MED-C32-04
+  The auditory connection fibres join the auditory cortex to Wernicke's area, and their interruption is printed as causing pure word deafness. → MED-C32-05
+  The auditory association cortex row gives auditory agnosia as its defect. → MED-C32-06
+  Wernicke's area is placed on the superior temporal gyrus and labelled area 22; its lesion gives Wernicke's aphasia, which is language comprehension, and no weakness. → MED-C32-07
+  The temporo-occipital association area is labelled for visuospatial function, and its defect is visual agnosia, defined as inability to identify objects by vision. → MED-C32-08
+  The page closes the lateral temporal-lobe list by attributing auditory, olfactory and gustatory hallucinations to lateral temporal lobe lesions. → MED-C32-09
+  The heading MEDIAL TEMPORAL LOBE (LIMBIC CORTEX) is followed by the notice that it is the most epileptogenic focus in the body. → MED-C32-10
+  The cingulate-cortex figure joins the cingulate cortex to the anterior thalamus, mamillary bodies and the medial temporal lobe, the limbic loop. → MED-C32-11
+  The components-in-the-cerebrum figure labels the cingulate gyrus, hippocampus, parahippocampal gyrus, corpus callosum, fornix, pineal gland, hypothalamus, mamillary body, anterior group of thalamic nuclei, amygdaloid body and caudate nucleus. → MED-C32-12
+
+Book p564
+  The components column lists the superior temporal gyrus, inferior temporal gyrus, parahippocampus and fusiform gyrus as the medial temporal lobe parts. → MED-C32-13
+  The functions column lists homeostasis, olfaction, memory, emotion and sexuality for the medial temporal lobe. → MED-C32-14
+  The coronal-section diagram in the cerebrum-components figure labels the hippocampus within the medial temporal region. → MED-C32-15
+  The page states the amygdala plays a role in memory and is present on the inferior surface. → MED-C32-16
+  The uncus is described as the elevation or bulge of the amygdala on the inferior surface. → MED-C32-17
+  Under the uncus, the note states that herniation affects the pupil, with third-nerve palsy given in parentheses. → MED-C32-18
+  The page writes Kluver-Bucy syndrome as AKA bilateral limbic abnormality, bilateral medial temporal abnormality and bilateral amygdala abnormality. → MED-C32-19
+  Hypersexuality is the first of the Kluver-Bucy features listed. → MED-C32-20
+  The page explains hyperorality as due to an affected hypothalamus, printing feeding and satiety centre in parentheses. → MED-C32-21
+  The Kluver-Bucy visual-agnosia line states that it affects the association areas. → MED-C32-22
+  Hypermetamorphosis is printed as visual inattention, parenthesised as the need to touch any object to recognise it. → MED-C32-23
+  The final Kluver-Bucy feature is decreased fear with increased aggression, printed as decreased Fear and increased Aggression. → MED-C32-24
+  Korsakoff's amnestic state is printed as due to a bilateral temporal lobe lesion with abnormality in the mamillary body. → MED-C32-25
+
+Book p565
+  The apathy note states that the lesion is in the medial prefrontal cortex and the thalamic connections. → MED-C32-26
+  The unilateral-lesion column gives the primary visual area (17) a contralateral congruent homonymous hemianopia with macular sparing. → MED-C32-27
+  The visual association area is printed as areas 18 and 19, labelled parastriate and peristriate cortex. → MED-C32-28
+  The functions listed under the visual association area are ocular fixation, fixing size/shape/colour and visual memory. → MED-C32-29
+  The visual association area's defect line reads lesion → colour agnosia. → MED-C32-30
+  The medial-view drawing labels the calcarine sulcus, the parieto-occipital fissure, the sagittal sulci, the lingual and cingulate landmarks and the primary visual area as area 17. → MED-C32-31
+  Anton's syndrome describes cortical blindness without awareness of it; the patient confabulates a visual description or blames dim light or missing spectacles. → MED-C32-32
+  The Anton's syndrome note ends with the statement that the light reflex is intact. → MED-C32-33
+  The two printed colour-vision deficits are colour agnosia and cerebral achromatopsia. → MED-C32-34
+  Optic ataxia in Balint's syndrome is parenthesised as gauge abnormality, with overshoot on the finger-nose test. → MED-C32-35
+  Balint's syndrome lists optic ataxia plus oculomotor apraxia and simultanagnosia, the last described as perceiving only specific details at a time rather than the whole. → MED-C32-36
+  Balint's syndrome is attributed to a bilateral occipital lobe lesion in the B/L-lesion column. → MED-C32-37
+
 Book p566
   Language is defined as the basic concept of communication and is a dominant-hemisphere function; its abnormality is aphasia. → MED-C33-01
   Speech is the motor output of language; its abnormality is dysarthria, whereas the abnormality of language is aphasia. → MED-C33-02
@@ -2024,7 +2067,6 @@ Book p595
   Serotonin theory Rx: 5-HT1b/1d agonist: triptans (DOC); 5-HT1F agonist: ditans (Lasmiditan). → MED-C38-20
 
 Book p596
-PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 1527 questions + 5 rejection controls
   Other types of migraine with aura: 1. ophthalmoplegic (transient 3rd nerve palsy, involvement of pupil +); 2. retinal (unilocular visual impairment); 3. basilar type (occipital involvement, ataxia, tinnitus, vertigo); 4. familial hemiplegic migraine: Ca2+ channelopathy. → MED-C38-21
   Acute attack - antiemetics: metoclopramide 5-10 mg/D; domperidone. → MED-C38-22
   Treatment table - mild: paracetamol, NSAID (naproxen 550 mg BD, ibuprofen 400 mg QID); moderate to severe: triptan (5HT1b/1d agonists) - eletriptan, rizatriptan, almotriptan, sumatriptan; very severe: sumatriptan 6 mg S/C x 2 doses intranasal, zolmitriptan intranasal. → MED-C38-23
@@ -2043,6 +2085,7 @@ Book p597
 Book p598
   Management - treatment: 100% oxygen: treatment of choice, 12-15 L/min for 10-20 mins; sumatriptan 6 mg S/C. → MED-C38-33
   Prevention - short-term: steroid (DOC), verapamil, galcanezumab, greater occipital nerve injection; long-term: verapamil (best), topiramate, lithium. → MED-C38-34
+PASS: actual parseMatch/fillupHtml/matchOptHtml/splitExp on 1564 questions + 5 rejection controls
   Paroxysmal hemicrania: F = m; type throbbing/boring/stabbing; severity excruciating; 1-30 attacks/day; duration 2-30 mins (average 5 mins); ANS symptoms +; no migraine-like feature, no alcoholic trigger, no nocturnal preponderance; treatment: indomethacin (reduce frequency of attack); no effective treatment during attack. → MED-C38-35
   SUNCT: M = F, unilateral, orbital or temporal pain, stabbing/throbbing, 3-200 attacks/day; duration of attack 5-240 sec; no migraine-like features; no alcohol preponderance; cutaneous trigger +, no refractory period. → MED-C38-36
   SUNCT management: treatment IV lignocaine; prevention lamotrigine or topiramate. → MED-C38-37
@@ -2099,10 +2142,11 @@ Ch28: 72 questions / 8 units; formats {'recall': 40, 'numeric': 20, 'scenario': 
 Ch29: 28 questions / 3 units; formats {'numeric': 5, 'recall': 15, 'oddoneout': 5, 'management': 3}
 Ch30: 35 questions / 5 units; formats {'recall': 15, 'scenario': 17, 'numeric': 3}
 Ch31: 27 questions / 3 units; formats {'recall': 12, 'numeric': 2, 'scenario': 13}
+Ch32: 37 questions / 5 units; formats {'recall': 23, 'scenario': 14}
 Ch33: 16 questions / 4 units; formats {'recall': 7, 'scenario': 8, 'oddoneout': 1}
 Ch34: 12 questions / 3 units; formats {'recall': 6, 'scenario': 5, 'oddoneout': 1}
 Ch35: 27 questions / 5 units; formats {'recall': 10, 'numeric': 4, 'scenario': 9, 'oddoneout': 2, 'management': 2}
 Ch36: 25 questions / 3 units; formats {'numeric': 4, 'recall': 11, 'scenario': 5, 'oddoneout': 4, 'management': 1}
 Ch37: 37 questions / 5 units; formats {'recall': 15, 'scenario': 12, 'numeric': 5, 'oddoneout': 3, 'management': 2}
 Ch38: 51 questions / 6 units; formats {'scenario': 14, 'recall': 17, 'oddoneout': 3, 'numeric': 9, 'management': 8}
-PASS: schema, book/unit order, 1635 inventoried points, full unit coverage
+PASS: schema, book/unit order, 1672 inventoried points, full unit coverage
