@@ -1,0 +1,1147 @@
+{
+  "chapter": 46,
+  "title": "LMN Approach : Part 3",
+  "pageRange": "637-641",
+  "questions": [
+    {
+      "id": "MED-C46-01",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Pure motor LMN disorders in the flowchart arise from:",
+      "opts": [
+        "Brainstem nuclei only",
+        "Dorsal root ganglion only",
+        "Anterior horn cells (motor neuron disease), muscle and neuromuscular junction (myasthenia gravis)",
+        "Radiculopathy, plexopathy and neuropathy"
+      ],
+      "ans": 2,
+      "exp": "Pure motor disorders of: anterior horn cells (motor neuron disease), muscle, neuromuscular junction (myasthenia gravis) (Book p637)"
+    },
+    {
+      "id": "MED-C46-02",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Sensory-motor LMN disorders in the flowchart are:",
+      "opts": [
+        "Anterior horn cell, muscle, NMJ",
+        "Myasthenia gravis only",
+        "Motor neuron disease only",
+        "Radiculopathy, plexopathy, neuropathy"
+      ],
+      "ans": 3,
+      "exp": "Sensory motor: radiculopathy, plexopathy, neuropathy (Book p637)"
+    },
+    {
+      "id": "MED-C46-03",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Predominant feature of AHC weakness vs muscle weakness is:",
+      "opts": [
+        "Wasting >>> weakness vs weakness > wasting (late stages)",
+        "Weakness > wasting vs wasting >>> weakness",
+        "Wasting only in both",
+        "Weakness only in both"
+      ],
+      "ans": 0,
+      "exp": "Predominant feature: AHC wasting >>> weakness; muscle weakness > wasting (Late stages) (Book p637)"
+    },
+    {
+      "id": "MED-C46-04",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Symmetry of AHC weakness vs muscle weakness is:",
+      "opts": [
+        "Both symmetric",
+        "Asymmetric vs symmetric",
+        "Symmetric vs asymmetric",
+        "Both asymmetric"
+      ],
+      "ans": 1,
+      "exp": "Symmetry: AHC asymmetric; muscle symmetric (Book p637)"
+    },
+    {
+      "id": "MED-C46-05",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Distribution of AHC weakness vs muscle weakness is:",
+      "opts": [
+        "Distal painful in both",
+        "Proximal painless in both",
+        "Distal > proximal, upper limb, painless vs proximal, B/L upper/lower limb, painless > painful",
+        "Proximal, B/L, painful vs distal, upper limb, painless"
+      ],
+      "ans": 2,
+      "exp": "Distribution: AHC distal > proximal, upper limb, painless; muscle proximal, B/L upper/lower limb, painless > painful (Book p637)"
+    },
+    {
+      "id": "MED-C46-06",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Reflexes in AHC weakness vs muscle weakness are:",
+      "opts": [
+        "Brisk vs absent",
+        "Absent in both",
+        "Brisk in both",
+        "Absent vs late stages hyporeflexia"
+      ],
+      "ans": 3,
+      "exp": "Reflexes: AHC absent; muscle late stages : hyporeflexia (Book p637)"
+    },
+    {
+      "id": "MED-C46-07",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Fasciculations in AHC weakness vs muscle weakness are:",
+      "opts": [
+        "+ vs -",
+        "- vs +",
+        "+ in both",
+        "- in both"
+      ],
+      "ans": 0,
+      "exp": "Fasciculations: AHC +; muscle - (Book p637)"
+    },
+    {
+      "id": "MED-C46-08",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "NMJ disorders characteristically show:",
+      "opts": [
+        "Fasciculations with absent reflexes",
+        "Fluctuating weakness with diurnal variation and weakness on repetitive movements",
+        "Fixed progressive wasting",
+        "Sensory ataxia"
+      ],
+      "ans": 1,
+      "exp": "NMJ disorders: fluctuating weakness; diurnal variation; weakness on repetitive movements (Book p637)"
+    },
+    {
+      "id": "MED-C46-09",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "recall",
+      "q": "Ocular and bulbar features of NMJ disorders listed are:",
+      "opts": [
+        "Dysarthria with hyperreflexia",
+        "Nystagmus with ataxia",
+        "Ophthalmoplegia + ptosis; masseter muscle involvement -> chewing difficulties",
+        "Ptosis only without ophthalmoplegia"
+      ],
+      "ans": 2,
+      "exp": "NMJ: ophthalmoplegia + ptosis; masseter muscle involvement -> chewing difficulties (Book p637)"
+    },
+    {
+      "id": "MED-C46-10",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "numeric",
+      "q": "Power grade 5 is defined as:",
+      "opts": [
+        "Moves joint against gravity + some resistance",
+        "Active movement against gravity without resistance",
+        "Capable of minimal resistance",
+        "Normal power (moves against gravity + full resistance)"
+      ],
+      "ans": 3,
+      "exp": "Power 5 : Normal power (moves against gravity + full resistance) (Book p637)"
+    },
+    {
+      "id": "MED-C46-11",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "numeric",
+      "q": "Power grade 5- is defined as:",
+      "opts": [
+        "Equivocal; barely detectable weakness",
+        "Definite but slight weakness",
+        "Moves against gravity but not through full range",
+        "Trace contraction"
+      ],
+      "ans": 0,
+      "exp": "Power 5- : Equivocal; barely detectable weakness (Book p637)"
+    },
+    {
+      "id": "MED-C46-12",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "numeric",
+      "q": "Power grade 4+ is defined as:",
+      "opts": [
+        "Moves with gravity eliminated",
+        "Definite but slight weakness",
+        "Capable of minimal resistance",
+        "Equivocal; barely detectable weakness"
+      ],
+      "ans": 1,
+      "exp": "Power 4+ : Definite but slight weakness (Book p637)"
+    },
+    {
+      "id": "MED-C46-13",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 637,
+      "fmt": "numeric",
+      "q": "Power grade 4 is defined as:",
+      "opts": [
+        "Capable of transient resistance but collapses abruptly",
+        "Active movement against gravity without resistance",
+        "Moves joint against gravity + some resistance",
+        "Normal power against full resistance"
+      ],
+      "ans": 2,
+      "exp": "Power 4 : moves joint against gravity + some resistance (Book p637)"
+    },
+    {
+      "id": "MED-C46-14",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 638,
+      "fmt": "numeric",
+      "q": "Power grade 4- is defined as:",
+      "opts": [
+        "Capable of transient resistance but collapses abruptly",
+        "Moves with gravity eliminated",
+        "Definite but slight weakness",
+        "Capable of minimal resistance"
+      ],
+      "ans": 3,
+      "exp": "Power 4- : Capable of minimal resistance (Book p638)"
+    },
+    {
+      "id": "MED-C46-15",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 638,
+      "fmt": "numeric",
+      "q": "Power grade 3+ is defined as:",
+      "opts": [
+        "Capable of transient resistance but collapses abruptly",
+        "Capable of minimal resistance",
+        "Active movement against gravity without resistance",
+        "Moves against gravity but not through full range"
+      ],
+      "ans": 0,
+      "exp": "Power 3+ : Capable of transient resistance but collapses abruptly (Book p638)"
+    },
+    {
+      "id": "MED-C46-16",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 638,
+      "fmt": "numeric",
+      "q": "Power grade 3 is defined as:",
+      "opts": [
+        "Capable of transient resistance",
+        "Active movement against gravity (without resistance)",
+        "Moves against gravity but not through full range",
+        "Moves with gravity eliminated"
+      ],
+      "ans": 1,
+      "exp": "Power 3 : Active movement against gravity (without resistance) (Book p638)"
+    },
+    {
+      "id": "MED-C46-17",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 638,
+      "fmt": "numeric",
+      "q": "Power grade 3- is defined as:",
+      "opts": [
+        "Active movement against gravity through full range",
+        "Trace contraction",
+        "Moves against gravity but not through full range",
+        "Moves with gravity eliminated"
+      ],
+      "ans": 2,
+      "exp": "Power 3- : moves against gravity but not through full range (Book p638)"
+    },
+    {
+      "id": "MED-C46-18",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 638,
+      "fmt": "numeric",
+      "q": "Power grade 2 is defined as:",
+      "opts": [
+        "Trace contraction",
+        "Moves against gravity but not through full range",
+        "Capable of minimal resistance",
+        "Moves with gravity eliminated"
+      ],
+      "ans": 3,
+      "exp": "Power 2 : moves with gravity eliminated (Book p638)"
+    },
+    {
+      "id": "MED-C46-19",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "page": 638,
+      "fmt": "numeric",
+      "q": "Power grades 1 and 0 are defined respectively as:",
+      "opts": [
+        "Trace contraction and no contraction",
+        "No contraction and trace contraction",
+        "Flicker against resistance and no movement",
+        "Trace contraction and flicker"
+      ],
+      "ans": 0,
+      "exp": "Power 1 : Trace contraction; Power 0 : No contraction (Book p638)"
+    },
+    {
+      "id": "MED-C46-20",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Inherited (chronic) muscle etiologies listed are:",
+      "opts": [
+        "Drugs and toxins only",
+        "Muscular dystrophies, congenital myopathies, metabolic myopathies, channelopathies (of Na+/K+/Cl-)",
+        "Inflammatory muscle disease, drugs, toxins",
+        "Infections and endocrine only"
+      ],
+      "ans": 1,
+      "exp": "Inherited (Chronic): muscular dystrophies; congenital myopathies; metabolic myopathies; channelopathies (of Na+/K+/Cl-) (Book p638)"
+    },
+    {
+      "id": "MED-C46-21",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Acquired (subacute > acute) muscle etiologies listed are:",
+      "opts": [
+        "Congenital and metabolic myopathies",
+        "Channelopathies only",
+        "Inflammatory muscle disease, drugs, toxins, infections, endocrine (hypothyroidism)",
+        "Muscular dystrophies and channelopathies"
+      ],
+      "ans": 2,
+      "exp": "Acquired: inflammatory muscle disease; drugs; toxins; infections; endocrine (Hypothyroidism) (Book p638)"
+    },
+    {
+      "id": "MED-C46-22",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Channelopathies in the etiology table involve which ions?",
+      "opts": [
+        "Ca++/Mg++",
+        "Na+/Ca++",
+        "K+/Cl-/Ca++",
+        "Na+/K+/Cl-"
+      ],
+      "ans": 3,
+      "exp": "Channelopathies (of Na+/K+/Cl-) (Book p638)"
+    },
+    {
+      "id": "MED-C46-23",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Muscular dystrophies are defined by loss of:",
+      "opts": [
+        "Structural proteins in muscle, progressive, with necrosis replaced by adipose tissue",
+        "Contractile proteins, non-progressive",
+        "Ion channels",
+        "Mitochondrial enzymes"
+      ],
+      "ans": 0,
+      "exp": "Muscular dystrophies: loss of structural proteins in muscle; progressive; necrosis of muscle -> replaced by adipose tissue (Book p638)"
+    },
+    {
+      "id": "MED-C46-24",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Examples of muscular dystrophies printed are:",
+      "opts": [
+        "Welander and Miyoshi",
+        "Duchenne muscle dystrophy and Becker's muscle dystrophy",
+        "Central core and nemaline",
+        "McArdle's and CPEO"
+      ],
+      "ans": 1,
+      "exp": "Eg. Duchenne muscle dystrophy, Becker's muscle dystrophy (Book p638)"
+    },
+    {
+      "id": "MED-C46-25",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Congenital myopathies are defined by:",
+      "opts": [
+        "Channel dysfunction with episodes",
+        "Metabolic block with exercise symptoms",
+        "Loss of contractile proteins with slow weakness and non-progressive course",
+        "Loss of structural proteins with progression"
+      ],
+      "ans": 2,
+      "exp": "Congenital myopathies: loss of contractile proteins; slow weakness; non-progressive (Book p638)"
+    },
+    {
+      "id": "MED-C46-26",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Types of congenital myopathy listed are:",
+      "opts": [
+        "Duchenne, Becker, FSHD",
+        "McArdle's, CPEO, Kearns-Sayre",
+        "Welander, Miyoshi, Nonaka",
+        "Central core, centronuclear, nemaline myopathy"
+      ],
+      "ans": 3,
+      "exp": "Types: central core, centronuclear, nemaline myopathy (Book p638)"
+    },
+    {
+      "id": "MED-C46-27",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Metabolic/mitochondrial myopathies alter metabolism of:",
+      "opts": [
+        "Carbohydrate and lipid",
+        "Protein and nucleic acid",
+        "Glycogen only",
+        "Creatine only"
+      ],
+      "ans": 0,
+      "exp": "Alteration in metabolism of carbohydrate / lipid (Book p638)"
+    },
+    {
+      "id": "MED-C46-28",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "page": 638,
+      "fmt": "recall",
+      "q": "Symptoms of metabolic/mitochondrial myopathies are:",
+      "opts": [
+        "Induced by cold only",
+        "Induced by exercise",
+        "Present at rest only",
+        "Induced by fasting only"
+      ],
+      "ans": 1,
+      "exp": "Symptoms induced by exercise (Book p638)"
+    },
+    {
+      "id": "MED-C46-29",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Inherited episodic/intermittent muscle disorders listed are:",
+      "opts": [
+        "Inflammatory muscle disease",
+        "Rhabdomyolysis only",
+        "Rhabdomyolysis in glycogen storage diseases type V (McArdle's disease), channelopathies, metabolic myopathy, NMJ disorders",
+        "Dystrophies (chronic)"
+      ],
+      "ans": 2,
+      "exp": "Inherited episodic: rhabdomyolysis in GSD type V (McArdle's disease); channelopathies; metabolic myopathy; NMJ disorders (Book p639)"
+    },
+    {
+      "id": "MED-C46-30",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Inherited persistent muscle disease in the matrix is:",
+      "opts": [
+        "Channelopathies",
+        "NMJ disorders",
+        "Metabolic myopathy",
+        "Dystrophies (chronic)"
+      ],
+      "ans": 3,
+      "exp": "Inherited persistent: Dystrophies (Chronic) (Book p639)"
+    },
+    {
+      "id": "MED-C46-31",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Acquired episodic and acquired persistent cells of the matrix are:",
+      "opts": [
+        "Rhabdomyolysis and inflammatory muscle disease (acute/subacute)",
+        "Inflammatory muscle disease and rhabdomyolysis",
+        "Dystrophies and channelopathies",
+        "McArdle's and dystrophies"
+      ],
+      "ans": 0,
+      "exp": "Acquired episodic: rhabdomyolysis; acquired persistent: inflammatory muscle disease (Acute/Subacute) (Book p639)"
+    },
+    {
+      "id": "MED-C46-32",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Negative symptoms of muscle disease are:",
+      "opts": [
+        "Fasciculations and wasting",
+        "Weakness, fatigue, exercise intolerance",
+        "Myalgia, cramps, contractures, myotonia",
+        "Myoglobinuria and atrophy"
+      ],
+      "ans": 1,
+      "exp": "Negative symptoms: weakness; fatigue; exercise intolerance (Book p639)"
+    },
+    {
+      "id": "MED-C46-33",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Positive symptoms of muscle disease are:",
+      "opts": [
+        "Atrophy and hyporeflexia",
+        "Ptosis and dysphagia",
+        "Myalgia, cramps, contractures, myotonia",
+        "Weakness, fatigue, exercise intolerance"
+      ],
+      "ans": 2,
+      "exp": "Positive symptoms: myalgia; cramps; contractures; myotonia (Book p639)"
+    },
+    {
+      "id": "MED-C46-34",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Myoglobinuria as a positive sign indicates:",
+      "opts": [
+        "Late stages of muscle disease",
+        "Inflammatory myopathy",
+        "Channelopathy",
+        "Rhabdomyolysis with high colored urine"
+      ],
+      "ans": 3,
+      "exp": "Myoglobinuria (Positive sign) : Rhabdomyolysis -> High colored urine (Book p639)"
+    },
+    {
+      "id": "MED-C46-35",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Muscle atrophy as a negative sign indicates:",
+      "opts": [
+        "Late stages of muscle disease",
+        "Acute rhabdomyolysis",
+        "Early myotonia",
+        "NMJ disorder"
+      ],
+      "ans": 0,
+      "exp": "Muscle atrophy (Negative sign) : Late stages of muscle disease (Book p639)"
+    },
+    {
+      "id": "MED-C46-36",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Proximal lower extremity weakness tasks listed are:",
+      "opts": [
+        "Wearing sandals",
+        "Difficulty climbing stairs; rising from low chair / squatting position",
+        "Tear paper; screw something on",
+        "Washing clothes; putting hooks on a blouse"
+      ],
+      "ans": 1,
+      "exp": "Proximal lower extremities: difficulty climbing stairs; rising from low chair / squatting position (Book p639)"
+    },
+    {
+      "id": "MED-C46-37",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Proximal upper extremity weakness tasks listed are:",
+      "opts": [
+        "Wearing sandals; climbing stairs",
+        "Screw something on; rising from chair",
+        "Washing clothes; taking things off a rack above; putting hooks on a blouse",
+        "Tear paper; put a key in"
+      ],
+      "ans": 2,
+      "exp": "Proximal upper extremities: washing clothes; taking things off a rack above; putting hooks on a blouse (Book p639)"
+    },
+    {
+      "id": "MED-C46-38",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Distal upper extremity weakness tasks listed are:",
+      "opts": [
+        "Washing clothes; taking things off a rack above",
+        "Climbing stairs; rising from chair",
+        "Wearing sandals only",
+        "Tear paper; screw something on; put a key in"
+      ],
+      "ans": 3,
+      "exp": "Distal upper extremities: tear paper; screw something on; put a key in (Book p639)"
+    },
+    {
+      "id": "MED-C46-39",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "page": 639,
+      "fmt": "recall",
+      "q": "Distal lower extremity weakness task listed is:",
+      "opts": [
+        "Wearing sandals",
+        "Climbing stairs",
+        "Rising from low chair",
+        "Washing clothes"
+      ],
+      "ans": 0,
+      "exp": "Distal lower extremities: wearing sandals (Book p639)"
+    },
+    {
+      "id": "MED-C46-40",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Asymmetrical muscle weakness exceptions listed are:",
+      "opts": [
+        "Duchenne and Becker",
+        "Inclusion body myositis (elderly fall d/t asymmetrical quadriceps involvement) and facio scapulo humeral dystrophy",
+        "Welander and Miyoshi",
+        "Myotonic dystrophy and CPEO"
+      ],
+      "ans": 1,
+      "exp": "Asymmetrical muscle weakness: inclusion body myositis (elderly fall d/t asymmetrical quadriceps involvement); facio scapulo humeral dystrophy (FSHD) (Book p640)"
+    },
+    {
+      "id": "MED-C46-41",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Pure distal myopathies listed are:",
+      "opts": [
+        "Inclusion body myositis, CPEO",
+        "Duchenne, Becker",
+        "Welander, Miyoshi, Nonaka",
+        "FSHD, myotonic dystrophy"
+      ],
+      "ans": 2,
+      "exp": "Pure distal myopathies: Welander; Miyoshi; Nonaka (Book p640)"
+    },
+    {
+      "id": "MED-C46-42",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Proximal UL + distal LL weakness pattern is seen in:",
+      "opts": [
+        "Myotonic dystrophy",
+        "Inclusion body myositis",
+        "CPEO",
+        "FSHD"
+      ],
+      "ans": 3,
+      "exp": "Proximal UL + Distal LL weakness: FSHD (Book p640)"
+    },
+    {
+      "id": "MED-C46-43",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Proximal LL + distal UL weakness pattern is seen in:",
+      "opts": [
+        "Myotonic dystrophy and inclusion body myositis",
+        "FSHD only",
+        "Welander only",
+        "CPEO only"
+      ],
+      "ans": 0,
+      "exp": "Proximal LL + Distal UL weakness: myotonic dystrophy; inclusion body myositis (Book p640)"
+    },
+    {
+      "id": "MED-C46-44",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Ptosis + ophthalmoplegia with dysarthria indicates:",
+      "opts": [
+        "Myotonic dystrophy",
+        "Oculo-pharyngeal muscle dystrophy",
+        "CPEO",
+        "FSHD"
+      ],
+      "ans": 1,
+      "exp": "Ptosis + ophthalmoplegia with + dysarthria : oculo-pharyngeal muscle dystrophy (Book p640)"
+    },
+    {
+      "id": "MED-C46-45",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Ptosis + ophthalmoplegia without dysarthria indicates:",
+      "opts": [
+        "Myotonic dystrophy",
+        "FSHD",
+        "CPEO (chronic progressive external ophthalmoplegia)",
+        "Oculo-pharyngeal muscle dystrophy"
+      ],
+      "ans": 2,
+      "exp": "Ptosis + ophthalmoplegia with - dysarthria : CPEO (Chronic progressive external ophthalmoplegia) (Book p640)"
+    },
+    {
+      "id": "MED-C46-46",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "B/L symmetrical ptosis with facial muscle involvement is seen in:",
+      "opts": [
+        "CPEO and oculo-pharyngeal dystrophy",
+        "Welander and Nonaka",
+        "Duchenne and Becker",
+        "FSHD and myotonic dystrophy"
+      ],
+      "ans": 3,
+      "exp": "B/L symmetrical ptosis with facial muscle involvement: FSHD; myotonic dystrophy (Book p640)"
+    },
+    {
+      "id": "MED-C46-47",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Trivial exercise causing abnormal fatigability without significant weakness indicates:",
+      "opts": [
+        "Metabolic (mitochondrial) myopathy",
+        "Rhabdomyolysis",
+        "Inflammatory myopathy",
+        "Channelopathy"
+      ],
+      "ans": 0,
+      "exp": "Metabolic (mitochondrial) myopathy : trivial exercise -> abnormal fatigability without significant weakness (Book p640)"
+    },
+    {
+      "id": "MED-C46-48",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Unaccustomed activity causing severe pain, cramps and high colored urine indicates:",
+      "opts": [
+        "Polymyalgia rheumatica",
+        "Rhabdomyolysis",
+        "Mitochondrial myopathy",
+        "Myotonia"
+      ],
+      "ans": 1,
+      "exp": "Rhabdomyolysis : unaccustomed activity -> severe pain + cramps + high colored urine (Book p640)"
+    },
+    {
+      "id": "MED-C46-49",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Overall cause hierarchy for myalgia printed is:",
+      "opts": [
+        "Neuropathic > muscular",
+        "Vascular > muscular",
+        "Orthopedic, rheumatological > muscular disorders",
+        "Muscular > rheumatological > orthopedic"
+      ],
+      "ans": 2,
+      "exp": "Myalgia cause: Orthopedic, rheumatological > muscular disorders (Book p640)"
+    },
+    {
+      "id": "MED-C46-50",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Muscular diseases with muscle pain listed are:",
+      "opts": [
+        "Duchenne and Becker",
+        "Congenital myopathies",
+        "Channelopathies only",
+        "Mitochondrial myopathy, inflammatory muscle disease (30%), rhabdomyolysis"
+      ],
+      "ans": 3,
+      "exp": "Muscular diseases with muscle pain: mitochondrial myopathy; inflammatory muscle disease (30%); rhabdomyolysis (Book p640)"
+    },
+    {
+      "id": "MED-C46-51",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Polymyalgia rheumatica is associated with:",
+      "opts": [
+        "Giant cell arteritis",
+        "Late onset RA",
+        "Myositis",
+        "Sarcoidosis"
+      ],
+      "ans": 0,
+      "exp": "Polymyalgia Rheumatica association : Giant cell arteritis (Book p640)"
+    },
+    {
+      "id": "MED-C46-52",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "D/d listed for polymyalgia rheumatica are:",
+      "opts": [
+        "Hypothyroidism",
+        "Late onset RA and myositis",
+        "Giant cell arteritis",
+        "Fibromyalgia only"
+      ],
+      "ans": 1,
+      "exp": "Polymyalgia rheumatica D/d : Late onset RA; myositis (Book p640)"
+    },
+    {
+      "id": "MED-C46-53",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "recall",
+      "q": "Clinical features of polymyalgia rheumatica are:",
+      "opts": [
+        "Muscle wasting with fasciculations",
+        "Trigger points with normal ESR",
+        "Early morning stiffness around shoulder, hip and pelvic girdle with ↑ ESR",
+        "Evening stiffness of small hand joints with normal ESR"
+      ],
+      "ans": 2,
+      "exp": "C/f: early morning stiffness around shoulder, hip, and pelvic girdle; ↑ ESR (Book p640)"
+    },
+    {
+      "id": "MED-C46-54",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "page": 640,
+      "fmt": "management",
+      "q": "Treatment printed for polymyalgia rheumatica is:",
+      "opts": [
+        "High dose steroids",
+        "NSAIDs only",
+        "Psychiatric therapy",
+        "Low dose steroids"
+      ],
+      "ans": 3,
+      "exp": "Rx : Low dose steroids (Book p640)"
+    },
+    {
+      "id": "MED-C46-55",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Sex ratio in fibromyalgia is:",
+      "opts": [
+        "F : m = 9 : 1",
+        "m : F = 9 : 1",
+        "F : m = 3 : 1",
+        "Equal"
+      ],
+      "ans": 0,
+      "exp": "Fibromyalgia: F : m = 9 : 1 (Book p641)"
+    },
+    {
+      "id": "MED-C46-56",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "The risk factor listed for fibromyalgia is:",
+      "opts": [
+        "Hypothyroidism",
+        "Stress",
+        "Trauma",
+        "Infection"
+      ],
+      "ans": 1,
+      "exp": "Risk factor : Stress (Book p641)"
+    },
+    {
+      "id": "MED-C46-57",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Clinical features of fibromyalgia include:",
+      "opts": [
+        "Fasciculations with denervation on EMG",
+        "Myoglobinuria",
+        "Easy fatigability, muscle pain, trigger points (+), normal muscle enzymes & ESR",
+        "Raised ESR with muscle wasting"
+      ],
+      "ans": 2,
+      "exp": "C/f: easy fatigability; muscle pain; trigger points (+); normal muscle enzymes & ESR (Book p641)"
+    },
+    {
+      "id": "MED-C46-58",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "management",
+      "q": "Treatment printed for fibromyalgia is:",
+      "opts": [
+        "Low dose steroids",
+        "Acetazolamide",
+        "Oral potassium",
+        "Psychiatric therapy"
+      ],
+      "ans": 3,
+      "exp": "Rx : Psychiatric therapy (Book p641)"
+    },
+    {
+      "id": "MED-C46-59",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Duration and needle EMG of cramps vs contractures are:",
+      "opts": [
+        "Cramps short and electrically active; contractures long and electrically silent",
+        "Cramps long and silent; contractures short and active",
+        "Both short and active",
+        "Both long and silent"
+      ],
+      "ans": 0,
+      "exp": "Cramps: short, electrically active; contractures: long, electrically silent (Book p641)"
+    },
+    {
+      "id": "MED-C46-60",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Causes of cramps listed are:",
+      "opts": [
+        "Myotonic dystrophy, paramyotonia",
+        "Dehydration, hyponatremia, amyotrophic lateral sclerosis (ALS), Duchenne muscular dystrophy",
+        "Emery-Dreifuss muscular dystrophy, mitochondrial myopathy",
+        "Hypernatremia, hyperkalemia"
+      ],
+      "ans": 1,
+      "exp": "Cramps causes: dehydration; hyponatremia; ALS; Duchenne muscular dystrophy (Book p641)"
+    },
+    {
+      "id": "MED-C46-61",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Causes of contractures listed are:",
+      "opts": [
+        "ALS and Duchenne",
+        "Hyperkalemic periodic paralysis",
+        "Emery-Dreifuss muscular dystrophy and mitochondrial myopathy",
+        "Dehydration and hyponatremia"
+      ],
+      "ans": 2,
+      "exp": "Contractures causes: Emery-Dreifuss muscular dystrophy; mitochondrial myopathy (Book p641)"
+    },
+    {
+      "id": "MED-C46-62",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Other symptoms listed in ALS are:",
+      "opts": [
+        "Contractures, pain, cramps, weakness with exercise",
+        "Myotonia and cataract",
+        "Ptosis and dysphagia",
+        "Cramps, atrophy, fasciculations, wasting"
+      ],
+      "ans": 3,
+      "exp": "Other symptoms in ALS: cramps; atrophy; fasciculations; wasting (Book p641)"
+    },
+    {
+      "id": "MED-C46-63",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Other symptoms in mitochondrial myopathies are:",
+      "opts": [
+        "Contractures, pain, cramps, weakness associated with exercise",
+        "Cramps, atrophy, fasciculations, wasting",
+        "Myalgia with trigger points",
+        "Fluctuating diurnal weakness"
+      ],
+      "ans": 0,
+      "exp": "Other symptoms in mitochondrial myopathies: contractures; pain; cramps; weakness - associated with exercise (Book p641)"
+    },
+    {
+      "id": "MED-C46-64",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Myotonia is defined as:",
+      "opts": [
+        "Weakness after repetitive movement",
+        "Impaired relaxation of muscle after forceful voluntary contraction",
+        "Impaired contraction after relaxation",
+        "Stiffness improving with cold"
+      ],
+      "ans": 1,
+      "exp": "Myotonia: impaired relaxation of muscle after forceful voluntary contraction (Book p641)"
+    },
+    {
+      "id": "MED-C46-65",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Effect of exercise and cold on myotonia symptoms is:",
+      "opts": [
+        "Both improve",
+        "Both worsen",
+        "Exercise improves; cold worsens",
+        "Exercise worsens; cold improves"
+      ],
+      "ans": 2,
+      "exp": "Myotonia: exercise improves; cold worsens (Book p641)"
+    },
+    {
+      "id": "MED-C46-66",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Effect of exercise and cold on paramyotonia symptoms is:",
+      "opts": [
+        "Exercise improves; cold worsens",
+        "Both improve",
+        "Exercise worsens; cold improves",
+        "Both worsen"
+      ],
+      "ans": 3,
+      "exp": "Paramyotonia: exercise worsens; cold worsens (Book p641)"
+    },
+    {
+      "id": "MED-C46-67",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "Examples under myotonia in the table are:",
+      "opts": [
+        "Myotonic dystrophy and hyperkalemic periodic paralysis (Na+ channelopathy)",
+        "Paramyotonia congenita (Na+ channelopathy)",
+        "Myotonic dystrophy only",
+        "Hypokalemic periodic paralysis"
+      ],
+      "ans": 0,
+      "exp": "Myotonia examples: 1. Myotonic Dystrophy 2. Hyperkalemic Periodic Paralysis (Na+ channelopathy) (Book p641)"
+    },
+    {
+      "id": "MED-C46-68",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "page": 641,
+      "fmt": "recall",
+      "q": "The example under paramyotonia in the table is:",
+      "opts": [
+        "McArdle's disease",
+        "Paramyotonia congenita (Na+ channelopathy)",
+        "Myotonic dystrophy",
+        "Hyperkalemic periodic paralysis"
+      ],
+      "ans": 1,
+      "exp": "Paramyotonia example: paramyotonia congenita (Na+ channelopathy) (Book p641)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U46-1",
+      "ch": 46,
+      "n": 1,
+      "title": "1. Pure Motor LMN Comparison, NMJ Disorders and Power Grades",
+      "sec": "Pure Motor LMN, NMJ Disorders & Power Grading",
+      "guide": "LMN disorders split into sensory-motor (radiculopathy, plexopathy, neuropathy) and pure motor disorders of anterior horn cells (motor neuron disease), muscle and neuromuscular junction (myasthenia gravis).\nAHC weakness shows wasting >>> weakness, asymmetry, distal > proximal upper limb painless distribution, absent reflexes and fasciculations; muscle weakness shows weakness > wasting in late stages, symmetry, proximal B/L limb painless-predominant distribution, late hyporeflexia and no fasciculations.\nNMJ disorders give fluctuating weakness with diurnal variation, weakness on repetitive movements, ophthalmoplegia + ptosis and masseter involvement causing chewing difficulties. The power table grades 5 to 0.",
+      "qs": [
+        "MED-C46-01",
+        "MED-C46-02",
+        "MED-C46-03",
+        "MED-C46-04",
+        "MED-C46-05",
+        "MED-C46-06",
+        "MED-C46-07",
+        "MED-C46-08",
+        "MED-C46-09",
+        "MED-C46-10",
+        "MED-C46-11",
+        "MED-C46-12",
+        "MED-C46-13",
+        "MED-C46-14",
+        "MED-C46-15",
+        "MED-C46-16",
+        "MED-C46-17",
+        "MED-C46-18",
+        "MED-C46-19"
+      ]
+    },
+    {
+      "id": "MED-U46-2",
+      "ch": 46,
+      "n": 2,
+      "title": "2. Muscle Etiology A and the Inherited Myopathy Classes",
+      "sec": "Muscle Etiology, Dystrophies & Myopathy Classes",
+      "guide": "Etiology A splits inherited (chronic) muscular dystrophies, congenital myopathies, metabolic myopathies and channelopathies of Na+/K+/Cl- from acquired (subacute > acute) inflammatory muscle disease, drugs, toxins, infections and endocrine (hypothyroidism).\nMuscular dystrophies lose structural proteins, are progressive and replace necrotic muscle with adipose tissue (Duchenne and Becker). Congenital myopathies lose contractile proteins with slow non-progressive weakness (central core, centronuclear, nemaline).\nMetabolic/mitochondrial myopathies alter carbohydrate or lipid metabolism with exercise-induced symptoms.",
+      "qs": [
+        "MED-C46-20",
+        "MED-C46-21",
+        "MED-C46-22",
+        "MED-C46-23",
+        "MED-C46-24",
+        "MED-C46-25",
+        "MED-C46-26",
+        "MED-C46-27",
+        "MED-C46-28"
+      ]
+    },
+    {
+      "id": "MED-U46-3",
+      "ch": 46,
+      "n": 3,
+      "title": "3. Episodic vs Persistent Matrix, Symptoms and Weakness Tasks",
+      "sec": "Episodic vs Persistent, Symptoms & Weakness Patterns",
+      "guide": "Inherited episodic muscle disease comprises rhabdomyolysis in glycogen storage disease type V (McArdle's), channelopathies, metabolic myopathy and NMJ disorders; inherited persistent is dystrophies (chronic); acquired episodic is rhabdomyolysis and acquired persistent is inflammatory muscle disease (acute/subacute).\nNegative symptoms are weakness, fatigue and exercise intolerance; positive symptoms are myalgia, cramps, contractures and myotonia. Myoglobinuria is a positive sign of rhabdomyolysis with high colored urine; muscle atrophy is a negative sign of late muscle disease.\nBilaterally symmetrical painless weakness is proximal (lower limbs: climbing stairs, rising from low chair/squatting; upper limbs: washing clothes, taking things off a rack above, putting hooks on a blouse) or distal (upper limbs: tear paper, screw something on, put a key in; lower limbs: wearing sandals).",
+      "qs": [
+        "MED-C46-29",
+        "MED-C46-30",
+        "MED-C46-31",
+        "MED-C46-32",
+        "MED-C46-33",
+        "MED-C46-34",
+        "MED-C46-35",
+        "MED-C46-36",
+        "MED-C46-37",
+        "MED-C46-38",
+        "MED-C46-39"
+      ]
+    },
+    {
+      "id": "MED-U46-4",
+      "ch": 46,
+      "n": 4,
+      "title": "4. Exception Patterns, Fatigue/Exercise Intolerance and Myalgia",
+      "sec": "Exceptions, Fatigue & Myalgia",
+      "guide": "Exceptions to symmetrical myopathy: asymmetrical muscle weakness in inclusion body myositis (elderly fall d/t asymmetrical quadriceps involvement) and FSHD; pure distal myopathies Welander, Miyoshi, Nonaka; proximal UL + distal LL in FSHD; proximal LL + distal UL in myotonic dystrophy and inclusion body myositis.\nPtosis with ophthalmoplegia plus dysarthria is oculo-pharyngeal muscle dystrophy and without dysarthria is CPEO; B/L symmetrical ptosis with facial muscle involvement occurs in FSHD and myotonic dystrophy.\nFatigue/exercise intolerance: mitochondrial myopathy gives abnormal fatigability without significant weakness on trivial exercise; rhabdomyolysis gives severe pain, cramps and high colored urine after unaccustomed activity. Myalgia is non-specific with orthopedic and rheumatological causes exceeding muscular; muscular causes with pain are mitochondrial myopathy, inflammatory muscle disease (30%) and rhabdomyolysis; polymyalgia rheumatica associates with giant cell arteritis, has late onset RA and myositis as D/d, early morning stiffness around shoulder, hip and pelvic girdle with raised ESR and responds to low dose steroids.",
+      "qs": [
+        "MED-C46-40",
+        "MED-C46-41",
+        "MED-C46-42",
+        "MED-C46-43",
+        "MED-C46-44",
+        "MED-C46-45",
+        "MED-C46-46",
+        "MED-C46-47",
+        "MED-C46-48",
+        "MED-C46-49",
+        "MED-C46-50",
+        "MED-C46-51",
+        "MED-C46-52",
+        "MED-C46-53",
+        "MED-C46-54"
+      ]
+    },
+    {
+      "id": "MED-U46-5",
+      "ch": 46,
+      "n": 5,
+      "title": "5. Fibromyalgia, Cramps vs Contractures and Myotonia vs Paramyotonia",
+      "sec": "Fibromyalgia, Cramps vs Contractures & Myotonia",
+      "guide": "Fibromyalgia affects females (F:m 9:1) with stress as risk factor, easy fatigability, muscle pain, positive trigger points and normal muscle enzymes and ESR; treatment is psychiatric therapy.\nCramps are short and electrically active on needle EMG (dehydration, hyponatremia, ALS, Duchenne muscular dystrophy) whereas contractures are long and electrically silent (Emery-Dreifuss muscular dystrophy, mitochondrial myopathy).\nALS adds cramps, atrophy, fasciculations and wasting; mitochondrial myopathies add contractures, pain, cramps and weakness associated with exercise. Myotonia is impaired relaxation after forceful voluntary contraction; it improves with exercise and worsens with cold (myotonic dystrophy, hyperkalemic periodic paralysis, Na+ channelopathy) while paramyotonia worsens with both (paramyotonia congenita, Na+ channelopathy).",
+      "qs": [
+        "MED-C46-55",
+        "MED-C46-56",
+        "MED-C46-57",
+        "MED-C46-58",
+        "MED-C46-59",
+        "MED-C46-60",
+        "MED-C46-61",
+        "MED-C46-62",
+        "MED-C46-63",
+        "MED-C46-64",
+        "MED-C46-65",
+        "MED-C46-66",
+        "MED-C46-67",
+        "MED-C46-68"
+      ]
+    }
+  ]
+}

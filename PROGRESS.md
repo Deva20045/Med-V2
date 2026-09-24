@@ -6,9 +6,31 @@ Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*,
 - Session branch: `arena/01a0d425-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 41 live chapters / 57 · 1942 questions / 183 units.** Chapters 42–57 remain `live:false`.
+- **Build status: 47 live chapters / 57 · 2363 questions / 211 units.** Chapters 48–57 remain `live:false`.
 
-## This release — Chapters 39, 40 and 41
+## This release — Chapters 42 to 47
+
+Six consecutive neurology chapters — LMN Approach Part 1, LMN Approach Part 2, Inherited Neuropathies, Guillain-Barre Syndrome, LMN Approach Part 3 and Muscular Dystrophies — were rendered line-to-line from the scans at 3× (`uploads/03.pdf` PDF54–61 = Book p618–625, PDF54 being a landscape sheet read upright via a 90° prerotate; `uploads/04.pdf` PDF1–20 = Book p626–645), source-ordered and made live. This completes the LMN approach to muscular dystrophies block.
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 42 | LMN Approach : Part 1 | 618–623 | 93 | 6 |
+| 43 | LMN Approach : Part 2 | 624–626 | 42 | 3 |
+| 44 | Inherited Neuropathies | 627–631 | 75 | 5 |
+| 45 | Guillain-Barre Syndrome | 632–636 | 78 | 5 |
+| 46 | LMN Approach : Part 3 | 637–641 | 68 | 5 |
+| 47 | Muscular Dystrophies | 642–645 | 65 | 4 |
+| **Release total** |  | **28 book pages** | **421** | **28** |
+
+### Quality and ordering contract delivered
+
+1. All 28 pages were read top-to-bottom in printed order at 3× (`.audit-render/r03_54_3x..r03_61_3x.png` and `.audit-render/r04_01_3x..r04_20_3x.png`), because the scans have no text layer. Visual extraction covered every heading, table cell, flowchart arm, timeline year, photograph caption, histology label, numeric root value, note, mnemonic and management dose in exact book order. Verified page map: 03.pdf PDF54 = p618 Ch42 start (landscape sheet, 90° prerotate), PDF59 = p623 Ch42 end, PDF60 = p624 Ch43 start, PDF61 = p625, 04.pdf PDF1 = p626 Ch43 end, PDF2 = p627 Ch44 start, PDF6 = p631 Ch44 end, PDF7 = p632 Ch45 start, PDF11 = p636 Ch45 end, PDF12 = p637 Ch46 start, PDF16 = p641 Ch46 end, PDF17 = p642 Ch47 start, PDF20 = p645 Ch47 end. No sheets missing in p618–645; the earlier "PDF54–61 = p618–622" guess in PAGE_MAP.md is superseded.
+2. Chapters 42–47 add **421 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **2471 mappings** for Chapters 2–47.
+3. Questions use no fill-up, matching or true/false worksheets; only recall, scenario, numeric, oddoneout and management formats are used, with plausible medical distractors and reasoning-first stems. Printed quirks (L5 ankle jerk row, "radical", "moto-sensory", "Dejerine sottas", "Common motor axonal potential", "compliment", "bathing suite", "ATP binding cascade protein", "phytanic oxidase", Chr 19 trinucleotide repeat) are quoted as printed and qualified in the audit.
+4. IDs are sequential `MED-C42-01..93`, `MED-C43-01..42`, `MED-C44-01..75`, `MED-C45-01..78`, `MED-C46-01..68`, `MED-C47-01..65`; question arrays are strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. All six chapters are embedded in the standalone app and live flags for 42–47 are set; 47/57 roadmap chapters are now live with 2363 questions.
+
+## Previous release — Chapters 39, 40 and 41
 
 Three neurology chapters — Seizure Semiology, Generalised Tonic-Clonic Seizure and CNS Infections — were rendered line-to-line from `uploads/03.pdf` at 3× zoom (PDF38–53 = Book p602–617), source-ordered and made live. This completes the seizure semiology to CNS infections block.
 
@@ -143,7 +165,9 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **03.pdf PDF38–43: p602–607 (Ch39)**
 - **03.pdf PDF44–48: p608–612 (Ch40)**
 - **03.pdf PDF49–53: p613–617 (Ch41)**
-- 03.pdf PDF54–61: p618–622 (Ch42 onward, not yet live); 04.pdf: p626 onward
+- **03.pdf PDF54–61: p618–625 (Ch42–43; PDF54 landscape, read upright via 90° prerotate)**
+- **04.pdf PDF1–20: p626–645 (Ch43 close–Ch47)**
+- 04.pdf PDF21–76: p646 onward (Ch48 onward, not yet live)
 
 ## Schema and order contract
 
@@ -167,6 +191,7 @@ python3 tools/generate_ch32.py           # Chapter 32
 python3 tools/generate_ch33_38.py        # Chapters 33-38
 python3 tools/generate_ch39_41.py        # Chapters 39 and 41
 python3 tools/generate_ch40.py           # Chapter 40
+python3 tools/generate_ch42_47.py        # Chapters 42-47
 python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-41)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
@@ -365,6 +390,34 @@ node tests/app_parsers.cjs
 | 41 | 4. Pathogenesis, Pneumococcus Features and Predisposing Factors | 615 | MED-C41-43–MED-C41-57 | 15 |
 | 41 | 5. Clinical Presentation, Meningeal Signs and LP Contraindications | 616–617 | MED-C41-58–MED-C41-78 | 21 |
 | 41 | 6. CSF Analysis, Treatment and Eosinophilic Meningitis | 617 | MED-C41-79–MED-C41-114 | 36 |
+| 42 | 1. Anatomy of Spinal Cord & LMN Tract | 618 | MED-C42-01–MED-C42-17 | 17 |
+| 42 | 2. Site of Lesion, Pathology and Radiculopathy | 619 | MED-C42-18–MED-C42-33 | 16 |
+| 42 | 3. Foot Drop, Upper Limb DTR Values, Neuropathy Patterns | 620 | MED-C42-34–MED-C42-52 | 19 |
+| 42 | 4. Polyneuropathy Types, Sensory Columns and Fibre Types | 621 | MED-C42-53–MED-C42-70 | 18 |
+| 42 | 5. Large vs Small Fibre Neuropathy | 622 | MED-C42-71–MED-C42-85 | 15 |
+| 42 | 6. Ganglionopathy | 623 | MED-C42-86–MED-C42-93 | 8 |
+| 43 | 1. Radiculopathies: Axonal vs Demyelinating Features and Causes | 624 | MED-C43-01–MED-C43-19 | 19 |
+| 43 | 2. Notes, ANS Predominant Neuropathies and Patterns of LMN Lesions | 625 | MED-C43-20–MED-C43-35 | 16 |
+| 43 | 3. Nerve Conduction Studies and the CMAP Trace | 626 | MED-C43-36–MED-C43-42 | 7 |
+| 44 | 1. Types of Inherited Neuropathy and CMT-1 vs CMT-2 | 627 | MED-C44-01–MED-C44-18 | 18 |
+| 44 | 2. CMT-4, Features of CMT-1 and Thickened Nerves | 628 | MED-C44-19–MED-C44-34 | 16 |
+| 44 | 3. Familial Amyloid Polyneuropathy and Porphyric Neuropathy | 629 | MED-C44-35–MED-C44-50 | 16 |
+| 44 | 4. Porphyric ANS and CNS Features, Tangier's and Refsum Disease | 630 | MED-C44-51–MED-C44-67 | 17 |
+| 44 | 5. Romberg's Sign, Wash Basin Sign, Fabry's and Autonomic Neuropathies | 631 | MED-C44-68–MED-C44-75 | 8 |
+| 45 | 1. Definition, Classification Subtypes and AIDP Pathophysiology | 632 | MED-C45-01–MED-C45-13 | 13 |
+| 45 | 2. Clinical Presentation, Examination, Progression and Prognosis | 633 | MED-C45-14–MED-C45-30 | 17 |
+| 45 | 3. Inciting Factors and Diagnostic Criteria | 634 | MED-C45-31–MED-C45-47 | 17 |
+| 45 | 4. Treatment, MFS/Bickerstaff Encephalitis and CIDP vs AIDP | 635 | MED-C45-48–MED-C45-65 | 18 |
+| 45 | 5. CIDP Affected Systems, POEMS Syndrome and MMN-CB | 636 | MED-C45-66–MED-C45-78 | 13 |
+| 46 | 1. Pure Motor LMN Comparison, NMJ Disorders and Power Grades | 637–638 | MED-C46-01–MED-C46-19 | 19 |
+| 46 | 2. Muscle Etiology A and the Inherited Myopathy Classes | 638 | MED-C46-20–MED-C46-28 | 9 |
+| 46 | 3. Episodic vs Persistent Matrix, Symptoms and Weakness Tasks | 639 | MED-C46-29–MED-C46-39 | 11 |
+| 46 | 4. Exception Patterns, Fatigue/Exercise Intolerance and Myalgia | 640 | MED-C46-40–MED-C46-54 | 15 |
+| 46 | 5. Fibromyalgia, Cramps vs Contractures and Myotonia vs Paramyotonia | 641 | MED-C46-55–MED-C46-68 | 14 |
+| 47 | 1. Structural Myopathies, Dystrophin Defect, DMD Timeline and Becker | 642 | MED-C47-01–MED-C47-19 | 19 |
+| 47 | 2. Limb Girdle, Emery Dreifuss, Facioscapulohumeral, Oculopharyngeal and Myotonic Dystrophy | 643 | MED-C47-20–MED-C47-35 | 16 |
+| 47 | 3. Myotonic Dystrophy Presentation and Metabolic/Mitochondrial Myopathies | 644 | MED-C47-36–MED-C47-50 | 15 |
+| 47 | 4. Channelopathies and the Periodic Paralyses | 645 | MED-C47-51–MED-C47-65 | 15 |
 
 ## Full roadmap
 
@@ -411,12 +464,12 @@ node tests/app_parsers.cjs
 | 39 | Seizure Semiology | 602 | **Live** |
 | 40 | Generalised Tonic-Clonic Seizure | 608 | **Live** |
 | 41 | CNS Infections | 613 | **Live** |
-| 42 | LMN Approach : Part 1 | 618 | Soon |
-| 43 | LMN Approach : Part 2 | 624 | Soon |
-| 44 | Inherited Neuropathies | 627 | Soon |
-| 45 | Guillain-Barre Syndrome | 632 | Soon |
-| 46 | LMN Approach : Part 3 | 637 | Soon |
-| 47 | Muscular Dystrophies | 642 | Soon |
+| 42 | LMN Approach : Part 1 | 618 | **Live** |
+| 43 | LMN Approach : Part 2 | 624 | **Live** |
+| 44 | Inherited Neuropathies | 627 | **Live** |
+| 45 | Guillain-Barre Syndrome | 632 | **Live** |
+| 46 | LMN Approach : Part 3 | 637 | **Live** |
+| 47 | Muscular Dystrophies | 642 | **Live** |
 | 48 | Myasthenia Gravis | 646 | Soon |
 | 49 | Amyotrophic Lateral Sclerosis | 650 | Soon |
 | 50 | Anatomy of Spinal Cord | 653 | Soon |

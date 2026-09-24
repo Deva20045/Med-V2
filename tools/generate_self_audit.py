@@ -48,16 +48,18 @@ def page_to_sheet(page):
         return f"03 PDF{page - 564}"  # 608=44 .. 612=48
     if 613 <= page <= 617:
         return f"03 PDF{page - 564}"  # 613=49 .. 617=53
-    if 618 <= page <= 622:
-        return f"03 PDF{page - 564}"  # 618=54 .. 622=58
+    if 618 <= page <= 625:
+        return f"03 PDF{page - 564}"  # 618=54 .. 625=61 (PDF54 read upright via 90 deg prerotate)
+    if 626 <= page <= 645:
+        return f"04 PDF{page - 625}"  # 626=1 .. 645=20
     return "?"
 
 
-page_to_pdf = {page: page_to_sheet(page) for page in range(377, 623)}
+page_to_pdf = {page: page_to_sheet(page) for page in range(377, 646)}
 
 out = []
-out.append("# Chapters 2–38 — visual self-audit gate\n")
-out.append("Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
+out.append("# Chapters 2–47 — visual self-audit gate\n")
+out.append("Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645), every sheet read line-to-line at 3× because the scans have no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
 out.append("- Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).")
 out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.")
@@ -118,6 +120,17 @@ out.append("| 474–475 | The antibody-to-complication map (anti-centromere/PAH,
 out.append("| 476 | Nintedanib plus MMF for SSc-ILD and bosentan as second line for Raynaud phenomenon are transcribed as printed indications. |")
 out.append("| 479 | The Gottron-papule frequency is printed as a small fraction glyph that cannot be read with confidence; the question on this lesion tests its morphology and site, not the frequency. |")
 out.append("| 481 | The rotated 'Jaccoud's arthropathy: also seen in Sjogren syndrome' annotation is transcribed as printed. |")
+out.append("| 618 | The LMN constituents figure prints the dorsal-root-ganglion callout with a glyph that reads like '(a)'; it is inventoried as callout 2 of the 1–7 chain. |")
+out.append("| 619 | The lower-limb root table prints the ankle jerk against L5 and dashes against L1/S1 DTR cells; questions quote the table as printed. |")
+out.append("| 619 | 'Worsens with cough or movement along the radical' retains the printed 'radical' (radicular). |")
+out.append("| 626 | The waveform caption prints 'Common motor axonal potential (CMAP)'; the standard expansion (compound muscle action potential) is noted in the explanation. |")
+out.append("| 627 | 'Hereditary moto-sensory neuropathy (HMSN)' retains the printed 'moto'. |")
+out.append("| 628 | 'Dejerine sottas disease' retains the printed spelling of Dejerine-Sottas. |")
+out.append("| 629 | 'Bathing suite pattern' retains the printed 'suite' (suit). |")
+out.append("| 630 | Tangier's defect prints 'ATP binding cascade protein'; the contemporary gene name (ABCA1/ATP binding cassette) is not substituted. |")
+out.append("| 630 | Refsum's enzyme prints 'phytanic oxidase'; the contemporary name (phytanoyl-CoA hydroxylase) is not substituted. |")
+out.append("| 632 | 'Activates compliment' retains the printed spelling of complement. |")
+out.append("| 643 | Myotonic dystrophy prints 'trinucleotide repeat disease of Chr 19'; the repeat is retained as printed. |")
 out.append("| 483 | The rotated dysphagia-frequency annotation beside inclusion body myositis was not legible; no question relies on it. Steroid-unresponsive disease and red-rimmed vacuoles are the tested points. |")
 out.append("| 484 | The '50/25/5' outcome split and the testicular sparing statement are printed source epidemiology. |")
 out.append("| 485 | The rotated 'HLA DRB1*03 — Lofgren syndrome (good prognosis)' annotation is read after rotation and transcribed as printed. |")
@@ -202,6 +215,13 @@ out.append("\n## Chapters 30–32 release table\n")
 out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
 out.append("|---:|---|---:|---:|---:|---:|")
 for n in range(30, 33):
+    c = next(ch for ch in chapters_data if ch['chapter'] == n)
+    out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
+
+out.append("\n## Chapters 42–47 release table\n")
+out.append("| Ch | Title | Printed pages | Questions | Units | Ledger mappings |")
+out.append("|---:|---|---:|---:|---:|---:|")
+for n in range(42, 48):
     c = next(ch for ch in chapters_data if ch['chapter'] == n)
     out.append(f"| {n} | {c['title']} | {c['pageRange'].replace('-', '–')} | {len(c['questions'])} | {len(c['units'])} | {ch_cov[n]} |")
 

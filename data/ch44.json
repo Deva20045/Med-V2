@@ -1,0 +1,1259 @@
+{
+  "chapter": 44,
+  "title": "Inherited Neuropathies",
+  "pageRange": "627-631",
+  "questions": [
+    {
+      "id": "MED-C44-01",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not an inherited demyelinating neuropathy on this page:",
+      "opts": [
+        "Familial amyloid polyneuropathy",
+        "Charcot-marie-tooth disease",
+        "Refsum's disease",
+        "CMTD"
+      ],
+      "ans": 0,
+      "exp": "Demyelinating neuropathy : CMTD and Refsum's disease; FAP is listed under axonal neuropathy (Book p627)"
+    },
+    {
+      "id": "MED-C44-02",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Inherited axonal neuropathies listed are:",
+      "opts": [
+        "CMT-1 only",
+        "Familial amyloid polyneuropathy, porphyria, Tangier's disease",
+        "CMTD and Refsum's disease",
+        "AIDP and GBS"
+      ],
+      "ans": 1,
+      "exp": "Types: Axonal neuropathy : FAP, Porphyria, Tangier's disease (Book p627)"
+    },
+    {
+      "id": "MED-C44-03",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not an inherited axonal neuropathy on this page:",
+      "opts": [
+        "Porphyria",
+        "Tangier's disease",
+        "Refsum's disease",
+        "Familial amyloid polyneuropathy"
+      ],
+      "ans": 2,
+      "exp": "Axonal: FAP, porphyria, Tangier's; Refsum's is listed under demyelinating (Book p627)"
+    },
+    {
+      "id": "MED-C44-04",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Familial amyloid polyneuropathy is caused by which mutation?",
+      "opts": [
+        "SOD1 mutation",
+        "Dystrophin deletion",
+        "Lamin mutation",
+        "Transthyretin mutation"
+      ],
+      "ans": 3,
+      "exp": "FAP: Transthyretin mutation (Book p627)"
+    },
+    {
+      "id": "MED-C44-05",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Wild type transthyretin amyloidosis is termed:",
+      "opts": [
+        "Senile systemic amyloidosis",
+        "Familial amyloid polyneuropathy",
+        "Primary AL amyloidosis",
+        "Secondary AA amyloidosis"
+      ],
+      "ans": 0,
+      "exp": "Wild type : Senile systemic amyloidosis (Book p627)"
+    },
+    {
+      "id": "MED-C44-06",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Mutant type transthyretin amyloidosis presents as:",
+      "opts": [
+        "Dialysis amyloidosis",
+        "Familial amyloid polyneuropathy",
+        "Senile systemic amyloidosis",
+        "AL amyloidosis"
+      ],
+      "ans": 1,
+      "exp": "Mutant type : Familial amyloid polyneuropathy (Book p627)"
+    },
+    {
+      "id": "MED-C44-07",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Acute neuropathies are predominantly:",
+      "opts": [
+        "Mixed without exception",
+        "Purely autonomic",
+        "Demyelinating (eg AIDP, GBS)",
+        "Axonal (eg AIDP, GBS)"
+      ],
+      "ans": 2,
+      "exp": "Note: Acute neuropathies are demyelinating (Predominantly): Eg : AIDP, GBS (Book p627)"
+    },
+    {
+      "id": "MED-C44-08",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "The axonal exception among acute neuropathies is:",
+      "opts": [
+        "AIDP",
+        "GBS",
+        "CIDP",
+        "Acute intermittent porphyria"
+      ],
+      "ans": 3,
+      "exp": "Exception : Acute intermittent porphyria - axonal (Book p627)"
+    },
+    {
+      "id": "MED-C44-09",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "CMT disease involves:",
+      "opts": [
+        "Combined motor and sensory involvement",
+        "Pure sensory involvement",
+        "Pure autonomic involvement",
+        "Pure motor involvement"
+      ],
+      "ans": 0,
+      "exp": "Charcot Marie Tooth Disease: combined motor and sensory involvement (Book p627)"
+    },
+    {
+      "id": "MED-C44-10",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "HSAN expands to which CMT variant?",
+      "opts": [
+        "Hereditary Sensorimotor Autonomic Neuropathy",
+        "Hereditary Sensory Autonomic Neuropathy, a variant of CMTD with autonomic features",
+        "Hereditary Spinal Axonal Neuropathy",
+        "Hereditary Sensory Axonal Neuronopathy"
+      ],
+      "ans": 1,
+      "exp": "HSAN : Hereditary Sensory Autonomic Neuropathy; variant of CMTD; presence of autonomic features (Book p627)"
+    },
+    {
+      "id": "MED-C44-11",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Inheritance of CMT-1 and CMT-2 as tabulated is:",
+      "opts": [
+        "AD for CMT-1 and X-linked for CMT-2",
+        "X-linked for both",
+        "Autosomal dominant (AD) for both",
+        "Autosomal recessive for both"
+      ],
+      "ans": 2,
+      "exp": "TYPES table: Inheritance Autosomal dominant (AD) spans CMT-1 and CMT-2 (Book p627)"
+    },
+    {
+      "id": "MED-C44-12",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "The involvement row of the CMT types table reads:",
+      "opts": [
+        "Hereditary pure motor neuropathy",
+        "Hereditary sensory neuronopathy",
+        "Hereditary autonomic neuropathy",
+        "Hereditary moto-sensory neuropathy (HMSN)"
+      ],
+      "ans": 3,
+      "exp": "Involvement: Hereditary moto-sensory neuropathy (HMSN) [sic moto] (Book p627)"
+    },
+    {
+      "id": "MED-C44-13",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Occurrence of CMT-1 vs CMT-2 is:",
+      "opts": [
+        "CMT-1 more common, CMT-2 less common",
+        "CMT-2 more common",
+        "Equally common",
+        "CMT-1 rare"
+      ],
+      "ans": 0,
+      "exp": "Occurrence: more common (CMT-1) vs less common (CMT-2) (Book p627)"
+    },
+    {
+      "id": "MED-C44-14",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Neuropathy type of CMT-1 vs CMT-2 is:",
+      "opts": [
+        "Axonal in both",
+        "Demyelinating disease vs axonal disease",
+        "Axonal disease vs demyelinating disease",
+        "Demyelinating in both"
+      ],
+      "ans": 1,
+      "exp": "Neuropathy: Demyelinating disease (CMT-1) vs Axonal disease (CMT-2) (Book p627)"
+    },
+    {
+      "id": "MED-C44-15",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Other features tabulated for CMT-1 are:",
+      "opts": [
+        "No nerve biopsy change",
+        "Isolated lower limb disease",
+        "Onion bulb formation in nerve biopsy and involvement of upper limb",
+        "Mild disease only"
+      ],
+      "ans": 2,
+      "exp": "Other features CMT-1: onion bulb formation in nerve biopsy; involvement of upper limb (Book p627)"
+    },
+    {
+      "id": "MED-C44-16",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Nerve thickening in the CMT types table is:",
+      "opts": [
+        "- in CMT-1 and + in CMT-2",
+        "+ in both",
+        "- in both",
+        "+ in CMT-1 and - in CMT-2"
+      ],
+      "ans": 3,
+      "exp": "Nerve thickening: + (CMT-1) vs - (CMT-2) (Book p627)"
+    },
+    {
+      "id": "MED-C44-17",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Onset of CMT-2 relative to CMT-1 is:",
+      "opts": [
+        "Later than CMT-1",
+        "Earlier than CMT-1",
+        "Identical to CMT-1",
+        "In infancy only"
+      ],
+      "ans": 0,
+      "exp": "Onset: Early (CMT-1) vs Later than CMT-1 (CMT-2) (Book p627)"
+    },
+    {
+      "id": "MED-C44-18",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "page": 627,
+      "fmt": "recall",
+      "q": "Deformities and areflexia rows of the CMT types table are printed as:",
+      "opts": [
+        "+ for CMT-1 and - for CMT-2",
+        "- and - for both types",
+        "+ and + for both types",
+        "- for CMT-1 and + for CMT-2"
+      ],
+      "ans": 1,
+      "exp": "Deformities: - / -; Areflexia: - / - as printed (Book p627)"
+    },
+    {
+      "id": "MED-C44-19",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "CMT-4 is also known as:",
+      "opts": [
+        "Miyoshi myopathy",
+        "Nonaka myopathy",
+        "Dejerine sottas disease",
+        "Welander disease"
+      ],
+      "ans": 2,
+      "exp": "CMT-4 : AKA Dejerine sottas disease [sic] (Book p628)"
+    },
+    {
+      "id": "MED-C44-20",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Inheritance and pathology of CMT-4 are:",
+      "opts": [
+        "X-linked with axonal neuropathy",
+        "Autosomal dominant with demyelinating neuropathy only",
+        "Mitochondrial with myopathy",
+        "AD/AR with congenital hypomyelinating neuropathy"
+      ],
+      "ans": 3,
+      "exp": "CMT-4 : AD/AR; congenital hypomyelinating neuropathy (Book p628)"
+    },
+    {
+      "id": "MED-C44-21",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "numeric",
+      "q": "The course of CMT-1 is described as:",
+      "opts": [
+        "Long, slow progressive history of 10-30 yrs",
+        "Rapid progression over weeks",
+        "Static from birth",
+        "Episodic relapsing course"
+      ],
+      "ans": 0,
+      "exp": "Features of CMT-1: long, slow progressive history : 10-30 yrs (Book p628)"
+    },
+    {
+      "id": "MED-C44-22",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "The m/c foot deformity presentation of CMT-1 is:",
+      "opts": [
+        "Pes planus",
+        "Pes cavus",
+        "Hammer toes alone",
+        "Club foot"
+      ],
+      "ans": 1,
+      "exp": "Foot deformity: pes cavus is m/c presentation (Book p628)"
+    },
+    {
+      "id": "MED-C44-23",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Besides pes cavus, which foot deformity is listed in CMT-1?",
+      "opts": [
+        "Talipes equinovarus",
+        "Hallux valgus",
+        "Hammer toes",
+        "Polydactyly"
+      ],
+      "ans": 2,
+      "exp": "Foot deformity: hammer toes (Book p628)"
+    },
+    {
+      "id": "MED-C44-24",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Nerves in CMT-1 on examination are:",
+      "opts": [
+        "Atrophic and impalpable",
+        "Normal in calibre",
+        "Tender cord-like only",
+        "Palpable, enlarged hypertrophic nerves"
+      ],
+      "ans": 3,
+      "exp": "Palpable, enlarged hypertrophic nerves (Book p628)"
+    },
+    {
+      "id": "MED-C44-25",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "numeric",
+      "q": "Mild kyphosis in CMT-1 occurs in what proportion of cases?",
+      "opts": [
+        "1/10th cases",
+        "1/2 of cases",
+        "1/3rd of cases",
+        "All cases"
+      ],
+      "ans": 0,
+      "exp": "Mild kyphosis (In 1/10th cases) (Book p628)"
+    },
+    {
+      "id": "MED-C44-26",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "scenario",
+      "q": "A CMT-1 patient reports no numbness or tingling yet exam shows lost vibration and position sense. How does the page reconcile this?",
+      "opts": [
+        "Pure small fibre loss",
+        "Absent, although large-fibre sensory signs (proprioception, fine touch, vibration) are positive",
+        "Prominent burning pain",
+        "Absent with absent sensory signs too"
+      ],
+      "ans": 1,
+      "exp": "Sensory features: no sensory symptoms; large-fibre sensory signs (+) (proprioception, fine touch, vibration etc.) (Book p628)"
+    },
+    {
+      "id": "MED-C44-27",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Motor features of CMT-1 include which distribution?",
+      "opts": [
+        "Axial predominance",
+        "Facial predominance",
+        "Distal > proximal with lower limb predominance and non-debilitating weakness",
+        "Proximal > distal with upper limb predominance"
+      ],
+      "ans": 2,
+      "exp": "Motor features: distal > proximal; lower limb predominance; non-debilitating weakness (Book p628)"
+    },
+    {
+      "id": "MED-C44-28",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "scenario",
+      "q": "A teenager presents with pes cavus, palpable thickened nerves, positive family history and slow motor conduction with normal amplitude and prolonged distal latency. Which diagnosis fits?",
+      "opts": [
+        "CMT-2",
+        "HSAN",
+        "CMT-4",
+        "CMT-1"
+      ],
+      "ans": 3,
+      "exp": "CMT-1 profile: pes cavus m/c, palpable hypertrophic nerves, family history (+), slow MCV, normal amplitude, prolonged distal latency (Book p628)"
+    },
+    {
+      "id": "MED-C44-29",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Nerve conduction in CMT-1 shows:",
+      "opts": [
+        "Slow motor conduction velocity with normal amplitude, prolonged distal latency and temporal dispersion",
+        "Normal velocity with ↓ amplitude",
+        "Conduction block only",
+        "Absent responses only"
+      ],
+      "ans": 0,
+      "exp": "Slow motor conduction velocity; normal amplitude, prolonged distal latency, presence of temporal dispersion (Book p628)"
+    },
+    {
+      "id": "MED-C44-30",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Distal weakness and wasting in CMT-1 produce which named leg appearance?",
+      "opts": [
+        "Wine bottle leg",
+        "Inverted champagne leg",
+        "Stork leg",
+        "Peg leg"
+      ],
+      "ans": 1,
+      "exp": "Distal weakness -> wasting -> inverted champagne leg (Book p628)"
+    },
+    {
+      "id": "MED-C44-31",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "Reflexes in CMT-1 are:",
+      "opts": [
+        "Normal reflexes",
+        "Ankle jerk preserved universally",
+        "Generalised hypo/areflexia with ankle jerk absent universally",
+        "Brisk reflexes with clonus"
+      ],
+      "ans": 2,
+      "exp": "Reflexes: generalised hypo/areflexia; ankle jerk absent universally (Book p628)"
+    },
+    {
+      "id": "MED-C44-32",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "The thickened nerves note lists:",
+      "opts": [
+        "Diabetes, uremia, HIV",
+        "Lead, dapsone, MMNCB",
+        "Fabry's, Tangier's, Refsum's",
+        "Leprosy, chronic inflammatory demyelinating polyneuropathy, charcot-marie-tooth disease"
+      ],
+      "ans": 3,
+      "exp": "Note thickened nerves: leprosy; chronic inflammatory demyelinating polyneuropathy; charcot-marie-tooth disease (Book p628)"
+    },
+    {
+      "id": "MED-C44-33",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "The histology image captioned on this page shows:",
+      "opts": [
+        "Onion bulb formation",
+        "Ragged red fibres",
+        "Endomysial inflammation",
+        "Grouped atrophy"
+      ],
+      "ans": 0,
+      "exp": "Image caption: Onion bulb formation (Book p628)"
+    },
+    {
+      "id": "MED-C44-34",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "page": 628,
+      "fmt": "recall",
+      "q": "The two clinical photographs beside the CMT-1 text are captioned:",
+      "opts": [
+        "Hatchet facies and ptosis",
+        "Pes cavus and inverted champagne leg",
+        "Hammer toes and scoliosis",
+        "Winging of scapula and contractures"
+      ],
+      "ans": 1,
+      "exp": "Image captions: Pes cavus; Inverted champagne leg (Book p628)"
+    },
+    {
+      "id": "MED-C44-35",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Familial amyloid polyneuropathy is caused by:",
+      "opts": [
+        "Amyloid A protein",
+        "Immunoglobulin light chains only",
+        "Mutant transthyretin",
+        "Wild type transthyretin only"
+      ],
+      "ans": 2,
+      "exp": "FAP: caused d/t mutant transthyretin (Book p629)"
+    },
+    {
+      "id": "MED-C44-36",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "The neuropathy of FAP is:",
+      "opts": [
+        "Demyelinating motor neuropathy",
+        "Pure sensory ganglionopathy",
+        "Pure autonomic neuropathy",
+        "Axonal sensory-motor polyneuropathy"
+      ],
+      "ans": 3,
+      "exp": "FAP: axonal sensory-motor polyneuropathy (Book p629)"
+    },
+    {
+      "id": "MED-C44-37",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Which system involvement is marked positive in FAP?",
+      "opts": [
+        "ANS involvement (+)",
+        "CNS involvement only",
+        "No autonomic involvement",
+        "Spinal cord involvement"
+      ],
+      "ans": 0,
+      "exp": "FAP: ANS involvement (+) (Book p629)"
+    },
+    {
+      "id": "MED-C44-38",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "FAP neuropathy is characteristically:",
+      "opts": [
+        "Motor only",
+        "Painful with large + small fibre symptoms",
+        "Painless with large fibre only",
+        "Painless with small fibre only"
+      ],
+      "ans": 1,
+      "exp": "FAP: painful neuropathy; large + small fibre symptoms (Book p629)"
+    },
+    {
+      "id": "MED-C44-39",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "The neurovisceral manifestation of porphyric neuropathy is:",
+      "opts": [
+        "Hereditary coproporphyria",
+        "Porphyria cutanea tarda",
+        "Acute intermittent porphyria",
+        "Variegate porphyria"
+      ],
+      "ans": 2,
+      "exp": "Manifestations: Neurovisceral = Acute Intermittent Porphyria (Book p629)"
+    },
+    {
+      "id": "MED-C44-40",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Cutaneous porphyrias listed as less common are:",
+      "opts": [
+        "AIP and PCT",
+        "AIP only",
+        "Erythropoietic protoporphyria only",
+        "Variegate porphyria and hereditary coproporphyria"
+      ],
+      "ans": 3,
+      "exp": "Cutaneous: less common; includes variegate porphyria, hereditary coproporphyria (Book p629)"
+    },
+    {
+      "id": "MED-C44-41",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Skin features of cutaneous porphyria listed are:",
+      "opts": [
+        "Blisters, hyperpigmentation, hypertrichosis, increased skin fragility",
+        "Erythema migrans and vesicles",
+        "Urticaria and angioedema",
+        "Palpable purpura only"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous: blisters, hyperpigmentation, hypertrichosis, increased skin fragility (Book p629)"
+    },
+    {
+      "id": "MED-C44-42",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Inheritance of porphyric neuropathy is:",
+      "opts": [
+        "Mitochondrial",
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked recessive"
+      ],
+      "ans": 1,
+      "exp": "Features: autosomal dominant (Book p629)"
+    },
+    {
+      "id": "MED-C44-43",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "System involvement in porphyric neuropathy is:",
+      "opts": [
+        "CNS only",
+        "ANS only",
+        "ANS (predominant) + PNS + CNS",
+        "PNS only"
+      ],
+      "ans": 2,
+      "exp": "ANS (Predominant) + PNS + CNS involvement (Book p629)"
+    },
+    {
+      "id": "MED-C44-44",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Demographics of porphyric neuropathy are:",
+      "opts": [
+        "Males > females, age 6th decade",
+        "Children only, chronic onset",
+        "Equal sex, chronic onset",
+        "Females > males, age 3rd-4th decade, acute onset"
+      ],
+      "ans": 3,
+      "exp": "Acute onset; females > males; age 3rd-4th decade (Book p629)"
+    },
+    {
+      "id": "MED-C44-45",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "The precipitating factor listed for porphyric attacks is:",
+      "opts": [
+        "Menstruation",
+        "High carbohydrate meals",
+        "Cold exposure",
+        "Exercise"
+      ],
+      "ans": 0,
+      "exp": "Precipitating factors : menstruation (Book p629)"
+    },
+    {
+      "id": "MED-C44-46",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "The most frequent GIT symptom in porphyric neuropathy is:",
+      "opts": [
+        "Dysphagia",
+        "Acute abdominal pain, generalised/localised and colicky/non-colicky",
+        "Painless constipation only",
+        "Nausea only"
+      ],
+      "ans": 1,
+      "exp": "GIT: acute abdominal pain (most frequent symptoms), generalised/localised, colicky/non-colicky (Book p629)"
+    },
+    {
+      "id": "MED-C44-47",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Other GIT features listed with the abdominal pain are:",
+      "opts": [
+        "GI bleeding and melena",
+        "Dysphagia and reflux",
+        "Constipation and nausea",
+        "Diarrhoea and vomiting"
+      ],
+      "ans": 2,
+      "exp": "GIT: constipation; nausea (Book p629)"
+    },
+    {
+      "id": "MED-C44-48",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "scenario",
+      "q": "A porphyric patient develops acute weakness that is proximal-predominant with rare sensory signs. How does the page characterise this neuropathy?",
+      "opts": [
+        "Chronic demyelinating distal",
+        "Chronic axonal distal",
+        "Pure sensory",
+        "Acute axonal with proximal predominant involvement"
+      ],
+      "ans": 3,
+      "exp": "Neuropathy: acute axonal; proximal involvement (predominant) (Book p629)"
+    },
+    {
+      "id": "MED-C44-49",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Sensory involvement in porphyric neuropathy is:",
+      "opts": [
+        "Rare, with glove & stockings and bathing suite pattern",
+        "Common and distal",
+        "Absent always",
+        "Proximal only"
+      ],
+      "ans": 0,
+      "exp": "Sensory involvement (Rare): glove & stockings pattern, bathing suite pattern [sic] (Book p629)"
+    },
+    {
+      "id": "MED-C44-50",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "page": 629,
+      "fmt": "recall",
+      "q": "Symmetry and limb predominance of porphyric neuropathy are:",
+      "opts": [
+        "Symmetrical; axial only",
+        "Symmetrical > asymmetrical (rare); upper limb > lower limb",
+        "Asymmetrical > symmetrical; lower limb > upper limb",
+        "Always asymmetrical; upper limb only"
+      ],
+      "ans": 1,
+      "exp": "Symmetrical > Asymmetrical (Rare); Upper Limb > Lower Limb (Book p629)"
+    },
+    {
+      "id": "MED-C44-51",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Which feature group is called the hallmark of porphyric neuropathy?",
+      "opts": [
+        "GIT features",
+        "Skin features",
+        "ANS features",
+        "CNS features"
+      ],
+      "ans": 2,
+      "exp": "ANS features : Hallmark (Book p630)"
+    },
+    {
+      "id": "MED-C44-52",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "ANS features of porphyric neuropathy include:",
+      "opts": [
+        "Persistent bradycardia only",
+        "Labile hypotension",
+        "Anhidrosis only",
+        "Orthostatic hypotension, erectile dysfunction, urinary incontinence"
+      ],
+      "ans": 3,
+      "exp": "ANS: orthostatic hypotension, erectile dysfunction, urinary incontinence (Book p630)"
+    },
+    {
+      "id": "MED-C44-53",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Heart rate pattern in porphyric ANS involvement is:",
+      "opts": [
+        "Persistent tachycardia > bradycardia",
+        "Persistent bradycardia > tachycardia",
+        "Normal rate always",
+        "Sinus arrest only"
+      ],
+      "ans": 0,
+      "exp": "Persistent tachycardia > Bradycardia (Book p630)"
+    },
+    {
+      "id": "MED-C44-54",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Labile hypertension in porphyria can lead to:",
+      "opts": [
+        "Cerebral venous thrombosis",
+        "Hypertensive encephalopathy : PRES",
+        "Hypotensive shock",
+        "Subarachnoid haemorrhage"
+      ],
+      "ans": 1,
+      "exp": "Labile hypertension -> Hypertensive encephalopathy : PRES (Book p630)"
+    },
+    {
+      "id": "MED-C44-55",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "CNS features of porphyric neuropathy include:",
+      "opts": [
+        "Chorea and athetosis",
+        "Parkinsonism",
+        "Mild neuropsychiatric symptoms and seizure",
+        "Severe dementia and coma always"
+      ],
+      "ans": 2,
+      "exp": "CNS features: mild neuropsychiatric symptoms; seizure (Book p630)"
+    },
+    {
+      "id": "MED-C44-56",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Neuropathy bias in porphyric CNS involvement is:",
+      "opts": [
+        "Sensory > motor",
+        "Pure sensory",
+        "Pure autonomic",
+        "Motor > sensory"
+      ],
+      "ans": 3,
+      "exp": "Neuropathy : motor > Sensory (Book p630)"
+    },
+    {
+      "id": "MED-C44-57",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Facial and bulbar weakness in porphyria may progress to:",
+      "opts": [
+        "Flaccid quadriparesis with respiratory involvement (GBS-like)",
+        "Spastic quadriparesis with brisk reflexes",
+        "Isolated ophthalmoplegia",
+        "Locked-in syndrome"
+      ],
+      "ans": 0,
+      "exp": "Facial, bulbar weakness -> flaccid quadriparesis with respiratory involvement (GBS-like) (Book p630)"
+    },
+    {
+      "id": "MED-C44-58",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Rapidly progressive muscle wasting in porphyria implies involvement of:",
+      "opts": [
+        "Muscle membrane",
+        "Anterior horn cell",
+        "Dorsal root ganglion",
+        "Neuromuscular junction"
+      ],
+      "ans": 1,
+      "exp": "Rapidly progressive muscle wasting : involvement of anterior horn cell (Book p630)"
+    },
+    {
+      "id": "MED-C44-59",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "The others row links porphyria to which electrolyte problem?",
+      "opts": [
+        "Hyperkalemia",
+        "Hypocalcemia",
+        "SIADH -> hyponatremia",
+        "Diabetes insipidus -> hypernatremia"
+      ],
+      "ans": 2,
+      "exp": "Others : SIADH -> Hyponatremia (Book p630)"
+    },
+    {
+      "id": "MED-C44-60",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "The motor neuropathy note lists:",
+      "opts": [
+        "Ganglionopathy causes",
+        "Small fibre causes",
+        "ANS predominant causes",
+        "Lead, dapsone, multifocal motor neuropathy with conduction block (MMNCB)"
+      ],
+      "ans": 3,
+      "exp": "Note motor neuropathy: lead, dapsone, multifocal motor neuropathy with conduction block (MMNCB) (Book p630)"
+    },
+    {
+      "id": "MED-C44-61",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Predominantly motor involvement is listed for:",
+      "opts": [
+        "GBS, diphtheria, porphyria",
+        "Diabetes, uremia, HIV",
+        "Fabry's, Tangier's, Refsum's",
+        "Leprosy, sarcoidosis, vasculitis"
+      ],
+      "ans": 0,
+      "exp": "Predominantly motor involvement : GBS, diphtheria, porphyria (Book p630)"
+    },
+    {
+      "id": "MED-C44-62",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Inheritance of Tangier's disease is:",
+      "opts": [
+        "Mitochondrial",
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked recessive"
+      ],
+      "ans": 1,
+      "exp": "Tangier's disease: autosomal recessive (Book p630)"
+    },
+    {
+      "id": "MED-C44-63",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Tangier's disease defect and lipid effect are:",
+      "opts": [
+        "Defect in ABCA1 -> ↑ LDL",
+        "Defect in phytanic oxidase -> ↓ VLDL",
+        "Defect in ATP binding cascade protein -> ↓ HDL",
+        "Defect in lipoprotein lipase -> ↑ HDL"
+      ],
+      "ans": 2,
+      "exp": "Defect in ATP binding cascade protein [sic] -> ↓ HDL (Book p630)"
+    },
+    {
+      "id": "MED-C44-64",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "The tonsillar sign of Tangier's disease is:",
+      "opts": [
+        "White tonsillar exudate",
+        "Tonsillar hypertrophy only",
+        "Absent tonsils",
+        "Orange tonsil"
+      ],
+      "ans": 3,
+      "exp": "Orange tonsil (Book p630)"
+    },
+    {
+      "id": "MED-C44-65",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Neuropathy pattern in Tangier's disease is:",
+      "opts": [
+        "Axonal asymmetric mononeuropathy",
+        "Demyelinating symmetrical polyneuropathy",
+        "Pure sensory ganglionopathy",
+        "Small fibre only"
+      ],
+      "ans": 0,
+      "exp": "Tangier's: axonal; asymmetric mononeuropathy (Book p630)"
+    },
+    {
+      "id": "MED-C44-66",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "Pathology of Refsum disease is:",
+      "opts": [
+        "Axonal with hexosaminidase deficiency",
+        "Demyelinating disease with defect in phytanic oxidase enzyme -> α oxidation defect",
+        "Axonal disease with defect in galactocerebrosidase",
+        "Demyelinating with aryl sulfatase A deficiency"
+      ],
+      "ans": 1,
+      "exp": "Refsum: demyelinating disease; defect in phytanic oxidase enzyme -> α oxidation defect (Book p630)"
+    },
+    {
+      "id": "MED-C44-67",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "page": 630,
+      "fmt": "recall",
+      "q": "The Refsum disease triad is:",
+      "opts": [
+        "Ichthyosis, ataxia, cataract",
+        "Cardiomyopathy, ataxia, neuropathy",
+        "Retinitis pigmentosa, cerebellar ataxia (Romberg sign +ve), peripheral neuropathy",
+        "Optic atrophy, deafness, neuropathy"
+      ],
+      "ans": 2,
+      "exp": "Triad: retinitis pigmentosa; cerebellar ataxia : Romberg sign +ve; peripheral neuropathy (Book p630)"
+    },
+    {
+      "id": "MED-C44-68",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "The four components of Romberg's sign listed are:",
+      "opts": [
+        "Vision, hearing, touch, pain",
+        "Cerebellum, vestibule, cortex, cord",
+        "Position, vibration, touch, temperature",
+        "Semicircular canal, vestibulo-cerebellar fibres, visual stimulus, proprioception"
+      ],
+      "ans": 3,
+      "exp": "Romberg's sign components: semicircular canal; vestibulo-cerebellar fibres; visual stimulus; proprioception (Book p631)"
+    },
+    {
+      "id": "MED-C44-69",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "Instructions 1 and 2 to the patient (stand with mild flexed posture, hands close to body) eliminate which components?",
+      "opts": [
+        "Semicircular canal and vestibulo-cerebellar fibres",
+        "Visual stimulus and proprioception",
+        "Proprioception only",
+        "Vision only"
+      ],
+      "ans": 0,
+      "exp": "Instructions 1-2 eliminate semicircular canal and vestibulo-cerebellar fibres (Book p631)"
+    },
+    {
+      "id": "MED-C44-70",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "Instruction 3 (eyes closed) eliminates which component?",
+      "opts": [
+        "Vestibulo-cerebellar fibres",
+        "Visual stimulus",
+        "Proprioception",
+        "Semicircular canal"
+      ],
+      "ans": 1,
+      "exp": "Instruction 3 (eyes closed) eliminates visual stimulus (Book p631)"
+    },
+    {
+      "id": "MED-C44-71",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "scenario",
+      "q": "A patient stands with mild flexed posture and hands close to body, then closes the eyes and sways. Which component has the manoeuvre isolated?",
+      "opts": [
+        "Vestibular function",
+        "Cerebellar function",
+        "Proprioception",
+        "Vision"
+      ],
+      "ans": 2,
+      "exp": "Remaining component after eliminations: proprioception (Book p631)"
+    },
+    {
+      "id": "MED-C44-72",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "The wash basin sign chain is:",
+      "opts": [
+        "Proper posture + vision -> compensation -> no fall",
+        "Improper posture + vision -> cerebellar disorder -> fall",
+        "No posture change + eye closure -> vestibular fall",
+        "Improper posture + no visual component -> posterior column tract disorder -> no compensation -> fall"
+      ],
+      "ans": 3,
+      "exp": "Wash basin sign: improper posture + no visual component -> posterior column tract disorder -> no compensation -> fall (Book p631)"
+    },
+    {
+      "id": "MED-C44-73",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "Fabry's disease combines angiokeratoma with which painful feature?",
+      "opts": [
+        "Painful acroparesthesia (painful small fibre neuropathy)",
+        "Painless numbness",
+        "Muscle cramps only",
+        "Joint contractures"
+      ],
+      "ans": 0,
+      "exp": "Angiokeratoma + painful acroparesthesia : painful small fibre neuropathy (Book p631)"
+    },
+    {
+      "id": "MED-C44-74",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "Other Fabry's disease features listed are:",
+      "opts": [
+        "Hepatosplenomegaly only",
+        "Digital paresthesia, severe ANS symptoms, axonal pathology, renal manifestation",
+        "Demyelination and optic atrophy",
+        "Large fibre only with no ANS"
+      ],
+      "ans": 1,
+      "exp": "Fabry's: digital paresthesia; severe ANS symptoms; axonal; renal manifestation (Book p631)"
+    },
+    {
+      "id": "MED-C44-75",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "page": 631,
+      "fmt": "recall",
+      "q": "Autonomic neuropathies are seen in which list?",
+      "opts": [
+        "Leprosy, HIV, sarcoidosis",
+        "CMT-1, Refsum's, Tangier's",
+        "Diabetes, amyloidosis, porphyria, Fabry, vincristine",
+        "Lead, dapsone, MMNCB"
+      ],
+      "ans": 2,
+      "exp": "Autonomic neuropathies seen in: diabetes; amyloidosis; porphyria; Fabry; vincristine (Book p631)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U44-1",
+      "ch": 44,
+      "n": 1,
+      "title": "1. Types of Inherited Neuropathy and CMT-1 vs CMT-2",
+      "sec": "Inherited Neuropathy Types & CMT Types",
+      "guide": "Demyelinating inherited neuropathies are CMTD and Refsum's; axonal are FAP (transthyretin: wild type senile systemic amyloidosis, mutant FAP), porphyria and Tangier's.\nAcute neuropathies are predominantly demyelinating (AIDP, GBS) with acute intermittent porphyria the axonal exception.\nCMT combines motor and sensory involvement (HMSN); HSAN is its autonomic variant. CMT-1 and CMT-2 are both autosomal dominant; CMT-1 is more common, demyelinating with onion bulbs, nerve thickening and early onset, CMT-2 axonal, mild and later.",
+      "qs": [
+        "MED-C44-01",
+        "MED-C44-02",
+        "MED-C44-03",
+        "MED-C44-04",
+        "MED-C44-05",
+        "MED-C44-06",
+        "MED-C44-07",
+        "MED-C44-08",
+        "MED-C44-09",
+        "MED-C44-10",
+        "MED-C44-11",
+        "MED-C44-12",
+        "MED-C44-13",
+        "MED-C44-14",
+        "MED-C44-15",
+        "MED-C44-16",
+        "MED-C44-17",
+        "MED-C44-18"
+      ]
+    },
+    {
+      "id": "MED-U44-2",
+      "ch": 44,
+      "n": 2,
+      "title": "2. CMT-4, Features of CMT-1 and Thickened Nerves",
+      "sec": "CMT-4, CMT-1 Features & Thickened Nerves",
+      "guide": "CMT-4 (Dejerine sottas) is AD/AR congenital hypomyelinating neuropathy. CMT-1 has a long slow 10-30 year course with pes cavus as the m/c presentation, hammer toes, palpable hypertrophic nerves, positive family history and mild kyphosis in 1/10th.\nSensory symptoms are absent although large-fibre signs are positive; motor disease is distal > proximal, lower limb predominant, non-debilitating with slow conduction, normal amplitude, prolonged distal latency and temporal dispersion, ending in inverted champagne leg.\nReflexes show generalised hypo/areflexia with ankle jerk universally absent; thickened nerves occur in leprosy, CIDP and CMT.",
+      "qs": [
+        "MED-C44-19",
+        "MED-C44-20",
+        "MED-C44-21",
+        "MED-C44-22",
+        "MED-C44-23",
+        "MED-C44-24",
+        "MED-C44-25",
+        "MED-C44-26",
+        "MED-C44-27",
+        "MED-C44-28",
+        "MED-C44-29",
+        "MED-C44-30",
+        "MED-C44-31",
+        "MED-C44-32",
+        "MED-C44-33",
+        "MED-C44-34"
+      ]
+    },
+    {
+      "id": "MED-U44-3",
+      "ch": 44,
+      "n": 3,
+      "title": "3. Familial Amyloid Polyneuropathy and Porphyric Neuropathy",
+      "sec": "Familial Amyloid & Porphyric Neuropathy",
+      "guide": "FAP is mutant transthyretin axonal sensory-motor polyneuropathy with ANS involvement, painful neuropathy and large + small fibre symptoms.\nPorphyric neuropathy manifests as neurovisceral (AIP) or less common cutaneous (variegate, hereditary coproporphyria with blisters, hyperpigmentation, hypertrichosis, skin fragility).\nIt is autosomal dominant with predominant ANS plus PNS and CNS involvement, acute onset, females > males, 3rd-4th decade and menstruation as precipitant; GIT acute abdominal pain is the most frequent symptom and neuropathy is acute axonal, proximal predominant with rare sensory glove-and-stocking or bathing suite pattern.",
+      "qs": [
+        "MED-C44-35",
+        "MED-C44-36",
+        "MED-C44-37",
+        "MED-C44-38",
+        "MED-C44-39",
+        "MED-C44-40",
+        "MED-C44-41",
+        "MED-C44-42",
+        "MED-C44-43",
+        "MED-C44-44",
+        "MED-C44-45",
+        "MED-C44-46",
+        "MED-C44-47",
+        "MED-C44-48",
+        "MED-C44-49",
+        "MED-C44-50"
+      ]
+    },
+    {
+      "id": "MED-U44-4",
+      "ch": 44,
+      "n": 4,
+      "title": "4. Porphyric ANS and CNS Features, Tangier's and Refsum Disease",
+      "sec": "Porphyric ANS/CNS, Tangier & Refsum",
+      "guide": "ANS features are the hallmark of porphyric neuropathy: orthostatic hypotension, erectile dysfunction, urinary incontinence, persistent tachycardia > bradycardia and labile hypertension leading to hypertensive encephalopathy (PRES).\nCNS features include mild neuropsychiatric symptoms, seizures, motor > sensory neuropathy, facial and bulbar weakness progressing to GBS-like flaccid quadriparesis with respiratory involvement, and rapidly progressive wasting from anterior horn cell involvement; SIADH causes hyponatremia.\nTangier's is autosomal recessive with an ATP binding cascade protein defect, low HDL, orange tonsil, axonal asymmetric mononeuropathy. Refsum's is demyelinating from a phytanic oxidase (alpha-oxidation) defect with the triad retinitis pigmentosa, cerebellar ataxia and peripheral neuropathy.",
+      "qs": [
+        "MED-C44-51",
+        "MED-C44-52",
+        "MED-C44-53",
+        "MED-C44-54",
+        "MED-C44-55",
+        "MED-C44-56",
+        "MED-C44-57",
+        "MED-C44-58",
+        "MED-C44-59",
+        "MED-C44-60",
+        "MED-C44-61",
+        "MED-C44-62",
+        "MED-C44-63",
+        "MED-C44-64",
+        "MED-C44-65",
+        "MED-C44-66",
+        "MED-C44-67"
+      ]
+    },
+    {
+      "id": "MED-U44-5",
+      "ch": 44,
+      "n": 5,
+      "title": "5. Romberg's Sign, Wash Basin Sign, Fabry's and Autonomic Neuropathies",
+      "sec": "Romberg, Fabry & Autonomic Neuropathies",
+      "guide": "Romberg's sign components are semicircular canal, vestibulo-cerebellar fibres, visual stimulus and proprioception; standing with mild flexed posture and hands close to body eliminates the first two and eye closure eliminates vision, isolating proprioception.\nThe wash basin sign shows improper posture plus no visual component with posterior column tract disorder giving no compensation and a fall.\nFabry's disease shows angiokeratoma with painful acroparesthesia (painful small fibre neuropathy), digital paresthesia, severe ANS symptoms, axonal pathology and renal manifestation; autonomic neuropathies are seen in diabetes, amyloidosis, porphyria, Fabry and vincristine.",
+      "qs": [
+        "MED-C44-68",
+        "MED-C44-69",
+        "MED-C44-70",
+        "MED-C44-71",
+        "MED-C44-72",
+        "MED-C44-73",
+        "MED-C44-74",
+        "MED-C44-75"
+      ]
+    }
+  ]
+}

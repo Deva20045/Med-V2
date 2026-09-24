@@ -1,0 +1,711 @@
+{
+  "chapter": 43,
+  "title": "LMN Approach : Part 2",
+  "pageRange": "624-626",
+  "questions": [
+    {
+      "id": "MED-C43-01",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "The prototypes printed for axonal neuropathy and demyelinating radiculoneuropathy are:",
+      "opts": [
+        "Porphyria and CIDP respectively",
+        "DM and GBS respectively",
+        "GBS and DM respectively",
+        "CIDP and AIDP respectively"
+      ],
+      "ans": 1,
+      "exp": "Features table prototypes: Axonal Neuropathy (prototype : DM); Demyelinating radiculoneuropathy prototype : GBS (Book p624)"
+    },
+    {
+      "id": "MED-C43-02",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "scenario",
+      "q": "A 58-year-old diabetic develops symmetrical distal sensory-motor loss evolving over many months. Which onset pattern and exception does the book attach to this axonal prototype?",
+      "opts": [
+        "Always acute",
+        "Always chronic",
+        "Gradual and insidious, exception porphyria (acute)",
+        "Acute or subacute, exception CIDP (chronic)"
+      ],
+      "ans": 2,
+      "exp": "Axonal: usually gradual and insidious onset, Exception : Porphyria (Acute) (Book p624)"
+    },
+    {
+      "id": "MED-C43-03",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Onset of demyelinating radiculoneuropathy is usually:",
+      "opts": [
+        "Gradual and insidious, exception porphyria (acute)",
+        "Insidious without exception",
+        "Hyperacute within hours only",
+        "Acute or subacute, exception CIDP (chronic)"
+      ],
+      "ans": 3,
+      "exp": "Demyelinating: usually acute or subacute, Exception : CIDP (Chronic) (Book p624)"
+    },
+    {
+      "id": "MED-C43-04",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Which fibres and distribution are affected early in axonal neuropathy?",
+      "opts": [
+        "Large and long axons early, hence initially lower extremities; small fibres",
+        "Large fibers diffusely, not always distal",
+        "Proximal roots first",
+        "Cranial nerves first"
+      ],
+      "ans": 0,
+      "exp": "Axonal: large and long axons affected early, hence initially lower extremities; small fibres (Book p624)"
+    },
+    {
+      "id": "MED-C43-05",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "The demyelinating process is described as:",
+      "opts": [
+        "Focal single nerve onset",
+        "Diffuse, starts in lower limbs but not always distal; large fibers",
+        "Length-dependent distal only; small fibres",
+        "Purely proximal from onset"
+      ],
+      "ans": 1,
+      "exp": "Demyelinating: diffuse process, starts in lower limbs but not always distal; large fibers (Book p624)"
+    },
+    {
+      "id": "MED-C43-06",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Stocking-glove sensory-motor loss with symmetrical distal signs in legs and arms characterises:",
+      "opts": [
+        "Ganglionopathy",
+        "Plexopathy",
+        "Axonal neuropathy",
+        "Demyelinating radiculoneuropathy"
+      ],
+      "ans": 2,
+      "exp": "Axonal: stocking-glove sensory-motor loss results in symmetrical distal clinical signs in the legs and arms (Book p624)"
+    },
+    {
+      "id": "MED-C43-07",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Generalized weakness with mild sensory loss characterises:",
+      "opts": [
+        "Axonal neuropathy",
+        "Mononeuritis multiplex",
+        "Ganglionopathy",
+        "Demyelinating radiculoneuropathy"
+      ],
+      "ans": 3,
+      "exp": "Demyelinating: generalized weakness and mild sensory loss (Book p624)"
+    },
+    {
+      "id": "MED-C43-08",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Involvement pattern in axonal vs demyelinating disease is:",
+      "opts": [
+        "Distal in axonal; proximal and distal in demyelinating",
+        "Proximal in axonal; distal in demyelinating",
+        "Distal in both",
+        "Proximal in both"
+      ],
+      "ans": 0,
+      "exp": "Axonal distal involvement; demyelinating proximal and distal involvement (Book p624)"
+    },
+    {
+      "id": "MED-C43-09",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "scenario",
+      "q": "In that slowly progressive diabetic neuropathy, which reflex pattern does the table predict?",
+      "opts": [
+        "Reflexes preserved throughout",
+        "Ankle jerk lost early with proximal tendon reflexes preserved",
+        "All reflexes lost early (areflexia)",
+        "Only knee jerk lost"
+      ],
+      "ans": 1,
+      "exp": "Axonal: ankle jerk lost early and proximal tendon reflexes preserved (Book p624)"
+    },
+    {
+      "id": "MED-C43-10",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Areflexia with all reflexes lost early characterises:",
+      "opts": [
+        "Myopathy",
+        "Ganglionopathy",
+        "Demyelinating radiculoneuropathy",
+        "Axonal neuropathy"
+      ],
+      "ans": 2,
+      "exp": "Demyelinating: all reflexes are lost early (Areflexia) (Book p624)"
+    },
+    {
+      "id": "MED-C43-11",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "scenario",
+      "q": "A chronic neuropathy patient shows prominent muscle wasting on examination. Which column of the table does this favour?",
+      "opts": [
+        "Common in demyelinating and absent in axonal",
+        "Common in both",
+        "Absent in both",
+        "Common in axonal and relatively absent in demyelinating"
+      ],
+      "ans": 3,
+      "exp": "Muscle wasting common (axonal) vs relatively absent (demyelinating) (Book p624)"
+    },
+    {
+      "id": "MED-C43-12",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "CSF proteins in axonal vs demyelinating disease are:",
+      "opts": [
+        "Normal in axonal as only axons are involved; elevated in demyelinating since nerve roots are involved",
+        "Elevated in axonal; normal in demyelinating",
+        "Normal in both",
+        "Elevated in both"
+      ],
+      "ans": 0,
+      "exp": "CSF proteins normal as only axons are involved vs elevated since nerve roots are involved (Book p624)"
+    },
+    {
+      "id": "MED-C43-13",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Recovery and residual deformity in axonal vs demyelinating disease are:",
+      "opts": [
+        "No residual deformity in either",
+        "Slow recovery with residual deformity common in axonal; rapid recovery with residual deformity less common in demyelinating",
+        "Rapid recovery in axonal; slow recovery in demyelinating",
+        "Slow recovery in both"
+      ],
+      "ans": 1,
+      "exp": "Axonal slow recovery, residual deformity common; demyelinating rapid recovery, residual deformity less common (Book p624)"
+    },
+    {
+      "id": "MED-C43-14",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Nerve conduction in axonal vs demyelinating disease is:",
+      "opts": [
+        "Absent in both",
+        "Normal in both",
+        "Normal or slightly lowered in axonal; slowed in demyelinating",
+        "Slowed in axonal; normal in demyelinating"
+      ],
+      "ans": 2,
+      "exp": "Nerve conduction normal or slightly lowered vs nerve conduction is slowed (Book p624)"
+    },
+    {
+      "id": "MED-C43-15",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Acute demyelinating radiculoneuropathies listed are:",
+      "opts": [
+        "CIDP, POEMS, myeloma",
+        "CMTD and Refsum's disease",
+        "Lead, dapsone, MMN-CB",
+        "AIDP (<4 weeks), diphtheria, and drugs amiodarone, chloroquine, gold"
+      ],
+      "ans": 3,
+      "exp": "Acute: AIDP <4 weeks; Diphtheria; Drugs Amiodarone, Chloroquine, Gold (Book p624)"
+    },
+    {
+      "id": "MED-C43-16",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Chronic demyelinating radiculoneuropathies listed are:",
+      "opts": [
+        "CIDP (>8 weeks), POEMS, myeloma, HIV and CTS (mononeuropathy)",
+        "AIDP, diphtheria, gold",
+        "CMTD and Refsum's disease",
+        "Porphyria and Tangier's"
+      ],
+      "ans": 0,
+      "exp": "Chronic: CIDP >8 weeks; POEMS; Myeloma; HIV; CTS (Carpal Tunnel Syndrome) - mononeuropathy (Book p624)"
+    },
+    {
+      "id": "MED-C43-17",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "recall",
+      "q": "Inherited demyelinating radiculoneuropathies listed are:",
+      "opts": [
+        "Diphtheria and HIV",
+        "CMTD (Charcot Marie Tooth Disease) and Refsum's disease",
+        "AIDP and CIDP",
+        "POEMS and myeloma"
+      ],
+      "ans": 1,
+      "exp": "Inherited: CMTD (Charcot Marie Tooth Disease); Refsum's disease (Book p624)"
+    },
+    {
+      "id": "MED-C43-18",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not listed among chronic demyelinating radiculoneuropathies:",
+      "opts": [
+        "POEMS",
+        "Myeloma",
+        "Diphtheria",
+        "CIDP"
+      ],
+      "ans": 2,
+      "exp": "Chronic: CIDP, POEMS, Myeloma, HIV, CTS; diphtheria is listed under acute (Book p624)"
+    },
+    {
+      "id": "MED-C43-19",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "page": 624,
+      "fmt": "numeric",
+      "q": "The duration cutoffs printed for AIDP and CIDP are:",
+      "opts": [
+        ">4 weeks and >8 weeks respectively",
+        "<4 weeks and >6 weeks respectively",
+        "<2 weeks and >12 weeks respectively",
+        "<4 weeks and >8 weeks respectively"
+      ],
+      "ans": 3,
+      "exp": "AIDP <4 weeks; CIDP >8 weeks (Book p624)"
+    },
+    {
+      "id": "MED-C43-20",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pure sensory neuropathies are equated with:",
+      "opts": [
+        "Ganglionopathy",
+        "Lead poisoning",
+        "MMNCB",
+        "Dapsone"
+      ],
+      "ans": 0,
+      "exp": "Note: Pure sensory Neuropathies : Ganglionopathy (Book p625)"
+    },
+    {
+      "id": "MED-C43-21",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pure motor neuropathies listed are:",
+      "opts": [
+        "Fabry's, Tangier's, vasculitis",
+        "Lead, dapsone, MMNCB (multifocal motor neuropathy with conduction blocks)",
+        "Ganglionopathy, CIDP, Refsum's",
+        "Diabetes, uremia, HIV"
+      ],
+      "ans": 1,
+      "exp": "Note: Pure motor Neuropathies : Lead, dapsone, MMNCB (Book p625)"
+    },
+    {
+      "id": "MED-C43-22",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Severe pain ranking between fibre classes is:",
+      "opts": [
+        "Equal in both",
+        "Absent in both",
+        "Small fiber > large",
+        "Large > small"
+      ],
+      "ans": 2,
+      "exp": "Note: Severe pain : Small fiber > Large (Book p625)"
+    },
+    {
+      "id": "MED-C43-23",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "The severe pain order among causes is:",
+      "opts": [
+        "Vasculitis > HIV > Tangier's > Fabry's",
+        "HIV > Fabry's > vasculitis > Tangier's",
+        "Tangier's > Fabry's > HIV > vasculitis",
+        "Fabry's > Tangier's > HIV > vasculitis"
+      ],
+      "ans": 3,
+      "exp": "Severe pain order: Fabry's > Tangier's > HIV > Vasculitis (Book p625)"
+    },
+    {
+      "id": "MED-C43-24",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Relapsing neuropathies listed are:",
+      "opts": [
+        "CIDP, Refsum's, porphyria",
+        "AIDP, GBS, diphtheria",
+        "Lead, dapsone, MMNCB",
+        "Diabetes, uremia, hypothyroidism"
+      ],
+      "ans": 0,
+      "exp": "Relapsing Neuropathies : CIDP, Refsum's, porphyria (Book p625)"
+    },
+    {
+      "id": "MED-C43-25",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Diabetic amyotrophy is defined as:",
+      "opts": [
+        "Ganglionopathy",
+        "Asymmetric lumbosacral plexopathy",
+        "Symmetrical distal polyneuropathy",
+        "Mononeuritis multiplex"
+      ],
+      "ans": 1,
+      "exp": "Diabetic amyotrophy : Asymmetric lumbosacral plexopathy (Book p625)"
+    },
+    {
+      "id": "MED-C43-26",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "The mnemonic printed for ANS predominant neuropathies is:",
+      "opts": [
+        "SOAP",
+        "MEND",
+        "PAD",
+        "LADU"
+      ],
+      "ans": 2,
+      "exp": "ANS predominant neuropathies mnemonic : PAD (Book p625)"
+    },
+    {
+      "id": "MED-C43-27",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Which list accompanies the ANS predominant neuropathy mnemonic?",
+      "opts": [
+        "Lead, dapsone, MMNCB, GBS",
+        "CIDP, Refsum's, porphyria, AIDP",
+        "Leprosy, sarcoidosis, neurofibromatosis",
+        "Porphyria, amyloidosis, DM, Fabry's, HIV, vincristine"
+      ],
+      "ans": 3,
+      "exp": "ANS predominant list: Porphyria, Amyloidosis, DM, Fabry's, HIV, Vincristine (Book p625)"
+    },
+    {
+      "id": "MED-C43-28",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 1 (symmetric proximal and distal weakness with sensory loss) is seen in:",
+      "opts": [
+        "AIDP",
+        "Diabetes mellitus",
+        "Radiculopathy",
+        "Plexopathy"
+      ],
+      "ans": 0,
+      "exp": "Patterns of LMN lesions: 1 symmetric proximal and distal weakness with sensory loss - AIDP (Book p625)"
+    },
+    {
+      "id": "MED-C43-29",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 2 (symmetric distal sensory loss with or without distal weakness) is seen in:",
+      "opts": [
+        "Muscle/NMS involvement",
+        "Diabetes mellitus",
+        "AIDP",
+        "Ganglion"
+      ],
+      "ans": 1,
+      "exp": "Patterns: 2 symmetric distal sensory loss with or without distal weakness - Diabetes mellitus (Book p625)"
+    },
+    {
+      "id": "MED-C43-30",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 3 (asymmetric distal weakness with sensory loss) is seen in:",
+      "opts": [
+        "AIDP",
+        "Ganglion",
+        "Radiculopathy",
+        "Plexopathy"
+      ],
+      "ans": 2,
+      "exp": "Patterns: 3 asymmetric distal weakness with sensory loss - Radiculopathy (Book p625)"
+    },
+    {
+      "id": "MED-C43-31",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 4 (asymmetric proximal and distal weakness with sensory loss) is seen in:",
+      "opts": [
+        "Radiculopathy",
+        "Pure motor neuropathy",
+        "Spinal cord involvement",
+        "Plexopathy"
+      ],
+      "ans": 3,
+      "exp": "Patterns: 4 asymmetric proximal and distal weakness with sensory loss - Plexopathy (Book p625)"
+    },
+    {
+      "id": "MED-C43-32",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 5 (asymmetric distal weakness without sensory loss) is seen in:",
+      "opts": [
+        "Pure motor neuropathy: motor neuron disease, anterior horn cell",
+        "Ganglion",
+        "Diabetes mellitus",
+        "AIDP"
+      ],
+      "ans": 0,
+      "exp": "Patterns: 5 asymmetric distal weakness without sensory loss - pure motor neuropathy : motor neuron disease, anterior horn cell (Book p625)"
+    },
+    {
+      "id": "MED-C43-33",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 6 (symmetric sensory loss and distal areflexia with UMN findings) is seen in:",
+      "opts": [
+        "Plexopathy",
+        "Spinal cord involvement: vit B12/E/copper deficiency",
+        "Muscle/NMS involvement",
+        "Ganglion"
+      ],
+      "ans": 1,
+      "exp": "Patterns: 6 symmetric sensory loss and distal areflexia with UMN findings - spinal cord involvement : vit B12/E/copper deficiency (Book p625)"
+    },
+    {
+      "id": "MED-C43-34",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 7 (symmetric weakness without sensory loss) is seen in:",
+      "opts": [
+        "Radiculopathy",
+        "AIDP",
+        "Muscle/NMS involvement",
+        "Ganglion"
+      ],
+      "ans": 2,
+      "exp": "Patterns: 7 symmetric weakness without sensory loss - muscle/NMS involvement (Book p625)"
+    },
+    {
+      "id": "MED-C43-35",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "page": 625,
+      "fmt": "recall",
+      "q": "Pattern 8 (asymmetric proprioceptive sensory loss without weakness) is seen in:",
+      "opts": [
+        "Muscle/NMS involvement",
+        "Spinal cord",
+        "Plexus",
+        "Ganglion"
+      ],
+      "ans": 3,
+      "exp": "Patterns: 8 asymmetric proprioceptive sensory loss without weakness - Ganglion (Book p625)"
+    },
+    {
+      "id": "MED-C43-36",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "In nerve conduction studies, axonal loss affects:",
+      "opts": [
+        "Only amplitude",
+        "Only latency",
+        "Only velocity",
+        "Only temporal dispersion"
+      ],
+      "ans": 0,
+      "exp": "NCS: Axonal loss : Only amplitude affected (Book p626)"
+    },
+    {
+      "id": "MED-C43-37",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "Demyelination on nerve conduction studies shows:",
+      "opts": [
+        "Absent amplitude with normal latency",
+        "↑ latency with prolonged distal latency",
+        "↓ latency with short distal latency",
+        "Normal latency with ↓ amplitude only"
+      ],
+      "ans": 1,
+      "exp": "Demyelination: ↑ latency, prolonged distal latency (Book p626)"
+    },
+    {
+      "id": "MED-C43-38",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "Conduction block in demyelination is accompanied by:",
+      "opts": [
+        "Normal velocity",
+        "↑ amplitude",
+        "↓ velocity",
+        "↑ velocity"
+      ],
+      "ans": 2,
+      "exp": "Demyelination: conduction block/↓ velocity (Book p626)"
+    },
+    {
+      "id": "MED-C43-39",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "Which demyelinating NCS feature describes spread of response timings?",
+      "opts": [
+        "Temporal summation",
+        "Spatial summation",
+        "Phase cancellation only",
+        "Temporal dispersion"
+      ],
+      "ans": 3,
+      "exp": "Demyelination: temporal dispersion (Book p626)"
+    },
+    {
+      "id": "MED-C43-40",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "F wave and H reflex in demyelination are:",
+      "opts": [
+        "Prolonged/absent",
+        "Shortened/present",
+        "Normal",
+        "Present with ↑ amplitude"
+      ],
+      "ans": 0,
+      "exp": "Demyelination: F wave & H reflex : Prolonged/absent (Book p626)"
+    },
+    {
+      "id": "MED-C43-41",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "The waveform figure annotates which five labels on amplitude (mV) vs time (ms) axes?",
+      "opts": [
+        "Threshold, amplitude, width, notch, rebound",
+        "Latency, amplitude, duration, trough, recovery",
+        "Onset, peak, plateau, offset, baseline",
+        "Latency, peak, area, rise time, fall time"
+      ],
+      "ans": 1,
+      "exp": "CMAP figure labels: Latency, Amplitude, Duration, Trough, Recovery on Amplitude (mV) vs Time (ms) (Book p626)"
+    },
+    {
+      "id": "MED-C43-42",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "page": 626,
+      "fmt": "recall",
+      "q": "The caption printed under the waveform figure reads:",
+      "opts": [
+        "Common motor axonal potential (CMAP) with neuromuscular jitter",
+        "Compound muscle action potential only",
+        "Common motor axonal potential (CMAP)",
+        "Compound sensory action potential (CSAP)"
+      ],
+      "ans": 2,
+      "exp": "Caption printed as Common motor axonal potential (CMAP) [sic; standard expansion is compound muscle action potential] (Book p626)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U43-1",
+      "ch": 43,
+      "n": 1,
+      "title": "1. Radiculopathies: Axonal vs Demyelinating Features and Causes",
+      "sec": "Axonal vs Demyelinating Radiculoneuropathy",
+      "guide": "Axonal neuropathy (prototype DM) is gradual and insidious except porphyria; demyelinating radiculoneuropathy (prototype GBS) is acute or subacute except CIDP.\nAxonal disease hits large long axons early with stocking-glove distal signs, ankle jerk lost early, wasting, normal CSF proteins, slow recovery and residual deformity; demyelinating disease is diffuse with generalized weakness, areflexia, raised CSF proteins, rapid recovery and slowed conduction.\nDemyelinating causes split into acute (AIDP <4 weeks, diphtheria, drugs amiodarone/chloroquine/gold), chronic (CIDP >8 weeks, POEMS, myeloma, HIV, CTS) and inherited (CMTD, Refsum's).",
+      "qs": [
+        "MED-C43-01",
+        "MED-C43-02",
+        "MED-C43-03",
+        "MED-C43-04",
+        "MED-C43-05",
+        "MED-C43-06",
+        "MED-C43-07",
+        "MED-C43-08",
+        "MED-C43-09",
+        "MED-C43-10",
+        "MED-C43-11",
+        "MED-C43-12",
+        "MED-C43-13",
+        "MED-C43-14",
+        "MED-C43-15",
+        "MED-C43-16",
+        "MED-C43-17",
+        "MED-C43-18",
+        "MED-C43-19"
+      ]
+    },
+    {
+      "id": "MED-U43-2",
+      "ch": 43,
+      "n": 2,
+      "title": "2. Notes, ANS Predominant Neuropathies and Patterns of LMN Lesions",
+      "sec": "Neuropathy Notes, ANS Predominant & LMN Patterns",
+      "guide": "Pure sensory neuropathy is ganglionopathy; pure motor neuropathies are lead, dapsone and MMNCB; severe pain ranks small fibre > large with Fabry's > Tangier's > HIV > vasculitis.\nRelapsing neuropathies are CIDP, Refsum's and porphyria; diabetic amyotrophy is asymmetric lumbosacral plexopathy; ANS predominant neuropathies use mnemonic PAD.\nThe eight patterns of LMN lesions map symmetric and asymmetric, proximal and distal, sensory and motor combinations to AIDP, diabetes, radiculopathy, plexopathy, pure motor neuropathy, spinal cord, muscle/NMS and ganglion.",
+      "qs": [
+        "MED-C43-20",
+        "MED-C43-21",
+        "MED-C43-22",
+        "MED-C43-23",
+        "MED-C43-24",
+        "MED-C43-25",
+        "MED-C43-26",
+        "MED-C43-27",
+        "MED-C43-28",
+        "MED-C43-29",
+        "MED-C43-30",
+        "MED-C43-31",
+        "MED-C43-32",
+        "MED-C43-33",
+        "MED-C43-34",
+        "MED-C43-35"
+      ]
+    },
+    {
+      "id": "MED-U43-3",
+      "ch": 43,
+      "n": 3,
+      "title": "3. Nerve Conduction Studies and the CMAP Trace",
+      "sec": "Nerve Conduction Studies & CMAP",
+      "guide": "Axonal loss affects only amplitude; demyelination raises latency with prolonged distal latency, conduction block or reduced velocity, temporal dispersion and prolonged or absent F wave and H reflex.\nThe waveform figure annotates latency, amplitude, duration, trough and recovery on amplitude (mV) vs time (ms) axes, captioned as printed Common motor axonal potential (CMAP).",
+      "qs": [
+        "MED-C43-36",
+        "MED-C43-37",
+        "MED-C43-38",
+        "MED-C43-39",
+        "MED-C43-40",
+        "MED-C43-41",
+        "MED-C43-42"
+      ]
+    }
+  ]
+}
