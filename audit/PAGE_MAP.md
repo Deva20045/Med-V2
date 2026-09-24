@@ -249,7 +249,14 @@ This scan continues the same volume at printed page 562. **Printed p586, p590 an
 | 51 | 615 | Verified (Pathogenesis, pneumococcus features, predisposing factors) |
 | 52 | 616 | Verified (Clinical presentation, meningeal signs, LP relative) |
 | 53 | 617 | Verified (LP absolute, CSF analysis table, treatment) |
-| 54–61 | 618–622 | Not live in this release (Ch42 onward starts at p618 per roadmap) |
+| 54 | 618 | Verified (Ch42 "LMN APPROACH : PART 1" title page; landscape sheet read upright via 90° prerotate) |
+| 55 | 619 | Verified (site-of-lesion/pathology table, radiculopathy, lower-limb root values) |
+| 56 | 620 | Verified (foot drop table, upper-limb DTR values, radiculopathy vs plexopathy, neuropathy types) |
+| 57 | 621 | Verified (polyneuropathy types flowchart, sensory columns table, nerve fibre ladder) |
+| 58 | 622 | Verified (large vs small fibre neuropathy table) |
+| 59 | 623 | Verified (ganglionopathy; Ch42 end) |
+| 60 | 624 | Verified (Ch43 "LMN APPROACH : PART 2" title page, axonal vs demyelinating table) |
+| 61 | 625 | Verified (neuropathy notes, ANS predominant, patterns of LMN lesions; last sheet of 03.pdf used) |
 
 ## Chapter 33–38 source-map correction
 
@@ -263,14 +270,38 @@ The three missing pages each carry one transparently-flagged bracketing question
 
 Verified at 3× zoom `.audit-render/03_pdf38_3x..53_3x`: Ch39 Seizure Semiology p602–607 = PDF38–43 (6 sheets, no missing), Ch40 GTCS p608–612 = PDF44–48 (5 sheets), Ch41 CNS Infections p613–617 = PDF49–53 (5 sheets). No printed pages missing in Ch39 or Ch41 ranges. Ch40 is intentionally skipped and remains Soon.
 
-Chapter spans: Ch39 p602–607 = PDF38–43 · Ch40 p608–612 = PDF44–48 · Ch41 p613–617 = PDF49–53. Ch42 begins at p618 per roadmap (PDF54).
+Chapter spans: Ch39 p602–607 = PDF38–43 · Ch40 p608–612 = PDF44–48 · Ch41 p613–617 = PDF49–53 · Ch42 p618–623 = PDF54–59 · Ch43 p624–625 = PDF60–61 (closing page p626 = 04.pdf PDF1).
+
+## Chapter 42–47 source-map correction
+
+Verified at 3× zoom in `.audit-render/r03_54_3x..r03_61_3x.png` and `.audit-render/r04_01_3x..r04_20_3x.png`: 03.pdf PDF54 is a landscape-scanned sheet (612×458.6 pt) whose content is rotated 90° and was read upright via `Matrix(3,3)` + 90° prerotate; PDF55–61 are upright portrait sheets. 04.pdf PDF1–20 are upright. Printed page numbers were read on every sheet: 03.pdf PDF54–61 = Book p618–625 with **no missing printed page** (8 sheets, 8 pages), and 04.pdf PDF1–20 = Book p626–645 with **no missing printed page** (20 sheets, 20 pages). The earlier guess "PDF54–61 = p618–622" is superseded: those 8 sheets carry p618–625.
+
+Chapter spans: Ch42 p618–623 = 03.pdf PDF54–59 · Ch43 p624–626 = 03.pdf PDF60–61 + 04.pdf PDF1 · Ch44 p627–631 = 04.pdf PDF2–6 · Ch45 p632–636 = 04.pdf PDF7–11 · Ch46 p637–641 = 04.pdf PDF12–16 · Ch47 p642–645 = 04.pdf PDF17–20. Ch48 begins at p646 (04.pdf PDF21, not yet live).
 
 ## uploads/04.pdf (76 sheets, Book p626 onward)
 
 | PDF sheet | Printed page | Evidence |
 |---:|---:|---|
-| 1 | 626 | Verified (corner number 626) |
-| 2 | 627 | Verified |
-| 3–76 | 628 onward | Not read in this session (outside Ch33–38 scope) |
+| 1 | 626 | Verified (nerve conduction studies note, CMAP figure; Ch43 end) |
+| 2 | 627 | Verified (Ch44 "INHERITED NEUROPATHIES" title page, CMT types table) |
+| 3 | 628 | Verified (CMT-4, CMT-1 features, onion bulb/pes cavus/inverted champagne leg images) |
+| 4 | 629 | Verified (familial amyloid polyneuropathy, porphyric neuropathy) |
+| 5 | 630 | Verified (porphyric ANS/CNS, Tangier's, Refsum's triad) |
+| 6 | 631 | Verified (Romberg's sign, wash basin sign, Fabry's; Ch44 end) |
+| 7 | 632 | Verified (Ch45 "GUILLAIN-BARRE SYNDROME" title page, classification table) |
+| 8 | 633 | Verified (presentation, examination, progression, prognosis) |
+| 9 | 634 | Verified (inciting factors, diagnostic criteria) |
+| 10 | 635 | Verified (treatment, MFS/Bickerstaff, CIDP vs AIDP table) |
+| 11 | 636 | Verified (CIDP affected systems, POEMS, MMN-CB; Ch45 end) |
+| 12 | 637 | Verified (Ch46 "LMN APPROACH : PART 3" title page, pure motor LMN table, power grades) |
+| 13 | 638 | Verified (power grades continued, etiology A, myopathy classes) |
+| 14 | 639 | Verified (episodic/persistent matrix, symptoms, weakness tasks) |
+| 15 | 640 | Verified (exception patterns, fatigue, myalgia, polymyalgia rheumatica) |
+| 16 | 641 | Verified (fibromyalgia, cramps vs contractures, myotonia; Ch46 end) |
+| 17 | 642 | Verified (Ch47 "MUSCULAR DYSTROPHIES" title page, dystrophin, DMD timeline, Becker's) |
+| 18 | 643 | Verified (LGMD, Emery Dreifuss, FSHD, oculopharyngeal, myotonic dystrophy) |
+| 19 | 644 | Verified (myotonic dystrophy features, mitochondrial myopathies, CPEO/Kearns/MERRF/MELAS) |
+| 20 | 645 | Verified (channelopathies, periodic paralyses; Ch47 end) |
+| 21–76 | 646 onward | Not read in this session (Ch48 onward starts at p646 per roadmap) |
 
-`uploads/04.pdf` is not needed for Chapters 33–41: the full Ch33–41 range (Book p566–617) lies inside `uploads/03.pdf` (PDF5–PDF53).
+`uploads/04.pdf` PDF1–20 carry Book p626–645 (Ch43 close through Ch47); PDF21 onward (p646+, Ch48) remain unread.

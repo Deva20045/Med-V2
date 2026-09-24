@@ -1,0 +1,1307 @@
+{
+  "chapter": 45,
+  "title": "Guillain-Barre Syndrome",
+  "pageRange": "632-636",
+  "questions": [
+    {
+      "id": "MED-C45-01",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "GBS is defined as acute polyradiculoneuropathy of what duration and character?",
+      "opts": [
+        "<=4 weeks, asymmetrical, degenerative",
+        ">8 weeks, bilaterally symmetrical, autoimmune",
+        ">8 weeks, asymmetrical, inflammatory",
+        "<=4 weeks, bilaterally symmetrical, inflammatory autoimmune"
+      ],
+      "ans": 3,
+      "exp": "Definition: Acute (<=4 weeks) bilaterally symmetrical inflammatory autoimmune polyradiculoneuropathy (Book p632)"
+    },
+    {
+      "id": "MED-C45-02",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "CIDP is distinguished from GBS by which duration?",
+      "opts": [
+        "Chronic (>8 weeks)",
+        "Chronic (>4 weeks)",
+        "Acute (<2 weeks)",
+        "Subacute (4-8 weeks)"
+      ],
+      "ans": 0,
+      "exp": "Note: CIDP (Chronic inflammatory demyelinating polyneuropathy) : Chronic (>8 weeks) (Book p632)"
+    },
+    {
+      "id": "MED-C45-03",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "AIDP is associated with which antibody and electrodiagnosis?",
+      "opts": [
+        "Anti-MAG antibodies; demyelinating",
+        "Anti-GM1 antibodies; demyelinating",
+        "Anti-GD1a antibodies; axonal",
+        "Anti-GQ1b antibodies; axonal"
+      ],
+      "ans": 1,
+      "exp": "AIDP: Anti-GM1 antibodies; demyelinating (Book p632)"
+    },
+    {
+      "id": "MED-C45-04",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "Prognosis of AIDP among GBS types is:",
+      "opts": [
+        "Worst prognosis",
+        "Same as AMSAN",
+        "Best prognosis of all types",
+        "Poor prognosis"
+      ],
+      "ans": 2,
+      "exp": "AIDP prognosis: best prognosis of all types (Book p632)"
+    },
+    {
+      "id": "MED-C45-05",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "AMAN affects which population with which antibody?",
+      "opts": [
+        "Mostly adults; anti-GM1 antibodies",
+        "Elderly; anti-GQ1b antibodies",
+        "Children; anti-GQ1b antibodies",
+        "Children & young adults; anti-GD1a antibodies"
+      ],
+      "ans": 3,
+      "exp": "AMAN: children & young adults; Anti-GD1a antibodies; axonal (Book p632)"
+    },
+    {
+      "id": "MED-C45-06",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "AMSAN is described as:",
+      "opts": [
+        "Mostly adults with axonal electrodiagnosis",
+        "Children with demyelinating electrodiagnosis",
+        "Mostly adults with demyelinating electrodiagnosis",
+        "Children with axonal electrodiagnosis"
+      ],
+      "ans": 0,
+      "exp": "AMSAN: mostly adults; axonal (Book p632)"
+    },
+    {
+      "id": "MED-C45-07",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "The clinical triad of Miller Fisher syndrome is:",
+      "opts": [
+        "Ophthalmoplegia, hyperreflexia, ataxia",
+        "Ophthalmoplegia, ataxia, areflexia",
+        "Ptosis, dysphagia, dysarthria",
+        "Weakness, areflexia, sensory loss"
+      ],
+      "ans": 1,
+      "exp": "MFS clinical triad: 1. ophthalmoplegia 2. ataxia 3. areflexia (Book p632)"
+    },
+    {
+      "id": "MED-C45-08",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "MFS is associated with which antibody and is which form?",
+      "opts": [
+        "Anti-GD1a antibodies; rarest form",
+        "Anti-GQ1b antibodies; commonest form",
+        "Anti-GQ1b antibodies; rarest form",
+        "Anti-GM1 antibodies; commonest form"
+      ],
+      "ans": 2,
+      "exp": "MFS (rarest form): Anti-GQ1b antibodies (Book p632)"
+    },
+    {
+      "id": "MED-C45-09",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "Electrodiagnosis of MFS is:",
+      "opts": [
+        "Axonal only",
+        "Demyelinating only",
+        "Normal always",
+        "Axonal or demyelinating"
+      ],
+      "ans": 3,
+      "exp": "MFS electrodiagnosis: axonal or demyelinating (Book p632)"
+    },
+    {
+      "id": "MED-C45-10",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "Prognosis shared by AMAN, AMSAN and MFS in the table is:",
+      "opts": [
+        "Poor prognosis",
+        "Best prognosis",
+        "Intermediate prognosis",
+        "Excellent prognosis"
+      ],
+      "ans": 0,
+      "exp": "Poor prognosis cell spans AMAN, AMSAN and MFS (Book p632)"
+    },
+    {
+      "id": "MED-C45-11",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "All antibodies associated with GBS subtypes are of which class?",
+      "opts": [
+        "IgEs",
+        "IgGs",
+        "IgMs",
+        "IgAs"
+      ],
+      "ans": 1,
+      "exp": "All antibodies associated are IgGs (Book p632)"
+    },
+    {
+      "id": "MED-C45-12",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "AIDP epidemiology is:",
+      "opts": [
+        "m/c subtype, mean age 60 years, female > male",
+        "Rare subtype, mean age 40 years, equal sexes",
+        "m/c subtype, mean age of presentation 40 years, male > female",
+        "Rare subtype, mean age 20 years, female > male"
+      ],
+      "ans": 2,
+      "exp": "AIDP: m/c; mean age of presentation : 40 years; male > female (Book p632)"
+    },
+    {
+      "id": "MED-C45-13",
+      "sec": "GBS Definition, Classification & AIDP",
+      "page": 632,
+      "fmt": "recall",
+      "q": "The AIDP pathophysiology sequence printed is:",
+      "opts": [
+        "Antibodies -> binds to axon -> complements -> neutrophil invasion -> wallerian degeneration",
+        "T cells -> myelin -> cytokines -> microglia -> axonal loss",
+        "Antibodies -> NMJ block -> complement -> muscle degeneration",
+        "Antibodies -> binds to myelin -> activates complement -> macrophage invasion -> vesicular degeneration"
+      ],
+      "ans": 3,
+      "exp": "Pathophysiology: antibodies -> binds to myelin -> activates compliment [sic] -> macrophage invasion -> vesicular degeneration (Book p632)"
+    },
+    {
+      "id": "MED-C45-14",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The first symptom group in the GBS presentation flow is:",
+      "opts": [
+        "Sensory symptoms: B/L tingling & numbness of lower limbs (rubbery legs)",
+        "Motor weakness of arms",
+        "Cranial nerve palsy",
+        "Respiratory failure"
+      ],
+      "ans": 0,
+      "exp": "Presentation flow starts with sensory symptoms (B/L tingling & numbness of lower limbs : Rubbery legs) (Book p633)"
+    },
+    {
+      "id": "MED-C45-15",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Between sensory and motor symptoms the flow inserts:",
+      "opts": [
+        "Sphincteric loss always",
+        "Mild transient bowel & bladder dysfunction",
+        "Persistent urinary retention",
+        "Severe constipation only"
+      ],
+      "ans": 1,
+      "exp": "Flow: mild transient bowel & bladder dysfunction between sensory and motor symptoms (Book p633)"
+    },
+    {
+      "id": "MED-C45-16",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The motor symptom in the presentation flow is:",
+      "opts": [
+        "Bulbar weakness first",
+        "Respiratory muscle weakness first",
+        "Bilateral lower limb weakness",
+        "Unilateral arm weakness"
+      ],
+      "ans": 2,
+      "exp": "Motor symptoms (Bilateral lower limb weakness) (Book p633)"
+    },
+    {
+      "id": "MED-C45-17",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Early examination in GBS shows which preserved functions?",
+      "opts": [
+        "HMF abnormal with confusion",
+        "Cranial nerves abnormal from onset",
+        "Upper limb motor abnormal from onset",
+        "HMF normal, cranial nerves normal, motor (UL) normal"
+      ],
+      "ans": 3,
+      "exp": "Examination findings: HMF : Normal; Cranial nerves : Normal; motor (UL) : Normal (Book p633)"
+    },
+    {
+      "id": "MED-C45-18",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The paraparesis of GBS examination is:",
+      "opts": [
+        "Bilateral atonic areflexic paraparesis (proximal + distal) of lower limbs",
+        "Bilateral spastic paraparesis with brisk reflexes",
+        "Asymmetric monoparesis",
+        "Distal-only paresis with preserved reflexes"
+      ],
+      "ans": 0,
+      "exp": "Bilateral atonic areflexic paraparesis (Proximal + distal) of lower limbs (Book p633)"
+    },
+    {
+      "id": "MED-C45-19",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Sensory loss on GBS examination involves which fibre class?",
+      "opts": [
+        "Pain and temperature only",
+        "Large fibre (Aα) sensory loss",
+        "Small fibre only",
+        "No sensory loss ever"
+      ],
+      "ans": 1,
+      "exp": "Large fibre (Aα) sensory loss (Book p633)"
+    },
+    {
+      "id": "MED-C45-20",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Progression of GBS requires at least what interval since the incident?",
+      "opts": [
+        "≥12 hours",
+        "≥48 hours",
+        "≥24 hours",
+        "≥6 hours"
+      ],
+      "ans": 2,
+      "exp": "Progression: ≥24 hours since incident (Book p633)"
+    },
+    {
+      "id": "MED-C45-21",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The ascending paralysis of GBS is described as:",
+      "opts": [
+        "Reflexic descending paralysis",
+        "Areflexic descending paralysis",
+        "Reflexic ascending paralysis",
+        "Areflexic ascending paralysis from lower limb to upper limb"
+      ],
+      "ans": 3,
+      "exp": "Areflexic ascending paralysis (Lower limb -> upper limb) (Book p633)"
+    },
+    {
+      "id": "MED-C45-22",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Cranial nerve involvement in GBS progression affects what proportion, with what mortality?",
+      "opts": [
+        "30% affected with 4-15% mortality",
+        "10% affected with 1% mortality",
+        "50% affected with 20% mortality",
+        "30% affected with 50% mortality"
+      ],
+      "ans": 0,
+      "exp": "Cranial nerve involvement: 30% affected (4-15% mortality) (Book p633)"
+    },
+    {
+      "id": "MED-C45-23",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The terminal steps of the progression chain are:",
+      "opts": [
+        "Brainstem -> sphincter loss only",
+        "Brainstem involvement -> respiratory centre affected -> requires ventilation",
+        "Respiratory centre affected -> brainstem involvement -> recovery",
+        "Cranial nerve -> recovery without ventilation"
+      ],
+      "ans": 1,
+      "exp": "Progression: brainstem involvement -> respiratory centre affected -> requires ventilation (Book p633)"
+    },
+    {
+      "id": "MED-C45-24",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Overall recovery in GBS is:",
+      "opts": [
+        "95% recover fully always",
+        "20% recover",
+        "80% recover, of which 5-10% have persistent motor weakness",
+        "50% recover with no residual weakness"
+      ],
+      "ans": 2,
+      "exp": "Prognosis: 80% recover (of which 5-10% have persistent motor weakness) (Book p633)"
+    },
+    {
+      "id": "MED-C45-25",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The fatal chain in 30% of GBS patients runs through:",
+      "opts": [
+        "Respiratory centre -> recovery",
+        "Autonomic dysfunction -> hypertension -> stroke",
+        "Sensory loss -> falls -> fracture",
+        "Lower cranial nerve & brainstem involvement -> dysphagia/dysarthria -> aspiration -> death"
+      ],
+      "ans": 3,
+      "exp": "30% -> lower cranial nerve & brainstem involvement -> dysphagia/dysarthria -> aspiration -> death (Book p633)"
+    },
+    {
+      "id": "MED-C45-26",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Survival rate of GBS with early intervention is:",
+      "opts": [
+        "85-90%",
+        "50-60%",
+        "70-75%",
+        "95-100%"
+      ],
+      "ans": 0,
+      "exp": "Survival rate : 85-90% (Early intervention) (Book p633)"
+    },
+    {
+      "id": "MED-C45-27",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Bad prognostic factors in GBS belong to which group?",
+      "opts": [
+        "Renal manifestations",
+        "ANS manifestations",
+        "Sensory manifestations",
+        "Skin manifestations"
+      ],
+      "ans": 1,
+      "exp": "Bad prognostic factors (ANS manifestations) (Book p633)"
+    },
+    {
+      "id": "MED-C45-28",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Labile HTN with extreme BP fluctuations in GBS can cause:",
+      "opts": [
+        "Subdural haematoma",
+        "Meningitis",
+        "PRES (Posterior reversible encephalopathy syndrome)",
+        "Anterior cerebral infarct"
+      ],
+      "ans": 2,
+      "exp": "Labile HTN (Extreme BP fluctuations) -> PRES (Posterior reversible encephalopathy syndrome) (Book p633)"
+    },
+    {
+      "id": "MED-C45-29",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "Besides labile HTN, the bad prognostic list includes:",
+      "opts": [
+        "Fever, rash, arthritis",
+        "Hyperkalaemia, hypocalcemia",
+        "Papilloedema, headache, vomiting",
+        "Postural hypotension, arrhythmias, deep aching pain in affected muscles"
+      ],
+      "ans": 3,
+      "exp": "Bad prognostic factors: postural hypotension; arrhythmias; deep aching pain in affected muscles (Book p633)"
+    },
+    {
+      "id": "MED-C45-30",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "page": 633,
+      "fmt": "recall",
+      "q": "The D/d for neuropathy with PRES per the note is:",
+      "opts": [
+        "Porphyrias",
+        "Diabetes",
+        "Uremia",
+        "Vasculitis"
+      ],
+      "ans": 0,
+      "exp": "Note: D/d for neuropathy with PRES : Porphyrias (Book p633)"
+    },
+    {
+      "id": "MED-C45-31",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Gastroenteritis/URTI in the past 4 weeks precedes what proportion of GBS cases?",
+      "opts": [
+        "90-100%",
+        "60-70%",
+        "30-40%",
+        "10-20%"
+      ],
+      "ans": 1,
+      "exp": "Inciting factors: Gastroenteritis/URTI (Past 4 weeks) : In 60-70% GBS cases (Book p634)"
+    },
+    {
+      "id": "MED-C45-32",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Associated infections listed for GBS are:",
+      "opts": [
+        "Mycobacterium tuberculosis, fungi",
+        "Plasmodium, dengue, leptospira",
+        "C. jejuni, CMV, EBV, mycoplasma, Hep A/B, HIV",
+        "Streptococcus pneumoniae, meningococcus"
+      ],
+      "ans": 2,
+      "exp": "Associated infections : C. jejuni, CMV, EBV, mycoplasma, Hep A/B, HIV (Book p634)"
+    },
+    {
+      "id": "MED-C45-33",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Besides infection, inciting factors include:",
+      "opts": [
+        "Trauma and surgery only",
+        "Alcohol and smoking",
+        "Nutritional deficiency",
+        "Vaccination association and molecular mimicry"
+      ],
+      "ans": 3,
+      "exp": "Inciting factors: vaccination associated; molecular mimicry (Book p634)"
+    },
+    {
+      "id": "MED-C45-34",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "C. jejuni is also linked in the note to:",
+      "opts": [
+        "IPSID (immuno-proliferative small intestinal disease/lymphoma)",
+        "POEMS syndrome",
+        "Castleman syndrome",
+        "MALT lymphoma of stomach only"
+      ],
+      "ans": 0,
+      "exp": "Note: C. jejuni -> IPSID (Immuno-proliferative small intestinal disease/lymphoma) and GBS (Book p634)"
+    },
+    {
+      "id": "MED-C45-35",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Features essential for GBS diagnosis are:",
+      "opts": [
+        "Ophthalmoplegia and ataxia",
+        "Progressive weakness in both arms and legs (legs -> arms) and areflexia",
+        "Fever and neck stiffness",
+        "Ascending sensory level with sphincter loss"
+      ],
+      "ans": 1,
+      "exp": "Essential: progressive weakness in both arms and legs (Legs -> Arms); areflexia (Book p634)"
+    },
+    {
+      "id": "MED-C45-36",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Time course strongly supporting GBS is:",
+      "opts": [
+        "Progression over years",
+        "Fixed deficit from onset",
+        "Progression of symptoms over days up to 4 weeks",
+        "Progression over minutes"
+      ],
+      "ans": 2,
+      "exp": "Supporting: progression of symptoms over days up to 4 weeks (Book p634)"
+    },
+    {
+      "id": "MED-C45-37",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Cranial nerve involvement in GBS most commonly affects:",
+      "opts": [
+        "III > VII",
+        "VI > IV",
+        "IX > X",
+        "VII > III"
+      ],
+      "ans": 3,
+      "exp": "Cranial nerve involvement m/c : VII > III (Book p634)"
+    },
+    {
+      "id": "MED-C45-38",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Bilateral LMN VII nerve palsy in GBS has which D/d listed?",
+      "opts": [
+        "Sarcoidosis",
+        "Tuberculosis",
+        "Diabetes",
+        "Lyme disease only"
+      ],
+      "ans": 0,
+      "exp": "B/L LMN VII nerve palsy (D/d : Sarcoidosis) (Book p634)"
+    },
+    {
+      "id": "MED-C45-39",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Recovery in GBS begins when?",
+      "opts": [
+        "Only after 1 year",
+        "2-4 weeks after progression ceases",
+        "Immediately at onset",
+        "6 months after onset"
+      ],
+      "ans": 1,
+      "exp": "Recovery begins 2-4 weeks after progression ceases (Book p634)"
+    },
+    {
+      "id": "MED-C45-40",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Which onset feature strongly supports GBS?",
+      "opts": [
+        "Rash at onset",
+        "Meningism at onset",
+        "Absence of fever at onset",
+        "High fever at onset"
+      ],
+      "ans": 2,
+      "exp": "Supporting: absence of fever at onset (Book p634)"
+    },
+    {
+      "id": "MED-C45-41",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Albuminocytological dissociation on lumbar puncture is seen in what proportion of GBS cases?",
+      "opts": [
+        "50% cases",
+        "5% cases",
+        "25% cases",
+        "90% cases"
+      ],
+      "ans": 3,
+      "exp": "Lumbar puncture: 90% cases : Albuminocytological dissociation (Book p634)"
+    },
+    {
+      "id": "MED-C45-42",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Albuminocytological dissociation is not detected in which settings?",
+      "opts": [
+        "Before 7 days and in GBS variants",
+        "After 1 month only",
+        "In AMAN only",
+        "In elderly only"
+      ],
+      "ans": 0,
+      "exp": "Not detected <7 days, and in GBS variants (Book p634)"
+    },
+    {
+      "id": "MED-C45-43",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Pleocytosis of 10-30 cells on LP occurs in what proportion of GBS cases?",
+      "opts": [
+        "50% cases",
+        "5% cases",
+        "90% cases",
+        "30% cases"
+      ],
+      "ans": 1,
+      "exp": "5% cases : Pleocytosis of 10-30 cells (Book p634)"
+    },
+    {
+      "id": "MED-C45-44",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "LP findings in GBS last only for:",
+      "opts": [
+        "6 months",
+        "1 year",
+        "1 month",
+        "1 week"
+      ],
+      "ans": 2,
+      "exp": "Findings last only for 1 month (Book p634)"
+    },
+    {
+      "id": "MED-C45-45",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "NCS findings supporting GBS include:",
+      "opts": [
+        "Normal study throughout",
+        "↑ conduction velocity with short latencies",
+        "Pure amplitude loss with normal latencies",
+        "Latency prolongation, conduction block, ↓ conduction velocity, F-wave & H reflex absent/prolonged, temporal dispersion"
+      ],
+      "ans": 3,
+      "exp": "NCS: latency prolongation, conduction block, ↓ conduction velocity, F-wave & H reflex absent/prolonged, temporal dispersion (Book p634)"
+    },
+    {
+      "id": "MED-C45-46",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not a feature excluding GBS diagnosis on this page:",
+      "opts": [
+        "Pure motor syndrome without sensory loss",
+        "Botulism",
+        "Myasthenia gravis",
+        "Abnormal porphyrin metabolism"
+      ],
+      "ans": 0,
+      "exp": "Excluding: botulism; myasthenia gravis; diphtheria; abnormal porphyrin metabolism; pure sensory syndrome (without weakness) (Book p634)"
+    },
+    {
+      "id": "MED-C45-47",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "page": 634,
+      "fmt": "recall",
+      "q": "Which sensory pattern excludes GBS?",
+      "opts": [
+        "Sensory symptoms at onset",
+        "Pure sensory syndrome without weakness",
+        "Mild sensory signs with weakness",
+        "Large fibre sensory loss with weakness"
+      ],
+      "ans": 1,
+      "exp": "Features excluding diagnosis: pure sensory syndrome (without weakness) (Book p634)"
+    },
+    {
+      "id": "MED-C45-48",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "The IVIg dose printed for GBS is:",
+      "opts": [
+        "0.2 gm/kg x 7 days",
+        "2 gm/kg single dose",
+        "0.4 gm/kg x 5 days",
+        "1 gm/kg x 2 days"
+      ],
+      "ans": 2,
+      "exp": "Treatment: IVIg (Dose : 0.4 gm/kg x 5 days) (Book p635)"
+    },
+    {
+      "id": "MED-C45-49",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "Which therapy is preferred for GBS with ANS manifestations?",
+      "opts": [
+        "IVIg",
+        "Steroids",
+        "Immunosuppressants",
+        "PLEX (plasma exchange) therapy"
+      ],
+      "ans": 3,
+      "exp": "PLEX (Plasma exchange) therapy (One filter : 5 cycles, preferred for ANS manifestations) (Book p635)"
+    },
+    {
+      "id": "MED-C45-50",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Each PLEX cycle removes and replaces what volume and fluids?",
+      "opts": [
+        "Removes 1.5 times plasma volume, replaced with 50% NS and 50% FFP",
+        "Removes 1 plasma volume, replaced with FFP only",
+        "Removes 2 times plasma volume, replaced with NS only",
+        "Removes 0.5 times plasma volume, replaced with albumin only"
+      ],
+      "ans": 0,
+      "exp": "Each cycle removes 1.5 times plasma volume; replace with 50% : NS and 50% : FFP (Book p635)"
+    },
+    {
+      "id": "MED-C45-51",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "Role of steroids in GBS is:",
+      "opts": [
+        "Used in severe ANS disease",
+        "No role for steroids",
+        "First line therapy",
+        "Adjunct to IVIg always"
+      ],
+      "ans": 1,
+      "exp": "No role for steroids (Book p635)"
+    },
+    {
+      "id": "MED-C45-52",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Adding brain stem encephalitis and hyperreflexia to the MFS feature set defines:",
+      "opts": [
+        "CIDP",
+        "AMSAN",
+        "Bickerstaff encephalitis",
+        "POEMS syndrome"
+      ],
+      "ans": 2,
+      "exp": "MFS features plus brain stem encephalitis and hyperreflexia -> Bickerstaff encephalitis (Book p635)"
+    },
+    {
+      "id": "MED-C45-53",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "The antibody positive in MFS is:",
+      "opts": [
+        "Anti GM1 antibody",
+        "Anti GD1a antibody",
+        "Anti MAG antibody",
+        "Anti GQ1b antibody"
+      ],
+      "ans": 3,
+      "exp": "MFS features: Anti GQ1b antibody (+) (Book p635)"
+    },
+    {
+      "id": "MED-C45-54",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "Treatment printed for MFS/Bickerstaff encephalitis is:",
+      "opts": [
+        "PLEX",
+        "IVIg only",
+        "Steroids",
+        "Acetazolamide"
+      ],
+      "ans": 0,
+      "exp": "Treatment of MFS/Bickerstaff: PLEX (Book p635)"
+    },
+    {
+      "id": "MED-C45-55",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Course durations of CIDP vs AIDP are:",
+      "opts": [
+        "CIDP >6 weeks; AIDP <=8 weeks",
+        "CIDP >8 weeks; AIDP <=4 weeks",
+        "CIDP >4 weeks; AIDP <=2 weeks",
+        "CIDP >12 weeks; AIDP <=6 weeks"
+      ],
+      "ans": 1,
+      "exp": "Course: CIDP >8 weeks vs AIDP <=4 weeks (Book p635)"
+    },
+    {
+      "id": "MED-C45-56",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Presentation of CIDP vs AIDP is:",
+      "opts": [
+        "Both acute emergencies",
+        "Both chronic non-emergencies",
+        "Subacute/chronic (not an emergency) vs acute (emergency)",
+        "Acute emergency vs chronic non-emergency"
+      ],
+      "ans": 2,
+      "exp": "Presentation: CIDP subacute/chronic (Not an emergency) vs AIDP acute (emergency) (Book p635)"
+    },
+    {
+      "id": "MED-C45-57",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Preceding infection proportions in CIDP vs AIDP are:",
+      "opts": [
+        "70% vs 30%",
+        "50% vs 50%",
+        "10% vs 90%",
+        "30% vs 70%"
+      ],
+      "ans": 3,
+      "exp": "Preceding infection (%): CIDP 30% vs AIDP 70% (Book p635)"
+    },
+    {
+      "id": "MED-C45-58",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Secondary causes listed for CIDP are:",
+      "opts": [
+        "Myeloma/POEMS/HIV/SLE/Hodgkins/DM/IBD",
+        "Leprosy, sarcoidosis, vasculitis",
+        "Lead, dapsone, gold",
+        "Fabry's, Tangier's, Refsum's"
+      ],
+      "ans": 0,
+      "exp": "CIDP causes: idiopathic; secondary to myeloma/POEMS/HIV/SLE/Hodgkins/DM/IBD (Book p635)"
+    },
+    {
+      "id": "MED-C45-59",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "ANS symptoms in CIDP vs AIDP are:",
+      "opts": [
+        "Absent in both",
+        "Absent in CIDP, present in AIDP",
+        "Present in CIDP, absent in AIDP",
+        "Present in both"
+      ],
+      "ans": 1,
+      "exp": "ANS symptoms: CIDP absent vs AIDP present (Book p635)"
+    },
+    {
+      "id": "MED-C45-60",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Cranial nerve involvement proportions in CIDP vs AIDP are:",
+      "opts": [
+        "50% vs 30%",
+        "Nil vs 30%",
+        "10% vs 30%",
+        "30% vs 10%"
+      ],
+      "ans": 2,
+      "exp": "Cranial nerve involvement: CIDP 10% vs AIDP 30% (Book p635)"
+    },
+    {
+      "id": "MED-C45-61",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Precise point of onset in CIDP vs AIDP is:",
+      "opts": [
+        "(+) in CIDP, (-) in AIDP",
+        "(+) in both",
+        "(-) in both",
+        "(-) in CIDP, (+) in AIDP"
+      ],
+      "ans": 3,
+      "exp": "Precise point of onset: CIDP (-) vs AIDP (+) (Book p635)"
+    },
+    {
+      "id": "MED-C45-62",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "recall",
+      "q": "Ventilator requirement and mortality in CIDP vs AIDP are:",
+      "opts": [
+        "No ventilator and nil mortality in CIDP; ventilator required in bad prognosis and 10-15% mortality in AIDP",
+        "Ventilator always in CIDP; never in AIDP",
+        "Nil mortality in both",
+        "10-15% mortality in CIDP"
+      ],
+      "ans": 0,
+      "exp": "Ventilator: CIDP No vs AIDP required in bad prognosis; mortality: CIDP Nil vs AIDP 10-15% (Book p635)"
+    },
+    {
+      "id": "MED-C45-63",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "The drug of choice in CIDP is:",
+      "opts": [
+        "No treatment",
+        "Steroid",
+        "IVIg first line in all cases",
+        "PLEX first line in all cases"
+      ],
+      "ans": 1,
+      "exp": "CIDP treatment: Steroid (DOC) (Book p635)"
+    },
+    {
+      "id": "MED-C45-64",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "Resistant CIDP cases and pure motor CIDP are treated respectively with:",
+      "opts": [
+        "Steroid and PLEX",
+        "Acetazolamide and PLEX",
+        "PLEX and IVIg",
+        "IVIg and steroid"
+      ],
+      "ans": 2,
+      "exp": "CIDP: PLEX (Resistant cases); IVIg (Pure motor CIDP) (Book p635)"
+    },
+    {
+      "id": "MED-C45-65",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "page": 635,
+      "fmt": "management",
+      "q": "AIDP treatment per the table is:",
+      "opts": [
+        "Steroid DOC",
+        "PLEX only in all cases",
+        "IVIg never used",
+        "Steroids not used; IVIg/PLEX"
+      ],
+      "ans": 3,
+      "exp": "AIDP treatment: steroids not used; IVIg/PLEX (Book p635)"
+    },
+    {
+      "id": "MED-C45-66",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "Affected systems in CIDP are described as:",
+      "opts": [
+        "Prominent sensory involvement (large fibre symptoms, distal -> proximal) with gradually progressive distal -> proximal, lower limb predominant motor symptoms",
+        "Predominantly motor with minimal sensory involvement",
+        "Pure autonomic involvement",
+        "Pure cranial nerve involvement"
+      ],
+      "ans": 0,
+      "exp": "CIDP affected systems: prominent sensory involvement (large fibre symptoms; distal -> proximal); motor symptoms gradually progressive, distal -> proximal, lower limb predominant (Book p636)"
+    },
+    {
+      "id": "MED-C45-67",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "Affected systems in AIDP are described as:",
+      "opts": [
+        "Pure autonomic",
+        "Predominantly motor with minimal sensory involvement",
+        "Prominent sensory with mild motor",
+        "Pure sensory"
+      ],
+      "ans": 1,
+      "exp": "AIDP affected systems: predominantly motor; minimal sensory involvement (Book p636)"
+    },
+    {
+      "id": "MED-C45-68",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "CIDP is associated with:",
+      "opts": [
+        "Pure sensory ganglionopathy",
+        "Orange tonsils",
+        "Relapsing neuropathy and nerve thickening",
+        "Monophasic course and thin nerves"
+      ],
+      "ans": 2,
+      "exp": "CIDP is associated with : relapsing neuropathy; nerve thickening (Book p636)"
+    },
+    {
+      "id": "MED-C45-69",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "Large fibre sensory symptoms listed are:",
+      "opts": [
+        "Burning pain and ulceration",
+        "Orthostatic hypotension and anhidrosis",
+        "Fasciculations and cramps",
+        "Tingling, numbness, dysesthesia, paraesthesia, cotton wool sensation, sensory ataxia"
+      ],
+      "ans": 3,
+      "exp": "Large fiber sensory symptoms: tingling; numbness; dysesthesia; paraesthesia; cotton wool sensation; sensory ataxia (Book p636)"
+    },
+    {
+      "id": "MED-C45-70",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "Nerve thickening is also seen in:",
+      "opts": [
+        "Leprosy and charcot marie tooth disease",
+        "Diabetes and uremia",
+        "Lead and dapsone",
+        "GBS and AIDP"
+      ],
+      "ans": 0,
+      "exp": "Nerve thickening also seen in : leprosy; charcot marie tooth disease (Book p636)"
+    },
+    {
+      "id": "MED-C45-71",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "The characteristic feature of POEMS syndrome includes:",
+      "opts": [
+        "Increased EPO",
+        "Increased VEGF",
+        "Decreased VEGF",
+        "Normal VEGF with ↑ IL-6 only"
+      ],
+      "ans": 1,
+      "exp": "POEMS characteristic feature: increased VEGF (Book p636)"
+    },
+    {
+      "id": "MED-C45-72",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "The myeloma type in POEMS syndrome is:",
+      "opts": [
+        "IgM myeloma",
+        "Non-secretory myeloma",
+        "λ light chain myeloma",
+        "κ light chain myeloma"
+      ],
+      "ans": 2,
+      "exp": "POEMS: λ light chain myeloma (Book p636)"
+    },
+    {
+      "id": "MED-C45-73",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "In POEMS the P (polyneuropathy) refers to:",
+      "opts": [
+        "AIDP",
+        "AMAN",
+        "MFS",
+        "CIDP"
+      ],
+      "ans": 3,
+      "exp": "Polyneuropathy (P) refers to CIDP (Book p636)"
+    },
+    {
+      "id": "MED-C45-74",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "The bone lesion type in POEMS syndrome is:",
+      "opts": [
+        "Osteosclerotic lesions",
+        "Osteolytic lesions only",
+        "Osteoporotic fractures",
+        "Periosteal reaction"
+      ],
+      "ans": 0,
+      "exp": "POEMS: osteosclerotic lesions (Book p636)"
+    },
+    {
+      "id": "MED-C45-75",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "The associated syndrome of POEMS that is refractory to therapy is:",
+      "opts": [
+        "Turner syndrome",
+        "Castleman syndrome",
+        "Down syndrome",
+        "Marfan syndrome"
+      ],
+      "ans": 1,
+      "exp": "Associated syndrome : Castleman syndrome; refractory to therapy (Book p636)"
+    },
+    {
+      "id": "MED-C45-76",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "MMN-CB is characterised by:",
+      "opts": [
+        "Symmetric proximal weakness",
+        "Cranial nerve predominant weakness",
+        "Pure motor neuropathy with associated atrophy, lasting years, asymmetric, upper limb > lower limb",
+        "Pure sensory neuropathy with atrophy"
+      ],
+      "ans": 2,
+      "exp": "MMN-CB: pure motor neuropathy with associated atrophy; lasting for years; asymmetric presentation; upper limb > lower limb involvement (Book p636)"
+    },
+    {
+      "id": "MED-C45-77",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "Diagnosis and antibody of MMN-CB are:",
+      "opts": [
+        "Axonal loss in NCS; anti-GQ1b antibody",
+        "Demyelination in NCS; anti-GD1a antibody",
+        "Normal NCS; anti-MAG antibody",
+        "Demyelination in NCS; anti-GM1 antibody (D/d : GBS)"
+      ],
+      "ans": 3,
+      "exp": "MMN-CB: diagnosis demyelination in NCS; antibody anti-GM1 antibody (D/d : GBS) (Book p636)"
+    },
+    {
+      "id": "MED-C45-78",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "page": 636,
+      "fmt": "recall",
+      "q": "Other conditions with pure motor neuropathy listed are:",
+      "opts": [
+        "Lead poisoning and dapsone toxicity",
+        "Diabetes and uremia",
+        "HIV and leprosy",
+        "Fabry's and Tangier's"
+      ],
+      "ans": 0,
+      "exp": "Other conditions with pure motor neuropathy : lead poisoning, dapsone toxicity (Book p636)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U45-1",
+      "ch": 45,
+      "n": 1,
+      "title": "1. Definition, Classification Subtypes and AIDP Pathophysiology",
+      "sec": "GBS Definition, Classification & AIDP",
+      "guide": "GBS is acute (<=4 weeks) bilaterally symmetrical inflammatory autoimmune polyradiculoneuropathy; CIDP is its chronic (>8 weeks) counterpart.\nSubtypes: AIDP (anti-GM1, demyelinating, best prognosis), AMAN (children and young adults, anti-GD1a, axonal), AMSAN (mostly adults, axonal) and MFS (rarest; ophthalmoplegia, ataxia, areflexia; anti-GQ1b); AMAN, AMSAN and MFS share poor prognosis and all antibodies are IgGs.\nAIDP is m/c with mean age 40 years and male > female; antibodies bind myelin, activate complement, invite macrophage invasion and cause vesicular degeneration.",
+      "qs": [
+        "MED-C45-01",
+        "MED-C45-02",
+        "MED-C45-03",
+        "MED-C45-04",
+        "MED-C45-05",
+        "MED-C45-06",
+        "MED-C45-07",
+        "MED-C45-08",
+        "MED-C45-09",
+        "MED-C45-10",
+        "MED-C45-11",
+        "MED-C45-12",
+        "MED-C45-13"
+      ]
+    },
+    {
+      "id": "MED-U45-2",
+      "ch": 45,
+      "n": 2,
+      "title": "2. Clinical Presentation, Examination, Progression and Prognosis",
+      "sec": "GBS Presentation, Progression & Prognosis",
+      "guide": "Presentation flows from sensory symptoms (B/L tingling and numbness of lower limbs, rubbery legs) through mild transient bowel and bladder dysfunction to motor symptoms (bilateral lower limb weakness).\nExamination early shows normal higher mental function, cranial nerves and upper limb motor with bilateral atonic areflexic paraparesis (proximal + distal) of lower limbs and large fibre (A-alpha) sensory loss.\nProgression is rapid: >=24 hours since incident, areflexic ascending paralysis from lower to upper limb, cranial nerve involvement in 30% (4-15% mortality), brainstem involvement, respiratory centre affection and ventilation. 80% recover (5-10% with persistent weakness); survival is 85-90% with early intervention; bad prognostic factors are ANS manifestations.",
+      "qs": [
+        "MED-C45-14",
+        "MED-C45-15",
+        "MED-C45-16",
+        "MED-C45-17",
+        "MED-C45-18",
+        "MED-C45-19",
+        "MED-C45-20",
+        "MED-C45-21",
+        "MED-C45-22",
+        "MED-C45-23",
+        "MED-C45-24",
+        "MED-C45-25",
+        "MED-C45-26",
+        "MED-C45-27",
+        "MED-C45-28",
+        "MED-C45-29",
+        "MED-C45-30"
+      ]
+    },
+    {
+      "id": "MED-U45-3",
+      "ch": 45,
+      "n": 3,
+      "title": "3. Inciting Factors and Diagnostic Criteria",
+      "sec": "Inciting Factors & Diagnostic Criteria",
+      "guide": "Inciting factors: gastroenteritis/URTI in the past 4 weeks in 60-70% of GBS cases; associated infections C. jejuni, CMV, EBV, mycoplasma, Hep A/B and HIV; vaccination association; molecular mimicry. C. jejuni also links to IPSID.\nEssential features are progressive weakness in both arms and legs (legs -> arms) and areflexia; strong support includes progression over days up to 4 weeks, relative symmetry, mild sensory signs, cranial nerve involvement (m/c VII > III, B/L LMN VII palsy with sarcoidosis as D/d), recovery beginning 2-4 weeks after progression ceases, autonomic dysfunction and absence of fever at onset.\nLumbar puncture shows albuminocytological dissociation in 90% (not detected <7 days and in GBS variants), pleocytosis of 10-30 cells in 5%, findings lasting only 1 month; NCS shows latency prolongation, conduction block, reduced velocity, absent or prolonged F-wave and H reflex and temporal dispersion. Exclusions: botulism, myasthenia gravis, diphtheria, abnormal porphyrin metabolism and pure sensory syndrome.",
+      "qs": [
+        "MED-C45-31",
+        "MED-C45-32",
+        "MED-C45-33",
+        "MED-C45-34",
+        "MED-C45-35",
+        "MED-C45-36",
+        "MED-C45-37",
+        "MED-C45-38",
+        "MED-C45-39",
+        "MED-C45-40",
+        "MED-C45-41",
+        "MED-C45-42",
+        "MED-C45-43",
+        "MED-C45-44",
+        "MED-C45-45",
+        "MED-C45-46",
+        "MED-C45-47"
+      ]
+    },
+    {
+      "id": "MED-U45-4",
+      "ch": 45,
+      "n": 4,
+      "title": "4. Treatment, MFS/Bickerstaff Encephalitis and CIDP vs AIDP",
+      "sec": "GBS Treatment, MFS/Bickerstaff & CIDP vs AIDP",
+      "guide": "Treatment: IVIg 0.4 gm/kg x 5 days; PLEX (one filter : 5 cycles) preferred for ANS manifestations, each cycle removing 1.5 times plasma volume replaced with 50% NS and 50% FFP; no role for steroids.\nMFS (ophthalmoplegia, ataxia, areflexia, anti-GQ1b +) plus brain stem encephalitis and hyperreflexia defines Bickerstaff encephalitis; treatment is PLEX.\nCIDP runs >8 weeks with subacute/chronic non-emergency presentation, 30% preceding infection, secondary causes (myeloma/POEMS/HIV/SLE/Hodgkins/DM/IBD), absent ANS symptoms, 10% cranial nerve involvement, no precise onset point, no ventilator need and nil mortality; treatment is steroid (DOC), PLEX for resistant cases and IVIg for pure motor CIDP, whereas AIDP uses IVIg/PLEX and not steroids.",
+      "qs": [
+        "MED-C45-48",
+        "MED-C45-49",
+        "MED-C45-50",
+        "MED-C45-51",
+        "MED-C45-52",
+        "MED-C45-53",
+        "MED-C45-54",
+        "MED-C45-55",
+        "MED-C45-56",
+        "MED-C45-57",
+        "MED-C45-58",
+        "MED-C45-59",
+        "MED-C45-60",
+        "MED-C45-61",
+        "MED-C45-62",
+        "MED-C45-63",
+        "MED-C45-64",
+        "MED-C45-65"
+      ]
+    },
+    {
+      "id": "MED-U45-5",
+      "ch": 45,
+      "n": 5,
+      "title": "5. CIDP Affected Systems, POEMS Syndrome and MMN-CB",
+      "sec": "CIDP Systems, POEMS & MMN-CB",
+      "guide": "CIDP shows prominent sensory involvement with large fibre symptoms and distal-to-proximal spread plus gradually progressive distal-to-proximal lower-limb-predominant motor symptoms, while AIDP is predominantly motor with minimal sensory involvement.\nCIDP is associated with relapsing neuropathy and nerve thickening; large fibre sensory symptoms are tingling, numbness, dysesthesia, paraesthesia, cotton wool sensation and sensory ataxia; nerve thickening also occurs in leprosy and CMT.\nPOEMS shows increased VEGF, lambda light chain myeloma, polyneuropathy referring to CIDP and osteosclerotic lesions, with Castleman syndrome refractory to therapy. MMN-CB is a pure motor neuropathy with atrophy lasting years, asymmetric, upper limb predominant, demyelinating on NCS with anti-GM1 antibody (D/d GBS); other pure motor causes are lead poisoning and dapsone toxicity.",
+      "qs": [
+        "MED-C45-66",
+        "MED-C45-67",
+        "MED-C45-68",
+        "MED-C45-69",
+        "MED-C45-70",
+        "MED-C45-71",
+        "MED-C45-72",
+        "MED-C45-73",
+        "MED-C45-74",
+        "MED-C45-75",
+        "MED-C45-76",
+        "MED-C45-77",
+        "MED-C45-78"
+      ]
+    }
+  ]
+}

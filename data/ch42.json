@@ -1,0 +1,1557 @@
+{
+  "chapter": 42,
+  "title": "LMN Approach : Part 1",
+  "pageRange": "618-623",
+  "questions": [
+    {
+      "id": "MED-C42-01",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "In the book's spinal cord sketch, grey matter and white matter correspond to which structures respectively?",
+      "opts": [
+        "Roots and columns",
+        "Columns and roots",
+        "Horns and tracts",
+        "Tracts and horns"
+      ],
+      "ans": 2,
+      "exp": "Spinal Cord: Grey matter : Horns; White matter : Tracts (Book p618)"
+    },
+    {
+      "id": "MED-C42-02",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "The ventral horn callout of the spinal cord sketch identifies which neurons?",
+      "opts": [
+        "α, β sensory neurons",
+        "γ, δ interneurons only",
+        "β, δ autonomic neurons",
+        "α, γ motor neurons (mn)"
+      ],
+      "ans": 3,
+      "exp": "Ventral horn callout: α, γ motor neurons (mn) (Book p618)"
+    },
+    {
+      "id": "MED-C42-03",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Which cranial nerve nuclei are tabulated against the midbrain?",
+      "opts": [
+        "3, 4",
+        "5, 6, 7, 8",
+        "9, 10, 11, 12",
+        "1, 2"
+      ],
+      "ans": 0,
+      "exp": "Brain stem table: midbrain cranial nerve nuclei 3, 4 (Book p618)"
+    },
+    {
+      "id": "MED-C42-04",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Which cranial nerve nuclei are tabulated against the pons?",
+      "opts": [
+        "1, 2, 3",
+        "5, 6, 7, 8",
+        "3, 4",
+        "9, 10, 11, 12"
+      ],
+      "ans": 1,
+      "exp": "Brain stem table: Pons cranial nerve nuclei 5, 6, 7, 8 (Book p618)"
+    },
+    {
+      "id": "MED-C42-05",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Which cranial nerve nuclei are tabulated against the medulla?",
+      "opts": [
+        "3, 4",
+        "6, 7, 8",
+        "9, 10, 11, 12",
+        "5, 6, 7, 8"
+      ],
+      "ans": 2,
+      "exp": "Brain stem table: Medulla cranial nerve nuclei 9, 10, 11, 12 (Book p618)"
+    },
+    {
+      "id": "MED-C42-06",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "In the page flowchart, anterior horn cell plus cranial nerve nuclei together constitute which structure?",
+      "opts": [
+        "UMN (Upper Motor Neuron)",
+        "Corticobulbar tract only",
+        "Dorsal root ganglion",
+        "LMN (Lower Motor Neuron)"
+      ],
+      "ans": 3,
+      "exp": "Flow: Anterior Horn Cell (AHC) + Cranial Nerve Nuclei -> LMN (Lower Motor Neuron) (Book p618)"
+    },
+    {
+      "id": "MED-C42-07",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "The LMN box of the flowchart branches into which two tracts?",
+      "opts": [
+        "Corticobulbar tract and corticospinal tract",
+        "Spinothalamic and posterior column tracts",
+        "Rubrospinal and vestibulospinal tracts",
+        "Corticopontine and tectospinal tracts"
+      ],
+      "ans": 0,
+      "exp": "LMN branches to Corticobulbar tract and Corticospinal tract (Book p618)"
+    },
+    {
+      "id": "MED-C42-08",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Sites of lesion listed for an upper motor neuron lesion are:",
+      "opts": [
+        "Dorsal root ganglion and spinal nerve root",
+        "Cerebral hemispheres, cerebellum, brainstem, spinal cord",
+        "Anterior horn cell, nerve roots, plexus, muscle",
+        "Peripheral nerves and neuromuscular junction only"
+      ],
+      "ans": 1,
+      "exp": "UMN lesion sites: cerebral hemispheres, cerebellum, brainstem, spinal cord (Book p618)"
+    },
+    {
+      "id": "MED-C42-09",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Sites of lesion listed for a lower motor neuron lesion are:",
+      "opts": [
+        "Cortex and internal capsule only",
+        "Brainstem nuclei and corticospinal tract",
+        "Anterior horn cell, nerve roots, peripheral nerves, neuromuscular junction, muscles",
+        "Cerebral hemispheres, cerebellum, brainstem, spinal cord"
+      ],
+      "ans": 2,
+      "exp": "LMN lesion sites: anterior horn cell, nerve roots, peripheral nerves, neuromuscular junction, muscles (Book p618)"
+    },
+    {
+      "id": "MED-C42-10",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "The UMN column of the weakness row lists which patterns?",
+      "opts": [
+        "Proximal and distal monoparesis",
+        "Proximal myopathic and distal neuropathic weakness",
+        "Isolated fasciculating weakness",
+        "Quadriplegia, hemiplegia, diplegia, paraplegia"
+      ],
+      "ans": 3,
+      "exp": "UMN muscle weakness: quadriplegia, hemiplegia, diplegia, paraplegia (Book p618)"
+    },
+    {
+      "id": "MED-C42-11",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "How does the table split LMN weakness by pathology?",
+      "opts": [
+        "Proximal in myopathy, distal in neuropathy",
+        "Distal in myopathy, proximal in neuropathy",
+        "Proximal in both myopathy and neuropathy",
+        "Axial in myopathy, facial in neuropathy"
+      ],
+      "ans": 0,
+      "exp": "LMN muscle weakness: Proximal (myopathy), Distal (neuropathy) (Book p618)"
+    },
+    {
+      "id": "MED-C42-12",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "scenario",
+      "q": "A pure anterior horn cell lesion is examined. Which muscle tone does the UMN vs LMN table predict?",
+      "opts": [
+        "Cogwheel rigidity with spasticity",
+        "Hypotonia",
+        "Spasticity",
+        "Rigidity"
+      ],
+      "ans": 1,
+      "exp": "LMN lesion muscle tone: Hypotonia (UMN shows spasticity, rigidity) (Book p618)"
+    },
+    {
+      "id": "MED-C42-13",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Fasciculations in the UMN vs LMN table are:",
+      "opts": [
+        "Present in both, worse in UMN",
+        "Absent in both",
+        "Absent in UMN and present in LMN, particularly tongue",
+        "Present in UMN and absent in LMN"
+      ],
+      "ans": 2,
+      "exp": "Fasciculations: UMN absent; LMN present (particularly tongue) (Book p618)"
+    },
+    {
+      "id": "MED-C42-14",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "Tendon reflexes in the UMN vs LMN table are:",
+      "opts": [
+        "Hypo/areflexia in UMN and hyperreflexia in LMN",
+        "Normal in both",
+        "Absent in both",
+        "Hyperreflexia in UMN and hypo/areflexia in LMN"
+      ],
+      "ans": 3,
+      "exp": "Tendon reflexes: UMN hyperreflexia; LMN hypo/areflexia (Book p618)"
+    },
+    {
+      "id": "MED-C42-15",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "recall",
+      "q": "The LMN constituents figure chains the pathway in which order?",
+      "opts": [
+        "Anterior horn, dorsal root ganglion, spinal nerve root, plexus, peripheral nerve, neuromuscular junction, muscle",
+        "Dorsal root ganglion, anterior horn, plexus, spinal nerve root, muscle, peripheral nerve, neuromuscular junction",
+        "Anterior horn, plexus, spinal nerve root, dorsal root ganglion, peripheral nerve, muscle, neuromuscular junction",
+        "Spinal nerve root, anterior horn, dorsal root ganglion, peripheral nerve, plexus, neuromuscular junction, muscle"
+      ],
+      "ans": 0,
+      "exp": "LMN constituents: 1 anterior horn, 2 dorsal root ganglion, 3 spinal nerve root, 4 plexus, 5 peripheral nerve, 6 neuromuscular junction, 7 muscle (Book p618)"
+    },
+    {
+      "id": "MED-C42-16",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "numeric",
+      "q": "Which numbered callout marks the neuromuscular junction in the LMN constituents figure?",
+      "opts": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "ans": 1,
+      "exp": "LMN constituents figure: (6) Neuromuscular junction (Book p618)"
+    },
+    {
+      "id": "MED-C42-17",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "page": 618,
+      "fmt": "numeric",
+      "q": "Which numbered callout marks the plexus in the LMN constituents figure?",
+      "opts": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "ans": 2,
+      "exp": "LMN constituents figure: (4) Plexus (Book p618)"
+    },
+    {
+      "id": "MED-C42-18",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "Which triad of sites is bracketed to the pathology myopathy in the effect-site table?",
+      "opts": [
+        "Root, plexus and nerve",
+        "Ganglion, root and nerve",
+        "AHC, root and ganglion",
+        "AHC, NMJ and muscle"
+      ],
+      "ans": 3,
+      "exp": "Pure motor sites AHC, NMJ, Muscle are bracketed to Myopathy (Book p619)"
+    },
+    {
+      "id": "MED-C42-19",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "A lesion at the spinal nerve root produces which sensorimotor pathology?",
+      "opts": [
+        "Radiculopathy",
+        "Plexopathy",
+        "Neuropathy",
+        "Ganglionopathy"
+      ],
+      "ans": 0,
+      "exp": "Sensorimotor: Root -> Radiculopathy (Book p619)"
+    },
+    {
+      "id": "MED-C42-20",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "A lesion at the plexus and at the peripheral nerve are termed respectively:",
+      "opts": [
+        "Ganglionopathy and radiculopathy",
+        "Plexopathy and neuropathy",
+        "Neuropathy and plexopathy",
+        "Radiculopathy and ganglionopathy"
+      ],
+      "ans": 1,
+      "exp": "Sensorimotor: Plexus -> Plexopathy; Nerve -> Neuropathy (Book p619)"
+    },
+    {
+      "id": "MED-C42-21",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "Pure sensory effect in the table maps ganglion lesions to which pathology?",
+      "opts": [
+        "Plexopathy",
+        "Myopathy",
+        "Ganglionopathy",
+        "Radiculopathy"
+      ],
+      "ans": 2,
+      "exp": "Pure sensory: Ganglion -> Ganglionopathy (Book p619)"
+    },
+    {
+      "id": "MED-C42-22",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "Compressive radiculopathy is stated to be caused most commonly by:",
+      "opts": [
+        "Spinal tumour",
+        "Guillain Barre syndrome",
+        "Diabetic amyotrophy",
+        "Intervertebral disc prolapse (IVDP)"
+      ],
+      "ans": 3,
+      "exp": "Compressive radiculopathy: Intervertebral disc prolapse (IVDP) (m/c) (Book p619)"
+    },
+    {
+      "id": "MED-C42-23",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "Non-compressive radiculopathy is attributed in the note to:",
+      "opts": [
+        "Guillain Barre syndrome",
+        "Intervertebral disc prolapse",
+        "Leprosy",
+        "Vasculitis"
+      ],
+      "ans": 0,
+      "exp": "Note: Non-compressive radiculopathy d/t Guillain Barre syndrome (Book p619)"
+    },
+    {
+      "id": "MED-C42-24",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "The pain of radiculopathy is characterised as:",
+      "opts": [
+        "Throbbing pain relieved by cough",
+        "Sharp, brief, lancinating pain",
+        "Dull, aching, continuous deep seated pain",
+        "Burning pain with stocking-glove spread"
+      ],
+      "ans": 1,
+      "exp": "Radiculopathy pain: sharp, brief, lancinating pain (Book p619)"
+    },
+    {
+      "id": "MED-C42-25",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "Radicular pain worsens with which manoeuvres?",
+      "opts": [
+        "Cold exposure",
+        "Fasting",
+        "Cough or movement along the radical",
+        "Rest and recumbency only"
+      ],
+      "ans": 2,
+      "exp": "Radiculopathy pain worsens with cough or movement along the radical (Book p619)"
+    },
+    {
+      "id": "MED-C42-26",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "Radiculopathy is described as having which symmetry?",
+      "opts": [
+        "Symmetrical stocking-glove",
+        "Always bilateral",
+        "Midline only",
+        "Asymmetrical"
+      ],
+      "ans": 3,
+      "exp": "Radiculopathy C/F: Asymmetrical (Book p619)"
+    },
+    {
+      "id": "MED-C42-27",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "The myotomal distribution of radiculopathy comprises:",
+      "opts": [
+        "Weakness along the root and loss of deep tendon reflex",
+        "Sensory loss only with preserved reflexes",
+        "Pure sensory ganglionopathy",
+        "Bulbar weakness with fasciculations"
+      ],
+      "ans": 0,
+      "exp": "Myotomal distribution: weakness along the root; loss of deep tendon reflex (DTR) (Book p619)"
+    },
+    {
+      "id": "MED-C42-28",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "numeric",
+      "q": "Which action is tabulated for root L1?",
+      "opts": [
+        "Foot dorsiflexion",
+        "Hip flexion",
+        "Hip adduction",
+        "Knee extension"
+      ],
+      "ans": 1,
+      "exp": "Root values: L1 = Hip flexion (Book p619)"
+    },
+    {
+      "id": "MED-C42-29",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "numeric",
+      "q": "Which action is tabulated for root L2?",
+      "opts": [
+        "Knee extension + foot dorsiflexion",
+        "Plantar flexion",
+        "Hip adduction",
+        "Hip flexion"
+      ],
+      "ans": 2,
+      "exp": "Root values: L2 = Hip adduction (Book p619)"
+    },
+    {
+      "id": "MED-C42-30",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "numeric",
+      "q": "Roots L3, L4 are tabulated with which action and DTR?",
+      "opts": [
+        "Hip adduction; no DTR",
+        "Foot dorsiflexion (extensor hallucis longus); ankle jerk",
+        "Knee flexion + plantar flexion; no DTR",
+        "Knee extension + foot dorsiflexion (tibialis anterior); knee jerk"
+      ],
+      "ans": 3,
+      "exp": "Root values: L3, L4 = Knee extension + Foot dorsiflexion (Tibialis anterior), DTR knee jerk (Book p619)"
+    },
+    {
+      "id": "MED-C42-31",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "numeric",
+      "q": "Root L5 is tabulated with which action set and DTR as printed?",
+      "opts": [
+        "Foot dorsiflexion (extensor hallucis longus), eversion + hip abduction; ankle jerk",
+        "Knee extension + foot dorsiflexion; knee jerk",
+        "Knee flexion + hip extension + plantar flexion; no DTR",
+        "Hip flexion + hip adduction; no DTR"
+      ],
+      "ans": 0,
+      "exp": "Root values as printed: L5 = Foot dorsiflexion (Extensor hallucis longus) Eversion + Hip abduction, DTR ankle jerk (Book p619)"
+    },
+    {
+      "id": "MED-C42-32",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "numeric",
+      "q": "Root S1 is tabulated with which actions?",
+      "opts": [
+        "Knee extension + foot dorsiflexion",
+        "Knee flexion + hip extension + plantar flexion",
+        "Foot dorsiflexion + eversion",
+        "Hip flexion + hip adduction"
+      ],
+      "ans": 1,
+      "exp": "Root values: S1 = Knee flexion + Hip extension + Plantar flexion (Book p619)"
+    },
+    {
+      "id": "MED-C42-33",
+      "sec": "Site of Lesion & Radiculopathy",
+      "page": 619,
+      "fmt": "recall",
+      "q": "The lower limb dermatome figure annotates which axial landmark?",
+      "opts": [
+        "Midline sacral raphe",
+        "Lateral femoral cutaneous line",
+        "Ventral axial line of lower limb",
+        "Dorsal axial line of upper limb"
+      ],
+      "ans": 2,
+      "exp": "Lower limb dermatomes figure callout: Ventral axial line of lower limb (Book p619)"
+    },
+    {
+      "id": "MED-C42-34",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Foot drop without loss of inversion is the C/F of which lesion?",
+      "opts": [
+        "Sciatic nerve",
+        "L5 radiculopathy",
+        "S1 radiculopathy",
+        "Common peroneal nerve"
+      ],
+      "ans": 3,
+      "exp": "Foot drop table: Common Peroneal Nerve -> Foot drop (Book p620)"
+    },
+    {
+      "id": "MED-C42-35",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Foot drop with loss of inversion but preserved hip abduction is the C/F of:",
+      "opts": [
+        "Sciatic nerve",
+        "Common peroneal nerve",
+        "L5 radiculopathy",
+        "Femoral nerve"
+      ],
+      "ans": 0,
+      "exp": "Foot drop table: Sciatic Nerve -> Foot drop, loss of inversion (Book p620)"
+    },
+    {
+      "id": "MED-C42-36",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Foot drop with loss of inversion plus loss of hip abduction and eversion localises to:",
+      "opts": [
+        "S1 radiculopathy",
+        "L5 radiculopathy",
+        "Common peroneal nerve",
+        "Sciatic nerve"
+      ],
+      "ans": 1,
+      "exp": "Foot drop table: L5 Radiculopathy -> foot drop, loss of inversion, loss of hip abduction, eversion (Book p620)"
+    },
+    {
+      "id": "MED-C42-37",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "scenario",
+      "q": "A patient has foot drop and cannot invert the foot, yet hip abduction is intact. Which lesion fits the table?",
+      "opts": [
+        "Common peroneal nerve",
+        "Tibial nerve",
+        "Sciatic nerve",
+        "L5 radiculopathy"
+      ],
+      "ans": 2,
+      "exp": "Sciatic nerve: foot drop + loss of inversion; L5 radiculopathy would also lose hip abduction and eversion (Book p620)"
+    },
+    {
+      "id": "MED-C42-38",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "numeric",
+      "q": "The biceps jerk root value tabulated for the upper limb is:",
+      "opts": [
+        "C6-C7",
+        "C8-T1",
+        "C3-C4",
+        "C5-C6"
+      ],
+      "ans": 3,
+      "exp": "Upper limb DTR table: Biceps jerk = C5-C6 (Book p620)"
+    },
+    {
+      "id": "MED-C42-39",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "numeric",
+      "q": "The triceps jerk root value tabulated for the upper limb is:",
+      "opts": [
+        "C6-C7",
+        "C5-C6",
+        "C8-T1",
+        "T1-T2"
+      ],
+      "ans": 0,
+      "exp": "Upper limb DTR table: Triceps jerk = C6-C7 (Book p620)"
+    },
+    {
+      "id": "MED-C42-40",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "numeric",
+      "q": "Finger flexion is tabulated with which root value?",
+      "opts": [
+        "C7-C8",
+        "C8-T1",
+        "C5-C6",
+        "C6-C7"
+      ],
+      "ans": 1,
+      "exp": "Upper limb DTR table: Finger flexion = C8-T1 (Book p620)"
+    },
+    {
+      "id": "MED-C42-41",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "The cause column of the radiculopathy vs plexopathy table pairs:",
+      "opts": [
+        "Diabetes with radiculopathy and leprosy with plexopathy",
+        "GBS with radiculopathy and vasculitis with plexopathy",
+        "IVDP with radiculopathy and tumour with plexopathy",
+        "Tumour with radiculopathy and IVDP with plexopathy"
+      ],
+      "ans": 2,
+      "exp": "Radiculopathy vs plexopathy: Cause IVDP vs Tumor (Book p620)"
+    },
+    {
+      "id": "MED-C42-42",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Plexopathy pain is described as:",
+      "opts": [
+        "Sharp, brief, lancinating pain",
+        "Electric shock pain on neck flexion",
+        "Burning pain relieved by rest",
+        "Dull aching, continuous, deep seated pain"
+      ],
+      "ans": 3,
+      "exp": "Plexopathy C/f: dull aching, continuous, deep seated pain (Book p620)"
+    },
+    {
+      "id": "MED-C42-43",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Which distribution clue separates plexopathy in the comparison table?",
+      "opts": [
+        "Proximal + distal features",
+        "Purely distal features",
+        "Purely proximal features",
+        "Midline truncal features"
+      ],
+      "ans": 0,
+      "exp": "Plexopathy C/f: proximal + distal features (Book p620)"
+    },
+    {
+      "id": "MED-C42-44",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "scenario",
+      "q": "Nerve conduction study shows the paraspinal (posterior root) supply intact. Which lesion does the table favour?",
+      "opts": [
+        "Ganglionopathy",
+        "Plexopathy",
+        "Radiculopathy",
+        "Polyneuropathy"
+      ],
+      "ans": 1,
+      "exp": "Plexopathy: paraspinal supply (posterior root) intact; radiculopathy affects anterior + posterior root (Book p620)"
+    },
+    {
+      "id": "MED-C42-45",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "In radiculopathy the nerve conduction study shows:",
+      "opts": [
+        "Normal study with preserved F waves",
+        "Purely distal axonal loss",
+        "(Anterior + posterior) root affected",
+        "Only paraspinal supply affected"
+      ],
+      "ans": 2,
+      "exp": "Radiculopathy NCS: (Anterior + posterior) root affected (Book p620)"
+    },
+    {
+      "id": "MED-C42-46",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Carpal tunnel syndrome in females and males is annotated respectively as:",
+      "opts": [
+        "Female - amyloidosis; male - (N)",
+        "Female - hypothyroidism; male - (N)",
+        "Female - (N); male - leprosy",
+        "Female - (N); male - amyloidosis"
+      ],
+      "ans": 3,
+      "exp": "Mononeuropathy: Carpal Tunnel Syndrome female - (N), male - Amyloidosis (Book p620)"
+    },
+    {
+      "id": "MED-C42-47",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Mononeuritis multiplex is defined as:",
+      "opts": [
+        "Multiple single nerves involved",
+        "A single nerve involved at multiple sites",
+        "Symmetrical polyneuropathy of all nerves",
+        "Root and plexus involvement together"
+      ],
+      "ans": 0,
+      "exp": "Mononeuritis multiplex: multiple single nerves involved (Book p620)"
+    },
+    {
+      "id": "MED-C42-48",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "The most common cause of mononeuritis multiplex listed is:",
+      "opts": [
+        "Vasculitis",
+        "Leprosy",
+        "HIV",
+        "Amyloidosis"
+      ],
+      "ans": 1,
+      "exp": "Mononeuritis multiplex causes: Leprosy (m/c) (Book p620)"
+    },
+    {
+      "id": "MED-C42-49",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not listed among causes of mononeuritis multiplex on this page:",
+      "opts": [
+        "Neurofibromatosis",
+        "Cryoglobulinemia",
+        "Diabetes mellitus",
+        "HIV"
+      ],
+      "ans": 2,
+      "exp": "Causes listed: Leprosy, HIV, Amyloidosis, Sarcoidosis, Neurofibromatosis, Vasculitis (PAN, Cryoglobulinemia); diabetes is not listed (Book p620)"
+    },
+    {
+      "id": "MED-C42-50",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Vasculitic mononeuritis multiplex is linked to which two conditions?",
+      "opts": [
+        "SLE and RA",
+        "EGPA and GPA",
+        "Wegener's and Takayasu",
+        "PAN (Poly Arteritis Nodosa) and cryoglobulinemia"
+      ],
+      "ans": 3,
+      "exp": "Vasculitis branch: PAN (Poly Arteritis Nodosa), Cryoglobulinemia (Book p620)"
+    },
+    {
+      "id": "MED-C42-51",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "Polyneuropathy is defined on the page as:",
+      "opts": [
+        "B/L peripheral polyneuropathy",
+        "Unilateral single nerve lesion",
+        "Multiple single nerve lesions",
+        "Proximal root lesion only"
+      ],
+      "ans": 0,
+      "exp": "Polyneuropathy: B/L Peripheral polyneuropathy (Book p620)"
+    },
+    {
+      "id": "MED-C42-52",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "page": 620,
+      "fmt": "recall",
+      "q": "The three silhouettes in the types-of-peripheral-neuropathy figure are labelled:",
+      "opts": [
+        "Small fibre, large fibre, autonomic",
+        "Mononeuropathy, polyneuropathy, mononeuropathy multiplex",
+        "Radiculopathy, plexopathy, neuropathy",
+        "Axonal, demyelinating, mixed"
+      ],
+      "ans": 1,
+      "exp": "Figure types of peripheral neuropathy: mononeuropathy, Polyneuropathy, mononeuropathy multiplex (Book p620)"
+    },
+    {
+      "id": "MED-C42-53",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Which polyneuropathy type is marked m/c with sensory >> motor?",
+      "opts": [
+        "Pure motor",
+        "Autonomic",
+        "Sensorimotor",
+        "Pure sensory"
+      ],
+      "ans": 2,
+      "exp": "Types flowchart: Sensorimotor (m/c) (Sensory >> motor) (Book p621)"
+    },
+    {
+      "id": "MED-C42-54",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Large fibre neuropathy in the types flowchart is equated with which column?",
+      "opts": [
+        "Spinothalamic tract",
+        "Autonomic nervous system",
+        "Lateral corticospinal tract",
+        "Posterior column"
+      ],
+      "ans": 3,
+      "exp": "Large fibre neuropathy (Posterior column) (Book p621)"
+    },
+    {
+      "id": "MED-C42-55",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Small fiber neuropathy in the flowchart involves which structures?",
+      "opts": [
+        "Spinothalamic tract + autonomic nervous system",
+        "Posterior column only",
+        "Anterior horn cells",
+        "Corticobulbar tract"
+      ],
+      "ans": 0,
+      "exp": "Small fiber neuropathy (Spinothalamic tract + autonomic nervous system) (Book p621)"
+    },
+    {
+      "id": "MED-C42-56",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Pure sensory polyneuropathy in the flowchart points to:",
+      "opts": [
+        "MMN-CB",
+        "Ganglionopathy",
+        "Lead poisoning",
+        "Dapsone toxicity"
+      ],
+      "ans": 1,
+      "exp": "Pure sensory -> Ganglionopathy (Book p621)"
+    },
+    {
+      "id": "MED-C42-57",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not listed under pure motor polyneuropathy on this page:",
+      "opts": [
+        "Dapsone",
+        "MMN-CB",
+        "Diabetes mellitus",
+        "Lead poisoning"
+      ],
+      "ans": 2,
+      "exp": "Pure motor: Lead Poisoning, Drug : Dapsone, MMN-CB (multifocal motor neuropathy with conduction block) (Book p621)"
+    },
+    {
+      "id": "MED-C42-58",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "MMN-CB expands to:",
+      "opts": [
+        "Multifocal mixed neuropathy with continuous block",
+        "Motor mononeuropathy with conduction block",
+        "Multifocal motor neuronopathy with cerebral block",
+        "Multifocal motor neuropathy with conduction block"
+      ],
+      "ans": 3,
+      "exp": "MMN-CB (multifocal motor neuropathy with conduction block) (Book p621)"
+    },
+    {
+      "id": "MED-C42-59",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Proprioception in the sensory columns table is carried by which fibres?",
+      "opts": [
+        "Aα",
+        "Aβ",
+        "Aδ",
+        "C"
+      ],
+      "ans": 0,
+      "exp": "Sensory columns: Posterior column proprioception = Aα (Book p621)"
+    },
+    {
+      "id": "MED-C42-60",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Position sense, fine touch, vibration and joint sense are carried by which fibres?",
+      "opts": [
+        "C",
+        "Aβ",
+        "Aα",
+        "Aδ"
+      ],
+      "ans": 1,
+      "exp": "Sensory columns: position sense, fine touch, vibration, joint sense = Aβ (Book p621)"
+    },
+    {
+      "id": "MED-C42-61",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Sharp, localised pain in the lateral spinothalamic column is carried by:",
+      "opts": [
+        "Aβ",
+        "Aα",
+        "Aδ",
+        "C"
+      ],
+      "ans": 2,
+      "exp": "Sensory columns: lateral pain sharp, localized = Aδ (Book p621)"
+    },
+    {
+      "id": "MED-C42-62",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Dull, chronic pain and temperature in the lateral spinothalamic column are carried by:",
+      "opts": [
+        "Aδ fibres",
+        "Aβ fibres",
+        "Aα fibres",
+        "C fibres"
+      ],
+      "ans": 3,
+      "exp": "Sensory columns: dull chronic pain = C and Temperature = C (Book p621)"
+    },
+    {
+      "id": "MED-C42-63",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Crude touch and pressure in the ventral spinothalamic column are carried by:",
+      "opts": [
+        "Aβ",
+        "C",
+        "Aδ",
+        "Aα"
+      ],
+      "ans": 0,
+      "exp": "Sensory columns: ventral crude touch, pressure = Aβ (Book p621)"
+    },
+    {
+      "id": "MED-C42-64",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "The side note describes Aγ fibres as:",
+      "opts": [
+        "Pain carrying small fibres",
+        "Thick myelinated motor",
+        "Thin unmyelinated sensory",
+        "Autonomic postganglionic"
+      ],
+      "ans": 1,
+      "exp": "Side note: Aγ : Thick myelinated motor (Book p621)"
+    },
+    {
+      "id": "MED-C42-65",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "In the fibre ladder, muscle control is subserved by:",
+      "opts": [
+        "A delta",
+        "C",
+        "A alpha",
+        "A alpha/beta"
+      ],
+      "ans": 2,
+      "exp": "Fibre ladder: A alpha -> Muscle control (Book p621)"
+    },
+    {
+      "id": "MED-C42-66",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Touch, vibration and position perception in the fibre ladder map to:",
+      "opts": [
+        "A alpha",
+        "A delta",
+        "C",
+        "A alpha/beta"
+      ],
+      "ans": 3,
+      "exp": "Fibre ladder: A alpha/beta -> Touch, vibration, position perception (Book p621)"
+    },
+    {
+      "id": "MED-C42-67",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Cold perception and pain in the fibre ladder map to:",
+      "opts": [
+        "A delta",
+        "A alpha",
+        "A alpha/beta",
+        "C"
+      ],
+      "ans": 0,
+      "exp": "Fibre ladder: A delta -> Cold perception, Pain (Book p621)"
+    },
+    {
+      "id": "MED-C42-68",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Warm perception and pain in the fibre ladder map to:",
+      "opts": [
+        "A alpha",
+        "C",
+        "A delta",
+        "A alpha/beta"
+      ],
+      "ans": 1,
+      "exp": "Fibre ladder: C -> Warm perception, Pain (Book p621)"
+    },
+    {
+      "id": "MED-C42-69",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Heart rate, blood pressure, sweating and GIT/GUT function in the ladder map to:",
+      "opts": [
+        "A delta fibres",
+        "A gamma fibres",
+        "C fibres",
+        "A alpha fibres"
+      ],
+      "ans": 2,
+      "exp": "Fibre ladder: C -> Heart rate, blood pressure, sweating, GIT, GUT function (Book p621)"
+    },
+    {
+      "id": "MED-C42-70",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "page": 621,
+      "fmt": "recall",
+      "q": "Autonomic fibres in the myelination diagram are:",
+      "opts": [
+        "Fully myelinated only",
+        "Un-myelinated only",
+        "Thickly myelinated",
+        "Thinly myelinated and un-myelinated"
+      ],
+      "ans": 3,
+      "exp": "Autonomic -> Thinly myelinated / Un-myelinated (Book p621)"
+    },
+    {
+      "id": "MED-C42-71",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not a listed large fibre neuropathy cause:",
+      "opts": [
+        "Diabetes mellitus",
+        "Friedreich Ataxia",
+        "Pyridoxine toxicity",
+        "Taxanes"
+      ],
+      "ans": 0,
+      "exp": "Large fibre causes: Friedreich Ataxia, B12 deficiency, Pyridoxine toxicity, Taxanes; diabetes is listed under small fibre (Book p622)"
+    },
+    {
+      "id": "MED-C42-72",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "B12 deficiency neuropathy is annotated with which cord syndrome?",
+      "opts": [
+        "Conus medullaris syndrome",
+        "Posterolateral cord syndrome with neuropathy",
+        "Anterior cord syndrome",
+        "Central cord syndrome"
+      ],
+      "ans": 1,
+      "exp": "B12 deficiency (Posterolateral cord syndrome with neuropathy) (Book p622)"
+    },
+    {
+      "id": "MED-C42-73",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "The small fibre mnemonic printed on the page is:",
+      "opts": [
+        "LADLE",
+        "DALU",
+        "LADU",
+        "PAD"
+      ],
+      "ans": 2,
+      "exp": "Small Fibre Neuropathy (m/c) (LADU) (Book p622)"
+    },
+    {
+      "id": "MED-C42-74",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "The most common small fibre neuropathy cause listed is:",
+      "opts": [
+        "Leprosy",
+        "Amyloidosis",
+        "Uremia",
+        "Diabetes"
+      ],
+      "ans": 3,
+      "exp": "Small fibre causes: Diabetes (m/c) (Book p622)"
+    },
+    {
+      "id": "MED-C42-75",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Small vessel vasculitis causing small fibre neuropathy is listed as:",
+      "opts": [
+        "SLE/RA/EGPA/GPA",
+        "PAN and cryoglobulinemia",
+        "Takayasu and Kawasaki",
+        "GCA and Behcet"
+      ],
+      "ans": 0,
+      "exp": "Vasculitis (small vessel): SLE/RA/EGPA/GPA (Book p622)"
+    },
+    {
+      "id": "MED-C42-76",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Inherited small fibre neuropathies listed are:",
+      "opts": [
+        "Fabry's disease and CMT-2",
+        "Fabry's disease (↑↑ pain) and Tangier's disease",
+        "CMT-1 and Refsum's disease",
+        "Friedreich ataxia and Tangier's disease"
+      ],
+      "ans": 1,
+      "exp": "Inherited small fibre: Fabry's disease (↑↑ pain), Tangier's disease (Book p622)"
+    },
+    {
+      "id": "MED-C42-77",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Large fibre positive sensory symptoms include:",
+      "opts": [
+        "Non-healing ulcers and burns",
+        "Orthostatic hypotension",
+        "Tingling/paraesthesia/dysesthesia/pin and needle and cotton wool sensation",
+        "Burning pain with stocking-glove spread"
+      ],
+      "ans": 2,
+      "exp": "Large fibre sensory +ve: tingling/paraesthesia/dysesthesia/pin and needle sensation; cotton wool sensation (Book p622)"
+    },
+    {
+      "id": "MED-C42-78",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Small fibre positive sensory symptoms include:",
+      "opts": [
+        "Cotton wool sensation and sensory ataxia",
+        "Loss of proprioception with Romberg sign",
+        "Painless numbness only",
+        "Burning pain (d/t regeneration) with distal to proximal stocking-glove evolution"
+      ],
+      "ans": 3,
+      "exp": "Small fibre sensory +ve: burning pain (D/t regeneration); distal to proximal evolution (stocking & glove pattern) (Book p622)"
+    },
+    {
+      "id": "MED-C42-79",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Sensory negative symptoms appear after losing what proportion of axons?",
+      "opts": [
+        "More than 50%",
+        "More than 10%",
+        "More than 25%",
+        "More than 90%"
+      ],
+      "ans": 0,
+      "exp": "Sensory -ve (>50% axons lost) (Book p622)"
+    },
+    {
+      "id": "MED-C42-80",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "The surest sign of large fibre sensory ataxia per the page is:",
+      "opts": [
+        "Absent ankle jerk alone",
+        "Romberg +ve",
+        "Romberg -ve",
+        "Pseudoathetosis alone"
+      ],
+      "ans": 1,
+      "exp": "Large fibre sensory -ve: sensory ataxia (Romberg +ve : surest sign) (Book p622)"
+    },
+    {
+      "id": "MED-C42-81",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Burns and non-healing ulcers in small fibre neuropathy result from:",
+      "opts": [
+        "Loss of vibration sense",
+        "Motor denervation",
+        "Loss of temperature sense",
+        "Loss of proprioception"
+      ],
+      "ans": 2,
+      "exp": "Small fibre sensory -ve: burns, non healing ulcer -> loss of temperature sense (Book p622)"
+    },
+    {
+      "id": "MED-C42-82",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Reflexes in large vs small fibre neuropathy are:",
+      "opts": [
+        "DTR normal in large fibre; loss of DTR in small fibre",
+        "Loss of DTR in both",
+        "Normal reflexes in both",
+        "Loss of DTR in large fibre; DTR (N) ± ankle jerk lost in small fibre"
+      ],
+      "ans": 3,
+      "exp": "Reflexes: large fibre loss of DTR; small fibre DTR (N) ± ankle jerk lost (Book p622)"
+    },
+    {
+      "id": "MED-C42-83",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "Autonomic features in the comparison table appear:",
+      "opts": [
+        "Only in small fibre neuropathy (orthostatic hypotension, erectile dysfunction, excessive sweating, tachy/brady syndrome)",
+        "Only in large fibre neuropathy",
+        "Equally in both",
+        "In neither"
+      ],
+      "ans": 0,
+      "exp": "ANS: large fibre (-); small fibre orthostatic hypotension, erectile dysfunction, excessive sweating, tachy/brady syndrome (Book p622)"
+    },
+    {
+      "id": "MED-C42-84",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "scenario",
+      "q": "A diabetic patient has burning feet, preserved knee jerks with lost ankle jerks and postural hypotension. Which fibre class is implicated?",
+      "opts": [
+        "Neither; radiculopathy",
+        "Small fibre",
+        "Large fibre",
+        "Both equally"
+      ],
+      "ans": 1,
+      "exp": "Small fibre profile: burning pain, DTR (N) ± ankle jerk lost, ANS features (Book p622)"
+    },
+    {
+      "id": "MED-C42-85",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "page": 622,
+      "fmt": "recall",
+      "q": "The note states B12 deficiency can be associated with which other deficiencies?",
+      "opts": [
+        "Vit D & calcium deficiency",
+        "Zinc & magnesium deficiency",
+        "Copper & Vit A deficiency",
+        "Iron & folate deficiency"
+      ],
+      "ans": 2,
+      "exp": "Note: Deficiency of B12 can be associated with Copper & Vit A deficiency (Book p622)"
+    },
+    {
+      "id": "MED-C42-86",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "Ganglionopathy produces which sensory pattern?",
+      "opts": [
+        "Pure motor neuropathy",
+        "Sensorimotor polyneuropathy",
+        "Autonomic neuropathy only",
+        "Pure sensory neuropathy/neuronopathy with large fibre and truncal features"
+      ],
+      "ans": 3,
+      "exp": "Ganglionopathy clinical features: pure sensory neuropathy/neuronopathy, large fibre, truncal (Book p623)"
+    },
+    {
+      "id": "MED-C42-87",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "Limb predominance in ganglionopathy is:",
+      "opts": [
+        "Arms >> legs",
+        "Legs >> arms",
+        "Arms = legs",
+        "Face only"
+      ],
+      "ans": 0,
+      "exp": "Ganglionopathy: Arms >> Legs (Book p623)"
+    },
+    {
+      "id": "MED-C42-88",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "The ataxia of ganglionopathy is described as:",
+      "opts": [
+        "Vestibular vertigo",
+        "Severe asymmetrical truncal ataxia",
+        "Mild symmetrical gait ataxia",
+        "Cerebellar nystagmic ataxia"
+      ],
+      "ans": 1,
+      "exp": "Ganglionopathy: severe asymmetrical truncal ataxia (Book p623)"
+    },
+    {
+      "id": "MED-C42-89",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "DTR in ganglionopathy is:",
+      "opts": [
+        "Always brisk",
+        "Present with clonus",
+        "Variable",
+        "Always absent"
+      ],
+      "ans": 2,
+      "exp": "Ganglionopathy: DTR : Variable (Book p623)"
+    },
+    {
+      "id": "MED-C42-90",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "Which ganglionopathy cause is annotated with DTR lost?",
+      "opts": [
+        "Anti Hu paraneoplastic syndrome",
+        "Cisplatin",
+        "Thalidomide",
+        "Sjogren's syndrome"
+      ],
+      "ans": 3,
+      "exp": "Causes: Sjogren's syndrome (DTR lost) (Book p623)"
+    },
+    {
+      "id": "MED-C42-91",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "Which ganglionopathy cause is annotated with DTR +?",
+      "opts": [
+        "Anti Hu paraneoplastic syndrome",
+        "Sjogren's syndrome",
+        "HIV",
+        "Vit B6 toxicity"
+      ],
+      "ans": 0,
+      "exp": "Causes: Anti Hu paraneoplastic syndrome (DTR +) (Book p623)"
+    },
+    {
+      "id": "MED-C42-92",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT - not a listed ganglionopathy cause on this page:",
+      "opts": [
+        "Vit B6 toxicity",
+        "Diabetes mellitus",
+        "Cisplatin",
+        "Thalidomide"
+      ],
+      "ans": 1,
+      "exp": "Causes: Sjogren's, Anti Hu, Cisplatin, Vit B6 toxicity, HIV, Thalidomide; diabetes not listed (Book p623)"
+    },
+    {
+      "id": "MED-C42-93",
+      "sec": "Ganglionopathy",
+      "page": 623,
+      "fmt": "recall",
+      "q": "The note lists which causes of combined small + large fibre neuropathy?",
+      "opts": [
+        "Leprosy, HIV, amyloidosis",
+        "Fabry's, Tangier's, Refsum's",
+        "Carcinomatous, vincristine, taxanes",
+        "Lead, dapsone, MMN-CB"
+      ],
+      "ans": 2,
+      "exp": "Note: Causes of Small + Large Fiber Neuropathy: Carcinomatous, Vincristine, Taxanes (Book p623)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U42-1",
+      "ch": 42,
+      "n": 1,
+      "title": "1. Anatomy of Spinal Cord & LMN Tract",
+      "sec": "Anatomy of Spinal Cord & LMN Tract",
+      "guide": "Grey matter is horns and white matter is tracts; the ventral horn holds alpha and gamma motor neurons.\nBrain-stem cranial nerve nuclei are 3-4 midbrain, 5-8 pons and 9-12 medulla, and AHC plus cranial nerve nuclei form the LMN.\nThe UMN vs LMN table contrasts sites, weakness patterns, tone, fasciculations and reflexes; the constituents figure numbers the LMN chain 1-7.",
+      "qs": [
+        "MED-C42-01",
+        "MED-C42-02",
+        "MED-C42-03",
+        "MED-C42-04",
+        "MED-C42-05",
+        "MED-C42-06",
+        "MED-C42-07",
+        "MED-C42-08",
+        "MED-C42-09",
+        "MED-C42-10",
+        "MED-C42-11",
+        "MED-C42-12",
+        "MED-C42-13",
+        "MED-C42-14",
+        "MED-C42-15",
+        "MED-C42-16",
+        "MED-C42-17"
+      ]
+    },
+    {
+      "id": "MED-U42-2",
+      "ch": 42,
+      "n": 2,
+      "title": "2. Site of Lesion, Pathology and Radiculopathy",
+      "sec": "Site of Lesion & Radiculopathy",
+      "guide": "Pure motor effects arise from AHC, NMJ and muscle (myopathy); sensorimotor from root, plexus and nerve; pure sensory from ganglion.\nCompressive radiculopathy is IVDP (m/c) while non-compressive radiculopathy is d/t Guillain Barre syndrome; pain is sharp, brief, lancinating and worsens with cough.\nLower limb root values pair L1 hip flexion, L2 hip adduction, L3-L4 knee extension with knee jerk, L5 ankle jerk and S1 knee flexion, hip extension and plantar flexion.",
+      "qs": [
+        "MED-C42-18",
+        "MED-C42-19",
+        "MED-C42-20",
+        "MED-C42-21",
+        "MED-C42-22",
+        "MED-C42-23",
+        "MED-C42-24",
+        "MED-C42-25",
+        "MED-C42-26",
+        "MED-C42-27",
+        "MED-C42-28",
+        "MED-C42-29",
+        "MED-C42-30",
+        "MED-C42-31",
+        "MED-C42-32",
+        "MED-C42-33"
+      ]
+    },
+    {
+      "id": "MED-U42-3",
+      "ch": 42,
+      "n": 3,
+      "title": "3. Foot Drop, Upper Limb DTR Values, Neuropathy Patterns",
+      "sec": "Foot Drop, DTR Root Values & Plexopathy Comparison",
+      "guide": "Common peroneal nerve gives foot drop alone; sciatic nerve adds loss of inversion; L5 radiculopathy adds loss of hip abduction and eversion.\nUpper limb DTR root values: biceps jerk C5-C6, triceps jerk C6-C7, finger flexion C8-T1.\nRadiculopathy (IVDP, sharp pain, both roots affected) is contrasted with plexopathy (tumour, dull deep pain, paraspinal posterior root intact); neuropathy splits into mono, multiplex and poly patterns.",
+      "qs": [
+        "MED-C42-34",
+        "MED-C42-35",
+        "MED-C42-36",
+        "MED-C42-37",
+        "MED-C42-38",
+        "MED-C42-39",
+        "MED-C42-40",
+        "MED-C42-41",
+        "MED-C42-42",
+        "MED-C42-43",
+        "MED-C42-44",
+        "MED-C42-45",
+        "MED-C42-46",
+        "MED-C42-47",
+        "MED-C42-48",
+        "MED-C42-49",
+        "MED-C42-50",
+        "MED-C42-51",
+        "MED-C42-52"
+      ]
+    },
+    {
+      "id": "MED-U42-4",
+      "ch": 42,
+      "n": 4,
+      "title": "4. Polyneuropathy Types, Sensory Columns and Fibre Types",
+      "sec": "Neuropathy Types, Sensory Columns & Nerve Fibres",
+      "guide": "Polyneuropathy types: sensorimotor (m/c, sensory >> motor) splits into large fibre (posterior column) and small fibre (spinothalamic + autonomic); pure sensory is ganglionopathy.\nPure motor causes are lead poisoning, dapsone and MMN-CB. Sensory columns map proprioception to A-alpha and position/fine touch/vibration/joint sense to A-beta.\nSpinothalamic lateral pain is sharp-localised A-delta and dull-chronic C; temperature is C; ventral crude touch/pressure is A-beta; A-gamma is thick myelinated motor.",
+      "qs": [
+        "MED-C42-53",
+        "MED-C42-54",
+        "MED-C42-55",
+        "MED-C42-56",
+        "MED-C42-57",
+        "MED-C42-58",
+        "MED-C42-59",
+        "MED-C42-60",
+        "MED-C42-61",
+        "MED-C42-62",
+        "MED-C42-63",
+        "MED-C42-64",
+        "MED-C42-65",
+        "MED-C42-66",
+        "MED-C42-67",
+        "MED-C42-68",
+        "MED-C42-69",
+        "MED-C42-70"
+      ]
+    },
+    {
+      "id": "MED-U42-5",
+      "ch": 42,
+      "n": 5,
+      "title": "5. Large vs Small Fibre Neuropathy",
+      "sec": "Large vs Small Fibre Neuropathy",
+      "guide": "Large fibre causes: Friedreich ataxia, B12 deficiency (posterolateral cord syndrome with neuropathy), pyridoxine toxicity, taxanes. Small fibre (m/c, LADU): leprosy, amyloidosis, diabetes (m/c), uremic, vasculitis (SLE/RA/EGPA/GPA), HIV, Fabry and Tangier.\nPositive symptoms: large fibre tingling/pin-and-needle/cotton wool; small fibre burning pain with stocking-glove evolution. Negative symptoms (>50% axons lost): large fibre numbness and sensory ataxia with Romberg +ve as surest sign; small fibre burns and non-healing ulcers from lost temperature sense.\nReflexes: large fibre loses DTR; small fibre DTR normal +/- ankle jerk. ANS features occur only in small fibre neuropathy.",
+      "qs": [
+        "MED-C42-71",
+        "MED-C42-72",
+        "MED-C42-73",
+        "MED-C42-74",
+        "MED-C42-75",
+        "MED-C42-76",
+        "MED-C42-77",
+        "MED-C42-78",
+        "MED-C42-79",
+        "MED-C42-80",
+        "MED-C42-81",
+        "MED-C42-82",
+        "MED-C42-83",
+        "MED-C42-84",
+        "MED-C42-85"
+      ]
+    },
+    {
+      "id": "MED-U42-6",
+      "ch": 42,
+      "n": 6,
+      "title": "6. Ganglionopathy",
+      "sec": "Ganglionopathy",
+      "guide": "Ganglionopathy is a pure sensory neuropathy/neuronopathy with large fibre and truncal involvement, arms >> legs and severe asymmetrical truncal ataxia; DTR is variable.\nCauses: Sjogren's syndrome (DTR lost), anti-Hu paraneoplastic syndrome (DTR +), cisplatin, Vit B6 toxicity, HIV and thalidomide.\nA separate note lists carcinomatous, vincristine and taxanes as causes of combined small + large fibre neuropathy.",
+      "qs": [
+        "MED-C42-86",
+        "MED-C42-87",
+        "MED-C42-88",
+        "MED-C42-89",
+        "MED-C42-90",
+        "MED-C42-91",
+        "MED-C42-92",
+        "MED-C42-93"
+      ]
+    }
+  ]
+}

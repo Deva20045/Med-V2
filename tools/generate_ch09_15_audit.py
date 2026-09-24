@@ -14,7 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 coverage_path = ROOT / "audit" / "coverage.json"
 ledger = json.loads(coverage_path.read_text(encoding="utf-8"))
-AUTHORED = list(range(9, 21)) + list(range(21, 27)) + list(range(27, 30)) + list(range(30, 33)) + list(range(33, 42))
+AUTHORED = list(range(9, 21)) + list(range(21, 27)) + list(range(27, 30)) + list(range(30, 33)) + list(range(33, 42)) + list(range(42, 48))
 authored = set(AUTHORED)
 ledger = [row for row in ledger if row["chapter"] not in authored]
 
@@ -43,5 +43,6 @@ print(
     f"{sum(33 <= r['chapter'] <= 38 for r in ledger)} for Chapters 33–38; "
     f"{sum(r['chapter'] == 39 for r in ledger)} for Chapter 39; "
     f"{sum(r['chapter'] == 40 for r in ledger)} for Chapter 40; "
-    f"{sum(r['chapter'] == 41 for r in ledger)} for Chapter 41)."
+    f"{sum(r['chapter'] == 41 for r in ledger)} for Chapter 41; "
+    f"{sum(42 <= r['chapter'] <= 47 for r in ledger)} for Chapters 42-47)."
 )

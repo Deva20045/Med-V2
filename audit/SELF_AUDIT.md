@@ -1,6 +1,6 @@
-# Chapters 2–38 — visual self-audit gate
+# Chapters 2–47 — visual self-audit gate
 
-Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645), every sheet read line-to-line at 3× because the scans have no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
@@ -64,6 +64,17 @@ Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–10
 | 476 | Nintedanib plus MMF for SSc-ILD and bosentan as second line for Raynaud phenomenon are transcribed as printed indications. |
 | 479 | The Gottron-papule frequency is printed as a small fraction glyph that cannot be read with confidence; the question on this lesion tests its morphology and site, not the frequency. |
 | 481 | The rotated 'Jaccoud's arthropathy: also seen in Sjogren syndrome' annotation is transcribed as printed. |
+| 618 | The LMN constituents figure prints the dorsal-root-ganglion callout with a glyph that reads like '(a)'; it is inventoried as callout 2 of the 1–7 chain. |
+| 619 | The lower-limb root table prints the ankle jerk against L5 and dashes against L1/S1 DTR cells; questions quote the table as printed. |
+| 619 | 'Worsens with cough or movement along the radical' retains the printed 'radical' (radicular). |
+| 626 | The waveform caption prints 'Common motor axonal potential (CMAP)'; the standard expansion (compound muscle action potential) is noted in the explanation. |
+| 627 | 'Hereditary moto-sensory neuropathy (HMSN)' retains the printed 'moto'. |
+| 628 | 'Dejerine sottas disease' retains the printed spelling of Dejerine-Sottas. |
+| 629 | 'Bathing suite pattern' retains the printed 'suite' (suit). |
+| 630 | Tangier's defect prints 'ATP binding cascade protein'; the contemporary gene name (ABCA1/ATP binding cassette) is not substituted. |
+| 630 | Refsum's enzyme prints 'phytanic oxidase'; the contemporary name (phytanoyl-CoA hydroxylase) is not substituted. |
+| 632 | 'Activates compliment' retains the printed spelling of complement. |
+| 643 | Myotonic dystrophy prints 'trinucleotide repeat disease of Chr 19'; the repeat is retained as printed. |
 | 483 | The rotated dysphagia-frequency annotation beside inclusion body myositis was not legible; no question relies on it. Steroid-unresponsive disease and red-rimmed vacuoles are the tested points. |
 | 484 | The '50/25/5' outcome split and the testicular sparing statement are printed source epidemiology. |
 | 485 | The rotated 'HLA DRB1*03 — Lofgren syndrome (good prognosis)' annotation is read after rotation and transcribed as printed. |
@@ -301,6 +312,34 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 41 | 4. Pathogenesis, Pneumococcus Features and Predisposing Factors | 615 | MED-C41-43–MED-C41-57 | 15 |
 | 41 | 5. Clinical Presentation, Meningeal Signs and LP Contraindications | 616–617 | MED-C41-58–MED-C41-78 | 21 |
 | 41 | 6. CSF Analysis, Treatment and Eosinophilic Meningitis | 617 | MED-C41-79–MED-C41-114 | 36 |
+| 42 | 1. Anatomy of Spinal Cord & LMN Tract | 618 | MED-C42-01–MED-C42-17 | 17 |
+| 42 | 2. Site of Lesion, Pathology and Radiculopathy | 619 | MED-C42-18–MED-C42-33 | 16 |
+| 42 | 3. Foot Drop, Upper Limb DTR Values, Neuropathy Patterns | 620 | MED-C42-34–MED-C42-52 | 19 |
+| 42 | 4. Polyneuropathy Types, Sensory Columns and Fibre Types | 621 | MED-C42-53–MED-C42-70 | 18 |
+| 42 | 5. Large vs Small Fibre Neuropathy | 622 | MED-C42-71–MED-C42-85 | 15 |
+| 42 | 6. Ganglionopathy | 623 | MED-C42-86–MED-C42-93 | 8 |
+| 43 | 1. Radiculopathies: Axonal vs Demyelinating Features and Causes | 624 | MED-C43-01–MED-C43-19 | 19 |
+| 43 | 2. Notes, ANS Predominant Neuropathies and Patterns of LMN Lesions | 625 | MED-C43-20–MED-C43-35 | 16 |
+| 43 | 3. Nerve Conduction Studies and the CMAP Trace | 626 | MED-C43-36–MED-C43-42 | 7 |
+| 44 | 1. Types of Inherited Neuropathy and CMT-1 vs CMT-2 | 627 | MED-C44-01–MED-C44-18 | 18 |
+| 44 | 2. CMT-4, Features of CMT-1 and Thickened Nerves | 628 | MED-C44-19–MED-C44-34 | 16 |
+| 44 | 3. Familial Amyloid Polyneuropathy and Porphyric Neuropathy | 629 | MED-C44-35–MED-C44-50 | 16 |
+| 44 | 4. Porphyric ANS and CNS Features, Tangier's and Refsum Disease | 630 | MED-C44-51–MED-C44-67 | 17 |
+| 44 | 5. Romberg's Sign, Wash Basin Sign, Fabry's and Autonomic Neuropathies | 631 | MED-C44-68–MED-C44-75 | 8 |
+| 45 | 1. Definition, Classification Subtypes and AIDP Pathophysiology | 632 | MED-C45-01–MED-C45-13 | 13 |
+| 45 | 2. Clinical Presentation, Examination, Progression and Prognosis | 633 | MED-C45-14–MED-C45-30 | 17 |
+| 45 | 3. Inciting Factors and Diagnostic Criteria | 634 | MED-C45-31–MED-C45-47 | 17 |
+| 45 | 4. Treatment, MFS/Bickerstaff Encephalitis and CIDP vs AIDP | 635 | MED-C45-48–MED-C45-65 | 18 |
+| 45 | 5. CIDP Affected Systems, POEMS Syndrome and MMN-CB | 636 | MED-C45-66–MED-C45-78 | 13 |
+| 46 | 1. Pure Motor LMN Comparison, NMJ Disorders and Power Grades | 637–638 | MED-C46-01–MED-C46-19 | 19 |
+| 46 | 2. Muscle Etiology A and the Inherited Myopathy Classes | 638 | MED-C46-20–MED-C46-28 | 9 |
+| 46 | 3. Episodic vs Persistent Matrix, Symptoms and Weakness Tasks | 639 | MED-C46-29–MED-C46-39 | 11 |
+| 46 | 4. Exception Patterns, Fatigue/Exercise Intolerance and Myalgia | 640 | MED-C46-40–MED-C46-54 | 15 |
+| 46 | 5. Fibromyalgia, Cramps vs Contractures and Myotonia vs Paramyotonia | 641 | MED-C46-55–MED-C46-68 | 14 |
+| 47 | 1. Structural Myopathies, Dystrophin Defect, DMD Timeline and Becker | 642 | MED-C47-01–MED-C47-19 | 19 |
+| 47 | 2. Limb Girdle, Emery Dreifuss, Facioscapulohumeral, Oculopharyngeal and Myotonic Dystrophy | 643 | MED-C47-20–MED-C47-35 | 16 |
+| 47 | 3. Myotonic Dystrophy Presentation and Metabolic/Mitochondrial Myopathies | 644 | MED-C47-36–MED-C47-50 | 15 |
+| 47 | 4. Channelopathies and the Periodic Paralyses | 645 | MED-C47-51–MED-C47-65 | 15 |
 
 ## Format distribution
 
@@ -347,6 +386,12 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 39 | 73 | 1 | 10 | 3 | 4 | 0 | 91 | 91 |
 | 40 | 92 | 0 | 15 | 1 | 16 | 0 | 124 | 124 |
 | 41 | 80 | 0 | 26 | 0 | 8 | 0 | 114 | 114 |
+| 42 | 75 | 4 | 10 | 4 | 0 | 0 | 93 | 93 |
+| 43 | 37 | 3 | 1 | 1 | 0 | 0 | 42 | 42 |
+| 44 | 67 | 4 | 2 | 2 | 0 | 0 | 75 | 75 |
+| 45 | 70 | 0 | 0 | 1 | 7 | 0 | 78 | 78 |
+| 46 | 56 | 0 | 10 | 0 | 2 | 0 | 68 | 68 |
+| 47 | 57 | 0 | 6 | 0 | 2 | 0 | 65 | 65 |
 
 ## Chapters 16–26 release table
 
@@ -379,6 +424,17 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 30 | Frontal Lobe | 555–559 | 67 | 5 | 67 |
 | 31 | Praxicons | 560–562 | 44 | 3 | 44 |
 | 32 | Temporal and Occipital Lobe | 563–565 | 37 | 5 | 37 |
+
+## Chapters 42–47 release table
+
+| Ch | Title | Printed pages | Questions | Units | Ledger mappings |
+|---:|---|---:|---:|---:|---:|
+| 42 | LMN Approach : Part 1 | 618–623 | 93 | 6 | 93 |
+| 43 | LMN Approach : Part 2 | 624–626 | 42 | 3 | 42 |
+| 44 | Inherited Neuropathies | 627–631 | 75 | 5 | 75 |
+| 45 | Guillain-Barre Syndrome | 632–636 | 78 | 5 | 78 |
+| 46 | LMN Approach : Part 3 | 637–641 | 68 | 5 | 68 |
+| 47 | Muscular Dystrophies | 642–645 | 65 | 4 | 65 |
 
 ## Chapters 33–38 release table
 
@@ -630,8 +686,36 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 615 | 03 PDF51 | 17 | 17 | 0 |
 | 616 | 03 PDF52 | 17 | 17 | 0 |
 | 617 | 03 PDF53 | 40 | 40 | 0 |
+| 618 | 03 PDF54 | 17 | 17 | 0 |
+| 619 | 03 PDF55 | 16 | 16 | 0 |
+| 620 | 03 PDF56 | 19 | 19 | 0 |
+| 621 | 03 PDF57 | 18 | 18 | 0 |
+| 622 | 03 PDF58 | 15 | 15 | 0 |
+| 623 | 03 PDF59 | 8 | 8 | 0 |
+| 624 | 03 PDF60 | 19 | 19 | 0 |
+| 625 | 03 PDF61 | 16 | 16 | 0 |
+| 626 | 04 PDF1 | 7 | 7 | 0 |
+| 627 | 04 PDF2 | 18 | 18 | 0 |
+| 628 | 04 PDF3 | 16 | 16 | 0 |
+| 629 | 04 PDF4 | 16 | 16 | 0 |
+| 630 | 04 PDF5 | 17 | 17 | 0 |
+| 631 | 04 PDF6 | 8 | 8 | 0 |
+| 632 | 04 PDF7 | 13 | 13 | 0 |
+| 633 | 04 PDF8 | 17 | 17 | 0 |
+| 634 | 04 PDF9 | 17 | 17 | 0 |
+| 635 | 04 PDF10 | 18 | 18 | 0 |
+| 636 | 04 PDF11 | 13 | 13 | 0 |
+| 637 | 04 PDF12 | 13 | 13 | 0 |
+| 638 | 04 PDF13 | 15 | 15 | 0 |
+| 639 | 04 PDF14 | 11 | 11 | 0 |
+| 640 | 04 PDF15 | 15 | 15 | 0 |
+| 641 | 04 PDF16 | 14 | 14 | 0 |
+| 642 | 04 PDF17 | 19 | 19 | 0 |
+| 643 | 04 PDF18 | 16 | 16 | 0 |
+| 644 | 04 PDF19 | 15 | 15 | 0 |
+| 645 | 04 PDF20 | 15 | 15 | 0 |
 
-**Total: 2050 mapped educational points; 1942 questions; 183 units across 41 live chapters of 57.**
+**Total: 2471 mapped educational points; 2363 questions; 211 units across 47 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -4330,14 +4414,631 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p618 / 03 PDF54
+
+| Printed point / call-out | Question |
+|---|---|
+| Spinal Cord: Grey matter : Horns; White matter : Tracts | MED-C42-01 |
+| Ventral horn callout: α, γ motor neurons (mn) | MED-C42-02 |
+| Brain stem table: midbrain cranial nerve nuclei 3, 4 | MED-C42-03 |
+| Brain stem table: Pons cranial nerve nuclei 5, 6, 7, 8 | MED-C42-04 |
+| Brain stem table: Medulla cranial nerve nuclei 9, 10, 11, 12 | MED-C42-05 |
+| Flow: Anterior Horn Cell (AHC) + Cranial Nerve Nuclei -> LMN (Lower Motor Neuron) | MED-C42-06 |
+| LMN branches to Corticobulbar tract and Corticospinal tract | MED-C42-07 |
+| UMN lesion sites: cerebral hemispheres, cerebellum, brainstem, spinal cord | MED-C42-08 |
+| LMN lesion sites: anterior horn cell, nerve roots, peripheral nerves, neuromuscular junction, muscles | MED-C42-09 |
+| UMN muscle weakness: quadriplegia, hemiplegia, diplegia, paraplegia | MED-C42-10 |
+| LMN muscle weakness: Proximal (myopathy), Distal (neuropathy) | MED-C42-11 |
+| LMN lesion muscle tone: Hypotonia (UMN shows spasticity, rigidity) | MED-C42-12 |
+| Fasciculations: UMN absent; LMN present (particularly tongue) | MED-C42-13 |
+| Tendon reflexes: UMN hyperreflexia; LMN hypo/areflexia | MED-C42-14 |
+| LMN constituents: 1 anterior horn, 2 dorsal root ganglion, 3 spinal nerve root, 4 plexus, 5 peripheral nerve, 6 neuromuscular junction, 7 muscle | MED-C42-15 |
+| LMN constituents figure: (6) Neuromuscular junction | MED-C42-16 |
+| LMN constituents figure: (4) Plexus | MED-C42-17 |
+
+Unasked points: **none found**.
+
+### Book p619 / 03 PDF55
+
+| Printed point / call-out | Question |
+|---|---|
+| Pure motor sites AHC, NMJ, Muscle are bracketed to Myopathy | MED-C42-18 |
+| Sensorimotor: Root -> Radiculopathy | MED-C42-19 |
+| Sensorimotor: Plexus -> Plexopathy; Nerve -> Neuropathy | MED-C42-20 |
+| Pure sensory: Ganglion -> Ganglionopathy | MED-C42-21 |
+| Compressive radiculopathy: Intervertebral disc prolapse (IVDP) (m/c) | MED-C42-22 |
+| Note: Non-compressive radiculopathy d/t Guillain Barre syndrome | MED-C42-23 |
+| Radiculopathy pain: sharp, brief, lancinating pain | MED-C42-24 |
+| Radiculopathy pain worsens with cough or movement along the radical | MED-C42-25 |
+| Radiculopathy C/F: Asymmetrical | MED-C42-26 |
+| Myotomal distribution: weakness along the root; loss of deep tendon reflex (DTR) | MED-C42-27 |
+| Root values: L1 = Hip flexion | MED-C42-28 |
+| Root values: L2 = Hip adduction | MED-C42-29 |
+| Root values: L3, L4 = Knee extension + Foot dorsiflexion (Tibialis anterior), DTR knee jerk | MED-C42-30 |
+| Root values as printed: L5 = Foot dorsiflexion (Extensor hallucis longus) Eversion + Hip abduction, DTR ankle jerk | MED-C42-31 |
+| Root values: S1 = Knee flexion + Hip extension + Plantar flexion | MED-C42-32 |
+| Lower limb dermatomes figure callout: Ventral axial line of lower limb | MED-C42-33 |
+
+Unasked points: **none found**.
+
+### Book p620 / 03 PDF56
+
+| Printed point / call-out | Question |
+|---|---|
+| Foot drop table: Common Peroneal Nerve -> Foot drop | MED-C42-34 |
+| Foot drop table: Sciatic Nerve -> Foot drop, loss of inversion | MED-C42-35 |
+| Foot drop table: L5 Radiculopathy -> foot drop, loss of inversion, loss of hip abduction, eversion | MED-C42-36 |
+| Sciatic nerve: foot drop + loss of inversion; L5 radiculopathy would also lose hip abduction and eversion | MED-C42-37 |
+| Upper limb DTR table: Biceps jerk = C5-C6 | MED-C42-38 |
+| Upper limb DTR table: Triceps jerk = C6-C7 | MED-C42-39 |
+| Upper limb DTR table: Finger flexion = C8-T1 | MED-C42-40 |
+| Radiculopathy vs plexopathy: Cause IVDP vs Tumor | MED-C42-41 |
+| Plexopathy C/f: dull aching, continuous, deep seated pain | MED-C42-42 |
+| Plexopathy C/f: proximal + distal features | MED-C42-43 |
+| Plexopathy: paraspinal supply (posterior root) intact; radiculopathy affects anterior + posterior root | MED-C42-44 |
+| Radiculopathy NCS: (Anterior + posterior) root affected | MED-C42-45 |
+| Mononeuropathy: Carpal Tunnel Syndrome female - (N), male - Amyloidosis | MED-C42-46 |
+| Mononeuritis multiplex: multiple single nerves involved | MED-C42-47 |
+| Mononeuritis multiplex causes: Leprosy (m/c) | MED-C42-48 |
+| Causes listed: Leprosy, HIV, Amyloidosis, Sarcoidosis, Neurofibromatosis, Vasculitis (PAN, Cryoglobulinemia); diabetes is not listed | MED-C42-49 |
+| Vasculitis branch: PAN (Poly Arteritis Nodosa), Cryoglobulinemia | MED-C42-50 |
+| Polyneuropathy: B/L Peripheral polyneuropathy | MED-C42-51 |
+| Figure types of peripheral neuropathy: mononeuropathy, Polyneuropathy, mononeuropathy multiplex | MED-C42-52 |
+
+Unasked points: **none found**.
+
+### Book p621 / 03 PDF57
+
+| Printed point / call-out | Question |
+|---|---|
+| Types flowchart: Sensorimotor (m/c) (Sensory >> motor) | MED-C42-53 |
+| Large fibre neuropathy (Posterior column) | MED-C42-54 |
+| Small fiber neuropathy (Spinothalamic tract + autonomic nervous system) | MED-C42-55 |
+| Pure sensory -> Ganglionopathy | MED-C42-56 |
+| Pure motor: Lead Poisoning, Drug : Dapsone, MMN-CB (multifocal motor neuropathy with conduction block) | MED-C42-57 |
+| MMN-CB (multifocal motor neuropathy with conduction block) | MED-C42-58 |
+| Sensory columns: Posterior column proprioception = Aα | MED-C42-59 |
+| Sensory columns: position sense, fine touch, vibration, joint sense = Aβ | MED-C42-60 |
+| Sensory columns: lateral pain sharp, localized = Aδ | MED-C42-61 |
+| Sensory columns: dull chronic pain = C and Temperature = C | MED-C42-62 |
+| Sensory columns: ventral crude touch, pressure = Aβ | MED-C42-63 |
+| Side note: Aγ : Thick myelinated motor | MED-C42-64 |
+| Fibre ladder: A alpha -> Muscle control | MED-C42-65 |
+| Fibre ladder: A alpha/beta -> Touch, vibration, position perception | MED-C42-66 |
+| Fibre ladder: A delta -> Cold perception, Pain | MED-C42-67 |
+| Fibre ladder: C -> Warm perception, Pain | MED-C42-68 |
+| Fibre ladder: C -> Heart rate, blood pressure, sweating, GIT, GUT function | MED-C42-69 |
+| Autonomic -> Thinly myelinated / Un-myelinated | MED-C42-70 |
+
+Unasked points: **none found**.
+
+### Book p622 / 03 PDF58
+
+| Printed point / call-out | Question |
+|---|---|
+| Large fibre causes: Friedreich Ataxia, B12 deficiency, Pyridoxine toxicity, Taxanes; diabetes is listed under small fibre | MED-C42-71 |
+| B12 deficiency (Posterolateral cord syndrome with neuropathy) | MED-C42-72 |
+| Small Fibre Neuropathy (m/c) (LADU) | MED-C42-73 |
+| Small fibre causes: Diabetes (m/c) | MED-C42-74 |
+| Vasculitis (small vessel): SLE/RA/EGPA/GPA | MED-C42-75 |
+| Inherited small fibre: Fabry's disease (↑↑ pain), Tangier's disease | MED-C42-76 |
+| Large fibre sensory +ve: tingling/paraesthesia/dysesthesia/pin and needle sensation; cotton wool sensation | MED-C42-77 |
+| Small fibre sensory +ve: burning pain (D/t regeneration); distal to proximal evolution (stocking & glove pattern) | MED-C42-78 |
+| Sensory -ve (>50% axons lost) | MED-C42-79 |
+| Large fibre sensory -ve: sensory ataxia (Romberg +ve : surest sign) | MED-C42-80 |
+| Small fibre sensory -ve: burns, non healing ulcer -> loss of temperature sense | MED-C42-81 |
+| Reflexes: large fibre loss of DTR; small fibre DTR (N) ± ankle jerk lost | MED-C42-82 |
+| ANS: large fibre (-); small fibre orthostatic hypotension, erectile dysfunction, excessive sweating, tachy/brady syndrome | MED-C42-83 |
+| Small fibre profile: burning pain, DTR (N) ± ankle jerk lost, ANS features | MED-C42-84 |
+| Note: Deficiency of B12 can be associated with Copper & Vit A deficiency | MED-C42-85 |
+
+Unasked points: **none found**.
+
+### Book p623 / 03 PDF59
+
+| Printed point / call-out | Question |
+|---|---|
+| Ganglionopathy clinical features: pure sensory neuropathy/neuronopathy, large fibre, truncal | MED-C42-86 |
+| Ganglionopathy: Arms >> Legs | MED-C42-87 |
+| Ganglionopathy: severe asymmetrical truncal ataxia | MED-C42-88 |
+| Ganglionopathy: DTR : Variable | MED-C42-89 |
+| Causes: Sjogren's syndrome (DTR lost) | MED-C42-90 |
+| Causes: Anti Hu paraneoplastic syndrome (DTR +) | MED-C42-91 |
+| Causes: Sjogren's, Anti Hu, Cisplatin, Vit B6 toxicity, HIV, Thalidomide; diabetes not listed | MED-C42-92 |
+| Note: Causes of Small + Large Fiber Neuropathy: Carcinomatous, Vincristine, Taxanes | MED-C42-93 |
+
+Unasked points: **none found**.
+
+### Book p624 / 03 PDF60
+
+| Printed point / call-out | Question |
+|---|---|
+| Features table prototypes: Axonal Neuropathy (prototype : DM); Demyelinating radiculoneuropathy prototype : GBS | MED-C43-01 |
+| Axonal: usually gradual and insidious onset, Exception : Porphyria (Acute) | MED-C43-02 |
+| Demyelinating: usually acute or subacute, Exception : CIDP (Chronic) | MED-C43-03 |
+| Axonal: large and long axons affected early, hence initially lower extremities; small fibres | MED-C43-04 |
+| Demyelinating: diffuse process, starts in lower limbs but not always distal; large fibers | MED-C43-05 |
+| Axonal: stocking-glove sensory-motor loss results in symmetrical distal clinical signs in the legs and arms | MED-C43-06 |
+| Demyelinating: generalized weakness and mild sensory loss | MED-C43-07 |
+| Axonal distal involvement; demyelinating proximal and distal involvement | MED-C43-08 |
+| Axonal: ankle jerk lost early and proximal tendon reflexes preserved | MED-C43-09 |
+| Demyelinating: all reflexes are lost early (Areflexia) | MED-C43-10 |
+| Muscle wasting common (axonal) vs relatively absent (demyelinating) | MED-C43-11 |
+| CSF proteins normal as only axons are involved vs elevated since nerve roots are involved | MED-C43-12 |
+| Axonal slow recovery, residual deformity common; demyelinating rapid recovery, residual deformity less common | MED-C43-13 |
+| Nerve conduction normal or slightly lowered vs nerve conduction is slowed | MED-C43-14 |
+| Acute: AIDP <4 weeks; Diphtheria; Drugs Amiodarone, Chloroquine, Gold | MED-C43-15 |
+| Chronic: CIDP >8 weeks; POEMS; Myeloma; HIV; CTS (Carpal Tunnel Syndrome) - mononeuropathy | MED-C43-16 |
+| Inherited: CMTD (Charcot Marie Tooth Disease); Refsum's disease | MED-C43-17 |
+| Chronic: CIDP, POEMS, Myeloma, HIV, CTS; diphtheria is listed under acute | MED-C43-18 |
+| AIDP <4 weeks; CIDP >8 weeks | MED-C43-19 |
+
+Unasked points: **none found**.
+
+### Book p625 / 03 PDF61
+
+| Printed point / call-out | Question |
+|---|---|
+| Note: Pure sensory Neuropathies : Ganglionopathy | MED-C43-20 |
+| Note: Pure motor Neuropathies : Lead, dapsone, MMNCB | MED-C43-21 |
+| Note: Severe pain : Small fiber > Large | MED-C43-22 |
+| Severe pain order: Fabry's > Tangier's > HIV > Vasculitis | MED-C43-23 |
+| Relapsing Neuropathies : CIDP, Refsum's, porphyria | MED-C43-24 |
+| Diabetic amyotrophy : Asymmetric lumbosacral plexopathy | MED-C43-25 |
+| ANS predominant neuropathies mnemonic : PAD | MED-C43-26 |
+| ANS predominant list: Porphyria, Amyloidosis, DM, Fabry's, HIV, Vincristine | MED-C43-27 |
+| Patterns of LMN lesions: 1 symmetric proximal and distal weakness with sensory loss - AIDP | MED-C43-28 |
+| Patterns: 2 symmetric distal sensory loss with or without distal weakness - Diabetes mellitus | MED-C43-29 |
+| Patterns: 3 asymmetric distal weakness with sensory loss - Radiculopathy | MED-C43-30 |
+| Patterns: 4 asymmetric proximal and distal weakness with sensory loss - Plexopathy | MED-C43-31 |
+| Patterns: 5 asymmetric distal weakness without sensory loss - pure motor neuropathy : motor neuron disease, anterior horn cell | MED-C43-32 |
+| Patterns: 6 symmetric sensory loss and distal areflexia with UMN findings - spinal cord involvement : vit B12/E/copper deficiency | MED-C43-33 |
+| Patterns: 7 symmetric weakness without sensory loss - muscle/NMS involvement | MED-C43-34 |
+| Patterns: 8 asymmetric proprioceptive sensory loss without weakness - Ganglion | MED-C43-35 |
+
+Unasked points: **none found**.
+
+### Book p626 / 04 PDF1
+
+| Printed point / call-out | Question |
+|---|---|
+| NCS: Axonal loss : Only amplitude affected | MED-C43-36 |
+| Demyelination: ↑ latency, prolonged distal latency | MED-C43-37 |
+| Demyelination: conduction block/↓ velocity | MED-C43-38 |
+| Demyelination: temporal dispersion | MED-C43-39 |
+| Demyelination: F wave & H reflex : Prolonged/absent | MED-C43-40 |
+| CMAP figure labels: Latency, Amplitude, Duration, Trough, Recovery on Amplitude (mV) vs Time (ms) | MED-C43-41 |
+| Caption printed as Common motor axonal potential (CMAP) [sic; standard expansion is compound muscle action potential] | MED-C43-42 |
+
+Unasked points: **none found**.
+
+### Book p627 / 04 PDF2
+
+| Printed point / call-out | Question |
+|---|---|
+| Demyelinating neuropathy : CMTD and Refsum's disease; FAP is listed under axonal neuropathy | MED-C44-01 |
+| Types: Axonal neuropathy : FAP, Porphyria, Tangier's disease | MED-C44-02 |
+| Axonal: FAP, porphyria, Tangier's; Refsum's is listed under demyelinating | MED-C44-03 |
+| FAP: Transthyretin mutation | MED-C44-04 |
+| Wild type : Senile systemic amyloidosis | MED-C44-05 |
+| Mutant type : Familial amyloid polyneuropathy | MED-C44-06 |
+| Note: Acute neuropathies are demyelinating (Predominantly): Eg : AIDP, GBS | MED-C44-07 |
+| Exception : Acute intermittent porphyria - axonal | MED-C44-08 |
+| Charcot Marie Tooth Disease: combined motor and sensory involvement | MED-C44-09 |
+| HSAN : Hereditary Sensory Autonomic Neuropathy; variant of CMTD; presence of autonomic features | MED-C44-10 |
+| TYPES table: Inheritance Autosomal dominant (AD) spans CMT-1 and CMT-2 | MED-C44-11 |
+| Involvement: Hereditary moto-sensory neuropathy (HMSN) [sic moto] | MED-C44-12 |
+| Occurrence: more common (CMT-1) vs less common (CMT-2) | MED-C44-13 |
+| Neuropathy: Demyelinating disease (CMT-1) vs Axonal disease (CMT-2) | MED-C44-14 |
+| Other features CMT-1: onion bulb formation in nerve biopsy; involvement of upper limb | MED-C44-15 |
+| Nerve thickening: + (CMT-1) vs - (CMT-2) | MED-C44-16 |
+| Onset: Early (CMT-1) vs Later than CMT-1 (CMT-2) | MED-C44-17 |
+| Deformities: - / -; Areflexia: - / - as printed | MED-C44-18 |
+
+Unasked points: **none found**.
+
+### Book p628 / 04 PDF3
+
+| Printed point / call-out | Question |
+|---|---|
+| CMT-4 : AKA Dejerine sottas disease [sic] | MED-C44-19 |
+| CMT-4 : AD/AR; congenital hypomyelinating neuropathy | MED-C44-20 |
+| Features of CMT-1: long, slow progressive history : 10-30 yrs | MED-C44-21 |
+| Foot deformity: pes cavus is m/c presentation | MED-C44-22 |
+| Foot deformity: hammer toes | MED-C44-23 |
+| Palpable, enlarged hypertrophic nerves | MED-C44-24 |
+| Mild kyphosis (In 1/10th cases) | MED-C44-25 |
+| Sensory features: no sensory symptoms; large-fibre sensory signs (+) (proprioception, fine touch, vibration etc.) | MED-C44-26 |
+| Motor features: distal > proximal; lower limb predominance; non-debilitating weakness | MED-C44-27 |
+| CMT-1 profile: pes cavus m/c, palpable hypertrophic nerves, family history (+), slow MCV, normal amplitude, prolonged distal latency | MED-C44-28 |
+| Slow motor conduction velocity; normal amplitude, prolonged distal latency, presence of temporal dispersion | MED-C44-29 |
+| Distal weakness -> wasting -> inverted champagne leg | MED-C44-30 |
+| Reflexes: generalised hypo/areflexia; ankle jerk absent universally | MED-C44-31 |
+| Note thickened nerves: leprosy; chronic inflammatory demyelinating polyneuropathy; charcot-marie-tooth disease | MED-C44-32 |
+| Image caption: Onion bulb formation | MED-C44-33 |
+| Image captions: Pes cavus; Inverted champagne leg | MED-C44-34 |
+
+Unasked points: **none found**.
+
+### Book p629 / 04 PDF4
+
+| Printed point / call-out | Question |
+|---|---|
+| FAP: caused d/t mutant transthyretin | MED-C44-35 |
+| FAP: axonal sensory-motor polyneuropathy | MED-C44-36 |
+| FAP: ANS involvement (+) | MED-C44-37 |
+| FAP: painful neuropathy; large + small fibre symptoms | MED-C44-38 |
+| Manifestations: Neurovisceral = Acute Intermittent Porphyria | MED-C44-39 |
+| Cutaneous: less common; includes variegate porphyria, hereditary coproporphyria | MED-C44-40 |
+| Cutaneous: blisters, hyperpigmentation, hypertrichosis, increased skin fragility | MED-C44-41 |
+| Features: autosomal dominant | MED-C44-42 |
+| ANS (Predominant) + PNS + CNS involvement | MED-C44-43 |
+| Acute onset; females > males; age 3rd-4th decade | MED-C44-44 |
+| Precipitating factors : menstruation | MED-C44-45 |
+| GIT: acute abdominal pain (most frequent symptoms), generalised/localised, colicky/non-colicky | MED-C44-46 |
+| GIT: constipation; nausea | MED-C44-47 |
+| Neuropathy: acute axonal; proximal involvement (predominant) | MED-C44-48 |
+| Sensory involvement (Rare): glove & stockings pattern, bathing suite pattern [sic] | MED-C44-49 |
+| Symmetrical > Asymmetrical (Rare); Upper Limb > Lower Limb | MED-C44-50 |
+
+Unasked points: **none found**.
+
+### Book p630 / 04 PDF5
+
+| Printed point / call-out | Question |
+|---|---|
+| ANS features : Hallmark | MED-C44-51 |
+| ANS: orthostatic hypotension, erectile dysfunction, urinary incontinence | MED-C44-52 |
+| Persistent tachycardia > Bradycardia | MED-C44-53 |
+| Labile hypertension -> Hypertensive encephalopathy : PRES | MED-C44-54 |
+| CNS features: mild neuropsychiatric symptoms; seizure | MED-C44-55 |
+| Neuropathy : motor > Sensory | MED-C44-56 |
+| Facial, bulbar weakness -> flaccid quadriparesis with respiratory involvement (GBS-like) | MED-C44-57 |
+| Rapidly progressive muscle wasting : involvement of anterior horn cell | MED-C44-58 |
+| Others : SIADH -> Hyponatremia | MED-C44-59 |
+| Note motor neuropathy: lead, dapsone, multifocal motor neuropathy with conduction block (MMNCB) | MED-C44-60 |
+| Predominantly motor involvement : GBS, diphtheria, porphyria | MED-C44-61 |
+| Tangier's disease: autosomal recessive | MED-C44-62 |
+| Defect in ATP binding cascade protein [sic] -> ↓ HDL | MED-C44-63 |
+| Orange tonsil | MED-C44-64 |
+| Tangier's: axonal; asymmetric mononeuropathy | MED-C44-65 |
+| Refsum: demyelinating disease; defect in phytanic oxidase enzyme -> α oxidation defect | MED-C44-66 |
+| Triad: retinitis pigmentosa; cerebellar ataxia : Romberg sign +ve; peripheral neuropathy | MED-C44-67 |
+
+Unasked points: **none found**.
+
+### Book p631 / 04 PDF6
+
+| Printed point / call-out | Question |
+|---|---|
+| Romberg's sign components: semicircular canal; vestibulo-cerebellar fibres; visual stimulus; proprioception | MED-C44-68 |
+| Instructions 1-2 eliminate semicircular canal and vestibulo-cerebellar fibres | MED-C44-69 |
+| Instruction 3 (eyes closed) eliminates visual stimulus | MED-C44-70 |
+| Remaining component after eliminations: proprioception | MED-C44-71 |
+| Wash basin sign: improper posture + no visual component -> posterior column tract disorder -> no compensation -> fall | MED-C44-72 |
+| Angiokeratoma + painful acroparesthesia : painful small fibre neuropathy | MED-C44-73 |
+| Fabry's: digital paresthesia; severe ANS symptoms; axonal; renal manifestation | MED-C44-74 |
+| Autonomic neuropathies seen in: diabetes; amyloidosis; porphyria; Fabry; vincristine | MED-C44-75 |
+
+Unasked points: **none found**.
+
+### Book p632 / 04 PDF7
+
+| Printed point / call-out | Question |
+|---|---|
+| Definition: Acute (<=4 weeks) bilaterally symmetrical inflammatory autoimmune polyradiculoneuropathy | MED-C45-01 |
+| Note: CIDP (Chronic inflammatory demyelinating polyneuropathy) : Chronic (>8 weeks) | MED-C45-02 |
+| AIDP: Anti-GM1 antibodies; demyelinating | MED-C45-03 |
+| AIDP prognosis: best prognosis of all types | MED-C45-04 |
+| AMAN: children & young adults; Anti-GD1a antibodies; axonal | MED-C45-05 |
+| AMSAN: mostly adults; axonal | MED-C45-06 |
+| MFS clinical triad: 1. ophthalmoplegia 2. ataxia 3. areflexia | MED-C45-07 |
+| MFS (rarest form): Anti-GQ1b antibodies | MED-C45-08 |
+| MFS electrodiagnosis: axonal or demyelinating | MED-C45-09 |
+| Poor prognosis cell spans AMAN, AMSAN and MFS | MED-C45-10 |
+| All antibodies associated are IgGs | MED-C45-11 |
+| AIDP: m/c; mean age of presentation : 40 years; male > female | MED-C45-12 |
+| Pathophysiology: antibodies -> binds to myelin -> activates compliment [sic] -> macrophage invasion -> vesicular degeneration | MED-C45-13 |
+
+Unasked points: **none found**.
+
+### Book p633 / 04 PDF8
+
+| Printed point / call-out | Question |
+|---|---|
+| Presentation flow starts with sensory symptoms (B/L tingling & numbness of lower limbs : Rubbery legs) | MED-C45-14 |
+| Flow: mild transient bowel & bladder dysfunction between sensory and motor symptoms | MED-C45-15 |
+| Motor symptoms (Bilateral lower limb weakness) | MED-C45-16 |
+| Examination findings: HMF : Normal; Cranial nerves : Normal; motor (UL) : Normal | MED-C45-17 |
+| Bilateral atonic areflexic paraparesis (Proximal + distal) of lower limbs | MED-C45-18 |
+| Large fibre (Aα) sensory loss | MED-C45-19 |
+| Progression: ≥24 hours since incident | MED-C45-20 |
+| Areflexic ascending paralysis (Lower limb -> upper limb) | MED-C45-21 |
+| Cranial nerve involvement: 30% affected (4-15% mortality) | MED-C45-22 |
+| Progression: brainstem involvement -> respiratory centre affected -> requires ventilation | MED-C45-23 |
+| Prognosis: 80% recover (of which 5-10% have persistent motor weakness) | MED-C45-24 |
+| 30% -> lower cranial nerve & brainstem involvement -> dysphagia/dysarthria -> aspiration -> death | MED-C45-25 |
+| Survival rate : 85-90% (Early intervention) | MED-C45-26 |
+| Bad prognostic factors (ANS manifestations) | MED-C45-27 |
+| Labile HTN (Extreme BP fluctuations) -> PRES (Posterior reversible encephalopathy syndrome) | MED-C45-28 |
+| Bad prognostic factors: postural hypotension; arrhythmias; deep aching pain in affected muscles | MED-C45-29 |
+| Note: D/d for neuropathy with PRES : Porphyrias | MED-C45-30 |
+
+Unasked points: **none found**.
+
+### Book p634 / 04 PDF9
+
+| Printed point / call-out | Question |
+|---|---|
+| Inciting factors: Gastroenteritis/URTI (Past 4 weeks) : In 60-70% GBS cases | MED-C45-31 |
+| Associated infections : C. jejuni, CMV, EBV, mycoplasma, Hep A/B, HIV | MED-C45-32 |
+| Inciting factors: vaccination associated; molecular mimicry | MED-C45-33 |
+| Note: C. jejuni -> IPSID (Immuno-proliferative small intestinal disease/lymphoma) and GBS | MED-C45-34 |
+| Essential: progressive weakness in both arms and legs (Legs -> Arms); areflexia | MED-C45-35 |
+| Supporting: progression of symptoms over days up to 4 weeks | MED-C45-36 |
+| Cranial nerve involvement m/c : VII > III | MED-C45-37 |
+| B/L LMN VII nerve palsy (D/d : Sarcoidosis) | MED-C45-38 |
+| Recovery begins 2-4 weeks after progression ceases | MED-C45-39 |
+| Supporting: absence of fever at onset | MED-C45-40 |
+| Lumbar puncture: 90% cases : Albuminocytological dissociation | MED-C45-41 |
+| Not detected <7 days, and in GBS variants | MED-C45-42 |
+| 5% cases : Pleocytosis of 10-30 cells | MED-C45-43 |
+| Findings last only for 1 month | MED-C45-44 |
+| NCS: latency prolongation, conduction block, ↓ conduction velocity, F-wave & H reflex absent/prolonged, temporal dispersion | MED-C45-45 |
+| Excluding: botulism; myasthenia gravis; diphtheria; abnormal porphyrin metabolism; pure sensory syndrome (without weakness) | MED-C45-46 |
+| Features excluding diagnosis: pure sensory syndrome (without weakness) | MED-C45-47 |
+
+Unasked points: **none found**.
+
+### Book p635 / 04 PDF10
+
+| Printed point / call-out | Question |
+|---|---|
+| Treatment: IVIg (Dose : 0.4 gm/kg x 5 days) | MED-C45-48 |
+| PLEX (Plasma exchange) therapy (One filter : 5 cycles, preferred for ANS manifestations) | MED-C45-49 |
+| Each cycle removes 1.5 times plasma volume; replace with 50% : NS and 50% : FFP | MED-C45-50 |
+| No role for steroids | MED-C45-51 |
+| MFS features plus brain stem encephalitis and hyperreflexia -> Bickerstaff encephalitis | MED-C45-52 |
+| MFS features: Anti GQ1b antibody (+) | MED-C45-53 |
+| Treatment of MFS/Bickerstaff: PLEX | MED-C45-54 |
+| Course: CIDP >8 weeks vs AIDP <=4 weeks | MED-C45-55 |
+| Presentation: CIDP subacute/chronic (Not an emergency) vs AIDP acute (emergency) | MED-C45-56 |
+| Preceding infection (%): CIDP 30% vs AIDP 70% | MED-C45-57 |
+| CIDP causes: idiopathic; secondary to myeloma/POEMS/HIV/SLE/Hodgkins/DM/IBD | MED-C45-58 |
+| ANS symptoms: CIDP absent vs AIDP present | MED-C45-59 |
+| Cranial nerve involvement: CIDP 10% vs AIDP 30% | MED-C45-60 |
+| Precise point of onset: CIDP (-) vs AIDP (+) | MED-C45-61 |
+| Ventilator: CIDP No vs AIDP required in bad prognosis; mortality: CIDP Nil vs AIDP 10-15% | MED-C45-62 |
+| CIDP treatment: Steroid (DOC) | MED-C45-63 |
+| CIDP: PLEX (Resistant cases); IVIg (Pure motor CIDP) | MED-C45-64 |
+| AIDP treatment: steroids not used; IVIg/PLEX | MED-C45-65 |
+
+Unasked points: **none found**.
+
+### Book p636 / 04 PDF11
+
+| Printed point / call-out | Question |
+|---|---|
+| CIDP affected systems: prominent sensory involvement (large fibre symptoms; distal -> proximal); motor symptoms gradually progressive, distal -> proximal, lower limb predominant | MED-C45-66 |
+| AIDP affected systems: predominantly motor; minimal sensory involvement | MED-C45-67 |
+| CIDP is associated with : relapsing neuropathy; nerve thickening | MED-C45-68 |
+| Large fiber sensory symptoms: tingling; numbness; dysesthesia; paraesthesia; cotton wool sensation; sensory ataxia | MED-C45-69 |
+| Nerve thickening also seen in : leprosy; charcot marie tooth disease | MED-C45-70 |
+| POEMS characteristic feature: increased VEGF | MED-C45-71 |
+| POEMS: λ light chain myeloma | MED-C45-72 |
+| Polyneuropathy (P) refers to CIDP | MED-C45-73 |
+| POEMS: osteosclerotic lesions | MED-C45-74 |
+| Associated syndrome : Castleman syndrome; refractory to therapy | MED-C45-75 |
+| MMN-CB: pure motor neuropathy with associated atrophy; lasting for years; asymmetric presentation; upper limb > lower limb involvement | MED-C45-76 |
+| MMN-CB: diagnosis demyelination in NCS; antibody anti-GM1 antibody (D/d : GBS) | MED-C45-77 |
+| Other conditions with pure motor neuropathy : lead poisoning, dapsone toxicity | MED-C45-78 |
+
+Unasked points: **none found**.
+
+### Book p637 / 04 PDF12
+
+| Printed point / call-out | Question |
+|---|---|
+| Pure motor disorders of: anterior horn cells (motor neuron disease), muscle, neuromuscular junction (myasthenia gravis) | MED-C46-01 |
+| Sensory motor: radiculopathy, plexopathy, neuropathy | MED-C46-02 |
+| Predominant feature: AHC wasting >>> weakness; muscle weakness > wasting (Late stages) | MED-C46-03 |
+| Symmetry: AHC asymmetric; muscle symmetric | MED-C46-04 |
+| Distribution: AHC distal > proximal, upper limb, painless; muscle proximal, B/L upper/lower limb, painless > painful | MED-C46-05 |
+| Reflexes: AHC absent; muscle late stages : hyporeflexia | MED-C46-06 |
+| Fasciculations: AHC +; muscle - | MED-C46-07 |
+| NMJ disorders: fluctuating weakness; diurnal variation; weakness on repetitive movements | MED-C46-08 |
+| NMJ: ophthalmoplegia + ptosis; masseter muscle involvement -> chewing difficulties | MED-C46-09 |
+| Power 5 : Normal power (moves against gravity + full resistance) | MED-C46-10 |
+| Power 5- : Equivocal; barely detectable weakness | MED-C46-11 |
+| Power 4+ : Definite but slight weakness | MED-C46-12 |
+| Power 4 : moves joint against gravity + some resistance | MED-C46-13 |
+
+Unasked points: **none found**.
+
+### Book p638 / 04 PDF13
+
+| Printed point / call-out | Question |
+|---|---|
+| Power 4- : Capable of minimal resistance | MED-C46-14 |
+| Power 3+ : Capable of transient resistance but collapses abruptly | MED-C46-15 |
+| Power 3 : Active movement against gravity (without resistance) | MED-C46-16 |
+| Power 3- : moves against gravity but not through full range | MED-C46-17 |
+| Power 2 : moves with gravity eliminated | MED-C46-18 |
+| Power 1 : Trace contraction; Power 0 : No contraction | MED-C46-19 |
+| Inherited (Chronic): muscular dystrophies; congenital myopathies; metabolic myopathies; channelopathies (of Na+/K+/Cl-) | MED-C46-20 |
+| Acquired: inflammatory muscle disease; drugs; toxins; infections; endocrine (Hypothyroidism) | MED-C46-21 |
+| Channelopathies (of Na+/K+/Cl-) | MED-C46-22 |
+| Muscular dystrophies: loss of structural proteins in muscle; progressive; necrosis of muscle -> replaced by adipose tissue | MED-C46-23 |
+| Eg. Duchenne muscle dystrophy, Becker's muscle dystrophy | MED-C46-24 |
+| Congenital myopathies: loss of contractile proteins; slow weakness; non-progressive | MED-C46-25 |
+| Types: central core, centronuclear, nemaline myopathy | MED-C46-26 |
+| Alteration in metabolism of carbohydrate / lipid | MED-C46-27 |
+| Symptoms induced by exercise | MED-C46-28 |
+
+Unasked points: **none found**.
+
+### Book p639 / 04 PDF14
+
+| Printed point / call-out | Question |
+|---|---|
+| Inherited episodic: rhabdomyolysis in GSD type V (McArdle's disease); channelopathies; metabolic myopathy; NMJ disorders | MED-C46-29 |
+| Inherited persistent: Dystrophies (Chronic) | MED-C46-30 |
+| Acquired episodic: rhabdomyolysis; acquired persistent: inflammatory muscle disease (Acute/Subacute) | MED-C46-31 |
+| Negative symptoms: weakness; fatigue; exercise intolerance | MED-C46-32 |
+| Positive symptoms: myalgia; cramps; contractures; myotonia | MED-C46-33 |
+| Myoglobinuria (Positive sign) : Rhabdomyolysis -> High colored urine | MED-C46-34 |
+| Muscle atrophy (Negative sign) : Late stages of muscle disease | MED-C46-35 |
+| Proximal lower extremities: difficulty climbing stairs; rising from low chair / squatting position | MED-C46-36 |
+| Proximal upper extremities: washing clothes; taking things off a rack above; putting hooks on a blouse | MED-C46-37 |
+| Distal upper extremities: tear paper; screw something on; put a key in | MED-C46-38 |
+| Distal lower extremities: wearing sandals | MED-C46-39 |
+
+Unasked points: **none found**.
+
+### Book p640 / 04 PDF15
+
+| Printed point / call-out | Question |
+|---|---|
+| Asymmetrical muscle weakness: inclusion body myositis (elderly fall d/t asymmetrical quadriceps involvement); facio scapulo humeral dystrophy (FSHD) | MED-C46-40 |
+| Pure distal myopathies: Welander; Miyoshi; Nonaka | MED-C46-41 |
+| Proximal UL + Distal LL weakness: FSHD | MED-C46-42 |
+| Proximal LL + Distal UL weakness: myotonic dystrophy; inclusion body myositis | MED-C46-43 |
+| Ptosis + ophthalmoplegia with + dysarthria : oculo-pharyngeal muscle dystrophy | MED-C46-44 |
+| Ptosis + ophthalmoplegia with - dysarthria : CPEO (Chronic progressive external ophthalmoplegia) | MED-C46-45 |
+| B/L symmetrical ptosis with facial muscle involvement: FSHD; myotonic dystrophy | MED-C46-46 |
+| Metabolic (mitochondrial) myopathy : trivial exercise -> abnormal fatigability without significant weakness | MED-C46-47 |
+| Rhabdomyolysis : unaccustomed activity -> severe pain + cramps + high colored urine | MED-C46-48 |
+| Myalgia cause: Orthopedic, rheumatological > muscular disorders | MED-C46-49 |
+| Muscular diseases with muscle pain: mitochondrial myopathy; inflammatory muscle disease (30%); rhabdomyolysis | MED-C46-50 |
+| Polymyalgia Rheumatica association : Giant cell arteritis | MED-C46-51 |
+| Polymyalgia rheumatica D/d : Late onset RA; myositis | MED-C46-52 |
+| C/f: early morning stiffness around shoulder, hip, and pelvic girdle; ↑ ESR | MED-C46-53 |
+| Rx : Low dose steroids | MED-C46-54 |
+
+Unasked points: **none found**.
+
+### Book p641 / 04 PDF16
+
+| Printed point / call-out | Question |
+|---|---|
+| Fibromyalgia: F : m = 9 : 1 | MED-C46-55 |
+| Risk factor : Stress | MED-C46-56 |
+| C/f: easy fatigability; muscle pain; trigger points (+); normal muscle enzymes & ESR | MED-C46-57 |
+| Rx : Psychiatric therapy | MED-C46-58 |
+| Cramps: short, electrically active; contractures: long, electrically silent | MED-C46-59 |
+| Cramps causes: dehydration; hyponatremia; ALS; Duchenne muscular dystrophy | MED-C46-60 |
+| Contractures causes: Emery-Dreifuss muscular dystrophy; mitochondrial myopathy | MED-C46-61 |
+| Other symptoms in ALS: cramps; atrophy; fasciculations; wasting | MED-C46-62 |
+| Other symptoms in mitochondrial myopathies: contractures; pain; cramps; weakness - associated with exercise | MED-C46-63 |
+| Myotonia: impaired relaxation of muscle after forceful voluntary contraction | MED-C46-64 |
+| Myotonia: exercise improves; cold worsens | MED-C46-65 |
+| Paramyotonia: exercise worsens; cold worsens | MED-C46-66 |
+| Myotonia examples: 1. Myotonic Dystrophy 2. Hyperkalemic Periodic Paralysis (Na+ channelopathy) | MED-C46-67 |
+| Paramyotonia example: paramyotonia congenita (Na+ channelopathy) | MED-C46-68 |
+
+Unasked points: **none found**.
+
+### Book p642 / 04 PDF17
+
+| Printed point / call-out | Question |
+|---|---|
+| Dystrophin Defect: structural protein involvement; necrosis of muscle -> replaced by adipose & fibrous tissue | MED-C47-01 |
+| Dystrophin defect: X linked deletion | MED-C47-02 |
+| Dystrophin defect Rx : Steroids | MED-C47-03 |
+| Photograph caption: Lordosis | MED-C47-04 |
+| Duchenne's Muscular Dystrophy (DMD) : Progressive muscle degeneration | MED-C47-05 |
+| Timeline 0-1: gross motor delay (walking late) | MED-C47-06 |
+| Timeline 2-4: frequent falls -> presents to clinic | MED-C47-07 |
+| Timeline 5-7: toe walking; Gower's sign; cramps unrelated to exercise; lordosis | MED-C47-08 |
+| Timeline: 8-10 supported walking; 11-12 wheelchair bound | MED-C47-09 |
+| Timeline 13-14: upper limb involvement | MED-C47-10 |
+| Timeline 16-18: respiratory involvement -> aspiration pneumonia : m/c cause of death | MED-C47-11 |
+| Additional involvement: scoliosis -> interstitial lung disease (ILD) | MED-C47-12 |
+| Pseudohypertrophy of muscle (Calf > other muscles) | MED-C47-13 |
+| Nocturnal hypoventilation -> pooling of secretions -> aspiration | MED-C47-14 |
+| Additional involvement: mental retardation; cardiomyopathies | MED-C47-15 |
+| Becker's: cause of death : Cardiac (Dilated cardio myopathy) | MED-C47-16 |
+| Becker's: creatine kinase, electromyography, biopsy : similar to DMD | MED-C47-17 |
+| Becker's: presentation : 5-60 years; survival : >40 years | MED-C47-18 |
+| Milder than DMD: contracture absent; less weakness; mental retardation absent | MED-C47-19 |
+
+Unasked points: **none found**.
+
+### Book p643 / 04 PDF18
+
+| Printed point / call-out | Question |
+|---|---|
+| LGMD: autosomal dominant/recessive | MED-C47-20 |
+| LGMD: m/c adult onset muscle dystrophy | MED-C47-21 |
+| LGMD associated with : Cardiomyopathy | MED-C47-22 |
+| LGMD protein involved : Lamin, Caveolin | MED-C47-23 |
+| Diamond on thigh sign : Vastus medialis hypertrophy + Atrophy of other muscles | MED-C47-24 |
+| Photo caption: Winging of scapula in LGMD | MED-C47-25 |
+| Emery Dreifuss: X-linked recessive / Autosomal dominant | MED-C47-26 |
+| Emery Dreifuss presentation: prominent contractures; cardiomyopathy | MED-C47-27 |
+| FSHD: autosomal dominant; muscle asymmetry | MED-C47-28 |
+| FSHD muscles involved : proximal upper limb + distal lower limb | MED-C47-29 |
+| FSHD: B/L ptosis + facial muscle involvement | MED-C47-30 |
+| OPMD presentation: ptosis; ophthalmoplegia; dysphagia | MED-C47-31 |
+| Myotonic dystrophy: autosomal dominant : trinucleotide repeat disease of Chr 19 | MED-C47-32 |
+| Myotonic dystrophy: DM1 > DM2 | MED-C47-33 |
+| Myotonic dystrophy muscle involved : proximal lower limb + distal upper limb + myotonia | MED-C47-34 |
+| Photo caption: Hatchet facies | MED-C47-35 |
+
+Unasked points: **none found**.
+
+### Book p644 / 04 PDF19
+
+| Printed point / call-out | Question |
+|---|---|
+| Hatchet facies : ptosis + temporal hollowing (temporalis) + elongated face + facial muscle involvement | MED-C47-36 |
+| Percussion myotonia : contraction on repeated percussion -> failure to release | MED-C47-37 |
+| Associated findings: cardiac conduction abnormalities | MED-C47-38 |
+| Associated findings: posterior subcapsular cataract | MED-C47-39 |
+| Associated findings: mental retardation; gonadal atrophy; insulin resistance; SNHL (sensory neural hearing loss) | MED-C47-40 |
+| Photo caption: Percussion myotonia | MED-C47-41 |
+| Photo captions: B/L winging of scapula; Humeral Atrophy & Winging of Scapula | MED-C47-42 |
+| Mitochondrial myopathies: maternally inherited | MED-C47-43 |
+| Histopathology : ragged red fibers on trichrome stain | MED-C47-44 |
+| Exercise induced weakness/fatiguability/cramps | MED-C47-45 |
+| CPEO: ptosis + ophthalmoplegia; dysarthria, diplopia absent | MED-C47-46 |
+| CPEO: D/D for NMJ disorders (Myasthenia gravis) | MED-C47-47 |
+| Kearns Sayre: CPEO before 20 years; retinitis pigmentosa + complete heart block + cerebellar ataxia | MED-C47-48 |
+| MERRF (Myoclonic Epilepsy with Ragged Red Fibers) | MED-C47-49 |
+| MELAS (Mitochondrial Encephalopathy with Lactic Acidosis and Stroke) | MED-C47-50 |
+
+Unasked points: **none found**.
+
+### Book p645 / 04 PDF20
+
+| Printed point / call-out | Question |
+|---|---|
+| Channelopathies LMN pattern: acute onset, B/L symmetrical, episodic motor weakness | MED-C47-51 |
+| Channelopathies D/d : Electrolyte imbalance | MED-C47-52 |
+| Calcium mnemonic : E2 S6 HOm | MED-C47-53 |
+| Calcium: episodic ataxia type 2; spinocerebellar ataxia type 6; hypokalemic periodic paralysis; familial hemiplegic migraine | MED-C47-54 |
+| Sodium: hyperkalemic periodic paralysis; normokalemic periodic paralysis; paramyotonia congenita | MED-C47-55 |
+| Chloride : myotonia congenita | MED-C47-56 |
+| Potassium: Anderson-Tawil syndrome; episodic ataxia type 1; benign neonatal familial convulsions (on Day 5 of birth) | MED-C47-57 |
+| Hypokalemic periodic paralysis: autosomal dominant; adolescent, m > F | MED-C47-58 |
+| Precipitated by ↑↑ carbohydrate meal | MED-C47-59 |
+| C/F: pure proximal limb weakness; propensity for arrhythmias; hypokalemia during episode | MED-C47-60 |
+| Mx : oral potassium; acetazolamide | MED-C47-61 |
+| Shared rows: autosomal dominant inheritance; childhood (1st decade); episodic weakness | MED-C47-62 |
+| Hyperkalemic PP: myotonia (+), K+ may be normal; Anderson-Tawil: no myotonia, K+ levels variable | MED-C47-63 |
+| Hyperkalemic PP: worsened by cold; precipitated by rest | MED-C47-64 |
+| Anderson-Tawil: dysmorphic facies + arrhythmias; rest row printed as - | MED-C47-65 |
+
+Unasked points: **none found**.
+
 ## Post-build verification
 
-- `python3 build_content.py` embedded 1942 questions / 183 units / 41 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 2363 questions / 211 units / 47 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1942 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 2363 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **41/57**. Embedded question total after build: **1942**; units: **183**. Ledger points: **2050**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **47/57**. Embedded question total after build: **2363**; units: **211**. Ledger points: **2471**. Unasked points: **NONE** in the visually recorded inventory.
 

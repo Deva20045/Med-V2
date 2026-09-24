@@ -1,0 +1,1089 @@
+{
+  "chapter": 47,
+  "title": "Muscular Dystrophies",
+  "pageRange": "642-645",
+  "questions": [
+    {
+      "id": "MED-C47-01",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Dystrophin defect involves:",
+      "opts": [
+        "Mitochondrial enzyme defect",
+        "Structural protein involvement with necrosis of muscle replaced by adipose & fibrous tissue",
+        "Contractile protein loss without necrosis",
+        "Ion channel dysfunction"
+      ],
+      "ans": 1,
+      "exp": "Dystrophin Defect: structural protein involvement; necrosis of muscle -> replaced by adipose & fibrous tissue (Book p642)"
+    },
+    {
+      "id": "MED-C47-02",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Genetics of the dystrophin defect printed is:",
+      "opts": [
+        "X linked point mutation only",
+        "Mitochondrial deletion",
+        "X linked deletion",
+        "Autosomal dominant duplication"
+      ],
+      "ans": 2,
+      "exp": "Dystrophin defect: X linked deletion (Book p642)"
+    },
+    {
+      "id": "MED-C47-03",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "management",
+      "q": "Treatment printed for dystrophin defect is:",
+      "opts": [
+        "Acetazolamide",
+        "IVIg",
+        "No treatment",
+        "Steroids"
+      ],
+      "ans": 3,
+      "exp": "Dystrophin defect Rx : Steroids (Book p642)"
+    },
+    {
+      "id": "MED-C47-04",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "The standing photograph beside the dystrophin text is captioned:",
+      "opts": [
+        "Lordosis",
+        "Pes cavus",
+        "Scoliosis",
+        "Contractures"
+      ],
+      "ans": 0,
+      "exp": "Photograph caption: Lordosis (Book p642)"
+    },
+    {
+      "id": "MED-C47-05",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Duchenne's muscular dystrophy is defined as:",
+      "opts": [
+        "Inflammatory myopathy",
+        "Progressive muscle degeneration",
+        "Non-progressive congenital weakness",
+        "Episodic channelopathy"
+      ],
+      "ans": 1,
+      "exp": "Duchenne's Muscular Dystrophy (DMD) : Progressive muscle degeneration (Book p642)"
+    },
+    {
+      "id": "MED-C47-06",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "numeric",
+      "q": "On the DMD timeline, gross motor delay (walking late) is placed at:",
+      "opts": [
+        "5-7 years",
+        "8-10 years",
+        "0-1 years",
+        "2-3 years"
+      ],
+      "ans": 2,
+      "exp": "Timeline 0-1: gross motor delay (walking late) (Book p642)"
+    },
+    {
+      "id": "MED-C47-07",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "numeric",
+      "q": "Frequent falls leading to clinic presentation are placed at:",
+      "opts": [
+        "0-1 years",
+        "8-10 years",
+        "13-14 years",
+        "2-4 years"
+      ],
+      "ans": 3,
+      "exp": "Timeline 2-4: frequent falls -> presents to clinic (Book p642)"
+    },
+    {
+      "id": "MED-C47-08",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "numeric",
+      "q": "Toe walking, Gower's sign, cramps unrelated to exercise and lordosis are placed at:",
+      "opts": [
+        "5-7 years",
+        "2-4 years",
+        "11-12 years",
+        "16-18 years"
+      ],
+      "ans": 0,
+      "exp": "Timeline 5-7: toe walking; Gower's sign; cramps unrelated to exercise; lordosis (Book p642)"
+    },
+    {
+      "id": "MED-C47-09",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "numeric",
+      "q": "Supported walking and wheelchair bound are placed at:",
+      "opts": [
+        "2-4 years and 5-7 years",
+        "8-10 years and 11-12 years respectively",
+        "5-7 years and 8-10 years",
+        "13-14 years and 16-18 years"
+      ],
+      "ans": 1,
+      "exp": "Timeline: 8-10 supported walking; 11-12 wheelchair bound (Book p642)"
+    },
+    {
+      "id": "MED-C47-10",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "numeric",
+      "q": "Upper limb involvement on the DMD timeline is placed at:",
+      "opts": [
+        "16-18 years",
+        "5-7 years",
+        "13-14 years",
+        "8-10 years"
+      ],
+      "ans": 2,
+      "exp": "Timeline 13-14: upper limb involvement (Book p642)"
+    },
+    {
+      "id": "MED-C47-11",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "numeric",
+      "q": "Respiratory involvement with aspiration pneumonia as m/c cause of death is placed at:",
+      "opts": [
+        "13-14 years",
+        "11-12 years",
+        "8-10 years",
+        "16-18 years"
+      ],
+      "ans": 3,
+      "exp": "Timeline 16-18: respiratory involvement -> aspiration pneumonia : m/c cause of death (Book p642)"
+    },
+    {
+      "id": "MED-C47-12",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Scoliosis in DMD leads to:",
+      "opts": [
+        "Interstitial lung disease (ILD)",
+        "Cardiomyopathy",
+        "Mental retardation",
+        "Nocturnal hypoventilation"
+      ],
+      "ans": 0,
+      "exp": "Additional involvement: scoliosis -> interstitial lung disease (ILD) (Book p642)"
+    },
+    {
+      "id": "MED-C47-13",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Pseudohypertrophy in DMD predominantly affects:",
+      "opts": [
+        "Facial muscles",
+        "Calf > other muscles",
+        "Thigh > calf",
+        "Deltoid > calf"
+      ],
+      "ans": 1,
+      "exp": "Pseudohypertrophy of muscle (Calf > other muscles) (Book p642)"
+    },
+    {
+      "id": "MED-C47-14",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Nocturnal hypoventilation in DMD leads through which chain?",
+      "opts": [
+        "Cardiomyopathy -> failure",
+        "Scoliosis -> restriction",
+        "Pooling of secretions -> aspiration",
+        "ILD -> cor pulmonale"
+      ],
+      "ans": 2,
+      "exp": "Nocturnal hypoventilation -> pooling of secretions -> aspiration (Book p642)"
+    },
+    {
+      "id": "MED-C47-15",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Other additional involvement listed in DMD includes:",
+      "opts": [
+        "Renal failure and cataract",
+        "Hepatosplenomegaly and deafness",
+        "Seizures and ataxia",
+        "Mental retardation and cardiomyopathies"
+      ],
+      "ans": 3,
+      "exp": "Additional involvement: mental retardation; cardiomyopathies (Book p642)"
+    },
+    {
+      "id": "MED-C47-16",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Cause of death in Becker's muscular dystrophy is:",
+      "opts": [
+        "Cardiac (dilated cardiomyopathy)",
+        "Aspiration pneumonia",
+        "Respiratory failure",
+        "Renal failure"
+      ],
+      "ans": 0,
+      "exp": "Becker's: cause of death : Cardiac (Dilated cardio myopathy) (Book p642)"
+    },
+    {
+      "id": "MED-C47-17",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Investigations in Becker's dystrophy are:",
+      "opts": [
+        "Anti-GM1 antibodies",
+        "Creatine kinase, electromyography, biopsy similar to DMD",
+        "Normal CK with myotonic discharges",
+        "Ragged red fibres on biopsy"
+      ],
+      "ans": 1,
+      "exp": "Becker's: creatine kinase, electromyography, biopsy : similar to DMD (Book p642)"
+    },
+    {
+      "id": "MED-C47-18",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Presentation and survival in Becker's dystrophy are:",
+      "opts": [
+        "Presentation 20-40 years; survival >60 years",
+        "Presentation at birth; survival >40 years",
+        "Presentation 5-60 years; survival >40 years",
+        "Presentation 0-3 years; survival <20 years"
+      ],
+      "ans": 2,
+      "exp": "Becker's: presentation : 5-60 years; survival : >40 years (Book p642)"
+    },
+    {
+      "id": "MED-C47-19",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "page": 642,
+      "fmt": "recall",
+      "q": "Becker's is milder than DMD because of:",
+      "opts": [
+        "Contractures present with less weakness",
+        "Mental retardation present with no weakness",
+        "Earlier onset with slower course",
+        "Contracture absent, less weakness, mental retardation absent"
+      ],
+      "ans": 3,
+      "exp": "Milder than DMD: contracture absent; less weakness; mental retardation absent (Book p642)"
+    },
+    {
+      "id": "MED-C47-20",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Inheritance of LGMD is:",
+      "opts": [
+        "Autosomal dominant/recessive",
+        "X-linked recessive only",
+        "Mitochondrial",
+        "Autosomal recessive only"
+      ],
+      "ans": 0,
+      "exp": "LGMD: autosomal dominant/recessive (Book p643)"
+    },
+    {
+      "id": "MED-C47-21",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "LGMD holds which epidemiological position?",
+      "opts": [
+        "m/c congenital myopathy",
+        "m/c adult onset muscle dystrophy",
+        "m/c childhood onset dystrophy",
+        "Rarest dystrophy"
+      ],
+      "ans": 1,
+      "exp": "LGMD: m/c adult onset muscle dystrophy (Book p643)"
+    },
+    {
+      "id": "MED-C47-22",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "LGMD is associated with:",
+      "opts": [
+        "Renal failure",
+        "Hepatosplenomegaly",
+        "Cardiomyopathy",
+        "Cataract"
+      ],
+      "ans": 2,
+      "exp": "LGMD associated with : Cardiomyopathy (Book p643)"
+    },
+    {
+      "id": "MED-C47-23",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Proteins involved in LGMD are:",
+      "opts": [
+        "Dystrophin, utrophin",
+        "Titin, nebulin",
+        "Myotilin, desmin",
+        "Lamin, caveolin"
+      ],
+      "ans": 3,
+      "exp": "LGMD protein involved : Lamin, Caveolin (Book p643)"
+    },
+    {
+      "id": "MED-C47-24",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "The diamond on thigh sign in LGMD represents:",
+      "opts": [
+        "Vastus medialis hypertrophy + atrophy of other muscles",
+        "Rectus femoris atrophy only",
+        "Hamstring hypertrophy",
+        "Adductor longus tear"
+      ],
+      "ans": 0,
+      "exp": "Diamond on thigh sign : Vastus medialis hypertrophy + Atrophy of other muscles (Book p643)"
+    },
+    {
+      "id": "MED-C47-25",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "The back photographs beside LGMD are captioned:",
+      "opts": [
+        "Contractures",
+        "Winging of scapula in LGMD",
+        "Humeral atrophy",
+        "Scoliosis in DMD"
+      ],
+      "ans": 1,
+      "exp": "Photo caption: Winging of scapula in LGMD (Book p643)"
+    },
+    {
+      "id": "MED-C47-26",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Inheritance of Emery Dreifuss muscle dystrophy is:",
+      "opts": [
+        "Mitochondrial",
+        "X-linked dominant only",
+        "X-linked recessive / autosomal dominant",
+        "Autosomal recessive only"
+      ],
+      "ans": 2,
+      "exp": "Emery Dreifuss: X-linked recessive / Autosomal dominant (Book p643)"
+    },
+    {
+      "id": "MED-C47-27",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Presentation of Emery Dreifuss dystrophy is:",
+      "opts": [
+        "Ptosis and dysphagia",
+        "Muscle asymmetry and facial involvement",
+        "Myotonia and cataract",
+        "Prominent contractures and cardiomyopathy"
+      ],
+      "ans": 3,
+      "exp": "Emery Dreifuss presentation: prominent contractures; cardiomyopathy (Book p643)"
+    },
+    {
+      "id": "MED-C47-28",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Inheritance and muscle asymmetry of facioscapulohumeral dystrophy are:",
+      "opts": [
+        "Autosomal dominant with muscle asymmetry",
+        "Autosomal recessive with symmetry",
+        "X-linked with asymmetry",
+        "Mitochondrial with symmetry"
+      ],
+      "ans": 0,
+      "exp": "FSHD: autosomal dominant; muscle asymmetry (Book p643)"
+    },
+    {
+      "id": "MED-C47-29",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Muscles involved in FSHD are:",
+      "opts": [
+        "Axial muscles only",
+        "Proximal upper limb + distal lower limb",
+        "Proximal lower limb + distal upper limb",
+        "Distal both limbs only"
+      ],
+      "ans": 1,
+      "exp": "FSHD muscles involved : proximal upper limb + distal lower limb (Book p643)"
+    },
+    {
+      "id": "MED-C47-30",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Facial features listed in FSHD are:",
+      "opts": [
+        "Hatchet facies",
+        "Ophthalmoplegia with dysphagia",
+        "B/L ptosis + facial muscle involvement",
+        "Unilateral ptosis only"
+      ],
+      "ans": 2,
+      "exp": "FSHD: B/L ptosis + facial muscle involvement (Book p643)"
+    },
+    {
+      "id": "MED-C47-31",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Presentation of oculopharyngeal muscular dystrophy is:",
+      "opts": [
+        "Ptosis, myotonia, cataract",
+        "Dysphagia, contractures, cardiomyopathy",
+        "Ophthalmoplegia, ataxia, areflexia",
+        "Ptosis, ophthalmoplegia, dysphagia"
+      ],
+      "ans": 3,
+      "exp": "OPMD presentation: ptosis; ophthalmoplegia; dysphagia (Book p643)"
+    },
+    {
+      "id": "MED-C47-32",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Inheritance and genetics of myotonic dystrophy are:",
+      "opts": [
+        "Autosomal dominant trinucleotide repeat disease of Chr 19",
+        "Autosomal recessive channelopathy",
+        "X-linked deletion",
+        "Mitochondrial deletion"
+      ],
+      "ans": 0,
+      "exp": "Myotonic dystrophy: autosomal dominant : trinucleotide repeat disease of Chr 19 (Book p643)"
+    },
+    {
+      "id": "MED-C47-33",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Frequency relation between myotonic dystrophy types is:",
+      "opts": [
+        "DM2 only",
+        "DM1 > DM2",
+        "DM2 > DM1",
+        "DM1 = DM2"
+      ],
+      "ans": 1,
+      "exp": "Myotonic dystrophy: DM1 > DM2 (Book p643)"
+    },
+    {
+      "id": "MED-C47-34",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "Muscle involvement pattern in myotonic dystrophy is:",
+      "opts": [
+        "Distal lower limb only",
+        "Proximal both limbs only",
+        "Proximal lower limb + distal upper limb + myotonia",
+        "Proximal upper limb + distal lower limb"
+      ],
+      "ans": 2,
+      "exp": "Myotonic dystrophy muscle involved : proximal lower limb + distal upper limb + myotonia (Book p643)"
+    },
+    {
+      "id": "MED-C47-35",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "page": 643,
+      "fmt": "recall",
+      "q": "The photograph beside myotonic dystrophy is captioned:",
+      "opts": [
+        "Ptosis facies",
+        "Myopathic facies",
+        "Tapir facies",
+        "Hatchet facies"
+      ],
+      "ans": 3,
+      "exp": "Photo caption: Hatchet facies (Book p643)"
+    },
+    {
+      "id": "MED-C47-36",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Hatchet facies in myotonic dystrophy comprises:",
+      "opts": [
+        "Ptosis + temporal hollowing (temporalis) + elongated face + facial muscle involvement",
+        "Ptosis + ophthalmoplegia + dysphagia",
+        "Temporal hollowing + cataract only",
+        "Elongated face + gonadal atrophy"
+      ],
+      "ans": 0,
+      "exp": "Hatchet facies : ptosis + temporal hollowing (temporalis) + elongated face + facial muscle involvement (Book p644)"
+    },
+    {
+      "id": "MED-C47-37",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Percussion myotonia is demonstrated as:",
+      "opts": [
+        "Weakness after repetitive movement",
+        "Contraction on repeated percussion -> failure to release",
+        "Relaxation on repeated percussion",
+        "Contraction on cold exposure only"
+      ],
+      "ans": 1,
+      "exp": "Percussion myotonia : contraction on repeated percussion -> failure to release (Book p644)"
+    },
+    {
+      "id": "MED-C47-38",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Cardiac association of myotonic dystrophy is:",
+      "opts": [
+        "Valvular stenosis",
+        "Pericarditis",
+        "Cardiac conduction abnormalities",
+        "Dilated cardiomyopathy only"
+      ],
+      "ans": 2,
+      "exp": "Associated findings: cardiac conduction abnormalities (Book p644)"
+    },
+    {
+      "id": "MED-C47-39",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Ocular association of myotonic dystrophy is:",
+      "opts": [
+        "Anterior polar cataract",
+        "Retinitis pigmentosa",
+        "Optic atrophy",
+        "Posterior subcapsular cataract"
+      ],
+      "ans": 3,
+      "exp": "Associated findings: posterior subcapsular cataract (Book p644)"
+    },
+    {
+      "id": "MED-C47-40",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Other associated findings of myotonic dystrophy listed are:",
+      "opts": [
+        "Mental retardation, gonadal atrophy, insulin resistance, SNHL",
+        "Hepatosplenomegaly, renal failure",
+        "Ichthyosis, deafness, ataxia",
+        "Contractures, cramps, myalgia"
+      ],
+      "ans": 0,
+      "exp": "Associated findings: mental retardation; gonadal atrophy; insulin resistance; SNHL (sensory neural hearing loss) (Book p644)"
+    },
+    {
+      "id": "MED-C47-41",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "The hand photographs on this page are captioned:",
+      "opts": [
+        "Pseudohypertrophy",
+        "Percussion myotonia",
+        "Hatchet facies",
+        "Contractures"
+      ],
+      "ans": 1,
+      "exp": "Photo caption: Percussion myotonia (Book p644)"
+    },
+    {
+      "id": "MED-C47-42",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "The back photographs beside the associated findings are captioned:",
+      "opts": [
+        "Lordosis and scoliosis",
+        "Contractures and hatchet facies",
+        "B/L winging of scapula and humeral atrophy & winging of scapula",
+        "Winging of scapula in LGMD and diamond on thigh sign"
+      ],
+      "ans": 2,
+      "exp": "Photo captions: B/L winging of scapula; Humeral Atrophy & Winging of Scapula (Book p644)"
+    },
+    {
+      "id": "MED-C47-43",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Inheritance of mitochondrial myopathies is:",
+      "opts": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked",
+        "Maternally inherited"
+      ],
+      "ans": 3,
+      "exp": "Mitochondrial myopathies: maternally inherited (Book p644)"
+    },
+    {
+      "id": "MED-C47-44",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Histopathology of mitochondrial myopathies shows:",
+      "opts": [
+        "Ragged red fibers on trichrome stain",
+        "Onion bulb formation",
+        "Rimmed vacuoles",
+        "Grouped atrophy"
+      ],
+      "ans": 0,
+      "exp": "Histopathology : ragged red fibers on trichrome stain (Book p644)"
+    },
+    {
+      "id": "MED-C47-45",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Symptoms of mitochondrial myopathies are:",
+      "opts": [
+        "Cold induced stiffness",
+        "Exercise induced weakness/fatiguability/cramps",
+        "Resting weakness with wasting",
+        "Fluctuating diurnal weakness"
+      ],
+      "ans": 1,
+      "exp": "Exercise induced weakness/fatiguability/cramps (Book p644)"
+    },
+    {
+      "id": "MED-C47-46",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "CPEO presents with:",
+      "opts": [
+        "Ophthalmoplegia + ataxia + areflexia",
+        "Ptosis + myotonia",
+        "Ptosis + ophthalmoplegia with dysarthria and diplopia absent",
+        "Ptosis + dysphagia + dysarthria"
+      ],
+      "ans": 2,
+      "exp": "CPEO: ptosis + ophthalmoplegia; dysarthria, diplopia absent (Book p644)"
+    },
+    {
+      "id": "MED-C47-47",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "CPEO is a D/D for which disorder?",
+      "opts": [
+        "LGMD",
+        "FSHD",
+        "Inclusion body myositis",
+        "NMJ disorders (myasthenia gravis)"
+      ],
+      "ans": 3,
+      "exp": "CPEO: D/D for NMJ disorders (Myasthenia gravis) (Book p644)"
+    },
+    {
+      "id": "MED-C47-48",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "Kearns Sayre syndrome is defined by:",
+      "opts": [
+        "CPEO before 20 years with retinitis pigmentosa + complete heart block + cerebellar ataxia",
+        "CPEO after 40 years with cataract",
+        "Ophthalmoplegia with myotonia",
+        "Ptosis with dysphagia"
+      ],
+      "ans": 0,
+      "exp": "Kearns Sayre: CPEO before 20 years; retinitis pigmentosa + complete heart block + cerebellar ataxia (Book p644)"
+    },
+    {
+      "id": "MED-C47-49",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "MERRF expands to:",
+      "opts": [
+        "Myopathic Epilepsy with Recurrent Fatigue",
+        "Myoclonic Epilepsy with Ragged Red Fibers",
+        "Mitochondrial Encephalopathy with Ragged Red Fibers",
+        "Myoclonic Epilepsy with Renal Failure"
+      ],
+      "ans": 1,
+      "exp": "MERRF (Myoclonic Epilepsy with Ragged Red Fibers) (Book p644)"
+    },
+    {
+      "id": "MED-C47-50",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "page": 644,
+      "fmt": "recall",
+      "q": "MELAS expands to:",
+      "opts": [
+        "Mitochondrial Encephalopathy with Lactic Alkalosis and Seizures",
+        "Metabolic Encephalopathy with Lactic Acidosis and Syncope",
+        "Mitochondrial Encephalopathy with Lactic Acidosis and Stroke",
+        "Myoclonic Epilepsy with Lactic Acidosis and Stroke"
+      ],
+      "ans": 2,
+      "exp": "MELAS (Mitochondrial Encephalopathy with Lactic Acidosis and Stroke) (Book p644)"
+    },
+    {
+      "id": "MED-C47-51",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "The LMN pattern of channelopathies is:",
+      "opts": [
+        "Chronic asymmetric wasting with fasciculations",
+        "Progressive proximal weakness with contractures",
+        "Fluctuating diurnal ocular weakness",
+        "Acute onset, B/L symmetrical, episodic motor weakness"
+      ],
+      "ans": 3,
+      "exp": "Channelopathies LMN pattern: acute onset, B/L symmetrical, episodic motor weakness (Book p645)"
+    },
+    {
+      "id": "MED-C47-52",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "The D/d printed for channelopathies is:",
+      "opts": [
+        "Electrolyte imbalance",
+        "Myasthenia gravis",
+        "Botulism",
+        "Inflammatory myopathy"
+      ],
+      "ans": 0,
+      "exp": "Channelopathies D/d : Electrolyte imbalance (Book p645)"
+    },
+    {
+      "id": "MED-C47-53",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "The calcium channel mnemonic printed is:",
+      "opts": [
+        "E2 S6 HEm",
+        "E2 S6 HOm",
+        "E1 S5 HOm",
+        "C2 S6 HOm"
+      ],
+      "ans": 1,
+      "exp": "Calcium mnemonic : E2 S6 HOm (Book p645)"
+    },
+    {
+      "id": "MED-C47-54",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Calcium channelopathies listed are:",
+      "opts": [
+        "Myotonia congenita and paramyotonia congenita",
+        "Anderson-Tawil syndrome and episodic ataxia type 1",
+        "Episodic ataxia type 2, spinocerebellar ataxia type 6, hypokalemic periodic paralysis, familial hemiplegic migraine",
+        "Hyperkalemic and normokalemic periodic paralysis"
+      ],
+      "ans": 2,
+      "exp": "Calcium: episodic ataxia type 2; spinocerebellar ataxia type 6; hypokalemic periodic paralysis; familial hemiplegic migraine (Book p645)"
+    },
+    {
+      "id": "MED-C47-55",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Sodium channelopathies listed are:",
+      "opts": [
+        "Myotonia congenita only",
+        "Episodic ataxia type 2 and 6",
+        "Hypokalemic periodic paralysis only",
+        "Hyperkalemic periodic paralysis, normokalemic periodic paralysis, paramyotonia congenita"
+      ],
+      "ans": 3,
+      "exp": "Sodium: hyperkalemic periodic paralysis; normokalemic periodic paralysis; paramyotonia congenita (Book p645)"
+    },
+    {
+      "id": "MED-C47-56",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "The chloride channelopathy listed is:",
+      "opts": [
+        "Myotonia congenita",
+        "Paramyotonia congenita",
+        "Hyperkalemic periodic paralysis",
+        "Episodic ataxia type 1"
+      ],
+      "ans": 0,
+      "exp": "Chloride : myotonia congenita (Book p645)"
+    },
+    {
+      "id": "MED-C47-57",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Potassium channelopathies listed are:",
+      "opts": [
+        "Familial hemiplegic migraine",
+        "Anderson-Tawil syndrome, episodic ataxia type 1, benign neonatal familial convulsions (on day 5 of birth)",
+        "Hypokalemic and hyperkalemic periodic paralysis",
+        "Myotonia congenita"
+      ],
+      "ans": 1,
+      "exp": "Potassium: Anderson-Tawil syndrome; episodic ataxia type 1; benign neonatal familial convulsions (on Day 5 of birth) (Book p645)"
+    },
+    {
+      "id": "MED-C47-58",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Inheritance and demographics of hypokalemic periodic paralysis are:",
+      "opts": [
+        "X-linked; adolescent, m > F",
+        "Autosomal dominant; elderly, F > m",
+        "Autosomal dominant; adolescent, m > F",
+        "Autosomal recessive; infant, F > m"
+      ],
+      "ans": 2,
+      "exp": "Hypokalemic periodic paralysis: autosomal dominant; adolescent, m > F (Book p645)"
+    },
+    {
+      "id": "MED-C47-59",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Hypokalemic periodic paralysis attacks are precipitated by:",
+      "opts": [
+        "Fasting and cold",
+        "Exercise without rest",
+        "High potassium meal",
+        "↑↑ carbohydrate meal"
+      ],
+      "ans": 3,
+      "exp": "Precipitated by ↑↑ carbohydrate meal (Book p645)"
+    },
+    {
+      "id": "MED-C47-60",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Clinical features of hypokalemic periodic paralysis are:",
+      "opts": [
+        "Pure proximal limb weakness, propensity for arrhythmias, hypokalemia during episode",
+        "Distal weakness with sensory loss",
+        "Proximal weakness with hyperkalemia",
+        "Ocular and bulbar weakness"
+      ],
+      "ans": 0,
+      "exp": "C/F: pure proximal limb weakness; propensity for arrhythmias; hypokalemia during episode (Book p645)"
+    },
+    {
+      "id": "MED-C47-61",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "management",
+      "q": "Treatment printed for hypokalemic periodic paralysis is:",
+      "opts": [
+        "Calcium channel blocker only",
+        "Oral potassium and acetazolamide",
+        "Oral sodium and steroid",
+        "IVIg and PLEX"
+      ],
+      "ans": 1,
+      "exp": "Mx : oral potassium; acetazolamide (Book p645)"
+    },
+    {
+      "id": "MED-C47-62",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Features shared by hyperkalemic periodic paralysis and Anderson-Tawil syndrome in the table are:",
+      "opts": [
+        "Worsening by cold only",
+        "Dysmorphic facies in both",
+        "Autosomal dominant inheritance, childhood (1st decade), episodic weakness",
+        "Myotonia (+) and no myotonia"
+      ],
+      "ans": 2,
+      "exp": "Shared rows: autosomal dominant inheritance; childhood (1st decade); episodic weakness (Book p645)"
+    },
+    {
+      "id": "MED-C47-63",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Myotonia and potassium in hyperkalemic periodic paralysis vs Anderson-Tawil syndrome are:",
+      "opts": [
+        "No myotonia with K+ variable vs myotonia (+) with K+ normal",
+        "Myotonia in both",
+        "Normal K+ in both",
+        "Myotonia (+) with K+ may be normal vs no myotonia with K+ levels variable"
+      ],
+      "ans": 3,
+      "exp": "Hyperkalemic PP: myotonia (+), K+ may be normal; Anderson-Tawil: no myotonia, K+ levels variable (Book p645)"
+    },
+    {
+      "id": "MED-C47-64",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "Cold and rest effects in hyperkalemic periodic paralysis are:",
+      "opts": [
+        "Worsened by cold and precipitated by rest",
+        "Improved by cold and precipitated by exercise",
+        "Worsened by heat and precipitated by fasting",
+        "Unaffected by cold or rest"
+      ],
+      "ans": 0,
+      "exp": "Hyperkalemic PP: worsened by cold; precipitated by rest (Book p645)"
+    },
+    {
+      "id": "MED-C47-65",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "page": 645,
+      "fmt": "recall",
+      "q": "The distinguishing extras of Anderson-Tawil syndrome in the table are:",
+      "opts": [
+        "Precipitation by rest",
+        "Dysmorphic facies + arrhythmias",
+        "Myotonia (+)",
+        "Worsening by cold"
+      ],
+      "ans": 1,
+      "exp": "Anderson-Tawil: dysmorphic facies + arrhythmias; rest row printed as - (Book p645)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U47-1",
+      "ch": 47,
+      "n": 1,
+      "title": "1. Structural Myopathies, Dystrophin Defect, DMD Timeline and Becker",
+      "sec": "Dystrophin, DMD Timeline & Becker",
+      "guide": "Dystrophin defect is structural protein involvement with necrosis of muscle replaced by adipose and fibrous tissue, X linked deletion and steroid treatment; the photograph is captioned lordosis.\nDuchenne's muscular dystrophy is progressive muscle degeneration with a 0-18 year timeline: gross motor delay (walking late), frequent falls presenting to clinic, toe walking with Gower's sign, cramps unrelated to exercise and lordosis, supported walking, wheelchair bound, upper limb involvement and finally respiratory involvement with aspiration pneumonia as the m/c cause of death.\nAdditional involvement covers scoliosis leading to ILD, pseudohypertrophy (calf > other muscles), mental retardation, cardiomyopathies and nocturnal hypoventilation leading to pooling of secretions and aspiration. Becker's is milder: cardiac death (dilated cardiomyopathy), CK/EMG/biopsy similar to DMD, presentation 5-60 years, survival >40 years, contracture absent, less weakness and mental retardation absent.",
+      "qs": [
+        "MED-C47-01",
+        "MED-C47-02",
+        "MED-C47-03",
+        "MED-C47-04",
+        "MED-C47-05",
+        "MED-C47-06",
+        "MED-C47-07",
+        "MED-C47-08",
+        "MED-C47-09",
+        "MED-C47-10",
+        "MED-C47-11",
+        "MED-C47-12",
+        "MED-C47-13",
+        "MED-C47-14",
+        "MED-C47-15",
+        "MED-C47-16",
+        "MED-C47-17",
+        "MED-C47-18",
+        "MED-C47-19"
+      ]
+    },
+    {
+      "id": "MED-U47-2",
+      "ch": 47,
+      "n": 2,
+      "title": "2. Limb Girdle, Emery Dreifuss, Facioscapulohumeral, Oculopharyngeal and Myotonic Dystrophy",
+      "sec": "LGMD, EDMD, FSHD, OPMD & Myotonic Dystrophy",
+      "guide": "LGMD is autosomal dominant/recessive, the m/c adult onset muscle dystrophy, associated with cardiomyopathy, involves lamin and caveolin and shows the diamond on thigh sign (vastus medialis hypertrophy with atrophy of other muscles); photographs show winging of scapula in LGMD.\nEmery Dreifuss is X-linked recessive/autosomal dominant with prominent contractures and cardiomyopathy. FSHD is autosomal dominant with muscle asymmetry, proximal upper limb plus distal lower limb involvement and B/L ptosis with facial muscle involvement.\nOculopharyngeal is autosomal dominant with ptosis, ophthalmoplegia and dysphagia. Myotonic dystrophy is autosomal dominant trinucleotide repeat disease of chromosome 19 with DM1 > DM2 and proximal lower limb plus distal upper limb involvement with myotonia; photograph shows hatchet facies.",
+      "qs": [
+        "MED-C47-20",
+        "MED-C47-21",
+        "MED-C47-22",
+        "MED-C47-23",
+        "MED-C47-24",
+        "MED-C47-25",
+        "MED-C47-26",
+        "MED-C47-27",
+        "MED-C47-28",
+        "MED-C47-29",
+        "MED-C47-30",
+        "MED-C47-31",
+        "MED-C47-32",
+        "MED-C47-33",
+        "MED-C47-34",
+        "MED-C47-35"
+      ]
+    },
+    {
+      "id": "MED-U47-3",
+      "ch": 47,
+      "n": 3,
+      "title": "3. Myotonic Dystrophy Presentation and Metabolic/Mitochondrial Myopathies",
+      "sec": "Myotonic Dystrophy Features & Mitochondrial Myopathies",
+      "guide": "Hatchet facies combines ptosis, temporal hollowing (temporalis), elongated face and facial muscle involvement; investigation shows percussion myotonia with contraction on repeated percussion and failure to release.\nAssociated findings are cardiac conduction abnormalities, mental retardation, gonadal atrophy, insulin resistance, SNHL and posterior subcapsular cataract; photographs show percussion myotonia, B/L winging of scapula and humeral atrophy with winging.\nMitochondrial myopathies are maternally inherited with ragged red fibers on trichrome stain and exercise induced weakness/fatiguability/cramps. CPEO gives ptosis + ophthalmoplegia without dysarthria or diplopia and is a D/D for NMJ disorders (myasthenia gravis). Kearns Sayre syndrome is CPEO before 20 years with retinitis pigmentosa, complete heart block and cerebellar ataxia; MERRF and MELAS complete the list.",
+      "qs": [
+        "MED-C47-36",
+        "MED-C47-37",
+        "MED-C47-38",
+        "MED-C47-39",
+        "MED-C47-40",
+        "MED-C47-41",
+        "MED-C47-42",
+        "MED-C47-43",
+        "MED-C47-44",
+        "MED-C47-45",
+        "MED-C47-46",
+        "MED-C47-47",
+        "MED-C47-48",
+        "MED-C47-49",
+        "MED-C47-50"
+      ]
+    },
+    {
+      "id": "MED-U47-4",
+      "ch": 47,
+      "n": 4,
+      "title": "4. Channelopathies and the Periodic Paralyses",
+      "sec": "Channelopathies & Periodic Paralysis",
+      "guide": "Channelopathies show an LMN pattern of acute onset, B/L symmetrical, episodic motor weakness with electrolyte imbalance as D/d.\nCalcium channel diseases (mnemonic E2 S6 HOm) are episodic ataxia type 2, spinocerebellar ataxia type 6, hypokalemic periodic paralysis and familial hemiplegic migraine; sodium gives hyperkalemic and normokalemic periodic paralysis and paramyotonia congenita; chloride gives myotonia congenita; potassium gives Anderson-Tawil syndrome, episodic ataxia type 1 and benign neonatal familial convulsions on day 5 of birth.\nHypokalemic periodic paralysis is autosomal dominant, adolescent, m > F, precipitated by a high carbohydrate meal, with pure proximal limb weakness, propensity for arrhythmias and hypokalemia during episodes; treatment is oral potassium and acetazolamide. Hyperkalemic periodic paralysis and Anderson-Tawil syndrome share AD inheritance, childhood (1st decade) onset and episodic weakness; hyperkalemic PP has myotonia (+), K+ may be normal, worsening by cold and precipitation by rest, whereas Anderson-Tawil has no myotonia, variable K+ and dysmorphic facies with arrhythmias.",
+      "qs": [
+        "MED-C47-51",
+        "MED-C47-52",
+        "MED-C47-53",
+        "MED-C47-54",
+        "MED-C47-55",
+        "MED-C47-56",
+        "MED-C47-57",
+        "MED-C47-58",
+        "MED-C47-59",
+        "MED-C47-60",
+        "MED-C47-61",
+        "MED-C47-62",
+        "MED-C47-63",
+        "MED-C47-64",
+        "MED-C47-65"
+      ]
+    }
+  ]
+}
