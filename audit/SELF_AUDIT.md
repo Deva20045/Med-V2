@@ -1,13 +1,13 @@
 # Chapters 2–38 — visual self-audit gate
 
-Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562). See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
 - Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).
 - Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.
-- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–31 and 33–38 (no fill-up or match worksheets), and exact citation references.
-- Questions in Chapters 9–31 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
+- Every inventoried point has an explicit question target. Strict quality control: zero predictable/trivial distractors, medically plausible answer choices, reasoning-first scenario/recall options in Chapters 9–32 and 33–38 (no fill-up or match worksheets), and exact citation references.
+- Questions in Chapters 9–32 and 33–38 use only recall, scenario, numeric, oddoneout and management formats, with four unique plausible options and exact page citations.
 - Software gates verify schema, exact app parsers, sequential IDs, page ordering, inventory ordering, unit contiguity, ledger coverage and embedded data agreement. Semantic completeness is verified via visual self-audit.
 
 ## Source-specific notes retained as book-study material
@@ -89,6 +89,7 @@ Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–10
 | 560 | 'Origin of motor fibres' 40% sensory / 30% motor / 30% premotor-SMA is the source's own accounting; the parietal figure annotates the superior parietal lobule as Praxicons, the supramarginal gyrus as Gnosis and the angular gyrus as Gerstmann syndrome. |
 | 561 | The visual-agnosia panel prints the four object captions snake, stereo or computer, bug and lamp as misreadings; the handedness table (right-handed 5% right / 90–95% left; left-handed 40% / 50–60%) is transcribed as printed. |
 | 562 | 'Gerstman syndrome' (printed without the second 'n'), 'Left hemispatal neglect' (as printed), the ROCF A1/A2/A3 copies and the pie-in-floor/pie-in-sky table are reproduced exactly as drawn; macular sparing in the PCA branch is a source statement. |
+| 563–565 | Temporal & Occipital Lobe pages: the superolateral site-of-lesion/defect table (auditory cortex areas 41/42 → B/L temporal deafness; connection fibres → pure word deafness; association cortex → auditory agnosia; Wernicke's area 22 → comprehension, no weakness; temporo-occipital → visual agnosia), the limbic-cortex 'most epileptogenic focus' note, Kluver-Bucy (B/L limbic/medial temporal/amygdala; hypersexuality, hyperorality via hypothalamic feeding-satiety centre, visual agnosia of association areas, hypermetamorphosis, ↓fear ↑aggression), Korsakoff's B/L temporal + mamillary-body note, apathy sites (medial prefrontal cortex + thalamic connections), area 17 c/L congruent homonymous hemianopia with macular sparing, areas 18/19 parastriate-peristriate (ocular fixation, size/shape/colour, visual memory → colour agnosia), Anton's syndrome (cortical blindness, confabulation, intact light reflex), colour agnosia + cerebral achromatopsia and Balint's syndrome (optic ataxia overshoot, oculomotor apraxia, simultanagnosia) from a B/L occipital lesion are retained exactly as printed book-study material. |
 | 566 | Broca (44,45) grammar/syntax/rhythm/fluency vs Wernicke (22) sound/comprehension, non-dominant prosody and 'pure word deafness' labelled on the connecting fibres are transcribed as printed. |
 | 567 | The DESP non-fluent list and the four-arm comprehension/repetition flowchart (watershed infarct for transcortical motor) are reproduced as printed. |
 | 568 | Four dysarthria types by anatomical level and the 'lesion of parietal lobe: inferior quadrantanopia' note (vs superior quadrantanopia in the Wernicke's arm) are source statements. |
@@ -248,6 +249,11 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 31 | 1. Parietal lobe map, the 40/30/30 motor-fibre origins and the postcentral gyrus | 560 | MED-C31-01–MED-C31-13 | 13 |
 | 31 | 2. Superior parietal praxicons, apraxia types and the inferior parietal lobule | 561 | MED-C31-14–MED-C31-27 | 14 |
 | 31 | 3. Hemispatial neglect, the angular gyrus and alexia without agraphia | 562 | MED-C31-28–MED-C31-44 | 17 |
+| 32 | 1. Superolateral temporal lobe and the auditory cortex | 563 | MED-C32-01–MED-C32-09 | 9 |
+| 32 | 2. Medial temporal lobe (limbic cortex) and its circuits | 563 | MED-C32-10–MED-C32-12 | 3 |
+| 32 | 3. Components of the medial temporal lobe and their functions | 564 | MED-C32-13–MED-C32-18 | 6 |
+| 32 | 4. Kluver-Bucy syndrome and Korsakoff's amnestic state | 564 | MED-C32-19–MED-C32-25 | 7 |
+| 32 | 5. Apathy, occipital lesions and Balint's syndrome | 565 | MED-C32-26–MED-C32-37 | 12 |
 | 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
 | 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
 | 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
@@ -310,6 +316,7 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 29 | 15 | 0 | 5 | 5 | 3 | 0 | 28 | 28 |
 | 30 | 41 | 13 | 3 | 8 | 2 | 0 | 67 | 67 |
 | 31 | 25 | 7 | 4 | 7 | 1 | 0 | 44 | 44 |
+| 32 | 23 | 14 | 0 | 0 | 0 | 0 | 37 | 37 |
 | 33 | 7 | 8 | 0 | 1 | 0 | 0 | 16 | 16 |
 | 34 | 6 | 5 | 0 | 1 | 0 | 0 | 12 | 12 |
 | 35 | 10 | 9 | 4 | 2 | 2 | 0 | 27 | 27 |
@@ -341,12 +348,13 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 28 | Crystal Arthropathies | 543–551 | 72 | 8 | 72 |
 | 29 | Adult-Onset Still's Disease and Septic Arthritis | 552–554 | 28 | 3 | 28 |
 
-## Chapters 30–31 release table
+## Chapters 30–32 release table
 
 | Ch | Title | Printed pages | Questions | Units | Ledger mappings |
 |---:|---|---:|---:|---:|---:|
 | 30 | Frontal Lobe | 555–559 | 67 | 5 | 67 |
 | 31 | Praxicons | 560–562 | 44 | 3 | 44 |
+| 32 | Temporal and Occipital Lobe | 563–565 | 37 | 5 | 37 |
 
 ## Chapters 33–38 release table
 
@@ -543,6 +551,9 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 560 | 02 PDF92 | 13 | 13 | 0 |
 | 561 | 02 PDF93 | 14 | 14 | 0 |
 | 562 | 03 PDF1 | 17 | 17 | 0 |
+| 563 | 03 PDF2 | 12 | 12 | 0 |
+| 564 | 03 PDF3 | 13 | 13 | 0 |
+| 565 | 03 PDF4 | 12 | 12 | 0 |
 | 566 | 03 PDF5 | 6 | 6 | 0 |
 | 567 | 03 PDF6 | 5 | 5 | 0 |
 | 568 | 03 PDF7 | 5 | 5 | 0 |
@@ -580,7 +591,7 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 600 | 03 PDF36 | 5 | 5 | 0 |
 | 601 | 03 PDF37 | 3 | 3 | 0 |
 
-**Total: 1684 mapped educational points; 1576 questions; 157 units across 37 live chapters of 57.**
+**Total: 1721 mapped educational points; 1613 questions; 162 units across 38 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -3360,6 +3371,64 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p563 / 03 PDF2
+
+| Printed point / call-out | Question |
+|---|---|
+| The superolateral temporal-lobe section opens with a site-of-lesion and defect table, and its opening row is the auditory cortex. | MED-C32-01 |
+| The first table row labels the auditory cortex as areas 41 and 42. | MED-C32-02 |
+| The table states that the auditory cortex occupies the bilateral temporal lobe, so its lesion is bilateral. | MED-C32-03 |
+| The defect column pairs the auditory cortex with deafness, parenthesised as auditory inattention. | MED-C32-04 |
+| The auditory connection fibres join the auditory cortex to Wernicke's area, and their interruption is printed as causing pure word deafness. | MED-C32-05 |
+| The auditory association cortex row gives auditory agnosia as its defect. | MED-C32-06 |
+| Wernicke's area is placed on the superior temporal gyrus and labelled area 22; its lesion gives Wernicke's aphasia, which is language comprehension, and no weakness. | MED-C32-07 |
+| The temporo-occipital association area is labelled for visuospatial function, and its defect is visual agnosia, defined as inability to identify objects by vision. | MED-C32-08 |
+| The page closes the lateral temporal-lobe list by attributing auditory, olfactory and gustatory hallucinations to lateral temporal lobe lesions. | MED-C32-09 |
+| The heading MEDIAL TEMPORAL LOBE (LIMBIC CORTEX) is followed by the notice that it is the most epileptogenic focus in the body. | MED-C32-10 |
+| The cingulate-cortex figure joins the cingulate cortex to the anterior thalamus, mamillary bodies and the medial temporal lobe, the limbic loop. | MED-C32-11 |
+| The components-in-the-cerebrum figure labels the cingulate gyrus, hippocampus, parahippocampal gyrus, corpus callosum, fornix, pineal gland, hypothalamus, mamillary body, anterior group of thalamic nuclei, amygdaloid body and caudate nucleus. | MED-C32-12 |
+
+Unasked points: **none found**.
+
+### Book p564 / 03 PDF3
+
+| Printed point / call-out | Question |
+|---|---|
+| The components column lists the superior temporal gyrus, inferior temporal gyrus, parahippocampus and fusiform gyrus as the medial temporal lobe parts. | MED-C32-13 |
+| The functions column lists homeostasis, olfaction, memory, emotion and sexuality for the medial temporal lobe. | MED-C32-14 |
+| The coronal-section diagram in the cerebrum-components figure labels the hippocampus within the medial temporal region. | MED-C32-15 |
+| The page states the amygdala plays a role in memory and is present on the inferior surface. | MED-C32-16 |
+| The uncus is described as the elevation or bulge of the amygdala on the inferior surface. | MED-C32-17 |
+| Under the uncus, the note states that herniation affects the pupil, with third-nerve palsy given in parentheses. | MED-C32-18 |
+| The page writes Kluver-Bucy syndrome as AKA bilateral limbic abnormality, bilateral medial temporal abnormality and bilateral amygdala abnormality. | MED-C32-19 |
+| Hypersexuality is the first of the Kluver-Bucy features listed. | MED-C32-20 |
+| The page explains hyperorality as due to an affected hypothalamus, printing feeding and satiety centre in parentheses. | MED-C32-21 |
+| The Kluver-Bucy visual-agnosia line states that it affects the association areas. | MED-C32-22 |
+| Hypermetamorphosis is printed as visual inattention, parenthesised as the need to touch any object to recognise it. | MED-C32-23 |
+| The final Kluver-Bucy feature is decreased fear with increased aggression, printed as decreased Fear and increased Aggression. | MED-C32-24 |
+| Korsakoff's amnestic state is printed as due to a bilateral temporal lobe lesion with abnormality in the mamillary body. | MED-C32-25 |
+
+Unasked points: **none found**.
+
+### Book p565 / 03 PDF4
+
+| Printed point / call-out | Question |
+|---|---|
+| The apathy note states that the lesion is in the medial prefrontal cortex and the thalamic connections. | MED-C32-26 |
+| The unilateral-lesion column gives the primary visual area (17) a contralateral congruent homonymous hemianopia with macular sparing. | MED-C32-27 |
+| The visual association area is printed as areas 18 and 19, labelled parastriate and peristriate cortex. | MED-C32-28 |
+| The functions listed under the visual association area are ocular fixation, fixing size/shape/colour and visual memory. | MED-C32-29 |
+| The visual association area's defect line reads lesion → colour agnosia. | MED-C32-30 |
+| The medial-view drawing labels the calcarine sulcus, the parieto-occipital fissure, the sagittal sulci, the lingual and cingulate landmarks and the primary visual area as area 17. | MED-C32-31 |
+| Anton's syndrome describes cortical blindness without awareness of it; the patient confabulates a visual description or blames dim light or missing spectacles. | MED-C32-32 |
+| The Anton's syndrome note ends with the statement that the light reflex is intact. | MED-C32-33 |
+| The two printed colour-vision deficits are colour agnosia and cerebral achromatopsia. | MED-C32-34 |
+| Optic ataxia in Balint's syndrome is parenthesised as gauge abnormality, with overshoot on the finger-nose test. | MED-C32-35 |
+| Balint's syndrome lists optic ataxia plus oculomotor apraxia and simultanagnosia, the last described as perceiving only specific details at a time rather than the whole. | MED-C32-36 |
+| Balint's syndrome is attributed to a bilateral occipital lobe lesion in the B/L-lesion column. | MED-C32-37 |
+
+Unasked points: **none found**.
+
 ### Book p566 / 03 PDF5
 
 | Printed point / call-out | Question |
@@ -3782,12 +3851,12 @@ Unasked points: **none found**.
 
 ## Post-build verification
 
-- `python3 build_content.py` embedded 1576 questions / 157 units / 37 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 1613 questions / 162 units / 38 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1576 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1613 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **37/57**. Embedded question total after build: **1576**; units: **157**. Ledger points: **1684**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **38/57**. Embedded question total after build: **1613**; units: **162**. Ledger points: **1721**. Unasked points: **NONE** in the visually recorded inventory.
 

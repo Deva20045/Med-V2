@@ -34,6 +34,14 @@ cur_u = sum(len(c["units"]) for c in cur)
 cur_pages = sum(
     int(c["pageRange"].split("-")[1]) - int(c["pageRange"].split("-")[0]) + 1 for c in cur
 )
+ch32 = [c for c in chapters_data if c["chapter"] == 32]
+ch32_q = sum(len(c["questions"]) for c in ch32)
+ch32_u = sum(len(c["units"]) for c in ch32)
+ch32_pages = sum(
+    int(c["pageRange"].split("-")[1]) - int(c["pageRange"].split("-")[0]) + 1 for c in ch32
+)
+ledger_3031 = sum(1 for r in cov if r["chapter"] in tuple(range(2, 32)) + tuple(range(33, 39)))
+ledger_3338 = sum(1 for r in cov if r["chapter"] in tuple(range(2, 27)) + tuple(range(33, 39)))
 ch27 = [c for c in chapters_data if 27 <= c["chapter"] <= 29]
 ch27_q = sum(len(c["questions"]) for c in ch27)
 ch27_u = sum(len(c["units"]) for c in ch27)
@@ -69,13 +77,28 @@ out = []
 out.append("# PULSE Medicine Vol 2 — Progress\n")
 out.append("Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.\n")
 out.append("- Repository: `Deva20045/Med-V2`")
-out.append("- Session branch: `arena/01a0d315-med-v2`")
+out.append("- Session branch: `arena/01a0d425-med-v2`")
 out.append("- Published URL: https://deva20045.github.io/Med-V2/")
 out.append("- Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.")
 out.append(f"- **Build status: {len(live)} live chapters / 57 · {total_q} questions / {total_u} units.** "
            f"Chapters {not_live} remain `live:false`.\n")
 
-out.append("## This release — Chapters 30–31\n")
+out.append("## This release — Chapter 32\n")
+out.append("The remaining temporal/occipital-lobe chapter was rendered line-to-line from `uploads/03.pdf` PDF2–4 (Book p563–565), source-ordered and made live:\n")
+out.append("| Ch | Title | Printed pages | Questions | Units |")
+out.append("|---:|---|---:|---:|---:|")
+for c in ch32:
+    out.append(f"| {c['chapter']} | {c['title']} | {c['pageRange'].replace('-', '–')} "
+               f"| {len(c['questions'])} | {len(c['units'])} |")
+out.append(f"| **Release total** |  | **{ch32_pages} book pages** | **{ch32_q}** | **{ch32_u}** |\n")
+out.append("### Quality and ordering contract delivered\n")
+out.append("1. All three sheets were read top-to-bottom in printed order at 2× and 4×, cross-checked with OCR and targeted 12–48× crops because the scan has no text layer; the site-of-lesion/defect table, limbic diagrams, the Kluver-Bucy five features, the Anton's/Balint's lesion columns and the colour-deficit list were all covered, and the p563–565 handoffs are verified with no sheet missing.")
+out.append(f"2. Chapter 32 adds **{ch32_q} ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **{len(cov)} mappings** for Chapters 2–38.")
+out.append("3. Questions use no fill-up, matching or true/false worksheets; distractors are plausible and questions are reasoning-first.")
+out.append("4. IDs, book-page order, contiguous unit slices and exact `(Book pX)` explanation suffixes pass the fail-closed validator.")
+out.append(f"5. Chapter 32 is embedded in the standalone app and all {len(live)} roadmap flags for live chapters are set.\n")
+
+out.append("## Previous release — Chapters 30–31\n")
 out.append("Two consecutive neurology chapters — Frontal Lobe and Praxicons — were rendered from the scans, read "
            "block by block, source-ordered and made live (Book p555–562: `uploads/02.pdf` PDF87–93 = p555–561 and "
            "`uploads/03.pdf` PDF1 = p562):\n")
@@ -94,7 +117,7 @@ out.append("1. All pages were read in printed order (`uploads/02.pdf` PDF87–93
            "bracketing — PDF91 prints 559, PDF93 prints 561 and 03.pdf PDF2 prints 563 where Chapter 32 begins.")
 out.append(f"2. Every source-mapped learning target has a four-option, citation-backed question in "
            f"`audit/coverage.json`; Chapters 30–31 add **{cur_q} ordered mappings**, bringing the audited "
-           f"ledger to **{len(cov)} mappings** for Chapters 2–38.")
+           f"ledger to **{ledger_3031} mappings** for Chapters 2–38.")
 out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, "
            "mechanism-based recall, numeric interpretation, bedside-test decisions and discriminating "
            "odd-one-out cases use plausible medical distractors, and printed typos (Fare & upper Limb, "
@@ -155,7 +178,7 @@ out.append("1. All pages were read in printed order (`uploads/03.pdf` PDF5–37 
            "page map (decisive 10× corner reads settled the missing sheets).")
 out.append(f"2. Every source-mapped learning target has a four-option, citation-backed question in "
            f"`audit/coverage.json`; Chapters 33–38 add **{release_q} ordered mappings**, bringing the audited "
-           f"ledger to **{len(cov)} mappings** for Chapters 2–38. Every target is marked asked.")
+           f"ledger to **{ledger_3338} mappings** for Chapters 2–38. Every target is marked asked.")
 out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. "
            "Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating "
            "odd-one-out cases use plausible medical distractors.")
@@ -176,7 +199,7 @@ for c in previous:
     out.append(f"| {c['chapter']} | {c['title']} | {c['pageRange'].replace('-', '–')} "
                f"| {len(c['questions'])} | {len(c['units'])} |")
 out.append(f"| **Release total** |  | **{previous_pages} pages** | **{previous_q}** | **{previous_u}** |\n")
-out.append("Full evidence: [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), "
+out.append("Full evidence: [Chapter 32 read notes](audit/READ_NOTES_32.md), [visual audit and page-by-page ledger](audit/SELF_AUDIT.md), "
            "[machine-readable inventory](audit/coverage.json), [verified PDF-page map](audit/PAGE_MAP.md) "
            "and [pre-build validation output](audit/PREBUILD_VALIDATION.txt).\n")
 
@@ -208,7 +231,7 @@ out.append("- **02.pdf PDF17–23: p484–490 (Ch20)**")
 out.append("- **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**")
 out.append("- **02.pdf PDF64–86: p532–554 (Ch27–29)**")
 out.append("- **02.pdf PDF87–93: p555–561 (Ch30–31; p560 fixed by bracketing)**")
-out.append("- **03.pdf PDF1: p562 (Ch31 close)**\n- 03.pdf PDF2–4: p563–565 (Ch32 territory, not yet live)")
+out.append("- **03.pdf PDF1: p562 (Ch31 close)**\n- **03.pdf PDF2–4: p563–565 (Ch32)**")
 out.append("- **03.pdf PDF5–10: p566–571 (Ch33–34)**")
 out.append("- **03.pdf PDF11–21: p572–582 (Ch35–36)**")
 out.append("- **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**")
@@ -231,8 +254,9 @@ out.append("python3 tools/generate_ch16_20.py        # Chapters 16-20")
 out.append("python3 tools/generate_ch21_26.py        # Chapters 21-26")
 out.append("python3 tools/generate_ch27_29.py        # Chapters 27-29")
 out.append("python3 tools/generate_ch30_31.py        # Chapters 30-31")
+out.append("python3 tools/generate_ch32.py           # Chapter 32")
 out.append("python3 tools/generate_ch33_38.py        # Chapters 33-38")
-out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-31, Ch33-38)")
+out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-32, Ch33-38)")
 out.append("python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md")
 out.append("")
 out.append("# Fail-closed source gate, standalone-app build, and embedded-array gate.")

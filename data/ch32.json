@@ -1,0 +1,651 @@
+{
+  "chapter": 32,
+  "title": "Temporal and Occipital Lobe",
+  "pageRange": "563-565",
+  "questions": [
+    {
+      "id": "MED-C32-01",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "recall",
+      "q": "How does the page open the superolateral temporal-lobe section, and which first row begins it?",
+      "opts": [
+        "With a site-of-lesion and defect table whose first row covers the auditory cortex",
+        "With a homunculus of the medial limbic cortex",
+        "With a visual-field map of the occipital lobe only",
+        "With a Brodmann diagram of the parietal praxicon area"
+      ],
+      "ans": 0,
+      "exp": "The superolateral temporal-lobe section opens with a site-of-lesion and defect table, and its opening row is the auditory cortex. (Book p563)"
+    },
+    {
+      "id": "MED-C32-02",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "recall",
+      "q": "Which Brodmann area pair is assigned to the auditory cortex?",
+      "opts": [
+        "Areas 3, 1 and 2",
+        "Areas 41 and 42",
+        "Areas 44 and 45",
+        "Areas 17 and 18"
+      ],
+      "ans": 1,
+      "exp": "The first table row labels the auditory cortex as areas 41 and 42. (Book p563)"
+    },
+    {
+      "id": "MED-C32-03",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "scenario",
+      "q": "Which site-of-lesion entry does the page print for the auditory cortex?",
+      "opts": [
+        "The medial occipital pole alone",
+        "The superior parietal lobule",
+        "Bilateral temporal lobe",
+        "Unilateral dominant frontal lobe"
+      ],
+      "ans": 2,
+      "exp": "The table states that the auditory cortex occupies the bilateral temporal lobe, so its lesion is bilateral. (Book p563)"
+    },
+    {
+      "id": "MED-C32-04",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "recall",
+      "q": "What defect is paired with the auditory cortex in the table?",
+      "opts": [
+        "Pure word deafness",
+        "Wernicke's aphasia with naming loss",
+        "Visual agnosia for objects",
+        "Deafness, described as auditory inattention"
+      ],
+      "ans": 3,
+      "exp": "The defect column pairs the auditory cortex with deafness, parenthesised as auditory inattention. (Book p563)"
+    },
+    {
+      "id": "MED-C32-05",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "recall",
+      "q": "What do the auditory connection fibres link, and which defect follows their interruption?",
+      "opts": [
+        "They run from the auditory cortex to Wernicke's area, and their interruption causes pure word deafness",
+        "They link Broca's area to the precentral gyrus, and interruption causes motor aphasia",
+        "They link the temporal lobe to the primary visual area, and interruption causes alexia",
+        "They link the thalamus to the mamillary body, and interruption causes confabulation"
+      ],
+      "ans": 0,
+      "exp": "The auditory connection fibres join the auditory cortex to Wernicke's area, and their interruption is printed as causing pure word deafness. (Book p563)"
+    },
+    {
+      "id": "MED-C32-06",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "recall",
+      "q": "Which deficit is printed for a lesion of the auditory association cortex?",
+      "opts": [
+        "Cortical blindness",
+        "Auditory agnosia",
+        "Visual agnosia",
+        "Ideomotor apraxia"
+      ],
+      "ans": 1,
+      "exp": "The auditory association cortex row gives auditory agnosia as its defect. (Book p563)"
+    },
+    {
+      "id": "MED-C32-07",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "scenario",
+      "q": "Which gyrus, area, deficit and spared function are all correctly paired for Wernicke's area?",
+      "opts": [
+        "Middle temporal gyrus; area 21; visual neglect with weakness",
+        "Angular gyrus; area 39; alexia with agraphia and weakness",
+        "Superior temporal gyrus; area 22; Wernicke's aphasia affecting language comprehension, with no weakness",
+        "Inferior frontal gyrus; area 44; naming loss with contralateral hemiplegia"
+      ],
+      "ans": 2,
+      "exp": "Wernicke's area is placed on the superior temporal gyrus and labelled area 22; its lesion gives Wernicke's aphasia, which is language comprehension, and no weakness. (Book p563)"
+    },
+    {
+      "id": "MED-C32-08",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "recall",
+      "q": "Which function and defect belong to the temporo-occipital association area?",
+      "opts": [
+        "Language fluency, whose lesion causes non-fluent aphasia",
+        "Motor planning, whose lesion causes ideomotor apraxia",
+        "Memory consolidation, whose lesion causes Korsakoff's amnestic state",
+        "Visuospatial function, whose lesion causes visual agnosia: inability to identify objects by vision"
+      ],
+      "ans": 3,
+      "exp": "The temporo-occipital association area is labelled for visuospatial function, and its defect is visual agnosia, defined as inability to identify objects by vision. (Book p563)"
+    },
+    {
+      "id": "MED-C32-09",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "page": 563,
+      "fmt": "scenario",
+      "q": "Which hallucination set is attributed to lateral temporal lobe lesions?",
+      "opts": [
+        "Auditory, olfactory and gustatory hallucinations",
+        "Visual, olfactory and vertiginous hallucinations",
+        "Gustatory and somatosensory hallucinations only",
+        "Auditory and visual hallucinations only"
+      ],
+      "ans": 0,
+      "exp": "The page closes the lateral temporal-lobe list by attributing auditory, olfactory and gustatory hallucinations to lateral temporal lobe lesions. (Book p563)"
+    },
+    {
+      "id": "MED-C32-10",
+      "sec": "Medial temporal lobe (limbic cortex) and its circuits",
+      "page": 563,
+      "fmt": "recall",
+      "q": "Which heading and claim are printed for the medial temporal lobe?",
+      "opts": [
+        "It is the primary auditory area and holds no limbic connections",
+        "It is the limbic cortex and is called the most epileptogenic focus in the body",
+        "It is the motor cortex and the least excitable region in the brain",
+        "It is the visual association area and cannot generate seizures"
+      ],
+      "ans": 1,
+      "exp": "The heading MEDIAL TEMPORAL LOBE (LIMBIC CORTEX) is followed by the notice that it is the most epileptogenic focus in the body. (Book p563)"
+    },
+    {
+      "id": "MED-C32-11",
+      "sec": "Medial temporal lobe (limbic cortex) and its circuits",
+      "page": 563,
+      "fmt": "recall",
+      "q": "Which structures are labelled in the cingulate-cortex circuit diagram on this page?",
+      "opts": [
+        "Superior parietal lobule, angular gyrus and the intraparietal sulcus",
+        "Calcarine sulcus, lingual gyrus and the cuneus only",
+        "Cingulate cortex, anterior thalamus, mamillary bodies and the medial temporal lobe",
+        "Precentral gyrus, postcentral gyrus and the pars opercularis"
+      ],
+      "ans": 2,
+      "exp": "The cingulate-cortex figure joins the cingulate cortex to the anterior thalamus, mamillary bodies and the medial temporal lobe, the limbic loop. (Book p563)"
+    },
+    {
+      "id": "MED-C32-12",
+      "sec": "Medial temporal lobe (limbic cortex) and its circuits",
+      "page": 563,
+      "fmt": "recall",
+      "q": "Which labels belong to the cerebrum-components diagram rather than the loop diagram?",
+      "opts": [
+        "Frontal eye field, Broca area and the orbital sulcus",
+        "Primary, peristriate and parastriate visual cortex",
+        "Vermis, flocculus and deep cerebellar nuclei",
+        "Cingulate gyrus, hippocampus, parahippocampal gyrus, fornix, hypothalamus, mammillary body and amygdaloid body"
+      ],
+      "ans": 3,
+      "exp": "The components-in-the-cerebrum figure labels the cingulate gyrus, hippocampus, parahippocampal gyrus, corpus callosum, fornix, pineal gland, hypothalamus, mamillary body, anterior group of thalamic nuclei, amygdaloid body and caudate nucleus. (Book p563)"
+    },
+    {
+      "id": "MED-C32-13",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "page": 564,
+      "fmt": "recall",
+      "q": "Which four components are listed for the medial temporal lobe?",
+      "opts": [
+        "Superior temporal gyrus, inferior temporal gyrus, parahippocampus and fusiform gyrus",
+        "Precentral gyrus, postcentral gyrus, cingulate gyrus and precuneus",
+        "Rectus gyrus, olfactory sulcus, orbital sulcus and uncus",
+        "Calcarine sulcus, lingual gyrus, cuneus and splenium"
+      ],
+      "ans": 0,
+      "exp": "The components column lists the superior temporal gyrus, inferior temporal gyrus, parahippocampus and fusiform gyrus as the medial temporal lobe parts. (Book p564)"
+    },
+    {
+      "id": "MED-C32-14",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "page": 564,
+      "fmt": "recall",
+      "q": "Which five functions are listed for the medial temporal lobe?",
+      "opts": [
+        "Posture, tone, gait, balance and coordination",
+        "Homeostasis, olfaction, memory, emotion and sexuality",
+        "Vision, audition, taste, proprioception and equilibrium",
+        "Fluency, comprehension, repetition, naming and reading"
+      ],
+      "ans": 1,
+      "exp": "The functions column lists homeostasis, olfaction, memory, emotion and sexuality for the medial temporal lobe. (Book p564)"
+    },
+    {
+      "id": "MED-C32-15",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "Which structure is the labelled medial temporal component in the coronal-section diagram?",
+      "opts": [
+        "Fusiform gyrus",
+        "Superior temporal gyrus",
+        "Hippocampus",
+        "Amygdala"
+      ],
+      "ans": 2,
+      "exp": "The coronal-section diagram in the cerebrum-components figure labels the hippocampus within the medial temporal region. (Book p564)"
+    },
+    {
+      "id": "MED-C32-16",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "Which role and surface are printed together for the amygdala?",
+      "opts": [
+        "It generates praxicons and lies on the superolateral surface",
+        "It produces speech and lies inside the inferior frontal gyrus",
+        "It stores visual memory and lies deep to the calcarine sulcus",
+        "It plays a role in memory and is present on the inferior surface"
+      ],
+      "ans": 3,
+      "exp": "The page states the amygdala plays a role in memory and is present on the inferior surface. (Book p564)"
+    },
+    {
+      "id": "MED-C32-17",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "page": 564,
+      "fmt": "recall",
+      "q": "What is the uncus described as?",
+      "opts": [
+        "An elevation or bulge of the amygdala on the inferior surface",
+        "A sulcus separating the two motor homunculi",
+        "The posterior limit of the corpus callosum",
+        "A gyrus carrying the primary visual area"
+      ],
+      "ans": 0,
+      "exp": "The uncus is described as the elevation or bulge of the amygdala on the inferior surface. (Book p564)"
+    },
+    {
+      "id": "MED-C32-18",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "The page links herniation of the uncus to which clinical effect?",
+      "opts": [
+        "It causes colour agnosia and dressing apraxia",
+        "It affects the pupil through a third-nerve palsy",
+        "It causes contralateral homonymous hemianopia with macular sparing",
+        "It produces pure word deafness"
+      ],
+      "ans": 1,
+      "exp": "Under the uncus, the note states that herniation affects the pupil, with third-nerve palsy given in parentheses. (Book p564)"
+    },
+    {
+      "id": "MED-C32-19",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "recall",
+      "q": "Kluver-Bucy syndrome is described as also being (AKA) which combination?",
+      "opts": [
+        "Bilateral basal-ganglia, thalamic and cerebellar abnormality",
+        "Unilateral temporal, hippocampal and mamillary-body abnormality",
+        "Bilateral limbic abnormality, bilateral medial temporal abnormality and bilateral amygdala abnormality",
+        "Unilateral frontal, parietal and occipital abnormality"
+      ],
+      "ans": 2,
+      "exp": "The page writes Kluver-Bucy syndrome as AKA bilateral limbic abnormality, bilateral medial temporal abnormality and bilateral amygdala abnormality. (Book p564)"
+    },
+    {
+      "id": "MED-C32-20",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "A patient with a bilateral limbic lesion is hypersexual. Which single feature of Kluver-Bucy syndrome is this?",
+      "opts": [
+        "Hyperorality",
+        "Hypermetamorphosis",
+        "Visual agnosia",
+        "Hypersexuality"
+      ],
+      "ans": 3,
+      "exp": "Hypersexuality is the first of the Kluver-Bucy features listed. (Book p564)"
+    },
+    {
+      "id": "MED-C32-21",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "Which feature and its mechanism are correctly paired in the Kluver-Bucy list?",
+      "opts": [
+        "Hyperorality, due to involvement of the hypothalamus, the feeding and satiety centre",
+        "Hyperorality, due to a frontal eye-field lesion",
+        "Hypermetamorphosis, due to superior-parietal praxicon loss",
+        "Hypersexuality, due to calcarine sulcus infarction"
+      ],
+      "ans": 0,
+      "exp": "The page explains hyperorality as due to an affected hypothalamus, printing feeding and satiety centre in parentheses. (Book p564)"
+    },
+    {
+      "id": "MED-C32-22",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "recall",
+      "q": "In Kluver-Bucy syndrome, visual agnosia is stated to affect which structures?",
+      "opts": [
+        "The optic radiation only",
+        "Association areas",
+        "Primary auditory cortex",
+        "The anterior horn cell"
+      ],
+      "ans": 1,
+      "exp": "The Kluver-Bucy visual-agnosia line states that it affects the association areas. (Book p564)"
+    },
+    {
+      "id": "MED-C32-23",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "recall",
+      "q": "What is hypermetamorphosis explained as on the page?",
+      "opts": [
+        "Overshoot of the finger on the finger-nose test",
+        "Inability to dress, such as putting on a jacket",
+        "Visual inattention: the need to touch any object to recognise it",
+        "The confabulation of visual descriptions in blindness"
+      ],
+      "ans": 2,
+      "exp": "Hypermetamorphosis is printed as visual inattention, parenthesised as the need to touch any object to recognise it. (Book p564)"
+    },
+    {
+      "id": "MED-C32-24",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "Which emotional change is listed in Kluver-Bucy syndrome?",
+      "opts": [
+        "Increased fear and decreased aggression",
+        "Emotional lability with euphoria only",
+        "Apathy progressing to akinetic mutism",
+        "Decreased fear and increased aggression"
+      ],
+      "ans": 3,
+      "exp": "The final Kluver-Bucy feature is decreased fear with increased aggression, printed as decreased Fear and increased Aggression. (Book p564)"
+    },
+    {
+      "id": "MED-C32-25",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "page": 564,
+      "fmt": "scenario",
+      "q": "Which two findings together account for Korsakoff's amnestic state on this page?",
+      "opts": [
+        "A bilateral temporal lobe lesion and abnormality in the mamillary body",
+        "A unilateral parietal lesion and an intact hippocampus",
+        "A frontal eye-field lesion and a normal fornix",
+        "A bilateral occipital infarct and splenium involvement"
+      ],
+      "ans": 0,
+      "exp": "Korsakoff's amnestic state is printed as due to a bilateral temporal lobe lesion with abnormality in the mamillary body. (Book p564)"
+    },
+    {
+      "id": "MED-C32-26",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "Apathy is attributed by the page to lesions of which two sites?",
+      "opts": [
+        "The superior temporal gyrus and auditory cortex",
+        "The medial prefrontal cortex and thalamic connections",
+        "The medial temporal lobe and mamillary body",
+        "The superior parietal lobule and angular gyrus"
+      ],
+      "ans": 1,
+      "exp": "The apathy note states that the lesion is in the medial prefrontal cortex and the thalamic connections. (Book p565)"
+    },
+    {
+      "id": "MED-C32-27",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "scenario",
+      "q": "Which defect is printed for a lesion of the primary visual area (area 17)?",
+      "opts": [
+        "Superior homonymous quadrantanopia called pie in the sky",
+        "Inferior homonymous quadrantanopia called pie in the floor",
+        "Contralateral congruent homonymous hemianopia with macular sparing",
+        "Bilateral cortical blindness with confabulation"
+      ],
+      "ans": 2,
+      "exp": "The unilateral-lesion column gives the primary visual area (17) a contralateral congruent homonymous hemianopia with macular sparing. (Book p565)"
+    },
+    {
+      "id": "MED-C32-28",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "Which areas form the visual association area, and what cortex do they represent?",
+      "opts": [
+        "Areas 17 and 18, the primary and premotor cortex",
+        "Areas 41 and 42, the parasitic auditory cortex",
+        "Areas 44 and 45, the peri-arcuate speech cortex",
+        "Areas 18 and 19, the parastriate and peristriate cortex"
+      ],
+      "ans": 3,
+      "exp": "The visual association area is printed as areas 18 and 19, labelled parastriate and peristriate cortex. (Book p565)"
+    },
+    {
+      "id": "MED-C32-29",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "Which functions are listed for the visual association area?",
+      "opts": [
+        "Ocular fixation, fixing size, shape and colour, and visual memory",
+        "Hearing, balance, taste and smell",
+        "Fluency, comprehension, repetition and naming",
+        "Posture, gait, tone and coordination"
+      ],
+      "ans": 0,
+      "exp": "The functions listed under the visual association area are ocular fixation, fixing size/shape/colour and visual memory. (Book p565)"
+    },
+    {
+      "id": "MED-C32-30",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "A lesion of the visual association area produces which deficit?",
+      "opts": [
+        "Gerstmann syndrome",
+        "Colour agnosia",
+        "Cerebral achromatopsia",
+        "Pure word deafness"
+      ],
+      "ans": 1,
+      "exp": "The visual association area's defect line reads lesion → colour agnosia. (Book p565)"
+    },
+    {
+      "id": "MED-C32-31",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "scenario",
+      "q": "Which labels are placed in the medial-view diagram around the primary visual area?",
+      "opts": [
+        "The precentral gyrus and the central sulcus labelled area 4",
+        "The angular gyrus and the intraparietal sulcus labelled area 39",
+        "The calcarine sulcus, the parieto-occipital fissure and the primary visual area labelled area 17",
+        "The auditory cortex and the Sylvian fissure labelled area 41"
+      ],
+      "ans": 2,
+      "exp": "The medial-view drawing labels the calcarine sulcus, the parieto-occipital fissure, the sagittal sulci, the lingual and cingulate landmarks and the primary visual area as area 17. (Book p565)"
+    },
+    {
+      "id": "MED-C32-32",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "scenario",
+      "q": "Which vision state is described in Anton's syndrome?",
+      "opts": [
+        "Contralateral hemianopia with full insight and accurate reporting",
+        "Inability to identify objects by vision despite intact fields",
+        "Overshoot of the finger on the finger-nose test",
+        "Cortical blindness with unawareness of blindness: the patient confabulates visual descriptions or blames poor vision on dim light or missing spectacles"
+      ],
+      "ans": 3,
+      "exp": "Anton's syndrome describes cortical blindness without awareness of it; the patient confabulates a visual description or blames dim light or missing spectacles. (Book p565)"
+    },
+    {
+      "id": "MED-C32-33",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "What happens to the light reflex in Anton's syndrome?",
+      "opts": [
+        "It remains intact",
+        "It is lost bilaterally",
+        "It shows an afferent pupillary defect",
+        "It becomes sluggish on the blind side only"
+      ],
+      "ans": 0,
+      "exp": "The Anton's syndrome note ends with the statement that the light reflex is intact. (Book p565)"
+    },
+    {
+      "id": "MED-C32-34",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "Which two colour-vision deficits are listed after Anton's syndrome?",
+      "opts": [
+        "Xanthopsia and erythropsia",
+        "Colour agnosia and cerebral achromatopsia",
+        "Colour agnosia and dyschromatopsia of rods only",
+        "Achromatopsia and oscillopsia"
+      ],
+      "ans": 1,
+      "exp": "The two printed colour-vision deficits are colour agnosia and cerebral achromatopsia. (Book p565)"
+    },
+    {
+      "id": "MED-C32-35",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "scenario",
+      "q": "In Balint's syndrome, optic ataxia is clarified as which finding?",
+      "opts": [
+        "Unawareness of blindness with confabulation",
+        "Loss of orientation to familiar places",
+        "Gauge abnormality: overshoot on the finger-nose test",
+        "Inability to name a seen object"
+      ],
+      "ans": 2,
+      "exp": "Optic ataxia in Balint's syndrome is parenthesised as gauge abnormality, with overshoot on the finger-nose test. (Book p565)"
+    },
+    {
+      "id": "MED-C32-36",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "Which two components accompany optic ataxia in Balint's syndrome?",
+      "opts": [
+        "Dressing apraxia and constructional apraxia",
+        "Ideational apraxia and ideomotor apraxia",
+        "Prosopagnosia and alexia without agraphia",
+        "Oculomotor apraxia and simultanagnosia, perceiving only specific details at a time rather than the whole"
+      ],
+      "ans": 3,
+      "exp": "Balint's syndrome lists optic ataxia plus oculomotor apraxia and simultanagnosia, the last described as perceiving only specific details at a time rather than the whole. (Book p565)"
+    },
+    {
+      "id": "MED-C32-37",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "page": 565,
+      "fmt": "recall",
+      "q": "Which lesion produces Balint's syndrome on this page?",
+      "opts": [
+        "A bilateral occipital lobe lesion",
+        "A unilateral dominant parietal lobe lesion",
+        "A lateral temporal lobe lesion",
+        "A medial prefrontal cortex lesion"
+      ],
+      "ans": 0,
+      "exp": "Balint's syndrome is attributed to a bilateral occipital lobe lesion in the B/L-lesion column. (Book p565)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U32-1",
+      "ch": 32,
+      "n": 1,
+      "title": "1. Superolateral temporal lobe and the auditory cortex",
+      "sec": "Superolateral temporal lobe and the auditory cortex",
+      "guide": "The page opens with a site-of-lesion and defect table for the superolateral temporal lobe.\nThe auditory cortex, its connection fibres and the temporo-occipital association area are kept in printed order.",
+      "qs": [
+        "MED-C32-01",
+        "MED-C32-02",
+        "MED-C32-03",
+        "MED-C32-04",
+        "MED-C32-05",
+        "MED-C32-06",
+        "MED-C32-07",
+        "MED-C32-08",
+        "MED-C32-09"
+      ]
+    },
+    {
+      "id": "MED-U32-2",
+      "ch": 32,
+      "n": 2,
+      "title": "2. Medial temporal lobe (limbic cortex) and its circuits",
+      "sec": "Medial temporal lobe (limbic cortex) and its circuits",
+      "guide": "The medial temporal lobe (limbic cortex) note and its limbic diagrams are read after the lateral list.\nCingulate, thalamic, mamillary, hippocampal and amygdala labels form the limbic circuit on this page.",
+      "qs": [
+        "MED-C32-10",
+        "MED-C32-11",
+        "MED-C32-12"
+      ]
+    },
+    {
+      "id": "MED-U32-3",
+      "ch": 32,
+      "n": 3,
+      "title": "3. Components of the medial temporal lobe and their functions",
+      "sec": "Components of the medial temporal lobe and their functions",
+      "guide": "The components and functions columns are read in sequence, then the coronal-section diagram and the amygdala/uncus notes (including herniation's third-nerve palsy).\nSee the coronal section for the hippocampus label and the inferior surface for the amygdala bulge.",
+      "qs": [
+        "MED-C32-13",
+        "MED-C32-14",
+        "MED-C32-15",
+        "MED-C32-16",
+        "MED-C32-17",
+        "MED-C32-18"
+      ]
+    },
+    {
+      "id": "MED-U32-4",
+      "ch": 32,
+      "n": 4,
+      "title": "4. Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "sec": "Kluver-Bucy syndrome and Korsakoff's amnestic state",
+      "guide": "The Kluver-Bucy equivalence and its five features are read in order, then the bilateral temporal Korsakoff's amnestic-state note closes the page.\nHypersexuality, hyperorality, visual agnosia, hypermetamorphosis and the emotional change are kept in the printed sequence.",
+      "qs": [
+        "MED-C32-19",
+        "MED-C32-20",
+        "MED-C32-21",
+        "MED-C32-22",
+        "MED-C32-23",
+        "MED-C32-24",
+        "MED-C32-25"
+      ]
+    },
+    {
+      "id": "MED-U32-5",
+      "ch": 32,
+      "n": 5,
+      "title": "5. Apathy, occipital lesions and Balint's syndrome",
+      "sec": "Apathy, occipital lesions and Balint's syndrome",
+      "guide": "The apathy note leads into the occipital lobe: the W/L (unilateral) and B/L lesion columns, the medial-view visual-area diagram, the colour-deficit list and Balint's syndrome, all in printed order.\nThe primary visual area, the visual association area, Anton's syndrome and the colour deficits lead into the bilateral-lesion Balint's trio.",
+      "qs": [
+        "MED-C32-26",
+        "MED-C32-27",
+        "MED-C32-28",
+        "MED-C32-29",
+        "MED-C32-30",
+        "MED-C32-31",
+        "MED-C32-32",
+        "MED-C32-33",
+        "MED-C32-34",
+        "MED-C32-35",
+        "MED-C32-36",
+        "MED-C32-37"
+      ]
+    }
+  ]
+}
