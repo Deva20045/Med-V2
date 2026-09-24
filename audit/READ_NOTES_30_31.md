@@ -15,3 +15,21 @@ Source sheets: `uploads/02.pdf` PDF87–93 = Book p555–561; `uploads/03.pdf` P
 - **p560:** Parietal lobe posterior to central sulcus; primary sensory cortex areas 3,1,2. Map labels posterior parietal lobule, intraparietal sulcus, superior parietal lobule (praxicons), inferior parietal lobule, supramarginal gyrus (gnosis), angular gyrus (Gerstmann syndrome) and parieto-occipital association area. Motor-fibre origins: primary sensory 40%, primary motor 30%, premotor/supplementary 30%. Postcentral gyrus notes: contralateral UMN weakness/MCA, tone less affected, FEF spared, cortical sensations impaired (tactile localisation, two-point discrimination, stereognosis, graphesthesia); premotor/SMA association relates to tone/FEF; primary sensory and motor cortices supplied by MCA.
 - **p561:** Superior parietal lobule generates praxicons (movement formula/sensory guidance). Apraxia = inability to execute a learnt voluntary skilled action despite normal cerebellum, motor/sensory function and comprehension; SPL lesion cannot generate praxicons. Ideational apraxia = idea absent; ideomotor = idea present, execution poor. Supramarginal gyrus gnosis = recognise object by touch/vision/sound. Visual agnosia = inability to identify by vision; affected supramarginal gyrus and parieto-occipital association area (visuospatial orientation). Dominant-lobe table: right-handed right 5%/left 90–95%; left-handed right 40%/left 50–60%; language is in dominant lobe. Non-dominant pseudoapraxia: constructional (cannot perceive/imagine geometric relation), dressing (cannot dress/put on jacket) and visuospatial disorientation (cannot differentiate places such as bedroom/bathroom).
 - **p562:** Hemispatial neglect/anosognosia/asomatognosia: visual scanning of body schema leads to neglect of activities related to one hemisphere. Extrapersonal table: right parietal represents right + left; left parietal represents right; right lesion → left hemispatial neglect, left lesion → no abnormality. Topographic agnosia = loss of orientation to topography. Angular gyrus functions: reading, writing, naming and spatial orientation for finger, number and body sites. Gerstmann: dominant angular lesion → alexia + agraphia, anomia, finger anomia/acalculia/right-left disorientation. Left PCA infarct + splenium: macular-sparing normal vision line, right homonymous hemianopia and cortical disconnection with alexia without agraphia. Pure alexia = fusiform gyrus lesion. Visual list: frontal lobe contralateral hemianopia; parietal lobe inferior homonymous quadrantanopia (“pie in floor”); temporal lobe superior homonymous quadrantanopia (“pie in sky”).
+
+## Print-fidelity corrections and expansion in this release
+
+This note was authored with the first 62-question pass (35 + 27). That pass is superseded by the current
+111-question set (`data/ch30.json` 67 questions, `data/ch31.json` 44 questions), and the following readings were
+re-checked on the 2× renders before the new questions were written:
+
+- p555 prints the mnemonic as **ORAR LC** (with a space), and lists exactly Orientation, Registration, Attention,
+  Recall, Language, Copying. No MMSE cut-off score is printed on the sheet.
+- p558 prints **'Fare & upper Limb'** (read as *Face*) and **'Initiate lesion :'** for the irritative-lesion arm;
+  both are transcribed with the printed wording and explained in the ledger.
+- p558's flowchart boxes **Right PTO, DLPN, NPH VN** and **Internal sagittal stratum** are printed without
+  expansion (the legend expands only PPRF, LR, MR and MLF), so no question asks what those four abbreviations
+  stand for.
+- p560 prints the supramarginal annotation as **(Gnosis)**; p562 prints **'Gerstman syndrome'** (one 'n') and
+  **'Left hemispatal neglect'**. Both spellings are the book's, and the questions quote them as printed.
+- p562's clock panel shows the numerals crowded onto one side of the face; the question is phrased that way
+  rather than asserting a specific half.

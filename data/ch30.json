@@ -5,528 +5,1008 @@
   "questions": [
     {
       "id": "MED-C30-01",
-      "sec": "MMSE and frontal-lobe surface orientation",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
       "page": 555,
       "fmt": "recall",
-      "q": "What is the stated purpose of the mini-mental state examination (MMSE)?",
+      "q": "On the opening page, what is the printed purpose of the mini-mental state examination (MMSE)?",
       "opts": [
-        "To localise a visual-field defect without cognitive testing",
-        "To measure cerebellar coordination alone",
-        "To assess higher mental functions and cognitive status",
-        "To grade isolated lower-motor-neuron weakness"
+        "It localises a visual field defect to the occipital lobe",
+        "It screens cardiac autonomic neuropathy",
+        "It helps to assess higher mental functions / cognitive status",
+        "It grades muscle strength and tone in the limbs"
       ],
       "ans": 2,
-      "exp": "The MMSE is introduced as helping to assess higher mental functions and cognitive status. (Book p555)"
+      "exp": "The page introduces the mini-mental State Examination (mmse) with the line 'Helps to assess Higher mental functions/cognitive status.' (Book p555)"
     },
     {
       "id": "MED-C30-02",
-      "sec": "MMSE and frontal-lobe surface orientation",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
       "page": 555,
       "fmt": "recall",
-      "q": "The page's ORARLC mnemonic for MMSE is expanded as which sequence?",
+      "q": "Under which printed heading are the six MMSE components listed?",
       "opts": [
-        "Orientation, reflexes, attention, reading, language and calculation",
-        "Observation, registration, arousal, recall, localisation and copying",
-        "Orientation, registration, arithmetic, reasoning, language and coordination",
-        "Orientation, registration, attention, recall, language and copying"
+        "Based on: JIPFA",
+        "Based on: CLASP",
+        "Based on: FAST",
+        "Based on: ORAR LC"
       ],
       "ans": 3,
-      "exp": "The printed MMSE list is ORARLC: orientation, registration, attention, recall, language and copying. (Book p555)"
+      "exp": "'Based on :' is followed by the red mnemonic ORAR LC and then the six bulleted components. (Book p555)"
     },
     {
       "id": "MED-C30-03",
-      "sec": "MMSE and frontal-lobe surface orientation",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
       "page": 555,
-      "fmt": "scenario",
-      "q": "On the superolateral surface diagram, a lesion immediately posterior to the central sulcus lies in which labelled lobe?",
+      "fmt": "oddoneout",
+      "q": "Which element is NOT one of the six MMSE components bulleted on this page?",
       "opts": [
-        "Parietal lobe",
-        "Temporal lobe",
-        "Occipital lobe",
-        "Frontal lobe"
+        "Naming",
+        "Orientation",
+        "Attention",
+        "Copying"
       ],
       "ans": 0,
-      "exp": "The superolateral diagram places the parietal lobe posterior to the central sulcus and the frontal lobe anterior to it. (Book p555)"
+      "exp": "The printed bullets read Orientation, Registration, Attention, Recall, Language, Copying; naming is not listed among them. (Book p555)"
     },
     {
       "id": "MED-C30-04",
-      "sec": "MMSE and frontal-lobe surface orientation",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
       "page": 555,
-      "fmt": "recall",
-      "q": "Which map relationship is represented by the Sylvian fissure label?",
+      "fmt": "scenario",
+      "q": "A patient is asked to write a sentence of his own and then to copy the printed figure. Which two MMSE components do these two tasks test?",
       "opts": [
-        "It is the groove between the precentral and postcentral gyri",
-        "It forms the lateral boundary around the frontal and temporal regions on the superolateral surface",
-        "It separates the occipital lobe from the cerebellum",
-        "It marks the medial boundary between the two hemispheres"
+        "Registration and Copying",
+        "Language and Copying",
+        "Registration and Attention",
+        "Orientation and Recall"
       ],
       "ans": 1,
-      "exp": "The superolateral surface labels the Sylvian fissure laterally, with frontal and temporal regions around it; the central sulcus is the separate motor-sensory landmark. (Book p555)"
+      "exp": "Written output is the Language component and the figure-copying task is the Copying component of the printed ORAR LC list. (Book p555)"
     },
     {
       "id": "MED-C30-05",
-      "sec": "MMSE and frontal-lobe surface orientation",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
       "page": 555,
       "fmt": "recall",
-      "q": "Which cortex-to-lobe pairing agrees with the lower functional map?",
+      "q": "Under what printed sub-heading is the first brain diagram presented?",
       "opts": [
-        "Motor cortex—temporal; somatosensory—occipital; auditory—parietal; visual—frontal",
-        "All four cortices are labelled inside the frontal lobe",
-        "Motor cortex—frontal; somatosensory cortex—parietal; auditory cortex—temporal; visual cortex—occipital",
-        "Motor cortex—occipital; somatosensory—temporal; auditory—frontal; visual—parietal"
+        "Inferior surface",
+        "Basal surface",
+        "Superolateral surface",
+        "Medial surface"
       ],
       "ans": 2,
-      "exp": "The lower diagram labels motor cortex in the frontal region, somatosensory cortex in the parietal region, auditory cortex in the temporal region and visual cortex in the occipital region. (Book p555)"
+      "exp": "'Anatomy of Frontal Lobe' is immediately followed by the line 'Superolateral surface :' above the coloured lateral-view diagram. (Book p555)"
     },
     {
       "id": "MED-C30-06",
-      "sec": "Frontal-lobe areas and surface anatomy",
-      "page": 556,
-      "fmt": "scenario",
-      "q": "A functional map labels the precentral gyrus as which Brodmann area and role?",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
+      "page": 555,
+      "fmt": "recall",
+      "q": "In the superolateral diagram, which lobe is coloured yellow and lies directly behind the sulcus marked central sulcus?",
       "opts": [
-        "Area 6, the premotor area",
-        "Area 8, the frontal eye field",
-        "Areas 44 and 45, Broca's motor speech area",
-        "Area 4, the primary motor area"
+        "Frontal lobe (pink)",
+        "Temporal lobe (green)",
+        "Occipital lobe (uncoloured)",
+        "Parietal lobe"
       ],
       "ans": 3,
-      "exp": "The map labels area 4 in the precentral gyrus as the primary motor area. (Book p556)"
+      "exp": "The figure shades the frontal lobe pink, the parietal lobe yellow behind the central sulcus, the temporal lobe green and leaves the occipital lobe unshaded. (Book p555)"
     },
     {
       "id": "MED-C30-07",
-      "sec": "Frontal-lobe areas and surface anatomy",
-      "page": 556,
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
+      "page": 555,
       "fmt": "recall",
-      "q": "Which area-function pairing is printed for the premotor and supplementary motor regions?",
+      "q": "In the same figure, which two parts are labelled within the inferior frontal gyrus?",
       "opts": [
-        "Area 6—premotor area; area 8—supplementary motor area medially",
-        "Area 4—supplementary motor area; area 6—primary sensory area",
-        "Area 8—Broca area; areas 44 and 45—frontal eye field",
-        "Areas 9–12—premotor area; area 6—prefrontal pole"
+        "Pars opercularis and pars triangularis",
+        "Pars cuneata and pars limitans",
+        "Pars orbitalis and pars recta",
+        "Pars marginalis and pars angularis"
       ],
       "ans": 0,
-      "exp": "The functional map identifies area 6 as premotor and area 8 as supplementary motor area medially; it separately labels another area-8 region as the frontal eye field. (Book p556)"
+      "exp": "The inferior frontal gyrus label carries the printed sub-labels 'Pars opercularis' and 'Pars triangularis'. (Book p555)"
     },
     {
       "id": "MED-C30-08",
-      "sec": "Frontal-lobe areas and surface anatomy",
-      "page": 556,
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
+      "page": 555,
       "fmt": "recall",
-      "q": "Which label is assigned to the area-8 region on the frontal-lobe map besides the supplementary motor area?",
+      "q": "In the lower functional map on the same page, which cortex is marked over the superior temporal region?",
       "opts": [
-        "Parieto-occipital association area",
-        "Frontal eye field",
-        "Primary auditory cortex",
-        "Angular gyrus"
+        "Premotor cortex",
+        "Auditory cortex",
+        "Visual cortex",
+        "Somatosensory cortex"
       ],
       "ans": 1,
-      "exp": "Area 8 is also labelled the frontal eye field on the functional frontal-lobe diagram. (Book p556)"
+      "exp": "The functional map points the Auditory cortex label into the temporal lobe region, while the Visual cortex label is placed on the occipital pole. (Book p555)"
     },
     {
       "id": "MED-C30-09",
-      "sec": "Frontal-lobe areas and surface anatomy",
-      "page": 556,
-      "fmt": "numeric",
-      "q": "Which set and position are printed for the prefrontal area?",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
+      "page": 555,
+      "fmt": "oddoneout",
+      "q": "The second functional map on the page labels four cortices directly on the hemisphere. Which cortex is NOT one of them?",
       "opts": [
-        "Areas 44 and 45, inside the precentral gyrus",
-        "Areas 17 and 18, inferior to the Sylvian fissure",
-        "Areas 9, 10, 11 and 12, anterior to areas 6 and 8",
-        "Areas 1, 2 and 3, posterior to the central sulcus"
+        "Somatosensory cortex",
+        "Visual cortex",
+        "Olfactory cortex",
+        "Motor cortex"
       ],
       "ans": 2,
-      "exp": "The map gives the prefrontal area as areas 9, 10, 11 and 12, anterior to areas 6 and 8. (Book p556)"
+      "exp": "The functional map points out Motor cortex, Somatosensory cortex, Auditory cortex and Visual cortex; no olfactory cortex is labelled. (Book p555)"
     },
     {
       "id": "MED-C30-10",
-      "sec": "Frontal-lobe areas and surface anatomy",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
       "page": 556,
-      "fmt": "scenario",
-      "q": "A lesion of the inferior frontal gyrus is being correlated with the speech label on the diagram. Which area is implicated?",
+      "fmt": "recall",
+      "q": "In the 'Areas on frontal lobe' list, which area is printed as the primary motor area on the precentral gyrus?",
       "opts": [
-        "Area 4, the precentral motor area",
-        "Area 22, the auditory comprehension area",
-        "Area 17, the primary visual area",
-        "Areas 44 and 45, the motor speech area of Broca"
+        "Area 6",
+        "Area 8",
+        "Area 44",
+        "Area 4"
       ],
       "ans": 3,
-      "exp": "The diagram places the motor speech area of Broca in the inferior frontal gyrus and labels it areas 44 and 45. (Book p556)"
+      "exp": "The right-hand column of the list prints 'Area : 4 Primary motor area (Pre central gyrus)'. (Book p556)"
     },
     {
       "id": "MED-C30-11",
-      "sec": "Frontal-lobe areas and surface anatomy",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
       "page": 556,
-      "fmt": "recall",
-      "q": "Which collection belongs to the medial-surface diagram rather than the inferior-surface diagram?",
+      "fmt": "oddoneout",
+      "q": "Which area-function pairing is NOT printed in this figure's list?",
       "opts": [
-        "Cingulate gyrus and sulcus, paracentral lobule, corpus callosum, fornix, hippocampal gyrus and uncus",
-        "Rectus gyrus, olfactory sulcus and H-shaped orbital sulcus",
-        "Precentral gyrus, postcentral gyrus and central sulcus",
-        "Lateral orbital gyrus, posterior orbital gyrus and orbital sulcus only"
+        "Area 6 - frontal eye field",
+        "Area 6 - premotor area",
+        "Area 8 - supplementary motor area (medially)",
+        "Area 8 - frontal eye field"
       ],
       "ans": 0,
-      "exp": "The medial-surface drawing labels the paracentral lobule, superior frontal and cingulate gyri/sulcus, corpus callosum, fornix, hippocampal gyrus and uncus, along with posterior medial structures. The inferior drawing carries the orbital and olfactory labels. (Book p556)"
+      "exp": "The list assigns area 6 to premotor area only, while both the supplementary motor area (medially) and the frontal eye field are printed as area 8. (Book p556)"
     },
     {
       "id": "MED-C30-12",
-      "sec": "Frontal-lobe areas and surface anatomy",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
       "page": 556,
       "fmt": "recall",
-      "q": "What landmark and arrangement are shown on the inferior surface of the frontal lobe?",
+      "q": "Which bracket annotation on the left of the list groups the premotor and supplementary-motor entries?",
       "opts": [
-        "The hippocampal sulcus surrounding the corpus callosum",
-        "The olfactory sulcus beside the rectus gyrus and an H-shaped orbital sulcus dividing orbital gyri",
-        "The calcarine fissure dividing the cuneus from the lingual gyrus",
-        "The central sulcus dividing motor from sensory cortex"
+        "Lateral to the sylvian fissure",
+        "Anterior to 1 degree motor area",
+        "Posterior to primary sensory cortex",
+        "Superior to the calcarine sulcus"
       ],
       "ans": 1,
-      "exp": "The inferior-surface diagram labels the olfactory sulcus beside the rectus gyrus and the orbital sulcus as H shaped, with anterior, medial, lateral and posterior orbital gyri around it. (Book p556)"
+      "exp": "A brace collects the area 6 and area 8 entries under the note 'Anterior to 1 degree motor area'. (Book p556)"
     },
     {
       "id": "MED-C30-13",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
       "fmt": "numeric",
-      "q": "What proportion of motor fibres is printed as originating from area 4, and what is special about its Betz cells?",
+      "q": "Which Brodmann areas are printed for the prefrontal area, and with which positional note?",
       "opts": [
-        "Only 5%; Betz cells are sensory relay cells with the highest threshold",
-        "All motor fibres; Betz cells are cerebellar Purkinje cells",
-        "Only 30%; Betz cells are specialised and have the lowest threshold to initiate motor activity",
-        "About 70%; Betz cells inhibit all motor activity"
+        "Areas 17, 18, 19 - below the calcarine fissure",
+        "Areas 41, 42 - above the superior temporal gyrus",
+        "Areas 9, 10, 11, 12 - anterior to area 6 and 8",
+        "Areas 1, 2, 3 - posterior to the central sulcus"
       ],
       "ans": 2,
-      "exp": "For area 4/primary motor cortex/precentral gyrus, the page states that only 30% of motor fibres originate there and that specialised Betz cells have the lowest threshold to initiate motor activity. (Book p557)"
+      "exp": "The prefrontal entry reads 'Area : 9,10,11,12' with the line '(Anterior to area 6 & 8)'. (Book p556)"
     },
     {
       "id": "MED-C30-14",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
       "fmt": "scenario",
-      "q": "Damage confined to area 4 would most directly disrupt which printed function?",
+      "q": "A tumour destroys the posterior part of the left inferior frontal gyrus. Which printed area label and eponym fit the destroyed cortex?",
       "opts": [
-        "The sensory guidance formula for a learned action only",
-        "Reward-based behavioural response without weakness",
-        "Visual recognition of an object by touch",
-        "Initiation of fine skilled voluntary movement"
+        "Areas 41 and 42 in the superior temporal gyrus",
+        "Areas 9 to 12 in the frontal pole",
+        "Areas 17 and 18 in the occipital cortex",
+        "Areas 44 and 45, the motor speech area of Broca"
       ],
       "ans": 3,
-      "exp": "Area 4 is stated to initiate fine skilled voluntary movement; preparation and finesse are assigned to other parts of the sequence. (Book p557)"
+      "exp": "The functional map prints area 44, 45 as the motor speech area of Broca in the inferior frontal gyrus. (Book p556)"
     },
     {
       "id": "MED-C30-15",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
       "fmt": "recall",
-      "q": "What is the role of the premotor area (PMA) and supplementary motor area (SMA) in the printed movement model?",
+      "q": "Which sulcus is labelled on the right of the lateral diagram, separating the frontal operculum from the temporal lobe?",
       "opts": [
-        "They provide 30% of motor fibres and prepare movement through postural tone, proximal alignment and antagonist inhibition",
-        "They provide all motor fibres and perform only cerebellar finesse",
-        "They receive visual input and perform language comprehension",
-        "They initiate movement but do not influence posture or antagonists"
+        "Lateral sulcus / Sylvian fissure",
+        "Central sulcus",
+        "Intraparietal sulcus",
+        "Marginal ramus"
       ],
       "ans": 0,
-      "exp": "PMA and SMA are stated to provide 30% of motor fibres and prepare fine skilled voluntary movement by setting tone of posture, proximal muscle alignment and antagonist muscle inhibition. (Book p557)"
+      "exp": "The right-side label of the functional figure reads 'Lateral sulcus/ Sylvian fissure', and the caption below states 'Functional frontal lobe anatomy'. (Book p556)"
     },
     {
       "id": "MED-C30-16",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
-      "fmt": "scenario",
-      "q": "A bilateral PMA/SMA lesion is expected, according to the page, to produce which pair?",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
+      "fmt": "recall",
+      "q": "On the printed medial surface, which pink-labelled gyrus curves immediately above the corpus callosum and below the cingulate sulcus?",
       "opts": [
-        "Akinetic mutism and alexia without agraphia",
-        "Spasticity from a tone disturbance and primitive reflexes",
-        "Flaccidity and loss of all primitive reflexes",
-        "Pure sensory ataxia and visual agnosia"
+        "Fusiform gyrus",
+        "Cingulate gyrus",
+        "Cuneus",
+        "Lingual gyrus"
       ],
       "ans": 1,
-      "exp": "The page notes that bilateral PMA/SMA lesions cause spasticity (a tone issue) and primitive reflexes. (Book p557)"
+      "exp": "The medial-surface drawing labels CINGULATE GYRUS between the cingulate sulcus above and the corpus callosum below. (Book p556)"
     },
     {
       "id": "MED-C30-17",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
-      "fmt": "scenario",
-      "q": "Which ordered chain follows the printed process of fine-skilled voluntary movement?",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
+      "fmt": "recall",
+      "q": "On the printed medial surface, which structure is boxed in pink at the superior margin, immediately behind the label printed as marginal ramus?",
       "opts": [
-        "Planning by PMA/SMA → preparation by basal ganglia → initiation by cerebellum → finesse by primary motor area",
-        "Planning by primary motor area → preparation by cerebellum → initiation by PMA/SMA → finesse by basal ganglia",
-        "Planning and coordination by basal ganglia → preparation by PMA/SMA → initiation by primary motor area → finesse by cerebellum",
-        "Planning by cerebellum → preparation by primary motor area → initiation by basal ganglia → finesse by PMA/SMA"
+        "Gyrus rectus",
+        "Isthmus of the cingulate gyrus",
+        "Paracentral lobule",
+        "Uncus"
       ],
       "ans": 2,
-      "exp": "The note orders fine-skilled movement as planning and coordination by the basal ganglia, preparation or setting up by PMA/SMA, initiation by the primary motor area, and finesse by the cerebellum. (Book p557)"
+      "exp": "The medial-surface drawing boxes PARACENTRAL LOBULE in pink at the superior medial margin, with the marginal ramus labelled just in front of it. (Book p556)"
     },
     {
       "id": "MED-C30-18",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
-      "fmt": "scenario",
-      "q": "Which vascular distribution matches the motor homunculus labels?",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
+      "fmt": "recall",
+      "q": "On the same medial figure, which two lobules are printed behind the paracentral lobule, one above and one below the parieto-occipital sulcus?",
       "opts": [
-        "Lower limb on the superolateral surface is supplied by MCA; face and upper limb medially by ACA",
-        "All face, upper-limb and lower-limb representations are supplied by ACA",
-        "The face is supplied by PCA while the lower limb is supplied by MCA",
-        "Lower limb on the medial surface is supplied by ACA; face and upper limb on the superolateral surface are supplied by MCA"
+        "Cuneus above and precuneus below",
+        "Lingual gyrus above and cuneus below",
+        "Parahippocampal gyrus above and gyrus rectus below",
+        "Precuneus above and cuneus below"
       ],
       "ans": 3,
-      "exp": "The motor homunculus note assigns the lower limb to the medial surface and ACA, while face and upper limb lie on the superolateral surface and are supplied by MCA. (Book p557)"
+      "exp": "The medial-surface drawing labels PRECUNEUS above and CUNEUS below the parieto-occipital sulcus, behind the paracentral lobule. (Book p556)"
     },
     {
       "id": "MED-C30-19",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "page": 557,
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
       "fmt": "recall",
-      "q": "Why can a cortical vascular lesion produce face/upper-limb-predominant versus lower-limb-predominant weakness?",
+      "q": "Which visual and medial-temporal landmarks does the printed medial figure pair up?",
       "opts": [
-        "The motor homunculus places the lower limb medially and the face and upper limb superolaterally, so the affected vessel and side determine the pattern",
-        "The cerebellum reverses the body map in every cortical lesion",
-        "The frontal eye field supplies the lower limb but not the face",
-        "The parietal lobe contains no somatotopic motor representation"
+        "Calcarine fissure above the lingual gyrus, with the uncus at the front of the hippocampal gyrus",
+        "Calcarine fissure below the cuneus, with the uncus inside the paracentral lobule",
+        "Lingual gyrus above the calcarine fissure, with the gyrus rectus in the temporal lobe",
+        "Fusiform gyrus replacing the hippocampal gyrus, with no uncus drawn"
       ],
       "ans": 0,
-      "exp": "The page links the weakness pattern to the motor homunculus: lower limb is medial/ACA territory, while face and upper limb are superolateral/MCA territory. (Book p557)"
+      "exp": "The medial figure draws the Calcarine fissure over the LINGUAL GYRUS and shows the hippocampal gyrus ending anteriorly at the labelled uncus, with the fusiform gyrus below it. (Book p556)"
     },
     {
       "id": "MED-C30-20",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
-      "fmt": "scenario",
-      "q": "A patient has face and upper-limb weakness after a cortical lesion. Which territory is the page's best fit?",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
+      "fmt": "recall",
+      "q": "On the inferior (orbital) surface, which sulcus separates the gyrus rectus from the medial orbital gyrus?",
       "opts": [
-        "PPRF territory in the brainstem",
-        "MCA territory",
-        "ACA territory affecting the medial paracentral lobule",
-        "PCA territory affecting the occipital cortex"
+        "Central sulcus",
+        "Olfactory sulcus",
+        "Calcarine sulcus",
+        "Collateral sulcus"
       ],
       "ans": 1,
-      "exp": "The page states MCA lesion causes face and upper-limb weakness, while ACA lesion causes lower-limb weakness with urinary incontinence. (Book p558)"
+      "exp": "The orbital figure prints GYRUS RECTUS, then 'Olfactory sulcus' with an arrow, then MED. ORB. GYRUS. (Book p556)"
     },
     {
       "id": "MED-C30-21",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
-      "fmt": "scenario",
-      "q": "Which presentation is paired with an ACA lesion on the page?",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
+      "fmt": "recall",
+      "q": "Which gyri are printed around the H-shaped orbital sulcus on the inferior surface?",
       "opts": [
-        "Contralateral homonymous hemianopia from the occipital pole",
-        "Ipsilateral gaze paralysis from a PPRF lesion",
-        "Lower-limb weakness with urinary incontinence from paracentral-lobule involvement on the medial surface",
-        "Face and upper-limb weakness with spared bladder function"
+        "Orbital and rectus gyri only, with no anterior or posterior division",
+        "Parahippocampal and cingulate gyri",
+        "Medial and lateral orbital gyri, further split into anterior and posterior orbital gyri",
+        "Superior and middle frontal gyri, split by the frontal sulci"
       ],
       "ans": 2,
-      "exp": "An ACA lesion is printed as producing lower-limb weakness plus urinary incontinence, attributed to the paracentral lobule on the medial surface. (Book p558)"
+      "exp": "The inferior-surface figure prints MED. ORB. GYRUS and LAT. ORB. GYRUS beside the orbital sulcus, with ANTr. ORBITAL GYRUS above and POST. ORB. GYRUS below. (Book p556)"
     },
     {
       "id": "MED-C30-22",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "page": 556,
       "fmt": "recall",
-      "q": "What is the characteristic motor-cortex lesion pattern described?",
+      "q": "Which configuration is annotated for the orbital sulcus on the inferior surface figure?",
       "opts": [
-        "Ipsilateral flaccid weakness with isolated loss of vibration",
-        "Bilateral weakness with normal tone and no motor deficit",
-        "Pure aphasia without any contralateral motor involvement",
-        "Contralateral weakness of fine skilled voluntary movement with an UMN pattern of spasticity or hypertonia"
+        "Y shaped",
+        "Cruciate",
+        "Circular",
+        "H shaped"
       ],
       "ans": 3,
-      "exp": "A motor-cortex lesion is described as contralateral weakness of fine skilled voluntary movements and an UMN lesion with spasticity or hypertonia. (Book p558)"
+      "exp": "The arrow to the orbital sulcus carries the printed note 'Orbital sulcus (H shaped)', with ANTr., POST., MED. and LAT. orbital gyri labelled around it. (Book p556)"
     },
     {
       "id": "MED-C30-23",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
-      "fmt": "scenario",
-      "q": "An irritative motor-cortex lesion produces repeated spreading contractions beginning in one body part. Which label is printed?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "numeric",
+      "q": "What proportion of motor fibres is printed as originating from area 4 / primary motor cortex?",
       "opts": [
-        "A contralateral motor simple partial seizure with Jacksonian march",
-        "An ipsilateral absence seizure with no motor spread",
-        "A cerebellar intention tremor with dysmetria",
-        "A lower-motor-neuron fasciculation with muscle wasting"
+        "Only 30%",
+        "About 60%",
+        "About 80%",
+        "Essentially all of them"
       ],
       "ans": 0,
-      "exp": "The irritative lesion line states that a contralateral motor simple partial seizure may occur, with Jacksonian march. (Book p558)"
+      "exp": "The area 4 block opens with 'Only 30% motor fibres originate from here.' (Book p557)"
     },
     {
       "id": "MED-C30-24",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
       "fmt": "recall",
-      "q": "The page defines the upper motor neuron (UMN) span as extending from where to where?",
+      "q": "Which two properties are printed for the Betz cells of area 4?",
       "opts": [
-        "From the retina to the superior colliculus",
-        "From the cortex to the anterior horn cell in grey matter",
-        "From the anterior horn cell to the neuromuscular junction",
-        "From the cerebellum to the dorsal-root ganglion"
+        "Cells whose loss produces fluent aphasia",
+        "Specialized cells with the lowest threshold to initiate motor activity",
+        "Largest cortical interneurons inhibiting antagonists",
+        "Cells that only fire during sleep atonia"
       ],
       "ans": 1,
-      "exp": "The printed definition says UMN runs from the cortex till the anterior horn cell, which is in grey matter. (Book p558)"
+      "exp": "'Betz cells present :' is followed by 'Specialized cells.' and 'Lowest threshold to initiate motor activity.' (Book p557)"
     },
     {
       "id": "MED-C30-25",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
       "fmt": "recall",
-      "q": "In the frontal-eye-field circuit, what do PPRF, LR, MR and MLF stand for?",
+      "q": "What action is credited directly to area 4 in the printed list?",
       "opts": [
-        "Primary pontine reflex field; lateral rotation; motor rotation; midline longitudinal fibre",
-        "Posterior parietal reticular formation; levator rectus; motor rectus; main lateral fasciculus",
-        "Paramedian pontine reticular formation; lateral rectus; medial rectus; medial longitudinal fasciculus",
-        "Parietal pontine relay formation; longus rectus; middle rectus; medial limbic fibre"
+        "It provides the finesse of the ongoing movement",
+        "It generates praxicons for sensory guidance",
+        "It initiates fine skilled voluntary movement",
+        "It plans the movement with the basal ganglia"
       ],
       "ans": 2,
-      "exp": "The abbreviations printed beside the FEF diagram are PPRF—parapontine reticular formation, LR—lateral rectus, MR—medial rectus and MLF—medial longitudinal fasciculus. (Book p558)"
+      "exp": "The third bullet of the area 4 block reads Initiate fine skilled voluntary movement, while planning and finesse are given to the basal ganglia and cerebellum. (Book p557)"
     },
     {
       "id": "MED-C30-26",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
-      "fmt": "scenario",
-      "q": "The left frontal eye field normally activates which muscles to make the eyes look right?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "numeric",
+      "q": "How much of the motor-fibre output is attributed to the premotor area and supplementary motor area together on this page?",
       "opts": [
-        "Left lateral rectus and right medial rectus",
-        "Both medial recti only",
-        "Both lateral recti only",
-        "Right lateral rectus and left medial rectus"
+        "40% of motor fibres originate here",
+        "60% of motor fibres originate here",
+        "10% of motor fibres originate here",
+        "30% of motor fibres originate here"
       ],
       "ans": 3,
-      "exp": "The diagram states that the left FEF activates the right lateral rectus and left medial rectus, producing rightward gaze. (Book p558)"
+      "exp": "The PMA and SMA block prints '30% motor fibers originate here.' (Book p557)"
     },
     {
       "id": "MED-C30-27",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
-      "fmt": "scenario",
-      "q": "A left frontal-lobe FEF lesion is shown on examination. What gaze position is printed?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "oddoneout",
+      "q": "Which role is NOT one of the three printed ways premotor/SMA prepares a fine skilled voluntary movement?",
       "opts": [
-        "The patient looks toward the left, the side of the lesion; a brainstem PPRF lesion makes the patient look away from its side",
-        "The patient looks right, away from the cortical lesion; a PPRF lesion looks toward its side",
-        "The eyes remain fixed centrally in both lesions",
-        "The patient looks up in the cortical lesion and down in the PPRF lesion"
+        "Saccade suppression",
+        "Tone of posture",
+        "Proximal muscle alignment",
+        "Antagonist muscle inhibition"
       ],
       "ans": 0,
-      "exp": "The page states that a left FEF lesion prevents rightward gaze, so the patient looks left, toward the lesion. A brainstem PPRF lesion causes looking away from the side of the lesion. (Book p558)"
+      "exp": "The preparation list is exactly tone of posture, proximal muscle alignment and antagonist muscle inhibition. (Book p557)"
     },
     {
       "id": "MED-C30-28",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "page": 558,
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
       "fmt": "scenario",
-      "q": "Which language deficit and anatomical comparison are paired with Broca's area on the page?",
+      "q": "Bilateral frontal injury removes premotor and supplementary-motor inhibition. Which printed consequences follow?",
       "opts": [
-        "Area 4 injury causes fluent jargon; all posterior lesions cause dysarthria",
-        "Area 44/45 injury causes non-fluent aphasia; anterior-central-sulcus lesions affect fluency, whereas posterior lesions affect comprehension",
-        "Area 22 injury causes non-fluent aphasia; posterior lesions affect fluency and anterior lesions comprehension",
-        "Area 17 injury causes alexia; central-sulcus lesions spare both fluency and comprehension"
+        "Isolated rest tremor",
+        "Spasticity (tone issue) and primitive reflexes",
+        "Flaccidity with areflexia",
+        "Chorea with athetosis"
       ],
       "ans": 1,
-      "exp": "Broca's area/areas 44 and 45 are linked to impaired fluency or non-fluent aphasia. The note contrasts anterior-to-central-sulcus lesions affecting fluency with posterior-to-central-sulcus lesions affecting comprehension. (Book p558)"
+      "exp": "The block lists 'B/I lesion spasticity (Tone issue).' with the sub-bullet 'Primitive reflexes.' (Book p557)"
     },
     {
       "id": "MED-C30-29",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "recall",
-      "q": "Which prefrontal-part to function table is printed?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "scenario",
+      "q": "A resident is told that in Parkinson disease the earliest stage of a planned movement is disturbed. According to the printed ladder, which stage and structure are involved?",
       "opts": [
-        "Dorsolateral PFC—language comprehension; medial PFC—touch; orbital PFC—smell; frontal pole—pain",
-        "All four PFC parts are assigned the same executive function",
-        "Dorsolateral PFC—executive function; medial PFC/cingulate—emotion and motivation; orbital PFC—behavioural response; frontal pole—theory of mind",
-        "Dorsolateral PFC—vision; medial PFC—hearing; orbital PFC—fine movement; frontal pole—balance"
+        "Initiation - primary motor area",
+        "Finesse - cerebellum",
+        "Planning and coordination - basal ganglia",
+        "Preparation and setting up - PMA/SMA"
       ],
       "ans": 2,
-      "exp": "The table pairs dorsolateral PFC with executive function, medial PFC or cingulate gyrus with emotion and motivation, orbital PFC with behavioural response, and frontal pole with theory of mind. (Book p559)"
+      "exp": "The ladder begins with Planning and coordination credited to the basal ganglia. (Book p557)"
     },
     {
       "id": "MED-C30-30",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "scenario",
-      "q": "A patient cannot suppress a prepotent response and cannot flexibly shift between task sets. Which printed executive domain is affected?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "recall",
+      "q": "Which structures are printed as responsible for the 'Prepare (setting up)' step of the ladder?",
       "opts": [
-        "Theory of mind involving only empathy",
-        "Motor initiation involving only Betz cells",
-        "Visual agnosia involving the supramarginal gyrus",
-        "Timeframe-dependent, goal-directed executive function involving cognitive inhibition, response inhibition and set shifting"
+        "Basal ganglia and thalamus",
+        "Primary motor area alone",
+        "Cerebellum and inferior olive",
+        "PMA/SMA"
       ],
       "ans": 3,
-      "exp": "Executive function is described as timeframe-dependent, goal-directed activity with cognitive inhibition, response inhibition and set shifting or flexibility. (Book p559)"
+      "exp": "The second step of the ladder assigns Prepare (setting up) to PMA/SMA. (Book p557)"
     },
     {
       "id": "MED-C30-31",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "numeric",
-      "q": "The page orders loss of energisation and motivation from mild to severe as:",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "recall",
+      "q": "Which step of the ladder is assigned to the cerebellum in the printed figure?",
       "opts": [
-        "Apathy → abulia → akinetic mutism",
-        "Abulia → apathy → akinetic mutism",
-        "Akinetic mutism → apathy → abulia",
-        "Apathy → akinetic mutism → abulia"
+        "Finesse",
+        "Planning & coordination",
+        "Initiation",
+        "Antagonist muscle inhibition"
       ],
       "ans": 0,
-      "exp": "The printed severity sequence is apathy when mild, then abulia, then akinetic mutism when severe. (Book p559)"
+      "exp": "The ladder ends 'Finesse : by Cerebellum', while Initiation is given to the 1 degree motor area. (Book p557)"
     },
     {
       "id": "MED-C30-32",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "recall",
-      "q": "Behavioural response in the prefrontal table is based on what, and what does the JIPFA list include?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "scenario",
+      "q": "A patient has an infarct confined to the superolateral convexity hand and face area. Which printed vascular territory is involved?",
       "opts": [
-        "Tone and posture; proximal alignment, antagonist inhibition, gait and balance",
-        "Reward and punishment; judgement, insight, problem solving/personality, fluency and abstract thinking",
-        "Pain and temperature; jaw, intention, proprioception, fine touch and ataxia",
-        "Sleep and arousal; memory, orientation, registration, language and copying"
+        "Basilar perforators to the brainstem",
+        "Middle cerebral artery territory on the superolateral surface",
+        "Anterior cerebral artery territory on the medial surface",
+        "Posterior cerebral artery territory on the inferior surface"
       ],
       "ans": 1,
-      "exp": "Behavioural response is based on reward and punishment and includes JIPFA: judgement, insight, problem solving/personality, fluency and abstract thinking. (Book p559)"
+      "exp": "The homunculus note states 'Face & upper limb : Superolateral surface (supplied by middle Cerebral Artery/MCA).' (Book p557)"
     },
     {
       "id": "MED-C30-33",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "scenario",
-      "q": "Which statement best reflects the page's theory-of-mind line?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "recall",
+      "q": "On which surface and arterial supply does the printed homunculus place the lower limb?",
       "opts": [
-        "It means initiating eye movements, while metacognition means inhibiting reflexes",
-        "It is the same as motor finesse, while metacognition means calculating a percentage",
-        "It includes sympathy and empathy, while metacognition means understanding oneself",
-        "It is limited to writing and naming, while metacognition means recognising objects by touch"
+        "Inferior surface, supplied by the posterior cerebral artery",
+        "Insular surface, supplied by the lenticulostriate arteries",
+        "Medial surface, supplied by the anterior cerebral artery (ACA)",
+        "Superolateral surface, supplied by the middle cerebral artery"
       ],
       "ans": 2,
-      "exp": "Theory of mind is listed with sympathy and empathy; metacognition is defined on the page as understanding oneself. (Book p559)"
+      "exp": "The left-hand note reads 'Lower limb : medial surface (Supplied by anterior cerebral artery (ACA)).' (Book p557)"
     },
     {
       "id": "MED-C30-34",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "scenario",
-      "q": "Which cluster is the page's bilateral frontal-lobe pathology list?",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "page": 557,
+      "fmt": "recall",
+      "q": "Which cluster of labels is printed with arrows at the mouth region of the motor homunculus figure?",
       "opts": [
-        "Isolated anosmia, homonymous hemianopia, pure alexia and dysmetria",
-        "Fluent aphasia, inferior quadrantanopia, facial palsy and sensory extinction",
-        "Rest tremor, rigidity, bradykinesia and levodopa-induced dyskinesia",
-        "Prefrontal personality change, urinary incontinence from bilateral paracentral lesions, primitive reflexes from premotor involvement, akinetic mutism and gait apraxia in NPH"
+        "Coughing, sneezing and hiccup",
+        "Blinking, staring and pupil constriction",
+        "Swallowing only, with no other label",
+        "Mastication, salivation and vocalization"
       ],
       "ans": 3,
-      "exp": "The bilateral frontal pathology list contains prefrontal personality changes, urinary incontinence due to bilateral paracentral-lobule lesions, primitive reflexes due to premotor-cortex involvement, akinetic mutism as severe apathy and gait apraxia in normal-pressure hydrocephalus. (Book p559)"
+      "exp": "Along the face region the figure prints Jaw, Tongue, Swallowing and then the arrowed labels MASTICATION, SALIVATION and VOCALIZATION. (Book p557)"
     },
     {
       "id": "MED-C30-35",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "page": 559,
-      "fmt": "scenario",
-      "q": "A patient with normal-pressure hydrocephalus has gait apraxia and says the foot feels stuck to the floor. Which mechanism phrase is printed?",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "Which deficit pair is printed for an MCA lesion in this section?",
       "opts": [
-        "Ignition failure",
-        "Loss of visual object recognition",
-        "Disconnection between visual cortices",
-        "Failure of the lateral rectus to abduct"
+        "Face and upper limb weakness",
+        "Lower limb weakness with incontinence",
+        "Bilateral leg paraparesis only",
+        "Isolated axial truncal ataxia"
       ],
       "ans": 0,
-      "exp": "Gait apraxia is associated with normal-pressure hydrocephalus and is described as ignition failure, with the foot feeling stuck to the floor. (Book p559)"
+      "exp": "The first line under the homunculus continuation reads 'MCA lesion : Face & U/L weakness.' (Book p558)"
+    },
+    {
+      "id": "MED-C30-36",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "scenario",
+      "q": "An elderly patient has new right-leg weakness and cannot reach the toilet in time; a medial frontal infarct is found. Which printed syndrome matches this picture?",
+      "opts": [
+        "Lenticulostriate lesion: pure motor hemiparesis without cortical signs",
+        "ACA lesion: lower limb weakness plus urinary incontinence from the paracentral lobule",
+        "MCA lesion: face and upper limb weakness with the leg spared",
+        "PCA lesion: contralateral hemianopia with macular sparing"
+      ],
+      "ans": 1,
+      "exp": "The printed ACA line pairs lower limb weakness with urinary incontinence, the bladder representation being in the paracentral lobule on the medial surface. (Book p558)"
+    },
+    {
+      "id": "MED-C30-37",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "Which cortical structure is named in parentheses as the reason ACA lesions cause urinary incontinence?",
+      "opts": [
+        "Inferior temporal gyrus on the basal surface",
+        "Precentral sulcus on the lateral surface",
+        "Paracentral lobule on the medial surface",
+        "Cingulate gyrus on the medial surface"
+      ],
+      "ans": 2,
+      "exp": "The ACA line attributes incontinence to the 'paracentral lobule on medial surface'. (Book p558)"
+    },
+    {
+      "id": "MED-C30-38",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "In 'Lesion of motor cortex', which class of movement is bracketed as the one lost in contralateral weakness?",
+      "opts": [
+        "Gross proximal movements",
+        "Involuntary reflex movements",
+        "Oculocephalic movements",
+        "Fine skilled voluntary movements"
+      ],
+      "ans": 3,
+      "exp": "The list opens 'C/l weakness (Fine skilled voluntary movements).' (Book p558)"
+    },
+    {
+      "id": "MED-C30-39",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "What tone change is printed for a motor-cortex (UMN) lesion?",
+      "opts": [
+        "Spasticity (hypertonia)",
+        "Flaccidity (hypotonia)",
+        "Waxing and waning rigidity",
+        "No change in tone"
+      ],
+      "ans": 0,
+      "exp": "The second bullet reads 'uMN lesion : Spasticity (Hypertonia).' (Book p558)"
+    },
+    {
+      "id": "MED-C30-40",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "oddoneout",
+      "q": "Which statement about limb involvement in a motor-cortex lesion is NOT consistent with the printed text?",
+      "opts": [
+        "Distribution follows the motor homunculus",
+        "The leg is always the most severely affected limb",
+        "Face and upper limb are involved",
+        "Lower limb predominant weakness may occur depending on the vessel affected"
+      ],
+      "ans": 1,
+      "exp": "The page prints 'Fare & upper Limb (Lower limb predominant weakness depending on vessel/side affected) (motor Homunculus)', so dominance is vessel- and side-dependent, never always the leg. (Book p558)"
+    },
+    {
+      "id": "MED-C30-41",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "scenario",
+      "q": "A meningioma over the edge of the left precentral gyrus causes rhythmic jerking that starts in the right hand and climbs up the arm. Which printed term is used for this?",
+      "opts": [
+        "Akinetic mutism",
+        "Primitive reflex release",
+        "Jacksonian march",
+        "Absence seizure status"
+      ],
+      "ans": 2,
+      "exp": "The final lesion bullet reads 'Initiate lesion : C/l motor simple partial seizure : Jacksonian march.' (printed as an irritative-type lesion). (Book p558)"
+    },
+    {
+      "id": "MED-C30-42",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "How does the source define the upper motor neuron on this page?",
+      "opts": [
+        "From the basal ganglia to the thalamus",
+        "From the internal capsule to the muscle spindle only",
+        "From the pontine reticular formation to the spinal cord",
+        "From cortex till the anterior horn cell (in grey matter)"
+      ],
+      "ans": 3,
+      "exp": "The last bullet of the lesion block reads 'upper motor Neuron (uMN) : From cortex till anterior horn cell (In grey matter).' (Book p558)"
+    },
+    {
+      "id": "MED-C30-43",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "In the printed frontal eye field legend, what does MLF stand for?",
+      "opts": [
+        "medial Longitudinal Fasciculus",
+        "Middle Lateral Fissure",
+        "Motor Lobe Field",
+        "Medial Limbic Fiber"
+      ],
+      "ans": 0,
+      "exp": "The legend lists PPRF - Para Pontine Reticular Formation, LR - Lateral Rectus, MR - medial Rectus and MLF - medial Longitudinal Fasciculus. (Book p558)"
+    },
+    {
+      "id": "MED-C30-44",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "In the same printed legend, PPRF is expanded as which structure?",
+      "opts": [
+        "Medial pontine reticular formation",
+        "Para pontine reticular formation",
+        "Posterior precentral reticular fasciculus",
+        "Primary pupillary reflex fibre"
+      ],
+      "ans": 1,
+      "exp": "The legend beside the flowchart reads PPRF - Para Pontine Reticular Formation, alongside LR - Lateral Rectus and MR - medial Rectus. (Book p558)"
+    },
+    {
+      "id": "MED-C30-45",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "scenario",
+      "q": "The printed flowchart for the left frontal lobe is intact. Stimulation of the left frontal eye field produces which combination?",
+      "opts": [
+        "Bilateral medial rectus contraction, so the eyes converge",
+        "No movement, because the pathway crosses twice",
+        "Activation of the right lateral rectus and the left medial rectus, so the eyes look right",
+        "Activation of the left lateral rectus only, so the eyes look left"
+      ],
+      "ans": 2,
+      "exp": "The bullet reads '(L) FEF -> Activates (R) LR & (L) MR -> look to (R).' (Book p558)"
+    },
+    {
+      "id": "MED-C30-46",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "scenario",
+      "q": "A destructive stroke knocks out the left frontal eye field. Where do the patient's eyes rest, per the printed rule?",
+      "opts": [
+        "They look right, away from the lesion",
+        "They deviate downward",
+        "They cannot fix in either horizontal direction",
+        "They look left, towards the side of the lesion"
+      ],
+      "ans": 3,
+      "exp": "'(L) FEF lesion -> Cannot look (R) -> patient looks (L) (side of lesion)', concluded as 'Frontal lobe lesion -> Patient look towards side of lesion.' (Book p558)"
+    },
+    {
+      "id": "MED-C30-47",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "management",
+      "q": "At the bedside you must decide whether a horizontal gaze palsy is frontal or pontine. Using the printed rules, which interpretation is correct?",
+      "opts": [
+        "Eyes looking towards the lesion means a frontal lesion; eyes looking away means a PPRF brainstem lesion",
+        "Eyes looking towards the lesion means a PPRF lesion; eyes looking away means a frontal lesion",
+        "Either pattern localises to the frontal eye field alone",
+        "Either pattern localises to the medial longitudinal fasciculus alone"
+      ],
+      "ans": 0,
+      "exp": "The printed rules contrast a frontal lobe lesion, where the patient looks towards the side of the lesion, with a brainstem PPRF lesion, where the eyes look away from the side of the lesion. (Book p558)"
+    },
+    {
+      "id": "MED-C30-48",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "In the printed flowchart, the nucleus labelled VI sends its red output directly to which labelled muscle?",
+      "opts": [
+        "Inferior rectus",
+        "Right lateral rectus",
+        "Left medial rectus",
+        "Superior oblique"
+      ],
+      "ans": 1,
+      "exp": "The flowchart shows the VI box with a red arrow to 'Right lateral rectus', and PPRF driving VI. (Book p558)"
+    },
+    {
+      "id": "MED-C30-49",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "The red tract that runs from the VI nucleus across to the III nucleus is highlighted with which label in the printed diagram?",
+      "opts": [
+        "DLPN",
+        "NPH VN",
+        "MLF",
+        "PPRF"
+      ],
+      "ans": 2,
+      "exp": "The pink highlighted label pointing at that crossing red tract is 'MLF'; the III box in turn points to 'Medial rectus'. (Book p558)"
+    },
+    {
+      "id": "MED-C30-50",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "recall",
+      "q": "What language deficit is printed for Broca's area (areas 44, 45)?",
+      "opts": [
+        "Comprehension affected with fluent output",
+        "Impaired naming with preserved repetition",
+        "Impaired reading with preserved writing",
+        "Fluency affected - non fluent aphasia"
+      ],
+      "ans": 3,
+      "exp": "The Broca block reads 'Fluency affected (Non fluent aphasia).' (Book p558)"
+    },
+    {
+      "id": "MED-C30-51",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "page": 558,
+      "fmt": "scenario",
+      "q": "A patient speaks fluently with empty content and cannot follow commands. Which printed rule places this lesion?",
+      "opts": [
+        "Posterior to the central sulcus, where comprehension is affected",
+        "Anterior to the central sulcus, where fluency is affected",
+        "In area 4, where initiation of movement is affected",
+        "In the supplementary motor area, where tone is affected"
+      ],
+      "ans": 0,
+      "exp": "The page assigns fluency loss to lesions anterior to the central sulcus and the closing Note assigns comprehension loss to lesions posterior to it. (Book p558)"
+    },
+    {
+      "id": "MED-C30-52",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "Which Brodmann areas head the prefrontal cortex heading on this page?",
+      "opts": [
+        "Areas 17 and 18",
+        "Areas 9, 10, 11 and 12",
+        "Areas 4 and 6",
+        "Areas 44 and 45"
+      ],
+      "ans": 1,
+      "exp": "The page title reads 'pre Frontal Cortex (PFC) / Area. 9, 10, 11, 12 :'. (Book p559)"
+    },
+    {
+      "id": "MED-C30-53",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "In the printed Parts-Function table, which part is paired with executive function?",
+      "opts": [
+        "Orbital PFC",
+        "Frontal pole",
+        "Dorsolateral PFC",
+        "Medial PFC (cingulate gyrus)"
+      ],
+      "ans": 2,
+      "exp": "Row one of the table pairs Dorsolateral PFC with 'Executive function'. (Book p559)"
+    },
+    {
+      "id": "MED-C30-54",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "Which prefrontal part is annotated as the cingulate gyrus, and with which function?",
+      "opts": [
+        "Orbital PFC - emotion and motivation",
+        "Frontal pole - emotion and motivation",
+        "Dorsolateral PFC - behavioural response",
+        "Medial PFC - emotion and motivation"
+      ],
+      "ans": 3,
+      "exp": "The table prints 'medial PFC (cingulate gyrus)' against 'Emotion & motivation'. (Book p559)"
+    },
+    {
+      "id": "MED-C30-55",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "oddoneout",
+      "q": "Which part-function pairing is NOT the one printed in this table?",
+      "opts": [
+        "Dorsolateral PFC - theory of mind",
+        "Orbital PFC - behavioural response",
+        "Frontal pole - theory of mind",
+        "Medial PFC - emotion and motivation"
+      ],
+      "ans": 0,
+      "exp": "The table assigns executive function to the dorsolateral PFC, while orbital, medial and polar rows are exactly behavioural response, emotion & motivation and theory of mind. (Book p559)"
+    },
+    {
+      "id": "MED-C30-56",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "oddoneout",
+      "q": "Executive function is printed as a time/frame-dependent goal-directed activity with three components. Which is the odd one out?",
+      "opts": [
+        "Set shifting (flexibility)",
+        "Antagonist muscle inhibition",
+        "Cognitive inhibition",
+        "Response inhibition"
+      ],
+      "ans": 1,
+      "exp": "The three printed components are cognitive inhibition, response inhibition and set shifting (flexibility); antagonist muscle inhibition belongs to the premotor list on p557. (Book p559)"
+    },
+    {
+      "id": "MED-C30-57",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "How does the printed text annotate 'set shifting' inside the executive-function list?",
+      "opts": [
+        "As a speed measure",
+        "As a verbal fluency task",
+        "As flexibility",
+        "As inhibition of reflexes"
+      ],
+      "ans": 2,
+      "exp": "The third bullet reads 'Set shifting (flexibility).' (Book p559)"
+    },
+    {
+      "id": "MED-C30-58",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "scenario",
+      "q": "A patient with a medial frontal lesion sits passively, initiating nothing but still arouses to strong stimuli. Which printed severity stage is this, using the ladder on the page?",
+      "opts": [
+        "Abulia, the mild end of the ladder",
+        "Apathy, the severe end of the ladder",
+        "Response inhibition, the executive end",
+        "Akinetic mutism, the severe end after apathy and abulia"
+      ],
+      "ans": 3,
+      "exp": "The energisation block prints 'when lost : Apathy (mild) -> Abulia -> Akinetic mutism (severe).' (Book p559)"
+    },
+    {
+      "id": "MED-C30-59",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "On what basis is the behavioural response of the orbital PFC said to operate?",
+      "opts": [
+        "Reward and punishment",
+        "Circadian arousal only",
+        "Proprioceptive feedback",
+        "Conditioned reflex arcs"
+      ],
+      "ans": 0,
+      "exp": "The behavioural response block reads 'Based on reward/punishment.' (Book p559)"
+    },
+    {
+      "id": "MED-C30-60",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "Which mnemonic is printed for the components of behavioural response?",
+      "opts": [
+        "CLASP",
+        "JIPFA",
+        "ORAR LC",
+        "FAST"
+      ],
+      "ans": 1,
+      "exp": "The list prints 'Includes : JIPFA.' followed by the five expansions. (Book p559)"
+    },
+    {
+      "id": "MED-C30-61",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "oddoneout",
+      "q": "Which item does NOT appear in the printed expansion of JIPFA?",
+      "opts": [
+        "Insight",
+        "Abstract thinking",
+        "Attention",
+        "Judgement"
+      ],
+      "ans": 2,
+      "exp": "JIPFA expands to Judgement, Insight, Problem solving/personality, Fluency and Abstract thinking. (Book p559)"
+    },
+    {
+      "id": "MED-C30-62",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "How is metacognition defined in the printed theory-of-mind block?",
+      "opts": [
+        "Understanding others' motor plans",
+        "Awareness of the contralateral visual field",
+        "Graded attention span",
+        "Understanding oneself"
+      ],
+      "ans": 3,
+      "exp": "The theory-of-mind bullets read 'Sympathy, empathy.' and 'metacognition : understanding oneself.' (Book p559)"
+    },
+    {
+      "id": "MED-C30-63",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "scenario",
+      "q": "A patient cannot infer what a colleague believes about a meeting, though memory and language are intact. Which printed prefrontal part and function are implicated?",
+      "opts": [
+        "Frontal pole - theory of mind",
+        "Dorsolateral PFC - executive function",
+        "Orbital PFC - reward and punishment behaviour",
+        "Area 4 - initiation of movement"
+      ],
+      "ans": 0,
+      "exp": "The table pairs the Frontal pole with 'Theory of mind', the block that lists sympathy, empathy and metacognition. (Book p559)"
+    },
+    {
+      "id": "MED-C30-64",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "Which mechanism is printed for primitive reflexes in bilateral frontal lobe pathology?",
+      "opts": [
+        "Due to peripheral neuropathy",
+        "Due to pre motor cortex involvement",
+        "Due to basal ganglia dopamine loss",
+        "Due to posterior fossa compression"
+      ],
+      "ans": 1,
+      "exp": "The B/L FRONTAL LOBE PATHOLOGY list prints 'Primitive reflexes (d/t pre motor cortex involvement).' (Book p559)"
+    },
+    {
+      "id": "MED-C30-65",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "recall",
+      "q": "How does the page characterise akinetic mutism within the bilateral frontal list?",
+      "opts": [
+        "As a seizure phenomenon",
+        "As a cerebellar sign",
+        "As the worst form of apathy",
+        "As the mildest form of abulia"
+      ],
+      "ans": 2,
+      "exp": "The list states 'Akinetic mutism : worst form of apathy.' (Book p559)"
+    },
+    {
+      "id": "MED-C30-66",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "scenario",
+      "q": "A patient with ventriculomegaly cannot start walking and describes the feet as glued to the floor. Which printed term and explanation apply?",
+      "opts": [
+        "Spastic gait due to corticospinal tract lesion",
+        "Ataxic gait due to cerebellar degeneration",
+        "Sensory gait due to posterior column loss",
+        "Gait apraxia in normal pressure hydrocephalus - ignition failure, foot feels stuck to floor"
+      ],
+      "ans": 3,
+      "exp": "The final bullet reads 'Gait apraxia : Seen in Normal Pressure Hydrocephalus (Ignition failure : Foot feels like stuck to floor).' (Book p559)"
+    },
+    {
+      "id": "MED-C30-67",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "page": 559,
+      "fmt": "management",
+      "q": "A neurologist plans the bedside screen for a patient with suspected frontal involvement and wants the six printed MMSE domains plus the frontal apathy ladder in one note. Which combination is correct?",
+      "opts": [
+        "Orientation, Registration, Attention, Recall, Language, Copying; apathy then abulia then akinetic mutism",
+        "Naming, Repetition, Comprehension, Reading, Writing, Calculation; apathy then stupor then coma",
+        "Fixation, Pursuit, Saccades, Convergence, Nystagmus, Dysmetria; abulia then apathy then mutism",
+        "Tone, Power, Reflexes, Coordination, Gait, Sensation; akinetic mutism then abulia then apathy"
+      ],
+      "ans": 0,
+      "exp": "The MMSE components are printed on p555 as Orientation, Registration, Attention, Recall, Language and Copying, and p559 grades lost energisation as Apathy (mild) -> Abulia -> Akinetic mutism (severe). (Book p559)"
     }
   ],
   "units": [
@@ -534,85 +1014,117 @@
       "id": "MED-U30-1",
       "ch": 30,
       "n": 1,
-      "title": "1. MMSE and frontal-lobe surface orientation",
-      "sec": "MMSE and frontal-lobe surface orientation",
-      "guide": "The page opens with the MMSE and its ORARLC components.\nThe superolateral maps orient the frontal lobe against the central sulcus, parietal, temporal and occipital lobes, while the cortex map identifies motor, somatosensory, auditory and visual regions.",
+      "title": "1. Frontal-lobe entry: MMSE screening and the superolateral surface map",
+      "sec": "Frontal-lobe entry: MMSE screening and the superolateral surface map",
+      "guide": "The chapter opens with the mini-mental state examination (MMSE) as a higher-mental-function screen and the ORAR LC component list.\nThe anatomy section begins with the superolateral surface figure, its lobe colour coding, the frontal gyral labels and the four functional cortices drawn beneath it.",
       "qs": [
         "MED-C30-01",
         "MED-C30-02",
         "MED-C30-03",
         "MED-C30-04",
-        "MED-C30-05"
+        "MED-C30-05",
+        "MED-C30-06",
+        "MED-C30-07",
+        "MED-C30-08",
+        "MED-C30-09"
       ]
     },
     {
       "id": "MED-U30-2",
       "ch": 30,
       "n": 2,
-      "title": "2. Frontal-lobe areas and surface anatomy",
-      "sec": "Frontal-lobe areas and surface anatomy",
-      "guide": "Area 4, area 6, the two area-8 labels, prefrontal areas 9–12 and Broca areas 44–45 are read from the functional map.\nThe medial-surface and inferior-surface diagrams retain their named gyri, sulci and fissures, including the H-shaped orbital sulcus.",
+      "title": "2. Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "sec": "Areas on the frontal lobe: lateral map, medial surface and orbital surface",
+      "guide": "The functional map of frontal areas pairs area 4 with the precentral gyrus, areas 6 and 8 with premotor, supplementary-motor and frontal eye functions, areas 9-12 with prefrontal cortex and areas 44-45 with Broca's motor speech area.\nThe medial and inferior surface figures add the cingulate, paracentral, rectus and orbital gyral anatomy.",
       "qs": [
-        "MED-C30-06",
-        "MED-C30-07",
-        "MED-C30-08",
-        "MED-C30-09",
         "MED-C30-10",
         "MED-C30-11",
-        "MED-C30-12"
-      ]
-    },
-    {
-      "id": "MED-U30-3",
-      "ch": 30,
-      "n": 3,
-      "title": "3. Motor cortex, movement sequence and homunculus",
-      "sec": "Motor cortex, movement sequence and homunculus",
-      "guide": "Primary motor cortex, Betz cells, premotor/supplementary preparation and bilateral-lesion findings are kept in sequence.\nThe fine-skilled movement chain and the medial-versus-superolateral motor homunculus supply are then tested as a functional whole.",
-      "qs": [
+        "MED-C30-12",
         "MED-C30-13",
         "MED-C30-14",
         "MED-C30-15",
         "MED-C30-16",
         "MED-C30-17",
         "MED-C30-18",
-        "MED-C30-19"
+        "MED-C30-19",
+        "MED-C30-20",
+        "MED-C30-21",
+        "MED-C30-22"
+      ]
+    },
+    {
+      "id": "MED-U30-3",
+      "ch": 30,
+      "n": 3,
+      "title": "3. Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "sec": "Area 4, premotor/SMA roles, the movement ladder and the motor homunculus",
+      "guide": "Functions of the frontal lobe begin with area 4, its 30% share of motor fibres and the Betz cells. Premotor and supplementary-motor cortex supply the preparation of movement and, when injured bilaterally, tone changes with primitive reflexes.\nThe printed planning-to-finesse ladder and the motor homunculus close the page.",
+      "qs": [
+        "MED-C30-23",
+        "MED-C30-24",
+        "MED-C30-25",
+        "MED-C30-26",
+        "MED-C30-27",
+        "MED-C30-28",
+        "MED-C30-29",
+        "MED-C30-30",
+        "MED-C30-31",
+        "MED-C30-32",
+        "MED-C30-33",
+        "MED-C30-34"
       ]
     },
     {
       "id": "MED-U30-4",
       "ch": 30,
       "n": 4,
-      "title": "4. Motor lesions, frontal eye field and Broca area",
-      "sec": "Motor lesions, frontal eye field and Broca area",
-      "guide": "The page applies ACA/MCA territory to weakness and incontinence, then distinguishes motor-cortex and irritative lesions.\nThe frontal-eye-field circuit, gaze deviation rules, Broca area and the anterior/posterior central-sulcus note close the motor section.",
+      "title": "4. Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "sec": "Vascular and motor-cortex lesions, the frontal eye field and Broca's area",
+      "guide": "The homunculus anatomy converts into vessel syndromes: MCA lesions spare the leg and ACA lesions do the reverse with incontinence. Motor-cortex lesion effects and the definition of the upper motor neuron precede the frontal eye field pathway diagram.\nThe page closes with gaze rules and the Broca fluency note.",
       "qs": [
-        "MED-C30-20",
-        "MED-C30-21",
-        "MED-C30-22",
-        "MED-C30-23",
-        "MED-C30-24",
-        "MED-C30-25",
-        "MED-C30-26",
-        "MED-C30-27",
-        "MED-C30-28"
+        "MED-C30-35",
+        "MED-C30-36",
+        "MED-C30-37",
+        "MED-C30-38",
+        "MED-C30-39",
+        "MED-C30-40",
+        "MED-C30-41",
+        "MED-C30-42",
+        "MED-C30-43",
+        "MED-C30-44",
+        "MED-C30-45",
+        "MED-C30-46",
+        "MED-C30-47",
+        "MED-C30-48",
+        "MED-C30-49",
+        "MED-C30-50",
+        "MED-C30-51"
       ]
     },
     {
       "id": "MED-U30-5",
       "ch": 30,
       "n": 5,
-      "title": "5. Prefrontal cortex and bilateral frontal pathology",
-      "sec": "Prefrontal cortex and bilateral frontal pathology",
-      "guide": "Areas 9–12 are divided into dorsolateral, medial/cingulate, orbital and frontal-pole functions.\nExecutive function, motivation, reward-based behaviour, theory of mind and the bilateral frontal pathology list are kept in the printed order.",
+      "title": "5. Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "sec": "Prefrontal cortex map, JIPFA behaviour and bilateral frontal pathology",
+      "guide": "The prefrontal table matches dorsolateral, medial, orbital and polar cortex to executive, emotional, behavioural and theory-of-mind functions. Apathy to akinetic mutism grades the loss of energisation, and JIPFA lists the behavioural components.\nBilateral frontal pathology adds incontinence, primitive reflexes and gait apraxia.",
       "qs": [
-        "MED-C30-29",
-        "MED-C30-30",
-        "MED-C30-31",
-        "MED-C30-32",
-        "MED-C30-33",
-        "MED-C30-34",
-        "MED-C30-35"
+        "MED-C30-52",
+        "MED-C30-53",
+        "MED-C30-54",
+        "MED-C30-55",
+        "MED-C30-56",
+        "MED-C30-57",
+        "MED-C30-58",
+        "MED-C30-59",
+        "MED-C30-60",
+        "MED-C30-61",
+        "MED-C30-62",
+        "MED-C30-63",
+        "MED-C30-64",
+        "MED-C30-65",
+        "MED-C30-66",
+        "MED-C30-67"
       ]
     }
   ]

@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Regenerate audited source-order ledger entries for authored scan chapters.
 
-Existing Chapter 2–8 visual inventory entries are preserved. Chapters 9–31 and
+Existing Chapter 2–8 visual inventory entries are preserved.  Chapters 9–31 and
 33–38 use one concise inventory point per authored question; the explanation text
 is the human-readable point inventory and the question id is the explicit target.
+Chapter order in the file is the roadmap order, so Chapters 30–31 are written
+between Chapters 29 and 33.
 """
 from __future__ import annotations
 import json
@@ -12,7 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 coverage_path = ROOT / "audit" / "coverage.json"
 ledger = json.loads(coverage_path.read_text(encoding="utf-8"))
-AUTHORED = list(range(9, 21)) + list(range(21, 27)) + list(range(27, 32)) + list(range(33, 39))
+AUTHORED = list(range(9, 21)) + list(range(21, 27)) + list(range(27, 30)) + list(range(30, 32)) + list(range(33, 39))
 authored = set(AUTHORED)
 ledger = [row for row in ledger if row["chapter"] not in authored]
 

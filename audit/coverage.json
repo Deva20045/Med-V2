@@ -8432,374 +8432,668 @@
   {
     "chapter": 30,
     "page": 555,
-    "point": "The MMSE is introduced as helping to assess higher mental functions and cognitive status.",
+    "point": "The page introduces the mini-mental State Examination (mmse) with the line 'Helps to assess Higher mental functions/cognitive status.'",
     "question": "MED-C30-01"
   },
   {
     "chapter": 30,
     "page": 555,
-    "point": "The printed MMSE list is ORARLC: orientation, registration, attention, recall, language and copying.",
+    "point": "'Based on :' is followed by the red mnemonic ORAR LC and then the six bulleted components.",
     "question": "MED-C30-02"
   },
   {
     "chapter": 30,
     "page": 555,
-    "point": "The superolateral diagram places the parietal lobe posterior to the central sulcus and the frontal lobe anterior to it.",
+    "point": "The printed bullets read Orientation, Registration, Attention, Recall, Language, Copying; naming is not listed among them.",
     "question": "MED-C30-03"
   },
   {
     "chapter": 30,
     "page": 555,
-    "point": "The superolateral surface labels the Sylvian fissure laterally, with frontal and temporal regions around it; the central sulcus is the separate motor-sensory landmark.",
+    "point": "Written output is the Language component and the figure-copying task is the Copying component of the printed ORAR LC list.",
     "question": "MED-C30-04"
   },
   {
     "chapter": 30,
     "page": 555,
-    "point": "The lower diagram labels motor cortex in the frontal region, somatosensory cortex in the parietal region, auditory cortex in the temporal region and visual cortex in the occipital region.",
+    "point": "'Anatomy of Frontal Lobe' is immediately followed by the line 'Superolateral surface :' above the coloured lateral-view diagram.",
     "question": "MED-C30-05"
   },
   {
     "chapter": 30,
-    "page": 556,
-    "point": "The map labels area 4 in the precentral gyrus as the primary motor area.",
+    "page": 555,
+    "point": "The figure shades the frontal lobe pink, the parietal lobe yellow behind the central sulcus, the temporal lobe green and leaves the occipital lobe unshaded.",
     "question": "MED-C30-06"
   },
   {
     "chapter": 30,
-    "page": 556,
-    "point": "The functional map identifies area 6 as premotor and area 8 as supplementary motor area medially; it separately labels another area-8 region as the frontal eye field.",
+    "page": 555,
+    "point": "The inferior frontal gyrus label carries the printed sub-labels 'Pars opercularis' and 'Pars triangularis'.",
     "question": "MED-C30-07"
   },
   {
     "chapter": 30,
-    "page": 556,
-    "point": "Area 8 is also labelled the frontal eye field on the functional frontal-lobe diagram.",
+    "page": 555,
+    "point": "The functional map points the Auditory cortex label into the temporal lobe region, while the Visual cortex label is placed on the occipital pole.",
     "question": "MED-C30-08"
   },
   {
     "chapter": 30,
-    "page": 556,
-    "point": "The map gives the prefrontal area as areas 9, 10, 11 and 12, anterior to areas 6 and 8.",
+    "page": 555,
+    "point": "The functional map points out Motor cortex, Somatosensory cortex, Auditory cortex and Visual cortex; no olfactory cortex is labelled.",
     "question": "MED-C30-09"
   },
   {
     "chapter": 30,
     "page": 556,
-    "point": "The diagram places the motor speech area of Broca in the inferior frontal gyrus and labels it areas 44 and 45.",
+    "point": "The right-hand column of the list prints 'Area : 4 Primary motor area (Pre central gyrus)'.",
     "question": "MED-C30-10"
   },
   {
     "chapter": 30,
     "page": 556,
-    "point": "The medial-surface drawing labels the paracentral lobule, superior frontal and cingulate gyri/sulcus, corpus callosum, fornix, hippocampal gyrus and uncus, along with posterior medial structures. The inferior drawing carries the orbital and olfactory labels.",
+    "point": "The list assigns area 6 to premotor area only, while both the supplementary motor area (medially) and the frontal eye field are printed as area 8.",
     "question": "MED-C30-11"
   },
   {
     "chapter": 30,
     "page": 556,
-    "point": "The inferior-surface diagram labels the olfactory sulcus beside the rectus gyrus and the orbital sulcus as H shaped, with anterior, medial, lateral and posterior orbital gyri around it.",
+    "point": "A brace collects the area 6 and area 8 entries under the note 'Anterior to 1 degree motor area'.",
     "question": "MED-C30-12"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "For area 4/primary motor cortex/precentral gyrus, the page states that only 30% of motor fibres originate there and that specialised Betz cells have the lowest threshold to initiate motor activity.",
+    "page": 556,
+    "point": "The prefrontal entry reads 'Area : 9,10,11,12' with the line '(Anterior to area 6 & 8)'.",
     "question": "MED-C30-13"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "Area 4 is stated to initiate fine skilled voluntary movement; preparation and finesse are assigned to other parts of the sequence.",
+    "page": 556,
+    "point": "The functional map prints area 44, 45 as the motor speech area of Broca in the inferior frontal gyrus.",
     "question": "MED-C30-14"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "PMA and SMA are stated to provide 30% of motor fibres and prepare fine skilled voluntary movement by setting tone of posture, proximal muscle alignment and antagonist muscle inhibition.",
+    "page": 556,
+    "point": "The right-side label of the functional figure reads 'Lateral sulcus/ Sylvian fissure', and the caption below states 'Functional frontal lobe anatomy'.",
     "question": "MED-C30-15"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "The page notes that bilateral PMA/SMA lesions cause spasticity (a tone issue) and primitive reflexes.",
+    "page": 556,
+    "point": "The medial-surface drawing labels CINGULATE GYRUS between the cingulate sulcus above and the corpus callosum below.",
     "question": "MED-C30-16"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "The note orders fine-skilled movement as planning and coordination by the basal ganglia, preparation or setting up by PMA/SMA, initiation by the primary motor area, and finesse by the cerebellum.",
+    "page": 556,
+    "point": "The medial-surface drawing boxes PARACENTRAL LOBULE in pink at the superior medial margin, with the marginal ramus labelled just in front of it.",
     "question": "MED-C30-17"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "The motor homunculus note assigns the lower limb to the medial surface and ACA, while face and upper limb lie on the superolateral surface and are supplied by MCA.",
+    "page": 556,
+    "point": "The medial-surface drawing labels PRECUNEUS above and CUNEUS below the parieto-occipital sulcus, behind the paracentral lobule.",
     "question": "MED-C30-18"
   },
   {
     "chapter": 30,
-    "page": 557,
-    "point": "The page links the weakness pattern to the motor homunculus: lower limb is medial/ACA territory, while face and upper limb are superolateral/MCA territory.",
+    "page": 556,
+    "point": "The medial figure draws the Calcarine fissure over the LINGUAL GYRUS and shows the hippocampal gyrus ending anteriorly at the labelled uncus, with the fusiform gyrus below it.",
     "question": "MED-C30-19"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "The page states MCA lesion causes face and upper-limb weakness, while ACA lesion causes lower-limb weakness with urinary incontinence.",
+    "page": 556,
+    "point": "The orbital figure prints GYRUS RECTUS, then 'Olfactory sulcus' with an arrow, then MED. ORB. GYRUS.",
     "question": "MED-C30-20"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "An ACA lesion is printed as producing lower-limb weakness plus urinary incontinence, attributed to the paracentral lobule on the medial surface.",
+    "page": 556,
+    "point": "The inferior-surface figure prints MED. ORB. GYRUS and LAT. ORB. GYRUS beside the orbital sulcus, with ANTr. ORBITAL GYRUS above and POST. ORB. GYRUS below.",
     "question": "MED-C30-21"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "A motor-cortex lesion is described as contralateral weakness of fine skilled voluntary movements and an UMN lesion with spasticity or hypertonia.",
+    "page": 556,
+    "point": "The arrow to the orbital sulcus carries the printed note 'Orbital sulcus (H shaped)', with ANTr., POST., MED. and LAT. orbital gyri labelled around it.",
     "question": "MED-C30-22"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "The irritative lesion line states that a contralateral motor simple partial seizure may occur, with Jacksonian march.",
+    "page": 557,
+    "point": "The area 4 block opens with 'Only 30% motor fibres originate from here.'",
     "question": "MED-C30-23"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "The printed definition says UMN runs from the cortex till the anterior horn cell, which is in grey matter.",
+    "page": 557,
+    "point": "'Betz cells present :' is followed by 'Specialized cells.' and 'Lowest threshold to initiate motor activity.'",
     "question": "MED-C30-24"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "The abbreviations printed beside the FEF diagram are PPRF—parapontine reticular formation, LR—lateral rectus, MR—medial rectus and MLF—medial longitudinal fasciculus.",
+    "page": 557,
+    "point": "The third bullet of the area 4 block reads Initiate fine skilled voluntary movement, while planning and finesse are given to the basal ganglia and cerebellum.",
     "question": "MED-C30-25"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "The diagram states that the left FEF activates the right lateral rectus and left medial rectus, producing rightward gaze.",
+    "page": 557,
+    "point": "The PMA and SMA block prints '30% motor fibers originate here.'",
     "question": "MED-C30-26"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "The page states that a left FEF lesion prevents rightward gaze, so the patient looks left, toward the lesion. A brainstem PPRF lesion causes looking away from the side of the lesion.",
+    "page": 557,
+    "point": "The preparation list is exactly tone of posture, proximal muscle alignment and antagonist muscle inhibition.",
     "question": "MED-C30-27"
   },
   {
     "chapter": 30,
-    "page": 558,
-    "point": "Broca's area/areas 44 and 45 are linked to impaired fluency or non-fluent aphasia. The note contrasts anterior-to-central-sulcus lesions affecting fluency with posterior-to-central-sulcus lesions affecting comprehension.",
+    "page": 557,
+    "point": "The block lists 'B/I lesion spasticity (Tone issue).' with the sub-bullet 'Primitive reflexes.'",
     "question": "MED-C30-28"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "The table pairs dorsolateral PFC with executive function, medial PFC or cingulate gyrus with emotion and motivation, orbital PFC with behavioural response, and frontal pole with theory of mind.",
+    "page": 557,
+    "point": "The ladder begins with Planning and coordination credited to the basal ganglia.",
     "question": "MED-C30-29"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "Executive function is described as timeframe-dependent, goal-directed activity with cognitive inhibition, response inhibition and set shifting or flexibility.",
+    "page": 557,
+    "point": "The second step of the ladder assigns Prepare (setting up) to PMA/SMA.",
     "question": "MED-C30-30"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "The printed severity sequence is apathy when mild, then abulia, then akinetic mutism when severe.",
+    "page": 557,
+    "point": "The ladder ends 'Finesse : by Cerebellum', while Initiation is given to the 1 degree motor area.",
     "question": "MED-C30-31"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "Behavioural response is based on reward and punishment and includes JIPFA: judgement, insight, problem solving/personality, fluency and abstract thinking.",
+    "page": 557,
+    "point": "The homunculus note states 'Face & upper limb : Superolateral surface (supplied by middle Cerebral Artery/MCA).'",
     "question": "MED-C30-32"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "Theory of mind is listed with sympathy and empathy; metacognition is defined on the page as understanding oneself.",
+    "page": 557,
+    "point": "The left-hand note reads 'Lower limb : medial surface (Supplied by anterior cerebral artery (ACA)).'",
     "question": "MED-C30-33"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "The bilateral frontal pathology list contains prefrontal personality changes, urinary incontinence due to bilateral paracentral-lobule lesions, primitive reflexes due to premotor-cortex involvement, akinetic mutism as severe apathy and gait apraxia in normal-pressure hydrocephalus.",
+    "page": 557,
+    "point": "Along the face region the figure prints Jaw, Tongue, Swallowing and then the arrowed labels MASTICATION, SALIVATION and VOCALIZATION.",
     "question": "MED-C30-34"
   },
   {
     "chapter": 30,
-    "page": 559,
-    "point": "Gait apraxia is associated with normal-pressure hydrocephalus and is described as ignition failure, with the foot feeling stuck to the floor.",
+    "page": 558,
+    "point": "The first line under the homunculus continuation reads 'MCA lesion : Face & U/L weakness.'",
     "question": "MED-C30-35"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The printed ACA line pairs lower limb weakness with urinary incontinence, the bladder representation being in the paracentral lobule on the medial surface.",
+    "question": "MED-C30-36"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The ACA line attributes incontinence to the 'paracentral lobule on medial surface'.",
+    "question": "MED-C30-37"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The list opens 'C/l weakness (Fine skilled voluntary movements).'",
+    "question": "MED-C30-38"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The second bullet reads 'uMN lesion : Spasticity (Hypertonia).'",
+    "question": "MED-C30-39"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The page prints 'Fare & upper Limb (Lower limb predominant weakness depending on vessel/side affected) (motor Homunculus)', so dominance is vessel- and side-dependent, never always the leg.",
+    "question": "MED-C30-40"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The final lesion bullet reads 'Initiate lesion : C/l motor simple partial seizure : Jacksonian march.' (printed as an irritative-type lesion).",
+    "question": "MED-C30-41"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The last bullet of the lesion block reads 'upper motor Neuron (uMN) : From cortex till anterior horn cell (In grey matter).'",
+    "question": "MED-C30-42"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The legend lists PPRF - Para Pontine Reticular Formation, LR - Lateral Rectus, MR - medial Rectus and MLF - medial Longitudinal Fasciculus.",
+    "question": "MED-C30-43"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The legend beside the flowchart reads PPRF - Para Pontine Reticular Formation, alongside LR - Lateral Rectus and MR - medial Rectus.",
+    "question": "MED-C30-44"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The bullet reads '(L) FEF -> Activates (R) LR & (L) MR -> look to (R).'",
+    "question": "MED-C30-45"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "'(L) FEF lesion -> Cannot look (R) -> patient looks (L) (side of lesion)', concluded as 'Frontal lobe lesion -> Patient look towards side of lesion.'",
+    "question": "MED-C30-46"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The printed rules contrast a frontal lobe lesion, where the patient looks towards the side of the lesion, with a brainstem PPRF lesion, where the eyes look away from the side of the lesion.",
+    "question": "MED-C30-47"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The flowchart shows the VI box with a red arrow to 'Right lateral rectus', and PPRF driving VI.",
+    "question": "MED-C30-48"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The pink highlighted label pointing at that crossing red tract is 'MLF'; the III box in turn points to 'Medial rectus'.",
+    "question": "MED-C30-49"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The Broca block reads 'Fluency affected (Non fluent aphasia).'",
+    "question": "MED-C30-50"
+  },
+  {
+    "chapter": 30,
+    "page": 558,
+    "point": "The page assigns fluency loss to lesions anterior to the central sulcus and the closing Note assigns comprehension loss to lesions posterior to it.",
+    "question": "MED-C30-51"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The page title reads 'pre Frontal Cortex (PFC) / Area. 9, 10, 11, 12 :'.",
+    "question": "MED-C30-52"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "Row one of the table pairs Dorsolateral PFC with 'Executive function'.",
+    "question": "MED-C30-53"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The table prints 'medial PFC (cingulate gyrus)' against 'Emotion & motivation'.",
+    "question": "MED-C30-54"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The table assigns executive function to the dorsolateral PFC, while orbital, medial and polar rows are exactly behavioural response, emotion & motivation and theory of mind.",
+    "question": "MED-C30-55"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The three printed components are cognitive inhibition, response inhibition and set shifting (flexibility); antagonist muscle inhibition belongs to the premotor list on p557.",
+    "question": "MED-C30-56"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The third bullet reads 'Set shifting (flexibility).'",
+    "question": "MED-C30-57"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The energisation block prints 'when lost : Apathy (mild) -> Abulia -> Akinetic mutism (severe).'",
+    "question": "MED-C30-58"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The behavioural response block reads 'Based on reward/punishment.'",
+    "question": "MED-C30-59"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The list prints 'Includes : JIPFA.' followed by the five expansions.",
+    "question": "MED-C30-60"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "JIPFA expands to Judgement, Insight, Problem solving/personality, Fluency and Abstract thinking.",
+    "question": "MED-C30-61"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The theory-of-mind bullets read 'Sympathy, empathy.' and 'metacognition : understanding oneself.'",
+    "question": "MED-C30-62"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The table pairs the Frontal pole with 'Theory of mind', the block that lists sympathy, empathy and metacognition.",
+    "question": "MED-C30-63"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The B/L FRONTAL LOBE PATHOLOGY list prints 'Primitive reflexes (d/t pre motor cortex involvement).'",
+    "question": "MED-C30-64"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The list states 'Akinetic mutism : worst form of apathy.'",
+    "question": "MED-C30-65"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The final bullet reads 'Gait apraxia : Seen in Normal Pressure Hydrocephalus (Ignition failure : Foot feels like stuck to floor).'",
+    "question": "MED-C30-66"
+  },
+  {
+    "chapter": 30,
+    "page": 559,
+    "point": "The MMSE components are printed on p555 as Orientation, Registration, Attention, Recall, Language and Copying, and p559 grades lost energisation as Apathy (mild) -> Abulia -> Akinetic mutism (severe).",
+    "question": "MED-C30-67"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "The page heading says parietal lobe posterior to the central sulcus and labels primary sensory cortex as areas 3, 1 and 2.",
+    "point": "Under the 'Parietal lobe' heading the printed line reads 'Posterior to central sulcus.'",
     "question": "MED-C31-01"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "The parietal map labels the posterior parietal lobule and intraparietal sulcus, superior parietal lobule as praxicons, inferior parietal lobule, supramarginal gyrus as gnosis, angular gyrus as Gerstmann syndrome and the parieto-occipital association area.",
+    "point": "The highlighted label reads 'Primary sensory cortex (area 3, 1, 2)'.",
     "question": "MED-C31-02"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "The origin-of-motor-fibres note gives primary sensory cortex 40%, primary motor cortex 30% and premotor/supplementary motor cortex 30%.",
+    "point": "The grey annotation on the figure states 'Superior parietal lobule (Praxicons)'.",
     "question": "MED-C31-03"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "Under postcentral gyrus, contralateral upper-motor-neuron weakness is associated with the middle cerebral artery.",
+    "point": "The green label for the inferior parietal lobule carries no syndrome name, while the posterior parietal lobule is highlighted, the supramarginal gyrus is annotated Gnosis and the angular gyrus carries the Gerstmann syndrome note.",
     "question": "MED-C31-04"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "The postcentral-gyrus list states that tone is less affected, the frontal eye field is spared and cortical sensations are impaired.",
+    "point": "The figure labels 'intraparietal sulcus' running between the SUP. PARIETAL LOBULE and INF. PARIETAL LOBULE.",
     "question": "MED-C31-05"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "The page lists impaired cortical sensations as tactile localisation, two-point discrimination, stereognosis and graphesthesia.",
+    "point": "The parietal figure labels the Sylvian fissure and the superior temporal sulcus beneath the inferior parietal lobule, with the parieto-occipital association area highlighted behind them.",
     "question": "MED-C31-06"
   },
   {
     "chapter": 31,
     "page": 560,
-    "point": "The notes link premotor/supplementary motor association with tone and FEF, and state that primary sensory and primary motor cortices have middle-cerebral-artery blood supply.",
+    "point": "The three branches read 1 degree sensory cortex (40%), 1 degree motor cortex (30%) and Premotor and supplementary motor cortex (30%).",
     "question": "MED-C31-07"
   },
   {
     "chapter": 31,
-    "page": 561,
-    "point": "The superior parietal lobule is stated to generate praxicons, defined here as the movement formula or sensory guidance for movement.",
+    "page": 560,
+    "point": "The note gives 30% to the 1 degree motor cortex and 30% to the premotor and supplementary motor cortex.",
     "question": "MED-C31-08"
   },
   {
     "chapter": 31,
-    "page": 561,
-    "point": "Apraxia is defined as inability to execute a learnt voluntary skilled action despite normal cerebellum, motor and sensory function and comprehension.",
+    "page": 560,
+    "point": "The postcentral gyrus list reads C/L upper motor Neuron (UMN) weakness : middle cerebral artery.",
     "question": "MED-C31-09"
   },
   {
     "chapter": 31,
-    "page": 561,
-    "point": "The page directly states that a lesion in the superior parietal lobule causes inability to generate praxicons.",
+    "page": 560,
+    "point": "The postcentral gyrus list prints tone as less affected and the frontal eye field as spared.",
     "question": "MED-C31-10"
   },
   {
     "chapter": 31,
-    "page": 561,
-    "point": "Ideational apraxia is printed as the type in which the idea is absent.",
+    "page": 560,
+    "point": "The note states 'Association with Pre-motor and Supplementary motor area : Tone, FEF.'",
     "question": "MED-C31-11"
   },
   {
     "chapter": 31,
-    "page": 561,
-    "point": "Ideomotor apraxia is printed as idea present with poor execution.",
+    "page": 560,
+    "point": "The four printed cortical sensations are tactile localization, two point discrimination, stereognosis and graphesthesia; vibration is not listed.",
     "question": "MED-C31-12"
   },
   {
     "chapter": 31,
-    "page": 561,
-    "point": "Gnosis is defined as the ability to recognise an object by touch, vision or sound.",
+    "page": 560,
+    "point": "Stereognosis, the recognition of an object by touch, is one of the four cortical sensations listed as impaired.",
     "question": "MED-C31-13"
   },
   {
     "chapter": 31,
     "page": 561,
-    "point": "Visual agnosia is described as inability to identify by vision; the page names the supramarginal gyrus and the parieto-occipital association area, the latter linked to visuospatial orientation.",
+    "point": "Under SUPERIOR PARIETAL LOBULE the text reads 'generate Praxicons : movement formula/sensory guidance for movement.'",
     "question": "MED-C31-14"
   },
   {
     "chapter": 31,
     "page": 561,
-    "point": "The table prints right-handed dominance as right lobe 5% and left lobe 90–95%, and left-handed dominance as right lobe 40% and left lobe 50–60%.",
+    "point": "Apraxia is defined as 'Inability to execute a learnt voluntary skilled action despite normal cerebellum, motor & sensory function and comprehension.'",
     "question": "MED-C31-15"
   },
   {
     "chapter": 31,
     "page": 561,
-    "point": "Immediately below the dominance table, the source states that language is part of the dominant lobe.",
+    "point": "The second bullet reads 'Lesion in SPL : Inability to generate praxicons.'",
     "question": "MED-C31-16"
   },
   {
     "chapter": 31,
     "page": 561,
-    "point": "The non-dominant parietal section calls these pseudoapraxias: constructional apraxia is inability to perceive and imagine geometric relation, and dressing apraxia is inability to dress, exemplified by inability to put on a jacket.",
+    "point": "The types are printed as 'Ideational apraxia : Idea absent.' and 'Ideomotor apraxia : Idea present -> Execution poor.'",
     "question": "MED-C31-17"
   },
   {
     "chapter": 31,
     "page": 561,
-    "point": "Visuospatial disorientation is defined as inability to differentiate places, for example bedroom and bathroom.",
+    "point": "Under Supramarginal gyrus the text reads 'gnosis : Ability to recognize object by touch/vision/sound.'",
     "question": "MED-C31-18"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The page introduces hemispatial neglect with anosognosia/asomatognosia as abnormal visual scanning of the body schema leading to neglect of activities related to one hemisphere.",
+    "page": 561,
+    "point": "The visual agnosia block reads 'Inability to identify by vision' with areas 'Supramarginal gyrus' and 'Parieto-occipital association area : Visuospatial orientation'.",
     "question": "MED-C31-19"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The table shows extrapersonal space represented as right plus left under the right parietal lobe and right under the left parietal lobe; a right-parietal lesion gives left hemispatial neglect, while the left-parietal lesion column says no abnormality.",
+    "page": 561,
+    "point": "The figure labels 'Parieto-occipital association area : Visuospatial orientation' beside the parieto-occipital region.",
     "question": "MED-C31-20"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "Topographic agnosia is defined on the page as loss of orientation to topography.",
+    "page": 561,
+    "point": "The printed captions under the four drawings are snake, stereo or computer, bug and lamp; spider is not one of them.",
     "question": "MED-C31-21"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The angular-gyrus functions listed are reading, writing, naming and spatial orientation with respect to finger, number and body sites.",
+    "page": 561,
+    "point": "The table prints Right handed as right lobe 5% and left lobe 90-95%.",
     "question": "MED-C31-22"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "Gerstmann syndrome is attributed to a lesion of the dominant angular gyrus and includes alexia plus agraphia, anomia, finger anomia or acalculia, and right-to-left disorientation.",
+    "page": 561,
+    "point": "The second table row prints Left handed: right lobe 40% and left lobe 50-60%.",
     "question": "MED-C31-23"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The Gerstmann list explicitly pairs alexia with impaired reading and agraphia with impaired writing.",
+    "page": 561,
+    "point": "Beneath the handedness table the line reads 'Language is part of dominant lobe.'",
     "question": "MED-C31-24"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The note links left PCA infarct plus splenium of corpus callosum to an occipital lesion with macular sparing, right homonymous hemianopia and a disconnection syndrome, including alexia without agraphia.",
+    "page": 561,
+    "point": "The non-dominant parietal lobe heading lists pseudoapraxia with constructional apraxia and dressing apraxia, the latter illustrated by being unable to put on a jacket.",
     "question": "MED-C31-25"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The visual-abnormalities note states that pure alexia is due to a fusiform-gyrus lesion.",
+    "page": 561,
+    "point": "The bullet reads 'Constructional apraxia : Inability to perceive and imagine geometric relation.'",
     "question": "MED-C31-26"
   },
   {
     "chapter": 31,
-    "page": 562,
-    "point": "The final visual list assigns contralateral hemianopia to frontal lobe, inferior homonymous quadrantanopia or pie in the floor to parietal lobe, and superior homonymous quadrantanopia or pie in the sky to temporal lobe.",
+    "page": 561,
+    "point": "The last bullet of the page defines visuospatial disorientation as the inability to differentiate places, illustrated by the bedroom and bathroom example.",
     "question": "MED-C31-27"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The bullet reads 'Hemispatial neglect (Anosognosia/Asomatognosia) : visual scanning (Body schema) -> Neglect of activities related to one of the hemispheres.'",
+    "question": "MED-C31-28"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The printed gloss is 'visual scanning (Body schema)' before the neglect definition.",
+    "question": "MED-C31-29"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The table prints left parietal extrapersonal space as 'Right' and its lesion row as 'No abnormality', so neglect of the right field is not a left parietal sign.",
+    "question": "MED-C31-30"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The right parietal column lists the lesion row as 'Left hemispatal neglect' (as printed).",
+    "question": "MED-C31-31"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The bullet reads 'Topographic agnosia : Loss of orientation to topography.'",
+    "question": "MED-C31-32"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The flower and clock drawings on the right of the page are captioned Hemispatial neglect, while the copied geometric figures are captioned Constructional apraxia By patient.",
+    "question": "MED-C31-33"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The left-hand drawing is labelled as the Rey-Osterrieth Complex Figure (ROCF) figure versus patient, with the A1, A2 and A3 patient copies beneath it.",
+    "question": "MED-C31-34"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The functions column prints Reading, Writing, Naming and 'Spatial orientation with respect to finger, number, body sites'; calculation appears only as acalculia in Gerstman syndrome.",
+    "question": "MED-C31-35"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The fourth function bullet reads 'Spatial orientation with respect to finger, number, body sites.'",
+    "question": "MED-C31-36"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The Gerstman column opens 'Lesion of dominant angular gyrus.'",
+    "question": "MED-C31-37"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The printed syndrome lists alexia with agraphia, anomia and finger anomia/acalculia/right-to-left disorientation; limb-kinetic apraxia is not named.",
+    "question": "MED-C31-38"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The note reads 'Left Posterior Cerebral Artery (PCA) Infarct + Splenium of corpus callosum', with the disconnection arm giving 'Alexia without agraphia'.",
+    "question": "MED-C31-39"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The right-hand branch states 'Disconnection syndrome (Loss of connection between cortices).'",
+    "question": "MED-C31-40"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The branch prints 'Vision normal (macular sparing)' and 'C/L (Right) homonymous hemianopia'.",
+    "question": "MED-C31-41"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The bullet reads 'Pure Alexia : Lesion of fusiform gyrus.'",
+    "question": "MED-C31-42"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The list prints frontal lobe as C/L hemianopia, parietal as inferior quadrantanopia (pie in floor) and temporal as superior quadrantanopia (pie in sky).",
+    "question": "MED-C31-43"
+  },
+  {
+    "chapter": 31,
+    "page": 562,
+    "point": "The printed table assigns the temporal lobe 'U/L superior homonymous quadrantanopia (Pie in sky)', the parietal lobe the pie-in-floor counterpart and the frontal lobe a C/L hemianopia.",
+    "question": "MED-C31-44"
   },
   {
     "chapter": 33,
