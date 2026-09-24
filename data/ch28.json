@@ -1,0 +1,1241 @@
+{
+  "chapter": 28,
+  "title": "Crystal Arthropathies",
+  "pageRange": "543-551",
+  "questions": [
+    {
+      "id": "MED-C28-01",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "Which four crystal types are listed at the start of the chapter?",
+      "opts": [
+        "Monosodium urate monohydrate (MSUM), CPPD, basic calcium phosphate (hydroxyapatite) and calcium oxalate",
+        "Cholesterol, cystine, bilirubin and protein crystals only",
+        "Uric acid, calcium carbonate, magnesium and phosphate",
+        "Drug crystals, immunoglobulin, lipid and mucin"
+      ],
+      "ans": 0,
+      "exp": "Types: 1. monosodium urate monohydrate (msum); 2. calcium pyrophosphate dihydrate (CPPD); 3. basic calcium phosphate (BCP) — calcium hydroxy apatite; 4. calcium oxalate. (Book p543)"
+    },
+    {
+      "id": "MED-C28-02",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "How is basic calcium phosphate specified chemically on this page?",
+      "opts": [
+        "Calcium oxalate monohydrate only",
+        "Calcium hydroxy apatite Ca5(PO4)3OH",
+        "Calcium pyrophosphate dihydrate",
+        "Monosodium urate dihydrate"
+      ],
+      "ans": 1,
+      "exp": "BCP is written as calcium hydroxy apatite Ca5(PO4)3OH. (Book p543)"
+    },
+    {
+      "id": "MED-C28-03",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "Which pathogenesis label and pathway open the crystal arthropathy block?",
+      "opts": [
+        "Complement-mediated type III reaction only",
+        "Antibody-mediated cytopenia",
+        "Autoinflammatory syndrome with activation of the inflammasomal pathway converting pro-IL1β to IL-1β",
+        "Pure mechanical wear without inflammation"
+      ],
+      "ans": 2,
+      "exp": "Pathogenesis: autoinflammatory syndrome; activation of inflammasomal pathway; inflammasomes are innate-immunity intracellular protein complexes containing caspases that convert Pro-IL1β to IL-1β. (Book p543)"
+    },
+    {
+      "id": "MED-C28-04",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "Which definition of inflammasomes is printed?",
+      "opts": [
+        "Extracellular antibody aggregate",
+        "Mitochondrial electron-transport complex",
+        "Nuclear transcription factor only",
+        "Innate immunity intracellular protein complex containing caspases"
+      ],
+      "ans": 3,
+      "exp": "Parenthetical note: inflammasomes — innate immunity, intracellular protein complex containing caspases. (Book p543)"
+    },
+    {
+      "id": "MED-C28-05",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "Which three presentations are listed for monosodium urate monohydrate disease?",
+      "opts": [
+        "Asymptomatic hyperuricemia, renal manifestations and gouty arthritis",
+        "Only tophaceous gout and calculi",
+        "Acute urate nephropathy alone",
+        "Pseudogout and chondrocalcinosis"
+      ],
+      "ans": 0,
+      "exp": "MSUM presentations: asymptomatic hyperuricemia, renal manifestations, gouty arthritis. (Book p543)"
+    },
+    {
+      "id": "MED-C28-06",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "What is the printed dietary/endogenous source of uric acid?",
+      "opts": [
+        "Branched-chain amino acids alone",
+        "Purines — adenine and guanine",
+        "Exogenous oxalate only",
+        "Cholesterol esters"
+      ],
+      "ans": 1,
+      "exp": "URIC ACID source: purines (adenine, guanine). (Book p543)"
+    },
+    {
+      "id": "MED-C28-07",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "Which enzyme converts hypoxanthine and xanthine toward uric acid in the printed pathway?",
+      "opts": [
+        "Adenosine deaminase",
+        "Alcohol dehydrogenase",
+        "Xanthine oxidase",
+        "Uricase"
+      ],
+      "ans": 2,
+      "exp": "The metabolism diagram places xanthine oxidase on the hypoxanthine→xanthine→uric acid steps. (Book p543)"
+    },
+    {
+      "id": "MED-C28-08",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "What does the printed note about uricase state for humans?",
+      "opts": [
+        "Humans express uricase abundantly",
+        "Allantoin is the main human end-product",
+        "Uricase is renal only",
+        "Uricase converts uric acid to allantoin, which is not present in humans, so uric acid is not metabolised"
+      ],
+      "ans": 3,
+      "exp": "Note: uric acid —uricase→ allantoin (not present in humans → uric acid not metabolised). (Book p543)"
+    },
+    {
+      "id": "MED-C28-09",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "page": 543,
+      "fmt": "recall",
+      "q": "In the AMP arm of the printed pathway, which enzyme acts between adenosine and inosine?",
+      "opts": [
+        "Adenosine deaminase",
+        "Xanthine oxidase",
+        "Uricase",
+        "PRPP synthase"
+      ],
+      "ans": 0,
+      "exp": "AMP → adenosine —(adenosine deaminase)→ inosine → hypoxanthine → xanthine → uric acid. (Book p543)"
+    },
+    {
+      "id": "MED-C28-10",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "What uric-acid pool size and daily excretion splits are printed on the purine diagram?",
+      "opts": [
+        "No defined pool with 3 g daily loss",
+        "Pool 1.2 g; intestine 0.2 g/day and kidney 0.5 g/day with overall excretion 0.7 g/day",
+        "Pool 5 g with renal excretion only 0.05 g",
+        "Pool 0.2 g with faecal loss 2 g"
+      ],
+      "ans": 1,
+      "exp": "Diagram: uric acid pool 1.2 g; intestine (0.2 g/day); kidney (0.5 g/day); excretion (0.7 g/day). (Book p544)"
+    },
+    {
+      "id": "MED-C28-11",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "What excretion rate is labelled to produce uricosuria?",
+      "opts": [
+        "Greater than 20 mg/kg/d",
+        "Less than 1 mg/kg/d",
+        "Greater than 7 mg/kg/d",
+        "Greater than 2 mg/kg/d only"
+      ],
+      "ans": 2,
+      "exp": "Excretion greater than 7 mg/kg/d → uricosuria. (Book p544)"
+    },
+    {
+      "id": "MED-C28-12",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "Which three stone-formation thresholds and components are tabulated?",
+      "opts": [
+        "Uric acid over 3 only; calcium over 8; citrate over 20",
+        "All stones above 10 mg/kg/d",
+        "No numeric thresholds are printed",
+        "Uric acid greater than 7 mg/kg/d (hyperuricosuria); calcium greater than 4 (hypercalciuria, most common); citrate less than 11 (hypocitraturia)"
+      ],
+      "ans": 3,
+      "exp": "Important causes of stone formation: >7 uric acid — hyperuricosuria; >4 calcium — hypercalciuria (m/c); <11 citrate — hypocitraturia. (Book p544)"
+    },
+    {
+      "id": "MED-C28-13",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "Which component is most common for stone formation in the printed table?",
+      "opts": [
+        "Calcium (hypercalciuria)",
+        "Uric acid",
+        "Citrate",
+        "Oxalate only"
+      ],
+      "ans": 0,
+      "exp": "The calcium row is annotated m/c for stone formation. (Book p544)"
+    },
+    {
+      "id": "MED-C28-14",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "What mnemonic numbers summarize the four-compartment model of renal uric-acid handling?",
+      "opts": [
+        "100 / 100 / 100 / 100",
+        "100 / 50 / 40 / 10",
+        "50 / 25 / 10 / 5",
+        "90 / 90 / 10 / 10"
+      ],
+      "ans": 1,
+      "exp": "4 compartment model: 100 / 50 / 40 / 10. (Book p544)"
+    },
+    {
+      "id": "MED-C28-15",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "recall",
+      "q": "What handling steps map to the four compartments?",
+      "opts": [
+        "Secretion exclusively at S3",
+        "Excretion before filtration",
+        "100% filtered in glomerulus; 100% reabsorbed at S1; 50% secreted at S2; 40% reabsorbed at S3; 10% excreted in urine",
+        "Only filtration with no reabsorption"
+      ],
+      "ans": 2,
+      "exp": "Model: 100% filtered in glomerulus; 100% reabsorbed at S1; 50% secreted at S2; 40% reabsorbed at S3; 10% excreted in urine. (Book p544)"
+    },
+    {
+      "id": "MED-C28-16",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "What net reabsorption percentage of filtered uric acid is printed?",
+      "opts": [
+        "10%",
+        "50%",
+        "0%",
+        "90%"
+      ],
+      "ans": 3,
+      "exp": "Net reabsorption of 90% of filtered uric acid. (Book p544)"
+    },
+    {
+      "id": "MED-C28-17",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "recall",
+      "q": "Where do uric acid and phosphorus metabolism take place according to the source?",
+      "opts": [
+        "Only in the proximal convoluted tubule",
+        "Entirely in the loop of Henle",
+        "Collecting duct exclusively",
+        "Glomerulus only"
+      ],
+      "ans": 0,
+      "exp": "Uric acid and phosphorus metabolism takes place only in PCT. (Book p544)"
+    },
+    {
+      "id": "MED-C28-18",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "page": 544,
+      "fmt": "numeric",
+      "q": "How does fractional excretion of uric acid and phosphorus change in proximal versus distal RTA?",
+      "opts": [
+        "High only in distal",
+        "Raised in proximal RTA; normal in distal RTA",
+        "Normal in proximal; raised in distal",
+        "Low in both"
+      ],
+      "ans": 1,
+      "exp": "Fractional excretion of uric acid and phosphorus: increased in proximal RTA; normal in distal RTA. (Book p544)"
+    },
+    {
+      "id": "MED-C28-19",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "recall",
+      "q": "How is hyperuricemia framed relative to metabolic syndrome in the source?",
+      "opts": [
+        "It is only renal",
+        "It is exclusively genetic",
+        "Hyperuricemia is a part of metabolic syndrome",
+        "It excludes metabolic syndrome"
+      ],
+      "ans": 2,
+      "exp": "Asymptomatic hyperuricemia: hyperuricemia is a part of metabolic syndrome. (Book p545)"
+    },
+    {
+      "id": "MED-C28-20",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "numeric",
+      "q": "What sex-specific diagnostic levels are printed for hyperuricemia?",
+      "opts": [
+        "Equal to 5 mg/dl for both sexes",
+        "Greater than 10 mg/dl for both",
+        "Less than 4 mg/dl for both",
+        "Greater than 6 mg/dl in females and greater than 7 mg/dl in males"
+      ],
+      "ans": 3,
+      "exp": "Levels: greater than 6 mg/dl in females, greater than 7 mg/dl in males. (Book p545)"
+    },
+    {
+      "id": "MED-C28-21",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "recall",
+      "q": "What pregnancy-age pathway to adult metabolic syndrome is diagrammed?",
+      "opts": [
+        "Increasing maternal age → small-for-gestational-age babies → pre-eclampsia → decreased nephron number → adult metabolic syndrome",
+        "Younger age → macrosomia → no nephron effect",
+        "Post-term only with normal nephrons",
+        "No proposed pathway"
+      ],
+      "ans": 0,
+      "exp": "Age at pregnancy flow: ↑age → small for gestational age babies → pre-eclampsia → ↓nephron number → metabolic syndrome as adults. (Book p545)"
+    },
+    {
+      "id": "MED-C28-22",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "numeric",
+      "q": "What is the majority genetic split printed for unidentified hyperuricemia causes?",
+      "opts": [
+        "100% over-production",
+        "90% under-excretion and 10% over-production of urate",
+        "90% over-production and 10% under-excretion",
+        "Equal 50/50"
+      ],
+      "ans": 1,
+      "exp": "Unidentified (majority): 90% under-excretion, 10% over-production of urate. (Book p545)"
+    },
+    {
+      "id": "MED-C28-23",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "recall",
+      "q": "Which syndrome results from HGPRTase deficiency with its printed features?",
+      "opts": [
+        "Classic galactosemia",
+        "Wilson disease with kayser-fleischer rings",
+        "Lesch-Nyhan syndrome with hyperuricemia, self-mutilation and mental retardation",
+        "von Gierke disease with hepatomegaly only"
+      ],
+      "ans": 2,
+      "exp": "HGPRTase deficiency → Lesch Nyhan syndrome: hyperuricemia, self-mutilation, mental retardation. (Book p545)"
+    },
+    {
+      "id": "MED-C28-24",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "recall",
+      "q": "Which enzyme defect and clinical cluster define von Gierke disease on this page?",
+      "opts": [
+        "Fructose-1-phosphate aldolase deficiency alone",
+        "PRPP synthase overactivity only",
+        "HGPRTase deficiency",
+        "Glucose-6-phosphatase deficiency (glycogen storage disease type 1) with hepatomegaly, hyperlipidemia, hyperuricemia, doll facies, hypoglycemia and seizures"
+      ],
+      "ans": 3,
+      "exp": "Glucose 6 phosphatase deficiency → von Gierke's disease / glycogen storage disease type 1 with hepatomegaly, hyperlipidemia, hyperuricemia, doll facies, hypoglycemia and seizures. (Book p545)"
+    },
+    {
+      "id": "MED-C28-25",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "recall",
+      "q": "Which two remaining genetic defects are listed without disease names in the table?",
+      "opts": [
+        "Fructose-1-phosphate aldolase deficiency and PRPP synthase overactivity",
+        "Uricase deficiency and xanthinuria",
+        "Cystinuria and Hartnup disease",
+        "Wilson and hemochromatosis"
+      ],
+      "ans": 0,
+      "exp": "Table rows: fructose 1 phosphate aldolase deficiency; phosphoribosyl pyrophosphate (PRPP) synthase overactivity. (Book p545)"
+    },
+    {
+      "id": "MED-C28-26",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "recall",
+      "q": "Which drug list is encoded by the printed CANT LEAP mnemonic?",
+      "opts": [
+        "No drugs are implicated",
+        "Cyclosporine, alcohol, nicotine, thiazides, loop diuretics, ethambutol, low-dose aspirin and pyrazinamide",
+        "Penicillamine, amiodarone, nitrofurantoin, ketamine, loop blockers, estrogen, ACE inhibitors, prednisolone",
+        "Only antivirals and statins"
+      ],
+      "ans": 1,
+      "exp": "Secondary drug-induced hyperuricemia mnemonic CANT LEAP: cyclosporine, alcohol, nicotine, thiazide diuretics, loop diuretics, ethambutol, aspirin low dose, pyrazinamide. (Book p545)"
+    },
+    {
+      "id": "MED-C28-27",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "page": 545,
+      "fmt": "scenario",
+      "q": "Prolonged asymptomatic hyperuricemia with recurrent flares evolves as the printed progression shows toward what end state?",
+      "opts": [
+        "Isolated kidney stones only without arthritis",
+        "CPPD pseudogout",
+        "Chronic tophaceous gout after multiple acute episodes",
+        "Spontaneous complete resolution"
+      ],
+      "ans": 2,
+      "exp": "Progression: prolonged asymptomatic hyperuricemia → increased risk of acute gout with multiple episodes → chronic tophaceous gout. (Book p545)"
+    },
+    {
+      "id": "MED-C28-28",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "numeric",
+      "q": "What serum urate threshold is attributed to Kelley's textbook?",
+      "opts": [
+        "Exactly 4.0 mg/dl",
+        "Over 12 mg/dl always",
+        "Under 5 mg/dl",
+        "Greater than 6.8 mg/dl"
+      ],
+      "ans": 3,
+      "exp": "Note: greater than 6.8 mg/dl (Kelley's textbook). (Book p546)"
+    },
+    {
+      "id": "MED-C28-29",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "oddoneout",
+      "q": "Which listed factor does NOT belong among the printed modifiers of urate level?",
+      "opts": [
+        "Platelet count",
+        "Age with increasing gout tendency",
+        "Blood pressure and alcohol",
+        "Diet of seafood and red meat plus serum creatinine"
+      ],
+      "ans": 0,
+      "exp": "Factors affecting: age, blood pressure, alcohol, diet (sea food, red meat), Sr. creatinine — platelet count is not listed. (Book p546)"
+    },
+    {
+      "id": "MED-C28-30",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "numeric",
+      "q": "When is serum urate said to rise in men and women, and what pregnancy state is noted?",
+      "opts": [
+        "No sex-specific change",
+        "Men at puberty; women at menopause; pregnancy is a hyperuricemic state",
+        "Men at menopause; women at puberty; pregnancy is normouricemic",
+        "Both sexes only after age 80"
+      ],
+      "ans": 1,
+      "exp": "Sr. urate increases in men at puberty, women at menopause; pregnancy is a hyperuricemic state. (Book p546)"
+    },
+    {
+      "id": "MED-C28-31",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "recall",
+      "q": "Which three renal manifestations with pathogenesis are tabulated?",
+      "opts": [
+        "Renal amyloidosis alone",
+        "Renal artery stenosis only",
+        "Uric acid nephropathy (TLS precipitation → AKI); urate nephropathy (prolonged hyperuricemia → CTID → CKD); urolithiasis (excretion greater than 7 mg/kg/day → stones)",
+        "Isolated hematuria and proteinuria only"
+      ],
+      "ans": 2,
+      "exp": "Renal manifestations table: uric acid nephropathy via TLS precipitation in tubules → AKI; urate nephropathy via chronic tubulo-interstitial disease → CKD; urolithiasis when excretion exceeds 7 mg/kg/day. (Book p546)"
+    },
+    {
+      "id": "MED-C28-32",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "scenario",
+      "q": "Tumour lysis syndrome causes urate precipitation in tubules with acute kidney injury. Which renal label applies?",
+      "opts": [
+        "Chronic urate nephropathy (CTID)",
+        "Pure urolithiasis without AKI",
+        "IgA nephropathy",
+        "Uric acid nephropathy"
+      ],
+      "ans": 3,
+      "exp": "Uric acid nephropathy pathogenesis: tumour lysis syndrome → precipitation of uric acid in tubules → AKI. (Book p546)"
+    },
+    {
+      "id": "MED-C28-33",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "numeric",
+      "q": "What sex and age pattern is printed for acute gouty arthritis?",
+      "opts": [
+        "Male 80% greater than female (post-menopausal); age 40–60 years",
+        "Female predominance under 30",
+        "Equal ratio over 70",
+        "Children only"
+      ],
+      "ans": 0,
+      "exp": "Acute gouty arthritis: sex M (80%) greater than F (post-menopausal); age 40–60 yrs. (Book p546)"
+    },
+    {
+      "id": "MED-C28-34",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "recall",
+      "q": "Which trigger and historical label are printed for acute gout?",
+      "opts": [
+        "No trigger; no historical label",
+        "Alcohol as most common trigger; disease of King due to presentation in King Henry",
+        "Seafood-only trigger; disease of Queen",
+        "Trauma only; disease of philosophers"
+      ],
+      "ans": 1,
+      "exp": "Trigger: alcohol (m/c); AKA disease of King (d/t presentation in King Henry). (Book p546)"
+    },
+    {
+      "id": "MED-C28-35",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "numeric",
+      "q": "What percentage of first attacks involves the first MTP joint, and what is uric-acid status in 40%?",
+      "opts": [
+        "10% wrist only",
+        "0% MTP involvement",
+        "85% first MTP; uric acid normal or low in 40%",
+        "50% knee with always-high urate"
+      ],
+      "ans": 2,
+      "exp": "First attack: 1st MTP joint (85%); uric acid normal or low in 40%. (Book p546)"
+    },
+    {
+      "id": "MED-C28-36",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "numeric",
+      "q": "What percentage has polyarticular first attacks, and which associations are printed?",
+      "opts": [
+        "40% with RA only",
+        "5% with gout-negative labs",
+        "90% with isolated knee disease",
+        "15% with myeloproliferative neoplasm and post-transplant association"
+      ],
+      "ans": 3,
+      "exp": "15% have polyarticular involvement, associated with myeloproliferative neoplasm and post transplantation. (Book p546)"
+    },
+    {
+      "id": "MED-C28-37",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "numeric",
+      "q": "What duration and joint signs are printed for the first acute attack?",
+      "opts": [
+        "3–14 days with hot, red, dusky swollen joint and periarticular erythema; pain peaks 4–12 hours",
+        "Single day with cold joint",
+        "Over 3 months continuously",
+        "Painless swelling only"
+      ],
+      "ans": 0,
+      "exp": "Duration 3–14 days; signs hot, red, dusky, swollen joint plus periarticular erythema; max intensity of pain 4–12 hrs. (Book p546)"
+    },
+    {
+      "id": "MED-C28-38",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "page": 546,
+      "fmt": "recall",
+      "q": "Which four stages appear in the printed staging table?",
+      "opts": [
+        "No staging system is printed",
+        "High uric acid levels, acute gout, intercritical gout and chronic gout",
+        "Prodrome, flare, tophus and surgery only",
+        "Latent, primary, secondary and tertiary"
+      ],
+      "ans": 1,
+      "exp": "Staging: 1. high uric acid levels; 2. acute gout; 3. intercritical gout; 4. chronic gout with frequent pain and tophi formation. (Book p546)"
+    },
+    {
+      "id": "MED-C28-39",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "recall",
+      "q": "Which joints and course describe subsequent gout attacks?",
+      "opts": [
+        "Shoulder exclusively",
+        "No subsequent attacks occur",
+        "Ankle, knee or wrist involvement with a variable course",
+        "First MTP only every time with fixed course"
+      ],
+      "ans": 2,
+      "exp": "Subsequent attacks: involvement of ankle / knee / wrist; variable course. (Book p547)"
+    },
+    {
+      "id": "MED-C28-40",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "oddoneout",
+      "q": "Which condition is listed with gout as having a symptom-free baseline?",
+      "opts": [
+        "Rheumatoid arthritis with continuous synovitis",
+        "Osteoarthritis with constant pain",
+        "Sepsis always symptomatic",
+        "Palindromic rheumatology (palindromic rheumatism)"
+      ],
+      "ans": 3,
+      "exp": "Symptom-free baseline seen in gout and palindromic rheumatology. (Book p547)"
+    },
+    {
+      "id": "MED-C28-41",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "oddoneout",
+      "q": "Which pair is printed as causes of acute monoarticular arthritis?",
+      "opts": [
+        "Gout and septic arthritis",
+        "RA and SLE",
+        "OA and fibromyalgia",
+        "GCA and PMR"
+      ],
+      "ans": 0,
+      "exp": "Acute monoarticular arthritis seen in gout and septic arthritis. (Book p547)"
+    },
+    {
+      "id": "MED-C28-42",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "numeric",
+      "q": "What WBC counts separate crystal arthritis from septic arthritis in the printed table?",
+      "opts": [
+        "Equal counts in both",
+        "Crystal 10,000–50,000 cells/ml; septic greater than 50,000",
+        "Crystal under 1,000; septic 2,000",
+        "Both always above 100,000"
+      ],
+      "ans": 1,
+      "exp": "Cytology table: WBC crystal arthritis 10,000–50,000; septic arthritis greater than 50,000. (Book p547)"
+    },
+    {
+      "id": "MED-C28-43",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "recall",
+      "q": "How do focus of infection, culture/gram stain and other features differ in the table?",
+      "opts": [
+        "Crystal has immunosuppression; septic has crystals",
+        "No differences are listed",
+        "Crystal: no focus, negative culture/gram stain, presence of crystals; septic: focus positive, culture positive, immunosuppression plus",
+        "Both have positive cultures"
+      ],
+      "ans": 2,
+      "exp": "Table rows: focus of infection − versus +; culture and gram stain negative versus positive; other features — presence of crystals versus immunosuppression +. (Book p547)"
+    },
+    {
+      "id": "MED-C28-44",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "recall",
+      "q": "What crystal morphology and birefringence are printed for gout on polarized light?",
+      "opts": [
+        "Rhomboid crystals with weak positive birefringence",
+        "Rectangular strongly positive crystals",
+        "Round non-birefringent bodies",
+        "Needle-shaped crystals with strong negative birefringence"
+      ],
+      "ans": 3,
+      "exp": "Polarized light microscopy: needle shaped crystals with strong negative birefringence. (Book p547)"
+    },
+    {
+      "id": "MED-C28-45",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "page": 547,
+      "fmt": "recall",
+      "q": "What orientation note is printed for gout crystals under polarizing microscopy?",
+      "opts": [
+        "Needle-shaped crystals are kept parallel to the light ray",
+        "Crystals must be perpendicular only",
+        "No orientation is needed",
+        "Crystals dissolve before viewing"
+      ],
+      "ans": 0,
+      "exp": "Note polarising light microscopy: needle-shaped crystals kept parallel to light ray. (Book p547)"
+    },
+    {
+      "id": "MED-C28-46",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "management",
+      "q": "Which first-line agents are printed for acute gout?",
+      "opts": [
+        "Methotrexate as sole therapy",
+        "Indomethacin 50 mg TDS, colchicine with its staged regimen, and intra-articular steroids",
+        "Allopurinol alone at presentation",
+        "Long-term warfarin"
+      ],
+      "ans": 1,
+      "exp": "First line: NSAIDs indomethacin 50 mg TDS; colchicine; intra-articular steroids. (Book p548)"
+    },
+    {
+      "id": "MED-C28-47",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "recall",
+      "q": "How does the printed colchicine regimen act and what schedule is given?",
+      "opts": [
+        "Uricosuric once weekly only",
+        "No scheduled regimen printed",
+        "Prevents neutrophil migration and chemotaxis; 1.2 mg stat → 0.6 mg after 1 hr → 0.6 mg BD × 1 week → 0.6 mg OD × 3–6 months",
+        "Blocks xanthine oxidase with single 5 mg dose"
+      ],
+      "ans": 2,
+      "exp": "Colchicine: prevents neutrophil migration & chemotaxis; 1.2 mg stat → 0.6 mg after 1 hr → 0.6 mg BD × 1 week → 0.6 mg OD × 3–6 months. (Book p548)"
+    },
+    {
+      "id": "MED-C28-48",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "management",
+      "q": "Which second-line trio is printed for gout flares?",
+      "opts": [
+        "Methotrexate, leflunomide and sulfasalazine",
+        "Colchicine plus probenecid only",
+        "Prednisolone plus allopurinol only",
+        "Anakinra (anti IL-1), single-dose IM ACTH injection, and IV pegloticase (recombinant uricase)"
+      ],
+      "ans": 3,
+      "exp": "Second line: anakinra anti IL-1; IM ACTH injection (single dose); IV pegloticase (recombinant uricase). (Book p548)"
+    },
+    {
+      "id": "MED-C28-49",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "recall",
+      "q": "Which three items form the printed ACR criteria of gout?",
+      "opts": [
+        "Acute monoarticular arthritis, hyperuricemia and dramatic response to colchicine",
+        "Only elevated ESR and RF positivity",
+        "Joint stiffness over one hour with malar rash",
+        "Tophi plus classically normal urate"
+      ],
+      "ans": 0,
+      "exp": "ACR criteria of gout: acute monoarticular arthritis; hyperuricemia; dramatic response to colchicine. (Book p548)"
+    },
+    {
+      "id": "MED-C28-50",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "numeric",
+      "q": "What relapse percentage and ongoing deposition note define the intercritical period?",
+      "opts": [
+        "Only 5% flare",
+        "60% second flare within a year with continued tophaceous deposition and erosion",
+        "100% never relapse with no deposition",
+        "0% relapse"
+      ],
+      "ans": 1,
+      "exp": "Intercritical period: symptom-free period, classical feature of crystal arthropathy; 60% second flare within a year; continued deposition of tophaceous gout and erosion. (Book p548)"
+    },
+    {
+      "id": "MED-C28-51",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "recall",
+      "q": "Which chronic-gout x-ray features are printed?",
+      "opts": [
+        "Pure osteopenia without lesions",
+        "Subchondral sclerosis alone",
+        "Asymmetric punched-out lytic lesions with overhanging edges (martel/G sign), sclerotic rat-bite erosions and maintained joint space",
+        "Symmetrical narrow joint space only"
+      ],
+      "ans": 2,
+      "exp": "Chronic gout x-ray: asymmetric, punched out lytic, overhanging edges — martel sign / G sign; sclerotic margins — rat bite erosions; joint space maintained. (Book p548)"
+    },
+    {
+      "id": "MED-C28-52",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "page": 548,
+      "fmt": "recall",
+      "q": "Which three structures are labeled on the knee ultrasound image?",
+      "opts": [
+        "Meniscus, ACL and bursa only",
+        "Effusion, synovium and cyst only",
+        "No labeled structures",
+        "Uric acid crystals, hypoechoic hyaline cartilage and femoral cortex"
+      ],
+      "ans": 3,
+      "exp": "Ultrasound of knee labels uric acid crystals, hypoechoic hyaline cartilage and femoral cortex. (Book p548)"
+    },
+    {
+      "id": "MED-C28-53",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "recall",
+      "q": "How are tophi defined on this page?",
+      "opts": [
+        "Irregular asymmetric moderately discrete tumescence of fingers due to subcutaneous MSUM crystal deposition, painless, sometimes with acute-on-chronic surrounding inflammation",
+        "Symmetrical warm nodules that are always painful",
+        "Intracellular lipid deposits",
+        "Calcium oxalate cones only"
+      ],
+      "ans": 0,
+      "exp": "Tophi: irregular asymmetric moderately discrete tumescence of fingers d/t s/c deposition of msum crystals; painless; acute on chronic — acute inflammation surrounding tophi. (Book p549)"
+    },
+    {
+      "id": "MED-C28-54",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "numeric",
+      "q": "Which tophus site is marked most common, and what other sites are listed?",
+      "opts": [
+        "Sacrum exclusively",
+        "Olecranon most common; also prepatellar bursa, ulnar surface, Achilles surface, myocardium and heart valves",
+        "First MTP only",
+        "Knee joint capsule only"
+      ],
+      "ans": 1,
+      "exp": "Sites: olecranon (m/c), prepatellar bursa, ulnar surface, Achilles surface, myocardium, heart valves. (Book p549)"
+    },
+    {
+      "id": "MED-C28-55",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "management",
+      "q": "Which xanthine-oxidase inhibitors and key toxicities are printed?",
+      "opts": [
+        "Colchicine as a xanthine oxidase blocker",
+        "Warfarin with bleeding risk",
+        "Febuxostat with cardiotoxicity; allopurinol 300 mg daily with HLA-B5801 hypersensitivity, hairfall, liver and renal disease",
+        "Methotrexate with hepatotoxicity only"
+      ],
+      "ans": 2,
+      "exp": "Xanthine oxidase inhibitors: febuxostat (s/e cardiotoxicity); allopurinol 300 mg daily (s/e hypersensitivity in HLA B58-01 susceptibility, hairfall, liver and renal disease). (Book p549)"
+    },
+    {
+      "id": "MED-C28-56",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "numeric",
+      "q": "What allopurinol daily dose and hypersensitivity gene are printed?",
+      "opts": [
+        "100 mg daily with HLA-B27",
+        "50 mg twice weekly with HLA-DR4",
+        "No fixed dose and no HLA link",
+        "300 mg daily with HLA-B5801 susceptibility"
+      ],
+      "ans": 3,
+      "exp": "Allopurinol 300 mg daily; s/e hypersensitivity in HLA B58-01 susceptibility. (Book p549)"
+    },
+    {
+      "id": "MED-C28-57",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "recall",
+      "q": "Which agents are listed as uricosurics that enhance uric-acid excretion?",
+      "opts": [
+        "Probenecid, sulfinpyrazone, benzbromarone, losartan (noted ACE inhibitor) and lesinurad",
+        "Allopurinol and febuxostat only",
+        "Colchicine and indomethacin only",
+        "Rasburicase and pegloticase"
+      ],
+      "ans": 0,
+      "exp": "Uricosuric agents: probenecid, sulfinpyrazone, benzbromarone, losartan (ACE inhibitor), lesinurad. (Book p549)"
+    },
+    {
+      "id": "MED-C28-58",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "management",
+      "q": "Which recombinant uricases are printed and where else are they used?",
+      "opts": [
+        "Allopurinol listed as a uricase",
+        "Rasburicase and pegloticase, also used in acute gout and tumour lysis syndrome",
+        "Uricase supplements as daily prophylaxis",
+        "Only pegloticase for chronic joints"
+      ],
+      "ans": 1,
+      "exp": "Recombinant uricase: rasburicase, pegloticase — also used in acute gout and TLS. (Book p549)"
+    },
+    {
+      "id": "MED-C28-59",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "page": 549,
+      "fmt": "numeric",
+      "q": "What interval between first attack and chronic gout is printed, and what drives tophus rate?",
+      "opts": [
+        "20 years only",
+        "Rate independent of urate level",
+        "12 years between first attack and chronic gout; tophus formation rate correlates with degree and duration of hyperuricemia",
+        "2 years with no correlation"
+      ],
+      "ans": 2,
+      "exp": "Features: 12 yrs between first attack and chronic gout; rate of tophus formation correlates with degree and duration of hyperuricemia. (Book p549)"
+    },
+    {
+      "id": "MED-C28-60",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "recall",
+      "q": "Which demographic, symptom and gene notes open the CPPD section?",
+      "opts": [
+        "Children with inflammatory monoarthritis and ANKH normal",
+        "Middle-aged with mandatory fever",
+        "No genetic association printed",
+        "Elderly, often asymptomatic and non-inflammatory, gene ANKH"
+      ],
+      "ans": 3,
+      "exp": "CPPD: age elderly; asymptomatic; non-inflammatory; gene ANKH. (Book p550)"
+    },
+    {
+      "id": "MED-C28-61",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "recall",
+      "q": "How is chondrocalcinosis defined as the first CPPD presentation?",
+      "opts": [
+        "Asymptomatic calcification of articular cartilage, predominantly of the knee",
+        "Painful erosion of the hip only",
+        "Soft-tissue mass without calcification",
+        "Septic arthritis equivalent"
+      ],
+      "ans": 0,
+      "exp": "1. Chondrocalcinosis: asymptomatic; calcification of articular cartilage; predominantly knee. (Book p550)"
+    },
+    {
+      "id": "MED-C28-62",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "scenario",
+      "q": "Acute monoarticular CPPD arthritis with bloody aspiration, no hematogenous focus and no response to antibiotics or colchicine shows rhomboid weak-positive crystals. Which diagnosis?",
+      "opts": [
+        "Rheumatoid flare",
+        "Pseudo-gout (CPPD acute arthritis)",
+        "Crystal-proven gout",
+        "Classic septic arthritis"
+      ],
+      "ans": 1,
+      "exp": "Acute monoarticular CPPD: bloody aspiration; no hematogenous source of foci; no response to antibiotics and colchicine; rhomboid crystals with weak positive birefringence; pseudo-gout. (Book p550)"
+    },
+    {
+      "id": "MED-C28-63",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "recall",
+      "q": "What morphology and birefringence are printed for CPPD crystals?",
+      "opts": [
+        "Pyramidal strongly positive crystals",
+        "Non-birefringent spheres",
+        "Rhomboid crystals with weak positive birefringence",
+        "Needle crystals with strong negative birefringence"
+      ],
+      "ans": 2,
+      "exp": "Rhomboid crystals with weak positive birefringence. (Book p550)"
+    },
+    {
+      "id": "MED-C28-64",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "recall",
+      "q": "How is the chronic inflammatory CPPD polyarthritis pattern described?",
+      "opts": [
+        "Rapidly erosive like classic RA",
+        "Pure mechanical OA",
+        "Always monoarticular",
+        "Waxing and waning, non-erosive, pseudo-RA"
+      ],
+      "ans": 3,
+      "exp": "3. Chronic inflammatory polyarthritis: waxing & waning progression; non-erosive; pseudo RA. (Book p550)"
+    },
+    {
+      "id": "MED-C28-65",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "recall",
+      "q": "What MCP/wrist pattern with hook-like osteophytes is printed, and which disease is linked?",
+      "opts": [
+        "Second and third MCP with wrist hook-like osteophytes seen in hemochromatosis; pseudo-OA",
+        "First CMC only with no link",
+        "DIP nodes with Wilson disease",
+        "No osteophytes in CPPD"
+      ],
+      "ans": 0,
+      "exp": "4. Involvement of MCP (2nd, 3rd), wrist: hook like osteophytes (seen in hemochromatosis); pseudo-OA. (Book p550)"
+    },
+    {
+      "id": "MED-C28-66",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "recall",
+      "q": "Which late presentations round out the CPPD list?",
+      "opts": [
+        "Isolated calcinosis cutis",
+        "Pseudo-neuropathic disease like Charcot; spondyloarthritis with crowned dens syndrome (dens in atlas); septic arthritis usually knee with fever",
+        "Only chondrocalcinosis",
+        "Gouty tophi only"
+      ],
+      "ans": 1,
+      "exp": "5. Pseudo neuropathic disease presents like Charcot's; 6. spondyloarthritis — crowned dens syndrome (dens in atlas); 7. septic arthritis (m/c knee): fever. (Book p550)"
+    },
+    {
+      "id": "MED-C28-67",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 550,
+      "fmt": "oddoneout",
+      "q": "Which condition is printed as a CPPD association rather than a non-association?",
+      "opts": [
+        "Familial Mediterranean fever",
+        "Primary hyperoxaluria",
+        "Hypomagnesemia as seen in Gitelman syndrome",
+        "Normal calcium with normal PTH"
+      ],
+      "ans": 2,
+      "exp": "Associations: hyperparathyroidism; hypophosphatasia (d/d of rickets with ↓ alkaline phosphatase); hypomagnesemia (seen in Gitelman syndrome); hemochromatosis. (Book p550)"
+    },
+    {
+      "id": "MED-C28-68",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 551,
+      "fmt": "recall",
+      "q": "What crystal class and optical property define basic calcium phosphate?",
+      "opts": [
+        "CPPD crystals that are weakly positive",
+        "MSUM needles that are strongly negative",
+        "Oxalate pyramids strongly positive",
+        "Hydroxyapatite deposition that is non-birefringent"
+      ],
+      "ans": 3,
+      "exp": "Basic calcium phosphate: deposition of calcium hydroxyapatite crystals; non-birefringent. (Book p551)"
+    },
+    {
+      "id": "MED-C28-69",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 551,
+      "fmt": "recall",
+      "q": "Which three BCP presentations are printed?",
+      "opts": [
+        "Chronic calcific periarthritis most common in supraspinatus tendon; Milwaukee shoulder with rotator-cuff arthropathy and glenohumeral destruction; calcinosis cutis",
+        "Only Milwaukee shoulder",
+        "Gouty tophi only",
+        "Pseudo-gout alone"
+      ],
+      "ans": 0,
+      "exp": "Presentations: chronic calcific periarthritis m/c supraspinatus tendon; Milwaukee shoulder — rotator cuff arthropathy + glenohumeral destruction; calcinosis cutis. (Book p551)"
+    },
+    {
+      "id": "MED-C28-70",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 551,
+      "fmt": "recall",
+      "q": "Which diseases are listed under calcinosis cutis?",
+      "opts": [
+        "RA and OA",
+        "CREST syndrome and juvenile dermatomyositis (lipodystrophy, myofascial involvement)",
+        "SLE and scleroderma only",
+        "Gout and CPPD"
+      ],
+      "ans": 1,
+      "exp": "Calcinosis cutis seen in CREST syndrome and juvenile dermatomyositis (lipodystrophy, myofascial involvement). (Book p551)"
+    },
+    {
+      "id": "MED-C28-71",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 551,
+      "fmt": "recall",
+      "q": "What shape and birefringence are printed for calcium oxalate crystals, and what type-system is given?",
+      "opts": [
+        "Rhomboids weakly positive",
+        "Non-birefringent plates",
+        "Pyramidal envelope-shaped crystals with strong positive birefringence; primary in hyperoxaluria, secondary in CKD",
+        "Needles with strong negative birefringence"
+      ],
+      "ans": 2,
+      "exp": "Calcium oxalate: strong positive birefringence; pyramidal, envelope shaped crystals; primary — hyperoxaluria, secondary — CKD. (Book p551)"
+    },
+    {
+      "id": "MED-C28-72",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "page": 551,
+      "fmt": "management",
+      "q": "What treatment note is printed for hyperoxaluria?",
+      "opts": [
+        "Colchicine alone",
+        "Allopurinol monotherapy",
+        "No transplant needed",
+        "Combined kidney and liver transplantation"
+      ],
+      "ans": 3,
+      "exp": "Note: mx of hyperoxaluria → combined kidney & liver transplantation. (Book p551)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U28-1",
+      "ch": 28,
+      "n": 1,
+      "title": "1. Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "sec": "Crystal types, inflammasome pathogenesis and uric-acid metabolism",
+      "guide": "Four crystal classes and the inflammasome→IL-1β axis open the chapter. MSUM presentations and the purine-to-uric-acid pathway with absent uricase follow in printed order.\nAMP/GMP branches and xanthine oxidase positions are retained exactly.",
+      "qs": [
+        "MED-C28-01",
+        "MED-C28-02",
+        "MED-C28-03",
+        "MED-C28-04",
+        "MED-C28-05",
+        "MED-C28-06",
+        "MED-C28-07",
+        "MED-C28-08",
+        "MED-C28-09"
+      ]
+    },
+    {
+      "id": "MED-U28-2",
+      "ch": 28,
+      "n": 2,
+      "title": "2. Purine pools, stone thresholds and the four-compartment renal model",
+      "sec": "Purine pools, stone thresholds and the four-compartment renal model",
+      "guide": "Dietary and endogenous purines feed a 1.2 g uric-acid pool with intestinal and renal excretion. Stone risk thresholds and the 100/50/40/10 tubular model follow.\nNet 90% reabsorption, PCT-only handling and FEUA in RTA close the unit.",
+      "qs": [
+        "MED-C28-10",
+        "MED-C28-11",
+        "MED-C28-12",
+        "MED-C28-13",
+        "MED-C28-14",
+        "MED-C28-15",
+        "MED-C28-16",
+        "MED-C28-17",
+        "MED-C28-18"
+      ]
+    },
+    {
+      "id": "MED-U28-3",
+      "ch": 28,
+      "n": 3,
+      "title": "3. Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "sec": "Asymptomatic hyperuricemia: thresholds, genetics and drug causes",
+      "guide": "Metabolic-syndrome link and sex-specific thresholds open the unit. Pregnancy-age nephron pathway and the genetic enzyme table with Lesch-Nyhan/von Gierke follow.\nCANT LEAP drugs and progression to chronic tophaceous gout close the page.",
+      "qs": [
+        "MED-C28-19",
+        "MED-C28-20",
+        "MED-C28-21",
+        "MED-C28-22",
+        "MED-C28-23",
+        "MED-C28-24",
+        "MED-C28-25",
+        "MED-C28-26",
+        "MED-C28-27"
+      ]
+    },
+    {
+      "id": "MED-U28-4",
+      "ch": 28,
+      "n": 4,
+      "title": "4. Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "sec": "Hyperuricemia modifiers, renal manifestations and acute gouty arthritis",
+      "guide": "Kelley threshold and modifiable factors precede the three renal outcomes. Acute gout demographics, King Henry label, first-attack features and four-stage table follow.\nHot-red-dusky signs and 3–14-day duration are retained as printed.",
+      "qs": [
+        "MED-C28-28",
+        "MED-C28-29",
+        "MED-C28-30",
+        "MED-C28-31",
+        "MED-C28-32",
+        "MED-C28-33",
+        "MED-C28-34",
+        "MED-C28-35",
+        "MED-C28-36",
+        "MED-C28-37",
+        "MED-C28-38"
+      ]
+    },
+    {
+      "id": "MED-U28-5",
+      "ch": 28,
+      "n": 5,
+      "title": "5. Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "sec": "Subsequent attacks, synovial-fluid distinction and polarized-light proof",
+      "guide": "Ankle/knee/wrist subsequent attacks and symptom-free baseline notes lead investigations. Crystal versus septic synovial table with WBC cut-offs follows.\nNeedle-shaped strong negative birefringence parallel to the light ray closes the unit.",
+      "qs": [
+        "MED-C28-39",
+        "MED-C28-40",
+        "MED-C28-41",
+        "MED-C28-42",
+        "MED-C28-43",
+        "MED-C28-44",
+        "MED-C28-45"
+      ]
+    },
+    {
+      "id": "MED-U28-6",
+      "ch": 28,
+      "n": 6,
+      "title": "6. Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "sec": "Acute gout treatment, ACR criteria, intercritical course and chronic imaging",
+      "guide": "First-line indomethacin, colchicine regimen and intra-articular steroids lead. Second-line anakinra, ACTH and pegloticase plus ACR triad follow.\nIntercritical 60% relapse, martel/rat-bite x-ray and knee ultrasound signs close the unit.",
+      "qs": [
+        "MED-C28-46",
+        "MED-C28-47",
+        "MED-C28-48",
+        "MED-C28-49",
+        "MED-C28-50",
+        "MED-C28-51",
+        "MED-C28-52"
+      ]
+    },
+    {
+      "id": "MED-U28-7",
+      "ch": 28,
+      "n": 7,
+      "title": "7. Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "sec": "Tophi, xanthine-oxidase inhibitors, uricosurics and uricases",
+      "guide": "Tophus morphology, acute-on-chronic flares and preferred sites open the unit. Febuxostat/allopurinol with HLA-B5801 hypersensitivity lead the hypouricemics.\nUricosuric list, recombinant uricases and 12-year natural history close Chapter 28's gout therapy.",
+      "qs": [
+        "MED-C28-53",
+        "MED-C28-54",
+        "MED-C28-55",
+        "MED-C28-56",
+        "MED-C28-57",
+        "MED-C28-58",
+        "MED-C28-59"
+      ]
+    },
+    {
+      "id": "MED-U28-8",
+      "ch": 28,
+      "n": 8,
+      "title": "8. CPPD presentations, associations and the basic crystal remainder",
+      "sec": "CPPD presentations, associations and the basic crystal remainder",
+      "guide": "Elderly ANKH-linked CPPD opens with chondrocalcinosis and pseudo-gout features. Pseudo-RA, hook osteophytes, crowned dens and association list follow.\nBCP Milwaukee/CREST material and calcium-oxalate transplant note close Chapter 28.",
+      "qs": [
+        "MED-C28-60",
+        "MED-C28-61",
+        "MED-C28-62",
+        "MED-C28-63",
+        "MED-C28-64",
+        "MED-C28-65",
+        "MED-C28-66",
+        "MED-C28-67",
+        "MED-C28-68",
+        "MED-C28-69",
+        "MED-C28-70",
+        "MED-C28-71",
+        "MED-C28-72"
+      ]
+    }
+  ]
+}

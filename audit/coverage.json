@@ -7224,6 +7224,1212 @@
     "question": "MED-C26-80"
   },
   {
+    "chapter": 27,
+    "page": 532,
+    "point": "The classification tree places shoulder and hip (root joints) under axial SpA, which then divides into non-radiographic and radiographic axial SpA.",
+    "question": "MED-C27-01"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "Peripheral SpA (peripheral involvement greater than axial) lists reactive arthritis, psoriatic arthritis and IBD enteropathic arthritis.",
+    "question": "MED-C27-02"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "The tree annotates juvenile idiopathic arthritis as AKA juvenile onset SpA.",
+    "question": "MED-C27-03"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "Shared features begin with HLA B27 association (varying degrees).",
+    "question": "MED-C27-04"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "Features list m/c extra-articular manifestation as acute anterior alternating asymmetric uveitis (4A uveitis).",
+    "question": "MED-C27-05"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "SpA features print absence of rheumatoid factor and absence of subcutaneous nodules and extra-articular features of RA.",
+    "question": "MED-C27-06"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "Non-radiographic axial SpA clinical features are inflammatory back pain (exacerbated by rest, relieved by activity), alternating buttock pain due to sacroiliitis and deep low back pain, with no radiographic evidence of sacroiliitis.",
+    "question": "MED-C27-07"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "Non-radiographic axial SpA: no radiographic evidence (x-ray features of sacroiliitis), MRI may show active sacroiliitis and it may have HLA B27 association.",
+    "question": "MED-C27-08"
+  },
+  {
+    "chapter": 27,
+    "page": 532,
+    "point": "The conversion arrow prints 5% in 5–10 years to radiographic axial SpA whose x-ray features of sacroiliitis are syndesmophytes, bony ankylosis, bamboo spine and spinal fracture; extra-articular manifestations may be seen.",
+    "question": "MED-C27-09"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Inflammatory granulation tissue lists erosion of annulus fibrosis and nucleus pulposus, and calcification of peripheral fibres of annulus fibrosis as syndesmophytes.",
+    "question": "MED-C27-10"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Under the calcification arm the vertical osteophyte is annotated thin, delicate, marginal, symmetrical.",
+    "question": "MED-C27-11"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Gliding of vertebra over one another leads to bony ankylosis, producing bamboo spine and square wave vertebra (loss of concavity).",
+    "question": "MED-C27-12"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Complication lists spinal fracture with m/c site C5–C6.",
+    "question": "MED-C27-13"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Inflammatory mediators listed are TNF alpha and IL-17, IL-23.",
+    "question": "MED-C27-14"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Presentation is structured as synovitis plus enthesitis (inflammation of tendon, ligament, capsule, fascia).",
+    "question": "MED-C27-15"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Under synovitis, B/L sacroiliitis is annotated as hallmark and earliest manifestation.",
+    "question": "MED-C27-16"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Presentation prints M:F = 3:1, age early 20s and HLA B27 association in 90% of AS.",
+    "question": "MED-C27-17"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Enthesitis examples: Achilles tendinitis is annotated classical; plantar fasciitis and costochondritis follow.",
+    "question": "MED-C27-18"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Inflammatory back pain aspects: duration >3 months (chronic), improvement with exercise, improvement with NSAIDs and no improvement of pain with rest; morning stiffness minimum 30 minutes.",
+    "question": "MED-C27-19"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Aspects list onset before 45 yrs, location lower back and alternating buttock pain.",
+    "question": "MED-C27-20"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Aspects include waking up from sleep due to back pain and morning stiffness (minimum 30 mins).",
+    "question": "MED-C27-21"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "The final inflammatory-back-pain aspect annotates involvement of shoulders and hip joint as poor prognosis.",
+    "question": "MED-C27-22"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Extra-articular features print 4A uveitis m/c; CVS aortic regurgitation, ascending aortitis, conduction blocks; renal secondary IgA nephropathy; lungs upper lobe interstitial lung disease (NSIP); chest pain from costochondritis/manubriosternal enthesitis plus ascending thoracic spine; and osteoporosis.",
+    "question": "MED-C27-23"
+  },
+  {
+    "chapter": 27,
+    "page": 533,
+    "point": "Chest pain is d/t enthesitis at costochondritis or manubriosternal joint plus ascending thoracic spine.",
+    "question": "MED-C27-24"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Note: Upper Lobe ILD — sarcoidosis, ankylosing spondylitis.",
+    "question": "MED-C27-25"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Note prints osteoporosis: RA > AS > sarcoidosis > SLE.",
+    "question": "MED-C27-26"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Investigation: MRI — STIR sequence; STIR = Short Tau Inversion Recovery; hyperintensity: inconclusive.",
+    "question": "MED-C27-27"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "The MRI strip is captioned semi-coronal T1, semi-coronal T1FS, semi-coronal STIR and semi-axial STIR.",
+    "question": "MED-C27-28"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Grade 0 caption reads normal joints.",
+    "question": "MED-C27-29"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Grade 1 shows slight blurring of cortical margins of lower 1/3rd of each joint and is marked earliest x-ray sign.",
+    "question": "MED-C27-30"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Grade 2 caption: blurring + sclerosis.",
+    "question": "MED-C27-31"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Grade 3 lists loss of margins and widening of joint space.",
+    "question": "MED-C27-32"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "Grade 4 caption: joint ankylosis.",
+    "question": "MED-C27-33"
+  },
+  {
+    "chapter": 27,
+    "page": 534,
+    "point": "The page captions B/L sacroiliitis (grade 2/3) and a bamboo spine image.",
+    "question": "MED-C27-34"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "Dagger sign: calcification of interspinous ligament; shown with dagger spine, rail-road sign and trolley-track sign panels.",
+    "question": "MED-C27-35"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "Trolley track sign: calcification of joint capsule.",
+    "question": "MED-C27-36"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "Romanus sign: erosion of corner; shiny corner sign: sclerosis of vertebra; square wave vertebra: vertebra become square-like.",
+    "question": "MED-C27-37"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "Landmark is posterior superior iliac spine; diagram labels A to B = 15 cm with 10 cm and 5 cm segments.",
+    "question": "MED-C27-38"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "Forward bending with knee in extension; A to B 20 cm (minimum) is normal, less than 20 cm is abnormal.",
+    "question": "MED-C27-39"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "Treatment: non-radiological axial SpA — NSAIDs when needed; AS — exercise, physiotherapy (most important).",
+    "question": "MED-C27-40"
+  },
+  {
+    "chapter": 27,
+    "page": 535,
+    "point": "NSAID: indomethacin 50 mg TID, naproxen, ibuprofen — first line, prevent progression of disease, duration 2–3 wks.",
+    "question": "MED-C27-41"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "The treatment continuation prints anti TNF alpha: adalimumab and anti IL-17: secukinumab.",
+    "question": "MED-C27-42"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "Intra-articular steroids: for pain relief.",
+    "question": "MED-C27-43"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "DISH (diffuse idiopathic skeletal hyperostosis): elderly male, non-inflammatory, part of metabolic syndrome.",
+    "question": "MED-C27-44"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "DISH lists ligamentous calcification and flowing wax appearance in x-ray; dorsal and lumbar spine films illustrate the flow.",
+    "question": "MED-C27-45"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "Reactive arthritis was previously known as Reiter's syndrome (urethritis, arthritis, conjunctivitis).",
+    "question": "MED-C27-46"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "m/c extra-articular manifestation: 4A uveitis; m > F, 20–40 yrs.",
+    "question": "MED-C27-47"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "Flowchart: infection → 2–4 weeks → arthritis with peripheral and axial (30%) arms.",
+    "question": "MED-C27-48"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "The flowchart prints 20% progressing to chronic arthritis.",
+    "question": "MED-C27-49"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "Genitourinary: Chlamydia trachomatis (m/c cause worldwide) with M:F = 9:1.",
+    "question": "MED-C27-50"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "Gastrointestinal: Shigella flexneri (m/c cause in India) with M:F = 1:1; Salmonella and Campylobacter follow.",
+    "question": "MED-C27-51"
+  },
+  {
+    "chapter": 27,
+    "page": 536,
+    "point": "Note: E. coli and neisseria are not causative agents.",
+    "question": "MED-C27-52"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "Acute sterile arthritis: organism not isolated from synovial fluid; organisms inside monocytes of synovium are detected by PCR of synovial fluid.",
+    "question": "MED-C27-53"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "HLA B-27 association in 50%–70% cases is linked to chronicity and prognosis.",
+    "question": "MED-C27-54"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "Asymmetrical peripheral arthritis: starts at knee joint; oligoarthritis greater than monoarthritis; additive — progressive involvement of joints; painful.",
+    "question": "MED-C27-55"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "Clinical manifestations: synovitis plus predominant enthesitis plus dactylitis; images show Achilles enthesitis and sausage-digit dactylitis.",
+    "question": "MED-C27-56"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "1. Keratoderma blennorrhagicum: hyperkeratotic, crusty vesicles on palms and soles, painless. 2. Circinate balanitis: shallow erythematous ulcers of glans penis, painless.",
+    "question": "MED-C27-57"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "Note: D/d for keratoderma blennorrhagicum — palmo-plantar psoriasis.",
+    "question": "MED-C27-58"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "Axial involvement of reactive arthritis (30%) with asymmetric sacroiliitis.",
+    "question": "MED-C27-59"
+  },
+  {
+    "chapter": 27,
+    "page": 537,
+    "point": "Syndesmophytes d/t paravertebral ossification: thick, large, coarse, fluffy, non-marginal.",
+    "question": "MED-C27-60"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Other manifestations: heart — aortic regurgitation (m/c), conduction blocks; kidney — secondary IgA nephropathy.",
+    "question": "MED-C27-61"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Outcome/chronicity: unrelated to initial severity.",
+    "question": "MED-C27-62"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Investigations: ESR CRP increased; synovial fluid PCR identifies organism.",
+    "question": "MED-C27-63"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Note: gonococcal arthritis has migratory upper limb and lower limb arthritis.",
+    "question": "MED-C27-64"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Treatment: NSAIDs — indomethacin 50 mg TID; intraarticular steroid to alleviate pain; DMARD — sulfasalazine for chronic reactive arthritis (15%–20%).",
+    "question": "MED-C27-65"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Enteropathic arthritis AKA IBD associated arthritis; M:F = 1:1; Crohn's disease greater than ulcerative colitis.",
+    "question": "MED-C27-66"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Peripheral (25%) greater than axial pattern (10%).",
+    "question": "MED-C27-67"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Axial arthritis: presentation similar to ankylosing spondylitis; HLA B-27 association in 50% cases; symmetric sacroiliitis; no correlation to bowel activity; no enthesitis, dactylitis.",
+    "question": "MED-C27-68"
+  },
+  {
+    "chapter": 27,
+    "page": 538,
+    "point": "Type 1 LMAP arthritis: more common; flares correlate with bowel disease; associated factors episcleritis, erythema nodosum, arthritis — versus Type 2 SMAP-u: less common, no correlation, uveitis.",
+    "question": "MED-C27-69"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Type 1 LMAP arthritis row: large joint (knee predominant), migratory, asymmetric, pauciarticular arthritis (lower limb greater than upper limb).",
+    "question": "MED-C27-70"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Type 1 treatment/prognosis: self-limiting, good prognosis.",
+    "question": "MED-C27-71"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Type 2 SMAP-u arthritis: small joint (MCP), migratory, aggressive, chronic, symmetrical, polyarticular arthritis.",
+    "question": "MED-C27-72"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Type 2 treatment: anti TNF alpha — DOC, infliximab.",
+    "question": "MED-C27-73"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Note: calprotectin, lactoferrin in stools for bowel flare.",
+    "question": "MED-C27-74"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Psoriatic arthritis: 7%–40% of psoriatic cases develop arthritis; plaque type psoriasis.",
+    "question": "MED-C27-75"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Age greater than 40 yrs; M:F = 1:1; HLA CW-06 02, HLA B27 (arthritis).",
+    "question": "MED-C27-76"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "60/30/30 rule: 60% psoriasis → arthritis, 20% psoriasis + arthritis, 20% arthritis → psoriasis, plus nail changes in 90%.",
+    "question": "MED-C27-77"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Clinical manifestation: synovitis + dactylitis + enthesitis + axial involvement (cervical spine).",
+    "question": "MED-C27-78"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "Thick, non-marginal, asymmetric arthritis; no mucocutaneous involvement is listed in the manifestation block.",
+    "question": "MED-C27-79"
+  },
+  {
+    "chapter": 27,
+    "page": 539,
+    "point": "CVS: aortic regurgitation, conduction block; renal: 2° IgA nephropathy; B/L chronic posterior uveitis.",
+    "question": "MED-C27-80"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "The captions guttate psoriasis and erythrodermis psoriasis carry the note not associated with arthritis.",
+    "question": "MED-C27-81"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "Pustular psoriasis: most destructive arthritis; rule out HIV.",
+    "question": "MED-C27-82"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "Nail changes (90%): yellow nail margin (longitudinal).",
+    "question": "MED-C27-83"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "Nail panels: deep and coarse nail pitting; onycholysis with subungual hyperkeratosis; oil drop sign (classical); longitudinal ridging.",
+    "question": "MED-C27-84"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "The oil drop sign panel is annotated classical.",
+    "question": "MED-C27-85"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "Wright and Moll: symmetric polyarthritis (m/c type) — involvement of DIP, skin lesion, nail changes; D/d RA (involvement of small joints).",
+    "question": "MED-C27-86"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "Classification continues with asymmetrical oligoarthritis, predominant DIP arthritis, predominant spondyloarthritis (axial pattern 5%, cervical predominance) and arthritis mutilans: complete destruction.",
+    "question": "MED-C27-87"
+  },
+  {
+    "chapter": 27,
+    "page": 540,
+    "point": "Predominant spondyloarthritis: axial pattern (5%), cervical predominance.",
+    "question": "MED-C27-88"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "Image captions: arthritis mutilans; dactylitis; corn foot.",
+    "question": "MED-C27-89"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "Difference table row Psoriasis: psoriatic arthritis +, rheumatoid arthritis −.",
+    "question": "MED-C27-90"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "Symmetric: RA ++ greater than PsA +, while asymmetric, enthesopathy, dactylitis, nail dystrophy and HIV association favor PsA.",
+    "question": "MED-C27-91"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "Table rows enthesopathy, dactylitis, nail dystrophy and HIV association are + for PsA and − for RA.",
+    "question": "MED-C27-92"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "Progression: rapid progression to bony ankylosis; CASPER criteria; no diagnostic testing.",
+    "question": "MED-C27-93"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "The page pairs an ivory phalanx hand film with the progression and CASPER notes for psoriatic arthritis.",
+    "question": "MED-C27-94"
+  },
+  {
+    "chapter": 27,
+    "page": 541,
+    "point": "Syndesmophytes: thin, vertical and symmetrical in the AP illustration.",
+    "question": "MED-C27-95"
+  },
+  {
+    "chapter": 27,
+    "page": 542,
+    "point": "Paravertebral ossification: large, coarse, asymmetrical; seen in Reiter's syndrome and psoriatic arthropathy; the film is captioned non-marginal syndesmophyte.",
+    "question": "MED-C27-96"
+  },
+  {
+    "chapter": 27,
+    "page": 542,
+    "point": "Pencil-in-cup deformity is illustrated radiographically and schematically versus a normal phalanx.",
+    "question": "MED-C27-97"
+  },
+  {
+    "chapter": 27,
+    "page": 542,
+    "point": "Whiskering: marginal erosion with adjacent bone proliferation.",
+    "question": "MED-C27-98"
+  },
+  {
+    "chapter": 27,
+    "page": 542,
+    "point": "Telescoping of digits; ray pattern — erosion of MCP, PIP, DIP in same finger; 100% psoriatic X-ray.",
+    "question": "MED-C27-99"
+  },
+  {
+    "chapter": 27,
+    "page": 542,
+    "point": "Treatment lists anti TNF alpha drugs, apremilast (PDE 4 inhibitor), methotrexate, leflunomide, ustekinumab, secukinumab and tofacitinib.",
+    "question": "MED-C27-100"
+  },
+  {
+    "chapter": 27,
+    "page": 542,
+    "point": "Apremilast is annotated PDE 4 inhibitor.",
+    "question": "MED-C27-101"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "Types: 1. monosodium urate monohydrate (msum); 2. calcium pyrophosphate dihydrate (CPPD); 3. basic calcium phosphate (BCP) — calcium hydroxy apatite; 4. calcium oxalate.",
+    "question": "MED-C28-01"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "BCP is written as calcium hydroxy apatite Ca5(PO4)3OH.",
+    "question": "MED-C28-02"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "Pathogenesis: autoinflammatory syndrome; activation of inflammasomal pathway; inflammasomes are innate-immunity intracellular protein complexes containing caspases that convert Pro-IL1β to IL-1β.",
+    "question": "MED-C28-03"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "Parenthetical note: inflammasomes — innate immunity, intracellular protein complex containing caspases.",
+    "question": "MED-C28-04"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "MSUM presentations: asymptomatic hyperuricemia, renal manifestations, gouty arthritis.",
+    "question": "MED-C28-05"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "URIC ACID source: purines (adenine, guanine).",
+    "question": "MED-C28-06"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "The metabolism diagram places xanthine oxidase on the hypoxanthine→xanthine→uric acid steps.",
+    "question": "MED-C28-07"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "Note: uric acid —uricase→ allantoin (not present in humans → uric acid not metabolised).",
+    "question": "MED-C28-08"
+  },
+  {
+    "chapter": 28,
+    "page": 543,
+    "point": "AMP → adenosine —(adenosine deaminase)→ inosine → hypoxanthine → xanthine → uric acid.",
+    "question": "MED-C28-09"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Diagram: uric acid pool 1.2 g; intestine (0.2 g/day); kidney (0.5 g/day); excretion (0.7 g/day).",
+    "question": "MED-C28-10"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Excretion greater than 7 mg/kg/d → uricosuria.",
+    "question": "MED-C28-11"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Important causes of stone formation: >7 uric acid — hyperuricosuria; >4 calcium — hypercalciuria (m/c); <11 citrate — hypocitraturia.",
+    "question": "MED-C28-12"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "The calcium row is annotated m/c for stone formation.",
+    "question": "MED-C28-13"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "4 compartment model: 100 / 50 / 40 / 10.",
+    "question": "MED-C28-14"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Model: 100% filtered in glomerulus; 100% reabsorbed at S1; 50% secreted at S2; 40% reabsorbed at S3; 10% excreted in urine.",
+    "question": "MED-C28-15"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Net reabsorption of 90% of filtered uric acid.",
+    "question": "MED-C28-16"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Uric acid and phosphorus metabolism takes place only in PCT.",
+    "question": "MED-C28-17"
+  },
+  {
+    "chapter": 28,
+    "page": 544,
+    "point": "Fractional excretion of uric acid and phosphorus: increased in proximal RTA; normal in distal RTA.",
+    "question": "MED-C28-18"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Asymptomatic hyperuricemia: hyperuricemia is a part of metabolic syndrome.",
+    "question": "MED-C28-19"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Levels: greater than 6 mg/dl in females, greater than 7 mg/dl in males.",
+    "question": "MED-C28-20"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Age at pregnancy flow: ↑age → small for gestational age babies → pre-eclampsia → ↓nephron number → metabolic syndrome as adults.",
+    "question": "MED-C28-21"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Unidentified (majority): 90% under-excretion, 10% over-production of urate.",
+    "question": "MED-C28-22"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "HGPRTase deficiency → Lesch Nyhan syndrome: hyperuricemia, self-mutilation, mental retardation.",
+    "question": "MED-C28-23"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Glucose 6 phosphatase deficiency → von Gierke's disease / glycogen storage disease type 1 with hepatomegaly, hyperlipidemia, hyperuricemia, doll facies, hypoglycemia and seizures.",
+    "question": "MED-C28-24"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Table rows: fructose 1 phosphate aldolase deficiency; phosphoribosyl pyrophosphate (PRPP) synthase overactivity.",
+    "question": "MED-C28-25"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Secondary drug-induced hyperuricemia mnemonic CANT LEAP: cyclosporine, alcohol, nicotine, thiazide diuretics, loop diuretics, ethambutol, aspirin low dose, pyrazinamide.",
+    "question": "MED-C28-26"
+  },
+  {
+    "chapter": 28,
+    "page": 545,
+    "point": "Progression: prolonged asymptomatic hyperuricemia → increased risk of acute gout with multiple episodes → chronic tophaceous gout.",
+    "question": "MED-C28-27"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Note: greater than 6.8 mg/dl (Kelley's textbook).",
+    "question": "MED-C28-28"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Factors affecting: age, blood pressure, alcohol, diet (sea food, red meat), Sr. creatinine — platelet count is not listed.",
+    "question": "MED-C28-29"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Sr. urate increases in men at puberty, women at menopause; pregnancy is a hyperuricemic state.",
+    "question": "MED-C28-30"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Renal manifestations table: uric acid nephropathy via TLS precipitation in tubules → AKI; urate nephropathy via chronic tubulo-interstitial disease → CKD; urolithiasis when excretion exceeds 7 mg/kg/day.",
+    "question": "MED-C28-31"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Uric acid nephropathy pathogenesis: tumour lysis syndrome → precipitation of uric acid in tubules → AKI.",
+    "question": "MED-C28-32"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Acute gouty arthritis: sex M (80%) greater than F (post-menopausal); age 40–60 yrs.",
+    "question": "MED-C28-33"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Trigger: alcohol (m/c); AKA disease of King (d/t presentation in King Henry).",
+    "question": "MED-C28-34"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "First attack: 1st MTP joint (85%); uric acid normal or low in 40%.",
+    "question": "MED-C28-35"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "15% have polyarticular involvement, associated with myeloproliferative neoplasm and post transplantation.",
+    "question": "MED-C28-36"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Duration 3–14 days; signs hot, red, dusky, swollen joint plus periarticular erythema; max intensity of pain 4–12 hrs.",
+    "question": "MED-C28-37"
+  },
+  {
+    "chapter": 28,
+    "page": 546,
+    "point": "Staging: 1. high uric acid levels; 2. acute gout; 3. intercritical gout; 4. chronic gout with frequent pain and tophi formation.",
+    "question": "MED-C28-38"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Subsequent attacks: involvement of ankle / knee / wrist; variable course.",
+    "question": "MED-C28-39"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Symptom-free baseline seen in gout and palindromic rheumatology.",
+    "question": "MED-C28-40"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Acute monoarticular arthritis seen in gout and septic arthritis.",
+    "question": "MED-C28-41"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Cytology table: WBC crystal arthritis 10,000–50,000; septic arthritis greater than 50,000.",
+    "question": "MED-C28-42"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Table rows: focus of infection − versus +; culture and gram stain negative versus positive; other features — presence of crystals versus immunosuppression +.",
+    "question": "MED-C28-43"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Polarized light microscopy: needle shaped crystals with strong negative birefringence.",
+    "question": "MED-C28-44"
+  },
+  {
+    "chapter": 28,
+    "page": 547,
+    "point": "Note polarising light microscopy: needle-shaped crystals kept parallel to light ray.",
+    "question": "MED-C28-45"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "First line: NSAIDs indomethacin 50 mg TDS; colchicine; intra-articular steroids.",
+    "question": "MED-C28-46"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "Colchicine: prevents neutrophil migration & chemotaxis; 1.2 mg stat → 0.6 mg after 1 hr → 0.6 mg BD × 1 week → 0.6 mg OD × 3–6 months.",
+    "question": "MED-C28-47"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "Second line: anakinra anti IL-1; IM ACTH injection (single dose); IV pegloticase (recombinant uricase).",
+    "question": "MED-C28-48"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "ACR criteria of gout: acute monoarticular arthritis; hyperuricemia; dramatic response to colchicine.",
+    "question": "MED-C28-49"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "Intercritical period: symptom-free period, classical feature of crystal arthropathy; 60% second flare within a year; continued deposition of tophaceous gout and erosion.",
+    "question": "MED-C28-50"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "Chronic gout x-ray: asymmetric, punched out lytic, overhanging edges — martel sign / G sign; sclerotic margins — rat bite erosions; joint space maintained.",
+    "question": "MED-C28-51"
+  },
+  {
+    "chapter": 28,
+    "page": 548,
+    "point": "Ultrasound of knee labels uric acid crystals, hypoechoic hyaline cartilage and femoral cortex.",
+    "question": "MED-C28-52"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Tophi: irregular asymmetric moderately discrete tumescence of fingers d/t s/c deposition of msum crystals; painless; acute on chronic — acute inflammation surrounding tophi.",
+    "question": "MED-C28-53"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Sites: olecranon (m/c), prepatellar bursa, ulnar surface, Achilles surface, myocardium, heart valves.",
+    "question": "MED-C28-54"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Xanthine oxidase inhibitors: febuxostat (s/e cardiotoxicity); allopurinol 300 mg daily (s/e hypersensitivity in HLA B58-01 susceptibility, hairfall, liver and renal disease).",
+    "question": "MED-C28-55"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Allopurinol 300 mg daily; s/e hypersensitivity in HLA B58-01 susceptibility.",
+    "question": "MED-C28-56"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Uricosuric agents: probenecid, sulfinpyrazone, benzbromarone, losartan (ACE inhibitor), lesinurad.",
+    "question": "MED-C28-57"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Recombinant uricase: rasburicase, pegloticase — also used in acute gout and TLS.",
+    "question": "MED-C28-58"
+  },
+  {
+    "chapter": 28,
+    "page": 549,
+    "point": "Features: 12 yrs between first attack and chronic gout; rate of tophus formation correlates with degree and duration of hyperuricemia.",
+    "question": "MED-C28-59"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "CPPD: age elderly; asymptomatic; non-inflammatory; gene ANKH.",
+    "question": "MED-C28-60"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "1. Chondrocalcinosis: asymptomatic; calcification of articular cartilage; predominantly knee.",
+    "question": "MED-C28-61"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "Acute monoarticular CPPD: bloody aspiration; no hematogenous source of foci; no response to antibiotics and colchicine; rhomboid crystals with weak positive birefringence; pseudo-gout.",
+    "question": "MED-C28-62"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "Rhomboid crystals with weak positive birefringence.",
+    "question": "MED-C28-63"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "3. Chronic inflammatory polyarthritis: waxing & waning progression; non-erosive; pseudo RA.",
+    "question": "MED-C28-64"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "4. Involvement of MCP (2nd, 3rd), wrist: hook like osteophytes (seen in hemochromatosis); pseudo-OA.",
+    "question": "MED-C28-65"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "5. Pseudo neuropathic disease presents like Charcot's; 6. spondyloarthritis — crowned dens syndrome (dens in atlas); 7. septic arthritis (m/c knee): fever.",
+    "question": "MED-C28-66"
+  },
+  {
+    "chapter": 28,
+    "page": 550,
+    "point": "Associations: hyperparathyroidism; hypophosphatasia (d/d of rickets with ↓ alkaline phosphatase); hypomagnesemia (seen in Gitelman syndrome); hemochromatosis.",
+    "question": "MED-C28-67"
+  },
+  {
+    "chapter": 28,
+    "page": 551,
+    "point": "Basic calcium phosphate: deposition of calcium hydroxyapatite crystals; non-birefringent.",
+    "question": "MED-C28-68"
+  },
+  {
+    "chapter": 28,
+    "page": 551,
+    "point": "Presentations: chronic calcific periarthritis m/c supraspinatus tendon; Milwaukee shoulder — rotator cuff arthropathy + glenohumeral destruction; calcinosis cutis.",
+    "question": "MED-C28-69"
+  },
+  {
+    "chapter": 28,
+    "page": 551,
+    "point": "Calcinosis cutis seen in CREST syndrome and juvenile dermatomyositis (lipodystrophy, myofascial involvement).",
+    "question": "MED-C28-70"
+  },
+  {
+    "chapter": 28,
+    "page": 551,
+    "point": "Calcium oxalate: strong positive birefringence; pyramidal, envelope shaped crystals; primary — hyperoxaluria, secondary — CKD.",
+    "question": "MED-C28-71"
+  },
+  {
+    "chapter": 28,
+    "page": 551,
+    "point": "Note: mx of hyperoxaluria → combined kidney & liver transplantation.",
+    "question": "MED-C28-72"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Adult Onset Still's Disease: age 25–45 yrs; systemic form of presentation.",
+    "question": "MED-C29-01"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Features: prodromal phase — sore throat.",
+    "question": "MED-C29-02"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Clinical triad: fever — persistent high spiking reaches subnormal levels during day (quotidian).",
+    "question": "MED-C29-03"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Salmon colored rash: transient evanescent maculo papular rash.",
+    "question": "MED-C29-04"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Arthritis: symmetric, polyarticular (knee greater than wrist greater than ankle greater than elbow).",
+    "question": "MED-C29-05"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Progress to severe/destructive arthritis in 25% of cases; joint erosions m/c in children.",
+    "question": "MED-C29-06"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Serositis, lymphadenopathy and hepatosplenomegaly are bracketed as bad prognosis.",
+    "question": "MED-C29-07"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Blood parameters: leukocytosis; ESR increased; CRP increased; ferritin increased; S. albumin decreased.",
+    "question": "MED-C29-08"
+  },
+  {
+    "chapter": 29,
+    "page": 552,
+    "point": "Yamaguchi criteria (greater than 5): major — fever (>39°C) for 7 days; arthritis/arthralgia for 2 weeks; rash; leukocytosis.",
+    "question": "MED-C29-09"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "minor: sore throat; negative ANA, RF; hepatosplenomegaly, lymphadenopathy; abnormal ALT/AST.",
+    "question": "MED-C29-10"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "HLH: rheumatological emergency; seen in 10% of AOSD.",
+    "question": "MED-C29-11"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Features: pancytopenia; ESR decreased; unsubsiding fever; fibrinogen decreased; ferritin increased increased; triglycerides increased.",
+    "question": "MED-C29-12"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Complications: bleeding d/t thrombocytopenia; transient thrombocytopenic purpura; DIC with consumptive coagulopathy; AA amyloidosis.",
+    "question": "MED-C29-13"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Treatment: steroid — pulse therapy then oral therapy.",
+    "question": "MED-C29-14"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Treatment of AOSD: mild — NSAID; no response → steroid + methotrexate → anti IL-1, IL-6.",
+    "question": "MED-C29-15"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Note: sulfasalazine is avoided.",
+    "question": "MED-C29-16"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Susceptible host: children, elderly; immunocompromised; IV drug abuse (oligo/polyarticular).",
+    "question": "MED-C29-17"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Clinical presentation: fever; pain + limited range of motion (m/c: knee); no h/o similar episode.",
+    "question": "MED-C29-18"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Causes: infection (20%) — staph. aureus greater than strep. pneumonia greater than gram-negative bacillus; spread: hematogenous.",
+    "question": "MED-C29-19"
+  },
+  {
+    "chapter": 29,
+    "page": 553,
+    "point": "Other causes: trauma; tumour; osteoarthritis of single joint; sarcoidosis.",
+    "question": "MED-C29-20"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "D/d: tendinitis, bursitis to be ruled out; hemophilia — similar presentation.",
+    "question": "MED-C29-21"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Table: host — gonococcal young healthy versus septic immunocompromised; pattern — migratory polyarthralgia/arthritis versus monoarticular arthritis.",
+    "question": "MED-C29-22"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Tenosynovitis + and skin rash + favor gonococcal, with less culture yield and good prognosis versus septic negative for both, more yield and poor prognosis.",
+    "question": "MED-C29-23"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Diagnosis: synovial fluid analysis — gold standard; WBC greater than 50000 /μL.",
+    "question": "MED-C29-24"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Rx: antibiotics — vancomycin + ceftriaxone; drainage indications — thick pus; shoulder, hip joint involvement.",
+    "question": "MED-C29-25"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Chronic monoarticular arthritis causes: TB; fungal disease; Lyme; sarcoidosis; spondyloarthritis; non-inflammatory.",
+    "question": "MED-C29-26"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Approach to arthritis begins with monoarticular arthritis and polyarticular arthritis branches.",
+    "question": "MED-C29-27"
+  },
+  {
+    "chapter": 29,
+    "page": 554,
+    "point": "Monoarticular branches septic and crystal; polyarticular branches acute (undifferentiated, post viral) and chronic inflammatory: RA with d/d SLE and psoriatic arthritis.",
+    "question": "MED-C29-28"
+  },
+  {
     "chapter": 33,
     "page": 566,
     "point": "Language is defined as the basic concept of communication and is a dominant-hemisphere function; its abnormality is aphasia.",

@@ -28,6 +28,12 @@ release_u = sum(len(c["units"]) for c in release)
 release_pages = sum(
     int(c["pageRange"].split("-")[1]) - int(c["pageRange"].split("-")[0]) + 1 for c in release
 )
+cur = [c for c in chapters_data if 27 <= c["chapter"] <= 29]
+cur_q = sum(len(c["questions"]) for c in cur)
+cur_u = sum(len(c["units"]) for c in cur)
+cur_pages = sum(
+    int(c["pageRange"].split("-")[1]) - int(c["pageRange"].split("-")[0]) + 1 for c in cur
+)
 previous = [c for c in chapters_data if 16 <= c["chapter"] <= 26]
 previous_q = sum(len(c["questions"]) for c in previous)
 previous_u = sum(len(c["units"]) for c in previous)
@@ -55,15 +61,41 @@ not_live = compress(sorted(set(range(1, 58)) - live))
 
 out = []
 out.append("# PULSE Medicine Vol 2 — Progress\n")
-out.append("Updated **2026-09-23**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.\n")
+out.append("Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.\n")
 out.append("- Repository: `Deva20045/Med-V2`")
-out.append("- Session branch: `arena/01a0cf1f-med-v2`")
+out.append("- Session branch: `arena/01a0d219-med-v2`")
 out.append("- Published URL: https://deva20045.github.io/Med-V2/")
 out.append("- Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.")
 out.append(f"- **Build status: {len(live)} live chapters / 57 · {total_q} questions / {total_u} units.** "
            f"Chapters {not_live} remain `live:false`.\n")
 
-out.append("## This release — Chapters 33–38\n")
+out.append("## This release — Chapters 27–29\n")
+out.append("Three consecutive rheumatology chapters were rendered from `uploads/02.pdf`, read block by block, "
+           "source-ordered and made live (Book p532–554, all in `uploads/02.pdf` PDF64–86):\n")
+out.append("| Ch | Title | Printed pages | Questions | Units |")
+out.append("|---:|---|---:|---:|---:|")
+for c in cur:
+    out.append(f"| {c['chapter']} | {c['title']} | {c['pageRange'].replace('-', '–')} "
+               f"| {len(c['questions'])} | {len(c['units'])} |")
+out.append(f"| **Release total** |  | **{cur_pages} book pages** | **{cur_q}** | **{cur_u}** |\n")
+out.append("### Quality and ordering contract delivered\n")
+out.append("1. All pages were read in printed order (`uploads/02.pdf` PDF64–86 = Book p532–554), including "
+           "flowchart arms, comparison tables, numeric thresholds, diagram labels, notes, management ladders "
+           "and drug doses. Scans have no extractable text: every reading used 2× PyMuPDF renders with "
+           "FILE-tagged verification, and every printed page number was verified against the page map.")
+out.append(f"2. Every source-mapped learning target has a four-option, citation-backed question in "
+           f"`audit/coverage.json`; Chapters 27–29 add **{cur_q} ordered mappings**, bringing the audited "
+           f"ledger to **{len(cov)} mappings** for Chapters 2–38.")
+out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, "
+           "mechanism-based recall, numeric interpretation, management decisions and discriminating "
+           "odd-one-out cases use plausible medical distractors.")
+out.append("4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question "
+           "lists are exact contiguous slices of source order, and every explanation ends with its exact "
+           "`(Book pX)` citation.")
+out.append(f"5. Chapters 27–29 are embedded in the standalone app and all {len(live)} roadmap flags for live "
+           "chapters are set.\n")
+
+out.append("## Previous release — Chapters 33–38\n")
 out.append("Six consecutive neurology chapters were rendered from the scans, read block by block, "
            "source-ordered and made live (Book p566–601, all in `uploads/03.pdf`; printed p586, p590 and p591 "
            "are absent from the supplied scan and are transparently flagged in the ledger):\n")
@@ -83,7 +115,7 @@ out.append("1. All pages were read in printed order (`uploads/03.pdf` PDF5–37 
 out.append(f"2. Every source-mapped learning target has a four-option, citation-backed question in "
            f"`audit/coverage.json`; Chapters 33–38 add **{release_q} ordered mappings**, bringing the audited "
            f"ledger to **{len(cov)} mappings** for Chapters 2–38. Every target is marked asked.")
-out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–26 or 33–38. "
+out.append("3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. "
            "Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating "
            "odd-one-out cases use plausible medical distractors.")
 out.append("4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question "
@@ -133,8 +165,9 @@ out.append("- **02.pdf PDF3–9: p470–476 (Ch18)**")
 out.append("- **02.pdf PDF10–16: p477–483 (Ch19)**")
 out.append("- **02.pdf PDF17–23: p484–490 (Ch20)**")
 out.append("- **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**")
-out.append("- 02.pdf PDF64–93: p532–561 (Ch27–32 territory, not yet live)")
-out.append("- 03.pdf PDF1–4: p562–565 (Ch27–32 territory, not yet live)")
+out.append("- **02.pdf PDF64–86: p532–554 (Ch27–29)**")
+out.append("- 02.pdf PDF87–93: p555–561 (Ch30–32 territory, not yet live)")
+out.append("- 03.pdf PDF1–4: p562–565 (Ch30–32 territory, not yet live)")
 out.append("- **03.pdf PDF5–10: p566–571 (Ch33–34)**")
 out.append("- **03.pdf PDF11–21: p572–582 (Ch35–36)**")
 out.append("- **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**")
@@ -155,8 +188,9 @@ out.append("# Generate/edit chapter artifacts only when source artefacts need re
 out.append("python3 tools/generate_ch09_15.py        # Chapters 9-15")
 out.append("python3 tools/generate_ch16_20.py        # Chapters 16-20")
 out.append("python3 tools/generate_ch21_26.py        # Chapters 21-26")
+out.append("python3 tools/generate_ch27_29.py        # Chapters 27-29")
 out.append("python3 tools/generate_ch33_38.py        # Chapters 33-38")
-out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-26, Ch33-38)")
+out.append("python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-29, Ch33-38)")
 out.append("python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md")
 out.append("")
 out.append("# Fail-closed source gate, standalone-app build, and embedded-array gate.")
