@@ -1,0 +1,2083 @@
+{
+  "chapter": 40,
+  "title": "Generalised Tonic-Clonic Seizure",
+  "pageRange": "608-612",
+  "questions": [
+    {
+      "id": "MED-C40-01",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "GTCS causes and Syncope heading timestamp is:",
+      "opts": [
+        "00:01:42",
+        "00:13:36",
+        "00:20:21",
+        "00:32:51"
+      ],
+      "ans": 0,
+      "exp": "GTCS causes and Syncope heading timestamp 00:01:42 (Book p608)"
+    },
+    {
+      "id": "MED-C40-02",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Causes of GTCS 1. Metabolic includes:",
+      "opts": [
+        "Vasovagal syncope",
+        "Hypoglycemia",
+        "Hyperglycemia with ketoacidosis",
+        "K+ and PO4 abnormalities produce seizures"
+      ],
+      "ans": 1,
+      "exp": "Causes of GTCS 1. metabolic: Hypoglycemia (Book p608)"
+    },
+    {
+      "id": "MED-C40-03",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Electrolyte causes listed under metabolic include:",
+      "opts": [
+        "↓ PO4 alone produces seizures",
+        "↑ PO4 alone produces seizures",
+        "↓ Na+",
+        "↑ K+"
+      ],
+      "ans": 2,
+      "exp": "Electrolyte causes: ↓ Na+ (Book p608)"
+    },
+    {
+      "id": "MED-C40-04",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "↑ Na+ is noted as:",
+      "opts": [
+        "↑ Na+ common",
+        "↓ Na+ rare",
+        "↑ Ca2+ rare",
+        "↑ Na+ (rare)"
+      ],
+      "ans": 3,
+      "exp": "Electrolyte ↑ Na+ (rare) (Book p608)"
+    },
+    {
+      "id": "MED-C40-05",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Calcium abnormality listed is:",
+      "opts": [
+        "↓ Ca2+ / ↓ Ca2+ + ↑ PO4 3-",
+        "↑ Ca2+ / ↓ Ca2+ only",
+        "↑ PO4 alone",
+        "K+ and PO4 produce seizures"
+      ],
+      "ans": 0,
+      "exp": "Electrolyte ↓ Ca2+ / ↓ Ca2+ + ↑ PO4 3- (Book p608)"
+    },
+    {
+      "id": "MED-C40-06",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Magnesium abnormality listed is:",
+      "opts": [
+        "↑ Na+ common",
+        "↓ Mg2+",
+        "↑ Mg2+ common",
+        "↓ K+"
+      ],
+      "ans": 1,
+      "exp": "Electrolyte ↓ Mg2+ (Book p608)"
+    },
+    {
+      "id": "MED-C40-07",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "↑ Mg2+ is noted as:",
+      "opts": [
+        "↓ Mg2+ rare",
+        "↓ Ca2+ rare",
+        "↑ Mg2+ (rare)",
+        "↑ Mg2+ common"
+      ],
+      "ans": 2,
+      "exp": "Electrolyte ↑ Mg2+ (rare) (Book p608)"
+    },
+    {
+      "id": "MED-C40-08",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Encephalopathy causes listed are:",
+      "opts": [
+        "HSV-1 and JE",
+        "Alcohol and Barbiturate",
+        "Vasovagal and Cardiac",
+        "Hepatic and Uremic"
+      ],
+      "ans": 3,
+      "exp": "Encephalopathy: Hepatic, Uremic (Book p608)"
+    },
+    {
+      "id": "MED-C40-09",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "oddoneout",
+      "q": "Pick ODD ONE OUT - K+ and PO4 abnormalities:",
+      "opts": [
+        "Abnormalities don't produce seizures",
+        "Abnormalities produce seizures commonly",
+        "Abnormalities produce status epilepticus",
+        "Abnormalities cause GTCS"
+      ],
+      "ans": 0,
+      "exp": "Note: K+, PO4 3-: Abnormalities don't produce seizures (Book p608)"
+    },
+    {
+      "id": "MED-C40-10",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Encephalitis viral causes include:",
+      "opts": [
+        "Lithium",
+        "HSV-1 encephalitis",
+        "Theophylline",
+        "Imipenem"
+      ],
+      "ans": 1,
+      "exp": "Encephalitis Viral: HSV-1 encephalitis (Book p608)"
+    },
+    {
+      "id": "MED-C40-11",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "MRI in HSV-1 encephalitis shows:",
+      "opts": [
+        "White matter hyperintensities",
+        "Hippocampal sclerosis only",
+        "B/L Temporal lobe hyperintensity",
+        "B/L PCA lesion"
+      ],
+      "ans": 2,
+      "exp": "HSV-1 encephalitis MRI: B/L Temporal lobe hyperintensity (Book p608)"
+    },
+    {
+      "id": "MED-C40-12",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "management",
+      "q": "Rx for HSV-1 encephalitis is:",
+      "opts": [
+        "IVIg PLEX",
+        "Penicillin",
+        "Ceftriaxone 2gm IV BD",
+        "Acyclovir"
+      ],
+      "ans": 3,
+      "exp": "HSV-1 encephalitis Rx: Acyclovir (Book p608)"
+    },
+    {
+      "id": "MED-C40-13",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Autoimmune encephalitis antibody listed is:",
+      "opts": [
+        "Anti NMDA Ab",
+        "Anti Na Ab",
+        "Anti CRMP5 Ab",
+        "Anti Hu 2 Ab"
+      ],
+      "ans": 0,
+      "exp": "Encephalitis Autoimmune: Anti NMDA Ab (Book p608)"
+    },
+    {
+      "id": "MED-C40-14",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Other encephalitis etiology listed is:",
+      "opts": [
+        "Situational syncope",
+        "Paraneoplastic",
+        "Vasovagal",
+        "Orthostatic hypotension"
+      ],
+      "ans": 1,
+      "exp": "Encephalitis Paraneoplastic (Book p608)"
+    },
+    {
+      "id": "MED-C40-15",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Brain injury cause is described as:",
+      "opts": [
+        "Benign disease",
+        "Severe brain parenchyma involved",
+        "Remote/long standing",
+        "Acute and catastrophic"
+      ],
+      "ans": 2,
+      "exp": "Brain injury (Remote/long standing) (Book p608)"
+    },
+    {
+      "id": "MED-C40-16",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Post stroke seizures are listed as which number cause?",
+      "opts": [
+        "4. Brain injury",
+        "6. Drug non adherence",
+        "7. Drugs",
+        "5. Post stroke seizures"
+      ],
+      "ans": 3,
+      "exp": "Post stroke seizures listed as 5 (Book p608)"
+    },
+    {
+      "id": "MED-C40-17",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Drug non adherence/discontinuation is cause number:",
+      "opts": [
+        "6. Drug non adherence/discontinuation",
+        "5. Post stroke seizures",
+        "7. Drugs",
+        "8. Withdrawal seizures"
+      ],
+      "ans": 0,
+      "exp": "Drug non adherence/discontinuation is cause 6 (Book p608)"
+    },
+    {
+      "id": "MED-C40-18",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Drugs listed as epileptogenic include theophylline, imipenem, cefepime and:",
+      "opts": [
+        "IVIg",
+        "Quinolones",
+        "Penicillin",
+        "Acyclovir"
+      ],
+      "ans": 1,
+      "exp": "Drugs: Theophylline, Imipenem, Cefepime, Quinolones (Book p608)"
+    },
+    {
+      "id": "MED-C40-19",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Additional drugs listed are lithium and:",
+      "opts": [
+        "Lamotrigine",
+        "Levetiracetam",
+        "TCA",
+        "Valproate"
+      ],
+      "ans": 2,
+      "exp": "Drugs Lithium, TCA (Book p608)"
+    },
+    {
+      "id": "MED-C40-20",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Withdrawal seizures include alcohol, barbiturate and:",
+      "opts": [
+        "Theophylline",
+        "Imipenem",
+        "Cefepime",
+        "Benzodiazepine (BZD)"
+      ],
+      "ans": 3,
+      "exp": "Withdrawal seizures: Alcohol, Barbiturate, Benzodiazepine (BZD) (Book p608)"
+    },
+    {
+      "id": "MED-C40-21",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "page": 608,
+      "fmt": "recall",
+      "q": "Syncope types listed are vasovagal, cardiac, orthostatic hypotension and:",
+      "opts": [
+        "Situational syncope",
+        "GTCS",
+        "Atonic seizures",
+        "Myotonic seizures"
+      ],
+      "ans": 0,
+      "exp": "Syncope Types: vasovagal, Cardiac, Orthostatic hypotension, Situational syncope (Book p608)"
+    },
+    {
+      "id": "MED-C40-22",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Seizure vs Syncope immediate precipitating factors for seizure are:",
+      "opts": [
+        "Usually erect posture",
+        "Usually none",
+        "Emotional stress, valsalva, orthostatic hypotension, cardiac etiologies",
+        "Tiredness, nausea, diaphoresis, tunneling of vision"
+      ],
+      "ans": 1,
+      "exp": "Seizure vs Syncope Immediate precipitating factors Seizure Usually none (Book p609)"
+    },
+    {
+      "id": "MED-C40-23",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Immediate precipitating factors for syncope are:",
+      "opts": [
+        "None or aura odd odor",
+        "Variable",
+        "Emotional stress, valsalva, orthostatic hypotension, cardiac etiologies",
+        "Usually none"
+      ],
+      "ans": 2,
+      "exp": "Syncope Immediate precipitating factors Emotional stress, valsalva, orthostatic hypotension, cardiac etiologies (Book p609)"
+    },
+    {
+      "id": "MED-C40-24",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Premonitory symptoms in seizure are:",
+      "opts": [
+        "Tiredness, nausea, diaphoresis, tunneling of vision",
+        "Emotional stress valsalva",
+        "Usually erect",
+        "None or aura (Eg: Odd odor)"
+      ],
+      "ans": 3,
+      "exp": "Premonitory symptoms Seizure None or aura (Eg: Odd odor) (Book p609)"
+    },
+    {
+      "id": "MED-C40-25",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Premonitory symptoms in syncope are:",
+      "opts": [
+        "Tiredness, nausea, diaphoresis, tunneling of vision",
+        "None or aura odd odor",
+        "Usually none",
+        "Variable"
+      ],
+      "ans": 0,
+      "exp": "Premonitory symptoms Syncope Tiredness, nausea, diaphoresis, tunneling of vision (Book p609)"
+    },
+    {
+      "id": "MED-C40-26",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Posture at onset in seizure is:",
+      "opts": [
+        "Seconds",
+        "Variable",
+        "Usually erect",
+        "Gradual over seconds"
+      ],
+      "ans": 1,
+      "exp": "Posture at onset Seizure Variable (Book p609)"
+    },
+    {
+      "id": "MED-C40-27",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Posture at onset in syncope is:",
+      "opts": [
+        "Often immediate",
+        "Minutes",
+        "Usually erect",
+        "Variable"
+      ],
+      "ans": 2,
+      "exp": "Posture at onset Syncope Usually erect (Book p609)"
+    },
+    {
+      "id": "MED-C40-28",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Transition to unconsciousness in seizure is:",
+      "opts": [
+        "Gradual over seconds",
+        "Seconds",
+        "Never >15 s",
+        "Often immediate"
+      ],
+      "ans": 3,
+      "exp": "Transition to unconsciousness Seizure Often immediate (Book p609)"
+    },
+    {
+      "id": "MED-C40-29",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Transition to unconsciousness in syncope is:",
+      "opts": [
+        "Gradual over seconds",
+        "Often immediate",
+        "Minutes",
+        "30-60 s"
+      ],
+      "ans": 0,
+      "exp": "Transition Syncope Gradual over seconds (Book p609)"
+    },
+    {
+      "id": "MED-C40-30",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "numeric",
+      "q": "Duration of unconsciousness in seizure is:",
+      "opts": [
+        "Never >15 s",
+        "Minutes",
+        "Seconds",
+        "<5 min"
+      ],
+      "ans": 1,
+      "exp": "Duration of unconsciousness Seizure Minutes (Book p609)"
+    },
+    {
+      "id": "MED-C40-31",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "numeric",
+      "q": "Duration of unconsciousness in syncope is:",
+      "opts": [
+        "Many minutes to hours",
+        "30-60 s",
+        "Seconds",
+        "Minutes"
+      ],
+      "ans": 2,
+      "exp": "Duration of unconsciousness Syncope Seconds (Book p609)"
+    },
+    {
+      "id": "MED-C40-32",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "numeric",
+      "q": "Duration of tonic or clonic movements in seizure is:",
+      "opts": [
+        "Never >15 s",
+        "Seconds",
+        "<5 min",
+        "30-60 s"
+      ],
+      "ans": 3,
+      "exp": "Duration of tonic or clonic movements Seizure 30-60 s (Book p609)"
+    },
+    {
+      "id": "MED-C40-33",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "numeric",
+      "q": "Duration of tonic or clonic movements in syncope is:",
+      "opts": [
+        "Never >15 s",
+        "30-60 s",
+        "Minutes",
+        "Many minutes to hours"
+      ],
+      "ans": 0,
+      "exp": "Duration of tonic or clonic movements Syncope Never >15 s (Book p609)"
+    },
+    {
+      "id": "MED-C40-34",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Facial appearance during event in seizure is:",
+      "opts": [
+        "Flushing",
+        "Cyanosis, frothing at mouth",
+        "Pallor",
+        "Normal"
+      ],
+      "ans": 1,
+      "exp": "Facial appearance during event Seizure Cyanosis, frothing at mouth (Book p609)"
+    },
+    {
+      "id": "MED-C40-35",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Facial appearance during event in syncope is:",
+      "opts": [
+        "Cyanosis",
+        "Flushing",
+        "Pallor",
+        "Cyanosis frothing at mouth"
+      ],
+      "ans": 2,
+      "exp": "Facial appearance Syncope Pallor (Book p609)"
+    },
+    {
+      "id": "MED-C40-36",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Disorientation and sleepiness after event in seizure is:",
+      "opts": [
+        "<5 min",
+        "Sometimes",
+        "Rarely",
+        "Many minutes to hours"
+      ],
+      "ans": 3,
+      "exp": "Disorientation and sleepiness after event Seizure Many minutes to hours (Book p609)"
+    },
+    {
+      "id": "MED-C40-37",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Disorientation after event in syncope is:",
+      "opts": [
+        "<5 min",
+        "Many minutes to hours",
+        "Often",
+        "Sometimes"
+      ],
+      "ans": 0,
+      "exp": "Disorientation after event Syncope <5 min (Book p609)"
+    },
+    {
+      "id": "MED-C40-38",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Aching of muscles after event in seizure is:",
+      "opts": [
+        "Never",
+        "Often",
+        "Sometimes",
+        "Rarely"
+      ],
+      "ans": 1,
+      "exp": "Aching of muscles after event Seizure Often (Book p609)"
+    },
+    {
+      "id": "MED-C40-39",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Aching of muscles after event in syncope is:",
+      "opts": [
+        "Rarely",
+        "Many minutes to hours",
+        "Sometimes",
+        "Often"
+      ],
+      "ans": 2,
+      "exp": "Aching of muscles after event Syncope Sometimes (Book p609)"
+    },
+    {
+      "id": "MED-C40-40",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Biting of tongue in seizure vs syncope is:",
+      "opts": [
+        "Often vs Sometimes",
+        "Rarely vs Sometimes",
+        "Never vs Always",
+        "Sometimes vs Rarely"
+      ],
+      "ans": 3,
+      "exp": "Biting of tongue Seizure Sometimes, Syncope Rarely (Book p609)"
+    },
+    {
+      "id": "MED-C40-41",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Incontinence in seizure vs syncope is:",
+      "opts": [
+        "Sometimes vs Rarely",
+        "Often vs Sometimes",
+        "Rarely vs Sometimes",
+        "Never >15 s"
+      ],
+      "ans": 0,
+      "exp": "Incontinence Seizure Sometimes, Syncope Rarely (Book p609)"
+    },
+    {
+      "id": "MED-C40-42",
+      "sec": "Seizure vs Syncope Comparison",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Headache in seizure vs syncope is:",
+      "opts": [
+        "Cyanosis vs Pallor",
+        "Sometimes vs Rarely",
+        "Often vs Sometimes",
+        "Many minutes to hours vs <5 min"
+      ],
+      "ans": 1,
+      "exp": "Headache Seizure Sometimes, Syncope Rarely (Book p609)"
+    },
+    {
+      "id": "MED-C40-43",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Management of GTCS heading timestamp is:",
+      "opts": [
+        "00:20:21",
+        "00:32:51",
+        "00:13:36",
+        "00:01:42"
+      ],
+      "ans": 2,
+      "exp": "Management of GTCS timestamp 00:13:36 (Book p609)"
+    },
+    {
+      "id": "MED-C40-44",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "New onset seizure first splits into:",
+      "opts": [
+        "Complex partial and Simple partial",
+        "Non motor and Motor",
+        "LOC+ and LOC-",
+        "Focal and Generalized"
+      ],
+      "ans": 3,
+      "exp": "New Onset Seizure splits into Focal and Generalized (Book p609)"
+    },
+    {
+      "id": "MED-C40-45",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Focal LOC+ is:",
+      "opts": [
+        "Complex Partial Seizure (CPS)",
+        "Simple Partial Seizure (SPS)",
+        "Absence Seizure",
+        "GTCS"
+      ],
+      "ans": 0,
+      "exp": "Focal LOC+ Complex Partial Seizure (CPS) (Book p609)"
+    },
+    {
+      "id": "MED-C40-46",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Focal LOC- is:",
+      "opts": [
+        "GTCS",
+        "Simple Partial Seizure (SPS)",
+        "Complex Partial Seizure (CPS)",
+        "Absence Seizure"
+      ],
+      "ans": 1,
+      "exp": "Focal LOC- Simple Partial Seizure (SPS) (Book p609)"
+    },
+    {
+      "id": "MED-C40-47",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Generalized non motor is:",
+      "opts": [
+        "Atonic seizures",
+        "Myotonic seizures",
+        "Absence Seizure",
+        "GTCS"
+      ],
+      "ans": 2,
+      "exp": "Generalized Non motor Absence Seizure (Book p609)"
+    },
+    {
+      "id": "MED-C40-48",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Generalized motor includes:",
+      "opts": [
+        "CPS and SPS only",
+        "Absence only",
+        "Vasovagal and cardiac",
+        "GTCS, Atonic seizures, myotonic seizures"
+      ],
+      "ans": 3,
+      "exp": "Generalized motor GTCS, Atonic seizures, myotonic seizures (Book p609)"
+    },
+    {
+      "id": "MED-C40-49",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "management",
+      "q": "Antiepileptic drugs for CPS medial temporal lobe epilepsy include:",
+      "opts": [
+        "Carbamazepine, Oxcarbazepine",
+        "Valproate > Lamotrigine only",
+        "Ethosuximide only",
+        "Folic acid only"
+      ],
+      "ans": 0,
+      "exp": "CPS (medial temporal lobe epilepsy): Carbamazepine, Oxcarbazepine (Book p609)"
+    },
+    {
+      "id": "MED-C40-50",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "management",
+      "q": "Other AED for CPS include lamotrigine and:",
+      "opts": [
+        "Felbamate",
+        "Levetiracetam",
+        "Valproate only",
+        "Ethosuximide"
+      ],
+      "ans": 1,
+      "exp": "CPS Lamotrigine, Levetiracetam (Book p609)"
+    },
+    {
+      "id": "MED-C40-51",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "management",
+      "q": "Absence Typical, Atypical and JME drugs are:",
+      "opts": [
+        "Carbamazepine only",
+        "Oxcarbazepine only",
+        "Valproate, Lamotrigine, Topiramate",
+        "Carbamazepine, Oxcarbazepine"
+      ],
+      "ans": 2,
+      "exp": "Absence Typical Atypical JME Valproate Lamotrigine Topiramate (Book p609)"
+    },
+    {
+      "id": "MED-C40-52",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "recall",
+      "q": "Note for ethosuximide is:",
+      "opts": [
+        "Typical absence >12 years",
+        "Atypical absence lifelong",
+        "GTCS first line",
+        "Typical absence <3 years"
+      ],
+      "ans": 3,
+      "exp": "Note Ethosuximide Typical absence <3 years (Book p609)"
+    },
+    {
+      "id": "MED-C40-53",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "page": 609,
+      "fmt": "management",
+      "q": "GTCS AED hierarchy is:",
+      "opts": [
+        "Valproate > Lamotrigine",
+        "Carbamazepine > Oxcarbazepine",
+        "Ethosuximide > Valproate",
+        "Lamotrigine > Valproate"
+      ],
+      "ans": 0,
+      "exp": "GTCS Valproate > Lamotrigine (Book p609)"
+    },
+    {
+      "id": "MED-C40-54",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "management",
+      "q": "Pregnancy best AED with least teratogenicity is:",
+      "opts": [
+        "Topiramate",
+        "Lamotrigine (Best)",
+        "Valproate",
+        "Carbamazepine"
+      ],
+      "ans": 1,
+      "exp": "Pregnancy Lamotrigine (Best): Least teratogenic (Book p610)"
+    },
+    {
+      "id": "MED-C40-55",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "management",
+      "q": "If already on AED in pregnancy, give:",
+      "opts": [
+        "Switch to valproate",
+        "Add carbamazepine",
+        "Folic Acid supplementation",
+        "Stop all AED"
+      ],
+      "ans": 2,
+      "exp": "If already on AED Folic Acid supplementation (Book p610)"
+    },
+    {
+      "id": "MED-C40-56",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Side effect of carbamazepine is:",
+      "opts": [
+        "↑ Risk of SIADH",
+        "Suicidal ideation",
+        "Alopecia",
+        "Steven Johnson Syndrome (SJS)"
+      ],
+      "ans": 3,
+      "exp": "Side effect Carbamazepine Steven Johnson Syndrome (SJS) (Book p610)"
+    },
+    {
+      "id": "MED-C40-57",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Oxcarbazepine side effect is:",
+      "opts": [
+        "↑ Risk of SIADH (↓ Na+) more than Carbamazepine",
+        "SJS only",
+        "Suicidal ideation",
+        "Weight gain"
+      ],
+      "ans": 0,
+      "exp": "Oxcarbazepine ↑ Risk of SIADH (↓ Na+) more than Carbamazepine (Book p610)"
+    },
+    {
+      "id": "MED-C40-58",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Lamotrigine side effects include SJS and:",
+      "opts": [
+        "Renal stones",
+        "HLH / MAS (Hemophagocytic lymphohistiocytosis/ macrophage activation syndrome)",
+        "Suicidal ideation",
+        "Alopecia"
+      ],
+      "ans": 1,
+      "exp": "Lamotrigine SJS, HLH / MAS (Hemophagocytic lymphohistiocytosis/ macrophage activation syndrome) (Book p610)"
+    },
+    {
+      "id": "MED-C40-59",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Levetiracetam side effect is:",
+      "opts": [
+        "Aplastic anemia",
+        "↑ PR Interval",
+        "Suicidal ideation",
+        "Steven Johnson Syndrome"
+      ],
+      "ans": 2,
+      "exp": "Levetiracetam Suicidal ideation (Book p610)"
+    },
+    {
+      "id": "MED-C40-60",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Valproate side effects include alopecia, liver abnormalities, ↑ NH3 and:",
+      "opts": [
+        "Renal stones and Weight loss",
+        "Cognitive slowing",
+        "Aplastic anemia",
+        "Pancreatitis, Thrombocytopenia, Weight gain"
+      ],
+      "ans": 3,
+      "exp": "Valproate Alopecia, Liver abnormalities, ↑ NH3, Pancreatitis, Thrombocytopenia, Weight gain (Book p610)"
+    },
+    {
+      "id": "MED-C40-61",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Topiramate side effects are:",
+      "opts": [
+        "Renal Stones and Weight loss",
+        "Alopecia and Weight gain",
+        "SJS and HLH/MAS",
+        "Suicidal ideation and SJS"
+      ],
+      "ans": 0,
+      "exp": "Topiramate Renal Stones, Weight loss (Book p610)"
+    },
+    {
+      "id": "MED-C40-62",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Zonisamide side effect is:",
+      "opts": [
+        "Steven Johnson Syndrome",
+        "Cognitive slowing",
+        "Aplastic anemia",
+        "↑ PR Interval"
+      ],
+      "ans": 1,
+      "exp": "Zonisamide Cognitive slowing (Book p610)"
+    },
+    {
+      "id": "MED-C40-63",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Felbamate side effect is:",
+      "opts": [
+        "↑ PR Interval",
+        "Suicidal ideation",
+        "Aplastic anemia",
+        "Cognitive slowing"
+      ],
+      "ans": 2,
+      "exp": "Felbamate Aplastic anemia (Book p610)"
+    },
+    {
+      "id": "MED-C40-64",
+      "sec": "Pregnancy and Side Effects of AED",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Lacosamide side effect is:",
+      "opts": [
+        "Aplastic anemia",
+        "Cognitive slowing",
+        "Renal stones",
+        "↑ PR Interval"
+      ],
+      "ans": 3,
+      "exp": "Lacosamide ↑ PR Interval (Book p610)"
+    },
+    {
+      "id": "MED-C40-65",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Status epilepticus heading timestamp is:",
+      "opts": [
+        "00:20:21",
+        "00:01:42",
+        "00:13:36",
+        "00:32:51"
+      ],
+      "ans": 0,
+      "exp": "Status Epilepticus timestamp 00:20:21 (Book p610)"
+    },
+    {
+      "id": "MED-C40-66",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "numeric",
+      "q": "Status epilepticus definition continuous seizure duration is:",
+      "opts": [
+        "≥ 2 minutes",
+        "≥ 5 minutes",
+        "≥ 30 minutes",
+        "≥ 1 hour"
+      ],
+      "ans": 1,
+      "exp": "Definition Continuous seizure ≥ 5 minutes (or) ≥ 2 discrete seizures without regaining consciousness in between (Book p610)"
+    },
+    {
+      "id": "MED-C40-67",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Second part of definition is:",
+      "opts": [
+        "≥ 1 seizure with aura",
+        "≥ 3 seizures with 24 hrs separation",
+        "≥ 2 discrete seizures without regaining consciousness in between",
+        "≥ 2 seizures with regaining consciousness"
+      ],
+      "ans": 2,
+      "exp": "Definition ≥ 2 discrete seizures without regaining consciousness in between (Book p610)"
+    },
+    {
+      "id": "MED-C40-68",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "numeric",
+      "q": "T1 time point is:",
+      "opts": [
+        "30 mins (T2)",
+        "1 hr",
+        "0 mins",
+        "5 mins (T1)"
+      ],
+      "ans": 3,
+      "exp": "Time T1 5 mins (T1) (Book p610)"
+    },
+    {
+      "id": "MED-C40-69",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "T1 is described as:",
+      "opts": [
+        "Most ideal time to start Rx",
+        "Treatment started here normally",
+        "Risk of brain damage beyond",
+        "Within this time seizure must be controlled"
+      ],
+      "ans": 0,
+      "exp": "T1 Most ideal time to start Rx (Book p610)"
+    },
+    {
+      "id": "MED-C40-70",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "numeric",
+      "q": "T2 time point is:",
+      "opts": [
+        "0 mins",
+        "30 mins (T2)",
+        "5 mins (T1)",
+        "1 hr"
+      ],
+      "ans": 1,
+      "exp": "Time 30 mins (T2) (Book p610)"
+    },
+    {
+      "id": "MED-C40-71",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "T2 beyond this risk is:",
+      "opts": [
+        "Treatment started here normally",
+        "Within this time seizure must be controlled",
+        "Risk of brain damage",
+        "Most ideal time to start Rx"
+      ],
+      "ans": 2,
+      "exp": "Beyond T2 Risk of brain damage (Book p610)"
+    },
+    {
+      "id": "MED-C40-72",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "numeric",
+      "q": "Within 1 hr rule is:",
+      "opts": [
+        "Most ideal time to start Rx",
+        "Treatment started here normally",
+        "Risk of brain damage",
+        "Within this time, seizure must be controlled"
+      ],
+      "ans": 3,
+      "exp": "1 hr Within this time, seizure must be controlled (Book p610)"
+    },
+    {
+      "id": "MED-C40-73",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "NORSE is:",
+      "opts": [
+        "New Onset Refractory Status Epilepticus is viral in etiology unless proven otherwise",
+        "Benign disease",
+        "Acute and catastrophic",
+        "Benign centrotemporal epilepsy"
+      ],
+      "ans": 0,
+      "exp": "Note NORSE (New Onset Refractory Status Epilepticus) is viral in etiology unless proven otherwise (Book p610)"
+    },
+    {
+      "id": "MED-C40-74",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Classification includes convulsive status epilepticus (CSE), non-convulsive SE (NCSE) also seen post CSE and:",
+      "opts": [
+        "Atonic seizures",
+        "Refractory SE unresponsive to AED + BZD",
+        "Absence seizure",
+        "GTCS"
+      ],
+      "ans": 1,
+      "exp": "Classification Convulsive status epilepticus (CSE), Non-convulsive SE (NCSE) (Also seen post CSE), Refractory SE unresponsive to AED + BZD (Book p610)"
+    },
+    {
+      "id": "MED-C40-75",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Non-convulsive SE is also seen:",
+      "opts": [
+        "With vasovagal syncope",
+        "With cardiac syncope",
+        "Post CSE",
+        "Pre CSE only"
+      ],
+      "ans": 2,
+      "exp": "Non-convulsive SE (NCSE) (Also seen post CSE) (Book p610)"
+    },
+    {
+      "id": "MED-C40-76",
+      "sec": "Status Epilepticus Definition and Classification",
+      "page": 610,
+      "fmt": "recall",
+      "q": "Refractory SE is defined as:",
+      "opts": [
+        "Responsive to AED only",
+        "Unresponsive to acyclovir",
+        "Responsive to valproate only",
+        "Unresponsive to AED + BZD"
+      ],
+      "ans": 3,
+      "exp": "Refractory SE unresponsive to AED + BZD (Book p610)"
+    },
+    {
+      "id": "MED-C40-77",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Initial compensatory phase is:",
+      "opts": [
+        "Sympathetic overdrive",
+        "Parasympathetic overdrive",
+        "No overdrive",
+        "Vasovagal"
+      ],
+      "ans": 0,
+      "exp": "Initial Compensatory Phase Sympathetic overdrive (Book p611)"
+    },
+    {
+      "id": "MED-C40-78",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Compensatory ↑ includes CO, BP, blood sugar and:",
+      "opts": [
+        "↓ BP",
+        "↑ lactate",
+        "↓ lactate",
+        "↓ CO"
+      ],
+      "ans": 1,
+      "exp": "Initial Compensatory Phase ↑ CO, ↑ BP, ↑ blood sugar, ↑ lactate (Book p611)"
+    },
+    {
+      "id": "MED-C40-79",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Decompensation phase includes cardiac arrest and:",
+      "opts": [
+        "Sympathetic overdrive",
+        "Continuous monitoring",
+        "Rhabdomyolysis + Acute Tubular Necrosis + Electrolyte imbalance",
+        "↑ CO and ↑ BP"
+      ],
+      "ans": 2,
+      "exp": "Decompensation Phase Cardiac arrest, Rhabdomyolysis + Acute Tubular Necrosis + Electrolyte imbalance (Book p611)"
+    },
+    {
+      "id": "MED-C40-80",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Electrolyte imbalance in decompensation is:",
+      "opts": [
+        "↑ Ca2+, ↑ PO4, ↓ K+",
+        "↓ Na+ and ↑ Na+",
+        "K+ PO4 don't produce seizures",
+        "↓ Ca2+, ↓ PO4 3-, ↑ K+"
+      ],
+      "ans": 3,
+      "exp": "Decompensation Electrolyte imbalance ↓ Ca2+, ↓ PO4 3-, ↑ K+ (Book p611)"
+    },
+    {
+      "id": "MED-C40-81",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Decompensation includes MODS and:",
+      "opts": [
+        "↑ Intracranial Pressure: Herniation, coning",
+        "↑ CO and ↑ BP",
+        "Sympathetic overdrive",
+        "Tiredness nausea"
+      ],
+      "ans": 0,
+      "exp": "Decompensation MODS, ↑ Intracranial Pressure Herniation coning (Book p611)"
+    },
+    {
+      "id": "MED-C40-82",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Other decompensation feature is:",
+      "opts": [
+        "Cyanosis frothing",
+        "Hyperthermia",
+        "Hypothermia",
+        "Pallor"
+      ],
+      "ans": 1,
+      "exp": "Decompensation Hyperthermia (Book p611)"
+    },
+    {
+      "id": "MED-C40-83",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Mx EEG is:",
+      "opts": [
+        "No monitoring",
+        "Single EEG only",
+        "Continuous monitoring",
+        "Intermittent monitoring"
+      ],
+      "ans": 2,
+      "exp": "Mx EEG Continuous monitoring (Book p611)"
+    },
+    {
+      "id": "MED-C40-84",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "page": 611,
+      "fmt": "numeric",
+      "q": "EEG monitoring duration in comatose to evaluate NCSE is:",
+      "opts": [
+        "≥5 minutes",
+        "30 mins",
+        "1 hr",
+        "≥48 hours"
+      ],
+      "ans": 3,
+      "exp": "EEG ≥48 hours in comatose to evaluate NCSE (Book p611)"
+    },
+    {
+      "id": "MED-C40-85",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Rapid IV access minimum lines is:",
+      "opts": [
+        "Minimum 2 lines",
+        "Minimum 1 line",
+        "Minimum 3 lines",
+        "No IV access"
+      ],
+      "ans": 0,
+      "exp": "Rapid IV access available minimum 2 lines (Book p611)"
+    },
+    {
+      "id": "MED-C40-86",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "If no IV access, give:",
+      "opts": [
+        "Propofol",
+        "IM midazolam 0.2 mg/kg (max 10 mg) or Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg)",
+        "IV lorazepam 0.1 mg/kg max 4 mg",
+        "IV phenytoin 20 mg/kg"
+      ],
+      "ans": 1,
+      "exp": "No IV IM midazolam 0.2 mg/kg (max 10 mg) or Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg) (Book p611)"
+    },
+    {
+      "id": "MED-C40-87",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "numeric",
+      "q": "IM midazolam dose is:",
+      "opts": [
+        "0.1 mg/kg (max 4 mg)",
+        "20 mg/kg @50 mg/min",
+        "0.2 mg/kg (max 10 mg)",
+        "0.5 mg/kg (max 10 mg)"
+      ],
+      "ans": 2,
+      "exp": "IM midazolam 0.2 mg/kg (max 10 mg) (Book p611)"
+    },
+    {
+      "id": "MED-C40-88",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "numeric",
+      "q": "Buccal or intranasal midazolam dose is:",
+      "opts": [
+        "0.2 mg/kg (max 10 mg)",
+        "0.1 mg/kg (max 4 mg)",
+        "30-40 mg/kg",
+        "0.5 mg/kg (max 10 mg)"
+      ],
+      "ans": 3,
+      "exp": "Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg) (Book p611)"
+    },
+    {
+      "id": "MED-C40-89",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "recall",
+      "q": "If seizures do not stop in 5 min when no IV, next step is:",
+      "opts": [
+        "Achieve IV access",
+        "Shift to 2nd line drugs",
+        "Give 3rd line drugs",
+        "Stop treatment"
+      ],
+      "ans": 0,
+      "exp": "If seizures do not stop in 5 min, achieve IV access (Book p611)"
+    },
+    {
+      "id": "MED-C40-90",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "If IV access Yes, give:",
+      "opts": [
+        "Propofol",
+        "IV Lorazepam 0.1 mg/kg slow push (max 4 mg) or Slow IV Diazepam 1 mL in 4 mL NS",
+        "IM midazolam 0.2 mg/kg",
+        "Valproate 30-40 mg/kg"
+      ],
+      "ans": 1,
+      "exp": "Yes IV Lorazepam 0.1 mg/kg slow push (max 4 mg) or Slow IV Diazepam 1 mL in 4 mL NS (Book p611)"
+    },
+    {
+      "id": "MED-C40-91",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "numeric",
+      "q": "IV lorazepam dose is:",
+      "opts": [
+        "0.5 mg/kg (max 10 mg)",
+        "20 mg/kg @50 mg/min",
+        "0.1 mg/kg (max 4 mg)",
+        "0.2 mg/kg (max 10 mg)"
+      ],
+      "ans": 2,
+      "exp": "IV Lorazepam 0.1 mg/kg slow push (max 4 mg) (Book p611)"
+    },
+    {
+      "id": "MED-C40-92",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "recall",
+      "q": "Slow IV diazepam is given as:",
+      "opts": [
+        "0.2 mg/kg max10",
+        "0.5 mg/kg max10",
+        "20 mg/kg @50 mg/min",
+        "1 mL in 4 mL NS"
+      ],
+      "ans": 3,
+      "exp": "Slow IV Diazepam 1 mL in 4 mL NS (Book p611)"
+    },
+    {
+      "id": "MED-C40-93",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "If seizures do not stop in 5 min after IV lorazepam, next is:",
+      "opts": [
+        "Repeat IV Lorazepam 0.1 mg/kg slow push",
+        "Shift to 3rd line directly",
+        "Give oral AED",
+        "Stop"
+      ],
+      "ans": 0,
+      "exp": "If seizures do not stop in 5 min Repeat IV Lorazepam 0.1 mg/kg slow push (Book p611)"
+    },
+    {
+      "id": "MED-C40-94",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "Shift to 2nd line drugs through:",
+      "opts": [
+        "IM route",
+        "2nd IV line",
+        "1st IV line",
+        "Oral route"
+      ],
+      "ans": 1,
+      "exp": "Shift to 2nd line drugs Through 2nd IV line (Book p611)"
+    },
+    {
+      "id": "MED-C40-95",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "If possibility of subtherapeutic levels, valproate can be tried:",
+      "opts": [
+        "20 mg/kg @150 mg/min",
+        "30-40 mg/kg only",
+        "30-40 mg/kg @ 6 mg/kg/min",
+        "20 mg/kg @50 mg/min"
+      ],
+      "ans": 2,
+      "exp": "If possibility of subtherapeutic levels, Valproate 30-40 mg/kg @ 6 mg/kg/min can be tried (Book p611)"
+    },
+    {
+      "id": "MED-C40-96",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "IV phenytoin dose and rate is:",
+      "opts": [
+        "20 mg/kg @150 mg/min",
+        "30-40 mg/kg @6 mg/kg/min",
+        "0.1 mg/kg max4",
+        "20 mg/kg @ 50 mg/min"
+      ],
+      "ans": 3,
+      "exp": "IV Phenytoin 20 mg/kg @ 50 mg/min (Book p611)"
+    },
+    {
+      "id": "MED-C40-97",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "IV fosphenytoin dose and rate is:",
+      "opts": [
+        "20 mg/kg @150 mg/min",
+        "20 mg/kg @50 mg/min",
+        "30-40 mg/kg @6 mg/kg/min",
+        "0.2 mg/kg max10"
+      ],
+      "ans": 0,
+      "exp": "IV Fosphenytoin 20 mg/kg @150 mg/min (Book p611)"
+    },
+    {
+      "id": "MED-C40-98",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "IV levetiracetam dose is:",
+      "opts": [
+        "0.1 mg/kg max4",
+        "30-40 mg/kg",
+        "20 mg/kg @50 mg/min",
+        "20 mg/kg @150 mg/min"
+      ],
+      "ans": 1,
+      "exp": "IV Levetiracetam 30-40 mg/kg (Book p611)"
+    },
+    {
+      "id": "MED-C40-99",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "numeric",
+      "q": "If seizures do not stop in 20 min, go to:",
+      "opts": [
+        "Repeat lorazepam",
+        "Achieve IV access",
+        "3rd line drugs",
+        "2nd line drugs"
+      ],
+      "ans": 2,
+      "exp": "If seizures do not stop in 20 min 3rd line drugs (Book p611)"
+    },
+    {
+      "id": "MED-C40-100",
+      "sec": "Status Epilepticus Management Flowchart",
+      "page": 611,
+      "fmt": "management",
+      "q": "3rd line drugs examples are:",
+      "opts": [
+        "Valproate, phenytoin, fosphenytoin",
+        "Midazolam only",
+        "Lorazepam only",
+        "Eg. propofol, phenobarbitone, thiopentone"
+      ],
+      "ans": 3,
+      "exp": "3rd line drugs Eg propofol, phenobarbitone, thiopentone (Book p611)"
+    },
+    {
+      "id": "MED-C40-101",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Childhood seizures heading timestamp is:",
+      "opts": [
+        "00:32:51",
+        "00:01:42",
+        "00:13:36",
+        "00:20:21"
+      ],
+      "ans": 0,
+      "exp": "Childhood Seizures timestamp 00:32:51 (Book p612)"
+    },
+    {
+      "id": "MED-C40-102",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Childhood seizures split into epileptic encephalopathies, Lafora's disease and:",
+      "opts": [
+        "Absence seizures",
+        "Rolandic Seizures (Benign centrotemporal epilepsy)",
+        "GTCS",
+        "Atonic seizures"
+      ],
+      "ans": 1,
+      "exp": "Childhood Seizures Epileptic Encephalopathies, Lafora's disease, Rolandic Seizures (Benign centrotemporal epilepsy) (Book p612)"
+    },
+    {
+      "id": "MED-C40-103",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Epileptic encephalopathies include Lennox Gastaut Syndrome, West Syndrome and:",
+      "opts": [
+        "Rolandic Seizures",
+        "GTCS",
+        "Dravet's Syndrome",
+        "Lafora's disease"
+      ],
+      "ans": 2,
+      "exp": "Epileptic Encephalopathies Lannox Gastaut Syndrome, West Syndrome, Dravet's Syndrome (Book p612)"
+    },
+    {
+      "id": "MED-C40-104",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "numeric",
+      "q": "Dravet's syndrome age group is:",
+      "opts": [
+        "10-18 years",
+        "Before puberty",
+        "- (not specified)",
+        "<1 year"
+      ],
+      "ans": 3,
+      "exp": "Dravet's Syndrome Age Group <1 year (Book p612)"
+    },
+    {
+      "id": "MED-C40-105",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "numeric",
+      "q": "Lafora's disease age group is:",
+      "opts": [
+        "10-18 years",
+        "<1 year",
+        "Before puberty",
+        "- (not specified)"
+      ],
+      "ans": 0,
+      "exp": "Lafora's disease Age Group 10-18 years (Book p612)"
+    },
+    {
+      "id": "MED-C40-106",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Rolandic seizures age group is:",
+      "opts": [
+        "- (not specified)",
+        "Before puberty",
+        "<1 year",
+        "10-18 years"
+      ],
+      "ans": 1,
+      "exp": "Rolandic Seizures Age Group Before puberty (Book p612)"
+    },
+    {
+      "id": "MED-C40-107",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "West syndrome age group in table is:",
+      "opts": [
+        "10-18 years",
+        "Before puberty",
+        "- (dash)",
+        "<1 year"
+      ],
+      "ans": 2,
+      "exp": "West Syndrome Age Group - (Book p612)"
+    },
+    {
+      "id": "MED-C40-108",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "West syndrome type of seizure is:",
+      "opts": [
+        "Febrile seizures myoclonic CPS atypical absence",
+        "Progressive myoclonic epilepsy",
+        "SPS (Infrequent)",
+        "Infantile spasms"
+      ],
+      "ans": 3,
+      "exp": "West Syndrome Type of seizure Infantile spasms (Book p612)"
+    },
+    {
+      "id": "MED-C40-109",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Dravet's syndrome type of seizure is:",
+      "opts": [
+        "Febrile seizures: myoclonic, CPS, atypical absence",
+        "Infantile spasms",
+        "Progressive myoclonic epilepsy",
+        "SPS (Infrequent)"
+      ],
+      "ans": 0,
+      "exp": "Dravet's Syndrome Type of seizure Febrile seizures myoclonic CPS atypical absence (Book p612)"
+    },
+    {
+      "id": "MED-C40-110",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Lafora's disease type of seizure is:",
+      "opts": [
+        "SPS (Infrequent)",
+        "Progressive myoclonic epilepsy",
+        "Infantile spasms",
+        "Febrile seizures myoclonic"
+      ],
+      "ans": 1,
+      "exp": "Lafora's disease Type of seizure Progressive myoclonic epilepsy (Book p612)"
+    },
+    {
+      "id": "MED-C40-111",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Rolandic seizures type of seizure is:",
+      "opts": [
+        "Febrile seizures myoclonic",
+        "Progressive myoclonic epilepsy",
+        "SPS (Infrequent)",
+        "Infantile spasms"
+      ],
+      "ans": 2,
+      "exp": "Rolandic Seizures Type of seizure SPS (Infrequent) (Book p612)"
+    },
+    {
+      "id": "MED-C40-112",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Mental retardation in West syndrome is:",
+      "opts": [
+        "-",
+        "Not mentioned",
+        "- for all",
+        "+"
+      ],
+      "ans": 3,
+      "exp": "West Syndrome Mental retardation + (Book p612)"
+    },
+    {
+      "id": "MED-C40-113",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Mental retardation in Dravet's syndrome is:",
+      "opts": [
+        "+",
+        "-",
+        "Not mentioned",
+        "- for all"
+      ],
+      "ans": 0,
+      "exp": "Dravet's Syndrome Mental retardation + (Book p612)"
+    },
+    {
+      "id": "MED-C40-114",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Mental retardation in Lafora's disease is:",
+      "opts": [
+        "+ for all",
+        "-",
+        " + ",
+        "Not mentioned"
+      ],
+      "ans": 1,
+      "exp": "Lafora's disease Mental retardation - (Book p612)"
+    },
+    {
+      "id": "MED-C40-115",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Mental retardation in Rolandic seizures is:",
+      "opts": [
+        "Not mentioned",
+        "+ for all",
+        "-",
+        "+"
+      ],
+      "ans": 2,
+      "exp": "Rolandic Seizures Mental retardation - (Book p612)"
+    },
+    {
+      "id": "MED-C40-116",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Other features West syndrome is:",
+      "opts": [
+        "AR inheritance dementia hallucinations",
+        "m/c seizures in childhood",
+        "- (none)",
+        "Associated with tuberous sclerosis"
+      ],
+      "ans": 3,
+      "exp": "West Syndrome Other features Associated with tuberous sclerosis (Book p612)"
+    },
+    {
+      "id": "MED-C40-117",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Other features Lafora's disease include AR inheritance, dementia, hallucinations and:",
+      "opts": [
+        "Bx: PAS +ve inclusions",
+        "Associated with tuberous sclerosis",
+        "m/c seizures in childhood",
+        "- (none)"
+      ],
+      "ans": 0,
+      "exp": "Lafora's disease Other features AR inheritance, Dementia, Hallucinations, Bx PAS +ve inclusions (Book p612)"
+    },
+    {
+      "id": "MED-C40-118",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Other features Rolandic seizures is noted as:",
+      "opts": [
+        "- (none)",
+        "m/c seizures in childhood",
+        "Associated with tuberous sclerosis",
+        "AR inheritance dementia"
+      ],
+      "ans": 1,
+      "exp": "Rolandic Seizures Other features m/c seizures in childhood (Book p612)"
+    },
+    {
+      "id": "MED-C40-119",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Other features Dravet's syndrome is:",
+      "opts": [
+        "AR inheritance",
+        "m/c seizures in childhood",
+        "- (none)",
+        "Associated with tuberous sclerosis"
+      ],
+      "ans": 2,
+      "exp": "Dravet's Syndrome Other features - (Book p612)"
+    },
+    {
+      "id": "MED-C40-120",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "EEG in West syndrome is:",
+      "opts": [
+        "Centrotemporal Spikes",
+        "- (none)",
+        "PAS +ve inclusions",
+        "Hypsarrhythmia (mountain waves)"
+      ],
+      "ans": 3,
+      "exp": "West Syndrome EEG Hypsarrhythmia (mountain waves) (Book p612)"
+    },
+    {
+      "id": "MED-C40-121",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "EEG in Rolandic seizures is:",
+      "opts": [
+        "Centrotemporal Spikes",
+        "Hypsarrhythmia (mountain waves)",
+        "- (none)",
+        "PAS +ve inclusions"
+      ],
+      "ans": 0,
+      "exp": "Rolandic Seizures EEG Centrotemporal Spikes (Book p612)"
+    },
+    {
+      "id": "MED-C40-122",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "EEG in Dravet's syndrome is:",
+      "opts": [
+        "PAS +ve",
+        "- (none)",
+        "Hypsarrhythmia",
+        "Centrotemporal Spikes"
+      ],
+      "ans": 1,
+      "exp": "Dravet's Syndrome EEG - (Book p612)"
+    },
+    {
+      "id": "MED-C40-123",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "EEG in Lafora's disease is:",
+      "opts": [
+        "Centrotemporal Spikes",
+        "PAS +ve",
+        "- (none)",
+        "Hypsarrhythmia"
+      ],
+      "ans": 2,
+      "exp": "Lafora's disease EEG - (Book p612)"
+    },
+    {
+      "id": "MED-C40-124",
+      "sec": "Childhood Seizures Classification",
+      "page": 612,
+      "fmt": "recall",
+      "q": "Lafora's disease histopathology shows:",
+      "opts": [
+        "Hypsarrhythmia mountain waves",
+        "Centrotemporal spikes",
+        "B/L Temporal lobe hyperintensity",
+        "PAS + intracellular inclusions with arrow"
+      ],
+      "ans": 3,
+      "exp": "Lafora's disease Histopathology Arrow PAS + intracellular inclusions (Book p612)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U40-1",
+      "ch": 40,
+      "n": 1,
+      "title": "1. GTCS Causes: Metabolic, Encephalopathy and Encephalitis",
+      "sec": "GTCS Causes - Metabolic, Encephalopathy, Encephalitis",
+      "guide": "GTCS causes start with metabolic hypoglycemia and electrolytes, encephalopathy hepatic uremic, and encephalitis viral HSV-1 with B/L temporal hyperintensity.\nNote K+ and PO4 abnormalities don't produce seizures; autoimmune anti NMDA and paraneoplastic are listed under encephalitis.",
+      "qs": [
+        "MED-C40-01",
+        "MED-C40-02",
+        "MED-C40-03",
+        "MED-C40-04",
+        "MED-C40-05",
+        "MED-C40-06",
+        "MED-C40-07",
+        "MED-C40-08",
+        "MED-C40-09",
+        "MED-C40-10",
+        "MED-C40-11",
+        "MED-C40-12",
+        "MED-C40-13",
+        "MED-C40-14"
+      ]
+    },
+    {
+      "id": "MED-U40-2",
+      "ch": 40,
+      "n": 2,
+      "title": "2. Brain Injury, Post Stroke, Drugs, Withdrawal and Syncope Types",
+      "sec": "GTCS Causes - Brain Injury, Drugs, Withdrawal and Syncope Types",
+      "guide": "Brain injury remote/long standing and post stroke seizures are GTCS causes, along with drug non adherence and specific epileptogenic drugs.\nWithdrawal seizures include alcohol, barbiturate, benzodiazepine; syncope types are vasovagal, cardiac, orthostatic hypotension and situational.",
+      "qs": [
+        "MED-C40-15",
+        "MED-C40-16",
+        "MED-C40-17",
+        "MED-C40-18",
+        "MED-C40-19",
+        "MED-C40-20",
+        "MED-C40-21"
+      ]
+    },
+    {
+      "id": "MED-U40-3",
+      "ch": 40,
+      "n": 3,
+      "title": "3. Seizure vs Syncope Table",
+      "sec": "Seizure vs Syncope Comparison",
+      "guide": "Seizure vs syncope table contrasts precipitating factors, premonitory symptoms, posture, transition, duration, facial appearance and post-event features.\nSeizure has usually none precipitants, aura odd odor, variable posture, immediate transition, minutes unconsciousness, 30-60 s tonic-clonic, cyanosis frothing, prolonged disorientation, muscle aching, occasional tongue bite/incontinence/headache.",
+      "qs": [
+        "MED-C40-22",
+        "MED-C40-23",
+        "MED-C40-24",
+        "MED-C40-25",
+        "MED-C40-26",
+        "MED-C40-27",
+        "MED-C40-28",
+        "MED-C40-29",
+        "MED-C40-30",
+        "MED-C40-31",
+        "MED-C40-32",
+        "MED-C40-33",
+        "MED-C40-34",
+        "MED-C40-35",
+        "MED-C40-36",
+        "MED-C40-37",
+        "MED-C40-38",
+        "MED-C40-39",
+        "MED-C40-40",
+        "MED-C40-41",
+        "MED-C40-42"
+      ]
+    },
+    {
+      "id": "MED-U40-4",
+      "ch": 40,
+      "n": 4,
+      "title": "4. Management Flowchart and Antiepileptic Drugs",
+      "sec": "Management of GTCS Flowchart and AED Choices",
+      "guide": "New onset seizure splits into focal LOC+ complex partial and LOC- simple partial, and generalized non motor absence and motor GTCS atonic myotonic.\nAED: CPS medial temporal carbamazepine oxcarbazepine lamotrigine levetiracetam; Absence typical atypical and JME valproate lamotrigine topiramate with ethosuximide note typical <3 years; GTCS valproate > lamotrigine.",
+      "qs": [
+        "MED-C40-43",
+        "MED-C40-44",
+        "MED-C40-45",
+        "MED-C40-46",
+        "MED-C40-47",
+        "MED-C40-48",
+        "MED-C40-49",
+        "MED-C40-50",
+        "MED-C40-51",
+        "MED-C40-52",
+        "MED-C40-53"
+      ]
+    },
+    {
+      "id": "MED-U40-5",
+      "ch": 40,
+      "n": 5,
+      "title": "5. Pregnancy and AED Side Effects",
+      "sec": "Pregnancy and Side Effects of AED",
+      "guide": "Pregnancy best is lamotrigine least teratogenic, if already on AED folic acid supplementation.\nSide effects: carbamazepine SJS, oxcarbazepine SIADH hyponatremia more than carbamazepine, lamotrigine SJS HLH/MAS, levetiracetam suicidal ideation, valproate alopecia liver NH3 pancreatitis thrombocytopenia weight gain, topiramate renal stones weight loss, zonisamide cognitive slowing, felbamate aplastic anemia, lacosamide PR prolongation.",
+      "qs": [
+        "MED-C40-54",
+        "MED-C40-55",
+        "MED-C40-56",
+        "MED-C40-57",
+        "MED-C40-58",
+        "MED-C40-59",
+        "MED-C40-60",
+        "MED-C40-61",
+        "MED-C40-62",
+        "MED-C40-63",
+        "MED-C40-64"
+      ]
+    },
+    {
+      "id": "MED-U40-6",
+      "ch": 40,
+      "n": 6,
+      "title": "6. Status Epilepticus Definition, Time Points and Classification",
+      "sec": "Status Epilepticus Definition and Classification",
+      "guide": "Definition continuous ≥5 minutes or ≥2 discrete seizures without regaining consciousness.\nTime T1 5 mins most ideal to start Rx, treatment started here normally, T2 30 mins beyond risk brain damage, 1 hr within seizure must be controlled. NORSE viral unless proven otherwise. Classification convulsive CSE, non-convulsive NCSE also post CSE, refractory unresponsive to AED + BZD.",
+      "qs": [
+        "MED-C40-65",
+        "MED-C40-66",
+        "MED-C40-67",
+        "MED-C40-68",
+        "MED-C40-69",
+        "MED-C40-70",
+        "MED-C40-71",
+        "MED-C40-72",
+        "MED-C40-73",
+        "MED-C40-74",
+        "MED-C40-75",
+        "MED-C40-76"
+      ]
+    },
+    {
+      "id": "MED-U40-7",
+      "ch": 40,
+      "n": 7,
+      "title": "7. Clinical Features and EEG Monitoring",
+      "sec": "C/F and Management - Compensatory Phase and EEG",
+      "guide": "Initial compensatory sympathetic overdrive ↑CO ↑BP ↑blood sugar ↑lactate.\nDecompensation cardiac arrest, rhabdomyolysis + ATN + electrolyte ↓Ca ↓PO4 ↑K, MODS, ↑ICP herniation coning, hyperthermia. Mx EEG continuous monitoring ≥48h in comatose to evaluate NCSE.",
+      "qs": [
+        "MED-C40-77",
+        "MED-C40-78",
+        "MED-C40-79",
+        "MED-C40-80",
+        "MED-C40-81",
+        "MED-C40-82",
+        "MED-C40-83",
+        "MED-C40-84"
+      ]
+    },
+    {
+      "id": "MED-U40-8",
+      "ch": 40,
+      "n": 8,
+      "title": "8. Status Epilepticus Management",
+      "sec": "Status Epilepticus Management Flowchart",
+      "guide": "Rapid IV access minimum 2 lines; No IV IM midazolam 0.2 mg/kg max10 or buccal/intranasal 0.5 mg/kg max10.\nIf not stop in 5 min achieve IV access; Yes IV lorazepam 0.1 mg/kg max4 or slow IV diazepam 1mL in 4mL NS.\nRepeat lorazepam 0.1 mg/kg; shift to 2nd line through 2nd IV line valproate 30-40 @6, phenytoin 20 @50, fosphenytoin 20 @150, levetiracetam 30-40.\nIf not stop in 20 min 3rd line propofol phenobarbitone thiopentone.",
+      "qs": [
+        "MED-C40-85",
+        "MED-C40-86",
+        "MED-C40-87",
+        "MED-C40-88",
+        "MED-C40-89",
+        "MED-C40-90",
+        "MED-C40-91",
+        "MED-C40-92",
+        "MED-C40-93",
+        "MED-C40-94",
+        "MED-C40-95",
+        "MED-C40-96",
+        "MED-C40-97",
+        "MED-C40-98",
+        "MED-C40-99",
+        "MED-C40-100"
+      ]
+    },
+    {
+      "id": "MED-U40-9",
+      "ch": 40,
+      "n": 9,
+      "title": "9. Childhood Seizures and Lafora Disease",
+      "sec": "Childhood Seizures Classification",
+      "guide": "Childhood seizures split into epileptic encephalopathies Lennox Gastaut West Dravet, Lafora's disease, Rolandic benign centrotemporal epilepsy.\nTable West age -, Dravet <1 yr, Lafora 10-18 yr, Rolandic before puberty; seizure types infantile spasms febrile myoclonic CPS atypical absence progressive myoclonic epilepsy SPS infrequent; mental retardation + + - -; other features tuberous sclerosis, AR dementia hallucinations PAS+ve inclusions, m/c seizures in childhood; EEG hypsarrhythmia mountain waves, centrotemporal spikes; histopathology PAS+ intracellular inclusions.",
+      "qs": [
+        "MED-C40-101",
+        "MED-C40-102",
+        "MED-C40-103",
+        "MED-C40-104",
+        "MED-C40-105",
+        "MED-C40-106",
+        "MED-C40-107",
+        "MED-C40-108",
+        "MED-C40-109",
+        "MED-C40-110",
+        "MED-C40-111",
+        "MED-C40-112",
+        "MED-C40-113",
+        "MED-C40-114",
+        "MED-C40-115",
+        "MED-C40-116",
+        "MED-C40-117",
+        "MED-C40-118",
+        "MED-C40-119",
+        "MED-C40-120",
+        "MED-C40-121",
+        "MED-C40-122",
+        "MED-C40-123",
+        "MED-C40-124"
+      ]
+    }
+  ]
+}

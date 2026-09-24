@@ -286,6 +286,15 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 39 | 4. Focal Presentation, Investigations and Medial Temporal Lobe Epilepsy | 604 | MED-C39-35–MED-C39-52 | 18 |
 | 39 | 5. Generalized Seizures and Typical Childhood Absence | 605–606 | MED-C39-53–MED-C39-73 | 21 |
 | 39 | 6. Juvenile Myoclonic Epilepsy, Myoclonic and Atonic Seizures | 606–607 | MED-C39-74–MED-C39-91 | 18 |
+| 40 | 1. GTCS Causes: Metabolic, Encephalopathy and Encephalitis | 608 | MED-C40-01–MED-C40-14 | 14 |
+| 40 | 2. Brain Injury, Post Stroke, Drugs, Withdrawal and Syncope Types | 608 | MED-C40-15–MED-C40-21 | 7 |
+| 40 | 3. Seizure vs Syncope Table | 609 | MED-C40-22–MED-C40-42 | 21 |
+| 40 | 4. Management Flowchart and Antiepileptic Drugs | 609 | MED-C40-43–MED-C40-53 | 11 |
+| 40 | 5. Pregnancy and AED Side Effects | 610 | MED-C40-54–MED-C40-64 | 11 |
+| 40 | 6. Status Epilepticus Definition, Time Points and Classification | 610 | MED-C40-65–MED-C40-76 | 12 |
+| 40 | 7. Clinical Features and EEG Monitoring | 611 | MED-C40-77–MED-C40-84 | 8 |
+| 40 | 8. Status Epilepticus Management | 611 | MED-C40-85–MED-C40-100 | 16 |
+| 40 | 9. Childhood Seizures and Lafora Disease | 612 | MED-C40-101–MED-C40-124 | 24 |
 | 41 | 1. Bacterial vs Viral Meningitis vs Viral Encephalitis | 613 | MED-C41-01–MED-C41-12 | 12 |
 | 41 | 2. Viral Encephalitis Etiology, Investigations and Autoimmune Encephalitis Notes | 613–614 | MED-C41-13–MED-C41-26 | 14 |
 | 41 | 3. Acute Meningitis and Etiology by Age Group | 614–615 | MED-C41-27–MED-C41-42 | 16 |
@@ -336,6 +345,7 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 37 | 15 | 12 | 5 | 3 | 2 | 0 | 37 | 37 |
 | 38 | 17 | 14 | 9 | 3 | 8 | 0 | 51 | 51 |
 | 39 | 73 | 1 | 10 | 3 | 4 | 0 | 91 | 91 |
+| 40 | 92 | 0 | 15 | 1 | 16 | 0 | 124 | 124 |
 | 41 | 80 | 0 | 26 | 0 | 8 | 0 | 114 | 114 |
 
 ## Chapters 16–26 release table
@@ -610,13 +620,18 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 605 | 03 PDF41 | 10 | 10 | 0 |
 | 606 | 03 PDF42 | 16 | 16 | 0 |
 | 607 | 03 PDF43 | 13 | 13 | 0 |
+| 608 | 03 PDF44 | 21 | 21 | 0 |
+| 609 | 03 PDF45 | 32 | 32 | 0 |
+| 610 | 03 PDF46 | 23 | 23 | 0 |
+| 611 | 03 PDF47 | 24 | 24 | 0 |
+| 612 | 03 PDF48 | 24 | 24 | 0 |
 | 613 | 03 PDF49 | 21 | 21 | 0 |
 | 614 | 03 PDF50 | 19 | 19 | 0 |
 | 615 | 03 PDF51 | 17 | 17 | 0 |
 | 616 | 03 PDF52 | 17 | 17 | 0 |
 | 617 | 03 PDF53 | 40 | 40 | 0 |
 
-**Total: 1926 mapped educational points; 1818 questions; 174 units across 40 live chapters of 57.**
+**Total: 2050 mapped educational points; 1942 questions; 183 units across 41 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -4007,6 +4022,165 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p608 / 03 PDF44
+
+| Printed point / call-out | Question |
+|---|---|
+| GTCS causes and Syncope heading timestamp 00:01:42 | MED-C40-01 |
+| Causes of GTCS 1. metabolic: Hypoglycemia | MED-C40-02 |
+| Electrolyte causes: ↓ Na+ | MED-C40-03 |
+| Electrolyte ↑ Na+ (rare) | MED-C40-04 |
+| Electrolyte ↓ Ca2+ / ↓ Ca2+ + ↑ PO4 3- | MED-C40-05 |
+| Electrolyte ↓ Mg2+ | MED-C40-06 |
+| Electrolyte ↑ Mg2+ (rare) | MED-C40-07 |
+| Encephalopathy: Hepatic, Uremic | MED-C40-08 |
+| Note: K+, PO4 3-: Abnormalities don't produce seizures | MED-C40-09 |
+| Encephalitis Viral: HSV-1 encephalitis | MED-C40-10 |
+| HSV-1 encephalitis MRI: B/L Temporal lobe hyperintensity | MED-C40-11 |
+| HSV-1 encephalitis Rx: Acyclovir | MED-C40-12 |
+| Encephalitis Autoimmune: Anti NMDA Ab | MED-C40-13 |
+| Encephalitis Paraneoplastic | MED-C40-14 |
+| Brain injury (Remote/long standing) | MED-C40-15 |
+| Post stroke seizures listed as 5 | MED-C40-16 |
+| Drug non adherence/discontinuation is cause 6 | MED-C40-17 |
+| Drugs: Theophylline, Imipenem, Cefepime, Quinolones | MED-C40-18 |
+| Drugs Lithium, TCA | MED-C40-19 |
+| Withdrawal seizures: Alcohol, Barbiturate, Benzodiazepine (BZD) | MED-C40-20 |
+| Syncope Types: vasovagal, Cardiac, Orthostatic hypotension, Situational syncope | MED-C40-21 |
+
+Unasked points: **none found**.
+
+### Book p609 / 03 PDF45
+
+| Printed point / call-out | Question |
+|---|---|
+| Seizure vs Syncope Immediate precipitating factors Seizure Usually none | MED-C40-22 |
+| Syncope Immediate precipitating factors Emotional stress, valsalva, orthostatic hypotension, cardiac etiologies | MED-C40-23 |
+| Premonitory symptoms Seizure None or aura (Eg: Odd odor) | MED-C40-24 |
+| Premonitory symptoms Syncope Tiredness, nausea, diaphoresis, tunneling of vision | MED-C40-25 |
+| Posture at onset Seizure Variable | MED-C40-26 |
+| Posture at onset Syncope Usually erect | MED-C40-27 |
+| Transition to unconsciousness Seizure Often immediate | MED-C40-28 |
+| Transition Syncope Gradual over seconds | MED-C40-29 |
+| Duration of unconsciousness Seizure Minutes | MED-C40-30 |
+| Duration of unconsciousness Syncope Seconds | MED-C40-31 |
+| Duration of tonic or clonic movements Seizure 30-60 s | MED-C40-32 |
+| Duration of tonic or clonic movements Syncope Never >15 s | MED-C40-33 |
+| Facial appearance during event Seizure Cyanosis, frothing at mouth | MED-C40-34 |
+| Facial appearance Syncope Pallor | MED-C40-35 |
+| Disorientation and sleepiness after event Seizure Many minutes to hours | MED-C40-36 |
+| Disorientation after event Syncope <5 min | MED-C40-37 |
+| Aching of muscles after event Seizure Often | MED-C40-38 |
+| Aching of muscles after event Syncope Sometimes | MED-C40-39 |
+| Biting of tongue Seizure Sometimes, Syncope Rarely | MED-C40-40 |
+| Incontinence Seizure Sometimes, Syncope Rarely | MED-C40-41 |
+| Headache Seizure Sometimes, Syncope Rarely | MED-C40-42 |
+| Management of GTCS timestamp 00:13:36 | MED-C40-43 |
+| New Onset Seizure splits into Focal and Generalized | MED-C40-44 |
+| Focal LOC+ Complex Partial Seizure (CPS) | MED-C40-45 |
+| Focal LOC- Simple Partial Seizure (SPS) | MED-C40-46 |
+| Generalized Non motor Absence Seizure | MED-C40-47 |
+| Generalized motor GTCS, Atonic seizures, myotonic seizures | MED-C40-48 |
+| CPS (medial temporal lobe epilepsy): Carbamazepine, Oxcarbazepine | MED-C40-49 |
+| CPS Lamotrigine, Levetiracetam | MED-C40-50 |
+| Absence Typical Atypical JME Valproate Lamotrigine Topiramate | MED-C40-51 |
+| Note Ethosuximide Typical absence <3 years | MED-C40-52 |
+| GTCS Valproate > Lamotrigine | MED-C40-53 |
+
+Unasked points: **none found**.
+
+### Book p610 / 03 PDF46
+
+| Printed point / call-out | Question |
+|---|---|
+| Pregnancy Lamotrigine (Best): Least teratogenic | MED-C40-54 |
+| If already on AED Folic Acid supplementation | MED-C40-55 |
+| Side effect Carbamazepine Steven Johnson Syndrome (SJS) | MED-C40-56 |
+| Oxcarbazepine ↑ Risk of SIADH (↓ Na+) more than Carbamazepine | MED-C40-57 |
+| Lamotrigine SJS, HLH / MAS (Hemophagocytic lymphohistiocytosis/ macrophage activation syndrome) | MED-C40-58 |
+| Levetiracetam Suicidal ideation | MED-C40-59 |
+| Valproate Alopecia, Liver abnormalities, ↑ NH3, Pancreatitis, Thrombocytopenia, Weight gain | MED-C40-60 |
+| Topiramate Renal Stones, Weight loss | MED-C40-61 |
+| Zonisamide Cognitive slowing | MED-C40-62 |
+| Felbamate Aplastic anemia | MED-C40-63 |
+| Lacosamide ↑ PR Interval | MED-C40-64 |
+| Status Epilepticus timestamp 00:20:21 | MED-C40-65 |
+| Definition Continuous seizure ≥ 5 minutes (or) ≥ 2 discrete seizures without regaining consciousness in between | MED-C40-66 |
+| Definition ≥ 2 discrete seizures without regaining consciousness in between | MED-C40-67 |
+| Time T1 5 mins (T1) | MED-C40-68 |
+| T1 Most ideal time to start Rx | MED-C40-69 |
+| Time 30 mins (T2) | MED-C40-70 |
+| Beyond T2 Risk of brain damage | MED-C40-71 |
+| 1 hr Within this time, seizure must be controlled | MED-C40-72 |
+| Note NORSE (New Onset Refractory Status Epilepticus) is viral in etiology unless proven otherwise | MED-C40-73 |
+| Classification Convulsive status epilepticus (CSE), Non-convulsive SE (NCSE) (Also seen post CSE), Refractory SE unresponsive to AED + BZD | MED-C40-74 |
+| Non-convulsive SE (NCSE) (Also seen post CSE) | MED-C40-75 |
+| Refractory SE unresponsive to AED + BZD | MED-C40-76 |
+
+Unasked points: **none found**.
+
+### Book p611 / 03 PDF47
+
+| Printed point / call-out | Question |
+|---|---|
+| Initial Compensatory Phase Sympathetic overdrive | MED-C40-77 |
+| Initial Compensatory Phase ↑ CO, ↑ BP, ↑ blood sugar, ↑ lactate | MED-C40-78 |
+| Decompensation Phase Cardiac arrest, Rhabdomyolysis + Acute Tubular Necrosis + Electrolyte imbalance | MED-C40-79 |
+| Decompensation Electrolyte imbalance ↓ Ca2+, ↓ PO4 3-, ↑ K+ | MED-C40-80 |
+| Decompensation MODS, ↑ Intracranial Pressure Herniation coning | MED-C40-81 |
+| Decompensation Hyperthermia | MED-C40-82 |
+| Mx EEG Continuous monitoring | MED-C40-83 |
+| EEG ≥48 hours in comatose to evaluate NCSE | MED-C40-84 |
+| Rapid IV access available minimum 2 lines | MED-C40-85 |
+| No IV IM midazolam 0.2 mg/kg (max 10 mg) or Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg) | MED-C40-86 |
+| IM midazolam 0.2 mg/kg (max 10 mg) | MED-C40-87 |
+| Buccal or intranasal midazolam 0.5 mg/kg (max 10 mg) | MED-C40-88 |
+| If seizures do not stop in 5 min, achieve IV access | MED-C40-89 |
+| Yes IV Lorazepam 0.1 mg/kg slow push (max 4 mg) or Slow IV Diazepam 1 mL in 4 mL NS | MED-C40-90 |
+| IV Lorazepam 0.1 mg/kg slow push (max 4 mg) | MED-C40-91 |
+| Slow IV Diazepam 1 mL in 4 mL NS | MED-C40-92 |
+| If seizures do not stop in 5 min Repeat IV Lorazepam 0.1 mg/kg slow push | MED-C40-93 |
+| Shift to 2nd line drugs Through 2nd IV line | MED-C40-94 |
+| If possibility of subtherapeutic levels, Valproate 30-40 mg/kg @ 6 mg/kg/min can be tried | MED-C40-95 |
+| IV Phenytoin 20 mg/kg @ 50 mg/min | MED-C40-96 |
+| IV Fosphenytoin 20 mg/kg @150 mg/min | MED-C40-97 |
+| IV Levetiracetam 30-40 mg/kg | MED-C40-98 |
+| If seizures do not stop in 20 min 3rd line drugs | MED-C40-99 |
+| 3rd line drugs Eg propofol, phenobarbitone, thiopentone | MED-C40-100 |
+
+Unasked points: **none found**.
+
+### Book p612 / 03 PDF48
+
+| Printed point / call-out | Question |
+|---|---|
+| Childhood Seizures timestamp 00:32:51 | MED-C40-101 |
+| Childhood Seizures Epileptic Encephalopathies, Lafora's disease, Rolandic Seizures (Benign centrotemporal epilepsy) | MED-C40-102 |
+| Epileptic Encephalopathies Lannox Gastaut Syndrome, West Syndrome, Dravet's Syndrome | MED-C40-103 |
+| Dravet's Syndrome Age Group <1 year | MED-C40-104 |
+| Lafora's disease Age Group 10-18 years | MED-C40-105 |
+| Rolandic Seizures Age Group Before puberty | MED-C40-106 |
+| West Syndrome Age Group - | MED-C40-107 |
+| West Syndrome Type of seizure Infantile spasms | MED-C40-108 |
+| Dravet's Syndrome Type of seizure Febrile seizures myoclonic CPS atypical absence | MED-C40-109 |
+| Lafora's disease Type of seizure Progressive myoclonic epilepsy | MED-C40-110 |
+| Rolandic Seizures Type of seizure SPS (Infrequent) | MED-C40-111 |
+| West Syndrome Mental retardation + | MED-C40-112 |
+| Dravet's Syndrome Mental retardation + | MED-C40-113 |
+| Lafora's disease Mental retardation - | MED-C40-114 |
+| Rolandic Seizures Mental retardation - | MED-C40-115 |
+| West Syndrome Other features Associated with tuberous sclerosis | MED-C40-116 |
+| Lafora's disease Other features AR inheritance, Dementia, Hallucinations, Bx PAS +ve inclusions | MED-C40-117 |
+| Rolandic Seizures Other features m/c seizures in childhood | MED-C40-118 |
+| Dravet's Syndrome Other features - | MED-C40-119 |
+| West Syndrome EEG Hypsarrhythmia (mountain waves) | MED-C40-120 |
+| Rolandic Seizures EEG Centrotemporal Spikes | MED-C40-121 |
+| Dravet's Syndrome EEG - | MED-C40-122 |
+| Lafora's disease EEG - | MED-C40-123 |
+| Lafora's disease Histopathology Arrow PAS + intracellular inclusions | MED-C40-124 |
+
+Unasked points: **none found**.
+
 ### Book p613 / 03 PDF49
 
 | Printed point / call-out | Question |
@@ -4158,12 +4332,12 @@ Unasked points: **none found**.
 
 ## Post-build verification
 
-- `python3 build_content.py` embedded 1818 questions / 174 units / 40 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 1942 questions / 183 units / 41 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1818 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 1942 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **40/57**. Embedded question total after build: **1818**; units: **174**. Ledger points: **1926**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **41/57**. Embedded question total after build: **1942**; units: **183**. Ledger points: **2050**. Unasked points: **NONE** in the visually recorded inventory.
 
