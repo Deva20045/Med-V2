@@ -1,0 +1,1725 @@
+{
+  "chapter": 27,
+  "title": "Spondyloarthritis",
+  "pageRange": "532-542",
+  "questions": [
+    {
+      "id": "MED-C27-01",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "recall",
+      "q": "Which branch of the printed SpA classification tree lists shoulder and hip as root joints?",
+      "opts": [
+        "Isolated enthesitis without articular involvement",
+        "Axial spondyloarthropathy",
+        "Peripheral spondyloarthropathy limited to knee and elbow",
+        "Juvenile idiopathic arthritis (juvenile onset SpA)"
+      ],
+      "ans": 1,
+      "exp": "The classification tree places shoulder and hip (root joints) under axial SpA, which then divides into non-radiographic and radiographic axial SpA. (Book p532)"
+    },
+    {
+      "id": "MED-C27-02",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "recall",
+      "q": "Which trio is printed under the peripheral SpA arm of the classification tree?",
+      "opts": [
+        "Rheumatoid arthritis, SLE and scleroderma",
+        "GCA, Takayasu arteritis and PAN",
+        "Reactive arthritis, psoriatic arthritis and IBD (enteropathic) arthritis",
+        "Ankylosing spondylitis, DISH and gout"
+      ],
+      "ans": 2,
+      "exp": "Peripheral SpA (peripheral involvement greater than axial) lists reactive arthritis, psoriatic arthritis and IBD enteropathic arthritis. (Book p532)"
+    },
+    {
+      "id": "MED-C27-03",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "recall",
+      "q": "How does the source equate juvenile idiopathic arthritis within the SpA tree?",
+      "opts": [
+        "JIA is a subset of radiographic axial SpA only",
+        "JIA is excluded from the SpA classification",
+        "JIA equals non-radiographic axial SpA with no peripheral disease",
+        "JIA is also called juvenile onset SpA"
+      ],
+      "ans": 3,
+      "exp": "The tree annotates juvenile idiopathic arthritis as AKA juvenile onset SpA. (Book p532)"
+    },
+    {
+      "id": "MED-C27-04",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "recall",
+      "q": "Which HLA association and degree are printed among SpA shared features?",
+      "opts": [
+        "HLA B27 association in varying degrees",
+        "HLA B51 as the universal SpA marker",
+        "HLA DR4 in 100% of cases only",
+        "No HLA association is printed"
+      ],
+      "ans": 0,
+      "exp": "Shared features begin with HLA B27 association (varying degrees). (Book p532)"
+    },
+    {
+      "id": "MED-C27-05",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "recall",
+      "q": "What is the printed most common extra-articular manifestation of SpA?",
+      "opts": [
+        "Keratitis as the sole ocular feature",
+        "Acute anterior alternating asymmetric uveitis (4A uveitis)",
+        "Chronic posterior uveitis only",
+        "Episcleritis without uveitis"
+      ],
+      "ans": 1,
+      "exp": "Features list m/c extra-articular manifestation as acute anterior alternating asymmetric uveitis (4A uveitis). (Book p532)"
+    },
+    {
+      "id": "MED-C27-06",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "oddoneout",
+      "q": "Which statement among the printed SpA features favors SpA over rheumatoid arthritis?",
+      "opts": [
+        "4A uveitis as the most common extra-articular manifestation",
+        "Association with plaque-type psoriasis in the peripheral arm",
+        "Absence of rheumatoid factor and of subcutaneous nodules with RA extra-articular features",
+        "Significant familial aggregation with HLA B27 association"
+      ],
+      "ans": 2,
+      "exp": "SpA features print absence of rheumatoid factor and absence of subcutaneous nodules and extra-articular features of RA. (Book p532)"
+    },
+    {
+      "id": "MED-C27-07",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "scenario",
+      "q": "A young patient has inflammatory back pain worse with rest and better with activity, alternating buttock pain, and no plain-film sacroiliitis. Which printed label applies?",
+      "opts": [
+        "Radiographic axial SpA (ankylosing spondylitis)",
+        "Enteropathic arthritis with axial pattern",
+        "DISH with metabolic syndrome",
+        "Non-radiographic axial SpA"
+      ],
+      "ans": 3,
+      "exp": "Non-radiographic axial SpA clinical features are inflammatory back pain (exacerbated by rest, relieved by activity), alternating buttock pain due to sacroiliitis and deep low back pain, with no radiographic evidence of sacroiliitis. (Book p532)"
+    },
+    {
+      "id": "MED-C27-08",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "recall",
+      "q": "What imaging and serology notes are printed for non-radiographic axial SpA?",
+      "opts": [
+        "No radiographic sacroiliitis; MRI may show active sacroiliitis; may have HLA B27",
+        "Plain x-ray always shows grade 3 sacroiliitis; MRI never informative",
+        "RF-positive serology is required",
+        "HLA B27 is always negative by definition"
+      ],
+      "ans": 0,
+      "exp": "Non-radiographic axial SpA: no radiographic evidence (x-ray features of sacroiliitis), MRI may show active sacroiliitis and it may have HLA B27 association. (Book p532)"
+    },
+    {
+      "id": "MED-C27-09",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "page": 532,
+      "fmt": "numeric",
+      "q": "What proportion of non-radiographic axial SpA converts to radiographic axial SpA over 5–10 years, and what does the right arm list?",
+      "opts": [
+        "90% in 5 years; only osteopenia without syndesmophytes",
+        "5% in 5–10 years; x-ray features include syndesmophytes, bony ankylosis, bamboo spine and spinal fracture",
+        "50% in 1 year; only soft-tissue swelling",
+        "10% in 20 years; only disc space narrowing"
+      ],
+      "ans": 1,
+      "exp": "The conversion arrow prints 5% in 5–10 years to radiographic axial SpA whose x-ray features of sacroiliitis are syndesmophytes, bony ankylosis, bamboo spine and spinal fracture; extra-articular manifestations may be seen. (Book p532)"
+    },
+    {
+      "id": "MED-C27-10",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "According to the pathogenesis block, inflammatory granulation tissue directly causes which two changes?",
+      "opts": [
+        "Subchondral cyst formation only",
+        "Pure ligamentous hypertrophy without erosion",
+        "Erosion of annulus fibrosis and nucleus pulposus, and calcification of peripheral annular fibres producing syndesmophytes",
+        "Isolated disc herniation without calcification"
+      ],
+      "ans": 2,
+      "exp": "Inflammatory granulation tissue lists erosion of annulus fibrosis and nucleus pulposus, and calcification of peripheral fibres of annulus fibrosis as syndesmophytes. (Book p533)"
+    },
+    {
+      "id": "MED-C27-11",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "How does the source characterize the vertical osteophyte that arises from syndesmophyte calcification?",
+      "opts": [
+        "Thick, coarse, non-marginal and asymmetrical",
+        "Lateral and non-continuous with the disc",
+        "Restricted to the posterior elements only",
+        "Thin, delicate, marginal and symmetrical"
+      ],
+      "ans": 3,
+      "exp": "Under the calcification arm the vertical osteophyte is annotated thin, delicate, marginal, symmetrical. (Book p533)"
+    },
+    {
+      "id": "MED-C27-12",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "What mechanical sequence is printed after gliding of vertebra over one another?",
+      "opts": [
+        "Bony ankylosis leading to bamboo spine and square-wave vertebra (loss of concavity)",
+        "Fresh fracture without fusion",
+        "Prolapsed disc with vacuum phenomenon",
+        "Isolated osteophyte lipping without fusion"
+      ],
+      "ans": 0,
+      "exp": "Gliding of vertebra over one another leads to bony ankylosis, producing bamboo spine and square wave vertebra (loss of concavity). (Book p533)"
+    },
+    {
+      "id": "MED-C27-13",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "numeric",
+      "q": "Which complication level is printed as most common for spinal fracture in this chapter?",
+      "opts": [
+        "C1–C2 only",
+        "C5–C6",
+        "L4–L5",
+        "T10–T11"
+      ],
+      "ans": 1,
+      "exp": "Complication lists spinal fracture with m/c site C5–C6. (Book p533)"
+    },
+    {
+      "id": "MED-C27-14",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "Which inflammatory mediators are printed for radiographic axial SpA?",
+      "opts": [
+        "Complement C3 and C4",
+        "TGF-beta and PDGF alone",
+        "TNF alpha, IL-17 and IL-23",
+        "IL-6 and IL-1 only"
+      ],
+      "ans": 2,
+      "exp": "Inflammatory mediators listed are TNF alpha and IL-17, IL-23. (Book p533)"
+    },
+    {
+      "id": "MED-C27-15",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "What dual presentation framework organizes the clinical features of radiographic axial SpA?",
+      "opts": [
+        "Purpura plus arthralgia only",
+        "Tophi plus calcinosis",
+        "Urticaria plus vasculitis",
+        "Synovitis plus enthesitis"
+      ],
+      "ans": 3,
+      "exp": "Presentation is structured as synovitis plus enthesitis (inflammation of tendon, ligament, capsule, fascia). (Book p533)"
+    },
+    {
+      "id": "MED-C27-16",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "scenario",
+      "q": "Bilateral sacroiliitis on imaging in early axial disease is described in the source as what?",
+      "opts": [
+        "The hallmark and earliest manifestation",
+        "A late complication only",
+        "An exclusive feature of psoriatic arthritis",
+        "A contraindication to exercise therapy"
+      ],
+      "ans": 0,
+      "exp": "Under synovitis, B/L sacroiliitis is annotated as hallmark and earliest manifestation. (Book p533)"
+    },
+    {
+      "id": "MED-C27-17",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "numeric",
+      "q": "What sex ratio, age group and HLA frequency are printed for ankylosing spondylitis presentation?",
+      "opts": [
+        "M:F 9:1, age over 50, B27 in 50%",
+        "M:F 3:1, early 20s, HLA B27 in 90% of AS",
+        "F:M 3:1, late 60s, HLA B27 in 10%",
+        "Equal sex ratio, children under 10, B27 negative"
+      ],
+      "ans": 1,
+      "exp": "Presentation prints M:F = 3:1, age early 20s and HLA B27 association in 90% of AS. (Book p533)"
+    },
+    {
+      "id": "MED-C27-18",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "Among enthesitis sites, which is called classical in the source?",
+      "opts": [
+        "Costochondritis alone",
+        "Lateral epicondylitis",
+        "Achilles tendinitis",
+        "Plantar fasciitis alone"
+      ],
+      "ans": 2,
+      "exp": "Enthesitis examples: Achilles tendinitis is annotated classical; plantar fasciitis and costochondritis follow. (Book p533)"
+    },
+    {
+      "id": "MED-C27-19",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "scenario",
+      "q": "A patient reports morning back stiffness lasting about 45 minutes that improves with exercise and NSAIDs but not with rest. Which printed aspects are satisfied?",
+      "opts": [
+        "Onset after age 60 with rapid response to bed rest",
+        "Shorter than 2 weeks with worsening on activity",
+        "Location confined to the neck with no buttock pain",
+        "Duration over 3 months, improvement with exercise, improvement with NSAIDs and no improvement with rest"
+      ],
+      "ans": 3,
+      "exp": "Inflammatory back pain aspects: duration >3 months (chronic), improvement with exercise, improvement with NSAIDs and no improvement of pain with rest; morning stiffness minimum 30 minutes. (Book p533)"
+    },
+    {
+      "id": "MED-C27-20",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "Which onset and location details are printed for inflammatory back pain?",
+      "opts": [
+        "Onset before 45 years with lower-back location and alternating buttock pain",
+        "Onset after 70 years confined to the thoracic spine",
+        "Onset in childhood with isolated cervical pain",
+        "No defined age with constant midline pain only"
+      ],
+      "ans": 0,
+      "exp": "Aspects list onset before 45 yrs, location lower back and alternating buttock pain. (Book p533)"
+    },
+    {
+      "id": "MED-C27-21",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "numeric",
+      "q": "What minimum morning stiffness duration and waking-from-sleep feature are printed?",
+      "opts": [
+        "No morning stiffness is characteristic",
+        "Morning stiffness of at least 30 minutes with waking from sleep due to back pain",
+        "Stiffness under 10 minutes without nocturnal waking",
+        "All-day stiffness only"
+      ],
+      "ans": 1,
+      "exp": "Aspects include waking up from sleep due to back pain and morning stiffness (minimum 30 mins). (Book p533)"
+    },
+    {
+      "id": "MED-C27-22",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "scenario",
+      "q": "Involvement of shoulders and hip joints in axial SpA is annotated in the source as indicating what?",
+      "opts": [
+        "Exclusion of HLA B27 association",
+        "Indication to stop exercise therapy",
+        "Poor prognosis",
+        "Complete drug-free remission"
+      ],
+      "ans": 2,
+      "exp": "The final inflammatory-back-pain aspect annotates involvement of shoulders and hip joint as poor prognosis. (Book p533)"
+    },
+    {
+      "id": "MED-C27-23",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "recall",
+      "q": "Which extra-articular list belongs to radiographic axial SpA on this page?",
+      "opts": [
+        "Only palmar plantar pustulosis without eye disease",
+        "Isolated cerebral vasculitis",
+        "Membranous nephropathy with Hearing loss only",
+        "4A uveitis (m/c), aortic regurgitation/ascending aortitis/conduction blocks, secondary IgA nephropathy, upper-lobe NSIP, enthesitis-related chest pain and osteoporosis"
+      ],
+      "ans": 3,
+      "exp": "Extra-articular features print 4A uveitis m/c; CVS aortic regurgitation, ascending aortitis, conduction blocks; renal secondary IgA nephropathy; lungs upper lobe interstitial lung disease (NSIP); chest pain from costochondritis/manubriosternal enthesitis plus ascending thoracic spine; and osteoporosis. (Book p533)"
+    },
+    {
+      "id": "MED-C27-24",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "page": 533,
+      "fmt": "scenario",
+      "q": "Chest pain in a patient with ankylosing spondylitis is attributed in the text to which mechanism?",
+      "opts": [
+        "Enthesitis at costochondritis or manubriosternal joint plus ascending thoracic spine involvement",
+        "Acute coronary syndrome only",
+        "Pulmonary embolism alone",
+        "Pericardial effusion without enthesitis"
+      ],
+      "ans": 0,
+      "exp": "Chest pain is d/t enthesitis at costochondritis or manubriosternal joint plus ascending thoracic spine. (Book p533)"
+    },
+    {
+      "id": "MED-C27-25",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "Which conditions are paired with upper-lobe interstitial lung disease in the printed note?",
+      "opts": [
+        "PAN and EGPA",
+        "Sarcoidosis and ankylosing spondylitis",
+        "RA and systemic sclerosis only",
+        "SLE and polymyositis"
+      ],
+      "ans": 1,
+      "exp": "Note: Upper Lobe ILD — sarcoidosis, ankylosing spondylitis. (Book p534)"
+    },
+    {
+      "id": "MED-C27-26",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "numeric",
+      "q": "What osteoporosis frequency ranking is printed?",
+      "opts": [
+        "AS > RA > SLE > sarcoidosis",
+        "Sarcoidosis > SLE > RA > AS",
+        "RA > AS > sarcoidosis > SLE",
+        "SLE > RA > AS > sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "Note prints osteoporosis: RA > AS > sarcoidosis > SLE. (Book p534)"
+    },
+    {
+      "id": "MED-C27-27",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "What does STIR stand for in the printed investigation note, and how is hyperintensity interpreted?",
+      "opts": [
+        "Signal Transfer Inversion Recovery; hyperintensity is diagnostic",
+        "Saturation Through Inversion Recovery; hyperintensity excludes disease",
+        "Short Time Inversion Region; hyperintensity is pathognomonic",
+        "Short Tau Inversion Recovery; hyperintensity is inconclusive"
+      ],
+      "ans": 3,
+      "exp": "Investigation: MRI — STIR sequence; STIR = Short Tau Inversion Recovery; hyperintensity: inconclusive. (Book p534)"
+    },
+    {
+      "id": "MED-C27-28",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "Which MRI panel labels are printed beneath the sacroiliac images?",
+      "opts": [
+        "Semi-coronal T1, semi-coronal T1FS, semi-coronal STIR and semi-axial STIR",
+        "Only AP pelvis and lateral views",
+        "T2 maps without T1 images",
+        "Diffusion tensor imaging only"
+      ],
+      "ans": 0,
+      "exp": "The MRI strip is captioned semi-coronal T1, semi-coronal T1FS, semi-coronal STIR and semi-axial STIR. (Book p534)"
+    },
+    {
+      "id": "MED-C27-29",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "What is printed as grade 0 of sacroiliitis on plain x-ray?",
+      "opts": [
+        "Joint ankylosis",
+        "Normal joints",
+        "Blurring plus sclerosis",
+        "Loss of margins with widening"
+      ],
+      "ans": 1,
+      "exp": "Grade 0 caption reads normal joints. (Book p534)"
+    },
+    {
+      "id": "MED-C27-30",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "numeric",
+      "q": "Which grade description and timing label apply to the earliest x-ray sign of sacroiliitis?",
+      "opts": [
+        "Grade 3: loss of margins and widening of joint space",
+        "Grade 4: complete joint ankylosis",
+        "Grade 1: slight blurring of cortical margins of the lower one-third of each joint; earliest x-ray sign",
+        "Grade 2: blurring and sclerosis only"
+      ],
+      "ans": 2,
+      "exp": "Grade 1 shows slight blurring of cortical margins of lower 1/3rd of each joint and is marked earliest x-ray sign. (Book p534)"
+    },
+    {
+      "id": "MED-C27-31",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "What two findings define grade 2 of sacroiliitis in the source?",
+      "opts": [
+        "Loss of margins and joint-space widening",
+        "Joint ankylosis only",
+        "Pure osteopenia without blurring",
+        "Blurring and sclerosis"
+      ],
+      "ans": 3,
+      "exp": "Grade 2 caption: blurring + sclerosis. (Book p534)"
+    },
+    {
+      "id": "MED-C27-32",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "What two findings define grade 3 of sacroiliitis?",
+      "opts": [
+        "Loss of margins and widening of joint space",
+        "Blurring and sclerosis",
+        "Normal cortices with narrow space",
+        "Complete bony fusion"
+      ],
+      "ans": 0,
+      "exp": "Grade 3 lists loss of margins and widening of joint space. (Book p534)"
+    },
+    {
+      "id": "MED-C27-33",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "recall",
+      "q": "What single finding defines grade 4 of sacroiliitis?",
+      "opts": [
+        "Subchondral cyst only",
+        "Joint ankylosis",
+        "Marginal blurring",
+        "Sclerotic band only"
+      ],
+      "ans": 1,
+      "exp": "Grade 4 caption: joint ankylosis. (Book p534)"
+    },
+    {
+      "id": "MED-C27-34",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 534,
+      "fmt": "scenario",
+      "q": "Bilateral sacroiliitis reported as grade 2/3 with a separate bamboo-spine film matches which printed pair of captions?",
+      "opts": [
+        "Grade 0 with normal spine",
+        "Grade 4 ankylosis with disc herniation",
+        "B/L sacroiliitis (grade 2/3) and bamboo spine",
+        "Unilateral grade 1 only and square vertebra"
+      ],
+      "ans": 2,
+      "exp": "The page captions B/L sacroiliitis (grade 2/3) and a bamboo spine image. (Book p534)"
+    },
+    {
+      "id": "MED-C27-35",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "recall",
+      "q": "Which structure calcification produces the dagger sign on AP spine films?",
+      "opts": [
+        "Joint capsule only",
+        "Ligamentum flavum alone",
+        "Annulus fibrosus only",
+        "Interspinous ligament"
+      ],
+      "ans": 3,
+      "exp": "Dagger sign: calcification of interspinous ligament; shown with dagger spine, rail-road sign and trolley-track sign panels. (Book p535)"
+    },
+    {
+      "id": "MED-C27-36",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "recall",
+      "q": "Which structure calcification produces the trolley track sign?",
+      "opts": [
+        "Joint capsule",
+        "Interspinous ligament only",
+        "Disc space only",
+        "Spinous process tip only"
+      ],
+      "ans": 0,
+      "exp": "Trolley track sign: calcification of joint capsule. (Book p535)"
+    },
+    {
+      "id": "MED-C27-37",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "recall",
+      "q": "What is the Romanus sign and its printed downstream signs?",
+      "opts": [
+        "Soft-tissue swelling alone",
+        "Erosion of the vertebral corner, then shiny-corner sclerosis, then square-wave vertebra with loss of concavity",
+        "Sclerosis isolated to the sacrum",
+        "Disc calcification without corner change"
+      ],
+      "ans": 1,
+      "exp": "Romanus sign: erosion of corner; shiny corner sign: sclerosis of vertebra; square wave vertebra: vertebra become square-like. (Book p535)"
+    },
+    {
+      "id": "MED-C27-38",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "numeric",
+      "q": "In the modified Schober test, what are the landmark and the A-to-B distance marked on the diagram?",
+      "opts": [
+        "ASIS with A to B = 20 cm",
+        "Sacrococcygeal junction with A to B = 25 cm",
+        "Posterior superior iliac spine landmark with A to B = 15 cm (10 cm above plus 5 cm below)",
+        "Iliac crest with A to B = 5 cm"
+      ],
+      "ans": 2,
+      "exp": "Landmark is posterior superior iliac spine; diagram labels A to B = 15 cm with 10 cm and 5 cm segments. (Book p535)"
+    },
+    {
+      "id": "MED-C27-39",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "scenario",
+      "q": "During modified Schober testing the patient bends forward with knees extended and the A-to-B span measures 17 cm. How is this classified?",
+      "opts": [
+        "Normal, because the minimum is 15 cm",
+        "Normal only if the knees are flexed",
+        "Indicative of grade 4 sacroiliitis",
+        "Abnormal, because A to B under 20 cm is abnormal"
+      ],
+      "ans": 3,
+      "exp": "Forward bending with knee in extension; A to B 20 cm (minimum) is normal, less than 20 cm is abnormal. (Book p535)"
+    },
+    {
+      "id": "MED-C27-40",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "management",
+      "q": "How are non-radiographic axial SpA and ankylosing spondylitis managed first in the printed algorithm?",
+      "opts": [
+        "Non-radiographic axial SpA: NSAIDs when needed; AS: exercise and physiotherapy as most important",
+        "Bed rest for both until symptoms resolve",
+        "Opioids as first line for both",
+        "Immediate biologics without NSAIDs"
+      ],
+      "ans": 0,
+      "exp": "Treatment: non-radiological axial SpA — NSAIDs when needed; AS — exercise, physiotherapy (most important). (Book p535)"
+    },
+    {
+      "id": "MED-C27-41",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "page": 535,
+      "fmt": "numeric",
+      "q": "Which first-line NSAID regimen and duration purpose are printed for AS?",
+      "opts": [
+        "Methotrexate 15 mg weekly as first line",
+        "Indomethacin 50 mg TID (also naproxen, ibuprofen); first line that prevents progression; duration 2–3 weeks",
+        "Colchicine 0.6 mg daily for 6 months",
+        "Prednisolone 60 mg taper over 8 weeks"
+      ],
+      "ans": 1,
+      "exp": "NSAID: indomethacin 50 mg TID, naproxen, ibuprofen — first line, prevent progression of disease, duration 2–3 wks. (Book p535)"
+    },
+    {
+      "id": "MED-C27-42",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "management",
+      "q": "Which biologic pair is printed after the NSAID block for axial SpA?",
+      "opts": [
+        "Abatacept and anakinra as the only options",
+        "JAK inhibitor tofacitinib plus baricitinib",
+        "Anti-TNF alpha: adalimumab; anti-IL-17: secukinumab",
+        "Anti-IL-6: tocilizumab; anti-CD20: rituximab"
+      ],
+      "ans": 2,
+      "exp": "The treatment continuation prints anti TNF alpha: adalimumab and anti IL-17: secukinumab. (Book p536)"
+    },
+    {
+      "id": "MED-C27-43",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "management",
+      "q": "What is the printed role of intra-articular steroids in this chapter?",
+      "opts": [
+        "To induce bony ankylosis",
+        "As disease-modifying monotherapy",
+        "To replace exercise therapy",
+        "For pain relief"
+      ],
+      "ans": 3,
+      "exp": "Intra-articular steroids: for pain relief. (Book p536)"
+    },
+    {
+      "id": "MED-C27-44",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "recall",
+      "q": "What demographic and inflammatory profile is printed for DISH?",
+      "opts": [
+        "Elderly male, non-inflammatory, part of metabolic syndrome",
+        "Young female with raised ESR as the rule",
+        "Children with HLA B27 association",
+        "Acute inflammatory monoarthritis of the first MTP"
+      ],
+      "ans": 0,
+      "exp": "DISH (diffuse idiopathic skeletal hyperostosis): elderly male, non-inflammatory, part of metabolic syndrome. (Book p536)"
+    },
+    {
+      "id": "MED-C27-45",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "recall",
+      "q": "Which structural and radiographic features complete the printed DISH description?",
+      "opts": [
+        "Chondrocalcinosis of the knee only",
+        "Ligamentous calcification with flowing wax appearance on x-ray",
+        "Marginal syndesmophytes with bamboo spine only",
+        "Punched-out erosions with overhanging edges"
+      ],
+      "ans": 1,
+      "exp": "DISH lists ligamentous calcification and flowing wax appearance in x-ray; dorsal and lumbar spine films illustrate the flow. (Book p536)"
+    },
+    {
+      "id": "MED-C27-46",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "recall",
+      "q": "What former name and classic triad are printed for reactive arthritis?",
+      "opts": [
+        "Behcet triad of oral and genital ulcers with uveitis only",
+        "Reiter as a seronegative RA subtype",
+        "Reiter's syndrome: urethritis, arthritis, conjunctivitis",
+        "Whipple disease triad of malabsorption and arthralgia"
+      ],
+      "ans": 2,
+      "exp": "Reactive arthritis was previously known as Reiter's syndrome (urethritis, arthritis, conjunctivitis). (Book p536)"
+    },
+    {
+      "id": "MED-C27-47",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "recall",
+      "q": "Which extra-articular feature and demographic pattern are printed for reactive arthritis?",
+      "opts": [
+        "Chronic posterior uveitis with female predominance over 60",
+        "No ocular involvement with equal sex ratio in children",
+        "Episcleritis only after age 70",
+        "4A uveitis as most common; male greater than female, age 20–40 years"
+      ],
+      "ans": 3,
+      "exp": "m/c extra-articular manifestation: 4A uveitis; m > F, 20–40 yrs. (Book p536)"
+    },
+    {
+      "id": "MED-C27-48",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "numeric",
+      "q": "What interval and axial involvement percentage appear on the infection-to-arthritis flowchart?",
+      "opts": [
+        "Infection after 2–4 weeks leads to arthritis, with axial involvement in 30%",
+        "Infection same day with axial involvement in 5%",
+        "Infection after 6 months with axial involvement in 80%",
+        "No latency with axial involvement in 10%"
+      ],
+      "ans": 0,
+      "exp": "Flowchart: infection → 2–4 weeks → arthritis with peripheral and axial (30%) arms. (Book p536)"
+    },
+    {
+      "id": "MED-C27-49",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "numeric",
+      "q": "What percentage of reactive arthritis episodes is printed as progressing to chronic arthritis?",
+      "opts": [
+        "80%",
+        "20%",
+        "5%",
+        "50%"
+      ],
+      "ans": 1,
+      "exp": "The flowchart prints 20% progressing to chronic arthritis. (Book p536)"
+    },
+    {
+      "id": "MED-C27-50",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "numeric",
+      "q": "Which genitourinary trigger and sex ratio are printed as most common worldwide?",
+      "opts": [
+        "Ureaplasma with female predominance",
+        "Salmonella with equal sex ratio",
+        "Chlamydia trachomatis with M:F 9:1",
+        "Neisseria gonorrhoeae with M:F 1:1"
+      ],
+      "ans": 2,
+      "exp": "Genitourinary: Chlamydia trachomatis (m/c cause worldwide) with M:F = 9:1. (Book p536)"
+    },
+    {
+      "id": "MED-C27-51",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "numeric",
+      "q": "Which gastrointestinal trigger is most common in India, and what is its sex ratio?",
+      "opts": [
+        "Campylobacter jejuni with M:F 9:1",
+        "Salmonella with M:F 3:1",
+        "E. coli with male predominance",
+        "Shigella flexneri with M:F 1:1"
+      ],
+      "ans": 3,
+      "exp": "Gastrointestinal: Shigella flexneri (m/c cause in India) with M:F = 1:1; Salmonella and Campylobacter follow. (Book p536)"
+    },
+    {
+      "id": "MED-C27-52",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "page": 536,
+      "fmt": "oddoneout",
+      "q": "Which organisms are explicitly excluded as causative agents of reactive arthritis on this page?",
+      "opts": [
+        "E. coli and Neisseria",
+        "Salmonella and Campylobacter",
+        "Shigella flexneri",
+        "Chlamydia trachomatis"
+      ],
+      "ans": 0,
+      "exp": "Note: E. coli and neisseria are not causative agents. (Book p536)"
+    },
+    {
+      "id": "MED-C27-53",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "scenario",
+      "q": "Synovial fluid cultures are sterile but PCR detects organism DNA inside synovial monocytes. Which printed concept applies?",
+      "opts": [
+        "Non-inflammatory osteoarthritis",
+        "Acute sterile arthritis with organisms inside synovial monocytes detected by PCR",
+        "Culture-positive septic arthritis",
+        "Crystal-proven gout without infection"
+      ],
+      "ans": 1,
+      "exp": "Acute sterile arthritis: organism not isolated from synovial fluid; organisms inside monocytes of synovium are detected by PCR of synovial fluid. (Book p537)"
+    },
+    {
+      "id": "MED-C27-54",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "numeric",
+      "q": "What HLA B27 percentage in reactive arthritis is linked to chronicity and prognosis?",
+      "opts": [
+        "Over 95%",
+        "0% by definition",
+        "50%–70% of cases",
+        "5%–10%"
+      ],
+      "ans": 2,
+      "exp": "HLA B-27 association in 50%–70% cases is linked to chronicity and prognosis. (Book p537)"
+    },
+    {
+      "id": "MED-C27-55",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "scenario",
+      "q": "A patient's arthritis starts in one knee and later adds joints asymmetrically with pain. Which printed pattern is this?",
+      "opts": [
+        "Symmetrical small-joint polyarthritis of MCP joints only",
+        "Isolated axial disease without peripheral joints",
+        "Non-inflammatory mechanical pain",
+        "Asymmetrical peripheral arthritis starting at the knee with oligoarthritis greater than monoarthritis, additive and painful"
+      ],
+      "ans": 3,
+      "exp": "Asymmetrical peripheral arthritis: starts at knee joint; oligoarthritis greater than monoarthritis; additive — progressive involvement of joints; painful. (Book p537)"
+    },
+    {
+      "id": "MED-C27-56",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "recall",
+      "q": "Which clinical manifestation triad is printed for reactive arthritis?",
+      "opts": [
+        "Synovitis plus predominant enthesitis plus dactylitis",
+        "Tophi plus calcinosis plus uveitis",
+        "Purpura plus arthritis plus nephritis",
+        "Fever plus rash plus lymphadenopathy alone"
+      ],
+      "ans": 0,
+      "exp": "Clinical manifestations: synovitis plus predominant enthesitis plus dactylitis; images show Achilles enthesitis and sausage-digit dactylitis. (Book p537)"
+    },
+    {
+      "id": "MED-C27-57",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "recall",
+      "q": "How are keratoderma blennorrhagicum and circinate balanitis described?",
+      "opts": [
+        "Balanitis is a scarring phimosis",
+        "Keratoderma: hyperkeratotic crusty painless vesicles on palms and soles; balanitis: shallow painless erythematous glans ulcers",
+        "Both are painful ulcerative lesions only on soles",
+        "Keratoderma is pustular only on the trunk"
+      ],
+      "ans": 1,
+      "exp": "1. Keratoderma blennorrhagicum: hyperkeratotic, crusty vesicles on palms and soles, painless. 2. Circinate balanitis: shallow erythematous ulcers of glans penis, painless. (Book p537)"
+    },
+    {
+      "id": "MED-C27-58",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "recall",
+      "q": "What is the printed differential diagnosis of keratoderma blennorrhagicum?",
+      "opts": [
+        "Disseminated gonococcemia only",
+        "Pompholyx alone",
+        "Palmo-plantar psoriasis",
+        "Secondary syphilis only"
+      ],
+      "ans": 2,
+      "exp": "Note: D/d for keratoderma blennorrhagicum — palmo-plantar psoriasis. (Book p537)"
+    },
+    {
+      "id": "MED-C27-59",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "numeric",
+      "q": "What percentage develops axial involvement in reactive arthritis, and what pattern of sacroiliitis is printed?",
+      "opts": [
+        "10% with symmetric sacroiliitis only",
+        "80% with no sacroiliitis",
+        "5% with complete ankylosis at onset",
+        "30% with asymmetric sacroiliitis"
+      ],
+      "ans": 3,
+      "exp": "Axial involvement of reactive arthritis (30%) with asymmetric sacroiliitis. (Book p537)"
+    },
+    {
+      "id": "MED-C27-60",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "page": 537,
+      "fmt": "recall",
+      "q": "Which syndesmophyte morphology is printed for reactive arthritis axial disease?",
+      "opts": [
+        "Thick, large, coarse, fluffy and non-marginal due to paravertebral ossification",
+        "Thin, delicate, marginal and symmetrical",
+        "Punched-out and periarticular only",
+        "Sclerotic and banded without ossification"
+      ],
+      "ans": 0,
+      "exp": "Syndesmophytes d/t paravertebral ossification: thick, large, coarse, fluffy, non-marginal. (Book p537)"
+    },
+    {
+      "id": "MED-C27-61",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "recall",
+      "q": "Which cardiac and renal extra-articular features are printed for reactive arthritis?",
+      "opts": [
+        "Pericarditis only with minimal-change disease",
+        "Aortic regurgitation (most common) with conduction blocks; secondary IgA nephropathy",
+        "Mitral stenosis with membranous nephropathy",
+        "Hypertrophic cardiomyopathy with amyloidosis"
+      ],
+      "ans": 1,
+      "exp": "Other manifestations: heart — aortic regurgitation (m/c), conduction blocks; kidney — secondary IgA nephropathy. (Book p538)"
+    },
+    {
+      "id": "MED-C27-62",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "recall",
+      "q": "What outcome statement is printed for reactive arthritis chronicity?",
+      "opts": [
+        "Chronic arthritis occurs only after eye involvement",
+        "Severity fully predicts joint destruction",
+        "Outcome/chronicity is unrelated to initial severity",
+        "Only severe index episodes become chronic"
+      ],
+      "ans": 2,
+      "exp": "Outcome/chronicity: unrelated to initial severity. (Book p538)"
+    },
+    {
+      "id": "MED-C27-63",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "recall",
+      "q": "Which laboratory and microbiology investigations are printed?",
+      "opts": [
+        "Low ESR with negative PCR as the rule",
+        "Plain x-ray alone without labs",
+        "Serum RF as the diagnostic test",
+        "Raised ESR/CRP and synovial-fluid PCR that identifies the organism"
+      ],
+      "ans": 3,
+      "exp": "Investigations: ESR CRP increased; synovial fluid PCR identifies organism. (Book p538)"
+    },
+    {
+      "id": "MED-C27-64",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "scenario",
+      "q": "Migratory upper- and lower-limb arthritis is highlighted in the source against which organism?",
+      "opts": [
+        "Gonococcal arthritis",
+        "Chlamydial arthritis only",
+        "Shigella arthritis",
+        "Crystal arthritis"
+      ],
+      "ans": 0,
+      "exp": "Note: gonococcal arthritis has migratory upper limb and lower limb arthritis. (Book p538)"
+    },
+    {
+      "id": "MED-C27-65",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "management",
+      "q": "Which reactive arthritis treatment triplet is printed?",
+      "opts": [
+        "Tocilizumab monotherapy",
+        "Indomethacin 50 mg TID, intra-articular steroid for pain, and sulfasalazine for chronic disease (15%–20%)",
+        "Colchicine plus allopurinol only",
+        "Methotrexate as first line without NSAIDs"
+      ],
+      "ans": 1,
+      "exp": "Treatment: NSAIDs — indomethacin 50 mg TID; intraarticular steroid to alleviate pain; DMARD — sulfasalazine for chronic reactive arthritis (15%–20%). (Book p538)"
+    },
+    {
+      "id": "MED-C27-66",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "recall",
+      "q": "What alternate name, sex ratio and IBD hierarchy are printed for enteropathic arthritis?",
+      "opts": [
+        "Rheumatoid-like with female predominance",
+        "Psoriatic variant with no bowel link",
+        "IBD-associated arthritis; M:F 1:1; Crohn disease greater than ulcerative colitis",
+        "Seronegative spondyloarthritis with male predominance; UC greater than Crohn"
+      ],
+      "ans": 2,
+      "exp": "Enteropathic arthritis AKA IBD associated arthritis; M:F = 1:1; Crohn's disease greater than ulcerative colitis. (Book p538)"
+    },
+    {
+      "id": "MED-C27-67",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "numeric",
+      "q": "Which peripheral versus axial pattern percentages are printed for enteropathic arthritis?",
+      "opts": [
+        "Peripheral 10% with axial 25%",
+        "Equal 50% and 50%",
+        "Axial 80% with peripheral 5%",
+        "Peripheral 25% greater than axial 10%"
+      ],
+      "ans": 3,
+      "exp": "Peripheral (25%) greater than axial pattern (10%). (Book p538)"
+    },
+    {
+      "id": "MED-C27-68",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "recall",
+      "q": "Which features define axial enteropathic arthritis on this page?",
+      "opts": [
+        "Presentation similar to ankylosing spondylitis with HLA B27 in 50%, symmetric sacroiliitis, no correlation to bowel activity, no enthesitis or dactylitis",
+        "Asymmetric sacroiliitis with dactylitis as the rule",
+        "Strict correlation with bowel flares",
+        "Exclusive DIP involvement"
+      ],
+      "ans": 0,
+      "exp": "Axial arthritis: presentation similar to ankylosing spondylitis; HLA B-27 association in 50% cases; symmetric sacroiliitis; no correlation to bowel activity; no enthesitis, dactylitis. (Book p538)"
+    },
+    {
+      "id": "MED-C27-69",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "page": 538,
+      "fmt": "recall",
+      "q": "In the peripheral arthritis table, which associations belong to Type 1 LMAP arthritis?",
+      "opts": [
+        "Sacroiliitis without peripheral joints",
+        "Episcleritis, erythema nodosum and arthritis, with flares correlating with bowel disease and more common occurrence",
+        "Uveitis with no correlation and less common occurrence",
+        "Isolated dactylitis without bowel link"
+      ],
+      "ans": 1,
+      "exp": "Type 1 LMAP arthritis: more common; flares correlate with bowel disease; associated factors episcleritis, erythema nodosum, arthritis — versus Type 2 SMAP-u: less common, no correlation, uveitis. (Book p538)"
+    },
+    {
+      "id": "MED-C27-70",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "recall",
+      "q": "Which pattern description belongs to Type 1 LMAP arthritis?",
+      "opts": [
+        "Strictly axial with no peripheral joints",
+        "DIP-predominant with pencil-in-cup only",
+        "Large joint (knee predominant), migratory, asymmetric, pauciarticular with lower limb greater than upper limb",
+        "Small joint MCP, aggressive chronic symmetric polyarticular"
+      ],
+      "ans": 2,
+      "exp": "Type 1 LMAP arthritis row: large joint (knee predominant), migratory, asymmetric, pauciarticular arthritis (lower limb greater than upper limb). (Book p539)"
+    },
+    {
+      "id": "MED-C27-71",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "management",
+      "q": "Which treatment and prognosis pair is printed for Type 1 LMAP arthritis?",
+      "opts": [
+        "Anti-TNF alpha (infliximab) as drug of choice",
+        "Chronic steroid dependence",
+        "Joint replacement at diagnosis",
+        "Self-limiting with good prognosis"
+      ],
+      "ans": 3,
+      "exp": "Type 1 treatment/prognosis: self-limiting, good prognosis. (Book p539)"
+    },
+    {
+      "id": "MED-C27-72",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "recall",
+      "q": "Which pattern belongs to Type 2 SMAP-u arthritis?",
+      "opts": [
+        "Small joint (MCP), migratory, aggressive chronic, symmetrical polyarticular arthritis",
+        "Large-joint monoarthritis that is self-limited",
+        "Isolated enthesitis without synovitis",
+        "Non-inflammatory osteoarthritis only"
+      ],
+      "ans": 0,
+      "exp": "Type 2 SMAP-u arthritis: small joint (MCP), migratory, aggressive, chronic, symmetrical, polyarticular arthritis. (Book p539)"
+    },
+    {
+      "id": "MED-C27-73",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "management",
+      "q": "What is the printed drug of choice for Type 2 SMAP-u arthritis?",
+      "opts": [
+        "Indomethacin as monotherapy only",
+        "Anti-TNF alpha — infliximab",
+        "Hydroxychloroquine alone",
+        "Colchicine for bowel flares"
+      ],
+      "ans": 1,
+      "exp": "Type 2 treatment: anti TNF alpha — DOC, infliximab. (Book p539)"
+    },
+    {
+      "id": "MED-C27-74",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "recall",
+      "q": "Which stool markers are printed for monitoring bowel flares?",
+      "opts": [
+        "Fecal calcuria",
+        "Stool pH only",
+        "Calprotectin and lactoferrin",
+        "Occult blood alone as the sole marker"
+      ],
+      "ans": 2,
+      "exp": "Note: calprotectin, lactoferrin in stools for bowel flare. (Book p539)"
+    },
+    {
+      "id": "MED-C27-75",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "numeric",
+      "q": "What proportion of psoriatic cases develops arthritis, and which psoriasis type is linked?",
+      "opts": [
+        "1%–2% with guttate only",
+        "Over 90% with pustular only",
+        "0% with erythrodermic",
+        "7%–40% with plaque-type psoriasis"
+      ],
+      "ans": 3,
+      "exp": "Psoriatic arthritis: 7%–40% of psoriatic cases develop arthritis; plaque type psoriasis. (Book p539)"
+    },
+    {
+      "id": "MED-C27-76",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "numeric",
+      "q": "What age, sex ratio and HLA associations are printed for psoriatic arthritis?",
+      "opts": [
+        "Age over 40, M:F 1:1, HLA CW-06 02 and HLA B27 for arthritis",
+        "Age under 20 with HLA DR4 only",
+        "Female predominance 9:1 with B27 negative",
+        "No HLA association"
+      ],
+      "ans": 0,
+      "exp": "Age greater than 40 yrs; M:F = 1:1; HLA CW-06 02, HLA B27 (arthritis). (Book p539)"
+    },
+    {
+      "id": "MED-C27-77",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "numeric",
+      "q": "How does the 60/30/30 rule distribute psoriasis–arthritis order, and what nail percentage is bracketed?",
+      "opts": [
+        "All present simultaneously in 100%",
+        "60% psoriasis then arthritis; 20% both together; 20% arthritis then psoriasis; nail changes in 90%",
+        "50/30/20 with nail changes in 50%",
+        "70/20/10 with nail changes in 20%"
+      ],
+      "ans": 1,
+      "exp": "60/30/30 rule: 60% psoriasis → arthritis, 20% psoriasis + arthritis, 20% arthritis → psoriasis, plus nail changes in 90%. (Book p539)"
+    },
+    {
+      "id": "MED-C27-78",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "recall",
+      "q": "Which clinical manifestation cluster is printed for psoriatic arthritis?",
+      "opts": [
+        "Tophi with hyperuricemia",
+        "Only axial disease without dactylitis",
+        "Synovitis, dactylitis, enthesitis and axial involvement of the cervical spine",
+        "Isolated DIP osteoarthritis without inflammation"
+      ],
+      "ans": 2,
+      "exp": "Clinical manifestation: synovitis + dactylitis + enthesitis + axial involvement (cervical spine). (Book p539)"
+    },
+    {
+      "id": "MED-C27-79",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "recall",
+      "q": "Which joint morphology and mucocutaneous statement are printed?",
+      "opts": [
+        "Thin marginal symmetrical syndesmophytes with obligatory rash",
+        "Punched-out erosions with pathognomonic nail loss only",
+        "Pure cartilage loss without bone change",
+        "Thick, non-marginal, asymmetric arthritis with no mucocutaneous involvement at the articular assessment"
+      ],
+      "ans": 3,
+      "exp": "Thick, non-marginal, asymmetric arthritis; no mucocutaneous involvement is listed in the manifestation block. (Book p539)"
+    },
+    {
+      "id": "MED-C27-80",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "page": 539,
+      "fmt": "recall",
+      "q": "Which cardiac, renal and ocular extras complete the psoriatic arthritis list?",
+      "opts": [
+        "Aortic regurgitation with conduction block; secondary IgA nephropathy; bilateral chronic posterior uveitis",
+        "Mitral prolapse with interstitial nephritis and anterior uveitis",
+        "Heart failure with amyloidosis only",
+        "No ocular or renal associations"
+      ],
+      "ans": 0,
+      "exp": "CVS: aortic regurgitation, conduction block; renal: 2° IgA nephropathy; B/L chronic posterior uveitis. (Book p539)"
+    },
+    {
+      "id": "MED-C27-81",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "oddoneout",
+      "q": "Which psoriasis forms are annotated as not associated with arthritis?",
+      "opts": [
+        "Nail psoriasis with arthritis",
+        "Guttate psoriasis and erythrodermis psoriasis",
+        "Plaque psoriasis and psoriatic arthritis",
+        "Pustular psoriasis"
+      ],
+      "ans": 1,
+      "exp": "The captions guttate psoriasis and erythrodermis psoriasis carry the note not associated with arthritis. (Book p540)"
+    },
+    {
+      "id": "MED-C27-82",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "scenario",
+      "q": "Pustular psoriasis with destructive joint disease prompts which printed instruction?",
+      "opts": [
+        "Assume HLA B27 negative disease",
+        "Withhold all systemic therapy",
+        "Rule out HIV; it is the most destructive arthritis pattern",
+        "Start allopurinol immediately"
+      ],
+      "ans": 2,
+      "exp": "Pustular psoriasis: most destructive arthritis; rule out HIV. (Book p540)"
+    },
+    {
+      "id": "MED-C27-83",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "numeric",
+      "q": "What percentage of psoriatic patients has nail changes, and what yellow-margin pattern is printed?",
+      "opts": [
+        "20% with isolated onycholysis only",
+        "5% with no colour change",
+        "100% with complete nail loss at onset",
+        "90% with longitudinal yellow nail margin"
+      ],
+      "ans": 3,
+      "exp": "Nail changes (90%): yellow nail margin (longitudinal). (Book p540)"
+    },
+    {
+      "id": "MED-C27-84",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "recall",
+      "q": "Which four nail photographs are labeled on this page?",
+      "opts": [
+        "Deep and coarse nail pitting; onycholysis with subungual hyperkeratosis; oil drop sign (classical); longitudinal ridging",
+        "Spoon nails, Beau lines only",
+        "Leukonychia and koilonychia",
+        "Onychomycosis and paronychia"
+      ],
+      "ans": 0,
+      "exp": "Nail panels: deep and coarse nail pitting; onycholysis with subungual hyperkeratosis; oil drop sign (classical); longitudinal ridging. (Book p540)"
+    },
+    {
+      "id": "MED-C27-85",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "recall",
+      "q": "Which nail sign is explicitly called classical?",
+      "opts": [
+        "Longitudinal ridging alone",
+        "Oil drop sign",
+        "Pitting alone",
+        "Onycholysis alone"
+      ],
+      "ans": 1,
+      "exp": "The oil drop sign panel is annotated classical. (Book p540)"
+    },
+    {
+      "id": "MED-C27-86",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "recall",
+      "q": "Which pattern is the most common type in the Wright and Moll classification?",
+      "opts": [
+        "Axial spondyloarthritis alone",
+        "Isolated dactylitis",
+        "Symmetric polyarthritis with DIP involvement, skin lesions and nail changes, differentially RA in small joints",
+        "Arthritis mutilans"
+      ],
+      "ans": 2,
+      "exp": "Wright and Moll: symmetric polyarthritis (m/c type) — involvement of DIP, skin lesion, nail changes; D/d RA (involvement of small joints). (Book p540)"
+    },
+    {
+      "id": "MED-C27-87",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "recall",
+      "q": "Which remaining Wright–Moll patterns are printed?",
+      "opts": [
+        "Only mutilans and axial forms",
+        "Guttate and pustular rows",
+        "DISH and CPPD rows",
+        "Asymmetrical oligoarthritis; predominant DIP arthritis; predominant spondyloarthritis (axial 5%, cervical predominance); arthritis mutilans with complete destruction"
+      ],
+      "ans": 3,
+      "exp": "Classification continues with asymmetrical oligoarthritis, predominant DIP arthritis, predominant spondyloarthritis (axial pattern 5%, cervical predominance) and arthritis mutilans: complete destruction. (Book p540)"
+    },
+    {
+      "id": "MED-C27-88",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "page": 540,
+      "fmt": "numeric",
+      "q": "What axial percentage and region predominance are printed for the spondyloarthritis pattern of psoriatic arthritis?",
+      "opts": [
+        "Axial pattern 5% with cervical predominance",
+        "Axial pattern 50% with lumbar predominance",
+        "Axial 100% with no region preference",
+        "Axial involvement is excluded"
+      ],
+      "ans": 0,
+      "exp": "Predominant spondyloarthritis: axial pattern (5%), cervical predominance. (Book p540)"
+    },
+    {
+      "id": "MED-C27-89",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "recall",
+      "q": "Which three clinical images are captioned on this page?",
+      "opts": [
+        "Septic joint, erysipelas and cellulitis",
+        "Arthritis mutilans, dactylitis and corn foot",
+        "Gouty tophi, chalky deposit and bursitis",
+        "Heberden nodes, Bouchard nodes and swan neck"
+      ],
+      "ans": 1,
+      "exp": "Image captions: arthritis mutilans; dactylitis; corn foot. (Book p541)"
+    },
+    {
+      "id": "MED-C27-90",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "recall",
+      "q": "In the PsA versus RA table, how is psoriasis scored in each column?",
+      "opts": [
+        "RA positive, PsA negative",
+        "Neither column scores it",
+        "Psoriatic arthritis plus; rheumatoid arthritis minus",
+        "Both positive equally"
+      ],
+      "ans": 2,
+      "exp": "Difference table row Psoriasis: psoriatic arthritis +, rheumatoid arthritis −. (Book p541)"
+    },
+    {
+      "id": "MED-C27-91",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "oddoneout",
+      "q": "Which row favors rheumatoid arthritis rather than psoriatic arthritis in the printed table?",
+      "opts": [
+        "Asymmetry scored ++ in PsA",
+        "Enthesopathy present only in PsA",
+        "Nail dystrophy present only in PsA",
+        "Symmetric disease scored ++ in RA versus + in PsA"
+      ],
+      "ans": 3,
+      "exp": "Symmetric: RA ++ greater than PsA +, while asymmetric, enthesopathy, dactylitis, nail dystrophy and HIV association favor PsA. (Book p541)"
+    },
+    {
+      "id": "MED-C27-92",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "oddoneout",
+      "q": "Which features are printed as present in psoriatic arthritis but absent in rheumatoid arthritis?",
+      "opts": [
+        "Enthesopathy, dactylitis, nail dystrophy and HIV association",
+        "Symmetric polyarticular involvement",
+        "Rheumatoid nodules",
+        "Erosions with preserved joint space"
+      ],
+      "ans": 0,
+      "exp": "Table rows enthesopathy, dactylitis, nail dystrophy and HIV association are + for PsA and − for RA. (Book p541)"
+    },
+    {
+      "id": "MED-C27-93",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "recall",
+      "q": "What progression statement and classification criteria are printed for psoriatic arthritis?",
+      "opts": [
+        "Joint fusion excluded by definition",
+        "Rapid progression to bony ankylosis with CASPER criteria and no diagnostic testing",
+        "Slow progression with ACR 1987 as the only criteria",
+        "No bony change with mandatory serology"
+      ],
+      "ans": 1,
+      "exp": "Progression: rapid progression to bony ankylosis; CASPER criteria; no diagnostic testing. (Book p541)"
+    },
+    {
+      "id": "MED-C27-94",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "recall",
+      "q": "What does the ivory phalanx radiograph represent in this chapter?",
+      "opts": [
+        "A septic arthritis with osteomyelitis only",
+        "A DISH flowing-wax spine",
+        "A psoriatic hand finding shown beside the progression notes",
+        "A gouty tophus with rat-bite erosions"
+      ],
+      "ans": 2,
+      "exp": "The page pairs an ivory phalanx hand film with the progression and CASPER notes for psoriatic arthritis. (Book p541)"
+    },
+    {
+      "id": "MED-C27-95",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "page": 541,
+      "fmt": "recall",
+      "q": "How are syndesmophytes defined in the AP vertebral diagram on this page?",
+      "opts": [
+        "Thick, coarse and asymmetrical only",
+        "Lateral and non-marginal only",
+        "Absent in psoriatic disease",
+        "Thin, vertical and symmetrical"
+      ],
+      "ans": 3,
+      "exp": "Syndesmophytes: thin, vertical and symmetrical in the AP illustration. (Book p541)"
+    },
+    {
+      "id": "MED-C27-96",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "page": 542,
+      "fmt": "recall",
+      "q": "How is paravertebral ossification characterized and which diseases are listed?",
+      "opts": [
+        "Large, coarse and asymmetrical; seen in Reiter's syndrome and psoriatic arthropathy",
+        "Thin and marginal only in ankylosing spondylitis",
+        "Restricted to DISH alone",
+        "Excluded from seronegative spondyloarthropathies"
+      ],
+      "ans": 0,
+      "exp": "Paravertebral ossification: large, coarse, asymmetrical; seen in Reiter's syndrome and psoriatic arthropathy; the film is captioned non-marginal syndesmophyte. (Book p542)"
+    },
+    {
+      "id": "MED-C27-97",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "page": 542,
+      "fmt": "recall",
+      "q": "What is the pencil-in-cup deformity shown on the hand film and diagram?",
+      "opts": [
+        "A fracture-dislocation pattern",
+        "Tapered proximal phalanx fitting a widened distal articular cup",
+        "A normal joint-space measurement",
+        "A gouty overhanging edge lesion"
+      ],
+      "ans": 1,
+      "exp": "Pencil-in-cup deformity is illustrated radiographically and schematically versus a normal phalanx. (Book p542)"
+    },
+    {
+      "id": "MED-C27-98",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "page": 542,
+      "fmt": "recall",
+      "q": "How is whiskering defined in the source?",
+      "opts": [
+        "Soft-tissue swelling without erosion",
+        "Punched-out lesion with sclerotic rim only",
+        "Marginal erosion with adjacent bone proliferation",
+        "Sclerosis of the vertebral corner only"
+      ],
+      "ans": 2,
+      "exp": "Whiskering: marginal erosion with adjacent bone proliferation. (Book p542)"
+    },
+    {
+      "id": "MED-C27-99",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "page": 542,
+      "fmt": "recall",
+      "q": "What two additional hand signs are listed with whiskering?",
+      "opts": [
+        "Heberden nodes and swan-neck deformity only",
+        "Tophi and rat-bite erosions",
+        "Nail pitting alone without bone change",
+        "Telescoping of digits and ray pattern erosion of MCP, PIP and DIP in the same finger (100% psoriatic x-ray)"
+      ],
+      "ans": 3,
+      "exp": "Telescoping of digits; ray pattern — erosion of MCP, PIP, DIP in same finger; 100% psoriatic X-ray. (Book p542)"
+    },
+    {
+      "id": "MED-C27-100",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "page": 542,
+      "fmt": "management",
+      "q": "Which full medication list is printed for psoriatic arthritis?",
+      "opts": [
+        "Anti-TNF alpha drugs, apremilast (PDE4 inhibitor), methotrexate, leflunomide, ustekinumab, secukinumab and tofacitinib",
+        "Colchicine and allopurinol only",
+        "Sulfasalazine monotherapy without biologics",
+        "Warfarin and NSAIDs only"
+      ],
+      "ans": 0,
+      "exp": "Treatment lists anti TNF alpha drugs, apremilast (PDE 4 inhibitor), methotrexate, leflunomide, ustekinumab, secukinumab and tofacitinib. (Book p542)"
+    },
+    {
+      "id": "MED-C27-101",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "page": 542,
+      "fmt": "recall",
+      "q": "Which mechanism label is attached to apremilast in the printed ladder?",
+      "opts": [
+        "Xanthine oxidase inhibitor",
+        "PDE4 inhibitor",
+        "JAK1-selective inhibitor only",
+        "IL-17A neutralizer only"
+      ],
+      "ans": 1,
+      "exp": "Apremilast is annotated PDE 4 inhibitor. (Book p542)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U27-1",
+      "ch": 27,
+      "n": 1,
+      "title": "1. Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "sec": "Spondyloarthritis classification, shared features and non-radiographic axial SpA",
+      "guide": "The chapter opens with the axial, peripheral and juvenile SpA tree and shared features. Non-radiographic axial SpA clinical features, MRI note and 5% progression in 5–10 years are kept in printed order.\nRadiographic conversion brings sacroiliitis x-ray features and extra-articular may be seen.",
+      "qs": [
+        "MED-C27-01",
+        "MED-C27-02",
+        "MED-C27-03",
+        "MED-C27-04",
+        "MED-C27-05",
+        "MED-C27-06",
+        "MED-C27-07",
+        "MED-C27-08",
+        "MED-C27-09"
+      ]
+    },
+    {
+      "id": "MED-U27-2",
+      "ch": 27,
+      "n": 2,
+      "title": "2. Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "sec": "Radiographic axial SpA pathogenesis, presentation and inflammatory back pain",
+      "guide": "Inflammatory granulation tissue erodes disc structures and calcifies annular fibres into syndesmophytes. Vertical osteophytes, gliding, bony ankylosis, bamboo spine and square-wave vertebra complete the mechanical chain.\nComplication, mediators, synovitis–enthesitis presentation and inflammatory back pain aspects follow source order.",
+      "qs": [
+        "MED-C27-10",
+        "MED-C27-11",
+        "MED-C27-12",
+        "MED-C27-13",
+        "MED-C27-14",
+        "MED-C27-15",
+        "MED-C27-16",
+        "MED-C27-17",
+        "MED-C27-18",
+        "MED-C27-19",
+        "MED-C27-20",
+        "MED-C27-21",
+        "MED-C27-22",
+        "MED-C27-23",
+        "MED-C27-24"
+      ]
+    },
+    {
+      "id": "MED-U27-3",
+      "ch": 27,
+      "n": 3,
+      "title": "3. Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "sec": "Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs",
+      "guide": "Upper-lobe ILD and osteoporosis ranking notes precede the MRI-STIR block. Plain x-ray grades 0–4 of sacroiliitis with the earliest sign and bamboo spine close the imaging unit.\nDagger, trolley-track, Romanus, shiny-corner and square-wave signs are kept as printed definitions.",
+      "qs": [
+        "MED-C27-25",
+        "MED-C27-26",
+        "MED-C27-27",
+        "MED-C27-28",
+        "MED-C27-29",
+        "MED-C27-30",
+        "MED-C27-31",
+        "MED-C27-32",
+        "MED-C27-33",
+        "MED-C27-34",
+        "MED-C27-35",
+        "MED-C27-36",
+        "MED-C27-37",
+        "MED-C27-38",
+        "MED-C27-39",
+        "MED-C27-40",
+        "MED-C27-41"
+      ]
+    },
+    {
+      "id": "MED-U27-4",
+      "ch": 27,
+      "n": 4,
+      "title": "4. Advanced therapy, DISH and reactive arthritis onset",
+      "sec": "Advanced therapy, DISH and reactive arthritis onset",
+      "guide": "Adalimumab, secukinumab and intra-articular steroids complete axial therapy. DISH demographics, metabolic link and flowing-wax x-ray appearance open the differential block.\nReiter's triad, 4A uveitis, demographics, infection-to-arthritis timing and trigger organisms stay in printed order.",
+      "qs": [
+        "MED-C27-42",
+        "MED-C27-43",
+        "MED-C27-44",
+        "MED-C27-45",
+        "MED-C27-46",
+        "MED-C27-47",
+        "MED-C27-48",
+        "MED-C27-49",
+        "MED-C27-50",
+        "MED-C27-51",
+        "MED-C27-52"
+      ]
+    },
+    {
+      "id": "MED-U27-5",
+      "ch": 27,
+      "n": 5,
+      "title": "5. Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "sec": "Reactive arthritis clinical course, mucocutaneous lesions and axial involvement",
+      "guide": "Sterile arthritis, PCR detection and HLA-B27 chronicity precede the asymmetrical pattern. Synovitis–enthesitis–dactylitis, keratoderma and circinate balanitis with psoriasis d/d follow.\nAxial 30% with fluffy non-marginal syndesmophytes closes the block.",
+      "qs": [
+        "MED-C27-53",
+        "MED-C27-54",
+        "MED-C27-55",
+        "MED-C27-56",
+        "MED-C27-57",
+        "MED-C27-58",
+        "MED-C27-59",
+        "MED-C27-60"
+      ]
+    },
+    {
+      "id": "MED-U27-6",
+      "ch": 27,
+      "n": 6,
+      "title": "6. Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "sec": "Reactive arthritis systemic features, treatment and enteropathic arthritis",
+      "guide": "Cardiac and renal extras plus severity-independent outcome lead investigations. Gonococcal migratory note and the indomethacin–sulfasalazine ladder complete reactive therapy.\nEnteropathic epidemiology, axial features and the LMAP versus SMAP-u table follow in printed order.",
+      "qs": [
+        "MED-C27-61",
+        "MED-C27-62",
+        "MED-C27-63",
+        "MED-C27-64",
+        "MED-C27-65",
+        "MED-C27-66",
+        "MED-C27-67",
+        "MED-C27-68",
+        "MED-C27-69"
+      ]
+    },
+    {
+      "id": "MED-U27-7",
+      "ch": 27,
+      "n": 7,
+      "title": "7. LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "sec": "LMAP versus SMAP-u, stool markers and psoriatic arthritis basics",
+      "guide": "The arthritis-pattern table contrasts large-joint self-limited disease with aggressive small-joint polyarthritis needing anti-TNF. Stool calprotectin/lactoferrin note transitions to psoriatic arthritis epidemiology and HLA links.\nThe 60/30/30 rule with 90% nail changes and systemic manifestations stay source-ordered.",
+      "qs": [
+        "MED-C27-70",
+        "MED-C27-71",
+        "MED-C27-72",
+        "MED-C27-73",
+        "MED-C27-74",
+        "MED-C27-75",
+        "MED-C27-76",
+        "MED-C27-77",
+        "MED-C27-78",
+        "MED-C27-79",
+        "MED-C27-80"
+      ]
+    },
+    {
+      "id": "MED-U27-8",
+      "ch": 27,
+      "n": 8,
+      "title": "8. Psoriasis variants, nail signs and Wright–Moll classification",
+      "sec": "Psoriasis variants, nail signs and Wright–Moll classification",
+      "guide": "Guttate/erythrodermic forms are separated from arthritis while pustular disease is most destructive. Five nail photographs with oil-drop sign as classical map the 90% nail-change rule.\nWright–Moll five patterns including arthritis mutilans close the unit in printed order.",
+      "qs": [
+        "MED-C27-81",
+        "MED-C27-82",
+        "MED-C27-83",
+        "MED-C27-84",
+        "MED-C27-85",
+        "MED-C27-86",
+        "MED-C27-87",
+        "MED-C27-88"
+      ]
+    },
+    {
+      "id": "MED-U27-9",
+      "ch": 27,
+      "n": 9,
+      "title": "9. Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "sec": "Psoriatic versus rheumatoid features, progression and hand radiographs",
+      "guide": "Mutilans, dactylitis and corn-foot images open the unit. The eight-row PsA-versus-RA comparison table and rapid bony ankylosis with CASPER follow.\nIvory phalanx and thin vertical symmetrical syndesmophytes close the page.",
+      "qs": [
+        "MED-C27-89",
+        "MED-C27-90",
+        "MED-C27-91",
+        "MED-C27-92",
+        "MED-C27-93",
+        "MED-C27-94",
+        "MED-C27-95"
+      ]
+    },
+    {
+      "id": "MED-U27-10",
+      "ch": 27,
+      "n": 10,
+      "title": "10. Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "sec": "Psoriatic spinal and hand radiographic signs plus systemic therapy",
+      "guide": "Paravertebral ossification and non-marginal syndesmophytes contrast with axial AS morphology. Pencil-in-cup, whiskering, telescoping and the 100% ray pattern define PsA hands.\nThe seven-drug ladder from anti-TNF to tofacitinib closes Chapter 27 in printed order.",
+      "qs": [
+        "MED-C27-96",
+        "MED-C27-97",
+        "MED-C27-98",
+        "MED-C27-99",
+        "MED-C27-100",
+        "MED-C27-101"
+      ]
+    }
+  ]
+}

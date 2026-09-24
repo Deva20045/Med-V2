@@ -1,0 +1,487 @@
+{
+  "chapter": 29,
+  "title": "Adult-Onset Still's Disease and Septic Arthritis",
+  "pageRange": "552-554",
+  "questions": [
+    {
+      "id": "MED-C29-01",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "numeric",
+      "q": "What age band and form of presentation are printed for adult-onset Still's disease?",
+      "opts": [
+        "Under 15 years with articular only",
+        "Over 70 with localized joints",
+        "No defined age with skin-limited disease",
+        "25–45 years with systemic form of presentation"
+      ],
+      "ans": 3,
+      "exp": "Adult Onset Still's Disease: age 25–45 yrs; systemic form of presentation. (Book p552)"
+    },
+    {
+      "id": "MED-C29-02",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "recall",
+      "q": "What prodromal phase feature is printed for AOSD?",
+      "opts": [
+        "Sore throat",
+        "Headache only",
+        "Dysuria",
+        "No prodrome"
+      ],
+      "ans": 0,
+      "exp": "Features: prodromal phase — sore throat. (Book p552)"
+    },
+    {
+      "id": "MED-C29-03",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "recall",
+      "q": "How is the fever component of the clinical triad described?",
+      "opts": [
+        "No fever in classic triad",
+        "Persistent high spiking fever that reaches subnormal levels during the day (quotidian pattern)",
+        "Continuous low-grade fever only",
+        "Night sweats without spikes"
+      ],
+      "ans": 1,
+      "exp": "Clinical triad: fever — persistent high spiking reaches subnormal levels during day (quotidian). (Book p552)"
+    },
+    {
+      "id": "MED-C29-04",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "recall",
+      "q": "What rash morphology and behavior are printed in the triad?",
+      "opts": [
+        "Palpable purpura on legs",
+        "Ichthyosis only",
+        "Salmon-colored transient evanescent maculopapular rash",
+        "Fixed hyperpigmented plaques"
+      ],
+      "ans": 2,
+      "exp": "Salmon colored rash: transient evanescent maculo papular rash. (Book p552)"
+    },
+    {
+      "id": "MED-C29-05",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "numeric",
+      "q": "What arthritis distribution and site order are printed for AOSD?",
+      "opts": [
+        "Asymmetric oligoarthritis of DIP only",
+        "Monoarticular hip only",
+        "Axial spine only",
+        "Symmetric polyarticular with knee greater than wrist greater than ankle greater than elbow"
+      ],
+      "ans": 3,
+      "exp": "Arthritis: symmetric, polyarticular (knee greater than wrist greater than ankle greater than elbow). (Book p552)"
+    },
+    {
+      "id": "MED-C29-06",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "numeric",
+      "q": "What percentage progresses to severe or destructive arthritis, and where are erosions most common?",
+      "opts": [
+        "25% severe/destructive arthritis; joint erosions most common in children",
+        "5% severe with adult-only erosions",
+        "90% severe",
+        "No progression risk printed"
+      ],
+      "ans": 0,
+      "exp": "Progress to severe/destructive arthritis in 25% of cases; joint erosions m/c in children. (Book p552)"
+    },
+    {
+      "id": "MED-C29-07",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "oddoneout",
+      "q": "Which cluster is labelled bad prognosis in AOSD?",
+      "opts": [
+        "Quotidian fever without organomegaly",
+        "Serositis, lymphadenopathy and hepatosplenomegaly",
+        "Sore throat and salmon rash alone",
+        "Isolated arthralgia"
+      ],
+      "ans": 1,
+      "exp": "Serositis, lymphadenopathy and hepatosplenomegaly are bracketed as bad prognosis. (Book p552)"
+    },
+    {
+      "id": "MED-C29-08",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "recall",
+      "q": "Which blood parameters are printed for AOSD?",
+      "opts": [
+        "Normal white count with high albumin",
+        "Thrombocytosis with low CRP",
+        "Leukocytosis, raised ESR, raised CRP, raised ferritin and low serum albumin",
+        "Pancytopenia with low ESR"
+      ],
+      "ans": 2,
+      "exp": "Blood parameters: leukocytosis; ESR increased; CRP increased; ferritin increased; S. albumin decreased. (Book p552)"
+    },
+    {
+      "id": "MED-C29-09",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "page": 552,
+      "fmt": "numeric",
+      "q": "What score threshold and four major criteria items are printed for Yamaguchi criteria?",
+      "opts": [
+        "Greater than 3 with sore throat only",
+        "Exactly 2 with negative labs",
+        "Greater than 10 including organomegaly as major",
+        "Greater than 5; fever over 39°C for 7 days, arthritis/arthralgia for 2 weeks, rash and leukocytosis"
+      ],
+      "ans": 3,
+      "exp": "Yamaguchi criteria (greater than 5): major — fever (>39°C) for 7 days; arthritis/arthralgia for 2 weeks; rash; leukocytosis. (Book p552)"
+    },
+    {
+      "id": "MED-C29-10",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "Which items are printed as Yamaguchi minor criteria?",
+      "opts": [
+        "Sore throat; negative ANA and RF; hepatosplenomegaly with lymphadenopathy; abnormal ALT/AST",
+        "Fever over 39°C for 7 days",
+        "Rash with leukocytosis",
+        "Arthritis for 2 weeks"
+      ],
+      "ans": 0,
+      "exp": "minor: sore throat; negative ANA, RF; hepatosplenomegaly, lymphadenopathy; abnormal ALT/AST. (Book p553)"
+    },
+    {
+      "id": "MED-C29-11",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "How is hemophagocytic lymphohistiocytosis introduced relative to AOSD?",
+      "opts": [
+        "Never associated with AOSD",
+        "Rheumatological emergency seen in 10% of AOSD",
+        "Universal late complication",
+        "Skin-limited finding"
+      ],
+      "ans": 1,
+      "exp": "HLH: rheumatological emergency; seen in 10% of AOSD. (Book p553)"
+    },
+    {
+      "id": "MED-C29-12",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "Which feature set with directions is printed for HLH?",
+      "opts": [
+        "Normocellular marrow with low TG",
+        "Thrombocytosis with high fibrinogen",
+        "Pancytopenia, unsubsiding fever, very high ferritin, low ESR, low fibrinogen and high triglycerides",
+        "High ESR with high fibrinogen"
+      ],
+      "ans": 2,
+      "exp": "Features: pancytopenia; ESR decreased; unsubsiding fever; fibrinogen decreased; ferritin increased increased; triglycerides increased. (Book p553)"
+    },
+    {
+      "id": "MED-C29-13",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "Which complications follow the HLH block?",
+      "opts": [
+        "Isolated hepatomegaly only",
+        "No coagulopathy",
+        "Pure skin vasculitis only",
+        "Bleeding from thrombocytopenia, transient thrombocytopenic purpura, DIC with consumptive coagulopathy and AA amyloidosis"
+      ],
+      "ans": 3,
+      "exp": "Complications: bleeding d/t thrombocytopenia; transient thrombocytopenic purpura; DIC with consumptive coagulopathy; AA amyloidosis. (Book p553)"
+    },
+    {
+      "id": "MED-C29-14",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "management",
+      "q": "How is steroid therapy sequenced in AOSD according to the printed note?",
+      "opts": [
+        "Pulse therapy then oral therapy",
+        "Oral therapy only without pulse",
+        "No steroids",
+        "Topical steroids only"
+      ],
+      "ans": 0,
+      "exp": "Treatment: steroid — pulse therapy then oral therapy. (Book p553)"
+    },
+    {
+      "id": "MED-C29-15",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "management",
+      "q": "What is the printed step-up ladder for AOSD treatment?",
+      "opts": [
+        "Sulfasalazine first line",
+        "Mild: NSAID; no response → steroid plus methotrexate; then anti IL-1 and IL-6",
+        "Methotrexate first with no NSAID step",
+        "Colchicine only"
+      ],
+      "ans": 1,
+      "exp": "Treatment of AOSD: mild — NSAID; no response → steroid + methotrexate → anti IL-1, IL-6. (Book p553)"
+    },
+    {
+      "id": "MED-C29-16",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "oddoneout",
+      "q": "Which drug is explicitly avoided in AOSD?",
+      "opts": [
+        "Anakinra (anti IL-1)",
+        "NSAIDs in mild disease",
+        "Sulfasalazine",
+        "Methotrexate after NSAID failure"
+      ],
+      "ans": 2,
+      "exp": "Note: sulfasalazine is avoided. (Book p553)"
+    },
+    {
+      "id": "MED-C29-17",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "Which hosts are listed as susceptible to acute monoarticular septic arthritis?",
+      "opts": [
+        "Only healthy young athletes",
+        "Pregnant women exclusively",
+        "Adults with hyperuricemia only",
+        "Children, elderly, immunocompromised and IV drug abusers (oligo/polyarticular)"
+      ],
+      "ans": 3,
+      "exp": "Susceptible host: children, elderly; immunocompromised; IV drug abuse (oligo/polyarticular). (Book p553)"
+    },
+    {
+      "id": "MED-C29-18",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "What clinical presentation is printed for septic arthritis?",
+      "opts": [
+        "Fever, pain with limited range of motion (most common knee) and no history of similar episodes",
+        "Painless swelling only",
+        "Migratory polyarthralgia only",
+        "Quotidian salmon rash"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: fever; pain + limited range of motion (m/c: knee); no h/o similar episode. (Book p553)"
+    },
+    {
+      "id": "MED-C29-19",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "recall",
+      "q": "What infection percentage, organism hierarchy and spread route are printed?",
+      "opts": [
+        "No organisms listed",
+        "Infection 20%: Staphylococcus aureus greater than Streptococcus pneumoniae greater than Gram-negative bacillus; spread hematogenous",
+        "50% viral with lymphatic spread",
+        "100% Gram-negative only"
+      ],
+      "ans": 1,
+      "exp": "Causes: infection (20%) — staph. aureus greater than strep. pneumonia greater than gram-negative bacillus; spread: hematogenous. (Book p553)"
+    },
+    {
+      "id": "MED-C29-20",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "page": 553,
+      "fmt": "oddoneout",
+      "q": "Which non-infectious causes are listed among acute monoarticular arthritis mimics?",
+      "opts": [
+        "Crystal deposition with sterile cultures only",
+        "Quotidian fever alone",
+        "Trauma, tumour, osteoarthritis of a single joint and sarcoidosis",
+        "Chlamydia and Shigella only"
+      ],
+      "ans": 2,
+      "exp": "Other causes: trauma; tumour; osteoarthritis of single joint; sarcoidosis. (Book p553)"
+    },
+    {
+      "id": "MED-C29-21",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "oddoneout",
+      "q": "Which differentials are first printed to be ruled out before labeling monoarticular arthritis as septic?",
+      "opts": [
+        "Gout and CPPD only",
+        "RA and SLE",
+        "GCA and PMR",
+        "Tendinitis and bursitis; hemophilia as a similar presentation"
+      ],
+      "ans": 3,
+      "exp": "D/d: tendinitis, bursitis to be ruled out; hemophilia — similar presentation. (Book p554)"
+    },
+    {
+      "id": "MED-C29-22",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "recall",
+      "q": "In the gonococcal versus septic table, which host and pattern row is correct?",
+      "opts": [
+        "Gonococcal: young healthy with migratory polyarthralgia/arthritis; septic: immunocompromised with monoarticular arthritis",
+        "Both occur only in healthy athletes",
+        "Gonococcal monoarticular; septic migratory",
+        "Both immunocompromised with rash"
+      ],
+      "ans": 0,
+      "exp": "Table: host — gonococcal young healthy versus septic immunocompromised; pattern — migratory polyarthralgia/arthritis versus monoarticular arthritis. (Book p554)"
+    },
+    {
+      "id": "MED-C29-23",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "oddoneout",
+      "q": "Which feature favors gonococcal infection over septic arthritis in the printed table?",
+      "opts": [
+        "Immunocompromised host",
+        "Tenosynovitis and skin rash present; good prognosis with lower joint/blood culture yield",
+        "Monoarticular presentation without rash",
+        "Higher culture yield and poor prognosis"
+      ],
+      "ans": 1,
+      "exp": "Tenosynovitis + and skin rash + favor gonococcal, with less culture yield and good prognosis versus septic negative for both, more yield and poor prognosis. (Book p554)"
+    },
+    {
+      "id": "MED-C29-24",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "numeric",
+      "q": "What is the gold-standard diagnostic test and WBC threshold printed for septic arthritis?",
+      "opts": [
+        "Plain x-ray alone with normal WBC",
+        "Blood culture only with 1,000 cells",
+        "Synovial fluid analysis with WBC greater than 50,000 per microlitre",
+        "Serum RF with 10,000 cells"
+      ],
+      "ans": 2,
+      "exp": "Diagnosis: synovial fluid analysis — gold standard; WBC greater than 50000 /μL. (Book p554)"
+    },
+    {
+      "id": "MED-C29-25",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "management",
+      "q": "Which antibiotic pair and drainage indications are printed for septic arthritis?",
+      "opts": [
+        "Colchicine plus allopurinol only",
+        "No antibiotics with aspiration alone always",
+        "NSAIDs alone without drainage",
+        "Vancomycin plus ceftriaxone; drain for thick pus or shoulder/hip involvement"
+      ],
+      "ans": 3,
+      "exp": "Rx: antibiotics — vancomycin + ceftriaxone; drainage indications — thick pus; shoulder, hip joint involvement. (Book p554)"
+    },
+    {
+      "id": "MED-C29-26",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "recall",
+      "q": "Which causes of chronic monoarticular arthritis are listed?",
+      "opts": [
+        "TB, fungal disease, Lyme disease, sarcoidosis, spondyloarthritis and non-inflammatory causes",
+        "Only crystal arthritis",
+        "RA and SLE exclusively",
+        "Gout and septic arthritis only"
+      ],
+      "ans": 0,
+      "exp": "Chronic monoarticular arthritis causes: TB; fungal disease; Lyme; sarcoidosis; spondyloarthritis; non-inflammatory. (Book p554)"
+    },
+    {
+      "id": "MED-C29-27",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "recall",
+      "q": "How does the printed approach tree first split arthritis?",
+      "opts": [
+        "Upper versus lower limb",
+        "Monoarticular arthritis versus polyarticular arthritis",
+        "Acute versus chronic only",
+        "Inflammatory versus non-inflammatory only"
+      ],
+      "ans": 1,
+      "exp": "Approach to arthritis begins with monoarticular arthritis and polyarticular arthritis branches. (Book p554)"
+    },
+    {
+      "id": "MED-C29-28",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "page": 554,
+      "fmt": "recall",
+      "q": "What sub-branches follow monoarticular and polyarticular arthritis in the flowchart?",
+      "opts": [
+        "Acute tree under monoarticular only",
+        "No further branches printed",
+        "Monoarticular → septic and crystal; polyarticular → acute (undifferentiated, post-viral) and chronic inflammatory (RA with d/d SLE, psoriatic arthritis)",
+        "Monoarticular → septic only; polyarticular → OA only"
+      ],
+      "ans": 2,
+      "exp": "Monoarticular branches septic and crystal; polyarticular branches acute (undifferentiated, post viral) and chronic inflammatory: RA with d/d SLE and psoriatic arthritis. (Book p554)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U29-1",
+      "ch": 29,
+      "n": 1,
+      "title": "1. Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "sec": "Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria",
+      "guide": "Age, systemic presentation and sore-throat prodrome open the chapter. The fever–salmon-rash–polyarthritis triad with destructive 25% risk and poor-prognosis signs follow.\nBlood parameters and Yamaguchi major items are kept in printed order.",
+      "qs": [
+        "MED-C29-01",
+        "MED-C29-02",
+        "MED-C29-03",
+        "MED-C29-04",
+        "MED-C29-05",
+        "MED-C29-06",
+        "MED-C29-07",
+        "MED-C29-08",
+        "MED-C29-09"
+      ]
+    },
+    {
+      "id": "MED-U29-2",
+      "ch": 29,
+      "n": 2,
+      "title": "2. Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "sec": "Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations",
+      "guide": "Minor criteria and lab abnormalities finish Yamaguchi. HLH as 10% rheumatologic emergency with cytopenia and coagulation features follows.\nNSAID→steroid/MTX→anti-IL ladder, sulfasalazine avoidance and septic hosts/causes close the unit.",
+      "qs": [
+        "MED-C29-10",
+        "MED-C29-11",
+        "MED-C29-12",
+        "MED-C29-13",
+        "MED-C29-14",
+        "MED-C29-15",
+        "MED-C29-16",
+        "MED-C29-17",
+        "MED-C29-18",
+        "MED-C29-19",
+        "MED-C29-20"
+      ]
+    },
+    {
+      "id": "MED-U29-3",
+      "ch": 29,
+      "n": 3,
+      "title": "3. Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "sec": "Gonococcal versus septic comparison, septic-arthritis management and arthritis approach",
+      "guide": "Tendinitis/bursitis and hemophilia d/d plus the gonococcal–septic table open the final unit. Synovial-fluid gold standard, WBC threshold and antibiotic/drainage rules follow.\nChronic monoarticular causes and the mono-versus-poly approach tree close Chapter 29.",
+      "qs": [
+        "MED-C29-21",
+        "MED-C29-22",
+        "MED-C29-23",
+        "MED-C29-24",
+        "MED-C29-25",
+        "MED-C29-26",
+        "MED-C29-27",
+        "MED-C29-28"
+      ]
+    }
+  ]
+}

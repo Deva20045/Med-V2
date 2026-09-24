@@ -1,14 +1,33 @@
 # PULSE Medicine Vol 2 — Progress
 
-Updated **2026-09-23**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
+Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0cf1f-med-v2`
+- Session branch: `arena/01a0d219-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 32 live chapters / 57 · 1264 questions / 128 units.** Chapters 27–32, 39–57 remain `live:false`.
+- **Build status: 35 live chapters / 57 · 1465 questions / 149 units.** Chapters 30–32, 39–57 remain `live:false`.
 
-## This release — Chapters 33–38
+## This release — Chapters 27–29
+
+Three consecutive rheumatology chapters were rendered from `uploads/02.pdf`, read block by block, source-ordered and made live (Book p532–554, all in `uploads/02.pdf` PDF64–86):
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 27 | Spondyloarthritis | 532–542 | 101 | 10 |
+| 28 | Crystal Arthropathies | 543–551 | 72 | 8 |
+| 29 | Adult-Onset Still's Disease and Septic Arthritis | 552–554 | 28 | 3 |
+| **Release total** |  | **23 book pages** | **201** | **21** |
+
+### Quality and ordering contract delivered
+
+1. All pages were read in printed order (`uploads/02.pdf` PDF64–86 = Book p532–554), including flowchart arms, comparison tables, numeric thresholds, diagram labels, notes, management ladders and drug doses. Scans have no extractable text: every reading used 2× PyMuPDF renders with FILE-tagged verification, and every printed page number was verified against the page map.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 27–29 add **201 ordered mappings**, bringing the audited ledger to **1573 mappings** for Chapters 2–38.
+3. New questions are reasoning-first: **no fill-up or matching worksheets**. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
+4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. Chapters 27–29 are embedded in the standalone app and all 35 roadmap flags for live chapters are set.
+
+## Previous release — Chapters 33–38
 
 Six consecutive neurology chapters were rendered from the scans, read block by block, source-ordered and made live (Book p566–601, all in `uploads/03.pdf`; printed p586, p590 and p591 are absent from the supplied scan and are transparently flagged in the ledger):
 
@@ -25,11 +44,11 @@ Six consecutive neurology chapters were rendered from the scans, read block by b
 ### Quality and ordering contract delivered
 
 1. All pages were read in printed order (`uploads/03.pdf` PDF5–37 = Book p566–601; printed p586, p590 and p591 are absent from the scan), including flowchart arms, comparison tables, numeric thresholds, diagram labels, notes, management ladders and drug doses. Scans have no extractable text: every reading used 2× PyMuPDF renders, and every printed page number was verified against the page map (decisive 10× corner reads settled the missing sheets).
-2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1372 mappings** for Chapters 2–38. Every target is marked asked.
-3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–26 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
+2. Every source-mapped learning target has a four-option, citation-backed question in `audit/coverage.json`; Chapters 33–38 add **168 ordered mappings**, bringing the audited ledger to **1573 mappings** for Chapters 2–38. Every target is marked asked.
+3. New questions are reasoning-first: **no fill-up or matching worksheets** in Chapters 9–29 or 33–38. Scenarios, mechanism-based recall, numeric interpretation, management decisions and discriminating odd-one-out cases use plausible medical distractors.
 4. IDs are sequential, question arrays remain strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
 5. Source-specific algorithms, medication doses, clinical thresholds and historical terminology are retained as book-study material and qualified in the audit; they are not a replacement for current local clinical guidance.
-6. Chapters 33–38 are embedded in the standalone app and all 32 roadmap flags for live chapters are set.
+6. Chapters 33–38 are embedded in the standalone app and all 35 roadmap flags for live chapters are set.
 
 ## Previous release — Chapters 16–26
 
@@ -74,8 +93,9 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **02.pdf PDF10–16: p477–483 (Ch19)**
 - **02.pdf PDF17–23: p484–490 (Ch20)**
 - **02.pdf PDF24–63: p491–531 (printed p527 absent) (Ch21–26)**
-- 02.pdf PDF64–93: p532–561 (Ch27–32 territory, not yet live)
-- 03.pdf PDF1–4: p562–565 (Ch27–32 territory, not yet live)
+- **02.pdf PDF64–86: p532–554 (Ch27–29)**
+- 02.pdf PDF87–93: p555–561 (Ch30–32 territory, not yet live)
+- 03.pdf PDF1–4: p562–565 (Ch30–32 territory, not yet live)
 - **03.pdf PDF5–10: p566–571 (Ch33–34)**
 - **03.pdf PDF11–21: p572–582 (Ch35–36)**
 - **03.pdf PDF22–31: p583–592 (printed p586, p590, p591 absent) (Ch37)**
@@ -98,8 +118,9 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 python3 tools/generate_ch09_15.py        # Chapters 9-15
 python3 tools/generate_ch16_20.py        # Chapters 16-20
 python3 tools/generate_ch21_26.py        # Chapters 21-26
+python3 tools/generate_ch27_29.py        # Chapters 27-29
 python3 tools/generate_ch33_38.py        # Chapters 33-38
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-26, Ch33-38)
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-29, Ch33-38)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -216,6 +237,27 @@ node tests/app_parsers.cjs
 | 26 | 2. RA prediction markers, clinical manifestations and deformities | 524–526 | MED-C26-23–MED-C26-43 | 21 |
 | 26 | 3. Extra-articular RA and RA versus SLE | 527–529 | MED-C26-44–MED-C26-61 | 18 |
 | 26 | 4. RA management | 530–531 | MED-C26-62–MED-C26-80 | 19 |
+| 27 | 1. Spondyloarthritis classification, shared features and non-radiographic axial SpA | 532 | MED-C27-01–MED-C27-09 | 9 |
+| 27 | 2. Radiographic axial SpA pathogenesis, presentation and inflammatory back pain | 533 | MED-C27-10–MED-C27-24 | 15 |
+| 27 | 3. Investigation: MRI-STIR, sacroiliitis x-ray grading and radiographic signs | 534–535 | MED-C27-25–MED-C27-41 | 17 |
+| 27 | 4. Advanced therapy, DISH and reactive arthritis onset | 536 | MED-C27-42–MED-C27-52 | 11 |
+| 27 | 5. Reactive arthritis clinical course, mucocutaneous lesions and axial involvement | 537 | MED-C27-53–MED-C27-60 | 8 |
+| 27 | 6. Reactive arthritis systemic features, treatment and enteropathic arthritis | 538 | MED-C27-61–MED-C27-69 | 9 |
+| 27 | 7. LMAP versus SMAP-u, stool markers and psoriatic arthritis basics | 539 | MED-C27-70–MED-C27-80 | 11 |
+| 27 | 8. Psoriasis variants, nail signs and Wright–Moll classification | 540 | MED-C27-81–MED-C27-88 | 8 |
+| 27 | 9. Psoriatic versus rheumatoid features, progression and hand radiographs | 541 | MED-C27-89–MED-C27-95 | 7 |
+| 27 | 10. Psoriatic spinal and hand radiographic signs plus systemic therapy | 542 | MED-C27-96–MED-C27-101 | 6 |
+| 28 | 1. Crystal types, inflammasome pathogenesis and uric-acid metabolism | 543 | MED-C28-01–MED-C28-09 | 9 |
+| 28 | 2. Purine pools, stone thresholds and the four-compartment renal model | 544 | MED-C28-10–MED-C28-18 | 9 |
+| 28 | 3. Asymptomatic hyperuricemia: thresholds, genetics and drug causes | 545 | MED-C28-19–MED-C28-27 | 9 |
+| 28 | 4. Hyperuricemia modifiers, renal manifestations and acute gouty arthritis | 546 | MED-C28-28–MED-C28-38 | 11 |
+| 28 | 5. Subsequent attacks, synovial-fluid distinction and polarized-light proof | 547 | MED-C28-39–MED-C28-45 | 7 |
+| 28 | 6. Acute gout treatment, ACR criteria, intercritical course and chronic imaging | 548 | MED-C28-46–MED-C28-52 | 7 |
+| 28 | 7. Tophi, xanthine-oxidase inhibitors, uricosurics and uricases | 549 | MED-C28-53–MED-C28-59 | 7 |
+| 28 | 8. CPPD presentations, associations and the basic crystal remainder | 550–551 | MED-C28-60–MED-C28-72 | 13 |
+| 29 | 1. Adult-onset Still's disease phenotype, triad and Yamaguchi major criteria | 552 | MED-C29-01–MED-C29-09 | 9 |
+| 29 | 2. Yamaguchi minor criteria, HLH, AOSD therapy and septic-arthritis foundations | 553 | MED-C29-10–MED-C29-20 | 11 |
+| 29 | 3. Gonococcal versus septic comparison, septic-arthritis management and arthritis approach | 554 | MED-C29-21–MED-C29-28 | 8 |
 | 33 | 1. Language vs Speech & the Auditory Pathway | 566 | MED-C33-01–MED-C33-06 | 6 |
 | 33 | 2. Aphasia Lesion Map & Flowchart | 567 | MED-C33-07–MED-C33-11 | 5 |
 | 33 | 3. Aphasia Flowchart Continued | 568 | MED-C33-12–MED-C33-14 | 3 |
@@ -273,9 +315,9 @@ node tests/app_parsers.cjs
 | 24 | Variable Vessel Vasculitis | 514 | **Live** |
 | 25 | Basic Approach to Arthritis | 519 | **Live** |
 | 26 | Rheumatoid Arthritis | 521 | **Live** |
-| 27 | Spondyloarthritis | 532 | Soon |
-| 28 | Crystal Arthropathies | 543 | Soon |
-| 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | Soon |
+| 27 | Spondyloarthritis | 532 | **Live** |
+| 28 | Crystal Arthropathies | 543 | **Live** |
+| 29 | Adult-Onset Still's Disease and Septic Arthritis | 552 | **Live** |
 | 30 | Frontal Lobe | 555 | Soon |
 | 31 | Praxicons | 560 | Soon |
 | 32 | Temporal and Occipital Lobe | 563 | Soon |
