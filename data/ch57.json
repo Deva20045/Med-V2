@@ -1,0 +1,1109 @@
+{
+  "chapter": 57,
+  "title": "Management of Stroke",
+  "pageRange": "700-702",
+  "questions": [
+    {
+      "id": "MED-C57-01",
+      "sec": "Goals of Stroke Management",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Which goals of treatment head the chapter?",
+      "opts": [
+        "Lower BP, anticoagulate, rehabilitate",
+        "Thrombectomy, shunt, steroids",
+        "Control glucose, oxygenate, cool",
+        "Recanalisation/reperfusion, prevent secondary brain damage, optimise collateral blood flow"
+      ],
+      "ans": 3,
+      "exp": "Goals of Rx : Recanalisation/reperfusion; Prevent secondary brain damage; Optimise collateral blood flow (Book p700)"
+    },
+    {
+      "id": "MED-C57-02",
+      "sec": "Goals of Stroke Management",
+      "page": 700,
+      "fmt": "recall",
+      "q": "The secondary brain damage cascade printed under 'Causes' runs:",
+      "opts": [
+        "↑ICT (intracranial pressure) → cerebral edema → herniation/coning",
+        "Hypotension → infarct growth → atrophy",
+        "Fever → seizures → epilepsy",
+        "Anaemia → hypoxia → coma"
+      ],
+      "ans": 0,
+      "exp": "Causes : ↑ ICT (Intracranial pressure) → cerebral edema → Herniation/coning (Book p700)"
+    },
+    {
+      "id": "MED-C57-03",
+      "sec": "Goals of Stroke Management",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Besides the ICT cascade, which causes of secondary brain damage are printed?",
+      "opts": [
+        "Pressure ulcers",
+        "Haemorrhagic transformation and SIADH → hyponatremia",
+        "Aspiration and pneumonia",
+        "Deep vein thrombosis only"
+      ],
+      "ans": 1,
+      "exp": "Causes : Haemorrhagic transformation; SIADH → hyponatremia (Book p700)"
+    },
+    {
+      "id": "MED-C57-04",
+      "sec": "Goals of Stroke Management",
+      "page": 700,
+      "fmt": "management",
+      "q": "On day 4 after a large hemispheric stroke the patient's consciousness falls with a dilated pupil. Which printed secondary-damage mechanism is operating?",
+      "opts": [
+        "Haemorrhagic transformation",
+        "Reperfusion injury of the penumbra",
+        "↑ICT from cerebral oedema → herniation/coning",
+        "SIADH with hyponatraemia"
+      ],
+      "ans": 2,
+      "exp": "↑ICT (Intracranial pressure) → cerebral edema → Herniation/coning (4-5 days : ↑ICT per the earlier chapter table) (Book p700)"
+    },
+    {
+      "id": "MED-C57-05",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Immediate management is printed to be used when:",
+      "opts": [
+        "The patient is unconscious",
+        "Stroke is haemorrhagic",
+        "Onset time is unknown",
+        "Onset of stroke is known"
+      ],
+      "ans": 3,
+      "exp": "used when onset of stroke is known : (Book p700)"
+    },
+    {
+      "id": "MED-C57-06",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "A patient presenting within 6 hours (onset known) needs which additional imaging?",
+      "opts": [
+        "No additional imaging needed",
+        "Diffusion-weighted MRI",
+        "CT angiography always",
+        "Perfusion imaging"
+      ],
+      "ans": 0,
+      "exp": "CT Protocol — Scenarios : Patient presents within 6 hours → No additional imaging needed (Book p700)"
+    },
+    {
+      "id": "MED-C57-07",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Suspected TIA is investigated with:",
+      "opts": [
+        "No imaging needed",
+        "Diffusion-weighted MRI (to rule out stroke)",
+        "Plain CT head",
+        "Carotid doppler alone"
+      ],
+      "ans": 1,
+      "exp": "TIA suspected → Diffusion-weighted MRI (To rule out stroke) (Book p700)"
+    },
+    {
+      "id": "MED-C57-08",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Thrombolysis is printed for which scenario?",
+      "opts": [
+        "Only after MRI confirms infarct",
+        "Haemorrhagic stroke within 4.5 hours",
+        "Patient presents within 4.5 hours of symptom onset + CT ruled out bleed",
+        "Any presentation within 24 hours"
+      ],
+      "ans": 2,
+      "exp": "Scenarios : Patient presents within 4.5 hours of symptom onset + CT ruled out bleed → Thrombolysis (Book p700)"
+    },
+    {
+      "id": "MED-C57-09",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "What is the printed alteplase regimen?",
+      "opts": [
+        "0.9 mg/kg all as a single bolus",
+        "1.0 mg/kg — 20% bolus, 80% infusion over 2 hours",
+        "0.25 mg/kg bolus over 1 hour",
+        "0.9 mg/kg — 10% bolus, 90% infusion over 1 hour"
+      ],
+      "ans": 3,
+      "exp": "Thrombolysis : Alteplase 0.9 mg/kg — 10% bolus, 90% infusion over 1 hour (Book p700)"
+    },
+    {
+      "id": "MED-C57-10",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "What is the printed tenecteplase dose?",
+      "opts": [
+        "0.25 mg/kg bolus IV",
+        "0.9 mg/kg infusion",
+        "0.05 mg/kg bolus",
+        "1.5 mg/kg over 1 hour"
+      ],
+      "ans": 0,
+      "exp": "Tenecteplase 0.25 mg/kg bolus IV (Book p700)"
+    },
+    {
+      "id": "MED-C57-11",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Tenecteplase can be given without which study when thrombolysis is indicated?",
+      "opts": [
+        "Random blood sugar",
+        "CT angiogram",
+        "Plain CT head",
+        "ECG"
+      ],
+      "ans": 1,
+      "exp": "Tenecteplase 0.25 mg/kg bolus IV (can be given without CT angiogram if thrombolysis indicated) (Book p700)"
+    },
+    {
+      "id": "MED-C57-12",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Step 1 of the immediate management steps is:",
+      "opts": [
+        "BP correction",
+        "CT angiography",
+        "Supportive Rx: manage hypoxia (O2 administration) and monitor vitals",
+        "Thrombolysis"
+      ],
+      "ans": 2,
+      "exp": "Steps : 1. Supportive Rx : manage hypoxia (O2 administration), monitor vitals (Book p700)"
+    },
+    {
+      "id": "MED-C57-13",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Step 2 checks which investigation?",
+      "opts": [
+        "Serum sodium",
+        "Arterial blood gas",
+        "ESR",
+        "RBS — correct hypo/hyperglycaemia"
+      ],
+      "ans": 3,
+      "exp": "2. Check RBS : Correct hypo/hyperglycaemia (Book p700)"
+    },
+    {
+      "id": "MED-C57-14",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Step 3 pairs which cardiac tests?",
+      "opts": [
+        "ECG + Troponin I",
+        "Echocardiography + Holter",
+        "BNP + chest X-ray",
+        "Lipid profile only"
+      ],
+      "ans": 0,
+      "exp": "3. ECG + Troponin I (Book p700)"
+    },
+    {
+      "id": "MED-C57-15",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Step 4 corrects BP at which threshold (without thrombolysis planned)?",
+      "opts": [
+        "BP >200/100 mmHg",
+        "BP ≥220/110 mmHg",
+        "BP >180/105 mmHg",
+        "BP >140/90 mmHg"
+      ],
+      "ans": 1,
+      "exp": "4. Correct BP if : BP ≥220/110 mmHg (Book p700)"
+    },
+    {
+      "id": "MED-C57-16",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "When thrombolysis/thrombectomy is planned, BP is corrected above:",
+      "opts": [
+        "160/95 mmHg",
+        "140/90 mmHg",
+        "185/110 mmHg",
+        "220/110 mmHg"
+      ],
+      "ans": 2,
+      "exp": "BP >185/110 mmHg when thrombolysis/thrombectomy planned (Book p700)"
+    },
+    {
+      "id": "MED-C57-17",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "The printed BP-lowering agent and dose is:",
+      "opts": [
+        "Nitroglycerine infusion 5 mg",
+        "Amlodipine 10 mg oral",
+        "Hydralazine 40 mg IV",
+        "Labetalol 20 mg IV (upto two times)"
+      ],
+      "ans": 3,
+      "exp": "Then : Give labetalol 20 mg IV (upto two times) (Book p700)"
+    },
+    {
+      "id": "MED-C57-18",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "scenario",
+      "q": "A patient with known onset 3 hours ago, CT head already done and no bleed, BP 170/100. Which printed pathway applies?",
+      "opts": [
+        "Thrombolysis pathway (within 4.5 hours, bleed excluded)",
+        "No additional imaging pathway only",
+        "MRI wake-up protocol",
+        "BP correction then discharge"
+      ],
+      "ans": 0,
+      "exp": "Scenario — known onset 3 hrs ago, CT negative for bleed → the 4.5-hour thrombolysis row applies (Book p700)"
+    },
+    {
+      "id": "MED-C57-19",
+      "sec": "Immediate Management and CT Protocol",
+      "page": 700,
+      "fmt": "management",
+      "q": "A known-onset stroke patient headed for thrombolysis has BP 200/115. What does the printed protocol direct?",
+      "opts": [
+        "Start amlodipine and reassess tomorrow",
+        "Give labetalol 20 mg IV (upto two times) as BP exceeds 185/110 for thrombolysis",
+        "Proceed with thrombolysis at this BP",
+        "Withhold all therapy until BP exceeds 220/110"
+      ],
+      "ans": 1,
+      "exp": "BP >185/110 mmHg when thrombolysis/thrombectomy planned → Then : Give labetalol 20 mg IV (upto two times) (Book p700)"
+    },
+    {
+      "id": "MED-C57-20",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Below which age is thrombolysis contraindicated?",
+      "opts": [
+        "16 yrs",
+        "21 yrs",
+        "18 yrs",
+        "12 yrs"
+      ],
+      "ans": 2,
+      "exp": "Contraindications to thrombolysis : Age <18 yrs (Book p700)"
+    },
+    {
+      "id": "MED-C57-21",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Which BP level contraindicates thrombolysis despite treatment?",
+      "opts": [
+        ">220/110",
+        ">160/100",
+        ">140/90",
+        ">185/110"
+      ],
+      "ans": 3,
+      "exp": "BP >185/110 in spite of Rx (Book p700)"
+    },
+    {
+      "id": "MED-C57-22",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "CT hypodensity involving more than what fraction contraindicates thrombolysis?",
+      "opts": [
+        ">1/3rd",
+        ">1/2",
+        ">2/3rd",
+        "Any hypodensity"
+      ],
+      "ans": 0,
+      "exp": "CT hypodensity >1/3rd (Book p700)"
+    },
+    {
+      "id": "MED-C57-23",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Which intracranial mass contraindicates thrombolysis as printed?",
+      "opts": [
+        "Arachnoid cyst",
+        "Intra axial neoplasm",
+        "Meningioma anywhere",
+        "Pituitary adenoma"
+      ],
+      "ans": 1,
+      "exp": "Intra axial neoplasm (Book p700)"
+    },
+    {
+      "id": "MED-C57-24",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "recall",
+      "q": "Which vascular/infective pair contraindicates thrombolysis?",
+      "opts": [
+        "Aortic regurgitation / bronchitis",
+        "DVT / urinary infection",
+        "Aortic dissection / infective endocarditis",
+        "Carotid stenosis / cellulitis"
+      ],
+      "ans": 2,
+      "exp": "Aortic dissection/infective endocarditis (Book p700)"
+    },
+    {
+      "id": "MED-C57-25",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Unfractionated heparin within which window contraindicates thrombolysis?",
+      "opts": [
+        "<24 hrs",
+        "<72 hrs",
+        "<7 days",
+        "<48 hrs"
+      ],
+      "ans": 3,
+      "exp": "use of : Heparin <48 hrs (Book p700)"
+    },
+    {
+      "id": "MED-C57-26",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "LMWH within which window contraindicates thrombolysis?",
+      "opts": [
+        "<24 hrs",
+        "<48 hrs",
+        "<12 hrs",
+        "<3 days"
+      ],
+      "ans": 0,
+      "exp": "LMWH <24 hrs (Low molecular weight Heparin) (Book p700)"
+    },
+    {
+      "id": "MED-C57-27",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Below which platelet count is thrombolysis contraindicated?",
+      "opts": [
+        "<2,00,000 cells/μl",
+        "<1,00,000 cells/μl",
+        "<50,000 cells/μl",
+        "<1,50,000 cells/μl"
+      ],
+      "ans": 1,
+      "exp": "Platelet count <1,00,000 cells/μl (Book p700)"
+    },
+    {
+      "id": "MED-C57-28",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Any bleed within which period contraindicates thrombolysis, GI bleed especially?",
+      "opts": [
+        "Last 3 months",
+        "Last year",
+        "Last 3 weeks",
+        "Last 48 hours"
+      ],
+      "ans": 2,
+      "exp": "Bleed in last 3 weeks : Especially GI bleed (Book p700)"
+    },
+    {
+      "id": "MED-C57-29",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "numeric",
+      "q": "Surgery, trauma or stroke within which period contraindicates thrombolysis?",
+      "opts": [
+        "Last 3 weeks",
+        "Last 6 months",
+        "Last month",
+        "Last 3 months"
+      ],
+      "ans": 3,
+      "exp": "Surgery/trauma/stroke in last 3 months (Book p700)"
+    },
+    {
+      "id": "MED-C57-30",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "scenario",
+      "q": "A 58-year-old with 2-hour onset ischaemic stroke had laparoscopic cholecystectomy 5 weeks ago. Which printed contraindication applies?",
+      "opts": [
+        "Surgery within the last 3 months",
+        "Bleed within the last 3 weeks",
+        "Heparin within 48 hours",
+        "Age under 18 years"
+      ],
+      "ans": 0,
+      "exp": "Scenario — cholecystectomy 5 weeks ago → Surgery in last 3 months contraindicates thrombolysis (Book p700)"
+    },
+    {
+      "id": "MED-C57-31",
+      "sec": "Thrombolysis Contraindications",
+      "page": 700,
+      "fmt": "oddoneout",
+      "q": "Which of these is NOT a printed contraindication to thrombolysis?",
+      "opts": [
+        "Platelet count <1,00,000 cells/μl",
+        "Carotid bruit without stenosis",
+        "Intra axial neoplasm",
+        "Aortic dissection"
+      ],
+      "ans": 1,
+      "exp": "Contraindications list : age <18, BP >185/110 despite Rx, CT hypodensity >1/3rd, intra axial neoplasm, aortic dissection/IE, heparin <48h, LMWH <24h, platelets <1,00,000, bleed <3 wks, surgery/trauma/stroke <3 mo (Book p700)"
+    },
+    {
+      "id": "MED-C57-32",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "Step 5 of the work-up is CT, comprising:",
+      "opts": [
+        "MRI alone",
+        "Perfusion CT only",
+        "Plain CT (to rule out bleed) and CT angiography",
+        "Plain CT alone"
+      ],
+      "ans": 2,
+      "exp": "5) CT : a. Plain CT (To rule out bleed); b. CT angiography (Book p701)"
+    },
+    {
+      "id": "MED-C57-33",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "The MRI protocol is printed for which situation?",
+      "opts": [
+        "Known-onset stroke within 6 hours",
+        "Haemorrhagic stroke",
+        "TIA with normal CT",
+        "Wake-up stroke (time of onset unknown)"
+      ],
+      "ans": 3,
+      "exp": "MRI Protocol : Used for wake up stroke (Time of onset unknown) (Book p701)"
+    },
+    {
+      "id": "MED-C57-34",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "Step 1 of the MRI protocol is:",
+      "opts": [
+        "Diffusion weighted MRI (DW MRI)",
+        "T2 FLAIR sequence",
+        "Perfusion imaging",
+        "MR angiography"
+      ],
+      "ans": 0,
+      "exp": "Steps : 1. Diffusion weighted MRI (DW MRI) (Book p701)"
+    },
+    {
+      "id": "MED-C57-35",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "Hyperintense (white) lesions on DW MRI establish:",
+      "opts": [
+        "Chronic infarct only",
+        "Dx: Stroke",
+        "No stroke, only TIA",
+        "Haemorrhage"
+      ],
+      "ans": 1,
+      "exp": "1. Diffusion weighted MRI (DW MRI) : Hyperintense lesions (white) present → Dx : Stroke (Book p701)"
+    },
+    {
+      "id": "MED-C57-36",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "Step 2 of the MRI protocol is:",
+      "opts": [
+        "ADC map",
+        "Perfusion imaging",
+        "T2 FLAIR MRI sequence",
+        "Diffusion weighted MRI"
+      ],
+      "ans": 2,
+      "exp": "2. T2 FLAIR MRI sequence (Book p701)"
+    },
+    {
+      "id": "MED-C57-37",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "A DW MRI white lesion with FLAIR black is printed to indicate:",
+      "opts": [
+        "Chronic infarct",
+        "Haemorrhagic transformation",
+        "No infarct",
+        "Very new onset stroke"
+      ],
+      "ans": 3,
+      "exp": "3. If DW MRI (white) vs Flair (Black) mismatch present — Indicative of very new onset (Book p701)"
+    },
+    {
+      "id": "MED-C57-38",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "A patient with DWI-FLAIR mismatch can be considered for:",
+      "opts": [
+        "Thrombolysis",
+        "Watchful waiting only",
+        "Hypothermia",
+        "Immediate decompressive craniectomy"
+      ],
+      "ans": 0,
+      "exp": "Patient can be considered for thrombolysis (Book p701)"
+    },
+    {
+      "id": "MED-C57-39",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "recall",
+      "q": "When the DWI-FLAIR mismatch is present, which sequence is done next?",
+      "opts": [
+        "Time-of-flight MRA",
+        "ADC (apparent diffusion coefficient)",
+        "MR spectroscopy",
+        "FLAIR with contrast"
+      ],
+      "ans": 1,
+      "exp": "Then do ADC (Apparent diffusion coefficient) (Book p701)"
+    },
+    {
+      "id": "MED-C57-40",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "page": 701,
+      "fmt": "scenario",
+      "q": "A man wakes with left hemiparesis of unknown onset; DWI shows a bright right MCA lesion but FLAIR shows no corresponding signal change. Which printed action follows?",
+      "opts": [
+        "Repeat CT in 24 hours",
+        "Start anticoagulation only",
+        "Consider him for thrombolysis (very new onset), confirming with ADC",
+        "Discharge with aspirin as onset is unknown"
+      ],
+      "ans": 2,
+      "exp": "DW MRI (white) vs Flair (Black) mismatch → indicative of very new onset → Patient can be considered for thrombolysis; then do ADC (Book p701)"
+    },
+    {
+      "id": "MED-C57-41",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "recall",
+      "q": "Step 4 of the imaging work-up is:",
+      "opts": [
+        "CT angiography",
+        "Transcranial doppler",
+        "MR spectroscopy",
+        "Perfusion imaging"
+      ],
+      "ans": 3,
+      "exp": "Steps : 4. Perfusion imaging (Book p701)"
+    },
+    {
+      "id": "MED-C57-42",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "recall",
+      "q": "The infarct core is delineated on:",
+      "opts": [
+        "DWI",
+        "PWI",
+        "T2 FLAIR",
+        "ADC only"
+      ],
+      "ans": 0,
+      "exp": "Infarct core [on] DWI (Book p701)"
+    },
+    {
+      "id": "MED-C57-43",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "recall",
+      "q": "The mismatch between perfusion and diffusion images is abbreviated:",
+      "opts": [
+        "Tmax-ADC mismatch",
+        "PWI-DWI mismatch (PDM)",
+        "DWI-PWI deficit (DPD)",
+        "CBF-CBV mismatch"
+      ],
+      "ans": 1,
+      "exp": "PWI-DWI mismatch (PDM) (Book p701)"
+    },
+    {
+      "id": "MED-C57-44",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "recall",
+      "q": "The complete penumbra is identified on:",
+      "opts": [
+        "T2 FLAIR",
+        "Skull X-ray",
+        "MR perfusion imaging",
+        "Non-contrast CT"
+      ],
+      "ans": 2,
+      "exp": "Complete penumbra — Penumbra on MR perfusion imaging (Book p701)"
+    },
+    {
+      "id": "MED-C57-45",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "numeric",
+      "q": "Below which CBF is tissue printed as infarcted?",
+      "opts": [
+        "<20 ml/100 g/min",
+        "<40 ml/100 g/min",
+        "<5 ml/100 g/min",
+        "<10 ml/100 g/min"
+      ],
+      "ans": 3,
+      "exp": "<10 ml/100 g/min → Infarcted tissue (Book p701)"
+    },
+    {
+      "id": "MED-C57-46",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "numeric",
+      "q": "Above which CBF is perfusion printed as normal?",
+      "opts": [
+        ">20 ml/100 g/min",
+        ">10 ml/100 g/min",
+        ">50 ml/100 g/min",
+        ">100 ml/100 g/min"
+      ],
+      "ans": 0,
+      "exp": ">20 ml/100 g/min → Normal perfusion (Book p701)"
+    },
+    {
+      "id": "MED-C57-47",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "numeric",
+      "q": "Which CBF band defines the penumbra region?",
+      "opts": [
+        "1-5 ml/100 g/min",
+        "10-20 ml/100 g/min",
+        "5-10 ml/100 g/min",
+        "20-40 ml/100 g/min"
+      ],
+      "ans": 1,
+      "exp": "10-20 ml/100 g/min → Penumbra region (Book p701)"
+    },
+    {
+      "id": "MED-C57-48",
+      "sec": "Perfusion Imaging",
+      "page": 701,
+      "fmt": "scenario",
+      "q": "A perfusion map shows a region at 15 ml/100 g/min surrounding a core under 8 ml/100 g/min. How is the 15 ml/100 g/min region classified?",
+      "opts": [
+        "Normal perfusion",
+        "Luxury perfusion",
+        "Penumbra region",
+        "Infarcted tissue"
+      ],
+      "ans": 2,
+      "exp": "10-20 ml/100 g/min → Penumbra region; <10 → Infarcted tissue (Book p701)"
+    },
+    {
+      "id": "MED-C57-49",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "What is step 1 after the first 24 hours?",
+      "opts": [
+        "Start physiotherapy",
+        "Discharge home",
+        "Thrombectomy",
+        "Repeat imaging"
+      ],
+      "ans": 3,
+      "exp": "After 24 Hours : 1. Repeat Imaging (Book p702)"
+    },
+    {
+      "id": "MED-C57-50",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "Anticoagulation after 24 hours is printed for which stroke type?",
+      "opts": [
+        "Cardioembolic stroke",
+        "Lacunar stroke",
+        "Watershed stroke",
+        "Haemorrhagic stroke"
+      ],
+      "ans": 0,
+      "exp": "2. Anticoagulation : If cardio embolic stroke (Book p702)"
+    },
+    {
+      "id": "MED-C57-51",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "For valvular atrial fibrillation the printed anticoagulant is:",
+      "opts": [
+        "Low molecular weight heparin lifelong",
+        "Only warfarin",
+        "Only a DOAC",
+        "Aspirin plus clopidogrel"
+      ],
+      "ans": 1,
+      "exp": "If valvular AF : Only warfarin used (Book p702)"
+    },
+    {
+      "id": "MED-C57-52",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "The 'D/t' list for valvular anticoagulation contains:",
+      "opts": [
+        "Dilated cardiomyopathy and SSS",
+        "Hypertension and diabetes",
+        "Mitral stenosis and prosthetic valve",
+        "Aortic regurgitation and endocarditis"
+      ],
+      "ans": 2,
+      "exp": "D/t : a. mitral stenosis; b. Prosthetic valve (Book p702)"
+    },
+    {
+      "id": "MED-C57-53",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "The single antiplatelet printed for most cases is:",
+      "opts": [
+        "Clopidogrel",
+        "Ticagrelor",
+        "Dipyridamole",
+        "Aspirin"
+      ],
+      "ans": 3,
+      "exp": "Single antiplatelet : Aspirin (most cases) (Book p702)"
+    },
+    {
+      "id": "MED-C57-54",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "Dual antiplatelet therapy after stroke is printed as:",
+      "opts": [
+        "Given temporarily",
+        "Given lifelong",
+        "Never indicated",
+        "Only with warfarin"
+      ],
+      "ans": 0,
+      "exp": "Dual antiplatelet Rx : Given temporarily (Book p702)"
+    },
+    {
+      "id": "MED-C57-55",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "The printed dual antiplatelet combination is:",
+      "opts": [
+        "Ticagrelor + Prasugrel",
+        "Aspirin + Ticagrelor",
+        "Aspirin + Warfarin",
+        "Clopidogrel + Dipyridamole"
+      ],
+      "ans": 1,
+      "exp": "Dual antiplatelet Rx : Aspirin + Ticagrelor (Book p702)"
+    },
+    {
+      "id": "MED-C57-56",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "Which are the printed indications for dual antiplatelet therapy here?",
+      "opts": [
+        "Haemorrhagic stroke",
+        "Any ischaemic stroke over 70 years",
+        "Corresponding cardiac disease, minor stroke/TIA, ICAD >50%",
+        "Major disabling stroke only"
+      ],
+      "ans": 2,
+      "exp": "Indications : Corresponding cardiac disease; minor stroke/TIA; Intra-cranial Atherosclerotic Disease (ICAD) >50% (Book p702)"
+    },
+    {
+      "id": "MED-C57-57",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "The printed revascularisation hierarchy is:",
+      "opts": [
+        "Carotid stenting >>> Carotid endarterectomy",
+        "Both equally preferred",
+        "Neither for symptomatic patients",
+        "Carotid endarterectomy >>> Carotid stenting"
+      ],
+      "ans": 3,
+      "exp": "4. Carotid endarterectomy >>> Carotid stenting (Book p702)"
+    },
+    {
+      "id": "MED-C57-58",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "Carotid endarterectomy is printed for:",
+      "opts": [
+        "All cases except high risk cardiac cases",
+        "Only high-risk cardiac cases",
+        "Only asymptomatic cases",
+        "No patients after stroke"
+      ],
+      "ans": 0,
+      "exp": "Carotid endarterectomy (All cases except high risk cardiac cases) (Book p702)"
+    },
+    {
+      "id": "MED-C57-59",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "Carotid stenting is printed for:",
+      "opts": [
+        "Bilateral 100% occlusion",
+        "High risk cardiac cases",
+        "All symptomatic cases",
+        "Young patients only"
+      ],
+      "ans": 1,
+      "exp": "Carotid stenting … used in high risk cardiac cases (Book p702)"
+    },
+    {
+      "id": "MED-C57-60",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "numeric",
+      "q": "Symptomatic carotid disease qualifies for the procedures above which stenosis?",
+      "opts": [
+        ">70% block",
+        ">90% block",
+        ">50% block",
+        ">30% block"
+      ],
+      "ans": 2,
+      "exp": "Indications for both : >50% block in symptomatic patient (Book p702)"
+    },
+    {
+      "id": "MED-C57-61",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "numeric",
+      "q": "Asymptomatic carotid disease qualifies above which stenosis?",
+      "opts": [
+        ">50% block",
+        ">60% block",
+        ">80% block",
+        ">70% block"
+      ],
+      "ans": 3,
+      "exp": "Indications for both : >70% block in asymptomatic patient (Book p702)"
+    },
+    {
+      "id": "MED-C57-62",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "numeric",
+      "q": "The printed LDL target is:",
+      "opts": [
+        "<100",
+        "<70",
+        "<130",
+        "<50"
+      ],
+      "ans": 0,
+      "exp": "5. Cholesterol mx : Target LDL <100 (Book p702)"
+    },
+    {
+      "id": "MED-C57-63",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "recall",
+      "q": "The printed statin choices are:",
+      "opts": [
+        "Ezetimibe alone",
+        "Atorvastatin/rosuvastatin",
+        "Simvastatin/fluvastatin",
+        "Pravastatin/lovastatin"
+      ],
+      "ans": 1,
+      "exp": "Treatment : Atorvastatin/rosuvastatin (Book p702)"
+    },
+    {
+      "id": "MED-C57-64",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "scenario",
+      "q": "A 66-year-old with non-valvular minor ischaemic stroke at day 2, already on aspirin, has 60% left carotid stenosis with ipsilateral symptoms. Which printed plan fits?",
+      "opts": [
+        "Carotid stenting as the first choice",
+        "Statins alone, no revascularisation",
+        "Dual antiplatelet (aspirin + ticagrelor) temporarily and carotid endarterectomy (>50% symptomatic)",
+        "Warfarin for the carotid stenosis"
+      ],
+      "ans": 2,
+      "exp": "Indications : minor stroke/TIA, ICAD >50%; >50% block in symptomatic patient; Carotid endarterectomy >>> Carotid stenting (Book p702)"
+    },
+    {
+      "id": "MED-C57-65",
+      "sec": "Management After 24 Hours",
+      "page": 702,
+      "fmt": "management",
+      "q": "A patient with prosthetic mitral valve and atrial fibrillation has a cardioembolic stroke; CT at 24 hours shows no bleed. Which printed antithrombotic plan applies?",
+      "opts": [
+        "Aspirin alone",
+        "Aspirin plus ticagrelor permanently",
+        "No antithrombotics",
+        "Anticoagulation with only warfarin (prosthetic valve)"
+      ],
+      "ans": 3,
+      "exp": "Anticoagulation : If cardio embolic stroke; If valvular AF : Only warfarin used; D/t : mitral stenosis, Prosthetic valve (Book p702)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U57-1",
+      "ch": 57,
+      "n": 1,
+      "title": "1. Goals of Stroke Management",
+      "sec": "Goals of Stroke Management",
+      "guide": "The goals of treatment are recanalisation/reperfusion, preventing secondary brain damage and optimising collateral blood flow.\nThe printed causes of secondary brain damage are the raised intracranial pressure cascade — ↑ICT from cerebral oedema leading to herniation/coning — plus haemorrhagic transformation and SIADH with hyponatraemia.\nEach goal maps to a threat: reperfusion to the infarct core, secondary-damage prevention to oedema and metabolic injury, and collateral flow to the penumbra.",
+      "qs": [
+        "MED-C57-01",
+        "MED-C57-02",
+        "MED-C57-03",
+        "MED-C57-04"
+      ]
+    },
+    {
+      "id": "MED-U57-2",
+      "ch": 57,
+      "n": 2,
+      "title": "2. Immediate Management and the CT Protocol",
+      "sec": "Immediate Management and CT Protocol",
+      "guide": "Immediate management is used when the onset of stroke is known: the CT protocol table maps scenarios to investigations — presentation within 6 hours needs no additional imaging, suspected TIA needs diffusion-weighted MRI to rule out stroke, and presentation within 4.5 hours of symptom onset with CT excluding bleed proceeds to thrombolysis with alteplase 0.9 mg/kg (10% bolus, 90% infusion over 1 hour) or tenecteplase 0.25 mg/kg IV bolus, which can be given without CT angiogram if thrombolysis is indicated.\nThe steps are supportive care with oxygen and vitals, checking random blood sugar, ECG plus troponin I, and BP correction — labetalol 20 mg IV up to two times when BP is ≥220/110 mmHg, or above 185/110 mmHg when thrombolysis or thrombectomy is planned.\nStep 5 is CT: plain CT to rule out bleed, then CT angiography.",
+      "qs": [
+        "MED-C57-05",
+        "MED-C57-06",
+        "MED-C57-07",
+        "MED-C57-08",
+        "MED-C57-09",
+        "MED-C57-10",
+        "MED-C57-11",
+        "MED-C57-12",
+        "MED-C57-13",
+        "MED-C57-14",
+        "MED-C57-15",
+        "MED-C57-16",
+        "MED-C57-17",
+        "MED-C57-18",
+        "MED-C57-19"
+      ]
+    },
+    {
+      "id": "MED-U57-3",
+      "ch": 57,
+      "n": 3,
+      "title": "3. Thrombolysis Contraindications",
+      "sec": "Thrombolysis Contraindications",
+      "guide": "The printed contraindications to thrombolysis are age under 18 years, BP above 185/110 despite treatment, CT hypodensity over one third, intra-axial neoplasm, aortic dissection or infective endocarditis, recent heparin within 48 hours or LMWH within 24 hours, platelet count under 1,00,000 cells/μl, bleeding within the last 3 weeks (especially GI bleed) and surgery, trauma or stroke within the last 3 months.\nEach item is an absolute block to the 4.5-hour alteplase/tenecteplase pathway.",
+      "qs": [
+        "MED-C57-20",
+        "MED-C57-21",
+        "MED-C57-22",
+        "MED-C57-23",
+        "MED-C57-24",
+        "MED-C57-25",
+        "MED-C57-26",
+        "MED-C57-27",
+        "MED-C57-28",
+        "MED-C57-29",
+        "MED-C57-30",
+        "MED-C57-31"
+      ]
+    },
+    {
+      "id": "MED-U57-4",
+      "ch": 57,
+      "n": 4,
+      "title": "4. CT and the MRI Protocol for Wake-up Stroke",
+      "sec": "MRI Protocol for Wake-up Stroke",
+      "guide": "The printed order continues on p701 with step 5 — CT: plain CT to rule out bleed, then CT angiography.\nThe MRI protocol is used for wake-up stroke, when the time of onset is unknown: diffusion-weighted MRI first establishes the diagnosis (hyperintense white lesions = stroke); the T2 FLAIR sequence then times the event, the lesion appearing white or black depending on how long ago the patient presented; a DWI-white versus FLAIR-black mismatch is indicative of very new onset, and such a patient can be considered for thrombolysis — ADC (apparent diffusion coefficient) is then performed to confirm restricted diffusion.",
+      "qs": [
+        "MED-C57-32",
+        "MED-C57-33",
+        "MED-C57-34",
+        "MED-C57-35",
+        "MED-C57-36",
+        "MED-C57-37",
+        "MED-C57-38",
+        "MED-C57-39",
+        "MED-C57-40"
+      ]
+    },
+    {
+      "id": "MED-U57-5",
+      "ch": 57,
+      "n": 5,
+      "title": "5. Perfusion Imaging and the Penumbra",
+      "sec": "Perfusion Imaging",
+      "guide": "Step 4 is perfusion imaging, which compares DWI and PWI: the infarct core shows on DWI, part of the penumbra appears on PWI, and the complete penumbra is the region identified on MR perfusion imaging — the PWI-DWI mismatch (PDM).\nThe printed CBF thresholds are below 10 ml/100 g/min for infarcted tissue, above 20 ml/100 g/min for normal perfusion, and 10-20 ml/100 g/min for the penumbra region.",
+      "qs": [
+        "MED-C57-41",
+        "MED-C57-42",
+        "MED-C57-43",
+        "MED-C57-44",
+        "MED-C57-45",
+        "MED-C57-46",
+        "MED-C57-47",
+        "MED-C57-48"
+      ]
+    },
+    {
+      "id": "MED-U57-6",
+      "ch": 57,
+      "n": 6,
+      "title": "6. Management After 24 Hours",
+      "sec": "Management After 24 Hours",
+      "guide": "After 24 hours the printed sequence is: repeat imaging; anticoagulation for cardioembolic stroke — for valvular AF only warfarin is used, the causes printed being mitral stenosis and prosthetic valve; antiplatelet therapy — single (aspirin in most cases) or dual temporarily as aspirin plus ticagrelor for corresponding cardiac disease, minor stroke/TIA and ICAD over 50%; carotid endarterectomy over carotid stenting — endarterectomy for all cases except high-risk cardiac cases, stenting used in high-risk cardiac cases; and cholesterol management with target LDL below 100 on atorvastatin/rosuvastatin.\nIndications for both revascularisation procedures are over 50% block in a symptomatic patient and over 70% block in an asymptomatic patient.",
+      "qs": [
+        "MED-C57-49",
+        "MED-C57-50",
+        "MED-C57-51",
+        "MED-C57-52",
+        "MED-C57-53",
+        "MED-C57-54",
+        "MED-C57-55",
+        "MED-C57-56",
+        "MED-C57-57",
+        "MED-C57-58",
+        "MED-C57-59",
+        "MED-C57-60",
+        "MED-C57-61",
+        "MED-C57-62",
+        "MED-C57-63",
+        "MED-C57-64",
+        "MED-C57-65"
+      ]
+    }
+  ]
+}

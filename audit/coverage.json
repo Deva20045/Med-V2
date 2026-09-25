@@ -20350,5 +20350,2003 @@
     "page": 685,
     "point": "Velocity & length dependent +, resistance in one direction (initial part of movement), Types : Clasp knife — Pyramidal lesion → Clasp knife spasticity",
     "question": "MED-C54-93"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Stroke : Abrupt onset of focal/global neurological deficit (FND) lasting ≥24 hrs, [with] evidence of infarction or hemorrhage",
+    "question": "MED-C55-01"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "TIA (Transient Ischaemic Attack) : Episode of neurological dysfunction caused by focal brain/retinal ischemia lasting <1 hour without evidence of infarction",
+    "question": "MED-C55-02"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "TIA : … lasting <1 hour without evidence of infarction",
+    "question": "MED-C55-03"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "DWI MRI : Normal → No stroke (only TIA)",
+    "question": "MED-C55-04"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "DWI MRI : Hyperintense Lesion — minor stroke (even if clinically recovered)",
+    "question": "MED-C55-05"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Hyperintense Lesion — minor stroke (even if clinically recovered)",
+    "question": "MED-C55-06"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Normal → No stroke (only TIA); Hyperintense Lesion — minor stroke",
+    "question": "MED-C55-07"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "ABCD Score : Predicts risk of stroke following TIA",
+    "question": "MED-C55-08"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "ABCD² score : Age >60 years — 1 point",
+    "question": "MED-C55-09"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "BP ≥140/90 mmHg at initial evaluation — 1 point",
+    "question": "MED-C55-10"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Clinical features : Speech disturbance without weakness — 1 point",
+    "question": "MED-C55-11"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Clinical features : unilateral weakness — 2 points",
+    "question": "MED-C55-12"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Duration of symptoms : 10-59 min — 1 point",
+    "question": "MED-C55-13"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Duration of symptoms : ≥60 min — 2 points",
+    "question": "MED-C55-14"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Diabetes mellitus in patient's history — 1 point",
+    "question": "MED-C55-15"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Points sum to a maximum of 7 (1+1+2+2+1)",
+    "question": "MED-C55-16"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Age >60 (1) + BP ≥140/90 (1) + unilateral weakness (2) + ≥60 min (2) + diabetes (1) = 6",
+    "question": "MED-C55-17"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Risk table : Low — scores 0-3",
+    "question": "MED-C55-18"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Risk table : moderate — scores 4-5",
+    "question": "MED-C55-19"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Risk table : High — scores 6-7",
+    "question": "MED-C55-20"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Low (0-3) : 2 days — 1.0%",
+    "question": "MED-C55-21"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Low (0-3) : 90 days — 3.1%",
+    "question": "MED-C55-22"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Moderate (4-5) : 2 days — 4.1%",
+    "question": "MED-C55-23"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Moderate (4-5) : 7 days — 5.9%",
+    "question": "MED-C55-24"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Moderate (4-5) : 90 days — 9.8%",
+    "question": "MED-C55-25"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "High (6-7) : 2 days — 8.1%",
+    "question": "MED-C55-26"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "High (6-7) : 7 days — 11.7%",
+    "question": "MED-C55-27"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "High (6-7) : 90 days — 17.8%",
+    "question": "MED-C55-28"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "High (6-7) : 8.1% @2 days, 11.7% @7 days, 17.8% @90 days",
+    "question": "MED-C55-29"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Notes : Dual antiplatelet therapy — key indications in neurology : TIA, mini stroke, ICAD (Intracranial Atherosclerotic Disease) : >50% occlusion",
+    "question": "MED-C55-30"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "ICAD (Intracranial Atherosclerotic Disease) : >50% occlusion",
+    "question": "MED-C55-31"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Every other condition : Single antiplatelet",
+    "question": "MED-C55-32"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "Aspirin/Ticagrelor > Clopidogrel",
+    "question": "MED-C55-33"
+  },
+  {
+    "chapter": 55,
+    "page": 686,
+    "point": "ICAD : >50% occlusion — dual antiplatelet therapy",
+    "question": "MED-C55-34"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CAUSES : 1. Atherosclerotic :",
+    "question": "MED-C55-35"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "1. Atherosclerotic → Arterial / venous",
+    "question": "MED-C55-36"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "venous → Cerebral venous thrombosis (CVT)",
+    "question": "MED-C55-37"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CVT Causes : Inherited — Factor V Leiden mutation",
+    "question": "MED-C55-38"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CVT Causes : Acquired — Antiphospholipid syndrome, Pregnancy/postpartum",
+    "question": "MED-C55-39"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CVT Symptoms : ↑ICT — Headache, vomiting, seizures",
+    "question": "MED-C55-40"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Acquired — Pregnancy/postpartum; Symptoms : ↑ICT — headache, vomiting, seizures",
+    "question": "MED-C55-41"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Arterial → Ischaemic (85%)",
+    "question": "MED-C55-42"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Arterial → Hemorrhagic (15%)",
+    "question": "MED-C55-43"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Hemorrhagic — Eg : SAH (Subarachnoid hemorrhage), EDH (extra dural hemorrhage), IVH (intraventricular hemorrhage)",
+    "question": "MED-C55-44"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "mx by : Neurosurgeon",
+    "question": "MED-C55-45"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Ischaemic → Thrombotic / Embolic / Lacunar",
+    "question": "MED-C55-46"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Thrombotic : Large vessel stroke, Evolving, Over 48-72 hrs (Progressive ↑ in weakness)",
+    "question": "MED-C55-47"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Embolic : Hyperacute presentation, Cortical features (+), Rapid recovery, Distal vessel involvement",
+    "question": "MED-C55-48"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Lacunar : 30-300 μm vessels",
+    "question": "MED-C55-49"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Lacunar : Pathology — Patchy weakness, Lipohyalinosis",
+    "question": "MED-C55-50"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Artery-Artery : m/c Stroke, From neck vessels",
+    "question": "MED-C55-51"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Cardioembolic — Seen in : mitral stenosis, Atrial fibrillation, Prosthetic valve, Dilated cardiomyopathy, Recent myocardial infarction, Sick sinus syndrome",
+    "question": "MED-C55-52"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Recent myocardial infarction (within 4-10 wks)",
+    "question": "MED-C55-53"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Seen in : mitral stenosis, Atrial fibrillation, Prosthetic valve, Dilated cardiomyopathy, Recent MI (within 4-10 wks), Sick sinus syndrome",
+    "question": "MED-C55-54"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Scenario — prosthetic valve with hyperacute cortical deficit → Embolic subtype (Seen in : Prosthetic valve; Hyperacute presentation, Cortical features (+))",
+    "question": "MED-C55-55"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Onset — Thrombotic : Stroke in evolution; Embolic : Hyperacute",
+    "question": "MED-C55-56"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Onset — Embolic : Hyperacute",
+    "question": "MED-C55-57"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Features — Embolic : LOC/seizures; Thrombotic : ↑Headache",
+    "question": "MED-C55-58"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Features — Thrombotic : ↑Headache",
+    "question": "MED-C55-59"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "weakness — Embolic : Full at onset",
+    "question": "MED-C55-60"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "weakness — Thrombotic : ↑ over 48-72 hrs",
+    "question": "MED-C55-61"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Clot — Embolic : Red clot; Thrombotic : Fibrin clot",
+    "question": "MED-C55-62"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Clot — Thrombotic : Fibrin clot",
+    "question": "MED-C55-63"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "Transformation — Embolic : Hemorrhagic",
+    "question": "MED-C55-64"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CT Imaging in stroke : Hypodense lesion (ischaemic stroke image)",
+    "question": "MED-C55-65"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CT Imaging in stroke : Hyperdense lesion (haemorrhagic stroke / subarachnoid hemorrhage images)",
+    "question": "MED-C55-66"
+  },
+  {
+    "chapter": 55,
+    "page": 687,
+    "point": "CT Imaging in stroke — images : Ischemic stroke, Hemorrhagic stroke, Subarachnoid hemorrhage",
+    "question": "MED-C55-67"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "2. Non-Atherosclerotic :",
+    "question": "MED-C55-68"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "moya-moya disease : multiple collaterals — 'Puff of smoke' appearance",
+    "question": "MED-C55-69"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Internal carotid artery vasculopathy",
+    "question": "MED-C55-70"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "moya-moya disease : multiple collaterals — 'Puff of smoke' appearance; Internal carotid artery vasculopathy",
+    "question": "MED-C55-71"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Non-Atherosclerotic : moya-moya, Vasculitis, Fabry's disease, FMD, Carotid artery dissection, Dissection, Takayasu arteritis",
+    "question": "MED-C55-72"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "PATHOLOGY Causative factors : ATP depletion",
+    "question": "MED-C55-73"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "ATP depletion → Failure of Na+-K+ ATPase pump",
+    "question": "MED-C55-74"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Glutamate release → Calcium entry",
+    "question": "MED-C55-75"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Liquefactive Necrosis",
+    "question": "MED-C55-76"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Timeline Day 1 … Day 24 — Hemorrhagic transformation of stroke",
+    "question": "MED-C55-77"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Causative factors → … → Liquefactive Necrosis",
+    "question": "MED-C55-78"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Goals of Stroke treatment : Revascularization (reperfusion); Avoid secondary injury; Establish collateral blood flow",
+    "question": "MED-C55-79"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "4-5 days : ↑ICT (cerebral edema)",
+    "question": "MED-C55-80"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Avoid secondary injury — SIADH/metabolic issues, Hemorrhagic transformation",
+    "question": "MED-C55-81"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "INVESTIGATIONS : MRI > CT",
+    "question": "MED-C55-82"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Early CT findings : 1. Hyperdense MCA sign (6 hrs) > MCA dot sign — Earliest",
+    "question": "MED-C55-83"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "1. Hyperdense MCA sign (6 hrs)",
+    "question": "MED-C55-84"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "2. Insular Ribbon sign (6-48 hrs)",
+    "question": "MED-C55-85"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "3. Obscuration of Lentiform Nucleus (8-24 hrs)",
+    "question": "MED-C55-86"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "Scenario — 12 hrs into MCA infarct, blurred insular grey-white interface → Insular Ribbon sign (6-48 hrs)",
+    "question": "MED-C55-87"
+  },
+  {
+    "chapter": 55,
+    "page": 688,
+    "point": "1. Hyperdense MCA sign (6 hrs) > MCA dot sign — Earliest",
+    "question": "MED-C55-88"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "ETIOLOGY : elderly, F > m",
+    "question": "MED-C55-89"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "R/.F : Hypertension",
+    "question": "MED-C55-90"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "TYPES — Pure motor stroke : Lenticulostriate artery",
+    "question": "MED-C55-91"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "TYPES — Pure motor stroke : Internal capsule",
+    "question": "MED-C55-92"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "TYPES — Pure sensory stroke : Thalamogeniculate artery",
+    "question": "MED-C55-93"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "TYPES — Pure sensory stroke : VentroPosteroLateral (VPL) Nucleus",
+    "question": "MED-C55-94"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "TYPES — Ataxic hemiparesis / Dysarthria with Clumsy Hands : Basilar artery",
+    "question": "MED-C55-95"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "TYPES — Ataxic hemiparesis / Dysarthria with Clumsy Hands : Basi pons",
+    "question": "MED-C55-96"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "Pure motor stroke : Lenticulostriate artery, Internal capsule",
+    "question": "MED-C55-97"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "SVD markers on MRI : Recent small subcortical infarct — DWI",
+    "question": "MED-C55-98"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "SVD markers on MRI : White matter hyperintensity — FLAIR",
+    "question": "MED-C55-99"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "SVD markers on MRI : Cerebral microbleeds — T2'/SWI",
+    "question": "MED-C55-100"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "microbleeds : Cerebral amyloid angiopathy",
+    "question": "MED-C55-101"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "CADASIL disease (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts Leucoencephalopathy)",
+    "question": "MED-C55-102"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "conditions producing white matter lesions : CADASIL disease (…)",
+    "question": "MED-C55-103"
+  },
+  {
+    "chapter": 55,
+    "page": 689,
+    "point": "…30-300 μm vessel d/t lipohyalinosis; Lacunar : 30-300 μm vessels, Lipohyalinosis",
+    "question": "MED-C55-104"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "Ataxic Hemiparesis : Same as dysarthria with clumsy hands",
+    "question": "MED-C55-105"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "CPC damage → C/L cerebellar findings",
+    "question": "MED-C55-106"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "CS damage → C/L weakness",
+    "question": "MED-C55-107"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "Lesion at basis pons → Ataxic Hemiparesis / Dysarthria with Clumsy Hands",
+    "question": "MED-C55-108"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "Spinocerebellar fibers : Degenerate in Friedreich's ataxia",
+    "question": "MED-C55-109"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "DRTC (Dentato Rubro Thalamo Cortical)",
+    "question": "MED-C55-110"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "DRTC fibres — Red nucleus",
+    "question": "MED-C55-111"
+  },
+  {
+    "chapter": 55,
+    "page": 690,
+    "point": "CPC damage → C/L cerebellar findings; CS damage → C/L weakness; Lesion at basis pons → Ataxic Hemiparesis",
+    "question": "MED-C55-112"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Brainstem — Rostral : midbrain; Central : Pons; Caudal : medulla",
+    "question": "MED-C56-01"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Brainstem — Central : Pons",
+    "question": "MED-C56-02"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Brainstem — Caudal : medulla",
+    "question": "MED-C56-03"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Hallmark presentation : Crossed Hemiplegia — I/L LMN Cranial Nerve (CN) palsy + C/L hemiplegia",
+    "question": "MED-C56-04"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Crossed Hemiplegia — (Corticospinal decussation) (Lesion of cranial nerve nucleus)",
+    "question": "MED-C56-05"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "(Corticospinal decussation) (Lesion of cranial nerve nucleus)",
+    "question": "MED-C56-06"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Note — Hallmark presentations : Cortical lesion : Aphasia",
+    "question": "MED-C56-07"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Internal capsule lesion : C/L UMN 7th Nerve palsy",
+    "question": "MED-C56-08"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Crossed Hemiplegia : I/L LMN CN palsy + C/L hemiplegia (brainstem hallmark)",
+    "question": "MED-C56-09"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Structures : midline : 4M",
+    "question": "MED-C56-10"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Structures : Lateral : 4S",
+    "question": "MED-C56-11"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "midline 4M : motor nuclei of CN : 3, 4, 6, 12",
+    "question": "MED-C56-12"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "medial longitudinal fasciculus : INO (Internuclear ophthalmoplegia)",
+    "question": "MED-C56-13"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "medial Lemniscus (Posterior column) : After decussation at medulla",
+    "question": "MED-C56-14"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "motor tract : Corticospinal tract",
+    "question": "MED-C56-15"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Lateral : 4S — Spinothalamic tract, Spinocerebellar fibers, Sympathetic fibers : Horner's syndrome, Spinal nucleus of trigeminal nerve",
+    "question": "MED-C56-16"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Sympathetic fibers : Horner's syndrome",
+    "question": "MED-C56-17"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "midline : 4M — motor nuclei, MLF, medial lemniscus, motor tract; Lateral : 4S — spinothalamic, spinocerebellar, sympathetic, spinal nucleus of V",
+    "question": "MED-C56-18"
+  },
+  {
+    "chapter": 56,
+    "page": 691,
+    "point": "Lateral : 4S — Spinothalamic tract, Spinocerebellar fibers, Sympathetic fibers, Spinal nucleus of trigeminal nerve",
+    "question": "MED-C56-19"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "Anterior view — Crus cerebri of midbrain",
+    "question": "MED-C56-20"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "Anterior view — Interpeduncular fossa; Oculomotor nerve",
+    "question": "MED-C56-21"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "Posterior view — Superior colliculus (SC), Inferior colliculus (IC)",
+    "question": "MED-C56-22"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "Middle 3/5th : Corticospinal and corticonuclear fibres",
+    "question": "MED-C56-23"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "Frontopontine fibres (medial)",
+    "question": "MED-C56-24"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "At the level of superior colliculus — Cerebral aqueduct",
+    "question": "MED-C56-25"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "At the level of superior colliculus — Tegmentum; Red nucleus",
+    "question": "MED-C56-26"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "At the level of superior colliculus — Substantia nigra",
+    "question": "MED-C56-27"
+  },
+  {
+    "chapter": 56,
+    "page": 692,
+    "point": "Anterior view — Tubercinereum, Mammillary body (hypothalamic/midbrain boundary)",
+    "question": "MED-C56-28"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "At the level of inferior colliculus — Trochlear nerve",
+    "question": "MED-C56-29"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Mesencephalic nucleus of trigeminal",
+    "question": "MED-C56-30"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Decussation of superior cerebellar peduncles",
+    "question": "MED-C56-31"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Temporopontine, parietopontine and occipitopontine fibres",
+    "question": "MED-C56-32"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Middle 3/5th : Corticospinal and corticonuclear fibres",
+    "question": "MED-C56-33"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "VENTRAL MIDBRAIN SYNDROMES — Etiology : Vascular origin : P1 segment of Posterior Cerebral Artery (PCA)",
+    "question": "MED-C56-34"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Weber's Syndrome — Location : Base of midbrain (Cerebral Peduncle)",
+    "question": "MED-C56-35"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Weber's — Structures involved : CN-3 Fibres from nucleus; Corticospinal tract",
+    "question": "MED-C56-36"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Weber's — Clinical Features : I/L 3rd nerve palsy; C/L Hemiplegia",
+    "question": "MED-C56-37"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Claude's Syndrome — Location : Tegmentum",
+    "question": "MED-C56-38"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Claude's — Structures : CN-3 Fibres from nucleus; Red nucleus (Superior cerebellar peduncle — Dentato-rubro-thalamic fibres)",
+    "question": "MED-C56-39"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Claude's — Clinical Features : I/L 3rd nerve palsy; C/L Ataxia + Tremor (opposite cerebellar fibres)",
+    "question": "MED-C56-40"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Benedikt's Syndrome — (Weber + Claude)",
+    "question": "MED-C56-41"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Benedikt's — Location : Extensive tegmentum + Base of midbrain",
+    "question": "MED-C56-42"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Benedikt's — Structures : … Substantia Nigra (Nigrostriatal pathway)",
+    "question": "MED-C56-43"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Benedikt's — Clinical Features : … C/L Hemichorea + Hemiathetosis",
+    "question": "MED-C56-44"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Benedikt's — I/L 3rd nerve palsy; C/L Hemiplegia; C/L Ataxia + Tremor; C/L Hemichorea + Hemiathetosis (Weber + Claude)",
+    "question": "MED-C56-45"
+  },
+  {
+    "chapter": 56,
+    "page": 693,
+    "point": "Weber's — Base of midbrain (Cerebral Peduncle); I/L 3rd nerve palsy; C/L Hemiplegia",
+    "question": "MED-C56-46"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "DORSAL MIDBRAIN SYNDROMES — Etiology : Tumour : Pinealomas (m/c)",
+    "question": "MED-C56-47"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Location of Lesion : Dorsum of midbrain",
+    "question": "MED-C56-48"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Structures Involved : Pretectal nucleus; Periaqueductal gray matter; CN-3 fibers",
+    "question": "MED-C56-49"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Clinical Features : vertical gaze palsy (up gaze palsy)",
+    "question": "MED-C56-50"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Sunsetting sign (Look down)",
+    "question": "MED-C56-51"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Argyll Robertson Pupil (ARP) — Accommodation reflex present; Light reflex absent",
+    "question": "MED-C56-52"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Collier's sign : Overshoot of levator palpebrae Superioris (LPS) → Lid retraction",
+    "question": "MED-C56-53"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Convergence retraction nystagmus (overactive convergence center)",
+    "question": "MED-C56-54"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Clinical Features : … Skew deviation of eyes",
+    "question": "MED-C56-55"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Nothnagel's syndrome (Anterior version of Parinaud syndrome)",
+    "question": "MED-C56-56"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Nothnagel's — Structures : CN-3 fibers; Superior cerebellar peduncle (Close to red nucleus)",
+    "question": "MED-C56-57"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Nothnagel's — Clinical Features : Vertical gaze palsy (up gaze palsy), 3rd nerve palsy, C/L Ataxia",
+    "question": "MED-C56-58"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Note : Parinaud's oculoglandular syndrome : Associated with Tularemia (Francisella tularensis)",
+    "question": "MED-C56-59"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Cerebellar peduncle connections : Superior → midbrain",
+    "question": "MED-C56-60"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Cerebellar peduncle connections : middle → Pons",
+    "question": "MED-C56-61"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Cerebellar peduncle connections : Inferior → medulla",
+    "question": "MED-C56-62"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Pinealomas (m/c); vertical gaze palsy; Collier's sign → Lid retraction; ARP",
+    "question": "MED-C56-63"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Parinaud's features : vertical gaze palsy, sunsetting sign, ARP, Collier's sign, pseudo abducent pupil, convergence retraction nystagmus, skew deviation",
+    "question": "MED-C56-64"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "LATERAL MEDULLARY SYNDROME AKA Wallenberg's / PICA Syndrome",
+    "question": "MED-C56-65"
+  },
+  {
+    "chapter": 56,
+    "page": 694,
+    "point": "Etiology : Vascular origin : V4 segment of vertebral artery → Posterior Inferior cerebellar Artery (PICA)",
+    "question": "MED-C56-66"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Pathogenesis : Large vessel infarction : Thrombosis/Artery to artery infarction",
+    "question": "MED-C56-67"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Cardiac embolism : Rare",
+    "question": "MED-C56-68"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "1. Higher mental Functions : Normal",
+    "question": "MED-C56-69"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "3. motor System : Normal",
+    "question": "MED-C56-70"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Spinal nucleus of V nerve → Pain, numbness, impaired sensations on one-half of face",
+    "question": "MED-C56-71"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "vestibular nucleus of VIII Nerve → Ataxia (same side), Tinnitus, vertigo, Dizziness, Oscillopsia, Nystagmus",
+    "question": "MED-C56-72"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Nucleus Tractus Solitarius (NTS) of VII Nerve → Impaired taste on anterior 2/3rd of tongue",
+    "question": "MED-C56-73"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Nucleus ambiguus of IX, X Nerve → Dysphagia, Nasal regurgitation",
+    "question": "MED-C56-74"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Dorsal nucleus of vagus (X) nerve → Autonomic symptoms (Tachy/bradycardia, Arrhythmias, Orthostatic hypotension, Erectile dysfunction, abnormal sweating)",
+    "question": "MED-C56-75"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Cervical Sympathetic chain → Horner's syndrome (Ptosis, miosis, Anhydrosis, Enophthalmos, Loss of ciliospinal reflex)",
+    "question": "MED-C56-76"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Horner's syndrome (Ptosis, miosis, Anhydrosis, Enophthalmos, Loss of ciliospinal reflex)",
+    "question": "MED-C56-77"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Spinothalamic tract : C/L loss of Pain and Temperature",
+    "question": "MED-C56-78"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Sensory System — Spared : Posterior column (midline)",
+    "question": "MED-C56-79"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "5. Cerebellum : Spinocerebellar Fibres : I/L cerebellar symptoms (Ataxia)",
+    "question": "MED-C56-80"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "LMS — normal higher functions/motor; spinal nucleus of V; STT C/L pain/temp; sympathetic chain Horner's; nucleus ambiguus dysphagia",
+    "question": "MED-C56-81"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "NTS of VII Nerve → Impaired taste on anterior 2/3rd of tongue",
+    "question": "MED-C56-82"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Central Horner syndrome (1st order neuron) — (Wallenberg syndrome)",
+    "question": "MED-C56-83"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Pre-ganglionic Horner : Pancoast tumour",
+    "question": "MED-C56-84"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Postganglionic Horner : Carotid artery dissection",
+    "question": "MED-C56-85"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Postganglionic Horner — Anhydrosis : Absent",
+    "question": "MED-C56-86"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "C8, T1 → Superior cervical ganglion",
+    "question": "MED-C56-87"
+  },
+  {
+    "chapter": 56,
+    "page": 695,
+    "point": "Pre-ganglionic Horner : Pancoast tumour; Postganglionic — Anhydrosis absent",
+    "question": "MED-C56-88"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "MEDIAL MEDULLARY SYNDROME AKA Dejerine Syndrome",
+    "question": "MED-C56-89"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "XII Nerve nucleus → I/L 12th nerve palsy : Paralysis with atrophy of one-half of tongue",
+    "question": "MED-C56-90"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "Corticospinal tract → C/L Hemiplegia",
+    "question": "MED-C56-91"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "medial Longitudinal Fasciculus → I/L Internuclear ophthalmoplegia",
+    "question": "MED-C56-92"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "medial Lemniscus → C/L loss of posterior column : Touch and proprioception lost",
+    "question": "MED-C56-93"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "Frontal Eye Field → PPRF (Paramedian pontine reticular formation) → VI CN nucleus",
+    "question": "MED-C56-94"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "PPRF — Paramedian pontine reticular formation",
+    "question": "MED-C56-95"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "VI CN nucleus ↔ medial Longitudinal Fasciculus (MLF) → medial Rectus",
+    "question": "MED-C56-96"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "Lesions of : medial longitudinal fasciculus : Internuclear ophthalmoplegia",
+    "question": "MED-C56-97"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "INO : I/L Adduction weakness + C/L Abduction nystagmus",
+    "question": "MED-C56-98"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "MLF + PPRF : One and a half syndrome",
+    "question": "MED-C56-99"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "One and a half syndrome : I/L abduction + I/L adduction + C/L adduction absent; C/L Abduction intact",
+    "question": "MED-C56-100"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "VII Nerve palsy + One and half syndrome : Eight and half syndrome",
+    "question": "MED-C56-101"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "B/L VII Nerve palsy + One and half syndrome : Fifteen and half syndrome",
+    "question": "MED-C56-102"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "MLF + PPRF : One and a half syndrome — I/L abduction + I/L adduction + C/L adduction absent; C/L abduction intact",
+    "question": "MED-C56-103"
+  },
+  {
+    "chapter": 56,
+    "page": 696,
+    "point": "Dejerine — XII nucleus I/L 12th palsy with atrophy; CST C/L hemiplegia; medial lemniscus C/L posterior column loss",
+    "question": "MED-C56-104"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "CRUCIATE PARALYSIS (early decussation of upper limb fibres)",
+    "question": "MED-C56-105"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Presentation : Brachial diplegia — Both arm weakness with sparing of legs",
+    "question": "MED-C56-106"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Presentation : weakness of one arm and opposite leg",
+    "question": "MED-C56-107"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Note : Crossed hemiplegia : I/L LMN CN palsy + C/L Hemiplegia",
+    "question": "MED-C56-108"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Avellis vs Jackson — Site of Lesion : Tegmentum of medulla",
+    "question": "MED-C56-109"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Avellis Syndrome — Structures involved : X Nerve; Spinothalamic tract",
+    "question": "MED-C56-110"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Avellis — I/L LMN X CN palsy; C/L Pain and Temperature loss (body); No weakness",
+    "question": "MED-C56-111"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Jackson Syndrome — Structures involved : Hypoglossal nucleus",
+    "question": "MED-C56-112"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Jackson — I/L LMN XII CN Palsy",
+    "question": "MED-C56-113"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Etiology : Infarct / Tumors",
+    "question": "MED-C56-114"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Scenario — I/L X palsy + C/L body pain/temp loss + no weakness → Avellis syndrome (X Nerve, Spinothalamic tract)",
+    "question": "MED-C56-115"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Jackson — Hypoglossal nucleus : I/L LMN XII CN Palsy",
+    "question": "MED-C56-116"
+  },
+  {
+    "chapter": 56,
+    "page": 697,
+    "point": "Odd one out — C/L hemiplegia is not in the Avellis row (I/L LMN X CN palsy; C/L Pain and Temperature loss (body); No weakness)",
+    "question": "MED-C56-117"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Pontine ANATOMY — labels 1 to 23",
+    "question": "MED-C56-118"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "4. Abducens Nucleus",
+    "question": "MED-C56-119"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "13. Facial Nucleus",
+    "question": "MED-C56-120"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "19. Middle Cerebellar Peduncle",
+    "question": "MED-C56-121"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "21. Corticospinal Tract",
+    "question": "MED-C56-122"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "23. Basilar Sulcus of the Pons",
+    "question": "MED-C56-123"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "18. Raphe Nucleus — midline tegmentum (median sulcus region)",
+    "question": "MED-C56-124"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "9. Pontine Reticular Formation",
+    "question": "MED-C56-125"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Note : No Tectum [in] the Pons",
+    "question": "MED-C56-126"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Blood Supply : Basilar Artery (majority)",
+    "question": "MED-C56-127"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Lateral pons : Anterior Inferior Cerebellar Artery (AICA) + Basilar Artery",
+    "question": "MED-C56-128"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "14. Lateral Lemniscus (with 17. Medial Lemniscus as sensory tracts)",
+    "question": "MED-C56-129"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Millard-Gubler Syndrome — Site of Lesion : ventral — Basal Pons",
+    "question": "MED-C56-130"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Millard-Gubler — Vascular Origin : Basilar Artery",
+    "question": "MED-C56-131"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Millard-Gubler — I/L LMN Facial Nerve Palsy; I/L LMN Sixth Nerve palsy; C/L Hemiplegia",
+    "question": "MED-C56-132"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Millard-Gubler Syndrome — FSH",
+    "question": "MED-C56-133"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Raymond Syndrome : I/L Sixth Nerve Palsy + C/L Hemiplegia",
+    "question": "MED-C56-134"
+  },
+  {
+    "chapter": 56,
+    "page": 698,
+    "point": "Raymond Syndrome — (SH Syndrome)",
+    "question": "MED-C56-135"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Foville Syndrome — Site of Lesion : Dorsal Tegmentum",
+    "question": "MED-C56-136"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Foville — Vascular origin : Basilar artery",
+    "question": "MED-C56-137"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Foville — I/L LMN Facial Nerve palsy; I/L Conjugate Gaze Palsy (PPRF); C/L Hemiplegia",
+    "question": "MED-C56-138"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Foville Syndrome — FGH",
+    "question": "MED-C56-139"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Marie-Foix Syndrome — Site of Lesion : Lateral pons",
+    "question": "MED-C56-140"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Marie-Foix — AICA + Basilar Artery",
+    "question": "MED-C56-141"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Marie-Foix — I/L Ataxia (middle cerebellar peduncle)",
+    "question": "MED-C56-142"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Marie-Foix — I/L Ataxia (middle cerebellar peduncle); C/L Pain and Temperature (spinothalamic tract); C/L Hemiplegia",
+    "question": "MED-C56-143"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Marie-Foix Syndrome — ASH",
+    "question": "MED-C56-144"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Locked-in Syndrome — stiology : B/L extensive Pontine infarction",
+    "question": "MED-C56-145"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Locked-in — Alert (Normal Reticular activating system)",
+    "question": "MED-C56-146"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "quadriplegia : Lesion of Corticospinal and Corticobulbar fibres",
+    "question": "MED-C56-147"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Vertical eye movements : Present (Normal midbrain)",
+    "question": "MED-C56-148"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Top of Basilar occlusion — B/L medial Temporal Lobe lesion",
+    "question": "MED-C56-149"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "B/L medial Temporal Lobe lesion : Behavioral changes, Fluctuating alertness, Amnesia (Loss of memory), Visual hallucinations",
+    "question": "MED-C56-150"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Top of Basilar occlusion — Absent Visual/oculomotor",
+    "question": "MED-C56-151"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Note : Presentation of posterior stroke : 5D's — Diplopia, Dizziness, Dystaxia, Dysarthria, Dysphagia",
+    "question": "MED-C56-152"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Locked-in — B/L extensive pontine infarction; alert (normal RAS); quadriplegia (CST + corticobulbar); vertical eye movements present (normal midbrain)",
+    "question": "MED-C56-153"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "B/L medial Temporal Lobe lesion : Behavioral changes, Fluctuating alertness, Amnesia, Visual hallucinations",
+    "question": "MED-C56-154"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Foville — I/L LMN facial palsy + I/L conjugate gaze palsy (PPRF) + C/L hemiplegia (FGH)",
+    "question": "MED-C56-155"
+  },
+  {
+    "chapter": 56,
+    "page": 699,
+    "point": "Marie-Foix — I/L Ataxia (MCP) + C/L Pain and Temperature + C/L Hemiplegia; Millard-Gubler — I/L LMN VII + I/L LMN VI + C/L Hemiplegia",
+    "question": "MED-C56-156"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Goals of Rx : Recanalisation/reperfusion; Prevent secondary brain damage; Optimise collateral blood flow",
+    "question": "MED-C57-01"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Causes : ↑ ICT (Intracranial pressure) → cerebral edema → Herniation/coning",
+    "question": "MED-C57-02"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Causes : Haemorrhagic transformation; SIADH → hyponatremia",
+    "question": "MED-C57-03"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "↑ICT (Intracranial pressure) → cerebral edema → Herniation/coning (4-5 days : ↑ICT per the earlier chapter table)",
+    "question": "MED-C57-04"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "used when onset of stroke is known :",
+    "question": "MED-C57-05"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "CT Protocol — Scenarios : Patient presents within 6 hours → No additional imaging needed",
+    "question": "MED-C57-06"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "TIA suspected → Diffusion-weighted MRI (To rule out stroke)",
+    "question": "MED-C57-07"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Scenarios : Patient presents within 4.5 hours of symptom onset + CT ruled out bleed → Thrombolysis",
+    "question": "MED-C57-08"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Thrombolysis : Alteplase 0.9 mg/kg — 10% bolus, 90% infusion over 1 hour",
+    "question": "MED-C57-09"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Tenecteplase 0.25 mg/kg bolus IV",
+    "question": "MED-C57-10"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Tenecteplase 0.25 mg/kg bolus IV (can be given without CT angiogram if thrombolysis indicated)",
+    "question": "MED-C57-11"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Steps : 1. Supportive Rx : manage hypoxia (O2 administration), monitor vitals",
+    "question": "MED-C57-12"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "2. Check RBS : Correct hypo/hyperglycaemia",
+    "question": "MED-C57-13"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "3. ECG + Troponin I",
+    "question": "MED-C57-14"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "4. Correct BP if : BP ≥220/110 mmHg",
+    "question": "MED-C57-15"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "BP >185/110 mmHg when thrombolysis/thrombectomy planned",
+    "question": "MED-C57-16"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Then : Give labetalol 20 mg IV (upto two times)",
+    "question": "MED-C57-17"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Scenario — known onset 3 hrs ago, CT negative for bleed → the 4.5-hour thrombolysis row applies",
+    "question": "MED-C57-18"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "BP >185/110 mmHg when thrombolysis/thrombectomy planned → Then : Give labetalol 20 mg IV (upto two times)",
+    "question": "MED-C57-19"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Contraindications to thrombolysis : Age <18 yrs",
+    "question": "MED-C57-20"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "BP >185/110 in spite of Rx",
+    "question": "MED-C57-21"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "CT hypodensity >1/3rd",
+    "question": "MED-C57-22"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Intra axial neoplasm",
+    "question": "MED-C57-23"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Aortic dissection/infective endocarditis",
+    "question": "MED-C57-24"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "use of : Heparin <48 hrs",
+    "question": "MED-C57-25"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "LMWH <24 hrs (Low molecular weight Heparin)",
+    "question": "MED-C57-26"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Platelet count <1,00,000 cells/μl",
+    "question": "MED-C57-27"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Bleed in last 3 weeks : Especially GI bleed",
+    "question": "MED-C57-28"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Surgery/trauma/stroke in last 3 months",
+    "question": "MED-C57-29"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Scenario — cholecystectomy 5 weeks ago → Surgery in last 3 months contraindicates thrombolysis",
+    "question": "MED-C57-30"
+  },
+  {
+    "chapter": 57,
+    "page": 700,
+    "point": "Contraindications list : age <18, BP >185/110 despite Rx, CT hypodensity >1/3rd, intra axial neoplasm, aortic dissection/IE, heparin <48h, LMWH <24h, platelets <1,00,000, bleed <3 wks, surgery/trauma/stroke <3 mo",
+    "question": "MED-C57-31"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "5) CT : a. Plain CT (To rule out bleed); b. CT angiography",
+    "question": "MED-C57-32"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "MRI Protocol : Used for wake up stroke (Time of onset unknown)",
+    "question": "MED-C57-33"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "Steps : 1. Diffusion weighted MRI (DW MRI)",
+    "question": "MED-C57-34"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "1. Diffusion weighted MRI (DW MRI) : Hyperintense lesions (white) present → Dx : Stroke",
+    "question": "MED-C57-35"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "2. T2 FLAIR MRI sequence",
+    "question": "MED-C57-36"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "3. If DW MRI (white) vs Flair (Black) mismatch present — Indicative of very new onset",
+    "question": "MED-C57-37"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "Patient can be considered for thrombolysis",
+    "question": "MED-C57-38"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "Then do ADC (Apparent diffusion coefficient)",
+    "question": "MED-C57-39"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "DW MRI (white) vs Flair (Black) mismatch → indicative of very new onset → Patient can be considered for thrombolysis; then do ADC",
+    "question": "MED-C57-40"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "Steps : 4. Perfusion imaging",
+    "question": "MED-C57-41"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "Infarct core [on] DWI",
+    "question": "MED-C57-42"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "PWI-DWI mismatch (PDM)",
+    "question": "MED-C57-43"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "Complete penumbra — Penumbra on MR perfusion imaging",
+    "question": "MED-C57-44"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "<10 ml/100 g/min → Infarcted tissue",
+    "question": "MED-C57-45"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": ">20 ml/100 g/min → Normal perfusion",
+    "question": "MED-C57-46"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "10-20 ml/100 g/min → Penumbra region",
+    "question": "MED-C57-47"
+  },
+  {
+    "chapter": 57,
+    "page": 701,
+    "point": "10-20 ml/100 g/min → Penumbra region; <10 → Infarcted tissue",
+    "question": "MED-C57-48"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "After 24 Hours : 1. Repeat Imaging",
+    "question": "MED-C57-49"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "2. Anticoagulation : If cardio embolic stroke",
+    "question": "MED-C57-50"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "If valvular AF : Only warfarin used",
+    "question": "MED-C57-51"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "D/t : a. mitral stenosis; b. Prosthetic valve",
+    "question": "MED-C57-52"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Single antiplatelet : Aspirin (most cases)",
+    "question": "MED-C57-53"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Dual antiplatelet Rx : Given temporarily",
+    "question": "MED-C57-54"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Dual antiplatelet Rx : Aspirin + Ticagrelor",
+    "question": "MED-C57-55"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Indications : Corresponding cardiac disease; minor stroke/TIA; Intra-cranial Atherosclerotic Disease (ICAD) >50%",
+    "question": "MED-C57-56"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "4. Carotid endarterectomy >>> Carotid stenting",
+    "question": "MED-C57-57"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Carotid endarterectomy (All cases except high risk cardiac cases)",
+    "question": "MED-C57-58"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Carotid stenting … used in high risk cardiac cases",
+    "question": "MED-C57-59"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Indications for both : >50% block in symptomatic patient",
+    "question": "MED-C57-60"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Indications for both : >70% block in asymptomatic patient",
+    "question": "MED-C57-61"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "5. Cholesterol mx : Target LDL <100",
+    "question": "MED-C57-62"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Treatment : Atorvastatin/rosuvastatin",
+    "question": "MED-C57-63"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Indications : minor stroke/TIA, ICAD >50%; >50% block in symptomatic patient; Carotid endarterectomy >>> Carotid stenting",
+    "question": "MED-C57-64"
+  },
+  {
+    "chapter": 57,
+    "page": 702,
+    "point": "Anticoagulation : If cardio embolic stroke; If valvular AF : Only warfarin used; D/t : mitral stenosis, Prosthetic valve",
+    "question": "MED-C57-65"
   }
 ]

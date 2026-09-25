@@ -1,0 +1,1911 @@
+{
+  "chapter": 55,
+  "title": "Approach to Stroke",
+  "pageRange": "686-690",
+  "questions": [
+    {
+      "id": "MED-C55-01",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "recall",
+      "q": "With which printed definition does the chapter open stroke?",
+      "opts": [
+        "Any headache with vomiting and photophobia",
+        "Abrupt onset of focal/global neurological deficit lasting ≥24 hrs",
+        "Progressive deficit developing over one week",
+        "Deficit confined to a single limb territory for any duration"
+      ],
+      "ans": 1,
+      "exp": "Stroke : Abrupt onset of focal/global neurological deficit (FND) lasting ≥24 hrs, [with] evidence of infarction or hemorrhage (Book p686)"
+    },
+    {
+      "id": "MED-C55-02",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "recall",
+      "q": "The printed TIA definition caps the episode at which duration?",
+      "opts": [
+        "Under 6 hours, with complete recovery",
+        "Under 15 minutes, with full recovery",
+        "Under 1 hour, without evidence of infarction",
+        "Under 24 hours, without evidence of infarction"
+      ],
+      "ans": 2,
+      "exp": "TIA (Transient Ischaemic Attack) : Episode of neurological dysfunction caused by focal brain/retinal ischemia lasting <1 hour without evidence of infarction (Book p686)"
+    },
+    {
+      "id": "MED-C55-03",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "For how long can symptoms last and still be called a TIA in the printed definition?",
+      "opts": [
+        "Less than 4.5 hours",
+        "Less than 12 hours",
+        "Less than 24 hours",
+        "Less than 1 hour"
+      ],
+      "ans": 3,
+      "exp": "TIA : … lasting <1 hour without evidence of infarction (Book p686)"
+    },
+    {
+      "id": "MED-C55-04",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "recall",
+      "q": "A fully normal diffusion-weighted MRI after a transient episode is printed to indicate:",
+      "opts": [
+        "No stroke — only TIA",
+        "Minor stroke with silent infarction",
+        "Haemorrhagic transformation",
+        "Lacunar infarct below MRI resolution"
+      ],
+      "ans": 0,
+      "exp": "DWI MRI : Normal → No stroke (only TIA) (Book p686)"
+    },
+    {
+      "id": "MED-C55-05",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "recall",
+      "q": "A hyperintense lesion on DWI MRI after a transient episode is printed to indicate:",
+      "opts": [
+        "Normal age-related white matter change",
+        "Minor stroke, even if clinically recovered",
+        "TIA with ongoing risk",
+        "Old chronic infarct of no acute significance"
+      ],
+      "ans": 1,
+      "exp": "DWI MRI : Hyperintense Lesion — minor stroke (even if clinically recovered) (Book p686)"
+    },
+    {
+      "id": "MED-C55-06",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "scenario",
+      "q": "An elderly man had 40 minutes of right arm weakness that fully resolved before reaching hospital. Diffusion-weighted MRI shows a small hyperintense lesion in the left hemisphere. How is this classified?",
+      "opts": [
+        "Stroke mimic, because recovery was complete",
+        "Haemorrhagic transformation of a TIA",
+        "Minor stroke (clinically recovered)",
+        "TIA, because the deficit lasted under an hour"
+      ],
+      "ans": 2,
+      "exp": "Hyperintense Lesion — minor stroke (even if clinically recovered) (Book p686)"
+    },
+    {
+      "id": "MED-C55-07",
+      "sec": "Stroke and TIA Definitions",
+      "page": 686,
+      "fmt": "oddoneout",
+      "q": "In the printed DWI MRI outcome rule, which finding belongs to 'minor stroke' rather than 'only TIA'?",
+      "opts": [
+        "Normal DWI study",
+        "Complete clinical recovery with normal DWI",
+        "Isolated symptom resolution under 1 hour",
+        "Hyperintense lesion on DWI"
+      ],
+      "ans": 3,
+      "exp": "Normal → No stroke (only TIA); Hyperintense Lesion — minor stroke (Book p686)"
+    },
+    {
+      "id": "MED-C55-08",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "recall",
+      "q": "The ABCD² score is printed to predict which outcome?",
+      "opts": [
+        "Risk of stroke following TIA",
+        "Risk of seizure after stroke",
+        "Mortality at 30 days after intracerebral bleed",
+        "Likelihood of full functional recovery"
+      ],
+      "ans": 0,
+      "exp": "ABCD Score : Predicts risk of stroke following TIA (Book p686)"
+    },
+    {
+      "id": "MED-C55-09",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "How many points does the ABCD² score give for age?",
+      "opts": [
+        "3 points for age >75 years",
+        "1 point for age >60 years",
+        "2 points for age >60 years",
+        "1 point for age >50 years"
+      ],
+      "ans": 1,
+      "exp": "ABCD² score : Age >60 years — 1 point (Book p686)"
+    },
+    {
+      "id": "MED-C55-10",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Which blood pressure qualifies for the ABCD² BP point?",
+      "opts": [
+        ">160/100 mmHg on two readings",
+        "≥185/110 mmHg at initial evaluation",
+        "≥140/90 mmHg at initial evaluation",
+        ">120/80 mmHg at initial evaluation"
+      ],
+      "ans": 2,
+      "exp": "BP ≥140/90 mmHg at initial evaluation — 1 point (Book p686)"
+    },
+    {
+      "id": "MED-C55-11",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "recall",
+      "q": "Under clinical features of the TIA, speech disturbance without weakness scores:",
+      "opts": [
+        "2 points",
+        "3 points",
+        "No points",
+        "1 point"
+      ],
+      "ans": 3,
+      "exp": "Clinical features : Speech disturbance without weakness — 1 point (Book p686)"
+    },
+    {
+      "id": "MED-C55-12",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "recall",
+      "q": "Unilateral weakness during the TIA scores how many ABCD² points?",
+      "opts": [
+        "2 points",
+        "1 point",
+        "3 points",
+        "No points"
+      ],
+      "ans": 0,
+      "exp": "Clinical features : unilateral weakness — 2 points (Book p686)"
+    },
+    {
+      "id": "MED-C55-13",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "A TIA lasting 10-59 minutes scores how many duration points?",
+      "opts": [
+        "Half a point",
+        "1 point",
+        "2 points",
+        "Zero points"
+      ],
+      "ans": 1,
+      "exp": "Duration of symptoms : 10-59 min — 1 point (Book p686)"
+    },
+    {
+      "id": "MED-C55-14",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "A TIA lasting 60 minutes or longer scores how many duration points?",
+      "opts": [
+        "3 points",
+        "Zero points",
+        "2 points",
+        "1 point"
+      ],
+      "ans": 2,
+      "exp": "Duration of symptoms : ≥60 min — 2 points (Book p686)"
+    },
+    {
+      "id": "MED-C55-15",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "recall",
+      "q": "Diabetes mellitus in the patient's history adds which ABCD² contribution?",
+      "opts": [
+        "2 points",
+        "3 points",
+        "No points",
+        "1 point"
+      ],
+      "ans": 3,
+      "exp": "Diabetes mellitus in patient's history — 1 point (Book p686)"
+    },
+    {
+      "id": "MED-C55-16",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "What is the maximum total ABCD² score?",
+      "opts": [
+        "7",
+        "6",
+        "8",
+        "10"
+      ],
+      "ans": 0,
+      "exp": "Points sum to a maximum of 7 (1+1+2+2+1) (Book p686)"
+    },
+    {
+      "id": "MED-C55-17",
+      "sec": "ABCD2 Score",
+      "page": 686,
+      "fmt": "scenario",
+      "q": "A 66-year-old hypertensive (BP 152/94) diabetic had 70 minutes of left arm weakness. What is the ABCD² total?",
+      "opts": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "ans": 1,
+      "exp": "Age >60 (1) + BP ≥140/90 (1) + unilateral weakness (2) + ≥60 min (2) + diabetes (1) = 6 (Book p686)"
+    },
+    {
+      "id": "MED-C55-18",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Which ABCD² score band is printed as Low risk?",
+      "opts": [
+        "1-4",
+        "0-4",
+        "0-3",
+        "0-2"
+      ],
+      "ans": 2,
+      "exp": "Risk table : Low — scores 0-3 (Book p686)"
+    },
+    {
+      "id": "MED-C55-19",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Which ABCD² score band is printed as Moderate risk?",
+      "opts": [
+        "3-5",
+        "4-6",
+        "5-6",
+        "4-5"
+      ],
+      "ans": 3,
+      "exp": "Risk table : moderate — scores 4-5 (Book p686)"
+    },
+    {
+      "id": "MED-C55-20",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Which ABCD² score band is printed as High risk?",
+      "opts": [
+        "6-7",
+        "5-7",
+        "6-8",
+        "7 only"
+      ],
+      "ans": 0,
+      "exp": "Risk table : High — scores 6-7 (Book p686)"
+    },
+    {
+      "id": "MED-C55-21",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 2 days for a Low-risk (0-3) ABCD² score is printed as:",
+      "opts": [
+        "8.1%",
+        "1.0%",
+        "3.1%",
+        "4.1%"
+      ],
+      "ans": 1,
+      "exp": "Low (0-3) : 2 days — 1.0% (Book p686)"
+    },
+    {
+      "id": "MED-C55-22",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 90 days for a Low-risk (0-3) ABCD² score is printed as:",
+      "opts": [
+        "9.8%",
+        "17.8%",
+        "3.1%",
+        "1.0%"
+      ],
+      "ans": 2,
+      "exp": "Low (0-3) : 90 days — 3.1% (Book p686)"
+    },
+    {
+      "id": "MED-C55-23",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 2 days for a Moderate-risk (4-5) ABCD² score is printed as:",
+      "opts": [
+        "1.0%",
+        "5.9%",
+        "8.1%",
+        "4.1%"
+      ],
+      "ans": 3,
+      "exp": "Moderate (4-5) : 2 days — 4.1% (Book p686)"
+    },
+    {
+      "id": "MED-C55-24",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 7 days for a Moderate-risk (4-5) ABCD² score is printed as:",
+      "opts": [
+        "5.9%",
+        "4.1%",
+        "9.8%",
+        "11.7%"
+      ],
+      "ans": 0,
+      "exp": "Moderate (4-5) : 7 days — 5.9% (Book p686)"
+    },
+    {
+      "id": "MED-C55-25",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 90 days for a Moderate-risk (4-5) ABCD² score is printed as:",
+      "opts": [
+        "17.8%",
+        "9.8%",
+        "5.9%",
+        "11.7%"
+      ],
+      "ans": 1,
+      "exp": "Moderate (4-5) : 90 days — 9.8% (Book p686)"
+    },
+    {
+      "id": "MED-C55-26",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 2 days for a High-risk (6-7) ABCD² score is printed as:",
+      "opts": [
+        "9.8%",
+        "17.8%",
+        "8.1%",
+        "4.1%"
+      ],
+      "ans": 2,
+      "exp": "High (6-7) : 2 days — 8.1% (Book p686)"
+    },
+    {
+      "id": "MED-C55-27",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 7 days for a High-risk (6-7) ABCD² score is printed as:",
+      "opts": [
+        "8.1%",
+        "9.8%",
+        "5.9%",
+        "11.7%"
+      ],
+      "ans": 3,
+      "exp": "High (6-7) : 7 days — 11.7% (Book p686)"
+    },
+    {
+      "id": "MED-C55-28",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "Stroke risk at 90 days for a High-risk (6-7) ABCD² score is printed as:",
+      "opts": [
+        "17.8%",
+        "11.7%",
+        "9.8%",
+        "8.6%"
+      ],
+      "ans": 0,
+      "exp": "High (6-7) : 90 days — 17.8% (Book p686)"
+    },
+    {
+      "id": "MED-C55-29",
+      "sec": "ABCD2 Risk",
+      "page": 686,
+      "fmt": "management",
+      "q": "A TIA patient scores ABCD² 6. Using the printed risk table, how urgently should the stroke risk be treated?",
+      "opts": [
+        "Risk cannot be estimated from the score",
+        "As high risk — 8.1% at 2 days and 17.8% at 90 days, needing urgent work-up",
+        "As low risk — 1.0% at 2 days, so outpatient review in a month",
+        "As moderate risk — 4.1% at 2 days, routine referral"
+      ],
+      "ans": 1,
+      "exp": "High (6-7) : 8.1% @2 days, 11.7% @7 days, 17.8% @90 days (Book p686)"
+    },
+    {
+      "id": "MED-C55-30",
+      "sec": "Antiplatelet Notes",
+      "page": 686,
+      "fmt": "recall",
+      "q": "Which are printed as the key indications for dual antiplatelet therapy in neurology?",
+      "opts": [
+        "SAH, EDH and IVH",
+        "Only intracerebral haemorrhage",
+        "TIA, mini stroke and ICAD with >50% occlusion",
+        "Completed cortical stroke, migraine and seizure"
+      ],
+      "ans": 2,
+      "exp": "Notes : Dual antiplatelet therapy — key indications in neurology : TIA, mini stroke, ICAD (Intracranial Atherosclerotic Disease) : >50% occlusion (Book p686)"
+    },
+    {
+      "id": "MED-C55-31",
+      "sec": "Antiplatelet Notes",
+      "page": 686,
+      "fmt": "numeric",
+      "q": "What degree of intracranial atherosclerotic occlusion qualifies for dual antiplatelet therapy?",
+      "opts": [
+        ">30%",
+        ">70%",
+        ">90%",
+        ">50%"
+      ],
+      "ans": 3,
+      "exp": "ICAD (Intracranial Atherosclerotic Disease) : >50% occlusion (Book p686)"
+    },
+    {
+      "id": "MED-C55-32",
+      "sec": "Antiplatelet Notes",
+      "page": 686,
+      "fmt": "recall",
+      "q": "For every condition other than the key DAPT indications, the book recommends:",
+      "opts": [
+        "Single antiplatelet",
+        "Dual antiplatelet",
+        "Oral anticoagulation",
+        "No antiplatelet at all"
+      ],
+      "ans": 0,
+      "exp": "Every other condition : Single antiplatelet (Book p686)"
+    },
+    {
+      "id": "MED-C55-33",
+      "sec": "Antiplatelet Notes",
+      "page": 686,
+      "fmt": "recall",
+      "q": "For the dual therapy combination the printed ranking is:",
+      "opts": [
+        "Clopidogrel plus warfarin",
+        "Aspirin/Ticagrelor > Clopidogrel",
+        "Clopidogrel > Aspirin/Ticagrelor",
+        "Aspirin alone > all combinations"
+      ],
+      "ans": 1,
+      "exp": "Aspirin/Ticagrelor > Clopidogrel (Book p686)"
+    },
+    {
+      "id": "MED-C55-34",
+      "sec": "Antiplatelet Notes",
+      "page": 686,
+      "fmt": "oddoneout",
+      "q": "Which patient belongs to the printed dual antiplatelet group rather than the single antiplatelet group?",
+      "opts": [
+        "Chronic stable migraine with aura",
+        "Essential tremor with vascular risk factors",
+        "Intracranial atherosclerotic disease with 60% occlusion",
+        "Remote cortical infarct with no recurrence"
+      ],
+      "ans": 2,
+      "exp": "ICAD : >50% occlusion — dual antiplatelet therapy (Book p686)"
+    },
+    {
+      "id": "MED-C55-35",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The causes section opens with which numbered category?",
+      "opts": [
+        "1. Embolic",
+        "1. Non-atherosclerotic",
+        "1. Haemorrhagic",
+        "1. Atherosclerotic"
+      ],
+      "ans": 3,
+      "exp": "CAUSES : 1. Atherosclerotic : (Book p687)"
+    },
+    {
+      "id": "MED-C55-36",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The atherosclerotic category first branches into which two arms?",
+      "opts": [
+        "Arterial and venous",
+        "Anterior and posterior circulation",
+        "Ischaemic and embolic",
+        "Cortical and subcortical"
+      ],
+      "ans": 0,
+      "exp": "1. Atherosclerotic → Arterial / venous (Book p687)"
+    },
+    {
+      "id": "MED-C55-37",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The venous arm of the causes flowchart leads to:",
+      "opts": [
+        "Carotid dissection",
+        "Cerebral venous thrombosis (CVT)",
+        "Subarachnoid haemorrhage",
+        "Lacunar stroke"
+      ],
+      "ans": 1,
+      "exp": "venous → Cerebral venous thrombosis (CVT) (Book p687)"
+    },
+    {
+      "id": "MED-C55-38",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which inherited cause is listed for CVT?",
+      "opts": [
+        "Pregnancy/postpartum",
+        "Protein C excess",
+        "Factor V Leiden mutation",
+        "Antiphospholipid syndrome"
+      ],
+      "ans": 2,
+      "exp": "CVT Causes : Inherited — Factor V Leiden mutation (Book p687)"
+    },
+    {
+      "id": "MED-C55-39",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which acquired causes are listed for CVT?",
+      "opts": [
+        "Factor V Leiden mutation",
+        "Sickle cell trait and thalassaemia",
+        "Atrial fibrillation and prosthetic valve",
+        "Antiphospholipid syndrome and pregnancy/postpartum"
+      ],
+      "ans": 3,
+      "exp": "CVT Causes : Acquired — Antiphospholipid syndrome, Pregnancy/postpartum (Book p687)"
+    },
+    {
+      "id": "MED-C55-40",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The symptom cluster printed for CVT is:",
+      "opts": [
+        "↑ICT: headache, vomiting, seizures",
+        "Fever with neck stiffness",
+        "Progressive quadriparesis",
+        "Isolated sixth nerve palsy"
+      ],
+      "ans": 0,
+      "exp": "CVT Symptoms : ↑ICT — Headache, vomiting, seizures (Book p687)"
+    },
+    {
+      "id": "MED-C55-41",
+      "sec": "Atherosclerotic Causes and CVT",
+      "page": 687,
+      "fmt": "scenario",
+      "q": "A 28-year-old woman ten days postpartum develops headache, vomiting and a seizure. Which printed cause group fits best?",
+      "opts": [
+        "Moya-moya disease",
+        "Acquired CVT (pregnancy/postpartum)",
+        "Inherited CVT (Factor V Leiden)",
+        "Artery-to-artery embolic stroke"
+      ],
+      "ans": 1,
+      "exp": "Acquired — Pregnancy/postpartum; Symptoms : ↑ICT — headache, vomiting, seizures (Book p687)"
+    },
+    {
+      "id": "MED-C55-42",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "numeric",
+      "q": "What fraction of arterial stroke is printed as ischaemic?",
+      "opts": [
+        "90%",
+        "65%",
+        "85%",
+        "75%"
+      ],
+      "ans": 2,
+      "exp": "Arterial → Ischaemic (85%) (Book p687)"
+    },
+    {
+      "id": "MED-C55-43",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "numeric",
+      "q": "What fraction of arterial stroke is printed as haemorrhagic?",
+      "opts": [
+        "25%",
+        "10%",
+        "35%",
+        "15%"
+      ],
+      "ans": 3,
+      "exp": "Arterial → Hemorrhagic (15%) (Book p687)"
+    },
+    {
+      "id": "MED-C55-44",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which examples are printed under haemorrhagic stroke?",
+      "opts": [
+        "SAH, EDH and IVH",
+        "SDH, contusion and Duret haemorrhage",
+        "Lobar and basal ganglia haematoma only",
+        "Pontine and cerebellar haematoma"
+      ],
+      "ans": 0,
+      "exp": "Hemorrhagic — Eg : SAH (Subarachnoid hemorrhage), EDH (extra dural hemorrhage), IVH (intraventricular hemorrhage) (Book p687)"
+    },
+    {
+      "id": "MED-C55-45",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "management",
+      "q": "SAH, EDH and IVH are printed to be managed by:",
+      "opts": [
+        "Vascular surgeon",
+        "Neurosurgeon",
+        "Interventional cardiologist",
+        "Physician with medical therapy alone"
+      ],
+      "ans": 1,
+      "exp": "mx by : Neurosurgeon (Book p687)"
+    },
+    {
+      "id": "MED-C55-46",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The ischaemic arm of the flowchart branches into:",
+      "opts": [
+        "Large vessel and small vessel only",
+        "Anterior, middle and posterior",
+        "Thrombotic, Embolic and Lacunar",
+        "Cortical, subcortical and brainstem"
+      ],
+      "ans": 2,
+      "exp": "Ischaemic → Thrombotic / Embolic / Lacunar (Book p687)"
+    },
+    {
+      "id": "MED-C55-47",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which feature set is printed under thrombotic stroke?",
+      "opts": [
+        "Hyperacute presentation with rapid recovery",
+        "30-300 μm vessel disease",
+        "Cortical features with distal vessel involvement",
+        "Large vessel stroke, evolving, over 48-72 hrs (progressive ↑ in weakness)"
+      ],
+      "ans": 3,
+      "exp": "Thrombotic : Large vessel stroke, Evolving, Over 48-72 hrs (Progressive ↑ in weakness) (Book p687)"
+    },
+    {
+      "id": "MED-C55-48",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which feature set is printed under embolic stroke?",
+      "opts": [
+        "Hyperacute presentation, cortical features (+), rapid recovery, distal vessel involvement",
+        "Evolving weakness over 48-72 hrs",
+        "Lipohyalinosis of 30-300 μm vessels",
+        "Isolated brainstem signs"
+      ],
+      "ans": 0,
+      "exp": "Embolic : Hyperacute presentation, Cortical features (+), Rapid recovery, Distal vessel involvement (Book p687)"
+    },
+    {
+      "id": "MED-C55-49",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "numeric",
+      "q": "Which vessel calibre is printed for lacunar stroke?",
+      "opts": [
+        "100-200 μm",
+        "30-300 μm",
+        "1-2 mm",
+        "2-4 mm"
+      ],
+      "ans": 1,
+      "exp": "Lacunar : 30-300 μm vessels (Book p687)"
+    },
+    {
+      "id": "MED-C55-50",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The lacunar column pairs 'Pathology' with which findings?",
+      "opts": [
+        "Haemorrhagic transformation",
+        "Watershed infarction",
+        "Patchy weakness and lipohyalinosis",
+        "Fibrin clot and red clot"
+      ],
+      "ans": 2,
+      "exp": "Lacunar : Pathology — Patchy weakness, Lipohyalinosis (Book p687)"
+    },
+    {
+      "id": "MED-C55-51",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The artery-artery embolic branch is printed as:",
+      "opts": [
+        "Rare — from aortic arch",
+        "Only after carotid endarterectomy",
+        "Confined to the posterior circulation",
+        "m/c Stroke — from neck vessels"
+      ],
+      "ans": 3,
+      "exp": "Artery-Artery : m/c Stroke, From neck vessels (Book p687)"
+    },
+    {
+      "id": "MED-C55-52",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which list is printed as 'Seen in' for cardioembolic stroke?",
+      "opts": [
+        "Mitral stenosis, atrial fibrillation, prosthetic valve, dilated cardiomyopathy, recent MI, sick sinus syndrome",
+        "Aortic stenosis, hypertension, smoking, hyperlipidaemia",
+        "Carotid dissection, FMD, Takayasu arteritis",
+        "Pregnancy, antiphospholipid syndrome, Factor V Leiden"
+      ],
+      "ans": 0,
+      "exp": "Cardioembolic — Seen in : mitral stenosis, Atrial fibrillation, Prosthetic valve, Dilated cardiomyopathy, Recent myocardial infarction, Sick sinus syndrome (Book p687)"
+    },
+    {
+      "id": "MED-C55-53",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "numeric",
+      "q": "Recent myocardial infarction counts as a cardioembolic source when it occurred within:",
+      "opts": [
+        "48 hours",
+        "4-10 wks",
+        "2-4 days",
+        "6-12 months"
+      ],
+      "ans": 1,
+      "exp": "Recent myocardial infarction (within 4-10 wks) (Book p687)"
+    },
+    {
+      "id": "MED-C55-54",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "oddoneout",
+      "q": "Which of these is NOT in the printed cardioembolic 'Seen in' list?",
+      "opts": [
+        "Dilated cardiomyopathy",
+        "Prosthetic valve",
+        "Patent foramen ovale",
+        "Sick sinus syndrome"
+      ],
+      "ans": 2,
+      "exp": "Seen in : mitral stenosis, Atrial fibrillation, Prosthetic valve, Dilated cardiomyopathy, Recent MI (within 4-10 wks), Sick sinus syndrome (Book p687)"
+    },
+    {
+      "id": "MED-C55-55",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "page": 687,
+      "fmt": "scenario",
+      "q": "A 70-year-old with prosthetic valve replacement develops sudden maximal weakness with aphasia at onset. Which ischaemic subtype fits the printed features?",
+      "opts": [
+        "Thrombotic (evolving over 48-72 hrs)",
+        "Lacunar (30-300 μm vessels)",
+        "Venous (CVT)",
+        "Embolic (hyperacute presentation with cortical features)"
+      ],
+      "ans": 3,
+      "exp": "Scenario — prosthetic valve with hyperacute cortical deficit → Embolic subtype (Seen in : Prosthetic valve; Hyperacute presentation, Cortical features (+)) (Book p687)"
+    },
+    {
+      "id": "MED-C55-56",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "In the comparison table, 'Stroke in evolution' is the onset pattern of:",
+      "opts": [
+        "Thrombotic stroke",
+        "Embolic stroke",
+        "Lacunar stroke",
+        "Haemorrhagic stroke"
+      ],
+      "ans": 0,
+      "exp": "Onset — Thrombotic : Stroke in evolution; Embolic : Hyperacute (Book p687)"
+    },
+    {
+      "id": "MED-C55-57",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which onset description belongs to the embolic column?",
+      "opts": [
+        "Nocturnal worsening",
+        "Hyperacute",
+        "Stroke in evolution",
+        "Stepwise over a week"
+      ],
+      "ans": 1,
+      "exp": "Onset — Embolic : Hyperacute (Book p687)"
+    },
+    {
+      "id": "MED-C55-58",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "LOC/seizures sit in which column of the features row?",
+      "opts": [
+        "Both columns equally",
+        "Neither column",
+        "Embolic",
+        "Thrombotic"
+      ],
+      "ans": 2,
+      "exp": "Features — Embolic : LOC/seizures; Thrombotic : ↑Headache (Book p687)"
+    },
+    {
+      "id": "MED-C55-59",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "↑Headache as a feature is printed under:",
+      "opts": [
+        "Embolic stroke",
+        "Lacunar stroke",
+        "CVT only",
+        "Thrombotic stroke"
+      ],
+      "ans": 3,
+      "exp": "Features — Thrombotic : ↑Headache (Book p687)"
+    },
+    {
+      "id": "MED-C55-60",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The weakness of embolic stroke is printed as:",
+      "opts": [
+        "Full at onset",
+        "Rising over 48-72 hours",
+        "Fluctuating through the day",
+        "Restricted to the face"
+      ],
+      "ans": 0,
+      "exp": "weakness — Embolic : Full at onset (Book p687)"
+    },
+    {
+      "id": "MED-C55-61",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The weakness of thrombotic stroke is printed as:",
+      "opts": [
+        "Purely sensory",
+        "↑ over 48-72 hrs",
+        "Full at onset",
+        "Absent below the neck"
+      ],
+      "ans": 1,
+      "exp": "weakness — Thrombotic : ↑ over 48-72 hrs (Book p687)"
+    },
+    {
+      "id": "MED-C55-62",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which clot type is printed for embolic stroke?",
+      "opts": [
+        "White platelet plug",
+        "Mixed tumour thrombus",
+        "Red clot",
+        "Fibrin clot"
+      ],
+      "ans": 2,
+      "exp": "Clot — Embolic : Red clot; Thrombotic : Fibrin clot (Book p687)"
+    },
+    {
+      "id": "MED-C55-63",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which clot type is printed for thrombotic stroke?",
+      "opts": [
+        "Red clot",
+        "Cholesterol crystal embolus",
+        "Fat embolus",
+        "Fibrin clot"
+      ],
+      "ans": 3,
+      "exp": "Clot — Thrombotic : Fibrin clot (Book p687)"
+    },
+    {
+      "id": "MED-C55-64",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Haemorrhagic transformation is printed in the transformation row of which column?",
+      "opts": [
+        "Embolic",
+        "Thrombotic",
+        "Lacunar",
+        "Both thrombotic and embolic"
+      ],
+      "ans": 0,
+      "exp": "Transformation — Embolic : Hemorrhagic (Book p687)"
+    },
+    {
+      "id": "MED-C55-65",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "On CT, an ischaemic stroke is labelled as which lesion density?",
+      "opts": [
+        "Calcified lesion",
+        "Hypodense lesion",
+        "Hyperdense lesion",
+        "Isodense lesion"
+      ],
+      "ans": 1,
+      "exp": "CT Imaging in stroke : Hypodense lesion (ischaemic stroke image) (Book p687)"
+    },
+    {
+      "id": "MED-C55-66",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "The 'Hyperdense lesion' label belongs to which CT appearance?",
+      "opts": [
+        "Peritumoral oedema",
+        "Old calcified granuloma",
+        "Acute blood / haemorrhage",
+        "Chronic infarct"
+      ],
+      "ans": 2,
+      "exp": "CT Imaging in stroke : Hyperdense lesion (haemorrhagic stroke / subarachnoid hemorrhage images) (Book p687)"
+    },
+    {
+      "id": "MED-C55-67",
+      "sec": "Thrombotic versus Embolic and CT",
+      "page": 687,
+      "fmt": "recall",
+      "q": "Which three images are printed under 'CT Imaging in stroke'?",
+      "opts": [
+        "Ischemic stroke, CVT, tumour",
+        "SAH, SDH, EDH",
+        "Normal, lacunar, watershed",
+        "Ischemic stroke, Hemorrhagic stroke, Subarachnoid hemorrhage"
+      ],
+      "ans": 3,
+      "exp": "CT Imaging in stroke — images : Ischemic stroke, Hemorrhagic stroke, Subarachnoid hemorrhage (Book p687)"
+    },
+    {
+      "id": "MED-C55-68",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "The second printed cause category is:",
+      "opts": [
+        "2. Non-Atherosclerotic",
+        "2. Cardioembolic",
+        "2. Dissection",
+        "2. Small vessel disease"
+      ],
+      "ans": 0,
+      "exp": "2. Non-Atherosclerotic : (Book p688)"
+    },
+    {
+      "id": "MED-C55-69",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "Moya-moya disease is printed with which angiographic description?",
+      "opts": [
+        "Bare occipital lobe sign",
+        "Multiple collaterals with 'puff of smoke' appearance",
+        "String-of-beads carotid stenosis",
+        "Early filling arteriovenous nidus"
+      ],
+      "ans": 1,
+      "exp": "moya-moya disease : multiple collaterals — 'Puff of smoke' appearance (Book p688)"
+    },
+    {
+      "id": "MED-C55-70",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "Moya-moya disease is printed to arise from vasculopathy of which artery?",
+      "opts": [
+        "Middle cerebral artery",
+        "Subclavian artery",
+        "Internal carotid artery",
+        "Basilar artery"
+      ],
+      "ans": 2,
+      "exp": "Internal carotid artery vasculopathy (Book p688)"
+    },
+    {
+      "id": "MED-C55-71",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "scenario",
+      "q": "A child's angiogram shows bilateral internal carotid vasculopathy with a cloud of fine collateral vessels at the base of the brain. Which printed diagnosis fits?",
+      "opts": [
+        "Fibromuscular dysplasia",
+        "Takayasu arteritis",
+        "Carotid artery dissection",
+        "Moya-moya disease"
+      ],
+      "ans": 3,
+      "exp": "moya-moya disease : multiple collaterals — 'Puff of smoke' appearance; Internal carotid artery vasculopathy (Book p688)"
+    },
+    {
+      "id": "MED-C55-72",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "oddoneout",
+      "q": "Which one is NOT printed under non-atherosclerotic causes?",
+      "opts": [
+        "Berry aneurysm",
+        "Fabry's disease",
+        "Fibromuscular dysplasia (FMD)",
+        "Takayasu arteritis"
+      ],
+      "ans": 0,
+      "exp": "Non-Atherosclerotic : moya-moya, Vasculitis, Fabry's disease, FMD, Carotid artery dissection, Dissection, Takayasu arteritis (Book p688)"
+    },
+    {
+      "id": "MED-C55-73",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "The first causative factor in the printed ischaemic cascade is:",
+      "opts": [
+        "Liquefactive necrosis",
+        "ATP depletion",
+        "Glutamate release",
+        "Calcium entry"
+      ],
+      "ans": 1,
+      "exp": "PATHOLOGY Causative factors : ATP depletion (Book p688)"
+    },
+    {
+      "id": "MED-C55-74",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "ATP depletion produces which next step in the cascade?",
+      "opts": [
+        "Glutamate reuptake acceleration",
+        "Myelin preservation",
+        "Failure of the Na+-K+ ATPase pump",
+        "Immediate vessel rupture"
+      ],
+      "ans": 2,
+      "exp": "ATP depletion → Failure of Na+-K+ ATPase pump (Book p688)"
+    },
+    {
+      "id": "MED-C55-75",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "Glutamate release leads to which step in the printed cascade?",
+      "opts": [
+        "Potassium efflux only",
+        "Cell membrane stabilisation",
+        "Vasogenic oedema resolution",
+        "Calcium entry"
+      ],
+      "ans": 3,
+      "exp": "Glutamate release → Calcium entry (Book p688)"
+    },
+    {
+      "id": "MED-C55-76",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "The final pathology printed in the cascade is:",
+      "opts": [
+        "Liquefactive necrosis",
+        "Coagulative necrosis",
+        "Caseous necrosis",
+        "Apoptosis without necrosis"
+      ],
+      "ans": 0,
+      "exp": "Liquefactive Necrosis (Book p688)"
+    },
+    {
+      "id": "MED-C55-77",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "recall",
+      "q": "The Day 1 → Day 24 pathology timeline is captioned with which event?",
+      "opts": [
+        "Gliosis and atrophy",
+        "Hemorrhagic transformation of stroke",
+        "Peak cerebral oedema",
+        "Complete recanalisation"
+      ],
+      "ans": 1,
+      "exp": "Timeline Day 1 … Day 24 — Hemorrhagic transformation of stroke (Book p688)"
+    },
+    {
+      "id": "MED-C55-78",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "page": 688,
+      "fmt": "scenario",
+      "q": "A patient's infarct is evolving through the printed pathological cascade from energy failure to cell death. What is the end stage printed?",
+      "opts": [
+        "Fat necrosis",
+        "Gangrenous necrosis",
+        "Liquefactive necrosis",
+        "Fibrinoid necrosis"
+      ],
+      "ans": 2,
+      "exp": "Causative factors → … → Liquefactive Necrosis (Book p688)"
+    },
+    {
+      "id": "MED-C55-79",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "recall",
+      "q": "Which three goals of stroke treatment are printed?",
+      "opts": [
+        "Lower BP, start heparin, insert shunt",
+        "Control seizures, treat fever, physiotherapy",
+        "Decompress, drain, irradiate",
+        "Revascularization (reperfusion), avoid secondary injury, establish collateral blood flow"
+      ],
+      "ans": 3,
+      "exp": "Goals of Stroke treatment : Revascularization (reperfusion); Avoid secondary injury; Establish collateral blood flow (Book p688)"
+    },
+    {
+      "id": "MED-C55-80",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "numeric",
+      "q": "Raised intracranial pressure from cerebral oedema is printed at which time point after the ictus?",
+      "opts": [
+        "4-5 days",
+        "1-2 hours",
+        "2-3 weeks",
+        "6-8 weeks"
+      ],
+      "ans": 0,
+      "exp": "4-5 days : ↑ICT (cerebral edema) (Book p688)"
+    },
+    {
+      "id": "MED-C55-81",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "recall",
+      "q": "Besides raised ICT, which secondary injuries are listed?",
+      "opts": [
+        "Pressure sores alone",
+        "SIADH/metabolic issues and hemorrhagic transformation",
+        "Aspiration pneumonia only",
+        "Deep vein thrombosis alone"
+      ],
+      "ans": 1,
+      "exp": "Avoid secondary injury — SIADH/metabolic issues, Hemorrhagic transformation (Book p688)"
+    },
+    {
+      "id": "MED-C55-82",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "recall",
+      "q": "The investigations section ranks imaging as:",
+      "opts": [
+        "Both equal, choose by availability",
+        "Ultrasound first in all cases",
+        "MRI > CT",
+        "CT > MRI"
+      ],
+      "ans": 2,
+      "exp": "INVESTIGATIONS : MRI > CT (Book p688)"
+    },
+    {
+      "id": "MED-C55-83",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "recall",
+      "q": "Which is printed as the earliest CT finding in stroke?",
+      "opts": [
+        "Insular ribbon sign",
+        "Obscuration of lentiform nucleus",
+        "Hypodense cortex",
+        "Hyperdense MCA sign (6 hrs) > MCA dot sign"
+      ],
+      "ans": 3,
+      "exp": "Early CT findings : 1. Hyperdense MCA sign (6 hrs) > MCA dot sign — Earliest (Book p688)"
+    },
+    {
+      "id": "MED-C55-84",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "numeric",
+      "q": "The hyperdense MCA sign appears within:",
+      "opts": [
+        "6 hrs",
+        "24 hrs",
+        "48 hrs",
+        "12 hrs"
+      ],
+      "ans": 0,
+      "exp": "1. Hyperdense MCA sign (6 hrs) (Book p688)"
+    },
+    {
+      "id": "MED-C55-85",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "numeric",
+      "q": "The insular ribbon sign is printed in which window?",
+      "opts": [
+        "48-72 hrs",
+        "6-48 hrs",
+        "8-24 hrs",
+        "1-6 hrs"
+      ],
+      "ans": 1,
+      "exp": "2. Insular Ribbon sign (6-48 hrs) (Book p688)"
+    },
+    {
+      "id": "MED-C55-86",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "numeric",
+      "q": "Obscuration of the lentiform nucleus is printed in which window?",
+      "opts": [
+        "1-4 hrs",
+        "3-7 days",
+        "8-24 hrs",
+        "6-48 hrs"
+      ],
+      "ans": 2,
+      "exp": "3. Obscuration of Lentiform Nucleus (8-24 hrs) (Book p688)"
+    },
+    {
+      "id": "MED-C55-87",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "scenario",
+      "q": "A plain CT done 12 hours into a large MCA infarct shows loss of grey-white distinction over the lateral insula. Which printed early CT sign is this?",
+      "opts": [
+        "Hyperdense MCA sign",
+        "Obscuration of lentiform nucleus",
+        "MCA dot sign",
+        "Insular ribbon sign"
+      ],
+      "ans": 3,
+      "exp": "Scenario — 12 hrs into MCA infarct, blurred insular grey-white interface → Insular Ribbon sign (6-48 hrs) (Book p688)"
+    },
+    {
+      "id": "MED-C55-88",
+      "sec": "Treatment Goals and Early CT Signs",
+      "page": 688,
+      "fmt": "scenario",
+      "q": "A CT taken 3 hours after stroke onset shows a dense middle cerebral artery trunk. Which printed sign, and its timing tag?",
+      "opts": [
+        "Hyperdense MCA sign (6 hrs) — the earliest",
+        "Insular ribbon sign (6-48 hrs)",
+        "Obscuration of lentiform nucleus (8-24 hrs)",
+        "Late subacute sign"
+      ],
+      "ans": 0,
+      "exp": "1. Hyperdense MCA sign (6 hrs) > MCA dot sign — Earliest (Book p688)"
+    },
+    {
+      "id": "MED-C55-89",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Lacunar stroke is printed in which age and sex distribution?",
+      "opts": [
+        "Any age, no sex difference",
+        "Elderly, F > M",
+        "Young, M > F",
+        "Elderly, M > F"
+      ],
+      "ans": 1,
+      "exp": "ETIOLOGY : elderly, F > m (Book p689)"
+    },
+    {
+      "id": "MED-C55-90",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "The risk factor printed for lacunar stroke is:",
+      "opts": [
+        "Smoking",
+        "Oral contraceptives",
+        "Hypertension",
+        "Atrial fibrillation"
+      ],
+      "ans": 2,
+      "exp": "R/.F : Hypertension (Book p689)"
+    },
+    {
+      "id": "MED-C55-91",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Pure motor stroke is supplied by which perforator?",
+      "opts": [
+        "Thalamogeniculate artery",
+        "Basilar artery",
+        "Anterior choroidal artery",
+        "Lenticulostriate artery"
+      ],
+      "ans": 3,
+      "exp": "TYPES — Pure motor stroke : Lenticulostriate artery (Book p689)"
+    },
+    {
+      "id": "MED-C55-92",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Pure motor stroke lesions sit in which structure?",
+      "opts": [
+        "Internal capsule",
+        "VPL nucleus",
+        "Basi pons",
+        "Lateral medulla"
+      ],
+      "ans": 0,
+      "exp": "TYPES — Pure motor stroke : Internal capsule (Book p689)"
+    },
+    {
+      "id": "MED-C55-93",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Pure sensory stroke is supplied by which artery?",
+      "opts": [
+        "Posterior choroidal artery",
+        "Thalamogeniculate artery",
+        "Lenticulostriate artery",
+        "Basilar artery"
+      ],
+      "ans": 1,
+      "exp": "TYPES — Pure sensory stroke : Thalamogeniculate artery (Book p689)"
+    },
+    {
+      "id": "MED-C55-94",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Pure sensory stroke lesions involve which nucleus?",
+      "opts": [
+        "Lateral geniculate nucleus",
+        "Arcuate nucleus",
+        "VentroPosteroLateral (VPL) nucleus",
+        "Ventral anterior nucleus"
+      ],
+      "ans": 2,
+      "exp": "TYPES — Pure sensory stroke : VentroPosteroLateral (VPL) Nucleus (Book p689)"
+    },
+    {
+      "id": "MED-C55-95",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Ataxic hemiparesis / dysarthria with clumsy hands maps to which artery?",
+      "opts": [
+        "Lenticulostriate artery",
+        "Thalamogeniculate artery",
+        "Superior cerebellar artery",
+        "Basilar artery"
+      ],
+      "ans": 3,
+      "exp": "TYPES — Ataxic hemiparesis / Dysarthria with Clumsy Hands : Basilar artery (Book p689)"
+    },
+    {
+      "id": "MED-C55-96",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Ataxic hemiparesis lesions sit in which structure?",
+      "opts": [
+        "Basi pons",
+        "Internal capsule",
+        "VPL nucleus",
+        "Red nucleus"
+      ],
+      "ans": 0,
+      "exp": "TYPES — Ataxic hemiparesis / Dysarthria with Clumsy Hands : Basi pons (Book p689)"
+    },
+    {
+      "id": "MED-C55-97",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "scenario",
+      "q": "A hypertensive elderly woman has dense pure motor weakness of the right face, arm and leg. Following the printed types table, the vessel and site are:",
+      "opts": [
+        "PICA — lateral medulla",
+        "Lenticulostriate artery — internal capsule",
+        "Thalamogeniculate artery — VPL nucleus",
+        "Basilar artery — basi pons"
+      ],
+      "ans": 1,
+      "exp": "Pure motor stroke : Lenticulostriate artery, Internal capsule (Book p689)"
+    },
+    {
+      "id": "MED-C55-98",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Which MRI modality marks a recent small subcortical infarct?",
+      "opts": [
+        "T2'/SWI",
+        "T1/FLAIR",
+        "DWI",
+        "FLAIR"
+      ],
+      "ans": 2,
+      "exp": "SVD markers on MRI : Recent small subcortical infarct — DWI (Book p689)"
+    },
+    {
+      "id": "MED-C55-99",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "White matter hyperintensity is marked by which MRI sequence?",
+      "opts": [
+        "DWI",
+        "T2'/SWI",
+        "MR spectroscopy",
+        "FLAIR"
+      ],
+      "ans": 3,
+      "exp": "SVD markers on MRI : White matter hyperintensity — FLAIR (Book p689)"
+    },
+    {
+      "id": "MED-C55-100",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Cerebral microbleeds are detected on which sequence?",
+      "opts": [
+        "T2'/SWI",
+        "DWI",
+        "FLAIR",
+        "Diffusion tensor imaging"
+      ],
+      "ans": 0,
+      "exp": "SVD markers on MRI : Cerebral microbleeds — T2'/SWI (Book p689)"
+    },
+    {
+      "id": "MED-C55-101",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "Microbleeds on MRI are printed to point to which condition?",
+      "opts": [
+        "Fibromuscular dysplasia",
+        "Cerebral amyloid angiopathy",
+        "CADASIL",
+        "Moya-moya disease"
+      ],
+      "ans": 1,
+      "exp": "microbleeds : Cerebral amyloid angiopathy (Book p689)"
+    },
+    {
+      "id": "MED-C55-102",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "CADASIL is expanded in the book as:",
+      "opts": [
+        "Chronic Acquired Diffuse Ischaemic Leukoaraiosis",
+        "Central Autosomal Dominant Arteriopathy with Silent Infarcts and Leukoencephalopathy",
+        "Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts Leucoencephalopathy",
+        "Cerebral Arteriovenous Disorder with Subcortical Infarcts and Leptomeningeal enhancement"
+      ],
+      "ans": 2,
+      "exp": "CADASIL disease (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts Leucoencephalopathy) (Book p689)"
+    },
+    {
+      "id": "MED-C55-103",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "recall",
+      "q": "CADASIL appears on this page under which heading?",
+      "opts": [
+        "Causes of haemorrhagic stroke",
+        "Cardioembolic sources",
+        "Early CT findings",
+        "Conditions producing white matter lesions"
+      ],
+      "ans": 3,
+      "exp": "conditions producing white matter lesions : CADASIL disease (…) (Book p689)"
+    },
+    {
+      "id": "MED-C55-104",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "page": 689,
+      "fmt": "numeric",
+      "q": "The lacunar vessel calibre and pathology, as printed in the definition note and causes list, are:",
+      "opts": [
+        "30-300 μm vessels with lipohyalinosis",
+        "1-3 mm vessels with fibrin clots",
+        "30-300 μm vessels with red clots",
+        "5-10 mm vessels with atheroma"
+      ],
+      "ans": 0,
+      "exp": "…30-300 μm vessel d/t lipohyalinosis; Lacunar : 30-300 μm vessels, Lipohyalinosis (Book p689)"
+    },
+    {
+      "id": "MED-C55-105",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "Ataxic hemiparesis is printed as identical to which syndrome?",
+      "opts": [
+        "Wallenberg syndrome",
+        "Dysarthria with clumsy hands",
+        "Pure sensory stroke",
+        "Locked-in syndrome"
+      ],
+      "ans": 1,
+      "exp": "Ataxic Hemiparesis : Same as dysarthria with clumsy hands (Book p690)"
+    },
+    {
+      "id": "MED-C55-106",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "Damage to the corticopontocerebellar (CPC) fibres produces:",
+      "opts": [
+        "I/L Horner's syndrome",
+        "B/L hearing loss",
+        "C/L cerebellar findings",
+        "C/L weakness"
+      ],
+      "ans": 2,
+      "exp": "CPC damage → C/L cerebellar findings (Book p690)"
+    },
+    {
+      "id": "MED-C55-107",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "Damage to the corticospinal (CS) tract produces:",
+      "opts": [
+        "C/L cerebellar findings",
+        "I/L facial sensory loss",
+        "Loss of taste",
+        "C/L weakness"
+      ],
+      "ans": 3,
+      "exp": "CS damage → C/L weakness (Book p690)"
+    },
+    {
+      "id": "MED-C55-108",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "A lesion at the basis pontis produces which printed syndrome?",
+      "opts": [
+        "Ataxic hemiparesis / dysarthria with clumsy hands",
+        "Pure motor stroke of the capsule",
+        "Lateral medullary syndrome",
+        "Top-of-basilar syndrome"
+      ],
+      "ans": 0,
+      "exp": "Lesion at basis pons → Ataxic Hemiparesis / Dysarthria with Clumsy Hands (Book p690)"
+    },
+    {
+      "id": "MED-C55-109",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "Spinocerebellar fibres are printed to degenerate in:",
+      "opts": [
+        "Vitamin E deficiency",
+        "Friedreich's ataxia",
+        "Multiple sclerosis",
+        "Spinocerebellar ataxia type 3"
+      ],
+      "ans": 1,
+      "exp": "Spinocerebellar fibers : Degenerate in Friedreich's ataxia (Book p690)"
+    },
+    {
+      "id": "MED-C55-110",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "DRTC is expanded as:",
+      "opts": [
+        "Direct Rubrospinal Tract Component",
+        "Decussating Reticulospinal Tract Crossing",
+        "Dentato Rubro Thalamo Cortical",
+        "Dorsal Reticulothalamic Cortical"
+      ],
+      "ans": 2,
+      "exp": "DRTC (Dentato Rubro Thalamo Cortical) (Book p690)"
+    },
+    {
+      "id": "MED-C55-111",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "recall",
+      "q": "The DRTC fibres pass through which nucleus on the printed diagram?",
+      "opts": [
+        "Dentate nucleus only",
+        "Subthalamic nucleus",
+        "Lateral vestibular nucleus",
+        "Red nucleus"
+      ],
+      "ans": 3,
+      "exp": "DRTC fibres — Red nucleus (Book p690)"
+    },
+    {
+      "id": "MED-C55-112",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "page": 690,
+      "fmt": "scenario",
+      "q": "A patient has contralateral limb weakness plus contralateral limb ataxia with slurred speech after a pontine lesion. Which printed pathway pairing explains both?",
+      "opts": [
+        "CS damage → C/L weakness plus CPC damage → C/L cerebellar findings",
+        "CPC damage alone",
+        "CS damage alone",
+        "Medial lemniscus damage"
+      ],
+      "ans": 0,
+      "exp": "CPC damage → C/L cerebellar findings; CS damage → C/L weakness; Lesion at basis pons → Ataxic Hemiparesis (Book p690)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U55-1",
+      "ch": 55,
+      "n": 1,
+      "title": "1. Stroke and TIA Definitions",
+      "sec": "Stroke and TIA Definitions",
+      "guide": "The chapter opens with the time-based definitions: stroke is abrupt focal/global neurological deficit lasting 24 hours or more with evidence of infarction or hemorrhage, while TIA is focal brain/retinal ischaemia lasting under 1 hour without infarction.\nDiffusion-weighted MRI then separates the two: a normal DWI study means only TIA, whereas a hyperintense lesion means minor stroke even when the patient has clinically recovered.\nThe chapter's printed stroke line reads 'lasting ≥24 hrs' (OCR 'a4' = 24).",
+      "qs": [
+        "MED-C55-01",
+        "MED-C55-02",
+        "MED-C55-03",
+        "MED-C55-04",
+        "MED-C55-05",
+        "MED-C55-06",
+        "MED-C55-07"
+      ]
+    },
+    {
+      "id": "MED-U55-2",
+      "ch": 55,
+      "n": 2,
+      "title": "2. ABCD2 Score Components and Points",
+      "sec": "ABCD2 Score",
+      "guide": "The ABCD² score predicts the risk of stroke following TIA, summing points across five components: age above 60 years and BP ≥140/90 mmHg at initial evaluation give 1 point each; clinical features give 1 for speech disturbance without weakness and 2 for unilateral weakness; duration gives 1 for 10-59 minutes and 2 for 60 minutes or more; diabetes gives 1 point.\nThe points column digits were re-read glyph by glyph from the scan (each cell is a single digit).\nTotal score therefore runs from 0 to 7.",
+      "qs": [
+        "MED-C55-08",
+        "MED-C55-09",
+        "MED-C55-10",
+        "MED-C55-11",
+        "MED-C55-12",
+        "MED-C55-13",
+        "MED-C55-14",
+        "MED-C55-15",
+        "MED-C55-16",
+        "MED-C55-17"
+      ]
+    },
+    {
+      "id": "MED-U55-3",
+      "ch": 55,
+      "n": 3,
+      "title": "3. ABCD2 Risk Stratification",
+      "sec": "ABCD2 Risk",
+      "guide": "The risk table stratifies stroke risk after TIA by total score at 2, 7 and 90 days: Low 0-3 = 1.0/1.2/3.1%, Moderate 4-5 = 4.1/5.9/9.8% and High 6-7 = 8.1/11.7/17.8%.\nThe High-row values were resolved glyph by glyph at high zoom (OCR had merged the digits) and match the Johnston Lancet 2007 validation table the book reproduces.\nRisk rises monotonically with the score band.",
+      "qs": [
+        "MED-C55-18",
+        "MED-C55-19",
+        "MED-C55-20",
+        "MED-C55-21",
+        "MED-C55-22",
+        "MED-C55-23",
+        "MED-C55-24",
+        "MED-C55-25",
+        "MED-C55-26",
+        "MED-C55-27",
+        "MED-C55-28",
+        "MED-C55-29"
+      ]
+    },
+    {
+      "id": "MED-U55-4",
+      "ch": 55,
+      "n": 4,
+      "title": "4. Antiplatelet Notes",
+      "sec": "Antiplatelet Notes",
+      "guide": "The printed Notes state the key indications for dual antiplatelet therapy (DAPT) in neurology: TIA, mini stroke and intracranial atherosclerotic disease (ICAD) with more than 50% occlusion.\nEvery other condition gets a single antiplatelet.\nFor the DAPT combination the book ranks aspirin/ticagrelor above clopidogrel.",
+      "qs": [
+        "MED-C55-30",
+        "MED-C55-31",
+        "MED-C55-32",
+        "MED-C55-33",
+        "MED-C55-34"
+      ]
+    },
+    {
+      "id": "MED-U55-5",
+      "ch": 55,
+      "n": 5,
+      "title": "5. Atherosclerotic Causes and Cerebral Venous Thrombosis",
+      "sec": "Atherosclerotic Causes and CVT",
+      "guide": "The causes section opens with '1. Atherosclerotic', which branches into arterial and venous disease; the venous branch is cerebral venous thrombosis (CVT).\nCVT causes are split into inherited (Factor V Leiden mutation) and acquired (antiphospholipid syndrome, pregnancy/postpartum), with symptoms of raised intracranial pressure: headache, vomiting and seizures.\nArterial disease splits into ischaemic (85%) and haemorrhagic (15%).",
+      "qs": [
+        "MED-C55-35",
+        "MED-C55-36",
+        "MED-C55-37",
+        "MED-C55-38",
+        "MED-C55-39",
+        "MED-C55-40",
+        "MED-C55-41"
+      ]
+    },
+    {
+      "id": "MED-U55-6",
+      "ch": 55,
+      "n": 6,
+      "title": "6. Ischaemic Subtypes and Embolic Sources",
+      "sec": "Ischaemic Subtypes and Embolic Sources",
+      "guide": "Arterial stroke divides into ischaemic (85%) and haemorrhagic (15%); the haemorrhagic examples are SAH, EDH and IVH, all managed by a neurosurgeon.\nThe ischaemic arm divides into thrombotic (large vessel, evolving, weakness rising over 48-72 hours), embolic (hyperacute, cortical features, rapid recovery, distal vessel) and lacunar (30-300 μm vessels, lipohyalinosis).\nEmolic disease splits into cardioembolic (mitral stenosis, AF, prosthetic valve, dilated cardiomyopathy, recent MI within 4-10 weeks, sick sinus syndrome) and artery-artery (the m/c stroke, from neck vessels).",
+      "qs": [
+        "MED-C55-42",
+        "MED-C55-43",
+        "MED-C55-44",
+        "MED-C55-45",
+        "MED-C55-46",
+        "MED-C55-47",
+        "MED-C55-48",
+        "MED-C55-49",
+        "MED-C55-50",
+        "MED-C55-51",
+        "MED-C55-52",
+        "MED-C55-53",
+        "MED-C55-54",
+        "MED-C55-55"
+      ]
+    },
+    {
+      "id": "MED-U55-7",
+      "ch": 55,
+      "n": 7,
+      "title": "7. Thrombotic versus Embolic Table and CT Imaging",
+      "sec": "Thrombotic versus Embolic and CT",
+      "guide": "The comparison table separates the two by tempo: onset (stroke in evolution versus hyperacute), features (↑headache versus LOC/seizures), weakness (rising over 48-72 hours versus full at onset), clot (fibrin clot versus red clot) and transformation (haemorrhagic transformation belongs to the embolic column).\nCT imaging then shows the ischaemic stroke as a hypodense lesion and acute blood as a hyperdense lesion, with the three printed images being ischaemic stroke, haemorrhagic stroke and subarachnoid haemorrhage.",
+      "qs": [
+        "MED-C55-56",
+        "MED-C55-57",
+        "MED-C55-58",
+        "MED-C55-59",
+        "MED-C55-60",
+        "MED-C55-61",
+        "MED-C55-62",
+        "MED-C55-63",
+        "MED-C55-64",
+        "MED-C55-65",
+        "MED-C55-66",
+        "MED-C55-67"
+      ]
+    },
+    {
+      "id": "MED-U55-8",
+      "ch": 55,
+      "n": 8,
+      "title": "8. Non-Atherosclerotic Causes and the Ischaemic Cascade",
+      "sec": "Non-Atherosclerotic Causes and Pathology",
+      "guide": "Non-atherosclerotic causes comprise moya-moya disease (multiple collaterals with 'puff of smoke' appearance from internal carotid artery vasculopathy), vasculitis, Fabry's disease, fibromuscular dysplasia, carotid artery dissection, dissection and Takayasu arteritis.\nThe pathology flowchart runs ATP depletion → failure of the Na+-K+ ATPase pump → glutamate release → calcium entry → liquefactive necrosis, on a Day 1 to Day 24 timeline captioned 'Hemorrhagic transformation of stroke'.",
+      "qs": [
+        "MED-C55-68",
+        "MED-C55-69",
+        "MED-C55-70",
+        "MED-C55-71",
+        "MED-C55-72",
+        "MED-C55-73",
+        "MED-C55-74",
+        "MED-C55-75",
+        "MED-C55-76",
+        "MED-C55-77",
+        "MED-C55-78"
+      ]
+    },
+    {
+      "id": "MED-U55-9",
+      "ch": 55,
+      "n": 9,
+      "title": "9. Treatment Goals and Early CT Signs",
+      "sec": "Treatment Goals and Early CT Signs",
+      "guide": "Goals of stroke treatment are revascularization (reperfusion), avoiding secondary injury and establishing collateral blood flow; the secondary-injury column lists 4-5 days of raised ICT (cerebral edema), SIADH/metabolic issues and haemorrhagic transformation.\nInvestigations rank MRI above CT, and the early CT findings in stroke are the hyperdense MCA sign (6 hrs) with the MCA dot sign as the earliest, the insular ribbon sign (6-48 hrs) and obscuration of the lentiform nucleus (8-24 hrs).",
+      "qs": [
+        "MED-C55-79",
+        "MED-C55-80",
+        "MED-C55-81",
+        "MED-C55-82",
+        "MED-C55-83",
+        "MED-C55-84",
+        "MED-C55-85",
+        "MED-C55-86",
+        "MED-C55-87",
+        "MED-C55-88"
+      ]
+    },
+    {
+      "id": "MED-U55-10",
+      "ch": 55,
+      "n": 10,
+      "title": "10. Lacunar Stroke and Small Vessel Disease Markers",
+      "sec": "Lacunar Stroke and SVD Markers",
+      "guide": "Lacunar stroke occurs in the elderly with F > M and hypertension as the risk factor; the handwritten definition note reads '…cm size infarct in a 30-300 μm vessel d/t lipohyalinosis'.\nThe types table maps pure motor stroke to the lenticulostriate artery and internal capsule, pure sensory stroke to the thalamogeniculate artery and VPL nucleus, and ataxic hemiparesis/dysarthria-clumsy-hand to the basilar artery and basi pons.\nThe MRI small-vessel-disease markers with their modalities are recent small subcortical infarct (DWI), white matter hyperintensity (FLAIR), lacune (FLAIR), perivascular space and cerebral microbleeds (T2'/SWI); microbleeds point to cerebral amyloid angiopathy and CADASIL is expanded in full.",
+      "qs": [
+        "MED-C55-89",
+        "MED-C55-90",
+        "MED-C55-91",
+        "MED-C55-92",
+        "MED-C55-93",
+        "MED-C55-94",
+        "MED-C55-95",
+        "MED-C55-96",
+        "MED-C55-97",
+        "MED-C55-98",
+        "MED-C55-99",
+        "MED-C55-100",
+        "MED-C55-101",
+        "MED-C55-102",
+        "MED-C55-103",
+        "MED-C55-104"
+      ]
+    },
+    {
+      "id": "MED-U55-11",
+      "ch": 55,
+      "n": 11,
+      "title": "11. Ataxic Hemiparesis Pathways",
+      "sec": "Ataxic Hemiparesis Pathways",
+      "guide": "Ataxic hemiparesis is the same as dysarthria with clumsy hands.\nThe pathway diagram shows corticopontocerebellar (CPC) fibres running cortex → basi pons → contralateral cerebellum and the corticospinal (CS) tract running cortex → pyramid → contralateral body; CPC damage gives contralateral cerebellar findings and CS damage contralateral weakness.\nA lesion at the basis pontis therefore produces ataxic hemiparesis / dysarthria with clumsy hands, and the DRTC (Dentato Rubro Thalamo Cortical) fibres pass via the red nucleus while spinocerebellar fibres degenerate in Friedreich's ataxia.",
+      "qs": [
+        "MED-C55-105",
+        "MED-C55-106",
+        "MED-C55-107",
+        "MED-C55-108",
+        "MED-C55-109",
+        "MED-C55-110",
+        "MED-C55-111",
+        "MED-C55-112"
+      ]
+    }
+  ]
+}

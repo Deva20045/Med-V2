@@ -1,0 +1,2615 @@
+{
+  "chapter": 56,
+  "title": "Brainstem Stroke",
+  "pageRange": "691-699",
+  "questions": [
+    {
+      "id": "MED-C56-01",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The rostral part of the brainstem is:",
+      "opts": [
+        "Midbrain",
+        "Pons",
+        "Medulla",
+        "Cerebellum"
+      ],
+      "ans": 0,
+      "exp": "Brainstem — Rostral : midbrain; Central : Pons; Caudal : medulla (Book p691)"
+    },
+    {
+      "id": "MED-C56-02",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The central part of the brainstem is:",
+      "opts": [
+        "Diencephalon",
+        "Pons",
+        "Midbrain",
+        "Medulla"
+      ],
+      "ans": 1,
+      "exp": "Brainstem — Central : Pons (Book p691)"
+    },
+    {
+      "id": "MED-C56-03",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The caudal part of the brainstem is:",
+      "opts": [
+        "Midbrain",
+        "Spinal cord",
+        "Medulla",
+        "Pons"
+      ],
+      "ans": 2,
+      "exp": "Brainstem — Caudal : medulla (Book p691)"
+    },
+    {
+      "id": "MED-C56-04",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The hallmark presentation of a brainstem lesion is printed as:",
+      "opts": [
+        "Isolated ipsilateral limb weakness",
+        "Bilateral symmetric quadriplegia",
+        "Cortical sensory loss with aphasia",
+        "Crossed hemiplegia: I/L LMN CN palsy + C/L hemiplegia"
+      ],
+      "ans": 3,
+      "exp": "Hallmark presentation : Crossed Hemiplegia — I/L LMN Cranial Nerve (CN) palsy + C/L hemiplegia (Book p691)"
+    },
+    {
+      "id": "MED-C56-05",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The contralateral hemiplegia of crossed hemiplegia is owed to which printed fact?",
+      "opts": [
+        "Corticospinal decussation",
+        "Cranial nerve nucleus lesion",
+        "Spinocerebellar crossing",
+        "Optic tract crossing"
+      ],
+      "ans": 0,
+      "exp": "Crossed Hemiplegia — (Corticospinal decussation) (Lesion of cranial nerve nucleus) (Book p691)"
+    },
+    {
+      "id": "MED-C56-06",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The ipsilateral LMN cranial palsy of crossed hemiplegia is owed to:",
+      "opts": [
+        "Cerebellar peduncle swelling",
+        "Lesion of the cranial nerve nucleus",
+        "Corticospinal decussation",
+        "Thalamic relay damage"
+      ],
+      "ans": 1,
+      "exp": "(Corticospinal decussation) (Lesion of cranial nerve nucleus) (Book p691)"
+    },
+    {
+      "id": "MED-C56-07",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "A cortical lesion is printed to give which hallmark presentation?",
+      "opts": [
+        "Crossed hemiplegia",
+        "Vertical gaze palsy",
+        "Aphasia",
+        "C/L UMN 7th nerve palsy"
+      ],
+      "ans": 2,
+      "exp": "Note — Hallmark presentations : Cortical lesion : Aphasia (Book p691)"
+    },
+    {
+      "id": "MED-C56-08",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "recall",
+      "q": "An internal capsule lesion is printed to give:",
+      "opts": [
+        "Aphasia",
+        "I/L LMN 7th nerve palsy",
+        "Bilateral facial weakness",
+        "C/L UMN 7th Nerve palsy"
+      ],
+      "ans": 3,
+      "exp": "Internal capsule lesion : C/L UMN 7th Nerve palsy (Book p691)"
+    },
+    {
+      "id": "MED-C56-09",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "page": 691,
+      "fmt": "scenario",
+      "q": "A patient has a right 6th nerve palsy with left body weakness. Which printed rule identifies the lesion level?",
+      "opts": [
+        "Crossed hemiplegia of a brainstem lesion",
+        "Cortical lesion hallmark",
+        "Internal capsule hallmark",
+        "Spinal cord hemisection"
+      ],
+      "ans": 0,
+      "exp": "Crossed Hemiplegia : I/L LMN CN palsy + C/L hemiplegia (brainstem hallmark) (Book p691)"
+    },
+    {
+      "id": "MED-C56-10",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The midline brainstem structures are summarised by which mnemonic?",
+      "opts": [
+        "4A",
+        "4M",
+        "4S",
+        "4C"
+      ],
+      "ans": 1,
+      "exp": "Structures : midline : 4M (Book p691)"
+    },
+    {
+      "id": "MED-C56-11",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The lateral brainstem structures are summarised by which mnemonic?",
+      "opts": [
+        "4P",
+        "4L",
+        "4S",
+        "4M"
+      ],
+      "ans": 2,
+      "exp": "Structures : Lateral : 4S (Book p691)"
+    },
+    {
+      "id": "MED-C56-12",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "numeric",
+      "q": "The motor nuclei listed in the midline 4M belong to which cranial nerves?",
+      "opts": [
+        "CN 3, 4, 5, 6",
+        "CN 5, 7, 9, 10",
+        "CN 2, 3, 4, 6",
+        "CN 3, 4, 6, 12"
+      ],
+      "ans": 3,
+      "exp": "midline 4M : motor nuclei of CN : 3, 4, 6, 12 (Book p691)"
+    },
+    {
+      "id": "MED-C56-13",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "A lesion of the medial longitudinal fasciculus gives:",
+      "opts": [
+        "Internuclear ophthalmoplegia (INO)",
+        "Horner's syndrome",
+        "Contralateral pain loss only",
+        "Bilateral deafness"
+      ],
+      "ans": 0,
+      "exp": "medial longitudinal fasciculus : INO (Internuclear ophthalmoplegia) (Book p691)"
+    },
+    {
+      "id": "MED-C56-14",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The medial lemniscus carries which modality in the printed list?",
+      "opts": [
+        "Corticospinal fibres",
+        "Posterior column, after decussation at the medulla",
+        "Pain and temperature",
+        "Unconscious proprioception to cerebellum"
+      ],
+      "ans": 1,
+      "exp": "medial Lemniscus (Posterior column) : After decussation at medulla (Book p691)"
+    },
+    {
+      "id": "MED-C56-15",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The 'motor tract' of the midline 4M is named as:",
+      "opts": [
+        "Reticulospinal tract",
+        "Tectospinal tract",
+        "Corticospinal tract",
+        "Rubrospinal tract"
+      ],
+      "ans": 2,
+      "exp": "motor tract : Corticospinal tract (Book p691)"
+    },
+    {
+      "id": "MED-C56-16",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "The lateral 4S contains which four items?",
+      "opts": [
+        "Spinothalamic, medial lemniscus, MLF, corticospinal",
+        "Superior peduncle, spinal trigeminal, solitary, sympathetic",
+        "Somatic motor, sensory, secretomotor, sympathetic",
+        "Spinothalamic tract, spinocerebellar fibres, sympathetic fibres, spinal nucleus of trigeminal"
+      ],
+      "ans": 3,
+      "exp": "Lateral : 4S — Spinothalamic tract, Spinocerebellar fibers, Sympathetic fibers : Horner's syndrome, Spinal nucleus of trigeminal nerve (Book p691)"
+    },
+    {
+      "id": "MED-C56-17",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "recall",
+      "q": "Lesion of the sympathetic fibres in the lateral brainstem gives:",
+      "opts": [
+        "Horner's syndrome",
+        "Internuclear ophthalmoplegia",
+        "Pure motor hemiplegia",
+        "Bilateral ptosis only"
+      ],
+      "ans": 0,
+      "exp": "Sympathetic fibers : Horner's syndrome (Book p691)"
+    },
+    {
+      "id": "MED-C56-18",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "oddoneout",
+      "q": "Which structure belongs to the midline 4M rather than the lateral 4S?",
+      "opts": [
+        "Spinal nucleus of trigeminal nerve",
+        "Medial lemniscus",
+        "Spinothalamic tract",
+        "Spinocerebellar fibres"
+      ],
+      "ans": 1,
+      "exp": "midline : 4M — motor nuclei, MLF, medial lemniscus, motor tract; Lateral : 4S — spinothalamic, spinocerebellar, sympathetic, spinal nucleus of V (Book p691)"
+    },
+    {
+      "id": "MED-C56-19",
+      "sec": "Midline 4M and Lateral 4S",
+      "page": 691,
+      "fmt": "scenario",
+      "q": "A lateral medullary infarct is expected to involve which printed structure group?",
+      "opts": [
+        "Only the medial lemniscus",
+        "Only the cranial nerve motor nuclei",
+        "The lateral 4S including spinothalamic and sympathetic fibres",
+        "The midline 4M including the corticospinal tract"
+      ],
+      "ans": 2,
+      "exp": "Lateral : 4S — Spinothalamic tract, Spinocerebellar fibers, Sympathetic fibers, Spinal nucleus of trigeminal nerve (Book p691)"
+    },
+    {
+      "id": "MED-C56-20",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "The anterior surface of the midbrain presents which paired structure?",
+      "opts": [
+        "Pyramids",
+        "Olivary bodies",
+        "Facial colliculi",
+        "Crus cerebri (basis pedunculi)"
+      ],
+      "ans": 3,
+      "exp": "Anterior view — Crus cerebri of midbrain (Book p692)"
+    },
+    {
+      "id": "MED-C56-21",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "The oculomotor nerve exits the midbrain through which surface feature?",
+      "opts": [
+        "Interpeduncular fossa",
+        "Superior colliculus",
+        "Facial colliculus",
+        "Posterior median sulcus"
+      ],
+      "ans": 0,
+      "exp": "Anterior view — Interpeduncular fossa; Oculomotor nerve (Book p692)"
+    },
+    {
+      "id": "MED-C56-22",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "The posterior midbrain (tectum) carries which paired structures?",
+      "opts": [
+        "Tubercinereum",
+        "Superior and inferior colliculi",
+        "Mammillary bodies",
+        "Optic tracts"
+      ],
+      "ans": 1,
+      "exp": "Posterior view — Superior colliculus (SC), Inferior colliculus (IC) (Book p692)"
+    },
+    {
+      "id": "MED-C56-23",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "numeric",
+      "q": "Which fraction of the crus cerebri carries the corticospinal and corticonuclear fibres?",
+      "opts": [
+        "Lateral 2/5th",
+        "Whole width",
+        "Middle 3/5th",
+        "Medial 1/5th"
+      ],
+      "ans": 2,
+      "exp": "Middle 3/5th : Corticospinal and corticonuclear fibres (Book p692)"
+    },
+    {
+      "id": "MED-C56-24",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "The medial fifth of the crus cerebri carries which fibres?",
+      "opts": [
+        "Temporopontine",
+        "Corticospinal",
+        "Rubrospinal",
+        "Frontopontine"
+      ],
+      "ans": 3,
+      "exp": "Frontopontine fibres (medial) (Book p692)"
+    },
+    {
+      "id": "MED-C56-25",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "Which structure passes through the tectal plate at the level of the superior colliculus?",
+      "opts": [
+        "Cerebral aqueduct",
+        "Fourth ventricle",
+        "Interpeduncular cistern",
+        "Cerebral peduncle"
+      ],
+      "ans": 0,
+      "exp": "At the level of superior colliculus — Cerebral aqueduct (Book p692)"
+    },
+    {
+      "id": "MED-C56-26",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "The red nucleus sits in which division of the midbrain cross-section?",
+      "opts": [
+        "Subarachnoid space",
+        "Tegmentum",
+        "Tectum",
+        "Crus cerebri"
+      ],
+      "ans": 1,
+      "exp": "At the level of superior colliculus — Tegmentum; Red nucleus (Book p692)"
+    },
+    {
+      "id": "MED-C56-27",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "Which pigment-containing structure lies between the tegmentum and crus cerebri?",
+      "opts": [
+        "Inferior olivary complex",
+        "Locus ceruleus",
+        "Substantia nigra",
+        "Red nucleus"
+      ],
+      "ans": 2,
+      "exp": "At the level of superior colliculus — Substantia nigra (Book p692)"
+    },
+    {
+      "id": "MED-C56-28",
+      "sec": "Midbrain Anatomy",
+      "page": 692,
+      "fmt": "recall",
+      "q": "The anterior view labels the mammillary body and tubercinereum at the boundary of which structures?",
+      "opts": [
+        "Pons below the midbrain",
+        "Medulla below the pons",
+        "Cerebellum beside the pons",
+        "Hypothalamus above the midbrain"
+      ],
+      "ans": 3,
+      "exp": "Anterior view — Tubercinereum, Mammillary body (hypothalamic/midbrain boundary) (Book p692)"
+    },
+    {
+      "id": "MED-C56-29",
+      "sec": "Midbrain Anatomy",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Which cranial nerve exits from the posterior aspect of the brainstem, at the level of the inferior colliculus?",
+      "opts": [
+        "Trochlear nerve",
+        "Oculomotor nerve",
+        "Trigeminal nerve",
+        "Abducens nerve"
+      ],
+      "ans": 0,
+      "exp": "At the level of inferior colliculus — Trochlear nerve (Book p693)"
+    },
+    {
+      "id": "MED-C56-30",
+      "sec": "Midbrain Anatomy",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Which trigeminal nucleus appears in the midbrain at the level of the inferior colliculus?",
+      "opts": [
+        "Motor nucleus",
+        "Mesencephalic nucleus of trigeminal",
+        "Spinal nucleus of trigeminal",
+        "Main sensory nucleus"
+      ],
+      "ans": 1,
+      "exp": "Mesencephalic nucleus of trigeminal (Book p693)"
+    },
+    {
+      "id": "MED-C56-31",
+      "sec": "Midbrain Anatomy",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The inferior colliculus level cross-section marks the decussation of which structure?",
+      "opts": [
+        "Middle cerebellar peduncles",
+        "Optic radiation",
+        "Superior cerebellar peduncles",
+        "Inferior cerebellar peduncles"
+      ],
+      "ans": 2,
+      "exp": "Decussation of superior cerebellar peduncles (Book p693)"
+    },
+    {
+      "id": "MED-C56-32",
+      "sec": "Midbrain Anatomy",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Which fibre group occupies the lateral fifth of the crus at the inferior colliculus level?",
+      "opts": [
+        "Corticospinal and corticonuclear fibres",
+        "Frontopontine fibres",
+        "Medial lemniscus fibres",
+        "Temporopontine, parietopontine and occipitopontine fibres"
+      ],
+      "ans": 3,
+      "exp": "Temporopontine, parietopontine and occipitopontine fibres (Book p693)"
+    },
+    {
+      "id": "MED-C56-33",
+      "sec": "Midbrain Anatomy",
+      "page": 693,
+      "fmt": "scenario",
+      "q": "A demyelinating plaque selectively involves the middle 3/5th of the crus cerebri. Which printed fibre group is damaged?",
+      "opts": [
+        "Corticospinal and corticonuclear fibres",
+        "Frontopontine fibres",
+        "Temporopontine fibres",
+        "Rubrospinal decussation"
+      ],
+      "ans": 0,
+      "exp": "Middle 3/5th : Corticospinal and corticonuclear fibres (Book p693)"
+    },
+    {
+      "id": "MED-C56-34",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The vascular origin printed for ventral midbrain syndromes is:",
+      "opts": [
+        "Superior cerebellar artery",
+        "P1 segment of the Posterior Cerebral Artery (PCA)",
+        "P2 segment of the PCA",
+        "Basilar artery tip"
+      ],
+      "ans": 1,
+      "exp": "VENTRAL MIDBRAIN SYNDROMES — Etiology : Vascular origin : P1 segment of Posterior Cerebral Artery (PCA) (Book p693)"
+    },
+    {
+      "id": "MED-C56-35",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Weber's syndrome lesions which part of the midbrain?",
+      "opts": [
+        "Tectum",
+        "Cerebral aqueduct",
+        "Base of midbrain (Cerebral Peduncle)",
+        "Tegmentum"
+      ],
+      "ans": 2,
+      "exp": "Weber's Syndrome — Location : Base of midbrain (Cerebral Peduncle) (Book p693)"
+    },
+    {
+      "id": "MED-C56-36",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The structures involved in Weber's syndrome are:",
+      "opts": [
+        "CN-3 fibres and red nucleus",
+        "CN-4 nucleus and MLF",
+        "Substantia nigra and red nucleus",
+        "CN-3 fibres from nucleus and corticospinal tract"
+      ],
+      "ans": 3,
+      "exp": "Weber's — Structures involved : CN-3 Fibres from nucleus; Corticospinal tract (Book p693)"
+    },
+    {
+      "id": "MED-C56-37",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The clinical features of Weber's syndrome are:",
+      "opts": [
+        "I/L 3rd nerve palsy with C/L hemiplegia",
+        "I/L 3rd nerve palsy with C/L ataxia and tremor",
+        "Vertical gaze palsy with C/L ataxia",
+        "I/L 12th nerve palsy with C/L hemiplegia"
+      ],
+      "ans": 0,
+      "exp": "Weber's — Clinical Features : I/L 3rd nerve palsy; C/L Hemiplegia (Book p693)"
+    },
+    {
+      "id": "MED-C56-38",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Claude's syndrome lesions which part of the midbrain?",
+      "opts": [
+        "Pineal region",
+        "Tegmentum",
+        "Base of midbrain (cerebral peduncle)",
+        "Dorsum of midbrain"
+      ],
+      "ans": 1,
+      "exp": "Claude's Syndrome — Location : Tegmentum (Book p693)"
+    },
+    {
+      "id": "MED-C56-39",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Besides CN-3 fibres, which structure is involved in Claude's syndrome?",
+      "opts": [
+        "Substantia nigra",
+        "Periaqueductal grey",
+        "Red nucleus (superior cerebellar peduncle — dentato-rubro-thalamic fibres)",
+        "Corticospinal tract"
+      ],
+      "ans": 2,
+      "exp": "Claude's — Structures : CN-3 Fibres from nucleus; Red nucleus (Superior cerebellar peduncle — Dentato-rubro-thalamic fibres) (Book p693)"
+    },
+    {
+      "id": "MED-C56-40",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The clinical features of Claude's syndrome are:",
+      "opts": [
+        "I/L 3rd nerve palsy with C/L hemiplegia",
+        "C/L hemichorea with hemiathetosis",
+        "Vertical gaze palsy with skew deviation",
+        "I/L 3rd nerve palsy with C/L ataxia + tremor"
+      ],
+      "ans": 3,
+      "exp": "Claude's — Clinical Features : I/L 3rd nerve palsy; C/L Ataxia + Tremor (opposite cerebellar fibres) (Book p693)"
+    },
+    {
+      "id": "MED-C56-41",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Benedikt's syndrome is printed as which combination?",
+      "opts": [
+        "Weber + Claude",
+        "Weber + Parinaud",
+        "Claude + Wallenberg",
+        "Weber + Nothnagel"
+      ],
+      "ans": 0,
+      "exp": "Benedikt's Syndrome — (Weber + Claude) (Book p693)"
+    },
+    {
+      "id": "MED-C56-42",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The location printed for Benedikt's syndrome is:",
+      "opts": [
+        "Dorsum of midbrain",
+        "Extensive tegmentum + Base of midbrain",
+        "Base of midbrain alone",
+        "Tegmentum alone"
+      ],
+      "ans": 1,
+      "exp": "Benedikt's — Location : Extensive tegmentum + Base of midbrain (Book p693)"
+    },
+    {
+      "id": "MED-C56-43",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "Which additional structure distinguishes Benedikt's from Weber's plus Claude's?",
+      "opts": [
+        "Cerebral aqueduct",
+        "Trochlear nucleus",
+        "Substantia nigra (nigrostriatal pathway)",
+        "Medial lemniscus"
+      ],
+      "ans": 2,
+      "exp": "Benedikt's — Structures : … Substantia Nigra (Nigrostriatal pathway) (Book p693)"
+    },
+    {
+      "id": "MED-C56-44",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "recall",
+      "q": "The movement disorder printed for Benedikt's syndrome is:",
+      "opts": [
+        "I/L resting tremor of the hand",
+        "Bilateral cerebellar ataxia",
+        "Torsion dystonia of the trunk",
+        "C/L hemichorea + hemiathetosis"
+      ],
+      "ans": 3,
+      "exp": "Benedikt's — Clinical Features : … C/L Hemichorea + Hemiathetosis (Book p693)"
+    },
+    {
+      "id": "MED-C56-45",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "scenario",
+      "q": "A patient has a right 3rd nerve palsy, left hemiplegia, left ataxia with tremor and left-sided choreiform movements. Which printed syndrome fits?",
+      "opts": [
+        "Benedikt's syndrome",
+        "Weber's syndrome alone",
+        "Claude's syndrome alone",
+        "Nothnagel's syndrome"
+      ],
+      "ans": 0,
+      "exp": "Benedikt's — I/L 3rd nerve palsy; C/L Hemiplegia; C/L Ataxia + Tremor; C/L Hemichorea + Hemiathetosis (Weber + Claude) (Book p693)"
+    },
+    {
+      "id": "MED-C56-46",
+      "sec": "Ventral Midbrain Syndromes",
+      "page": 693,
+      "fmt": "scenario",
+      "q": "A PCA P1 perforator infarct gives a dilated non-reactive right pupil with ptosis and a left hemiplegia without ataxia or movement disorder. Which printed syndrome fits?",
+      "opts": [
+        "Foville's syndrome",
+        "Weber's syndrome",
+        "Claude's syndrome",
+        "Benedikt's syndrome"
+      ],
+      "ans": 1,
+      "exp": "Weber's — Base of midbrain (Cerebral Peduncle); I/L 3rd nerve palsy; C/L Hemiplegia (Book p693)"
+    },
+    {
+      "id": "MED-C56-47",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The m/c printed cause of dorsal midbrain syndrome is:",
+      "opts": [
+        "Basilar tip aneurysm",
+        "Hydrocephalus only",
+        "Pinealomas",
+        "Demyelination"
+      ],
+      "ans": 2,
+      "exp": "DORSAL MIDBRAIN SYNDROMES — Etiology : Tumour : Pinealomas (m/c) (Book p694)"
+    },
+    {
+      "id": "MED-C56-48",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The lesion location for dorsal midbrain syndrome is:",
+      "opts": [
+        "Base of midbrain",
+        "Ventral pons",
+        "Lateral medulla",
+        "Dorsum of midbrain"
+      ],
+      "ans": 3,
+      "exp": "Location of Lesion : Dorsum of midbrain (Book p694)"
+    },
+    {
+      "id": "MED-C56-49",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "Which structures are listed as involved in Parinaud's syndrome?",
+      "opts": [
+        "Pretectal nucleus, periaqueductal gray matter, CN-3 fibres",
+        "Corticospinal tract, medial lemniscus",
+        "Nucleus ambiguus, NTS",
+        "Red nucleus, substantia nigra"
+      ],
+      "ans": 0,
+      "exp": "Structures Involved : Pretectal nucleus; Periaqueductal gray matter; CN-3 fibers (Book p694)"
+    },
+    {
+      "id": "MED-C56-50",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The gaze palsy of Parinaud's syndrome affects which direction?",
+      "opts": [
+        "Convergence only",
+        "Vertical (up gaze)",
+        "Horizontal only",
+        "Down gaze only"
+      ],
+      "ans": 1,
+      "exp": "Clinical Features : vertical gaze palsy (up gaze palsy) (Book p694)"
+    },
+    {
+      "id": "MED-C56-51",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The sunsetting sign is printed as eyes that:",
+      "opts": [
+        "Converge",
+        "Deviate outward",
+        "Look down",
+        "Look up"
+      ],
+      "ans": 2,
+      "exp": "Sunsetting sign (Look down) (Book p694)"
+    },
+    {
+      "id": "MED-C56-52",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The Argyll Robertson pupil of Parinaud's syndrome shows:",
+      "opts": [
+        "Light reflex present, accommodation absent",
+        "Both reflexes absent",
+        "Both reflexes present but slowed",
+        "Accommodation reflex present, light reflex absent"
+      ],
+      "ans": 3,
+      "exp": "Argyll Robertson Pupil (ARP) — Accommodation reflex present; Light reflex absent (Book p694)"
+    },
+    {
+      "id": "MED-C56-53",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "Collier's sign is printed as:",
+      "opts": [
+        "Overshoot of levator palpebrae superioris → lid retraction",
+        "Pupillary dilation on attempted adduction",
+        "Nystagmus on down gaze",
+        "Ptosis that fatigues through the day"
+      ],
+      "ans": 0,
+      "exp": "Collier's sign : Overshoot of levator palpebrae Superioris (LPS) → Lid retraction (Book p694)"
+    },
+    {
+      "id": "MED-C56-54",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "Convergence-retraction nystagmus is attributed to:",
+      "opts": [
+        "Vertical gaze centre exhaustion",
+        "An overactive convergence centre",
+        "Sixth nerve nucleus irritation",
+        "Vestibular nuclei imbalance"
+      ],
+      "ans": 1,
+      "exp": "Convergence retraction nystagmus (overactive convergence center) (Book p694)"
+    },
+    {
+      "id": "MED-C56-55",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The printed feature list of Parinaud's also includes:",
+      "opts": [
+        "Tonic pupils with areflexia",
+        "Opsoclonus",
+        "Skew deviation of eyes",
+        "Bilateral papilloedema"
+      ],
+      "ans": 2,
+      "exp": "Clinical Features : … Skew deviation of eyes (Book p694)"
+    },
+    {
+      "id": "MED-C56-56",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "Nothnagel's syndrome is printed as which version of Parinaud's syndrome?",
+      "opts": [
+        "Posterior version",
+        "Bilateral version",
+        "Vascular version",
+        "Anterior version"
+      ],
+      "ans": 3,
+      "exp": "Nothnagel's syndrome (Anterior version of Parinaud syndrome) (Book p694)"
+    },
+    {
+      "id": "MED-C56-57",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The structures of Nothnagel's syndrome are:",
+      "opts": [
+        "CN-3 fibres and superior cerebellar peduncle (close to red nucleus)",
+        "Pretectal nucleus and periaqueductal grey",
+        "Corticospinal and corticonuclear fibres",
+        "Nucleus ambiguus and NTS"
+      ],
+      "ans": 0,
+      "exp": "Nothnagel's — Structures : CN-3 fibers; Superior cerebellar peduncle (Close to red nucleus) (Book p694)"
+    },
+    {
+      "id": "MED-C56-58",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The clinical features of Nothnagel's syndrome are:",
+      "opts": [
+        "I/L Horner's with C/L pain loss",
+        "Vertical gaze palsy, 3rd nerve palsy, C/L ataxia",
+        "I/L 12th palsy and C/L hemiplegia",
+        "Locked-in state"
+      ],
+      "ans": 1,
+      "exp": "Nothnagel's — Clinical Features : Vertical gaze palsy (up gaze palsy), 3rd nerve palsy, C/L Ataxia (Book p694)"
+    },
+    {
+      "id": "MED-C56-59",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "Parinaud's oculoglandular syndrome is noted to be associated with:",
+      "opts": [
+        "Cat-scratch disease only",
+        "Brucellosis",
+        "Tularemia (Francisella tularensis)",
+        "Sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "Note : Parinaud's oculoglandular syndrome : Associated with Tularemia (Francisella tularensis) (Book p694)"
+    },
+    {
+      "id": "MED-C56-60",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The superior cerebellar peduncle connects to which level?",
+      "opts": [
+        "Pons",
+        "Medulla",
+        "Spinal cord",
+        "Midbrain"
+      ],
+      "ans": 3,
+      "exp": "Cerebellar peduncle connections : Superior → midbrain (Book p694)"
+    },
+    {
+      "id": "MED-C56-61",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The middle cerebellar peduncle connects to which level?",
+      "opts": [
+        "Pons",
+        "Midbrain",
+        "Medulla",
+        "Thalamus"
+      ],
+      "ans": 0,
+      "exp": "Cerebellar peduncle connections : middle → Pons (Book p694)"
+    },
+    {
+      "id": "MED-C56-62",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The inferior cerebellar peduncle connects to which level?",
+      "opts": [
+        "Cerebrum",
+        "Medulla",
+        "Midbrain",
+        "Pons"
+      ],
+      "ans": 1,
+      "exp": "Cerebellar peduncle connections : Inferior → medulla (Book p694)"
+    },
+    {
+      "id": "MED-C56-63",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "scenario",
+      "q": "A young man with a pineal tumour cannot look up and has retraction of the lids on attempted upgaze with light-near dissociation of the pupils. Which printed syndrome and sign pair?",
+      "opts": [
+        "Weber's syndrome with anisocoria",
+        "Claude's syndrome with tremor",
+        "Parinaud's syndrome with Collier's sign",
+        "Nothnagel's syndrome with skew deviation"
+      ],
+      "ans": 2,
+      "exp": "Pinealomas (m/c); vertical gaze palsy; Collier's sign → Lid retraction; ARP (Book p694)"
+    },
+    {
+      "id": "MED-C56-64",
+      "sec": "Dorsal Midbrain Syndromes",
+      "page": 694,
+      "fmt": "oddoneout",
+      "q": "Which sign does NOT belong to the printed Parinaud's feature list?",
+      "opts": [
+        "Sunsetting sign",
+        "Convergence-retraction nystagmus",
+        "Skew deviation of eyes",
+        "Clasp-knife spasticity"
+      ],
+      "ans": 3,
+      "exp": "Parinaud's features : vertical gaze palsy, sunsetting sign, ARP, Collier's sign, pseudo abducent pupil, convergence retraction nystagmus, skew deviation (Book p694)"
+    },
+    {
+      "id": "MED-C56-65",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 694,
+      "fmt": "recall",
+      "q": "Lateral medullary syndrome is also printed as:",
+      "opts": [
+        "Wallenberg's / PICA syndrome",
+        "Dejerine syndrome",
+        "Weber syndrome",
+        "Millard-Gubler syndrome"
+      ],
+      "ans": 0,
+      "exp": "LATERAL MEDULLARY SYNDROME AKA Wallenberg's / PICA Syndrome (Book p694)"
+    },
+    {
+      "id": "MED-C56-66",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 694,
+      "fmt": "recall",
+      "q": "The vascular origin of LMS is printed as:",
+      "opts": [
+        "AICA alone",
+        "V4 segment of vertebral artery → PICA",
+        "P1 segment of PCA",
+        "Basilar artery only"
+      ],
+      "ans": 1,
+      "exp": "Etiology : Vascular origin : V4 segment of vertebral artery → Posterior Inferior cerebellar Artery (PICA) (Book p694)"
+    },
+    {
+      "id": "MED-C56-67",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The m/c pathogenesis printed for lateral medullary infarction is:",
+      "opts": [
+        "Small vessel lipohyalinosis",
+        "Venous sinus thrombosis",
+        "Large vessel infarction: thrombosis/artery to artery infarction",
+        "Cardiac embolism"
+      ],
+      "ans": 2,
+      "exp": "Pathogenesis : Large vessel infarction : Thrombosis/Artery to artery infarction (Book p695)"
+    },
+    {
+      "id": "MED-C56-68",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Cardiac embolism as a cause of LMS is printed as:",
+      "opts": [
+        "The commonest cause",
+        "Equal to thrombosis",
+        "Never reported",
+        "Rare"
+      ],
+      "ans": 3,
+      "exp": "Cardiac embolism : Rare (Book p695)"
+    },
+    {
+      "id": "MED-C56-69",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Higher mental functions in lateral medullary syndrome are:",
+      "opts": [
+        "Normal",
+        "Always impaired",
+        "Fluctuating",
+        "Lost only late"
+      ],
+      "ans": 0,
+      "exp": "1. Higher mental Functions : Normal (Book p695)"
+    },
+    {
+      "id": "MED-C56-70",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The motor system in LMS is printed as:",
+      "opts": [
+        "Quadriparetic",
+        "Normal",
+        "Contralateral hemiplegic",
+        "Ipsilateral hemiplegic"
+      ],
+      "ans": 1,
+      "exp": "3. motor System : Normal (Book p695)"
+    },
+    {
+      "id": "MED-C56-71",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Pain, numbness and impaired sensation on one half of the face arise from which structure?",
+      "opts": [
+        "Mesencephalic nucleus of V",
+        "NTS of VII",
+        "Spinal nucleus of V nerve",
+        "Main sensory nucleus of V"
+      ],
+      "ans": 2,
+      "exp": "Spinal nucleus of V nerve → Pain, numbness, impaired sensations on one-half of face (Book p695)"
+    },
+    {
+      "id": "MED-C56-72",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Ataxia on the same side with tinnitus, vertigo, dizziness, oscillopsia and nystagmus point to which structure?",
+      "opts": [
+        "Cochlear nucleus alone",
+        "Inferior cerebellar peduncle alone",
+        "NTS of VII",
+        "Vestibular nucleus of VIII nerve"
+      ],
+      "ans": 3,
+      "exp": "vestibular nucleus of VIII Nerve → Ataxia (same side), Tinnitus, vertigo, Dizziness, Oscillopsia, Nystagmus (Book p695)"
+    },
+    {
+      "id": "MED-C56-73",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Impaired taste on the anterior 2/3rd of the tongue localises to:",
+      "opts": [
+        "Nucleus Tractus Solitarius (NTS) of VII nerve",
+        "Nucleus ambiguus",
+        "Geniculate ganglion",
+        "Dorsal nucleus of vagus"
+      ],
+      "ans": 0,
+      "exp": "Nucleus Tractus Solitarius (NTS) of VII Nerve → Impaired taste on anterior 2/3rd of tongue (Book p695)"
+    },
+    {
+      "id": "MED-C56-74",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Dysphagia and nasal regurgitation in LMS arise from:",
+      "opts": [
+        "Hypoglossal nucleus",
+        "Nucleus ambiguus of IX, X nerve",
+        "Dorsal nucleus of vagus",
+        "NTS of VII"
+      ],
+      "ans": 1,
+      "exp": "Nucleus ambiguus of IX, X Nerve → Dysphagia, Nasal regurgitation (Book p695)"
+    },
+    {
+      "id": "MED-C56-75",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Autonomic symptoms — tachy/bradycardia, arrhythmias, orthostatic hypotension, erectile dysfunction, abnormal sweating — localise to:",
+      "opts": [
+        "Cervical sympathetic chain",
+        "NTS of VII",
+        "Dorsal nucleus of vagus (X) nerve",
+        "Nucleus ambiguus"
+      ],
+      "ans": 2,
+      "exp": "Dorsal nucleus of vagus (X) nerve → Autonomic symptoms (Tachy/bradycardia, Arrhythmias, Orthostatic hypotension, Erectile dysfunction, abnormal sweating) (Book p695)"
+    },
+    {
+      "id": "MED-C56-76",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The Horner's syndrome of LMS comes from which printed structure?",
+      "opts": [
+        "Dorsal nucleus of vagus",
+        "Spinal nucleus of V",
+        "Medial lemniscus",
+        "Cervical sympathetic chain"
+      ],
+      "ans": 3,
+      "exp": "Cervical Sympathetic chain → Horner's syndrome (Ptosis, miosis, Anhydrosis, Enophthalmos, Loss of ciliospinal reflex) (Book p695)"
+    },
+    {
+      "id": "MED-C56-77",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The printed Horner's features include loss of which reflex?",
+      "opts": [
+        "Ciliospinal reflex",
+        "Corneal reflex",
+        "Oculocardiac reflex",
+        "Jaw jerk"
+      ],
+      "ans": 0,
+      "exp": "Horner's syndrome (Ptosis, miosis, Anhydrosis, Enophthalmos, Loss of ciliospinal reflex) (Book p695)"
+    },
+    {
+      "id": "MED-C56-78",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The spinothalamic finding in LMS is:",
+      "opts": [
+        "Bilateral loss of all modalities",
+        "C/L loss of pain and temperature",
+        "I/L loss of pain and temperature",
+        "C/L loss of touch and proprioception"
+      ],
+      "ans": 1,
+      "exp": "Spinothalamic tract : C/L loss of Pain and Temperature (Book p695)"
+    },
+    {
+      "id": "MED-C56-79",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "Which sensory pathway is printed as spared in LMS?",
+      "opts": [
+        "Trigeminal spinal tract",
+        "Lateral lemniscus",
+        "Posterior column (midline)",
+        "Spinothalamic tract"
+      ],
+      "ans": 2,
+      "exp": "Sensory System — Spared : Posterior column (midline) (Book p695)"
+    },
+    {
+      "id": "MED-C56-80",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The cerebellar finding of LMS is printed as:",
+      "opts": [
+        "C/L limb ataxia only",
+        "Truncal ataxia without limb ataxia",
+        "No cerebellar signs",
+        "I/L cerebellar symptoms (ataxia) via spinocerebellar fibres"
+      ],
+      "ans": 3,
+      "exp": "5. Cerebellum : Spinocerebellar Fibres : I/L cerebellar symptoms (Ataxia) (Book p695)"
+    },
+    {
+      "id": "MED-C56-81",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "scenario",
+      "q": "A smoker with vertigo, hiccups, dysphagia, numb left face, right body pain-temperature loss and a left Horner's — with normal power — has which printed syndrome?",
+      "opts": [
+        "Lateral medullary (Wallenberg) syndrome",
+        "Medial medullary (Dejerine) syndrome",
+        "Millard-Gubler syndrome",
+        "Locked-in syndrome"
+      ],
+      "ans": 0,
+      "exp": "LMS — normal higher functions/motor; spinal nucleus of V; STT C/L pain/temp; sympathetic chain Horner's; nucleus ambiguus dysphagia (Book p695)"
+    },
+    {
+      "id": "MED-C56-82",
+      "sec": "Lateral Medullary Syndrome Features",
+      "page": 695,
+      "fmt": "numeric",
+      "q": "Taste loss in LMS affects which fraction of the tongue, on which side?",
+      "opts": [
+        "Whole tongue, bilateral",
+        "Anterior 2/3rd, ipsilateral",
+        "Posterior 1/3rd, ipsilateral",
+        "Anterior 2/3rd, contralateral"
+      ],
+      "ans": 1,
+      "exp": "NTS of VII Nerve → Impaired taste on anterior 2/3rd of tongue (Book p695)"
+    },
+    {
+      "id": "MED-C56-83",
+      "sec": "Horner Syndrome Localisation",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The printed example of a central (1st order neuron) Horner's is:",
+      "opts": [
+        "Carotid artery dissection",
+        "Cluster headache",
+        "Wallenberg syndrome",
+        "Pancoast tumour"
+      ],
+      "ans": 2,
+      "exp": "Central Horner syndrome (1st order neuron) — (Wallenberg syndrome) (Book p695)"
+    },
+    {
+      "id": "MED-C56-84",
+      "sec": "Horner Syndrome Localisation",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The printed example of a pre-ganglionic Horner's is:",
+      "opts": [
+        "Wallenberg syndrome",
+        "Carotid artery dissection",
+        "Migraine",
+        "Pancoast tumour"
+      ],
+      "ans": 3,
+      "exp": "Pre-ganglionic Horner : Pancoast tumour (Book p695)"
+    },
+    {
+      "id": "MED-C56-85",
+      "sec": "Horner Syndrome Localisation",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The printed example of a postganglionic Horner's is:",
+      "opts": [
+        "Carotid artery dissection",
+        "Pancoast tumour",
+        "Wallenberg syndrome",
+        "Syringomyelia"
+      ],
+      "ans": 0,
+      "exp": "Postganglionic Horner : Carotid artery dissection (Book p695)"
+    },
+    {
+      "id": "MED-C56-86",
+      "sec": "Horner Syndrome Localisation",
+      "page": 695,
+      "fmt": "recall",
+      "q": "In the postganglionic Horner's of carotid dissection, anhidrosis is printed as:",
+      "opts": [
+        "Present only below the neck",
+        "Absent",
+        "Present on the whole body",
+        "Present on the ipsilateral face"
+      ],
+      "ans": 1,
+      "exp": "Postganglionic Horner — Anhydrosis : Absent (Book p695)"
+    },
+    {
+      "id": "MED-C56-87",
+      "sec": "Horner Syndrome Localisation",
+      "page": 695,
+      "fmt": "recall",
+      "q": "The preganglionic fibres of the sympathetic chain to the head arise from which level?",
+      "opts": [
+        "T4, T5",
+        "L1, L2",
+        "C8, T1",
+        "C5, C6"
+      ],
+      "ans": 2,
+      "exp": "C8, T1 → Superior cervical ganglion (Book p695)"
+    },
+    {
+      "id": "MED-C56-88",
+      "sec": "Horner Syndrome Localisation",
+      "page": 695,
+      "fmt": "scenario",
+      "q": "A smoker with an apical lung mass has ptosis and miosis of the right eye with preserved sweating of the right face after neck pain from a dissection was excluded — the sweating pattern separates the two printed causes. Which lesion keeps facial anhidrosis?",
+      "opts": [
+        "Carotid artery dissection (postganglionic)",
+        "Both equally",
+        "Neither",
+        "Pancoast tumour (preganglionic)"
+      ],
+      "ans": 3,
+      "exp": "Pre-ganglionic Horner : Pancoast tumour; Postganglionic — Anhydrosis absent (Book p695)"
+    },
+    {
+      "id": "MED-C56-89",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "Medial medullary syndrome is also printed as:",
+      "opts": [
+        "Dejerine Syndrome",
+        "Wallenberg Syndrome",
+        "Benedikt Syndrome",
+        "Foville Syndrome"
+      ],
+      "ans": 0,
+      "exp": "MEDIAL MEDULLARY SYNDROME AKA Dejerine Syndrome (Book p696)"
+    },
+    {
+      "id": "MED-C56-90",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "The XII nerve nucleus lesion of Dejerine syndrome gives:",
+      "opts": [
+        "C/L loss of touch and proprioception",
+        "I/L 12th nerve palsy with paralysis and atrophy of one-half of tongue",
+        "C/L hemiplegia",
+        "I/L INO"
+      ],
+      "ans": 1,
+      "exp": "XII Nerve nucleus → I/L 12th nerve palsy : Paralysis with atrophy of one-half of tongue (Book p696)"
+    },
+    {
+      "id": "MED-C56-91",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "The corticospinal tract lesion of Dejerine syndrome gives:",
+      "opts": [
+        "I/L tongue palsy",
+        "C/L ataxia",
+        "C/L Hemiplegia",
+        "I/L hemiplegia"
+      ],
+      "ans": 2,
+      "exp": "Corticospinal tract → C/L Hemiplegia (Book p696)"
+    },
+    {
+      "id": "MED-C56-92",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "The medial longitudinal fasciculus lesion of Dejerine syndrome gives:",
+      "opts": [
+        "C/L hemianopia",
+        "Vertical gaze palsy",
+        "Bilateral facial palsy",
+        "I/L Internuclear ophthalmoplegia"
+      ],
+      "ans": 3,
+      "exp": "medial Longitudinal Fasciculus → I/L Internuclear ophthalmoplegia (Book p696)"
+    },
+    {
+      "id": "MED-C56-93",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "The medial lemniscus lesion of Dejerine syndrome gives:",
+      "opts": [
+        "C/L loss of posterior column: touch and proprioception lost",
+        "C/L loss of pain and temperature",
+        "I/L loss of touch and proprioception",
+        "No sensory loss"
+      ],
+      "ans": 0,
+      "exp": "medial Lemniscus → C/L loss of posterior column : Touch and proprioception lost (Book p696)"
+    },
+    {
+      "id": "MED-C56-94",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "The horizontal gaze pathway runs from the frontal eye field to:",
+      "opts": [
+        "The ipsilateral III nucleus directly",
+        "The contralateral PPRF and VI CN nucleus",
+        "The ipsilateral PPRF only",
+        "The occipital eye field"
+      ],
+      "ans": 1,
+      "exp": "Frontal Eye Field → PPRF (Paramedian pontine reticular formation) → VI CN nucleus (Book p696)"
+    },
+    {
+      "id": "MED-C56-95",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "The PPRF is expanded as:",
+      "opts": [
+        "Prepontine pupillary response formation",
+        "Paracentral pontine rhythm field",
+        "Paramedian pontine reticular formation",
+        "Posterior pontine reflex field"
+      ],
+      "ans": 2,
+      "exp": "PPRF — Paramedian pontine reticular formation (Book p696)"
+    },
+    {
+      "id": "MED-C56-96",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "Internuclear fibres from the VI nucleus reach the opposite medial rectus via:",
+      "opts": [
+        "The lateral lemniscus",
+        "The central tegmental tract",
+        "The corpus callosum",
+        "The medial longitudinal fasciculus (MLF)"
+      ],
+      "ans": 3,
+      "exp": "VI CN nucleus ↔ medial Longitudinal Fasciculus (MLF) → medial Rectus (Book p696)"
+    },
+    {
+      "id": "MED-C56-97",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "An isolated MLF lesion gives:",
+      "opts": [
+        "Internuclear ophthalmoplegia",
+        "One-and-a-half syndrome",
+        "Eight-and-a-half syndrome",
+        "Fifteen-and-a-half syndrome"
+      ],
+      "ans": 0,
+      "exp": "Lesions of : medial longitudinal fasciculus : Internuclear ophthalmoplegia (Book p696)"
+    },
+    {
+      "id": "MED-C56-98",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "INO is printed as:",
+      "opts": [
+        "Complete external ophthalmoplegia",
+        "I/L adduction weakness + C/L abduction nystagmus",
+        "Bilateral abduction weakness",
+        "I/L abduction weakness alone"
+      ],
+      "ans": 1,
+      "exp": "INO : I/L Adduction weakness + C/L Abduction nystagmus (Book p696)"
+    },
+    {
+      "id": "MED-C56-99",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "MLF + PPRF lesion together give:",
+      "opts": [
+        "Eight and half syndrome",
+        "Locked-in syndrome",
+        "One and a half syndrome",
+        "Internuclear ophthalmoplegia"
+      ],
+      "ans": 2,
+      "exp": "MLF + PPRF : One and a half syndrome (Book p696)"
+    },
+    {
+      "id": "MED-C56-100",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "One-and-a-half syndrome is printed as loss of:",
+      "opts": [
+        "Bilateral abduction only",
+        "All horizontal movements",
+        "I/L adduction only",
+        "I/L abduction + I/L adduction + C/L adduction, with C/L abduction intact"
+      ],
+      "ans": 3,
+      "exp": "One and a half syndrome : I/L abduction + I/L adduction + C/L adduction absent; C/L Abduction intact (Book p696)"
+    },
+    {
+      "id": "MED-C56-101",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "A VII nerve palsy added to one-and-a-half syndrome gives:",
+      "opts": [
+        "Eight and half syndrome",
+        "One and half syndrome",
+        "Fifteen and half syndrome",
+        "Nine syndrome"
+      ],
+      "ans": 0,
+      "exp": "VII Nerve palsy + One and half syndrome : Eight and half syndrome (Book p696)"
+    },
+    {
+      "id": "MED-C56-102",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "recall",
+      "q": "B/L VII nerve palsy with one-and-a-half syndrome gives:",
+      "opts": [
+        "Twenty syndrome",
+        "Fifteen and half syndrome",
+        "Eight and half syndrome",
+        "One and half syndrome"
+      ],
+      "ans": 1,
+      "exp": "B/L VII Nerve palsy + One and half syndrome : Fifteen and half syndrome (Book p696)"
+    },
+    {
+      "id": "MED-C56-103",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "scenario",
+      "q": "A patient cannot abduct the right eye, cannot adduct either eye for right gaze command, but the left eye abducts with nystagmus. Which printed lesion pairing?",
+      "opts": [
+        "Isolated VI nerve palsy",
+        "Bilateral FEF infarction",
+        "MLF + PPRF (one-and-a-half syndrome)",
+        "Isolated MLF (INO)"
+      ],
+      "ans": 2,
+      "exp": "MLF + PPRF : One and a half syndrome — I/L abduction + I/L adduction + C/L adduction absent; C/L abduction intact (Book p696)"
+    },
+    {
+      "id": "MED-C56-104",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "page": 696,
+      "fmt": "scenario",
+      "q": "Following a medial medullary infarct, a patient deviates a wasted, fasciculating tongue to the left and has right body weakness with loss of right-sided position sense. Which printed syndrome?",
+      "opts": [
+        "Wallenberg syndrome",
+        "Avellis syndrome",
+        "Raymond syndrome",
+        "Dejerine syndrome"
+      ],
+      "ans": 3,
+      "exp": "Dejerine — XII nucleus I/L 12th palsy with atrophy; CST C/L hemiplegia; medial lemniscus C/L posterior column loss (Book p696)"
+    },
+    {
+      "id": "MED-C56-105",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "Cruciate paralysis is printed with which mechanism?",
+      "opts": [
+        "Early decussation of upper limb fibres",
+        "Late myelination of leg fibres",
+        "Cervical cord hemisection",
+        "Bilateral cortical infarction"
+      ],
+      "ans": 0,
+      "exp": "CRUCIATE PARALYSIS (early decussation of upper limb fibres) (Book p697)"
+    },
+    {
+      "id": "MED-C56-106",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "Which presentation is printed under cruciate paralysis?",
+      "opts": [
+        "Bilateral facial weakness",
+        "Brachial diplegia: both arm weakness with sparing of legs",
+        "Complete paraplegia with arm sparing",
+        "Isolated monoplegia of one leg"
+      ],
+      "ans": 1,
+      "exp": "Presentation : Brachial diplegia — Both arm weakness with sparing of legs (Book p697)"
+    },
+    {
+      "id": "MED-C56-107",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The second printed presentation of cruciate paralysis is:",
+      "opts": [
+        "Weakness of one arm and same-side leg",
+        "Quadriplegia with facial sparing",
+        "Weakness of one arm and opposite leg",
+        "Weakness of both legs"
+      ],
+      "ans": 2,
+      "exp": "Presentation : weakness of one arm and opposite leg (Book p697)"
+    },
+    {
+      "id": "MED-C56-108",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The note under cruciate paralysis restates which rule?",
+      "opts": [
+        "Cortical lesions give aphasia",
+        "Internal capsule gives UMN VII palsy",
+        "Lateral 4S structures are spared",
+        "Crossed hemiplegia : I/L LMN CN palsy + C/L Hemiplegia"
+      ],
+      "ans": 3,
+      "exp": "Note : Crossed hemiplegia : I/L LMN CN palsy + C/L Hemiplegia (Book p697)"
+    },
+    {
+      "id": "MED-C56-109",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The site of lesion printed for both Avellis and Jackson syndromes is:",
+      "opts": [
+        "Tegmentum of medulla",
+        "Base of pons",
+        "Dorsum of midbrain",
+        "Lateral pons"
+      ],
+      "ans": 0,
+      "exp": "Avellis vs Jackson — Site of Lesion : Tegmentum of medulla (Book p697)"
+    },
+    {
+      "id": "MED-C56-110",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The structures involved in Avellis syndrome are:",
+      "opts": [
+        "Vestibular nuclei and MLF",
+        "X Nerve and spinothalamic tract",
+        "Hypoglossal nucleus alone",
+        "Facial nucleus and PPRF"
+      ],
+      "ans": 1,
+      "exp": "Avellis Syndrome — Structures involved : X Nerve; Spinothalamic tract (Book p697)"
+    },
+    {
+      "id": "MED-C56-111",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The clinical features of Avellis syndrome are:",
+      "opts": [
+        "I/L ataxia with C/L hemiplegia",
+        "Vertical gaze palsy with ataxia",
+        "I/L LMN X CN palsy, C/L pain and temperature loss (body), no weakness",
+        "I/L LMN XII CN palsy with C/L hemiplegia"
+      ],
+      "ans": 2,
+      "exp": "Avellis — I/L LMN X CN palsy; C/L Pain and Temperature loss (body); No weakness (Book p697)"
+    },
+    {
+      "id": "MED-C56-112",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The structure that distinguishes Jackson from Avellis syndrome is:",
+      "opts": [
+        "Nucleus ambiguus",
+        "Spinothalamic tract",
+        "X nerve",
+        "Hypoglossal nucleus"
+      ],
+      "ans": 3,
+      "exp": "Jackson Syndrome — Structures involved : Hypoglossal nucleus (Book p697)"
+    },
+    {
+      "id": "MED-C56-113",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The clinical hallmark added in Jackson syndrome is:",
+      "opts": [
+        "I/L LMN XII CN palsy",
+        "C/L hemiplegia",
+        "No weakness",
+        "Vertical gaze palsy"
+      ],
+      "ans": 0,
+      "exp": "Jackson — I/L LMN XII CN Palsy (Book p697)"
+    },
+    {
+      "id": "MED-C56-114",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "recall",
+      "q": "The etiologies printed in the Avellis-Jackson comparison are:",
+      "opts": [
+        "Infection and haemorrhage",
+        "Infarct and tumours",
+        "Dissection and vasculitis only",
+        "Demyelination only"
+      ],
+      "ans": 1,
+      "exp": "Etiology : Infarct / Tumors (Book p697)"
+    },
+    {
+      "id": "MED-C56-115",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "scenario",
+      "q": "Following a medullary lesion a patient has hoarseness with dysphagia, loss of pain-temperature over the opposite body, but full power in all limbs. Which printed syndrome?",
+      "opts": [
+        "Dejerine syndrome",
+        "Wallenberg syndrome with weakness",
+        "Avellis syndrome",
+        "Jackson syndrome"
+      ],
+      "ans": 2,
+      "exp": "Scenario — I/L X palsy + C/L body pain/temp loss + no weakness → Avellis syndrome (X Nerve, Spinothalamic tract) (Book p697)"
+    },
+    {
+      "id": "MED-C56-116",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "scenario",
+      "q": "The same picture as above but with a wasted, deviated tongue on the same side. Which printed syndrome?",
+      "opts": [
+        "Avellis syndrome",
+        "Benedikt syndrome",
+        "Foville syndrome",
+        "Jackson syndrome"
+      ],
+      "ans": 3,
+      "exp": "Jackson — Hypoglossal nucleus : I/L LMN XII CN Palsy (Book p697)"
+    },
+    {
+      "id": "MED-C56-117",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "page": 697,
+      "fmt": "oddoneout",
+      "q": "Which feature does NOT belong to the printed Avellis syndrome row?",
+      "opts": [
+        "C/L hemiplegia",
+        "I/L LMN X CN palsy",
+        "C/L pain and temperature loss (body)",
+        "No weakness"
+      ],
+      "ans": 0,
+      "exp": "Odd one out — C/L hemiplegia is not in the Avellis row (I/L LMN X CN palsy; C/L Pain and Temperature loss (body); No weakness) (Book p697)"
+    },
+    {
+      "id": "MED-C56-118",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "How many numbered structures are labelled in the dorsal pontine cross-section?",
+      "opts": [
+        "12",
+        "23",
+        "18",
+        "20"
+      ],
+      "ans": 1,
+      "exp": "Pontine ANATOMY — labels 1 to 23 (Book p698)"
+    },
+    {
+      "id": "MED-C56-119",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Structure 4 of the pontine cross-section is:",
+      "opts": [
+        "Cochlear nucleus",
+        "Raphe nucleus",
+        "Abducens nucleus",
+        "Facial nucleus"
+      ],
+      "ans": 2,
+      "exp": "4. Abducens Nucleus (Book p698)"
+    },
+    {
+      "id": "MED-C56-120",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Structure 13 of the pontine cross-section is:",
+      "opts": [
+        "Abducens nucleus",
+        "Medial lemniscus",
+        "Basilar sulcus",
+        "Facial nucleus"
+      ],
+      "ans": 3,
+      "exp": "13. Facial Nucleus (Book p698)"
+    },
+    {
+      "id": "MED-C56-121",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Structure 19 of the pontine cross-section is:",
+      "opts": [
+        "Middle cerebellar peduncle",
+        "Inferior cerebellar peduncle",
+        "Superior cerebellar peduncle",
+        "Pontine nuclei"
+      ],
+      "ans": 0,
+      "exp": "19. Middle Cerebellar Peduncle (Book p698)"
+    },
+    {
+      "id": "MED-C56-122",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Structure 21 of the pontine cross-section is:",
+      "opts": [
+        "Lateral lemniscus",
+        "Corticospinal tract",
+        "Pontocerebellar fibres",
+        "Medial lemniscus"
+      ],
+      "ans": 1,
+      "exp": "21. Corticospinal Tract (Book p698)"
+    },
+    {
+      "id": "MED-C56-123",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Structure 23, the most anterior label, is:",
+      "opts": [
+        "Facial colliculus",
+        "Superior olivary nucleus",
+        "Basilar sulcus of the pons",
+        "Median sulcus of 4th ventricle"
+      ],
+      "ans": 2,
+      "exp": "23. Basilar Sulcus of the Pons (Book p698)"
+    },
+    {
+      "id": "MED-C56-124",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The raphe nucleus occupies which region of the pontine cross-section?",
+      "opts": [
+        "Lateral pons",
+        "Basi pons",
+        "Floor of the fourth ventricle only",
+        "Midline tegmentum"
+      ],
+      "ans": 3,
+      "exp": "18. Raphe Nucleus — midline tegmentum (median sulcus region) (Book p698)"
+    },
+    {
+      "id": "MED-C56-125",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The pontine reticular formation is structure number:",
+      "opts": [
+        "9",
+        "6",
+        "16",
+        "22"
+      ],
+      "ans": 0,
+      "exp": "9. Pontine Reticular Formation (Book p698)"
+    },
+    {
+      "id": "MED-C56-126",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Which printed note accompanies the pontine anatomy?",
+      "opts": [
+        "No aqueduct in the pons",
+        "No tectum in the pons",
+        "No raphe in the medulla",
+        "No MLF in the midbrain"
+      ],
+      "ans": 1,
+      "exp": "Note : No Tectum [in] the Pons (Book p698)"
+    },
+    {
+      "id": "MED-C56-127",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The majority blood supply of the pons is:",
+      "opts": [
+        "PCA",
+        "AICA alone",
+        "Basilar artery",
+        "Vertebral artery"
+      ],
+      "ans": 2,
+      "exp": "Blood Supply : Basilar Artery (majority) (Book p698)"
+    },
+    {
+      "id": "MED-C56-128",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The lateral pons is supplied by:",
+      "opts": [
+        "PICA + vertebral artery",
+        "SCA + basilar artery",
+        "PCA alone",
+        "AICA + Basilar artery"
+      ],
+      "ans": 3,
+      "exp": "Lateral pons : Anterior Inferior Cerebellar Artery (AICA) + Basilar Artery (Book p698)"
+    },
+    {
+      "id": "MED-C56-129",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "page": 698,
+      "fmt": "oddoneout",
+      "q": "Which labelled structure is a sensory brainstem tract rather than a cerebellar peduncle or motor structure?",
+      "opts": [
+        "Lateral lemniscus",
+        "Middle cerebellar peduncle",
+        "Corticospinal tract",
+        "Facial nucleus"
+      ],
+      "ans": 0,
+      "exp": "14. Lateral Lemniscus (with 17. Medial Lemniscus as sensory tracts) (Book p698)"
+    },
+    {
+      "id": "MED-C56-130",
+      "sec": "Pontine Syndromes",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Millard-Gubler syndrome lesions which site?",
+      "opts": [
+        "Midbrain base",
+        "Ventral (basal) pons",
+        "Dorsal tegmentum",
+        "Lateral pons"
+      ],
+      "ans": 1,
+      "exp": "Millard-Gubler Syndrome — Site of Lesion : ventral — Basal Pons (Book p698)"
+    },
+    {
+      "id": "MED-C56-131",
+      "sec": "Pontine Syndromes",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The vascular origin of Millard-Gubler syndrome is:",
+      "opts": [
+        "PCA",
+        "SCA",
+        "Basilar artery",
+        "AICA"
+      ],
+      "ans": 2,
+      "exp": "Millard-Gubler — Vascular Origin : Basilar Artery (Book p698)"
+    },
+    {
+      "id": "MED-C56-132",
+      "sec": "Pontine Syndromes",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The clinical features of Millard-Gubler syndrome are:",
+      "opts": [
+        "I/L sixth nerve palsy + C/L hemiplegia only",
+        "I/L facial palsy + I/L conjugate gaze palsy + C/L hemiplegia",
+        "I/L ataxia + C/L pain loss + C/L hemiplegia",
+        "I/L LMN facial palsy + I/L LMN sixth nerve palsy + C/L hemiplegia"
+      ],
+      "ans": 3,
+      "exp": "Millard-Gubler — I/L LMN Facial Nerve Palsy; I/L LMN Sixth Nerve palsy; C/L Hemiplegia (Book p698)"
+    },
+    {
+      "id": "MED-C56-133",
+      "sec": "Pontine Syndromes",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The letter mnemonic printed for Millard-Gubler syndrome is:",
+      "opts": [
+        "FSH syndrome",
+        "FGH syndrome",
+        "ASH syndrome",
+        "SH syndrome"
+      ],
+      "ans": 0,
+      "exp": "Millard-Gubler Syndrome — FSH (Book p698)"
+    },
+    {
+      "id": "MED-C56-134",
+      "sec": "Pontine Syndromes",
+      "page": 698,
+      "fmt": "recall",
+      "q": "Raymond syndrome is printed as which combination?",
+      "opts": [
+        "I/L ataxia + C/L hemiplegia",
+        "I/L sixth nerve palsy + C/L hemiplegia",
+        "I/L facial palsy + I/L sixth nerve palsy + C/L hemiplegia",
+        "I/L facial palsy + I/L gaze palsy + C/L hemiplegia"
+      ],
+      "ans": 1,
+      "exp": "Raymond Syndrome : I/L Sixth Nerve Palsy + C/L Hemiplegia (Book p698)"
+    },
+    {
+      "id": "MED-C56-135",
+      "sec": "Pontine Syndromes",
+      "page": 698,
+      "fmt": "recall",
+      "q": "The letter mnemonic printed for Raymond syndrome is:",
+      "opts": [
+        "FGH syndrome",
+        "ASH syndrome",
+        "SH syndrome",
+        "FSH syndrome"
+      ],
+      "ans": 2,
+      "exp": "Raymond Syndrome — (SH Syndrome) (Book p698)"
+    },
+    {
+      "id": "MED-C56-136",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "Foville syndrome lesions which site?",
+      "opts": [
+        "Ventral basal pons",
+        "Lateral pons",
+        "Cerebral peduncle",
+        "Dorsal tegmentum"
+      ],
+      "ans": 3,
+      "exp": "Foville Syndrome — Site of Lesion : Dorsal Tegmentum (Book p699)"
+    },
+    {
+      "id": "MED-C56-137",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The vascular origin printed for Foville syndrome is:",
+      "opts": [
+        "Basilar artery",
+        "AICA + basilar",
+        "PCA",
+        "Vertebral artery"
+      ],
+      "ans": 0,
+      "exp": "Foville — Vascular origin : Basilar artery (Book p699)"
+    },
+    {
+      "id": "MED-C56-138",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The clinical features of Foville syndrome are:",
+      "opts": [
+        "Bilateral facial palsy with quadriplegia",
+        "I/L LMN facial palsy + I/L conjugate gaze palsy (PPRF) + C/L hemiplegia",
+        "I/L facial palsy + I/L sixth nerve palsy + C/L hemiplegia",
+        "I/L ataxia + C/L pain loss + C/L hemiplegia"
+      ],
+      "ans": 1,
+      "exp": "Foville — I/L LMN Facial Nerve palsy; I/L Conjugate Gaze Palsy (PPRF); C/L Hemiplegia (Book p699)"
+    },
+    {
+      "id": "MED-C56-139",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The letter mnemonic printed for Foville syndrome is:",
+      "opts": [
+        "SH syndrome",
+        "ASH syndrome",
+        "FGH syndrome",
+        "FSH syndrome"
+      ],
+      "ans": 2,
+      "exp": "Foville Syndrome — FGH (Book p699)"
+    },
+    {
+      "id": "MED-C56-140",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "Marie-Foix syndrome lesions which site?",
+      "opts": [
+        "Dorsal tegmentum",
+        "Ventral basal pons",
+        "Medial medulla",
+        "Lateral pons"
+      ],
+      "ans": 3,
+      "exp": "Marie-Foix Syndrome — Site of Lesion : Lateral pons (Book p699)"
+    },
+    {
+      "id": "MED-C56-141",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The vascular origin of Marie-Foix syndrome is:",
+      "opts": [
+        "AICA + Basilar artery",
+        "Basilar artery alone",
+        "PICA",
+        "SCA"
+      ],
+      "ans": 0,
+      "exp": "Marie-Foix — AICA + Basilar Artery (Book p699)"
+    },
+    {
+      "id": "MED-C56-142",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The ipsilateral ataxia of Marie-Foix syndrome is attributed to:",
+      "opts": [
+        "Dentate nucleus",
+        "Middle cerebellar peduncle",
+        "Inferior cerebellar peduncle",
+        "Red nucleus"
+      ],
+      "ans": 1,
+      "exp": "Marie-Foix — I/L Ataxia (middle cerebellar peduncle) (Book p699)"
+    },
+    {
+      "id": "MED-C56-143",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The clinical features of Marie-Foix syndrome are:",
+      "opts": [
+        "Vertical gaze palsy + C/L ataxia",
+        "Quadriplegia with preserved vertical gaze",
+        "I/L ataxia + C/L pain and temperature loss + C/L hemiplegia",
+        "I/L facial palsy + C/L hemiplegia"
+      ],
+      "ans": 2,
+      "exp": "Marie-Foix — I/L Ataxia (middle cerebellar peduncle); C/L Pain and Temperature (spinothalamic tract); C/L Hemiplegia (Book p699)"
+    },
+    {
+      "id": "MED-C56-144",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The letter mnemonic printed for Marie-Foix syndrome is:",
+      "opts": [
+        "FSH syndrome",
+        "FGH syndrome",
+        "SH syndrome",
+        "ASH syndrome"
+      ],
+      "ans": 3,
+      "exp": "Marie-Foix Syndrome — ASH (Book p699)"
+    },
+    {
+      "id": "MED-C56-145",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The etiology of locked-in syndrome is printed as:",
+      "opts": [
+        "B/L extensive pontine infarction",
+        "Unilateral midbrain infarction",
+        "Bilateral thalamic infarction",
+        "Medullary haemorrhage"
+      ],
+      "ans": 0,
+      "exp": "Locked-in Syndrome — stiology : B/L extensive Pontine infarction (Book p699)"
+    },
+    {
+      "id": "MED-C56-146",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The locked-in patient remains alert because:",
+      "opts": [
+        "The occipital cortex is preserved",
+        "The reticular activating system is normal",
+        "Both frontal lobes are spared",
+        "The thalamus is intact bilaterally"
+      ],
+      "ans": 1,
+      "exp": "Locked-in — Alert (Normal Reticular activating system) (Book p699)"
+    },
+    {
+      "id": "MED-C56-147",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The quadriplegia of locked-in syndrome comes from a lesion of:",
+      "opts": [
+        "Peripheral nerves",
+        "Cerebellar peduncles",
+        "Corticospinal and corticobulbar fibres",
+        "Anterior horn cells"
+      ],
+      "ans": 2,
+      "exp": "quadriplegia : Lesion of Corticospinal and Corticobulbar fibres (Book p699)"
+    },
+    {
+      "id": "MED-C56-148",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "Which eye movements are preserved in locked-in syndrome?",
+      "opts": [
+        "Horizontal eye movements",
+        "All eye movements",
+        "No eye movements at all",
+        "Vertical eye movements (midbrain normal)"
+      ],
+      "ans": 3,
+      "exp": "Vertical eye movements : Present (Normal midbrain) (Book p699)"
+    },
+    {
+      "id": "MED-C56-149",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "Top-of-basilar occlusion is printed to affect which lobe bilaterally?",
+      "opts": [
+        "Medial temporal lobe",
+        "Frontal lobe",
+        "Parietal operculum",
+        "Occipital pole"
+      ],
+      "ans": 0,
+      "exp": "Top of Basilar occlusion — B/L medial Temporal Lobe lesion (Book p699)"
+    },
+    {
+      "id": "MED-C56-150",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The bilateral medial temporal features of top-of-basilar occlusion are:",
+      "opts": [
+        "Alien hand and apraxia",
+        "Behavioural changes, fluctuating alertness, amnesia, visual hallucinations",
+        "Quadriplegia and aphasia",
+        "Cortical blindness and alexia"
+      ],
+      "ans": 1,
+      "exp": "B/L medial Temporal Lobe lesion : Behavioral changes, Fluctuating alertness, Amnesia (Loss of memory), Visual hallucinations (Book p699)"
+    },
+    {
+      "id": "MED-C56-151",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The visual/oculomotor findings in top-of-basilar occlusion are printed as:",
+      "opts": [
+        "Bilateral III nerve palsies",
+        "Opsoclonus",
+        "Absent",
+        "Constant vertical gaze palsy"
+      ],
+      "ans": 2,
+      "exp": "Top of Basilar occlusion — Absent Visual/oculomotor (Book p699)"
+    },
+    {
+      "id": "MED-C56-152",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "recall",
+      "q": "The 5 D's of posterior stroke presentation are:",
+      "opts": [
+        "Diplopia, deafness, drop attacks, dysphagia, dementia",
+        "Dizziness, diplopia, dyspnoea, dysuria, daytime sleep",
+        "Dystonia, dysmetria, diplopia, dysarthria, dysgraphia",
+        "Diplopia, dizziness, dystaxia, dysarthria, dysphagia"
+      ],
+      "ans": 3,
+      "exp": "Note : Presentation of posterior stroke : 5D's — Diplopia, Dizziness, Dystaxia, Dysarthria, Dysphagia (Book p699)"
+    },
+    {
+      "id": "MED-C56-153",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "scenario",
+      "q": "An awake, tetraplegic patient who can only move the eyes vertically after a basilar occlusion has which printed syndrome?",
+      "opts": [
+        "Locked-in syndrome",
+        "Top-of-basilar syndrome",
+        "Fifteen-and-a-half syndrome",
+        "Akinetic mutism"
+      ],
+      "ans": 0,
+      "exp": "Locked-in — B/L extensive pontine infarction; alert (normal RAS); quadriplegia (CST + corticobulbar); vertical eye movements present (normal midbrain) (Book p699)"
+    },
+    {
+      "id": "MED-C56-154",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "scenario",
+      "q": "A patient with a top-of-basilar embolus fluctuates between alertness and confusion, reports vivid visual hallucinations and cannot form new memories. Which printed lesion explains it?",
+      "opts": [
+        "Unilateral frontal eye field infarction",
+        "B/L medial temporal lobe lesion",
+        "Bilateral pontine basis infarction",
+        "Lateral medullary infarction"
+      ],
+      "ans": 1,
+      "exp": "B/L medial Temporal Lobe lesion : Behavioral changes, Fluctuating alertness, Amnesia, Visual hallucinations (Book p699)"
+    },
+    {
+      "id": "MED-C56-155",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "scenario",
+      "q": "A pontine lesion leaves a right facial droop with inability to look right with either eye and left body weakness. Which printed syndrome?",
+      "opts": [
+        "Raymond syndrome",
+        "Marie-Foix syndrome",
+        "Foville syndrome",
+        "Millard-Gubler syndrome"
+      ],
+      "ans": 2,
+      "exp": "Foville — I/L LMN facial palsy + I/L conjugate gaze palsy (PPRF) + C/L hemiplegia (FGH) (Book p699)"
+    },
+    {
+      "id": "MED-C56-156",
+      "sec": "Pontine Syndromes",
+      "page": 699,
+      "fmt": "oddoneout",
+      "q": "Which feature belongs to Marie-Foix but not to Millard-Gubler syndrome as printed?",
+      "opts": [
+        "I/L LMN facial palsy",
+        "I/L sixth nerve palsy",
+        "C/L hemiplegia",
+        "C/L pain and temperature loss"
+      ],
+      "ans": 3,
+      "exp": "Marie-Foix — I/L Ataxia (MCP) + C/L Pain and Temperature + C/L Hemiplegia; Millard-Gubler — I/L LMN VII + I/L LMN VI + C/L Hemiplegia (Book p699)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U56-1",
+      "ch": 56,
+      "n": 1,
+      "title": "1. Brainstem Anatomy and Crossed Hemiplegia",
+      "sec": "Brainstem Anatomy and Crossed Hemiplegia",
+      "guide": "The brainstem runs rostral (midbrain), central (pons) and caudal (medulla) between brain and spinal cord.\nIts hallmark presentation is crossed hemiplegia: ipsilateral LMN cranial nerve palsy plus contralateral hemiplegia, because the corticospinal tract decussates while the cranial nerve nucleus is lesioned ipsilaterally.\nThe note contrasts hallmark presentations at other sites: cortical lesions give aphasia and internal capsule lesions give contralateral UMN 7th nerve palsy.",
+      "qs": [
+        "MED-C56-01",
+        "MED-C56-02",
+        "MED-C56-03",
+        "MED-C56-04",
+        "MED-C56-05",
+        "MED-C56-06",
+        "MED-C56-07",
+        "MED-C56-08",
+        "MED-C56-09"
+      ]
+    },
+    {
+      "id": "MED-U56-2",
+      "ch": 56,
+      "n": 2,
+      "title": "2. Midline 4M and Lateral 4S",
+      "sec": "Midline 4M and Lateral 4S",
+      "guide": "Brainstem structures divide by position: the midline 4M are the motor nuclei of CN 3, 4, 6 and 12, the medial longitudinal fasciculus (lesion → internuclear ophthalmoplegia), the medial lemniscus (posterior column fibres after decussation at the medulla) and the motor tract (corticospinal).\nThe lateral 4S are the spinothalamic tract, spinocerebellar fibres, sympathetic fibres (lesion → Horner's syndrome) and the spinal nucleus of the trigeminal nerve carrying sensory fibres.\nThis medial-lateral map predicts which tracts each brainstem syndrome spares or involves.",
+      "qs": [
+        "MED-C56-10",
+        "MED-C56-11",
+        "MED-C56-12",
+        "MED-C56-13",
+        "MED-C56-14",
+        "MED-C56-15",
+        "MED-C56-16",
+        "MED-C56-17",
+        "MED-C56-18",
+        "MED-C56-19"
+      ]
+    },
+    {
+      "id": "MED-U56-3",
+      "ch": 56,
+      "n": 3,
+      "title": "3. Midbrain Anatomy",
+      "sec": "Midbrain Anatomy",
+      "guide": "The anterior view shows the crus cerebri of the midbrain bounded by the interpeduncular fossa with the oculomotor nerve exiting between the crura, above the pons; posteriorly the tectum carries the superior and inferior colliculi.\nAt the level of the superior colliculus the cross-section shows the cerebral aqueduct, oculomotor nucleus, MLF, red nucleus, substantia nigra, decussation of the rubrospinal tract and lemnisci, with the crus cerebri's middle 3/5th carrying corticospinal and corticonuclear fibres flanked by frontopontine fibres.\nAt the level of the inferior colliculus the trochlear nerve exits — the only cranial nerve to leave the brainstem posteriorly — with the mesencephalic nucleus of V, the decussation of the superior cerebellar peduncles and the temporoparietopontine fibre groups labelled.",
+      "qs": [
+        "MED-C56-20",
+        "MED-C56-21",
+        "MED-C56-22",
+        "MED-C56-23",
+        "MED-C56-24",
+        "MED-C56-25",
+        "MED-C56-26",
+        "MED-C56-27",
+        "MED-C56-28",
+        "MED-C56-29",
+        "MED-C56-30",
+        "MED-C56-31",
+        "MED-C56-32",
+        "MED-C56-33"
+      ]
+    },
+    {
+      "id": "MED-U56-4",
+      "ch": 56,
+      "n": 4,
+      "title": "4. Ventral Midbrain Syndromes",
+      "sec": "Ventral Midbrain Syndromes",
+      "guide": "Ventral midbrain syndromes share a vascular origin from the P1 segment of the posterior cerebral artery.\nWeber's syndrome lesions the base of the midbrain (cerebral peduncle): CN-3 fibres plus corticospinal tract, giving ipsilateral 3rd nerve palsy with contralateral hemiplegia.\nClaude's syndrome lesions the tegmentum: CN-3 fibres plus the red nucleus/superior cerebellar peduncle (dentato-rubro-thalamic fibres), giving ipsilateral 3rd nerve palsy with contralateral ataxia and tremor; Benedikt's syndrome combines both — extensive tegmentum plus base — adding the substantia nigra (nigrostriatal pathway) for contralateral hemichorea and hemiathetosis, printed as Weber + Claude.",
+      "qs": [
+        "MED-C56-34",
+        "MED-C56-35",
+        "MED-C56-36",
+        "MED-C56-37",
+        "MED-C56-38",
+        "MED-C56-39",
+        "MED-C56-40",
+        "MED-C56-41",
+        "MED-C56-42",
+        "MED-C56-43",
+        "MED-C56-44",
+        "MED-C56-45",
+        "MED-C56-46"
+      ]
+    },
+    {
+      "id": "MED-U56-5",
+      "ch": 56,
+      "n": 5,
+      "title": "5. Dorsal Midbrain Syndromes",
+      "sec": "Dorsal Midbrain Syndromes",
+      "guide": "Dorsal midbrain (Parinaud's) syndrome is most commonly caused by pinealomas, lesioning the dorsum of midbrain — pretectal nucleus, periaqueductal grey matter and CN-3 fibres.\nIts features are vertical gaze palsy (upgaze), sunsetting sign (looking down), Argyll Robertson pupil (accommodation present, light reflex absent), Collier's sign (levator palpebrae superioris overshoot → lid retraction), pseudo abducent pupil (printed as such), convergence-retraction nystagmus (overactive convergence centre) and skew deviation.\nNothnagel's syndrome is the anterior version of Parinaud's (CN-3 fibres plus superior cerebellar peduncle close to the red nucleus), the cerebellar peduncles connect superior→midbrain, middle→pons, inferior→medulla, and a note separates Parinaud's oculoglandular syndrome of tularemia (Francisella tularensis).",
+      "qs": [
+        "MED-C56-47",
+        "MED-C56-48",
+        "MED-C56-49",
+        "MED-C56-50",
+        "MED-C56-51",
+        "MED-C56-52",
+        "MED-C56-53",
+        "MED-C56-54",
+        "MED-C56-55",
+        "MED-C56-56",
+        "MED-C56-57",
+        "MED-C56-58",
+        "MED-C56-59",
+        "MED-C56-60",
+        "MED-C56-61",
+        "MED-C56-62",
+        "MED-C56-63",
+        "MED-C56-64"
+      ]
+    },
+    {
+      "id": "MED-U56-6",
+      "ch": 56,
+      "n": 6,
+      "title": "6. Lateral Medullary (Wallenberg) Syndrome",
+      "sec": "Lateral Medullary Syndrome Features",
+      "guide": "Lateral medullary syndrome (Wallenberg's/PICA syndrome) arises from the V4 segment of the vertebral artery and PICA, usually by large vessel thrombosis or artery-to-artery infarction, with cardiac embolism printed as rare.\nHigher mental functions and the motor system are normal; cranial nerves 1, 2, 3, 4, 6 and 12 are spared while the spinal nucleus of V gives hemifacial sensory loss, the vestibular nuclei give vertigo/ataxia/nystagmus, the NTS of VII impairs anterior 2/3rd taste, the nucleus ambiguus (IX, X) gives dysphagia with nasal regurgitation, the dorsal vagal nucleus gives autonomic symptoms and the cervical sympathetic chain gives ipsilateral Horner's.\nSensory findings are contralateral pain and temperature loss with posterior column sparing, and spinocerebellar fibres give ipsilateral cerebellar ataxia.",
+      "qs": [
+        "MED-C56-65",
+        "MED-C56-66",
+        "MED-C56-67",
+        "MED-C56-68",
+        "MED-C56-69",
+        "MED-C56-70",
+        "MED-C56-71",
+        "MED-C56-72",
+        "MED-C56-73",
+        "MED-C56-74",
+        "MED-C56-75",
+        "MED-C56-76",
+        "MED-C56-77",
+        "MED-C56-78",
+        "MED-C56-79",
+        "MED-C56-80",
+        "MED-C56-81",
+        "MED-C56-82"
+      ]
+    },
+    {
+      "id": "MED-U56-7",
+      "ch": 56,
+      "n": 7,
+      "title": "7. Horner Syndrome Localisation",
+      "sec": "Horner Syndrome Localisation",
+      "guide": "The Horner's diagram on this page localises the lesion along the three-neuron ophthalmosympathetic pathway.\nA central (first-order) lesion gives central Horner syndrome, the printed example being Wallenberg syndrome; a preganglionic (second-order, C8-T1 to superior cervical ganglion) lesion's example is a Pancoast tumour; a postganglionic lesion travelling with the carotid artery gives carotid artery dissection, in which anhidrosis is absent because the sudomotor fibres leave with the external carotid.",
+      "qs": [
+        "MED-C56-83",
+        "MED-C56-84",
+        "MED-C56-85",
+        "MED-C56-86",
+        "MED-C56-87",
+        "MED-C56-88"
+      ]
+    },
+    {
+      "id": "MED-U56-8",
+      "ch": 56,
+      "n": 8,
+      "title": "8. Medial Medullary Syndrome and Horizontal Gaze",
+      "sec": "Medial Medullary Syndrome and Gaze Pathways",
+      "guide": "Medial medullary (Dejerine) syndrome involves the XII nerve nucleus (ipsilateral 12th palsy with paralysis and atrophy of one half of the tongue), the corticospinal tract (contralateral hemiplegia), the MLF (ipsilateral internuclear ophthalmoplegia) and the medial lemniscus (contralateral posterior column loss — touch and proprioception).\nThe horizontal gaze pathway runs from the frontal eye field to the contralateral PPRF and the VI nerve nucleus, whose internuclear fibres cross via the MLF to the opposite medial rectus subnucleus.\nMLF lesion alone gives INO (ipsilateral adduction weakness with contralateral abduction nystagmus); MLF plus PPRF gives one-and-a-half syndrome; adding a VII palsy gives eight-and-a-half; bilateral VII palsy with one-and-a-half gives fifteen-and-a-half.",
+      "qs": [
+        "MED-C56-89",
+        "MED-C56-90",
+        "MED-C56-91",
+        "MED-C56-92",
+        "MED-C56-93",
+        "MED-C56-94",
+        "MED-C56-95",
+        "MED-C56-96",
+        "MED-C56-97",
+        "MED-C56-98",
+        "MED-C56-99",
+        "MED-C56-100",
+        "MED-C56-101",
+        "MED-C56-102",
+        "MED-C56-103",
+        "MED-C56-104"
+      ]
+    },
+    {
+      "id": "MED-U56-9",
+      "ch": 56,
+      "n": 9,
+      "title": "9. Cruciate Paralysis and the Avellis-Jackson Table",
+      "sec": "Cruciate Paralysis and Medullary Comparisons",
+      "guide": "Cruciate paralysis results from early decussation of upper limb fibres at the pyramidal decussation, presenting either as brachial diplegia (both arms weak with legs spared) or weakness of one arm and the opposite leg.\nThe note restates crossed hemiplegia as I/L LMN CN palsy plus C/L hemiplegia.\nThe Avellis versus Jackson table compares two medullary syndromes: both sit in the tegmentum of medulla; Avellis involves the X nerve and spinothalamic tract giving ipsilateral LMN X palsy with contralateral body pain-temperature loss and no weakness, while Jackson adds the hypoglossal nucleus for ipsilateral LMN XII palsy.",
+      "qs": [
+        "MED-C56-105",
+        "MED-C56-106",
+        "MED-C56-107",
+        "MED-C56-108",
+        "MED-C56-109",
+        "MED-C56-110",
+        "MED-C56-111",
+        "MED-C56-112",
+        "MED-C56-113",
+        "MED-C56-114",
+        "MED-C56-115",
+        "MED-C56-116",
+        "MED-C56-117"
+      ]
+    },
+    {
+      "id": "MED-U56-10",
+      "ch": 56,
+      "n": 10,
+      "title": "10. Pontine Anatomy and Blood Supply",
+      "sec": "Pontine Anatomy and Blood Supply",
+      "guide": "The dorsal pons cross-section labels 23 structures from the floor of the fourth ventricle down: cochlear and vestibular nuclei, abducens nucleus, nucleus prepositus hypoglossi and MLF on the median sulcus; raphe and pontine reticular formation in the tegmentum; spinal nucleus of V with its root, facial nucleus, lateral and superior olivary nuclei, lemnisci and central tegmental tract laterally; then the middle cerebellar peduncle, pontocerebellar fibres, corticospinal tract, pontine nuclei and basilar sulcus at the basis.\nThe printed note is that the pons has no tectum.\nBlood supply is basilar artery for the majority, with lateral pons supplied by AICA plus basilar.",
+      "qs": [
+        "MED-C56-118",
+        "MED-C56-119",
+        "MED-C56-120",
+        "MED-C56-121",
+        "MED-C56-122",
+        "MED-C56-123",
+        "MED-C56-124",
+        "MED-C56-125",
+        "MED-C56-126",
+        "MED-C56-127",
+        "MED-C56-128",
+        "MED-C56-129"
+      ]
+    },
+    {
+      "id": "MED-U56-11",
+      "ch": 56,
+      "n": 11,
+      "title": "11. Pontine Syndromes",
+      "sec": "Pontine Syndromes",
+      "guide": "The pontine syndrome table lists site, vascular origin and clinical features.\nMillard-Gubler syndrome (ventral, basal pons, basilar artery) is ipsilateral LMN facial and sixth nerve palsies with contralateral hemiplegia — the FSH syndrome; Raymond syndrome is ipsilateral sixth nerve palsy with contralateral hemiplegia, printed as the SH syndrome.\nFoville syndrome (dorsal tegmentum, basilar artery) adds ipsilateral conjugate gaze palsy (PPRF) to the Millard-Gubler picture — the FGH syndrome; Marie-Foix syndrome (lateral pons, AICA plus basilar) is ipsilateral ataxia (middle cerebellar peduncle), contralateral pain-temperature loss and contralateral hemiplegia — the ASH syndrome.\nLocked-in syndrome follows bilateral extensive pontine infarction with an alert patient (reticular activating system normal), quadriplegia from corticospinal and corticobulbar lesions, and preserved vertical eye movements; top-of-basilar occlusion gives absent visual/oculomotor findings with bilateral medial temporal lobe features — behavioural change, fluctuating alertness, amnesia and visual hallucinations. Posterior stroke presents with the 5 D's: diplopia, dizziness, dystaxia, dysarthria and dysphagia.",
+      "qs": [
+        "MED-C56-130",
+        "MED-C56-131",
+        "MED-C56-132",
+        "MED-C56-133",
+        "MED-C56-134",
+        "MED-C56-135",
+        "MED-C56-136",
+        "MED-C56-137",
+        "MED-C56-138",
+        "MED-C56-139",
+        "MED-C56-140",
+        "MED-C56-141",
+        "MED-C56-142",
+        "MED-C56-143",
+        "MED-C56-144",
+        "MED-C56-145",
+        "MED-C56-146",
+        "MED-C56-147",
+        "MED-C56-148",
+        "MED-C56-149",
+        "MED-C56-150",
+        "MED-C56-151",
+        "MED-C56-152",
+        "MED-C56-153",
+        "MED-C56-154",
+        "MED-C56-155",
+        "MED-C56-156"
+      ]
+    }
+  ]
+}

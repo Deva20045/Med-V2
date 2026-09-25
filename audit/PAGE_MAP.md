@@ -342,8 +342,23 @@ Chapter spans: Ch42 p618–623 = 03.pdf PDF54–59 · Ch43 p624–626 = 03.pdf P
 | 58 | 683 | Verified (corticobulbar note, UMN vs LMN facial diagrams, motor homunculus) |
 | 59 | 684 | Verified (pyramidal tract pathway percentages, capsule segment, midbrain section, descent and cord distribution) |
 | 60 | 685 | Verified (pyramidal pattern of weakness, spasticity vs rigidity table, root-value note; Ch54 end) |
-| 61 | 686 | Verified (Ch55 "APPROACH TO STROKE" title page — chapter remains Soon) |
-| 62–76 | 687–701 | Not read in this session (Ch55 continues to Ch57; `uploads/05.pdf` sheet 1 is the closing page) |
+| 61 | 686 | Verified (Ch55 "APPROACH TO STROKE" title page — stroke/TIA definitions, DWI rule, ABCD² score + risk table, DAPT notes) |
+| 62 | 687 | Verified (causes flowchart Arterial/venous, CVT, ischaemic 85% / haemorrhagic 15%, subtypes, thrombotic-vs-embolic table, CT imaging) |
+| 63 | 688 | Verified (non-atherosclerotic causes, moya-moya, ischaemic cascade, Day 1–24 timeline, treatment goals, MRI > CT, early CT findings 1–3) |
+| 64 | 689 | Verified (white-matter-lesion conditions incl. CADASIL, lacunar stroke etiology/types table, SVD MRI markers with modalities) |
+| 65 | 690 | Verified (ataxic hemiparesis = dysarthria-clumsy-hand, CPC/CS/DRTC pathways, Friedreich's note) |
+| 66 | 691 | Verified (Ch56 "BRAINSTEM STROKE" title page — brainstem parts, crossed hemiplegia, midline 4M / lateral 4S) |
+| 67 | 692 | Verified (midbrain anterior/posterior views, superior-colliculus cross-section, crus cerebri fifths) |
+| 68 | 693 | Verified (inferior-colliculus section, ventral midbrain syndromes P1 PCA — Weber/Claude/Benedikt) |
+| 69 | 694 | Verified (dorsal midbrain/Parinaud features, Nothnagel, peduncle rule, tularemia note, LMS = Wallenberg/PICA, V4 origin) |
+| 70 | 695 | Verified (LMS pathogenesis, clinical features 1–5, CN nucleus table, Horner's localisation diagram) |
+| 71 | 696 | Verified (medial medullary/Dejerine table, horizontal gaze pathway, INO / one-and-a-half / eight-and-a-half / fifteen-and-a-half) |
+| 72 | 697 | Verified (cruciate paralysis presentations, crossed-hemiplegia note, Avellis vs Jackson table) |
+| 73 | 698 | Verified (dorsal pons anatomy labels 1–23, no-tectum note, blood supply, Millard-Gubler FSH, Raymond SH) |
+| 74 | 699 | Verified (page number prints "669" — confirmed p699 by content; Foville FGH, Marie-Foix ASH, locked-in, top-of-basilar, 5 D's) |
+| 75 | 700 | Verified (Ch57 "MANAGEMENT OF STROKE" title page — goals, CT protocol table, steps 1–4, contraindications) |
+| 76 | 701 | Verified (step 5 CT, MRI protocol for wake-up stroke, DWI-FLAIR mismatch, perfusion imaging thresholds) |
+| 05.pdf 1 | 702 | Verified (after-24-hours management: anticoagulation, antiplatelet, endarterectomy vs stenting, LDL target; book end) |
 
 `uploads/04.pdf` PDF1–20 carry Book p626–645 (Ch43 close through Ch47); PDF21–34 carry Book p646–659 (Ch48–50) with **no missing printed page** (14 sheets, 14 pages; PDF27 landscape); PDF35–60 carry Book p660–685 (Ch51–54) with **no missing printed page** (26 sheets, 26 pages, all upright portrait). PDF61 = p686 is the Chapter 55 title page.
 
@@ -358,3 +373,24 @@ Chapter spans: Ch48 p646–649 = 04.pdf PDF21–24 · Ch49 p650–652 = 04.pdf P
 Verified at 3× zoom in `.audit-render/r04_35_3x.png` … `r04_60_3x.png`, with 6× crops used to settle the p664 conus/cauda Involvement cells (`.audit-render/v0439_100_200_6x.png`), the p674 mnemonic line (`.audit-render/v0449_290_400_6x.png`) and the p677 handwritten M2 segment heading (`.audit-render/v0452_700_800_6x.png`). Printed page numbers were read on every sheet: PDF35 prints 660 and PDF60 prints 685, consecutively, so **no sheet is missing and no printed page is skipped**.
 
 Chapter spans: Ch51 p660–667 = 04.pdf PDF35–42 · Ch52 p668–673 = PDF43–48 · Ch53 p674–680 = PDF49–55 · Ch54 p681–685 = PDF56–60. Ch55 (Approach to Stroke) begins at p686 = PDF61, verified from its title-page crop `.audit-render/num_61.png`; the remaining roadmap therefore runs PDF61–76 (p686–701) plus the single sheet of `uploads/05.pdf` (p702).
+
+## uploads/04.pdf PDF61–76 and uploads/05.pdf — Chapter 55–57 source-map
+
+Vision was unavailable in this session, so the pages were read line-to-line from
+RapidOCR transcripts of the 3× renders (`.audit-render/r04_61_3x.png` …
+`r04_76_3x.png`, plus `uploads/05.pdf` sheet 1 at 4×), with 8×–100× crops and
+contrast-boosted glyph re-reads used to settle every uncertain number, label and
+table cell. **No claim rests on visual confirmation of the scans.** The full
+decode log, systematic OCR digit key and every resolved ambiguity are recorded
+in `audit/READ_NOTES_55_57.md`.
+
+Printed page numbers were OCR-confirmed on every sheet: 04.pdf PDF61 prints 686
+through PDF76 printing 701 (PDF74's folio OCRs as "669" — a printed quirk; the
+sheet's content is the p699 pontine-syndrome table, following PDF73's p698
+content), and `uploads/05.pdf` sheet 1 prints 702. Consecutively, **no sheet is
+missing and no printed page is skipped**; p702 closes the book (Ch57 ends
+mid-page with the LDL target line).
+
+Chapter spans: Ch55 p686–690 = 04.pdf PDF61–65 · Ch56 p691–699 = PDF66–74 ·
+Ch57 p700–702 = PDF75–76 + 05.pdf sheet 1. This completes the roadmap: all 57
+chapters (Book p377–702) are now authored and audited.
