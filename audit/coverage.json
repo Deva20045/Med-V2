@@ -14824,5 +14824,1529 @@
     "page": 645,
     "point": "Anderson-Tawil: dysmorphic facies + arrhythmias; rest row printed as -",
     "question": "MED-C47-65"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "Pathophysiology: Neuromuscular junction (NMJ) disorder",
+    "question": "MED-C48-01"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "Definition: Autoantibody (B-cell) + T-cell mediated attack on acetylcholine-receptors (AChR) on post synaptic membrane",
+    "question": "MED-C48-02"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "NMJ figure: Acetate and Choline with ChAT at the terminal",
+    "question": "MED-C48-03"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "NMJ figure callout: V/Q Ca++ channel",
+    "question": "MED-C48-04"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "NMJ figure: AChE in the cleft",
+    "question": "MED-C48-05"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "NMJ figure: Agrin labelled next to Active zone",
+    "question": "MED-C48-06"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "NMJ figure labels: Voltage gated K+ channel; Voltage gated Ca+ channel; Voltage gated Na+ channels",
+    "question": "MED-C48-07"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "Flow: Ach released from vesicle → Binds to AChR on postsynaptic membrane → Causes influx of sodium → Muscle contractions",
+    "question": "MED-C48-08"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "m/c presentation : Ocular symptoms",
+    "question": "MED-C48-09"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "No progression of disease (15-20%)",
+    "question": "MED-C48-10"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "No progression → Ocular myasthenia (Good prognosis)",
+    "question": "MED-C48-11"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "Disease progresses (maximum within first 2-3 years)",
+    "question": "MED-C48-12"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "Progression: Pharyngeal muscles → Proximal muscles → Respiratory muscles",
+    "question": "MED-C48-13"
+  },
+  {
+    "chapter": 48,
+    "page": 646,
+    "point": "most crucial period in the disease : First 1 yr after ocular symptoms",
+    "question": "MED-C48-14"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Demographics : Bimodal peaking",
+    "question": "MED-C48-15"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "First peak: 20-40 yr",
+    "question": "MED-C48-16"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "First peak: Females >>> males",
+    "question": "MED-C48-17"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Second peak: >60 years",
+    "question": "MED-C48-18"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Second peak: males > Females",
+    "question": "MED-C48-19"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-acetylcholine receptor (AChR) antibody : Specific",
+    "question": "MED-C48-20"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "AChR antibody: 85% cases of generalized MG",
+    "question": "MED-C48-21"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "AChR antibody: 50% of ocular myasthenia",
+    "question": "MED-C48-22"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibody: 10-20% of generalized MG",
+    "question": "MED-C48-23"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK: 40-50% of anti-AChR Ab (-) MG",
+    "question": "MED-C48-24"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-LRP4: In double negative population (Both anti-MuSK & anti-AChR Ab (-) MG)",
+    "question": "MED-C48-25"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibodies: Absent in ocular myasthenia",
+    "question": "MED-C48-26"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibodies: Females >>> males",
+    "question": "MED-C48-27"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibodies: Neck extensor weakness (Neck drop)",
+    "question": "MED-C48-28"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibodies: Tongue fasciculations (+)",
+    "question": "MED-C48-29"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibodies: No thymus involvement",
+    "question": "MED-C48-30"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Anti-MuSK antibodies: Drug (Pyridostigmine) refractory",
+    "question": "MED-C48-31"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Thymus: In 80% seropositive cases",
+    "question": "MED-C48-32"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "In 80% seropositive cases: 70% thymic hyperplasia; 10% thymoma",
+    "question": "MED-C48-33"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Thymectomy in adult onset generalised MG : very good prognosis",
+    "question": "MED-C48-34"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Clinical Features: Pure motor syndrome",
+    "question": "MED-C48-35"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Clinical Features: Diurnal variation",
+    "question": "MED-C48-36"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Fluctuating weakness of UL proximal muscles with repetitive movements",
+    "question": "MED-C48-37"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Early onset (Classical) MG: 65% of MG cases",
+    "question": "MED-C48-38"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Early onset (Classical) MG: Females >>> males; 20-40 years",
+    "question": "MED-C48-39"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Early onset (Classical) MG: Antibodies (++++); Thymic hyperplasia (+)",
+    "question": "MED-C48-40"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Early onset (Classical) MG: HLA-DR3, B8, DR9",
+    "question": "MED-C48-41"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "Note: FSHD : Symmetrical ptosis (CPEO, not FSHD, is ptosis + ophthalmoplegia in mitochondrial myopathy)",
+    "question": "MED-C48-42"
+  },
+  {
+    "chapter": 48,
+    "page": 647,
+    "point": "CPEO : Ptosis + ophthalmoplegia; Chronic progressive external ophthalmoplegia; In mitochondrial myopathy",
+    "question": "MED-C48-43"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Presenting features: Ocular symptoms : m/c",
+    "question": "MED-C48-44"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Ocular: Asymmetrical ptosis + diplopia + ophthalmoplegia",
+    "question": "MED-C48-45"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Ocular: Binocular diplopia",
+    "question": "MED-C48-46"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Ocular: Pupils spared",
+    "question": "MED-C48-47"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Muscle with maximal involvement : medial rectus (MR)",
+    "question": "MED-C48-48"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Limb weakness : 10% cases",
+    "question": "MED-C48-49"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Fatigue while chewing (D/t masseter muscle involvement) : Specific for MG",
+    "question": "MED-C48-50"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Bulbopharyngeal involvement: Dysarthria; Dysphagia",
+    "question": "MED-C48-51"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Expressionless facies; Drooped posture",
+    "question": "MED-C48-52"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Peek sign : Eyelid closure weakness",
+    "question": "MED-C48-53"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Curtain sign : On trying to open ptotic eye → Opposite eyelid droops",
+    "question": "MED-C48-54"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Cogan's lid twitch : On trying to look up after a sustained down gaze → Eyelid overshoots",
+    "question": "MED-C48-55"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Sustained upgaze (Repeated activity) → Ptosis develops",
+    "question": "MED-C48-56"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Unable to count digits 1-10 quickly",
+    "question": "MED-C48-57"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "1. Ice pack test → Cold temperature (Improves conduction)",
+    "question": "MED-C48-58"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "2. Edrophonium test → 2 mg Edrophonium IV (Cholinesterase inhibitor)",
+    "question": "MED-C48-59"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "3. Neostigmine test → Neostigmine 1 mg IM",
+    "question": "MED-C48-60"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "All three tests arrow to: Symptoms improve",
+    "question": "MED-C48-61"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "4. AChR antibody : most specific test",
+    "question": "MED-C48-62"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "5. Single nerve fibre electromyography (↑ jitteriness) : most sensitive test",
+    "question": "MED-C48-63"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Baseline CMAP: MG Normal; LEMS Reduced",
+    "question": "MED-C48-64"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "Low frequency (3 Hz) RNS: MG Decremental; LEMS Variable",
+    "question": "MED-C48-65"
+  },
+  {
+    "chapter": 48,
+    "page": 648,
+    "point": "High frequency RNS: MG Incremental; LEMS >100% incremental",
+    "question": "MED-C48-66"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "LEMS: Antibodies against V/Q Ca2+ channel on pre-synaptic membrane",
+    "question": "MED-C48-67"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Paraneoplastic : Associated with small cell lung cancer",
+    "question": "MED-C48-68"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Involvement of Proximal lower limbs (+)",
+    "question": "MED-C48-69"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "LEMS: ANS (+++); Ocular : mild",
+    "question": "MED-C48-70"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Improves with 3,4 di-aminopyramidine",
+    "question": "MED-C48-71"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Note: Anti-Hu antibody : Ganglionopathy",
+    "question": "MED-C48-72"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Note: Anti-MA2, anti-CRPM5 : Viral encephalitis",
+    "question": "MED-C48-73"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Drugs that exacerbate MG include aminoglycosides, quinolones, macrolides, magnesium (antacids), d-penicillamine, azathioprine and propranolol; pyridostigmine is treatment, not an exacerbating drug",
+    "question": "MED-C48-74"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Drugs that exacerbate MG: d-Penicillamine; Propranolol",
+    "question": "MED-C48-75"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Drugs that exacerbate MG: magnesium (Antacids)",
+    "question": "MED-C48-76"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "First attack : Cholinesterase inhibitors (Pyridostigmine 30-60 mg every 6th hourly)",
+    "question": "MED-C48-77"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "From second attack: Initial Rx : Pyridostigmine; maintenance Rx : Steroids ± azathioprine",
+    "question": "MED-C48-78"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "IVIg + plasma exchange indications: myasthenic crisis; Life-threatening MG; Severe bulbar dysfunction; Refractory MG; Planned for surgery",
+    "question": "MED-C48-79"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Cholinergic crisis : D/t overdose of cholinesterase inhibitors",
+    "question": "MED-C48-80"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "Symptoms : DUMBELLS",
+    "question": "MED-C48-81"
+  },
+  {
+    "chapter": 48,
+    "page": 649,
+    "point": "DUMBELLS: Diarrhea; Urination; Miosis; Bradycardia; Emesis; Lacrimation; Lethargy; Salivation",
+    "question": "MED-C48-82"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "Pathology : α / γ motor neurons at ventral horn : Anterior horn cell disease",
+    "question": "MED-C49-01"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "Pure UMN: Primary lateral sclerosis",
+    "question": "MED-C49-02"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "UMN + LMN: Amyotrophic lateral sclerosis",
+    "question": "MED-C49-03"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "ALS: 90% sporadic; 10% genetic",
+    "question": "MED-C49-04"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "10% genetic (copper-zinc super oxide dismutase defect)",
+    "question": "MED-C49-05"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "Pure LMN: SMA; X-linked Kennedy disease; Multifocal motor neuropathy with paraproteinemia",
+    "question": "MED-C49-06"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "Etiology: Age : > 50 years",
+    "question": "MED-C49-07"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "M > F; Survival : maximum 3 years since onset",
+    "question": "MED-C49-08"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "LMN degeneration: Anterior horn cell (AHC); Brainstem nuclei (medulla : 9, 10, 11, 12 cranial nerves)",
+    "question": "MED-C49-09"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "UMN degeneration printed: Corticospinal tract (CST); Corticospinal tract (CBT)",
+    "question": "MED-C49-10"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "CLINICAL FEATURES: Cognition is intact : Higher mental functions, ANS, sensory system are spared",
+    "question": "MED-C49-11"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "AHC : 1st structure to degenerate",
+    "question": "MED-C49-12"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "CST : Brisk reflexes; Loss of dexterity/tone",
+    "question": "MED-C49-13"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "Presentations: Distal asymmetric upper limb (UL) predominant atrophy/wasting : Classically forearm/hand",
+    "question": "MED-C49-14"
+  },
+  {
+    "chapter": 49,
+    "page": 650,
+    "point": "Fasciculations & cramps",
+    "question": "MED-C49-15"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Incidence: Bulbar palsy 40% pts; Pseudobulbar palsy 25%",
+    "question": "MED-C49-16"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Involvement: 9, 10, 11, 12 cranial nerve vs Fibres to 9, 10, 11, 12",
+    "question": "MED-C49-17"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Lesion: LMN vs UMN",
+    "question": "MED-C49-18"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Bulbar general C/F: Nasal twang regurgitation",
+    "question": "MED-C49-19"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Pseudobulbar general: Dysphonic (Laryngeal involvement > nasal), Aspiration risk, jaw jerk : Brisk, emotional incontinence",
+    "question": "MED-C49-20"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Tongue: Flaccid with fasciculations vs Small spastic tongue",
+    "question": "MED-C49-21"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Speech: Bulbar dysarthria progresses → dysphagia",
+    "question": "MED-C49-22"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Gag reflex: Absent vs Exaggerated",
+    "question": "MED-C49-23"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Caption: ALS patient with distal UL & LL atrophy",
+    "question": "MED-C49-24"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Caption: Tongue atrophy in ALS",
+    "question": "MED-C49-25"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Caption: Thenar > Hypothenar atrophy",
+    "question": "MED-C49-26"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Needle EMG : polyphasic fasciculations & fibrillations",
+    "question": "MED-C49-27"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "MRI : B / L symmetrical high intensities",
+    "question": "MED-C49-28"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "TREATMENT: No effective drugs",
+    "question": "MED-C49-29"
+  },
+  {
+    "chapter": 49,
+    "page": 651,
+    "point": "Riluzole & Edaravone maybe tried",
+    "question": "MED-C49-30"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "X-LINKED SMA: AKA Kennedy's disease",
+    "question": "MED-C49-31"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "X-LINKED SMA: Pure LMN",
+    "question": "MED-C49-32"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "X-LINKED SMA: Trinucleotide repeat disease",
+    "question": "MED-C49-33"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Presentation: Associated androgen insensitivity",
+    "question": "MED-C49-34"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Spinobulbar involvement: Tremor + fasciculations; Proximal wasting = pseudohypertrophy of calf muscles",
+    "question": "MED-C49-35"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Spinobulbar involvement: Tongue wasting + perioral fasciculation",
+    "question": "MED-C49-36"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "BMA: AKA Hirayama's disease",
+    "question": "MED-C49-37"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Presentation: Young male (<20 yrs)",
+    "question": "MED-C49-38"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Asymmetrical weakness + wasting (of UL extremity)",
+    "question": "MED-C49-39"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Non-progressive",
+    "question": "MED-C49-40"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "MRI: Impingement of dura (d/t tight dural canal tearing in flexion/growth discrepancy b/w spinal canal & dura)",
+    "question": "MED-C49-41"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "MRI : BMA callout: Atrophy/thinning of C8 - T1",
+    "question": "MED-C49-42"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Madras MND: Bilfacial weakness + ocular involvement + sensorineural hearing loss (SNHL) + asymmetrical atrophy of limbs",
+    "question": "MED-C49-43"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Madras MND: Variant of MND",
+    "question": "MED-C49-44"
+  },
+  {
+    "chapter": 49,
+    "page": 652,
+    "point": "Caption under photos C/D: Finding of Madras MND",
+    "question": "MED-C49-45"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Function : motor output to and sensory output from trunk and limbs",
+    "question": "MED-C50-01"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Length : 45cm",
+    "question": "MED-C50-02"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Extent : Continuation of medulla",
+    "question": "MED-C50-03"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Upper limit : Upper border of atlas (C1)",
+    "question": "MED-C50-04"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Adult : Junction between L1 and L2",
+    "question": "MED-C50-05"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Children : Junction between L3-L4",
+    "question": "MED-C50-06"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Piamater : Tip of coccyx",
+    "question": "MED-C50-07"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Dura and Arachnoid mater : S2",
+    "question": "MED-C50-08"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Neural tube : 4th week of embryonic life",
+    "question": "MED-C50-09"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Caudal part (Tubular) → Spinal cord",
+    "question": "MED-C50-10"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Note: Spinal canal : 70 cm",
+    "question": "MED-C50-11"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Total vertebrae : 33 (C7, T12, L5, S5, C4)",
+    "question": "MED-C50-12"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Spinal nerve root : Dorsal + Ventral nerve root",
+    "question": "MED-C50-13"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Levels : 31 segments (C8, T12, L5, S5, C1)",
+    "question": "MED-C50-14"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Upper cervical | Same",
+    "question": "MED-C50-15"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Lower cervical | +1",
+    "question": "MED-C50-16"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "T1-T6 | +2",
+    "question": "MED-C50-17"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "T7-T9 | +3",
+    "question": "MED-C50-18"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "T10 | L1, L2",
+    "question": "MED-C50-19"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "T11 | L3, L4",
+    "question": "MED-C50-20"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "T12 | Epiconus; L1 | Conus",
+    "question": "MED-C50-21"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Conus medullaris (spinal cord termination)",
+    "question": "MED-C50-22"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Internal terminal filum (pial aspect); External terminal filum (dural aspect)",
+    "question": "MED-C50-23"
+  },
+  {
+    "chapter": 50,
+    "page": 653,
+    "point": "Figure label: Cauda equina",
+    "question": "MED-C50-24"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Conus medullaris : Terminal portion of Spinal cord",
+    "question": "MED-C50-25"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Cervical enlargement (C3-T2)",
+    "question": "MED-C50-26"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "1. Lumbar Enlargement | L2, L3",
+    "question": "MED-C50-27"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "2. Epiconus | L4, L5, S1, S2",
+    "question": "MED-C50-28"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "3. Conus | S3, S4, S5, C0",
+    "question": "MED-C50-29"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Filum terminale : Extension of Pia mater to tip of coccyx",
+    "question": "MED-C50-30"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Filum terminale: Length : 20 cm",
+    "question": "MED-C50-31"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Symmetry: B/L Symmetric vs Asymmetric radiculopathy",
+    "question": "MED-C50-32"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Roots involved: S3, S4, S5, C1 vs L2-L5, S1-S5, C1",
+    "question": "MED-C50-33"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Motor weakness: Absent (Not involved in motor supply)",
+    "question": "MED-C50-34"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Cauda Equina Syndrome motor weakness: Present",
+    "question": "MED-C50-35"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Sensory: B/L Saddle anaesthesia vs Variable loss",
+    "question": "MED-C50-36"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Urinary symptoms (micturition Center : S3, S4)",
+    "question": "MED-C50-37"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Conus urinary: Dribbling of urine; Urinary incontinence",
+    "question": "MED-C50-38"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Cauda urinary: Present only in extensive disease",
+    "question": "MED-C50-39"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Conus reflexes: Bulbocavernosus reflex : Absent; Anal reflex : Absent (Patulous anal canal)",
+    "question": "MED-C50-40"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Pathology: Tumour vs Disc abnormality",
+    "question": "MED-C50-41"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "Onset: Insidious/acute (malignancy) vs Insidious",
+    "question": "MED-C50-42"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "L1 > L2 | Hip flexion",
+    "question": "MED-C50-43"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "L2 > L3 | Hip adduction",
+    "question": "MED-C50-44"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "L4 > L3: Knee extension; Foot dorsiflexion + inversion (Tibialis anterior); Reflex : Knee jerk",
+    "question": "MED-C50-45"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "L5: Dorsiflexion : Extensor hallucis longus; Eversion; Hip abduction",
+    "question": "MED-C50-46"
+  },
+  {
+    "chapter": 50,
+    "page": 654,
+    "point": "S1: Hip extension; Knee flexion; Foot plantar flexion; Reflex : Ankle jerk",
+    "question": "MED-C50-47"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Posterior column: Fasciculus cuneatus; Fasciculus gracilis",
+    "question": "MED-C50-48"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Lateral spinothalamic tract: Pain, temperature",
+    "question": "MED-C50-49"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Ventral spinothalamic tract: Pressure, touch (minor role)",
+    "question": "MED-C50-50"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Ventral (uncrossed) corticospinal tract: Distal limb movements (minor role)",
+    "question": "MED-C50-51"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Lateral corticospinal (Pyramidal) tract",
+    "question": "MED-C50-52"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Bracket: Distal limb movements",
+    "question": "MED-C50-53"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Bracket: Axial and proximal limb movements",
+    "question": "MED-C50-54"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Myelopathies : Sensory/Autonomic/motor symptoms d/t spinal cord disease",
+    "question": "MED-C50-55"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Non-compressive : Transverse myelitis",
+    "question": "MED-C50-56"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Intramedullary: Tumour : Ependymoma; Syringomyelia (Cavity expansion)",
+    "question": "MED-C50-57"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Extramedullary : Disc compression",
+    "question": "MED-C50-58"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Above level of lesion : Normal (Complete sparing)",
+    "question": "MED-C50-59"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "At level of lesion : Based on Anterior Horn cells",
+    "question": "MED-C50-60"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Below level of lesion : motor (UMN) and sensory loss",
+    "question": "MED-C50-61"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Ventral column : Anterior Horn cells (α and γ motor neurons)",
+    "question": "MED-C50-62"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "At level of lesion: motor LMN symptoms; Absent Reflexes (maximum localizing value); Sensory symptoms",
+    "question": "MED-C50-63"
+  },
+  {
+    "chapter": 50,
+    "page": 655,
+    "point": "Eg : L4 spinal segment lesion — Reflex : Absent Knee jerk; Motor : Weakness in knee extension, atrophy of quadriceps, fasciculation",
+    "question": "MED-C50-64"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "WHITE MATTER: Tracts/funiculi (Funicular pain)",
+    "question": "MED-C50-65"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Dorsal column/Posterior column (Ascending)",
+    "question": "MED-C50-66"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Postcentral gyrus (3, 1, 2)",
+    "question": "MED-C50-67"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Ventro lateral nucleus of thalamus",
+    "question": "MED-C50-68"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Level of decussation : Medulla (Internal arcuate fibers)",
+    "question": "MED-C50-69"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Figure label as printed: Medial leminiscus",
+    "question": "MED-C50-70"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "First-order neuron; Dorsal root ganglion",
+    "question": "MED-C50-71"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Sensations : Proprioception, fine touch; Vibration, position and joint sense",
+    "question": "MED-C50-72"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Complete hemisection of spinal cord (Brown-Sequard syndrome) : I/L loss of posterior column sensations",
+    "question": "MED-C50-73"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Posterior compression: Cervical (Sensation of upper limb) Progresses Sacral (Sensation of Lower limb)",
+    "question": "MED-C50-74"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Note: Diabetic Neuropathy : Stocking and glove neuropathy",
+    "question": "MED-C50-75"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Ascending tracks: 1. Lateral spinothalamic tract",
+    "question": "MED-C50-76"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Hemisection of spinal cord : C/L sensory loss",
+    "question": "MED-C50-77"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Dissociative sensory loss (Sparing of posterior column + involvement of spinothalamic tract)",
+    "question": "MED-C50-78"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Sacral sparing (Cervical > Sacral)",
+    "question": "MED-C50-79"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Suspended sensory loss at level of lesion : No loss above/below the lesion (D/t crossover of spinothalamic tract)",
+    "question": "MED-C50-80"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "d) Prominent and early LMN lesion features",
+    "question": "MED-C50-81"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Level of Decussation : Spinal cord (Same (1 to 2 segments above)",
+    "question": "MED-C50-82"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Sensations : Pain and temperature",
+    "question": "MED-C50-83"
+  },
+  {
+    "chapter": 50,
+    "page": 656,
+    "point": "Figure label as printed: Lateral laminiscus",
+    "question": "MED-C50-84"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "2. Spinocerebellar; 3. Spinotectal",
+    "question": "MED-C50-85"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "4. Spinoreticular; 5. Spino-olivary",
+    "question": "MED-C50-86"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Descending tracts : 1. Lateral Corticospinal tract",
+    "question": "MED-C50-87"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Figure: Pre-central gyrus",
+    "question": "MED-C50-88"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Cerebral peduncle; Midbrain",
+    "question": "MED-C50-89"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Level of decussation: Medulla; Pyramids; Decussation of pyramids",
+    "question": "MED-C50-90"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Lateral corticospinal tract; Anterior corticospinal tract",
+    "question": "MED-C50-91"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Extramedullary lesion: Early involvement",
+    "question": "MED-C50-92"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Hemisection of spinal cord : I/L motor weakness",
+    "question": "MED-C50-93"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Only Extra pyramidal pathway in lateral column",
+    "question": "MED-C50-94"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Action : Flexion of upper limb",
+    "question": "MED-C50-95"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Lesion w.r.t Red nucleus of mid Brain: Above vs Below",
+    "question": "MED-C50-96"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Rubrospinal tract: Spared vs Affected",
+    "question": "MED-C50-97"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Posture upper limb: Flexed vs Extended",
+    "question": "MED-C50-98"
+  },
+  {
+    "chapter": 50,
+    "page": 657,
+    "point": "Posture lower limb: Extended vs Extended",
+    "question": "MED-C50-99"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Ascending tracts: Ventral/Anterior spinothalamic tract; Sensations : Pressure, crude touch (minor role)",
+    "question": "MED-C50-100"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Ventral (uncrossed) corticospinal tract: Distal limb movements (minor role)",
+    "question": "MED-C50-101"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Descending tracts : 1) extrapyramidal — Vestibulospinal; Ventral reticulospinal; Tectospinal",
+    "question": "MED-C50-102"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Action : Extension",
+    "question": "MED-C50-103"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Early : Paraplegia in extension (D/t corticospinal tract involvement)",
+    "question": "MED-C50-104"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Late : Paraplegia in flexion (Disease progression → Involve extrapyramidal tracts)",
+    "question": "MED-C50-105"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Brown Sequard Syndrome : Hemisection of spinal cord",
+    "question": "MED-C50-106"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Ipsilateral : Posterior column sensation lost; motor weakness",
+    "question": "MED-C50-107"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Contralateral : Lateral Spinothalamic sensation lost (Pain and temperature)",
+    "question": "MED-C50-108"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Figure: Dorsal spinal artery; Dorsal radicular artery; Spinal artery; Ventral radicular artery; Ventral spinal artery",
+    "question": "MED-C50-109"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Labels: Superior cerebellar artery; Posterior inferior cerebellar artery",
+    "question": "MED-C50-110"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Ascending cervical artery; Intercostal artery; Lumbar artery",
+    "question": "MED-C50-111"
+  },
+  {
+    "chapter": 50,
+    "page": 658,
+    "point": "Caption: Blood supply of spinal cord",
+    "question": "MED-C50-112"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Origin : Vertebral Artery",
+    "question": "MED-C50-113"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "2 posterior spinal arteries : Posterior 1/3rd of spinal cord",
+    "question": "MED-C50-114"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "1 Anterior spinal artery : Anterior 2/3rd of spinal cord",
+    "question": "MED-C50-115"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Radicular arteries (Feeder arteries)",
+    "question": "MED-C50-116"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Reinforce blood supply at each level (Lower cervical segment and below)",
+    "question": "MED-C50-117"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Artery of Adamkiewicz/Arteria radicularis magna (Largest radicular artery)",
+    "question": "MED-C50-118"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Originates near T8-T12 vertebrae → Supplies entire lower half spinal cord",
+    "question": "MED-C50-119"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "T4 - T5 Spinal Segments : Less radicular arteries → ↑ Risk of ischemia",
+    "question": "MED-C50-120"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Arteria Vasocorona : Circumferential anastomotic channels around spinal cord",
+    "question": "MED-C50-121"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "(Corticospinal tract in watershed area → myelopathy)",
+    "question": "MED-C50-122"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Anterior Spinal artery thrombosis : Onset : Acute; Associated with : Generalized atherosclerosis",
+    "question": "MED-C50-123"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Sparing of posterior column",
+    "question": "MED-C50-124"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Posterior spinal artery injury : Traumatic accidents",
+    "question": "MED-C50-125"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Ligamentum denticulatum : Extension of pia mater attaching spinal cord on duramater",
+    "question": "MED-C50-126"
+  },
+  {
+    "chapter": 50,
+    "page": 659,
+    "point": "Compressive myelopathy : Denticulate ligament compresses corticospinal tract",
+    "question": "MED-C50-127"
   }
 ]

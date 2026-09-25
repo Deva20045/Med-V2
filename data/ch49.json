@@ -1,0 +1,759 @@
+{
+  "chapter": 49,
+  "title": "Amyotrophic Lateral Sclerosis",
+  "pageRange": "650-652",
+  "questions": [
+    {
+      "id": "MED-C49-01",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "MOTOR NEURON DISEASE pathology is:",
+      "opts": [
+        "Dorsal root ganglion neuronopathy",
+        "Corticospinal demyelination only",
+        "Muscle membrane channelopathy",
+        "α / γ motor neurons at ventral horn : Anterior horn cell disease"
+      ],
+      "ans": 3,
+      "exp": "Pathology : α / γ motor neurons at ventral horn : Anterior horn cell disease (Book p650)"
+    },
+    {
+      "id": "MED-C49-02",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "Pure UMN (Upper motor Neuron) in the classification is:",
+      "opts": [
+        "Primary lateral sclerosis",
+        "Amyotrophic lateral sclerosis",
+        "SMA (Spinal muscle atrophy)",
+        "X-linked Kennedy disease"
+      ],
+      "ans": 0,
+      "exp": "Pure UMN: Primary lateral sclerosis (Book p650)"
+    },
+    {
+      "id": "MED-C49-03",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "UMN + LMN in the classification is:",
+      "opts": [
+        "Multifocal motor neuropathy with paraproteinemia",
+        "Amyotrophic lateral sclerosis",
+        "Primary lateral sclerosis",
+        "SMA"
+      ],
+      "ans": 1,
+      "exp": "UMN + LMN: Amyotrophic lateral sclerosis (Book p650)"
+    },
+    {
+      "id": "MED-C49-04",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "numeric",
+      "q": "ALS splits into what sporadic vs genetic shares?",
+      "opts": [
+        "10% sporadic and 90% genetic",
+        "100% genetic SOD defect",
+        "90% sporadic and 10% genetic",
+        "50% sporadic and 50% genetic"
+      ],
+      "ans": 2,
+      "exp": "ALS: 90% sporadic; 10% genetic (Book p650)"
+    },
+    {
+      "id": "MED-C49-05",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "The genetic ALS defect printed is:",
+      "opts": [
+        "Hexosaminidase A defect",
+        "Dystrophin deletion",
+        "PMP22 duplication",
+        "Copper-zinc super oxide dismutase defect"
+      ],
+      "ans": 3,
+      "exp": "10% genetic (copper-zinc super oxide dismutase defect) (Book p650)"
+    },
+    {
+      "id": "MED-C49-06",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "Pure LMN (Lower MN) lists SMA, X-linked Kennedy disease and:",
+      "opts": [
+        "Multifocal motor neuropathy with paraproteinemia",
+        "Primary lateral sclerosis",
+        "Bilateral CST degeneration only",
+        "Corticobulbar plaque disease"
+      ],
+      "ans": 0,
+      "exp": "Pure LMN: SMA; X-linked Kennedy disease; Multifocal motor neuropathy with paraproteinemia (Book p650)"
+    },
+    {
+      "id": "MED-C49-07",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "numeric",
+      "q": "ALS etiology age printed is:",
+      "opts": [
+        "Peak at 20-40 yr",
+        "Age : > 50 years",
+        "Age : < 20 years",
+        "Neonatal onset"
+      ],
+      "ans": 1,
+      "exp": "Etiology: Age : > 50 years (Book p650)"
+    },
+    {
+      "id": "MED-C49-08",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "Sex and survival printed for ALS are:",
+      "opts": [
+        "Equal sex; Survival 20 years",
+        "M > F; Survival 15 years",
+        "M > F; Survival : maximum 3 years since onset",
+        "F >>> M; Survival decades"
+      ],
+      "ans": 2,
+      "exp": "M > F; Survival : maximum 3 years since onset (Book p650)"
+    },
+    {
+      "id": "MED-C49-09",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "LMN structures that degenerate in ALS are:",
+      "opts": [
+        "Dorsal column and spinothalamic tract",
+        "Cerebellar peduncles and red nucleus",
+        "Neuromuscular junction and muscle",
+        "Anterior horn cell (AHC) and Brainstem nuclei (medulla : 9, 10, 11, 12 cranial nerves)"
+      ],
+      "ans": 3,
+      "exp": "LMN degeneration: Anterior horn cell (AHC); Brainstem nuclei (medulla : 9, 10, 11, 12 cranial nerves) (Book p650)"
+    },
+    {
+      "id": "MED-C49-10",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "UMN structures that degenerate in ALS are printed as:",
+      "opts": [
+        "Corticospinal tract (CST) and Corticospinal tract (CBT)",
+        "Only the dorsal column",
+        "Only the vestibulospinal tract",
+        "Spinothalamic tract and gracilis"
+      ],
+      "ans": 0,
+      "exp": "UMN degeneration printed: Corticospinal tract (CST); Corticospinal tract (CBT) (Book p650)"
+    },
+    {
+      "id": "MED-C49-11",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "Cognition in ALS is:",
+      "opts": [
+        "Cortical blindness as the first sign",
+        "Cognition is intact : Higher mental functions, ANS, sensory system are spared",
+        "Early dementia with sensory loss",
+        "Prominent autonomic failure from day 1"
+      ],
+      "ans": 1,
+      "exp": "CLINICAL FEATURES: Cognition is intact : Higher mental functions, ANS, sensory system are spared (Book p650)"
+    },
+    {
+      "id": "MED-C49-12",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "Which structure is the 1st to degenerate?",
+      "opts": [
+        "Sensory ganglia first",
+        "Muscle membrane first",
+        "AHC : 1st structure to degenerate",
+        "CST before AHC"
+      ],
+      "ans": 2,
+      "exp": "AHC : 1st structure to degenerate (Book p650)"
+    },
+    {
+      "id": "MED-C49-13",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "CST clinical features listed are:",
+      "opts": [
+        "Hyporeflexia and fasciculations only",
+        "Flaccid areflexia",
+        "Sensory level at the trunk",
+        "Brisk reflexes and Loss of dexterity/tone"
+      ],
+      "ans": 3,
+      "exp": "CST : Brisk reflexes; Loss of dexterity/tone (Book p650)"
+    },
+    {
+      "id": "MED-C49-14",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "The classical ALS presentation of wasting is:",
+      "opts": [
+        "Distal asymmetric upper limb (UL) predominant atrophy/wasting : Classically forearm/hand",
+        "Proximal symmetric pelvic girdle wasting",
+        "Scapuloperoneal wasting from birth",
+        "Ocular muscle wasting first"
+      ],
+      "ans": 0,
+      "exp": "Presentations: Distal asymmetric upper limb (UL) predominant atrophy/wasting : Classically forearm/hand (Book p650)"
+    },
+    {
+      "id": "MED-C49-15",
+      "sec": "MND Classification & ALS Features",
+      "page": 650,
+      "fmt": "recall",
+      "q": "Additional AHC-side presentation listed is:",
+      "opts": [
+        "Ptosis with fatiguability",
+        "Fasciculations & cramps",
+        "Myotonia on percussion",
+        "Sensory ataxia"
+      ],
+      "ans": 1,
+      "exp": "Fasciculations & cramps (Book p650)"
+    },
+    {
+      "id": "MED-C49-16",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "numeric",
+      "q": "Incidence of bulbar palsy vs pseudobulbar palsy in the table is:",
+      "opts": [
+        "90% vs 10%",
+        "Equal 50%",
+        "40% pts vs 25%",
+        "25% vs 40% pts"
+      ],
+      "ans": 2,
+      "exp": "Incidence: Bulbar palsy 40% pts; Pseudobulbar palsy 25% (Book p651)"
+    },
+    {
+      "id": "MED-C49-17",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "Involvement row: bulbar palsy vs pseudobulbar palsy is:",
+      "opts": [
+        "CST vs dorsal column",
+        "AHC vs muscle",
+        "NMJ vs plexus",
+        "9, 10, 11, 12 cranial nerve vs Fibres to 9, 10, 11, 12"
+      ],
+      "ans": 3,
+      "exp": "Involvement: 9, 10, 11, 12 cranial nerve vs Fibres to 9, 10, 11, 12 (Book p651)"
+    },
+    {
+      "id": "MED-C49-18",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "Lesion type in bulbar vs pseudobulbar palsy is:",
+      "opts": [
+        "LMN vs UMN",
+        "UMN vs LMN",
+        "NMJ vs muscle",
+        "Sensory vs motor"
+      ],
+      "ans": 0,
+      "exp": "Lesion: LMN vs UMN (Book p651)"
+    },
+    {
+      "id": "MED-C49-19",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "General C/F of bulbar palsy is:",
+      "opts": [
+        "Brisk jaw jerk",
+        "Nasal twang regurgitation",
+        "Dysphonic (Laryngeal involvement > nasal)",
+        "Emotional incontinence"
+      ],
+      "ans": 1,
+      "exp": "Bulbar general C/F: Nasal twang regurgitation (Book p651)"
+    },
+    {
+      "id": "MED-C49-20",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "General C/F of pseudobulbar palsy includes:",
+      "opts": [
+        "Flaccid tongue with fasciculations",
+        "Absent gag only",
+        "Dysphonic (Laryngeal involvement > nasal), Aspiration risk, jaw jerk : Brisk, emotional incontinence",
+        "Nasal twang regurgitation only"
+      ],
+      "ans": 2,
+      "exp": "Pseudobulbar general: Dysphonic (Laryngeal involvement > nasal), Aspiration risk, jaw jerk : Brisk, emotional incontinence (Book p651)"
+    },
+    {
+      "id": "MED-C49-21",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "Tongue in bulbar vs pseudobulbar palsy is:",
+      "opts": [
+        "Small spastic vs flaccid fasciculating",
+        "Hypertrophic in both",
+        "Normal in both",
+        "Flaccid with fasciculations vs Small spastic tongue"
+      ],
+      "ans": 3,
+      "exp": "Tongue: Flaccid with fasciculations vs Small spastic tongue (Book p651)"
+    },
+    {
+      "id": "MED-C49-22",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "Speech in bulbar palsy:",
+      "opts": [
+        "Bulbar dysarthria progresses → dysphagia",
+        "Pseudobulbar dysarthria from the outset",
+        "Scanning cerebellar speech",
+        "Hoarse voice with myotonia"
+      ],
+      "ans": 0,
+      "exp": "Speech: Bulbar dysarthria progresses → dysphagia (Book p651)"
+    },
+    {
+      "id": "MED-C49-23",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "Gag reflex in bulbar vs pseudobulbar palsy is:",
+      "opts": [
+        "Inverted in both",
+        "Absent vs Exaggerated",
+        "Exaggerated vs Absent",
+        "Normal in both"
+      ],
+      "ans": 1,
+      "exp": "Gag reflex: Absent vs Exaggerated (Book p651)"
+    },
+    {
+      "id": "MED-C49-24",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "The sitting-patient photograph is captioned:",
+      "opts": [
+        "Thenar atrophy",
+        "MRI : ALS",
+        "ALS patient with distal UL & LL atrophy",
+        "Tongue atrophy in ALS"
+      ],
+      "ans": 2,
+      "exp": "Caption: ALS patient with distal UL & LL atrophy (Book p651)"
+    },
+    {
+      "id": "MED-C49-25",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "The tongue photograph is captioned:",
+      "opts": [
+        "Thenar > Hypothenar atrophy",
+        "Finding of Madras MND",
+        "MRI : BMA",
+        "Tongue atrophy in ALS"
+      ],
+      "ans": 3,
+      "exp": "Caption: Tongue atrophy in ALS (Book p651)"
+    },
+    {
+      "id": "MED-C49-26",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "The palmar-hand photograph with pink arrows is captioned:",
+      "opts": [
+        "Thenar > Hypothenar atrophy",
+        "Tongue atrophy in ALS",
+        "Pes cavus",
+        "Inverted champagne bottle legs"
+      ],
+      "ans": 0,
+      "exp": "Caption: Thenar > Hypothenar atrophy (Book p651)"
+    },
+    {
+      "id": "MED-C49-27",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "Needle EMG in ALS shows:",
+      "opts": [
+        "Single-fibre jitter without fibrillation",
+        "Polyphasic fasciculations & fibrillations",
+        "Myopathic motor units only",
+        "Incremental CMAP >100%"
+      ],
+      "ans": 1,
+      "exp": "Needle EMG : polyphasic fasciculations & fibrillations (Book p651)"
+    },
+    {
+      "id": "MED-C49-28",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "recall",
+      "q": "MRI in ALS is printed as:",
+      "opts": [
+        "Onion-bulb hypertrophy of nerves",
+        "Ring-enhancing abscesses",
+        "B / L symmetrical high intensities",
+        "Unilateral cord compression"
+      ],
+      "ans": 2,
+      "exp": "MRI : B / L symmetrical high intensities (Book p651)"
+    },
+    {
+      "id": "MED-C49-29",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "management",
+      "q": "Treatment heading for ALS states:",
+      "opts": [
+        "IVIg first-line",
+        "Pyridostigmine 60 mg 6th hourly",
+        "Steroids ± azathioprine",
+        "No effective drugs"
+      ],
+      "ans": 3,
+      "exp": "TREATMENT: No effective drugs (Book p651)"
+    },
+    {
+      "id": "MED-C49-30",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "page": 651,
+      "fmt": "management",
+      "q": "Agents that maybe tried in ALS are:",
+      "opts": [
+        "Riluzole & Edaravone maybe tried",
+        "Edrophonium and neostigmine",
+        "3,4 di-aminopyramidine",
+        "Copper-zinc supplements only"
+      ],
+      "ans": 0,
+      "exp": "Riluzole & Edaravone maybe tried (Book p651)"
+    },
+    {
+      "id": "MED-C49-31",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "X-LINKED SMA is also known as:",
+      "opts": [
+        "Madras MND",
+        "Kennedy's disease",
+        "Hirayama's disease",
+        "Primary lateral sclerosis"
+      ],
+      "ans": 1,
+      "exp": "X-LINKED SMA: AKA Kennedy's disease (Book p652)"
+    },
+    {
+      "id": "MED-C49-32",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "Kennedy's disease is classified as:",
+      "opts": [
+        "UMN + LMN ALS",
+        "NMJ disorder",
+        "Pure LMN",
+        "Pure UMN"
+      ],
+      "ans": 2,
+      "exp": "X-LINKED SMA: Pure LMN (Book p652)"
+    },
+    {
+      "id": "MED-C49-33",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "The genetic class printed for Kennedy's disease is:",
+      "opts": [
+        "Copper-zinc SOD point mutation",
+        "Mitochondrial deletion",
+        "PMP22 duplication",
+        "Trinucleotide repeat disease"
+      ],
+      "ans": 3,
+      "exp": "X-LINKED SMA: Trinucleotide repeat disease (Book p652)"
+    },
+    {
+      "id": "MED-C49-34",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "Kennedy presentation includes:",
+      "opts": [
+        "Associated androgen insensitivity",
+        "Ocular MG with thymoma",
+        "Sacral sparing of spinothalamic sensation",
+        "Ice-pack-responsive ptosis"
+      ],
+      "ans": 0,
+      "exp": "Presentation: Associated androgen insensitivity (Book p652)"
+    },
+    {
+      "id": "MED-C49-35",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "Spinobulbar involvement in Kennedy's disease lists tremor + fasciculations and:",
+      "opts": [
+        "Emotional incontinence with brisk jaw jerk",
+        "Proximal wasting = pseudohypertrophy of calf muscles",
+        "Distal UL C8-T1 thinning only",
+        "Bilfacial weakness + SNHL"
+      ],
+      "ans": 1,
+      "exp": "Spinobulbar involvement: Tremor + fasciculations; Proximal wasting = pseudohypertrophy of calf muscles (Book p652)"
+    },
+    {
+      "id": "MED-C49-36",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "The orolingual Kennedy finding is:",
+      "opts": [
+        "Cogan's lid twitch",
+        "Peek sign",
+        "Tongue wasting + perioral fasciculation",
+        "Spastic small tongue without wasting"
+      ],
+      "ans": 2,
+      "exp": "Spinobulbar involvement: Tongue wasting + perioral fasciculation (Book p652)"
+    },
+    {
+      "id": "MED-C49-37",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "BENIGN MONOMELIC AMYOTROPHY (BMA) is also known as:",
+      "opts": [
+        "Kennedy's disease",
+        "Madras MND",
+        "Primary lateral sclerosis",
+        "Hirayama's disease"
+      ],
+      "ans": 3,
+      "exp": "BMA: AKA Hirayama's disease (Book p652)"
+    },
+    {
+      "id": "MED-C49-38",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "numeric",
+      "q": "Hirayama presentation age and sex are:",
+      "opts": [
+        "Young male (<20 yrs)",
+        "Female 20-40 yr",
+        "Male >50 years",
+        "Neonate of either sex"
+      ],
+      "ans": 0,
+      "exp": "Presentation: Young male (<20 yrs) (Book p652)"
+    },
+    {
+      "id": "MED-C49-39",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "The wasting pattern of BMA/Hirayama is:",
+      "opts": [
+        "Thenar > hypothenar with tongue atrophy",
+        "Asymmetrical weakness + wasting (of UL extremity)",
+        "Symmetric proximal LL wasting",
+        "Scapuloperoneal from birth"
+      ],
+      "ans": 1,
+      "exp": "Asymmetrical weakness + wasting (of UL extremity) (Book p652)"
+    },
+    {
+      "id": "MED-C49-40",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "The course of BMA/Hirayama is:",
+      "opts": [
+        "Relapsing-remitting",
+        "Invariably fatal in 1 year",
+        "Non-progressive",
+        "Maximum survival 3 years"
+      ],
+      "ans": 2,
+      "exp": "Non-progressive (Book p652)"
+    },
+    {
+      "id": "MED-C49-41",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "MRI mechanism printed for BMA is:",
+      "opts": [
+        "B/L symmetrical brain high intensities",
+        "Onion-bulb nerve roots",
+        "Anterior spinal artery thrombosis",
+        "Impingement of dura (d/t tight dural canal tearing in flexion/growth discrepancy b/w spinal canal & dura)"
+      ],
+      "ans": 3,
+      "exp": "MRI: Impingement of dura (d/t tight dural canal tearing in flexion/growth discrepancy b/w spinal canal & dura) (Book p652)"
+    },
+    {
+      "id": "MED-C49-42",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "The MRI : BMA callout marks:",
+      "opts": [
+        "Atrophy/thinning of C8 - T1",
+        "Hyperintensity of the corticospinal tract in the brain",
+        "Thymic hyperplasia",
+        "Syrinx of the conus"
+      ],
+      "ans": 0,
+      "exp": "MRI : BMA callout: Atrophy/thinning of C8 - T1 (Book p652)"
+    },
+    {
+      "id": "MED-C49-43",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "Madras MND is printed as:",
+      "opts": [
+        "Pyridostigmine-refractory neck drop",
+        "Bilfacial weakness + ocular involvement + sensorineural hearing loss (SNHL) + asymmetrical atrophy of limbs",
+        "Pure UMN primary lateral sclerosis",
+        "Non-progressive monomelic UL wasting"
+      ],
+      "ans": 1,
+      "exp": "Madras MND: Bilfacial weakness + ocular involvement + sensorineural hearing loss (SNHL) + asymmetrical atrophy of limbs (Book p652)"
+    },
+    {
+      "id": "MED-C49-44",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "Madras MND is labelled:",
+      "opts": [
+        "A thymoma syndrome",
+        "A channelopathy",
+        "Variant of MND",
+        "A form of LEMS"
+      ],
+      "ans": 2,
+      "exp": "Madras MND: Variant of MND (Book p652)"
+    },
+    {
+      "id": "MED-C49-45",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "page": 652,
+      "fmt": "recall",
+      "q": "Clinical photographs A-D on the page are collectively captioned:",
+      "opts": [
+        "ALS patient with distal UL & LL atrophy",
+        "MRI : ALS",
+        "Thenar > Hypothenar atrophy",
+        "Finding of Madras MND"
+      ],
+      "ans": 3,
+      "exp": "Caption under photos C/D: Finding of Madras MND (Book p652)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U49-1",
+      "ch": 49,
+      "n": 1,
+      "title": "1. MND Classification and Features of ALS",
+      "sec": "MND Classification & ALS Features",
+      "guide": "MND is anterior horn cell disease of α/γ motor neurons at the ventral horn. Classification: pure UMN = primary lateral sclerosis; UMN+LMN = ALS (90% sporadic, 10% genetic copper-zinc superoxide dismutase defect); pure LMN = SMA, X-linked Kennedy disease and multifocal motor neuropathy with paraproteinemia.\nALS: age >50, M>F, survival maximum 3 years. LMN degeneration of AHC and medullary nuclei 9-12; UMN degeneration of CST and the printed corticospinal tract (CBT). Cognition, HMF, ANS and sensory system are spared. AHC is the 1st structure to degenerate; CST gives brisk reflexes and loss of dexterity/tone. Presentation is distal asymmetric UL (classically forearm/hand) atrophy with fasciculations and cramps.",
+      "qs": [
+        "MED-C49-01",
+        "MED-C49-02",
+        "MED-C49-03",
+        "MED-C49-04",
+        "MED-C49-05",
+        "MED-C49-06",
+        "MED-C49-07",
+        "MED-C49-08",
+        "MED-C49-09",
+        "MED-C49-10",
+        "MED-C49-11",
+        "MED-C49-12",
+        "MED-C49-13",
+        "MED-C49-14",
+        "MED-C49-15"
+      ]
+    },
+    {
+      "id": "MED-U49-2",
+      "ch": 49,
+      "n": 2,
+      "title": "2. Bulbar versus Pseudobulbar Palsy, Diagnosis and Treatment",
+      "sec": "Bulbar vs Pseudobulbar, Imaging, EMG & Treatment",
+      "guide": "Bulbar palsy (40% pts) is LMN of cranial nerves 9-12: nasal twang regurgitation, flaccid fasciculating tongue, bulbar dysarthria progressing to dysphagia, absent gag. Pseudobulbar palsy (25%) is UMN fibres to 9-12: dysphonic (laryngeal > nasal) with aspiration risk, brisk jaw jerk and emotional incontinence, small spastic tongue, pseudobulbar dysarthria, exaggerated gag.\nPhotographs: ALS patient with distal UL & LL atrophy; tongue atrophy in ALS; thenar atrophy; thenar > hypothenar atrophy. Needle EMG: polyphasic fasciculations and fibrillations. MRI: B/L symmetrical high intensities. Treatment: no effective drugs; riluzole and edaravone maybe tried.",
+      "qs": [
+        "MED-C49-16",
+        "MED-C49-17",
+        "MED-C49-18",
+        "MED-C49-19",
+        "MED-C49-20",
+        "MED-C49-21",
+        "MED-C49-22",
+        "MED-C49-23",
+        "MED-C49-24",
+        "MED-C49-25",
+        "MED-C49-26",
+        "MED-C49-27",
+        "MED-C49-28",
+        "MED-C49-29",
+        "MED-C49-30"
+      ]
+    },
+    {
+      "id": "MED-U49-3",
+      "ch": 49,
+      "n": 3,
+      "title": "3. ALS Variants — Kennedy, Hirayama and Madras MND",
+      "sec": "ALS Variants: Kennedy, Hirayama & Madras MND",
+      "guide": "X-linked SMA (Kennedy's disease) is pure LMN trinucleotide-repeat disease with androgen insensitivity and spinobulbar involvement: tremor + fasciculations, proximal wasting = pseudohypertrophy of calf muscles, tongue wasting + perioral fasciculation.\nBenign monomelic amyotrophy (Hirayama's disease): young male (<20 yrs), asymmetrical UL weakness + wasting, non-progressive; MRI impingement of dura from tight dural canal tearing in flexion/growth discrepancy, with atrophy/thinning of C8-T1.\nMadras MND: bilfacial weakness + ocular involvement + SNHL + asymmetrical atrophy of limbs; a variant of MND. MRI of BMA and clinical photos A-D are labelled Finding of Madras MND.",
+      "qs": [
+        "MED-C49-31",
+        "MED-C49-32",
+        "MED-C49-33",
+        "MED-C49-34",
+        "MED-C49-35",
+        "MED-C49-36",
+        "MED-C49-37",
+        "MED-C49-38",
+        "MED-C49-39",
+        "MED-C49-40",
+        "MED-C49-41",
+        "MED-C49-42",
+        "MED-C49-43",
+        "MED-C49-44",
+        "MED-C49-45"
+      ]
+    }
+  ]
+}

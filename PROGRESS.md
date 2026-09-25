@@ -1,14 +1,33 @@
 # PULSE Medicine Vol 2 — Progress
 
-Updated **2026-09-24**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
+Updated **2026-09-25**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0d425-med-v2`
+- Session branch: `arena/01a0d7b2-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 47 live chapters / 57 · 2363 questions / 211 units.** Chapters 48–57 remain `live:false`.
+- **Build status: 50 live chapters / 57 · 2617 questions / 225 units.** Chapters 51–57 remain `live:false`.
 
-## This release — Chapters 42 to 47
+## This release — Chapters 48 to 50
+
+Three consecutive neurology chapters — Myasthenia Gravis, Amyotrophic Lateral Sclerosis and Anatomy of Spinal Cord — were rendered line-to-line from `uploads/04.pdf` at 3× (PDF21–34 = Book p646–659; PDF27 = p652 is a landscape sheet read upright via a 90° CCW prerotate), source-ordered and made live. This completes the MG–ALS–spinal-cord-anatomy block.
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 48 | Myasthenia Gravis | 646–649 | 82 | 4 |
+| 49 | Amyotrophic Lateral Sclerosis | 650–652 | 45 | 3 |
+| 50 | Anatomy of Spinal Cord | 653–659 | 127 | 7 |
+| **Release total** |  | **14 book pages** | **254** | **14** |
+
+### Quality and ordering contract delivered
+
+1. All 14 pages were read top-to-bottom in printed order at 3× (`.audit-render/r04_21_3x..r04_34_3x.png`; PDF27 also as `r04_27_3x_ccw.png`), because the scan has no text layer. Visual extraction covered every heading, table cell, flowchart arm, NMJ/cord/vascular diagram label, photograph caption, numeric dose/percentage, note and mnemonic in exact book order. Verified page map: 04.pdf PDF21 = p646 Ch48 start, PDF24 = p649 Ch48 end, PDF25 = p650 Ch49 start, PDF27 = p652 Ch49 end (landscape), PDF28 = p653 Ch50 start, PDF34 = p659 Ch50 end. No sheets missing in p646–659.
+2. Chapters 48–50 add **254 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **2725 mappings** for Chapters 2–50.
+3. Questions use no fill-up, matching or true/false worksheets; only recall, scenario, numeric, oddoneout and management formats are used, with plausible medical distractors and reasoning-first stems. Printed quirks (`3,4 di-aminopyramidine`, `Corticospinal tract (CBT)`, `sensory output`, conus `C0` vs `C1`, `Medial leminiscus` / `Lateral laminiscus`, `Ascending tracks`, `L4 > L3`) are quoted as printed and qualified in the audit.
+4. IDs are sequential `MED-C48-01..82`, `MED-C49-01..45`, `MED-C50-01..127`; question arrays are strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, and every explanation ends with its exact `(Book pX)` citation.
+5. All three chapters are embedded in the standalone app and live flags for 48–50 are set; 50/57 roadmap chapters are now live with 2617 questions.
+
+## Previous release — Chapters 42 to 47
 
 Six consecutive neurology chapters — LMN Approach Part 1, LMN Approach Part 2, Inherited Neuropathies, Guillain-Barre Syndrome, LMN Approach Part 3 and Muscular Dystrophies — were rendered line-to-line from the scans at 3× (`uploads/03.pdf` PDF54–61 = Book p618–625, PDF54 being a landscape sheet read upright via a 90° prerotate; `uploads/04.pdf` PDF1–20 = Book p626–645), source-ordered and made live. This completes the LMN approach to muscular dystrophies block.
 
@@ -167,7 +186,8 @@ Printed page numbers are ground truth. Every sheet used so far was rendered at 2
 - **03.pdf PDF49–53: p613–617 (Ch41)**
 - **03.pdf PDF54–61: p618–625 (Ch42–43; PDF54 landscape, read upright via 90° prerotate)**
 - **04.pdf PDF1–20: p626–645 (Ch43 close–Ch47)**
-- 04.pdf PDF21–76: p646 onward (Ch48 onward, not yet live)
+- **04.pdf PDF21–34: p646–659 (Ch48–50; PDF27 = p652 landscape, 90° CCW prerotate)**
+- 04.pdf PDF35–76: p660 onward (Ch51 onward, not yet live)
 
 ## Schema and order contract
 
@@ -192,7 +212,8 @@ python3 tools/generate_ch33_38.py        # Chapters 33-38
 python3 tools/generate_ch39_41.py        # Chapters 39 and 41
 python3 tools/generate_ch40.py           # Chapter 40
 python3 tools/generate_ch42_47.py        # Chapters 42-47
-python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-41)
+python3 tools/generate_ch48_50.py        # Chapters 48-50
+python3 tools/generate_ch09_15_audit.py  # rebuild the source-order ledger (Ch9-50)
 python3 tools/generate_self_audit.py     # rebuild audit/SELF_AUDIT.md
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -470,9 +491,9 @@ node tests/app_parsers.cjs
 | 45 | Guillain-Barre Syndrome | 632 | **Live** |
 | 46 | LMN Approach : Part 3 | 637 | **Live** |
 | 47 | Muscular Dystrophies | 642 | **Live** |
-| 48 | Myasthenia Gravis | 646 | Soon |
-| 49 | Amyotrophic Lateral Sclerosis | 650 | Soon |
-| 50 | Anatomy of Spinal Cord | 653 | Soon |
+| 48 | Myasthenia Gravis | 646 | **Live** |
+| 49 | Amyotrophic Lateral Sclerosis | 650 | **Live** |
+| 50 | Anatomy of Spinal Cord | 653 | **Live** |
 | 51 | Diseases of Spinal Cord | 660 | Soon |
 | 52 | Multiple Sclerosis | 668 | Soon |
 | 53 | Vascular Anatomy of Brain | 674 | Soon |

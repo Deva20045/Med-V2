@@ -276,7 +276,7 @@ Chapter spans: Ch39 p602–607 = PDF38–43 · Ch40 p608–612 = PDF44–48 · C
 
 Verified at 3× zoom in `.audit-render/r03_54_3x..r03_61_3x.png` and `.audit-render/r04_01_3x..r04_20_3x.png`: 03.pdf PDF54 is a landscape-scanned sheet (612×458.6 pt) whose content is rotated 90° and was read upright via `Matrix(3,3)` + 90° prerotate; PDF55–61 are upright portrait sheets. 04.pdf PDF1–20 are upright. Printed page numbers were read on every sheet: 03.pdf PDF54–61 = Book p618–625 with **no missing printed page** (8 sheets, 8 pages), and 04.pdf PDF1–20 = Book p626–645 with **no missing printed page** (20 sheets, 20 pages). The earlier guess "PDF54–61 = p618–622" is superseded: those 8 sheets carry p618–625.
 
-Chapter spans: Ch42 p618–623 = 03.pdf PDF54–59 · Ch43 p624–626 = 03.pdf PDF60–61 + 04.pdf PDF1 · Ch44 p627–631 = 04.pdf PDF2–6 · Ch45 p632–636 = 04.pdf PDF7–11 · Ch46 p637–641 = 04.pdf PDF12–16 · Ch47 p642–645 = 04.pdf PDF17–20. Ch48 begins at p646 (04.pdf PDF21, not yet live).
+Chapter spans: Ch42 p618–623 = 03.pdf PDF54–59 · Ch43 p624–626 = 03.pdf PDF60–61 + 04.pdf PDF1 · Ch44 p627–631 = 04.pdf PDF2–6 · Ch45 p632–636 = 04.pdf PDF7–11 · Ch46 p637–641 = 04.pdf PDF12–16 · Ch47 p642–645 = 04.pdf PDF17–20. Ch48 begins at p646 (04.pdf PDF21).
 
 ## uploads/04.pdf (76 sheets, Book p626 onward)
 
@@ -302,6 +302,26 @@ Chapter spans: Ch42 p618–623 = 03.pdf PDF54–59 · Ch43 p624–626 = 03.pdf P
 | 18 | 643 | Verified (LGMD, Emery Dreifuss, FSHD, oculopharyngeal, myotonic dystrophy) |
 | 19 | 644 | Verified (myotonic dystrophy features, mitochondrial myopathies, CPEO/Kearns/MERRF/MELAS) |
 | 20 | 645 | Verified (channelopathies, periodic paralyses; Ch47 end) |
-| 21–76 | 646 onward | Not read in this session (Ch48 onward starts at p646 per roadmap) |
+| 21 | 646 | Verified (Ch48 "MYASTHENIA GRAVIS" title page, NMJ figure, ocular progression) |
+| 22 | 647 | Verified (bimodal demographics, antibodies table, thymus, classical MG) |
+| 23 | 648 | Verified (presenting features, peek/curtain/Cogan signs, investigations, NCS table) |
+| 24 | 649 | Verified (LEMS, exacerbating drugs, treatment, DUMBELLS; Ch48 end) |
+| 25 | 650 | Verified (Ch49 "AMYOTROPHIC LATERAL SCLEROSIS" title page, MND classification, ALS features) |
+| 26 | 651 | Verified (bulbar vs pseudobulbar table, ALS photographs, EMG/MRI, treatment) |
+| 27 | 652 | Verified (Ch49 "ALS Variants"; landscape sheet read upright via 90° CCW prerotate; Kennedy, Hirayama, Madras MND) |
+| 28 | 653 | Verified (Ch50 "ANATOMY OF SPINAL CORD" title page, cord/vertebrae, segment-level table) |
+| 29 | 654 | Verified (conus/epiconus, filum, conus vs cauda table, root-action table) |
+| 30 | 655 | Verified (cord cross-section tracts, myelopathy types, grey matter) |
+| 31 | 656 | Verified (white matter dorsal column path, lateral spinothalamic path) |
+| 32 | 657 | Verified (remaining ascending tracks, lateral CST, rubrospinal / decorticate-decerebrate) |
+| 33 | 658 | Verified (ventral tracts, Brown-Sequard, blood-supply figure) |
+| 34 | 659 | Verified (vertebral origin, Adamkiewicz, ASA thrombosis, denticulate ligament; Ch50 end) |
+| 35–76 | 660 onward | Not read in this session (Ch51 onward starts at p660 per roadmap) |
 
-`uploads/04.pdf` PDF1–20 carry Book p626–645 (Ch43 close through Ch47); PDF21 onward (p646+, Ch48) remain unread.
+`uploads/04.pdf` PDF1–20 carry Book p626–645 (Ch43 close through Ch47); PDF21–34 carry Book p646–659 (Ch48–50) with **no missing printed page** (14 sheets, 14 pages; PDF27 landscape). PDF35 onward (p660+, Ch51) remain unread.
+
+## Chapter 48–50 source-map
+
+Verified at 3× zoom in `.audit-render/r04_21_3x..r04_34_3x.png` (PDF27 also as `r04_27_3x_ccw.png`): 04.pdf PDF21–26 and PDF28–34 are upright portrait; PDF27 is a landscape-scanned sheet read upright via `Matrix(3,3)` + 90° CCW prerotate. Printed page numbers were read on every sheet: PDF21–34 = Book p646–659 with **no missing printed page**.
+
+Chapter spans: Ch48 p646–649 = 04.pdf PDF21–24 · Ch49 p650–652 = 04.pdf PDF25–27 · Ch50 p653–659 = 04.pdf PDF28–34. Ch51 begins at p660 (04.pdf PDF35, not yet live).

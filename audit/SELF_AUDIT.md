@@ -1,6 +1,6 @@
-# Chapters 2–47 — visual self-audit gate
+# Chapters 2–50 — visual self-audit gate
 
-Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645), every sheet read line-to-line at 3× because the scans have no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-25, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645). Chapters 48–50 were authored from `uploads/04.pdf` PDF21–34 (Book p646–659; PDF27 = p652 is a landscape sheet read upright via a 90° CCW prerotate), every sheet read line-to-line at 3× because the scans have no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
@@ -75,6 +75,17 @@ Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–10
 | 630 | Refsum's enzyme prints 'phytanic oxidase'; the contemporary name (phytanoyl-CoA hydroxylase) is not substituted. |
 | 632 | 'Activates compliment' retains the printed spelling of complement. |
 | 643 | Myotonic dystrophy prints 'trinucleotide repeat disease of Chr 19'; the repeat is retained as printed. |
+| 646 | NMJ figure labels (V/Q Ca++ channel, Agrin, Active zone, ChAT, AChE) and the printed 'First 1 yr after ocular symptoms' crucial-period line are transcribed as source anatomy. |
+| 647 | HLA-DR3, B8, DR9 and the 70%/10% hyperplasia/thymoma split of 80% seropositive cases are source percentages. |
+| 648 | Edrophonium 2 mg IV and Neostigmine 1 mg IM, plus 'most specific' AChR vs 'most sensitive' SFEMG, are printed test statements. |
+| 649 | '3,4 di-aminopyramidine' retains the printed spelling (diaminopyridine); Anti-CRPM5 is quoted as printed; DUMBELLS is the source mnemonic. Azathioprine listed among drugs that exacerbate MG is retained as printed. |
+| 650 | UMN degeneration prints 'Corticospinal tract (CST)' and 'Corticospinal tract (CBT)'; CBT is quoted as printed (likely corticobulbar). |
+| 651 | 'No effective drugs' / 'Riluzole & Edaravone maybe tried' are source treatment statements, not a substitute for current ALS guidance. |
+| 652 | 04.pdf PDF27 is a landscape sheet read upright via 90° CCW prerotate. Kennedy calf 'pseudohypertrophy' and Hirayama 'tight dural canal tearing' wording are transcribed as printed. |
+| 653 | Function prints 'sensory output from trunk and limbs' (usual teaching is sensory input); quoted as printed. Dura/arachnoid end at S2; total vertebrae 33 (C7 T12 L5 S5 C4); 31 segments (C8 T12 L5 S5 C1). |
+| 654 | Conus B/L roots print S3, S4, S5, C0; the comparison table's conus roots print S3, S4, S5, C1. L4 > L3 for knee extension/TA is quoted as printed. |
+| 656 | 'Medial leminiscus' and 'Lateral laminiscus' retain the printed spellings. 'Ascending tracks' (not tracts) is quoted as printed. Dissociative/sacral-sparing/suspended-loss/early-LMN features sit under the printed 'Intradural/extramedullary lesion' heading. |
+| 659 | Artery of Adamkiewicz origin near T8–T12 and T4–T5 ischaemic watershed are source anatomy. |
 | 483 | The rotated dysphagia-frequency annotation beside inclusion body myositis was not legible; no question relies on it. Steroid-unresponsive disease and red-rimmed vacuoles are the tested points. |
 | 484 | The '50/25/5' outcome split and the testicular sparing statement are printed source epidemiology. |
 | 485 | The rotated 'HLA DRB1*03 — Lofgren syndrome (good prognosis)' annotation is read after rotation and transcribed as printed. |
@@ -340,6 +351,20 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 47 | 2. Limb Girdle, Emery Dreifuss, Facioscapulohumeral, Oculopharyngeal and Myotonic Dystrophy | 643 | MED-C47-20–MED-C47-35 | 16 |
 | 47 | 3. Myotonic Dystrophy Presentation and Metabolic/Mitochondrial Myopathies | 644 | MED-C47-36–MED-C47-50 | 15 |
 | 47 | 4. Channelopathies and the Periodic Paralyses | 645 | MED-C47-51–MED-C47-65 | 15 |
+| 48 | 1. NMJ Pathophysiology and Ocular Progression | 646 | MED-C48-01–MED-C48-14 | 14 |
+| 48 | 2. Demographics, Antibodies, Thymus and Classical MG | 647 | MED-C48-15–MED-C48-43 | 29 |
+| 48 | 3. Presenting Features, Signs and Investigations | 648 | MED-C48-44–MED-C48-66 | 23 |
+| 48 | 4. LEMS, Drugs, Treatment and Cholinergic Crisis | 649 | MED-C48-67–MED-C48-82 | 16 |
+| 49 | 1. MND Classification and Features of ALS | 650 | MED-C49-01–MED-C49-15 | 15 |
+| 49 | 2. Bulbar versus Pseudobulbar Palsy, Diagnosis and Treatment | 651 | MED-C49-16–MED-C49-30 | 15 |
+| 49 | 3. ALS Variants — Kennedy, Hirayama and Madras MND | 652 | MED-C49-31–MED-C49-45 | 15 |
+| 50 | 1. Spinal Cord, Vertebrae and Segment Levels | 653 | MED-C50-01–MED-C50-24 | 24 |
+| 50 | 2. Conus Medullaris, Cauda Equina and Root Values | 654 | MED-C50-25–MED-C50-47 | 23 |
+| 50 | 3. Cross-Section, Myelopathy Types and Grey Matter | 655 | MED-C50-48–MED-C50-64 | 17 |
+| 50 | 4. Dorsal Column and Lateral Spinothalamic Pathology | 656 | MED-C50-65–MED-C50-84 | 20 |
+| 50 | 5. Remaining Ascending Tracts, Corticospinal and Rubrospinal | 657 | MED-C50-85–MED-C50-99 | 15 |
+| 50 | 6. Ventral Tracts, Brown-Sequard and Blood Supply | 658 | MED-C50-100–MED-C50-112 | 13 |
+| 50 | 7. Arterial Supply, Infarction and Denticulate Ligament | 659 | MED-C50-113–MED-C50-127 | 15 |
 
 ## Format distribution
 
@@ -392,6 +417,9 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 45 | 70 | 0 | 0 | 1 | 7 | 0 | 78 | 78 |
 | 46 | 56 | 0 | 10 | 0 | 2 | 0 | 68 | 68 |
 | 47 | 57 | 0 | 6 | 0 | 2 | 0 | 65 | 65 |
+| 48 | 59 | 1 | 14 | 2 | 6 | 0 | 82 | 82 |
+| 49 | 39 | 0 | 4 | 0 | 2 | 0 | 45 | 45 |
+| 50 | 115 | 1 | 11 | 0 | 0 | 0 | 127 | 127 |
 
 ## Chapters 16–26 release table
 
@@ -714,8 +742,22 @@ Chapter 30–31 supersession note: a parallel session merged a 62-question first
 | 643 | 04 PDF18 | 16 | 16 | 0 |
 | 644 | 04 PDF19 | 15 | 15 | 0 |
 | 645 | 04 PDF20 | 15 | 15 | 0 |
+| 646 | 04 PDF21 | 14 | 14 | 0 |
+| 647 | 04 PDF22 | 29 | 29 | 0 |
+| 648 | 04 PDF23 | 23 | 23 | 0 |
+| 649 | 04 PDF24 | 16 | 16 | 0 |
+| 650 | 04 PDF25 | 15 | 15 | 0 |
+| 651 | 04 PDF26 | 15 | 15 | 0 |
+| 652 | 04 PDF27 (PDF27 landscape, 90 deg CCW prerotate) | 15 | 15 | 0 |
+| 653 | 04 PDF28 | 24 | 24 | 0 |
+| 654 | 04 PDF29 | 23 | 23 | 0 |
+| 655 | 04 PDF30 | 17 | 17 | 0 |
+| 656 | 04 PDF31 | 20 | 20 | 0 |
+| 657 | 04 PDF32 | 15 | 15 | 0 |
+| 658 | 04 PDF33 | 13 | 13 | 0 |
+| 659 | 04 PDF34 | 15 | 15 | 0 |
 
-**Total: 2471 mapped educational points; 2363 questions; 211 units across 47 live chapters of 57.**
+**Total: 2725 mapped educational points; 2617 questions; 225 units across 50 live chapters of 57.**
 
 ## Full printed-point → question ledger
 
@@ -5031,14 +5073,366 @@ Unasked points: **none found**.
 
 Unasked points: **none found**.
 
+### Book p646 / 04 PDF21
+
+| Printed point / call-out | Question |
+|---|---|
+| Pathophysiology: Neuromuscular junction (NMJ) disorder | MED-C48-01 |
+| Definition: Autoantibody (B-cell) + T-cell mediated attack on acetylcholine-receptors (AChR) on post synaptic membrane | MED-C48-02 |
+| NMJ figure: Acetate and Choline with ChAT at the terminal | MED-C48-03 |
+| NMJ figure callout: V/Q Ca++ channel | MED-C48-04 |
+| NMJ figure: AChE in the cleft | MED-C48-05 |
+| NMJ figure: Agrin labelled next to Active zone | MED-C48-06 |
+| NMJ figure labels: Voltage gated K+ channel; Voltage gated Ca+ channel; Voltage gated Na+ channels | MED-C48-07 |
+| Flow: Ach released from vesicle → Binds to AChR on postsynaptic membrane → Causes influx of sodium → Muscle contractions | MED-C48-08 |
+| m/c presentation : Ocular symptoms | MED-C48-09 |
+| No progression of disease (15-20%) | MED-C48-10 |
+| No progression → Ocular myasthenia (Good prognosis) | MED-C48-11 |
+| Disease progresses (maximum within first 2-3 years) | MED-C48-12 |
+| Progression: Pharyngeal muscles → Proximal muscles → Respiratory muscles | MED-C48-13 |
+| most crucial period in the disease : First 1 yr after ocular symptoms | MED-C48-14 |
+
+Unasked points: **none found**.
+
+### Book p647 / 04 PDF22
+
+| Printed point / call-out | Question |
+|---|---|
+| Demographics : Bimodal peaking | MED-C48-15 |
+| First peak: 20-40 yr | MED-C48-16 |
+| First peak: Females >>> males | MED-C48-17 |
+| Second peak: >60 years | MED-C48-18 |
+| Second peak: males > Females | MED-C48-19 |
+| Anti-acetylcholine receptor (AChR) antibody : Specific | MED-C48-20 |
+| AChR antibody: 85% cases of generalized MG | MED-C48-21 |
+| AChR antibody: 50% of ocular myasthenia | MED-C48-22 |
+| Anti-MuSK antibody: 10-20% of generalized MG | MED-C48-23 |
+| Anti-MuSK: 40-50% of anti-AChR Ab (-) MG | MED-C48-24 |
+| Anti-LRP4: In double negative population (Both anti-MuSK & anti-AChR Ab (-) MG) | MED-C48-25 |
+| Anti-MuSK antibodies: Absent in ocular myasthenia | MED-C48-26 |
+| Anti-MuSK antibodies: Females >>> males | MED-C48-27 |
+| Anti-MuSK antibodies: Neck extensor weakness (Neck drop) | MED-C48-28 |
+| Anti-MuSK antibodies: Tongue fasciculations (+) | MED-C48-29 |
+| Anti-MuSK antibodies: No thymus involvement | MED-C48-30 |
+| Anti-MuSK antibodies: Drug (Pyridostigmine) refractory | MED-C48-31 |
+| Thymus: In 80% seropositive cases | MED-C48-32 |
+| In 80% seropositive cases: 70% thymic hyperplasia; 10% thymoma | MED-C48-33 |
+| Thymectomy in adult onset generalised MG : very good prognosis | MED-C48-34 |
+| Clinical Features: Pure motor syndrome | MED-C48-35 |
+| Clinical Features: Diurnal variation | MED-C48-36 |
+| Fluctuating weakness of UL proximal muscles with repetitive movements | MED-C48-37 |
+| Early onset (Classical) MG: 65% of MG cases | MED-C48-38 |
+| Early onset (Classical) MG: Females >>> males; 20-40 years | MED-C48-39 |
+| Early onset (Classical) MG: Antibodies (++++); Thymic hyperplasia (+) | MED-C48-40 |
+| Early onset (Classical) MG: HLA-DR3, B8, DR9 | MED-C48-41 |
+| Note: FSHD : Symmetrical ptosis (CPEO, not FSHD, is ptosis + ophthalmoplegia in mitochondrial myopathy) | MED-C48-42 |
+| CPEO : Ptosis + ophthalmoplegia; Chronic progressive external ophthalmoplegia; In mitochondrial myopathy | MED-C48-43 |
+
+Unasked points: **none found**.
+
+### Book p648 / 04 PDF23
+
+| Printed point / call-out | Question |
+|---|---|
+| Presenting features: Ocular symptoms : m/c | MED-C48-44 |
+| Ocular: Asymmetrical ptosis + diplopia + ophthalmoplegia | MED-C48-45 |
+| Ocular: Binocular diplopia | MED-C48-46 |
+| Ocular: Pupils spared | MED-C48-47 |
+| Muscle with maximal involvement : medial rectus (MR) | MED-C48-48 |
+| Limb weakness : 10% cases | MED-C48-49 |
+| Fatigue while chewing (D/t masseter muscle involvement) : Specific for MG | MED-C48-50 |
+| Bulbopharyngeal involvement: Dysarthria; Dysphagia | MED-C48-51 |
+| Expressionless facies; Drooped posture | MED-C48-52 |
+| Peek sign : Eyelid closure weakness | MED-C48-53 |
+| Curtain sign : On trying to open ptotic eye → Opposite eyelid droops | MED-C48-54 |
+| Cogan's lid twitch : On trying to look up after a sustained down gaze → Eyelid overshoots | MED-C48-55 |
+| Sustained upgaze (Repeated activity) → Ptosis develops | MED-C48-56 |
+| Unable to count digits 1-10 quickly | MED-C48-57 |
+| 1. Ice pack test → Cold temperature (Improves conduction) | MED-C48-58 |
+| 2. Edrophonium test → 2 mg Edrophonium IV (Cholinesterase inhibitor) | MED-C48-59 |
+| 3. Neostigmine test → Neostigmine 1 mg IM | MED-C48-60 |
+| All three tests arrow to: Symptoms improve | MED-C48-61 |
+| 4. AChR antibody : most specific test | MED-C48-62 |
+| 5. Single nerve fibre electromyography (↑ jitteriness) : most sensitive test | MED-C48-63 |
+| Baseline CMAP: MG Normal; LEMS Reduced | MED-C48-64 |
+| Low frequency (3 Hz) RNS: MG Decremental; LEMS Variable | MED-C48-65 |
+| High frequency RNS: MG Incremental; LEMS >100% incremental | MED-C48-66 |
+
+Unasked points: **none found**.
+
+### Book p649 / 04 PDF24
+
+| Printed point / call-out | Question |
+|---|---|
+| LEMS: Antibodies against V/Q Ca2+ channel on pre-synaptic membrane | MED-C48-67 |
+| Paraneoplastic : Associated with small cell lung cancer | MED-C48-68 |
+| Involvement of Proximal lower limbs (+) | MED-C48-69 |
+| LEMS: ANS (+++); Ocular : mild | MED-C48-70 |
+| Improves with 3,4 di-aminopyramidine | MED-C48-71 |
+| Note: Anti-Hu antibody : Ganglionopathy | MED-C48-72 |
+| Note: Anti-MA2, anti-CRPM5 : Viral encephalitis | MED-C48-73 |
+| Drugs that exacerbate MG include aminoglycosides, quinolones, macrolides, magnesium (antacids), d-penicillamine, azathioprine and propranolol; pyridostigmine is treatment, not an exacerbating drug | MED-C48-74 |
+| Drugs that exacerbate MG: d-Penicillamine; Propranolol | MED-C48-75 |
+| Drugs that exacerbate MG: magnesium (Antacids) | MED-C48-76 |
+| First attack : Cholinesterase inhibitors (Pyridostigmine 30-60 mg every 6th hourly) | MED-C48-77 |
+| From second attack: Initial Rx : Pyridostigmine; maintenance Rx : Steroids ± azathioprine | MED-C48-78 |
+| IVIg + plasma exchange indications: myasthenic crisis; Life-threatening MG; Severe bulbar dysfunction; Refractory MG; Planned for surgery | MED-C48-79 |
+| Cholinergic crisis : D/t overdose of cholinesterase inhibitors | MED-C48-80 |
+| Symptoms : DUMBELLS | MED-C48-81 |
+| DUMBELLS: Diarrhea; Urination; Miosis; Bradycardia; Emesis; Lacrimation; Lethargy; Salivation | MED-C48-82 |
+
+Unasked points: **none found**.
+
+### Book p650 / 04 PDF25
+
+| Printed point / call-out | Question |
+|---|---|
+| Pathology : α / γ motor neurons at ventral horn : Anterior horn cell disease | MED-C49-01 |
+| Pure UMN: Primary lateral sclerosis | MED-C49-02 |
+| UMN + LMN: Amyotrophic lateral sclerosis | MED-C49-03 |
+| ALS: 90% sporadic; 10% genetic | MED-C49-04 |
+| 10% genetic (copper-zinc super oxide dismutase defect) | MED-C49-05 |
+| Pure LMN: SMA; X-linked Kennedy disease; Multifocal motor neuropathy with paraproteinemia | MED-C49-06 |
+| Etiology: Age : > 50 years | MED-C49-07 |
+| M > F; Survival : maximum 3 years since onset | MED-C49-08 |
+| LMN degeneration: Anterior horn cell (AHC); Brainstem nuclei (medulla : 9, 10, 11, 12 cranial nerves) | MED-C49-09 |
+| UMN degeneration printed: Corticospinal tract (CST); Corticospinal tract (CBT) | MED-C49-10 |
+| CLINICAL FEATURES: Cognition is intact : Higher mental functions, ANS, sensory system are spared | MED-C49-11 |
+| AHC : 1st structure to degenerate | MED-C49-12 |
+| CST : Brisk reflexes; Loss of dexterity/tone | MED-C49-13 |
+| Presentations: Distal asymmetric upper limb (UL) predominant atrophy/wasting : Classically forearm/hand | MED-C49-14 |
+| Fasciculations & cramps | MED-C49-15 |
+
+Unasked points: **none found**.
+
+### Book p651 / 04 PDF26
+
+| Printed point / call-out | Question |
+|---|---|
+| Incidence: Bulbar palsy 40% pts; Pseudobulbar palsy 25% | MED-C49-16 |
+| Involvement: 9, 10, 11, 12 cranial nerve vs Fibres to 9, 10, 11, 12 | MED-C49-17 |
+| Lesion: LMN vs UMN | MED-C49-18 |
+| Bulbar general C/F: Nasal twang regurgitation | MED-C49-19 |
+| Pseudobulbar general: Dysphonic (Laryngeal involvement > nasal), Aspiration risk, jaw jerk : Brisk, emotional incontinence | MED-C49-20 |
+| Tongue: Flaccid with fasciculations vs Small spastic tongue | MED-C49-21 |
+| Speech: Bulbar dysarthria progresses → dysphagia | MED-C49-22 |
+| Gag reflex: Absent vs Exaggerated | MED-C49-23 |
+| Caption: ALS patient with distal UL & LL atrophy | MED-C49-24 |
+| Caption: Tongue atrophy in ALS | MED-C49-25 |
+| Caption: Thenar > Hypothenar atrophy | MED-C49-26 |
+| Needle EMG : polyphasic fasciculations & fibrillations | MED-C49-27 |
+| MRI : B / L symmetrical high intensities | MED-C49-28 |
+| TREATMENT: No effective drugs | MED-C49-29 |
+| Riluzole & Edaravone maybe tried | MED-C49-30 |
+
+Unasked points: **none found**.
+
+### Book p652 / 04 PDF27 (PDF27 landscape, 90 deg CCW prerotate)
+
+| Printed point / call-out | Question |
+|---|---|
+| X-LINKED SMA: AKA Kennedy's disease | MED-C49-31 |
+| X-LINKED SMA: Pure LMN | MED-C49-32 |
+| X-LINKED SMA: Trinucleotide repeat disease | MED-C49-33 |
+| Presentation: Associated androgen insensitivity | MED-C49-34 |
+| Spinobulbar involvement: Tremor + fasciculations; Proximal wasting = pseudohypertrophy of calf muscles | MED-C49-35 |
+| Spinobulbar involvement: Tongue wasting + perioral fasciculation | MED-C49-36 |
+| BMA: AKA Hirayama's disease | MED-C49-37 |
+| Presentation: Young male (<20 yrs) | MED-C49-38 |
+| Asymmetrical weakness + wasting (of UL extremity) | MED-C49-39 |
+| Non-progressive | MED-C49-40 |
+| MRI: Impingement of dura (d/t tight dural canal tearing in flexion/growth discrepancy b/w spinal canal & dura) | MED-C49-41 |
+| MRI : BMA callout: Atrophy/thinning of C8 - T1 | MED-C49-42 |
+| Madras MND: Bilfacial weakness + ocular involvement + sensorineural hearing loss (SNHL) + asymmetrical atrophy of limbs | MED-C49-43 |
+| Madras MND: Variant of MND | MED-C49-44 |
+| Caption under photos C/D: Finding of Madras MND | MED-C49-45 |
+
+Unasked points: **none found**.
+
+### Book p653 / 04 PDF28
+
+| Printed point / call-out | Question |
+|---|---|
+| Function : motor output to and sensory output from trunk and limbs | MED-C50-01 |
+| Length : 45cm | MED-C50-02 |
+| Extent : Continuation of medulla | MED-C50-03 |
+| Upper limit : Upper border of atlas (C1) | MED-C50-04 |
+| Adult : Junction between L1 and L2 | MED-C50-05 |
+| Children : Junction between L3-L4 | MED-C50-06 |
+| Piamater : Tip of coccyx | MED-C50-07 |
+| Dura and Arachnoid mater : S2 | MED-C50-08 |
+| Neural tube : 4th week of embryonic life | MED-C50-09 |
+| Caudal part (Tubular) → Spinal cord | MED-C50-10 |
+| Note: Spinal canal : 70 cm | MED-C50-11 |
+| Total vertebrae : 33 (C7, T12, L5, S5, C4) | MED-C50-12 |
+| Spinal nerve root : Dorsal + Ventral nerve root | MED-C50-13 |
+| Levels : 31 segments (C8, T12, L5, S5, C1) | MED-C50-14 |
+| Upper cervical | Same | MED-C50-15 |
+| Lower cervical | +1 | MED-C50-16 |
+| T1-T6 | +2 | MED-C50-17 |
+| T7-T9 | +3 | MED-C50-18 |
+| T10 | L1, L2 | MED-C50-19 |
+| T11 | L3, L4 | MED-C50-20 |
+| T12 | Epiconus; L1 | Conus | MED-C50-21 |
+| Conus medullaris (spinal cord termination) | MED-C50-22 |
+| Internal terminal filum (pial aspect); External terminal filum (dural aspect) | MED-C50-23 |
+| Figure label: Cauda equina | MED-C50-24 |
+
+Unasked points: **none found**.
+
+### Book p654 / 04 PDF29
+
+| Printed point / call-out | Question |
+|---|---|
+| Conus medullaris : Terminal portion of Spinal cord | MED-C50-25 |
+| Cervical enlargement (C3-T2) | MED-C50-26 |
+| 1. Lumbar Enlargement | L2, L3 | MED-C50-27 |
+| 2. Epiconus | L4, L5, S1, S2 | MED-C50-28 |
+| 3. Conus | S3, S4, S5, C0 | MED-C50-29 |
+| Filum terminale : Extension of Pia mater to tip of coccyx | MED-C50-30 |
+| Filum terminale: Length : 20 cm | MED-C50-31 |
+| Symmetry: B/L Symmetric vs Asymmetric radiculopathy | MED-C50-32 |
+| Roots involved: S3, S4, S5, C1 vs L2-L5, S1-S5, C1 | MED-C50-33 |
+| Motor weakness: Absent (Not involved in motor supply) | MED-C50-34 |
+| Cauda Equina Syndrome motor weakness: Present | MED-C50-35 |
+| Sensory: B/L Saddle anaesthesia vs Variable loss | MED-C50-36 |
+| Urinary symptoms (micturition Center : S3, S4) | MED-C50-37 |
+| Conus urinary: Dribbling of urine; Urinary incontinence | MED-C50-38 |
+| Cauda urinary: Present only in extensive disease | MED-C50-39 |
+| Conus reflexes: Bulbocavernosus reflex : Absent; Anal reflex : Absent (Patulous anal canal) | MED-C50-40 |
+| Pathology: Tumour vs Disc abnormality | MED-C50-41 |
+| Onset: Insidious/acute (malignancy) vs Insidious | MED-C50-42 |
+| L1 > L2 | Hip flexion | MED-C50-43 |
+| L2 > L3 | Hip adduction | MED-C50-44 |
+| L4 > L3: Knee extension; Foot dorsiflexion + inversion (Tibialis anterior); Reflex : Knee jerk | MED-C50-45 |
+| L5: Dorsiflexion : Extensor hallucis longus; Eversion; Hip abduction | MED-C50-46 |
+| S1: Hip extension; Knee flexion; Foot plantar flexion; Reflex : Ankle jerk | MED-C50-47 |
+
+Unasked points: **none found**.
+
+### Book p655 / 04 PDF30
+
+| Printed point / call-out | Question |
+|---|---|
+| Posterior column: Fasciculus cuneatus; Fasciculus gracilis | MED-C50-48 |
+| Lateral spinothalamic tract: Pain, temperature | MED-C50-49 |
+| Ventral spinothalamic tract: Pressure, touch (minor role) | MED-C50-50 |
+| Ventral (uncrossed) corticospinal tract: Distal limb movements (minor role) | MED-C50-51 |
+| Lateral corticospinal (Pyramidal) tract | MED-C50-52 |
+| Bracket: Distal limb movements | MED-C50-53 |
+| Bracket: Axial and proximal limb movements | MED-C50-54 |
+| Myelopathies : Sensory/Autonomic/motor symptoms d/t spinal cord disease | MED-C50-55 |
+| Non-compressive : Transverse myelitis | MED-C50-56 |
+| Intramedullary: Tumour : Ependymoma; Syringomyelia (Cavity expansion) | MED-C50-57 |
+| Extramedullary : Disc compression | MED-C50-58 |
+| Above level of lesion : Normal (Complete sparing) | MED-C50-59 |
+| At level of lesion : Based on Anterior Horn cells | MED-C50-60 |
+| Below level of lesion : motor (UMN) and sensory loss | MED-C50-61 |
+| Ventral column : Anterior Horn cells (α and γ motor neurons) | MED-C50-62 |
+| At level of lesion: motor LMN symptoms; Absent Reflexes (maximum localizing value); Sensory symptoms | MED-C50-63 |
+| Eg : L4 spinal segment lesion — Reflex : Absent Knee jerk; Motor : Weakness in knee extension, atrophy of quadriceps, fasciculation | MED-C50-64 |
+
+Unasked points: **none found**.
+
+### Book p656 / 04 PDF31
+
+| Printed point / call-out | Question |
+|---|---|
+| WHITE MATTER: Tracts/funiculi (Funicular pain) | MED-C50-65 |
+| Dorsal column/Posterior column (Ascending) | MED-C50-66 |
+| Postcentral gyrus (3, 1, 2) | MED-C50-67 |
+| Ventro lateral nucleus of thalamus | MED-C50-68 |
+| Level of decussation : Medulla (Internal arcuate fibers) | MED-C50-69 |
+| Figure label as printed: Medial leminiscus | MED-C50-70 |
+| First-order neuron; Dorsal root ganglion | MED-C50-71 |
+| Sensations : Proprioception, fine touch; Vibration, position and joint sense | MED-C50-72 |
+| Complete hemisection of spinal cord (Brown-Sequard syndrome) : I/L loss of posterior column sensations | MED-C50-73 |
+| Posterior compression: Cervical (Sensation of upper limb) Progresses Sacral (Sensation of Lower limb) | MED-C50-74 |
+| Note: Diabetic Neuropathy : Stocking and glove neuropathy | MED-C50-75 |
+| Ascending tracks: 1. Lateral spinothalamic tract | MED-C50-76 |
+| Hemisection of spinal cord : C/L sensory loss | MED-C50-77 |
+| Dissociative sensory loss (Sparing of posterior column + involvement of spinothalamic tract) | MED-C50-78 |
+| Sacral sparing (Cervical > Sacral) | MED-C50-79 |
+| Suspended sensory loss at level of lesion : No loss above/below the lesion (D/t crossover of spinothalamic tract) | MED-C50-80 |
+| d) Prominent and early LMN lesion features | MED-C50-81 |
+| Level of Decussation : Spinal cord (Same (1 to 2 segments above) | MED-C50-82 |
+| Sensations : Pain and temperature | MED-C50-83 |
+| Figure label as printed: Lateral laminiscus | MED-C50-84 |
+
+Unasked points: **none found**.
+
+### Book p657 / 04 PDF32
+
+| Printed point / call-out | Question |
+|---|---|
+| 2. Spinocerebellar; 3. Spinotectal | MED-C50-85 |
+| 4. Spinoreticular; 5. Spino-olivary | MED-C50-86 |
+| Descending tracts : 1. Lateral Corticospinal tract | MED-C50-87 |
+| Figure: Pre-central gyrus | MED-C50-88 |
+| Cerebral peduncle; Midbrain | MED-C50-89 |
+| Level of decussation: Medulla; Pyramids; Decussation of pyramids | MED-C50-90 |
+| Lateral corticospinal tract; Anterior corticospinal tract | MED-C50-91 |
+| Extramedullary lesion: Early involvement | MED-C50-92 |
+| Hemisection of spinal cord : I/L motor weakness | MED-C50-93 |
+| Only Extra pyramidal pathway in lateral column | MED-C50-94 |
+| Action : Flexion of upper limb | MED-C50-95 |
+| Lesion w.r.t Red nucleus of mid Brain: Above vs Below | MED-C50-96 |
+| Rubrospinal tract: Spared vs Affected | MED-C50-97 |
+| Posture upper limb: Flexed vs Extended | MED-C50-98 |
+| Posture lower limb: Extended vs Extended | MED-C50-99 |
+
+Unasked points: **none found**.
+
+### Book p658 / 04 PDF33
+
+| Printed point / call-out | Question |
+|---|---|
+| Ascending tracts: Ventral/Anterior spinothalamic tract; Sensations : Pressure, crude touch (minor role) | MED-C50-100 |
+| Ventral (uncrossed) corticospinal tract: Distal limb movements (minor role) | MED-C50-101 |
+| Descending tracts : 1) extrapyramidal — Vestibulospinal; Ventral reticulospinal; Tectospinal | MED-C50-102 |
+| Action : Extension | MED-C50-103 |
+| Early : Paraplegia in extension (D/t corticospinal tract involvement) | MED-C50-104 |
+| Late : Paraplegia in flexion (Disease progression → Involve extrapyramidal tracts) | MED-C50-105 |
+| Brown Sequard Syndrome : Hemisection of spinal cord | MED-C50-106 |
+| Ipsilateral : Posterior column sensation lost; motor weakness | MED-C50-107 |
+| Contralateral : Lateral Spinothalamic sensation lost (Pain and temperature) | MED-C50-108 |
+| Figure: Dorsal spinal artery; Dorsal radicular artery; Spinal artery; Ventral radicular artery; Ventral spinal artery | MED-C50-109 |
+| Labels: Superior cerebellar artery; Posterior inferior cerebellar artery | MED-C50-110 |
+| Ascending cervical artery; Intercostal artery; Lumbar artery | MED-C50-111 |
+| Caption: Blood supply of spinal cord | MED-C50-112 |
+
+Unasked points: **none found**.
+
+### Book p659 / 04 PDF34
+
+| Printed point / call-out | Question |
+|---|---|
+| Origin : Vertebral Artery | MED-C50-113 |
+| 2 posterior spinal arteries : Posterior 1/3rd of spinal cord | MED-C50-114 |
+| 1 Anterior spinal artery : Anterior 2/3rd of spinal cord | MED-C50-115 |
+| Radicular arteries (Feeder arteries) | MED-C50-116 |
+| Reinforce blood supply at each level (Lower cervical segment and below) | MED-C50-117 |
+| Artery of Adamkiewicz/Arteria radicularis magna (Largest radicular artery) | MED-C50-118 |
+| Originates near T8-T12 vertebrae → Supplies entire lower half spinal cord | MED-C50-119 |
+| T4 - T5 Spinal Segments : Less radicular arteries → ↑ Risk of ischemia | MED-C50-120 |
+| Arteria Vasocorona : Circumferential anastomotic channels around spinal cord | MED-C50-121 |
+| (Corticospinal tract in watershed area → myelopathy) | MED-C50-122 |
+| Anterior Spinal artery thrombosis : Onset : Acute; Associated with : Generalized atherosclerosis | MED-C50-123 |
+| Sparing of posterior column | MED-C50-124 |
+| Posterior spinal artery injury : Traumatic accidents | MED-C50-125 |
+| Ligamentum denticulatum : Extension of pia mater attaching spinal cord on duramater | MED-C50-126 |
+| Compressive myelopathy : Denticulate ligament compresses corticospinal tract | MED-C50-127 |
+
+Unasked points: **none found**.
+
 ## Post-build verification
 
-- `python3 build_content.py` embedded 2363 questions / 211 units / 47 live chapters into `pulse-medicine.html`.
+- `python3 build_content.py` embedded 2617 questions / 225 units / 50 live chapters into `pulse-medicine.html`.
 - `python3 validate_content.py --embedded` passed exact source/HTML equality and all 57 roadmap flags.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 2363 questions and match bijections.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 2617 questions and match bijections.
 - `python3 -m unittest discover -s tests -v` — 9 unit tests PASS.
 
 ## Gate summary
 
-Live chapter artifacts present: **47/57**. Embedded question total after build: **2363**; units: **211**. Ledger points: **2471**. Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **50/57**. Embedded question total after build: **2617**; units: **225**. Ledger points: **2725**. Unasked points: **NONE** in the visually recorded inventory.
 
