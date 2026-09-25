@@ -16348,5 +16348,4007 @@
     "page": 659,
     "point": "Compressive myelopathy : Denticulate ligament compresses corticospinal tract",
     "question": "MED-C50-127"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "myelopathy : Sensory, motor or ANS symptoms d/t disease of spinal cord",
+    "question": "MED-C51-01"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Types : Compressive, Non-compressive",
+    "question": "MED-C51-02"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Compressive Myelopathy : Chronic course",
+    "question": "MED-C51-03"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Flowchart : Compressive myelopathy → Intramedullary / Extramedullary",
+    "question": "MED-C51-04"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Extramedullary → Intradural : / Extradural (m/c)",
+    "question": "MED-C51-05"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Extradural (m/c)",
+    "question": "MED-C51-06"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Intramedullary tumors : Ependymoma, Oligodendroglioma, medulloblastoma (meningioma appears under Intradural)",
+    "question": "MED-C51-07"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Intramedullary Cause - Tumors : Ependymoma",
+    "question": "MED-C51-07"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Oligodendroglioma",
+    "question": "MED-C51-07"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "medulloblastoma",
+    "question": "MED-C51-07"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Meningioma listed under Intradural cause",
+    "question": "MED-C51-07"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Expansion of cavity : Syringomyelia",
+    "question": "MED-C51-08"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Intradural Cause : Neurofibroma, meningioma, Arachnoid cyst, Pachymeningitis",
+    "question": "MED-C51-09"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Lesion of vertebrae - Infection : Te (TB), syphilis",
+    "question": "MED-C51-10"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Lesion of vertebrae : Fracture",
+    "question": "MED-C51-10"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "- Infection : Te, syphilis",
+    "question": "MED-C51-10"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Pyogenic abscess",
+    "question": "MED-C51-11"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "metastasis (Prostate & ovary Ca)",
+    "question": "MED-C51-12"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Disc pathology : IVDP (m/c)",
+    "question": "MED-C51-13"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Aneurysm of aorta",
+    "question": "MED-C51-14"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Extradural (m/c) - Lesion of vertebrae : metastasis (Prostate & ovary Ca); chronic course fits compressive myelopathy",
+    "question": "MED-C51-15"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Figure labels : Dura mater; Epidural space; Subarachnoid space; Arachnoid membrane; Extradural tumor",
+    "question": "MED-C51-16"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Figure label : Extradural tumors (paired callout)",
+    "question": "MED-C51-16"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Figure label : Extradural tumor",
+    "question": "MED-C51-16"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Figure label : Intramedullary tumor",
+    "question": "MED-C51-16"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Figure label : Intradural-extramedullary tumor",
+    "question": "MED-C51-16"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Bottom row captions : Extradural extramedullary; Intradural extramedullary; Intramedullary",
+    "question": "MED-C51-17"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Caption : Types of compressive myelopathy",
+    "question": "MED-C51-17"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "MRI panel caption : Tumors of spinal cord",
+    "question": "MED-C51-18"
+  },
+  {
+    "chapter": 51,
+    "page": 660,
+    "point": "Bottom-right image label : IVDP",
+    "question": "MED-C51-19"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Chronic back pain : moderate to severe intensity",
+    "question": "MED-C51-20"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "worse on erect posture : (Neurogenic claudication : Canal diameter ↓ in standing/erect position)",
+    "question": "MED-C51-21"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Relief on bending (Cycling)",
+    "question": "MED-C51-22"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Bracket : Definitive symptoms of compression",
+    "question": "MED-C51-23"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Tingling, numbness, paresthesia : Usually on both lower limbs (LL) bilaterally depending on level",
+    "question": "MED-C51-24"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Band like sensation (Hyperesthesia) at the level of involvement",
+    "question": "MED-C51-25"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Eg : Umbilicus if T10 level is involved",
+    "question": "MED-C51-26"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Weakness of both LL",
+    "question": "MED-C51-26"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Note table : Walking distance — Neurogenic variable; Vascular fixed",
+    "question": "MED-C51-27"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Relieved on — Neurogenic : Sitting/bending; Vascular : Standing",
+    "question": "MED-C51-28"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Worsened on — Neurogenic : Walking/standing (erect posture); Vascular : walking",
+    "question": "MED-C51-29"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Walking uphill — Neurogenic : Painless; Vascular : Painful",
+    "question": "MED-C51-30"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Vascular claudication : fixed distance, relieved on standing, pulse absent, painful uphill, bicycle test positive (Painful)",
+    "question": "MED-C51-31"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Bicycle test — Neurogenic : Negative; Vascular : Positive (Painful)",
+    "question": "MED-C51-32"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Pulse — Neurogenic : Present; Vascular : Absent",
+    "question": "MED-C51-32"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Pulse : Absent in vascular claudication (Present in neurogenic)",
+    "question": "MED-C51-33"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Weakness — Neurogenic : Occasionally; Vascular : Rarely",
+    "question": "MED-C51-34"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Back pain — Neurogenic : Commonly; Vascular : Occasionally",
+    "question": "MED-C51-35"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Pain character — Neurogenic : Numbness, aching, proximal to distal",
+    "question": "MED-C51-36"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Pain character — Vascular : Cramping : Distal to proximal",
+    "question": "MED-C51-37"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Neurogenic claudication : Canal diameter ↓ in standing/erect position; relieved on bending, bicycle test negative, pulse present",
+    "question": "MED-C51-38"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Examination findings : Higher mental function (HMF), cranial nerves (CN) : Normal",
+    "question": "MED-C51-39"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "motor : Upper limb : Compression below T1 → Power intact (S/S)",
+    "question": "MED-C51-40"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Lower limb : Reduced power; B/L UMN features",
+    "question": "MED-C51-41"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Sensory Lower limb : Spinothalamic tract loss + Posterior column loss → Loss",
+    "question": "MED-C51-42"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Upper limb : Compression below T1 → Sensation intact",
+    "question": "MED-C51-42"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Reflexes : Lower limb : Exaggerated (Knee jerk, ankle jerk)",
+    "question": "MED-C51-43"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Plantar : Extensor",
+    "question": "MED-C51-43"
+  },
+  {
+    "chapter": 51,
+    "page": 661,
+    "point": "Bowel & bladder involvement : In intramedullary compression",
+    "question": "MED-C51-44"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Level localization : LMN findings, wasting atrophy, band like sensation, hyperesthesia, hypesthesia, hypoalgesia : At the level of lesion",
+    "question": "MED-C51-45"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "LMN findings, wasting atrophy, band like sensation, hyperesthesia, hypesthesia, hypoalgesia : At the level of lesion",
+    "question": "MED-C51-45"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "UMN findings : Below the level of lesion (Superficial reflexes lost, deep reflexes exaggerated)",
+    "question": "MED-C51-46"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "upper limb normal : Lesion below T1 (Above level of involvement : Spared)",
+    "question": "MED-C51-47"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Sensory symptoms in both lower limb + weakness of both lower limb → Lesion above L1 spinal segment",
+    "question": "MED-C51-48"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Beevor's sign positive : Lesion below T9",
+    "question": "MED-C51-49"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Once spinal segment is localized : Localize compression to corresponding vertebral segment",
+    "question": "MED-C51-50"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Reflex level : Best localizing value",
+    "question": "MED-C51-51"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Beevor's sign : Procedure : Ask patient to get up from supine position",
+    "question": "MED-C51-52"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Normal : upper (T7-T9) & lower (T9-T12) abdomen contracts together → No deviation of umbilicus",
+    "question": "MED-C51-53"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "weakness of lower abdomen : upper abdominal muscle contraction pull umbilicus above (Beevor sign positive)",
+    "question": "MED-C51-54"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Damage — Intramedullary : Centrifugal (Centre → Periphery of spinal cord)",
+    "question": "MED-C51-55"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Damage — Extramedullary : Centripetal (Periphery → Centre)",
+    "question": "MED-C51-55"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Pain — Intramedullary : Funicular; Extramedullary : Root pain",
+    "question": "MED-C51-56"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Dissociative sensory loss + / − and Suspended sensory loss + / − for intramedullary vs extramedullary",
+    "question": "MED-C51-57"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Suspended sensory loss — Intramedullary +, Extramedullary −",
+    "question": "MED-C51-57"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Sacral sparing — Intramedullary +; Extramedullary −",
+    "question": "MED-C51-58"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Trophic changes (D/t pain & temperature loss) — Intramedullary +; Extramedullary −",
+    "question": "MED-C51-59"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Pyramidal signs (UMN) — Intramedullary : Late; Extramedullary : Early",
+    "question": "MED-C51-60"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "LMN signs — Intramedullary : Early; Extramedullary : Late",
+    "question": "MED-C51-61"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Bowel/bladder — Intramedullary : Early; Extramedullary : Late",
+    "question": "MED-C51-62"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Spinal deformity — Intramedullary −; Extramedullary +",
+    "question": "MED-C51-63"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Spinal tenderness — Intramedullary −; Extramedullary +",
+    "question": "MED-C51-63"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "CSF protein — Intramedullary −; Extramedullary +",
+    "question": "MED-C51-63"
+  },
+  {
+    "chapter": 51,
+    "page": 662,
+    "point": "Intramedullary : Centrifugal damage, dissociative and suspended sensory loss +, sacral sparing +, bowel/bladder early, pyramidal signs late",
+    "question": "MED-C51-64"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure labels : Fasciculus cuneatus; Fasciculus gracilis",
+    "question": "MED-C51-65"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure caption : Cross-section of spinal cord demarcating the tracts at the mid thoracic level",
+    "question": "MED-C51-65"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure lettering in posterior columns : C T L S",
+    "question": "MED-C51-65"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Lateral corticospinal (pyramidal) tract + Rubrospinal tract → Distal limb movements",
+    "question": "MED-C51-66"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure brackets : Pain, temperature for lateral spinothalamic tract",
+    "question": "MED-C51-66"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure brackets : Pressure, touch for ventral spinothalamic tract",
+    "question": "MED-C51-66"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure bracket : Lateral reticulospinal; Vestibulospinal; Ventral reticulospinal; Tectospinal → Axial and proximal limb movements",
+    "question": "MED-C51-67"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "The figure labels fasciculus cuneatus and gracilis, dorsal and ventral spinocerebellar tracts, lateral and ventral spinothalamic tracts, the anterior horn, corticospinal, rubrospinal, reticulospinal, vestibulospinal and tectospinal tracts, not the fasciculus proprius",
+    "question": "MED-C51-68"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure labels : Dorsal root; Ventral root",
+    "question": "MED-C51-68"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure labels : Dorsal spinocerebellar tract; Ventral spinocerebellar tract",
+    "question": "MED-C51-68"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Figure label : Anterior horn (motor neurons)",
+    "question": "MED-C51-68"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Ventral (uncrossed) corticospinal tract : Distal limb movements (minor role)",
+    "question": "MED-C51-69"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Root pain/girdle pain : Character — Brief shock like pain along distribution (initially U/L → B/L)",
+    "question": "MED-C51-70"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Lhermitte sign : Character — Shooting pain along spinal cord till sacrum",
+    "question": "MED-C51-71"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Exacerbated by — Root pain : Coughing/valsava; Lhermitte : On flexion of neck",
+    "question": "MED-C51-72"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Cause — Lhermitte sign : Posterior compression (Extramedullary)",
+    "question": "MED-C51-73"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Cause — Root pain : Posterolateral compression",
+    "question": "MED-C51-73"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Useful for localization — Root pain +; Lhermitte sign −",
+    "question": "MED-C51-74"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Funicular pain/tract pain : Constant, dull, aching pain from within",
+    "question": "MED-C51-75"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Suspended sensory loss : D/t loss of crossing over ST tract fibres at the level",
+    "question": "MED-C51-76"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Above and below level of involvement : Normal",
+    "question": "MED-C51-77"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Dissociative sensory loss : Loss of spinothalamic tract sensation with intact posterior column",
+    "question": "MED-C51-78"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Early LMN finding : when lesion reach anterior horn cell (AHC)",
+    "question": "MED-C51-79"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Spinothalamic tract fibres : Centre → Periphery : CTLS (C : cervical, T : Thoracic, L : Lumbar, S : Sacral)",
+    "question": "MED-C51-80"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Therefore sacral sparing in intramedullary",
+    "question": "MED-C51-80"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Bowel & bladder fibres are in the centre : Early involvement in intramedullary",
+    "question": "MED-C51-81"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Corticospinal tract situated towards periphery : Late UMN involvement in intramedullary",
+    "question": "MED-C51-82"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "CSF protein : D/t root involvement",
+    "question": "MED-C51-83"
+  },
+  {
+    "chapter": 51,
+    "page": 663,
+    "point": "Intramedullary : Extension can damage sympathetic fibre in cervical level → Horner's syndrome",
+    "question": "MED-C51-84"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Involvement — Conus medullaris : B/L S3 → C1 inside spinal cord (printed C1 for the coccygeal segment, as in Ch50)",
+    "question": "MED-C51-85"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Involvement — Cauda equina : Asymmetrical L2 → C1 roots",
+    "question": "MED-C51-85"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Onset — Conus : Sudden onset; Cauda equina : Insidious",
+    "question": "MED-C51-86"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Root pain — Conus : Uncommon; Cauda equina : U/L in leg, thigh, bladder",
+    "question": "MED-C51-87"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Sensory loss — Conus : Saddle distribution; Cauda equina : Saddle/any part of LL",
+    "question": "MED-C51-88"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Dissociated sensory loss — Conus +, Cauda equina −",
+    "question": "MED-C51-88"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "motor — Conus : No weakness; Cauda equina : weakness & wasting of LL muscles",
+    "question": "MED-C51-89"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Deep tendon reflex (DTR) — Conus : Normal (Anal & bulbocavernous reflexes lost)",
+    "question": "MED-C51-90"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "DTR — Cauda equina : Loss of knee & ankle jerk (Depends on level)",
+    "question": "MED-C51-90"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Bladder +/−, Bowel +/− and Sexual +/− for conus versus cauda equina",
+    "question": "MED-C51-91"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Bowel — Conus +, Cauda equina −",
+    "question": "MED-C51-91"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Sexual — Conus +, Cauda equina −",
+    "question": "MED-C51-91"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Cauda equina : asymmetrical L2 → C1 roots, insidious, U/L root pain, weakness & wasting of LL muscles, loss of knee & ankle jerk, bladder/bowel/sexual −",
+    "question": "MED-C51-92"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Epiconus : Involves : L4, L5, S1, S2",
+    "question": "MED-C51-93"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Lower limb weakness : Hip flexion/adduction spared",
+    "question": "MED-C51-94"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Knee & ankle jerk lost",
+    "question": "MED-C51-94"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Sensory loss : Lower limb (Thigh spared)",
+    "question": "MED-C51-94"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Bladder : UMN",
+    "question": "MED-C51-95"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Non Compressive Myelopathy — Causes : mnemonic : VITAMIN",
+    "question": "MED-C51-96"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Vascular & demyelinating : Vascular - Anterior spinal artery (ASA) thrombosis",
+    "question": "MED-C51-96"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Demyelinating - multiple sclerosis (MS)",
+    "question": "MED-C51-96"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Demyelinating - Neuromyelitis optica (NMO)",
+    "question": "MED-C51-96"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Vascular : Anterior spinal artery (ASA) thrombosis",
+    "question": "MED-C51-97"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Demyelinating causes printed are multiple sclerosis (MS) and Neuromyelitis optica (NMO); sarcoid is printed separately under Autoimmune",
+    "question": "MED-C51-98"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Inherited : Friedreich's ataxia",
+    "question": "MED-C51-99"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Toxin : Arsenic",
+    "question": "MED-C51-100"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Autoimmune : Sarcoid",
+    "question": "MED-C51-101"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Metabolic : Sub acute combined degeneration",
+    "question": "MED-C51-102"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "SACD : Posterolateral cord syndrome",
+    "question": "MED-C51-102"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "SACD : D/t vitamin B12 deficiency",
+    "question": "MED-C51-102"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Sub acute combined degeneration : Posterolateral cord syndrome; D/t vitamin B12 deficiency",
+    "question": "MED-C51-103"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Differential diagnosis : Vitamin E deficiency, Copper deficiency, HIV, HTLV-1",
+    "question": "MED-C51-104"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Differential diagnosis of SACD : HIV",
+    "question": "MED-C51-104"
+  },
+  {
+    "chapter": 51,
+    "page": 664,
+    "point": "Metabolic : Sub acute combined degeneration — D/t vitamin B12 deficiency, aetiology also given as arsenic under Toxin but not B12",
+    "question": "MED-C51-105"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Infection : Acute transverse myelitis (Post infectious complication); Syphilis (Tabes dorsalis), TB",
+    "question": "MED-C51-106"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Neoplasia (item 7 of VITAMIN)",
+    "question": "MED-C51-106"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "ACUTE TRANSVERSE MYELITIS : Rapid onset full thickness/segmented monophasic inflammation of the spinal cord (myelitis : inflammation of cord)",
+    "question": "MED-C51-107"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Definition clause : myelitis = inflammation of cord",
+    "question": "MED-C51-107"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Demyelinating disease which can affect variable number of segments",
+    "question": "MED-C51-108"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Dermatome table : T4 Level of nipples",
+    "question": "MED-C51-109"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "C5 Clavicles",
+    "question": "MED-C51-109"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Dermatome table : T10 Level of umbilicus",
+    "question": "MED-C51-110"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "T12 Inguinal or groin regions",
+    "question": "MED-C51-110"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Dermatome table : C5,6,7 Lateral parts of upper limbs; C8, T1 Medial sides of upper limbs",
+    "question": "MED-C51-111"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "C8, T1 Medial sides of upper limbs",
+    "question": "MED-C51-111"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Dermatome table : C6 Thumb; C8 Ring and little fingers",
+    "question": "MED-C51-112"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "C6,7,8 Hand",
+    "question": "MED-C51-112"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Dermatome table : L4 Medial side of great toe; L4,5, S1 Foot; L1.2.3.4 Anterior and inner surfaces of lower limbs",
+    "question": "MED-C51-113"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "S1, 2, L5 Posterior and outer surfaces of lower limbs",
+    "question": "MED-C51-113"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "S1 Lateral margin of foot and little toe",
+    "question": "MED-C51-113"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Dermatome table : S2,3,4 Perineum",
+    "question": "MED-C51-114"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Figure caption : Levels of principal dermatomes",
+    "question": "MED-C51-114"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Causes : Post infectious (m/c)",
+    "question": "MED-C51-115"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Cause : Vaccination",
+    "question": "MED-C51-115"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Cause : multiple sclerosis",
+    "question": "MED-C51-115"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Cause : Sarcoidosis",
+    "question": "MED-C51-115"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Causes : Post infectious (m/c), Vaccination, multiple sclerosis, Sarcoidosis, Paraneoplastic, Neuromyelitis optica, Bechet's disease",
+    "question": "MED-C51-116"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Bracket : Longitudinally extending transverse myelitis",
+    "question": "MED-C51-116"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Bracket over multiple sclerosis, Sarcoidosis, Paraneoplastic, Neuromyelitis optica, Bechet's disease : Longitudinally extending transverse myelitis",
+    "question": "MED-C51-117"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Clinical features : Paresthesia beginning in the feet and extending upward to trunk",
+    "question": "MED-C51-118"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Back pain, paraesthesia → Evolve into spastic weakness",
+    "question": "MED-C51-119"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Peak reached within : 4 hours to 21 days",
+    "question": "MED-C51-120"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Plateau phase : mean duration 1 week",
+    "question": "MED-C51-121"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Definite sensory level : Band like constriction at the level",
+    "question": "MED-C51-122"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Complete loss of all sensory modalities below the level",
+    "question": "MED-C51-123"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "If half thickness involvement : U/L posterior column loss + C/L spinothalamic loss",
+    "question": "MED-C51-124"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "motor weakness : Below the level of involvement (Paraparesis : Symmetrical/asymmetrical)",
+    "question": "MED-C51-125"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Significant bowel/bladder involvement : urinary retention",
+    "question": "MED-C51-126"
+  },
+  {
+    "chapter": 51,
+    "page": 665,
+    "point": "Brisk reflexes below the level of involvement",
+    "question": "MED-C51-126"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "GBS : Progressive lower limb weakness (Proximal > distal)",
+    "question": "MED-C51-127"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "GBS : Ascending paralysis",
+    "question": "MED-C51-127"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "GBS : Areflexia",
+    "question": "MED-C51-127"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "GBS : Normal sensory examination",
+    "question": "MED-C51-127"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Normal sensory examination; No band like sensation (Definite sensory level); No bladder symptoms",
+    "question": "MED-C51-128"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Image annotation : Hyperintensity, caption Acute transverse myelitis (level markers C3 to T8)",
+    "question": "MED-C51-129"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Panels A and B caption : MRI : Hyperintensities in spinal cord",
+    "question": "MED-C51-129"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Investigations : MRI T2 of spine : Hyperintensities at the level; CSF : Pleocytosis (>10 cells), ↑ IgG index",
+    "question": "MED-C51-130"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Treatment : High dose methylprednisolone (500-1000 mg IV in 100ml NS over 1 hour)",
+    "question": "MED-C51-131"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "High dose methylprednisolone — No response → Plasma exchange",
+    "question": "MED-C51-132"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Indications for plasma exchange : Inability to walk; markedly impaired autonomic function; Sensory loss in lower extremities; No/little improvement after 5-7 days of IV steroids",
+    "question": "MED-C51-133"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Indication : No/little improvement after 5-7 days of IV steroids",
+    "question": "MED-C51-133"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "SUBACUTE COMBINED DEGENERATION (SACD) : AKA posterolateral cord syndrome (white matter); D/t vitamin B12 deficiency",
+    "question": "MED-C51-134"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "SCD : D/t vitamin B12 deficiency",
+    "question": "MED-C51-134"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Progression of disease : Posterior tract : Posterior column sensations lost",
+    "question": "MED-C51-135"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Tingling, paraesthesia of distal extremity : First symptom; Vibration sense lost first : First sign",
+    "question": "MED-C51-136"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Fine touch and proprioception lost; then sensory ataxia, gait abnormality",
+    "question": "MED-C51-137"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Sensory ataxia, gait abnormality",
+    "question": "MED-C51-137"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Lateral tract : Spinothalamic tract; Corticospinal tract",
+    "question": "MED-C51-138"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Corticospinal tract : UMN findings (Babinski : extensor plantar), motor manifestations",
+    "question": "MED-C51-138"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Large fibre neuropathy : Reflex lost (knee jerk, ankle jerk), glove & stocking neuropathy",
+    "question": "MED-C51-139"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "If not treated — Complication → Dementia, optic atrophy",
+    "question": "MED-C51-140"
+  },
+  {
+    "chapter": 51,
+    "page": 666,
+    "point": "Note : Cervical compressive myelopathy → Glove & stocking neuropathy",
+    "question": "MED-C51-140"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "FRIEDREICH'S ATAXIA : Commonest form of spinocerebellar degeneration",
+    "question": "MED-C51-141"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Cerebellum is normal",
+    "question": "MED-C51-142"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Figure annotation : Normal cerebellum (Spinocerebellar fibres affected) → Friedreich's ataxia panel C",
+    "question": "MED-C51-142"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Figure annotation : Atrophic cerebellum → Ataxia telangiectasia panel A",
+    "question": "MED-C51-142"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Inheritance : Autosomal recessive : more common, early onset (8-20 yrs); Autosomal dominant : Later onset",
+    "question": "MED-C51-143"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Autosomal recessive : early onset (8-20 yrs)",
+    "question": "MED-C51-143"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Autosomal recessive : more common, early onset (8-20 yrs)",
+    "question": "MED-C51-144"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Gene defect : FRATAXIN (Chr 9) : GAA repetition",
+    "question": "MED-C51-145"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Cerebrum & cranial nerve spared",
+    "question": "MED-C51-146"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Sex pattern : males > females",
+    "question": "MED-C51-146"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Involvement : DSC : Dorsal root ganglion → Spinocerebellar tract → Cord → Lastly nerve",
+    "question": "MED-C51-147"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "DRG : Severe sensory ataxia",
+    "question": "MED-C51-148"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Spinocerebellar tract : Cerebellar findings (Cerebellar ataxia, horizontal nystagmus, dysarthria)",
+    "question": "MED-C51-148"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Cord : Posterior and lateral columns → UMN findings (Extensor plantar)",
+    "question": "MED-C51-149"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Peripheral nerves : Neuropathy → Reflexes lost; Demyelination",
+    "question": "MED-C51-150"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Non neurological manifestations : Scoliosis, Cardiac symptoms (myocardial fibrosis in 90%, cardiomyopathy), Diabetic mellitus, Optic atrophy, Deafness, Pes cavus, Hammer toe",
+    "question": "MED-C51-151"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Optic atrophy",
+    "question": "MED-C51-151"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Deafness",
+    "question": "MED-C51-151"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Hammer toe",
+    "question": "MED-C51-151"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Cardiac symptoms : myocardial fibrosis in 90%, cardiomyopathy",
+    "question": "MED-C51-152"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "TABES DORSALIS : manifestation of neurosyphilis",
+    "question": "MED-C51-153"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Involvement : DRG : Sensory ataxia; Bowel and bladder involvement; Nerve root : Severe radicular pain, Loss of reflexes, Absent plantar response",
+    "question": "MED-C51-154"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Nerve root : Loss of reflexes",
+    "question": "MED-C51-154"
+  },
+  {
+    "chapter": 51,
+    "page": 667,
+    "point": "Nerve root : Absent plantar response",
+    "question": "MED-C51-154"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Chronic inflammatory demyelinating disorder of CNS : multiple sclerosis, Neuromyelitis optica, Anti MOG antibody disease, Sarcoidosis, Chronic graft vs host disease",
+    "question": "MED-C52-01"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Chronic inflammatory demyelinating disorder of CNS : Chronic graft vs host disease",
+    "question": "MED-C52-01"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Note : Non inflammatory demyelination → Osmotic demyelination (Rapid sodium correction)",
+    "question": "MED-C52-02"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "1. Chronic inflammatory demyelination of : Subcortical area; Brainstem; Spinal cord; Cortical area",
+    "question": "MED-C52-03"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "2. Sparing of : Peripheral nerve system; Organ system",
+    "question": "MED-C52-04"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Features : Autoimmune; Females > males; Significant family history; HLA DR2/15",
+    "question": "MED-C52-05"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Feature : Autoimmune",
+    "question": "MED-C52-05"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Feature : Significant family history",
+    "question": "MED-C52-05"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Features : Females > males",
+    "question": "MED-C52-06"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Risk factors : EBV, Smoking, Vitamin D deficiency, High socio-economic status",
+    "question": "MED-C52-07"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Risk factor : EBV",
+    "question": "MED-C52-07"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Risk factor : High socio-economic status",
+    "question": "MED-C52-07"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Risk factors : EBV; Smoking; Vitamin D deficiency; High socio-economic status; Features : Females > males, HLA DR2/15",
+    "question": "MED-C52-08"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "PATHOGENESIS : Inflammation, demyelination, gliosis, secondary neuronal injury",
+    "question": "MED-C52-09"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Astrocytes → Disruption of blood brain barrier",
+    "question": "MED-C52-10"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "↑VEGF → Exudation from capillary",
+    "question": "MED-C52-11"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Flow : Exudation from capillary → Ta-weighted : Hyper intense lesion → T1-weighted : Contrast enhanced lesion",
+    "question": "MED-C52-12"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Imaging row : T2-weighted — Hyper intense lesion",
+    "question": "MED-C52-12"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Imaging row : T1-weighted — Contrast enhanced lesion",
+    "question": "MED-C52-12"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Flow : T cells + B cells",
+    "question": "MED-C52-13"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Target antigens : myelin basic protein (MBP); myelin oligo dendrocyte glycoprotein (MOAP/MOG)",
+    "question": "MED-C52-14"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Target antigen : myelin basic protein (MBP)",
+    "question": "MED-C52-14"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Target antigen : myelin oligo dendrocyte glycoprotein (MOAP)",
+    "question": "MED-C52-14"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Demyelination → Loss of saltatory conduction",
+    "question": "MED-C52-15"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Cumulative axonal destruction → Cortical atrophy / Progressive neuronal damage",
+    "question": "MED-C52-16"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Figure labels : Tight junction; Peg-socket junction",
+    "question": "MED-C52-17"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Figure label : Peg-socket junction",
+    "question": "MED-C52-17"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Figure labels : Pericyte; Astrocyte; Endothelial cell; Microglia; Leukocyte; Neuron; Basement membrane",
+    "question": "MED-C52-18"
+  },
+  {
+    "chapter": 52,
+    "page": 668,
+    "point": "Figure label : Basement membrane",
+    "question": "MED-C52-19"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "DISEASE PATTERNS : Relapsing-remitting 90%",
+    "question": "MED-C52-20"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Secondary progressive 5-6% (Following relapsing-remitting)",
+    "question": "MED-C52-21"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Primary-progressive : Rx : Anti CD-20, Ocrelizumab",
+    "question": "MED-C52-22"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "sensory manifestations : (Long tract symptoms)",
+    "question": "MED-C52-23"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "sensory manifestations (Long tract symptoms) : m/c",
+    "question": "MED-C52-24"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Tingling, numbness, paraesthesia, hypaesthesia; unpleasant sensations; Allodynia",
+    "question": "MED-C52-25"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Sensory list : unpleasant sensations",
+    "question": "MED-C52-25"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Sensory list : hypaesthesia",
+    "question": "MED-C52-25"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "motor manifestations : UMN weakness with loss of strength, speed",
+    "question": "MED-C52-26"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Loss of tone, loss of dexterity, spasticity",
+    "question": "MED-C52-27"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "exercise induced fatigue",
+    "question": "MED-C52-28"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "motor manifestations : UMN weakness with loss of strength, speed; Loss of tone, loss of dexterity, spasticity; exercise induced fatigue",
+    "question": "MED-C52-29"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Optic neuritis : Unilateral; Asymmetric (if bilateral); Retrobulbar pain; Involvement of anterior pathway; Drug responsive; Diplopia",
+    "question": "MED-C52-30"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Optic neuritis : Involvement of anterior pathway",
+    "question": "MED-C52-30"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Optic neuritis : Drug responsive",
+    "question": "MED-C52-30"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Optic neuritis : Asymmetric (if bilateral)",
+    "question": "MED-C52-31"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Minor features : Ataxia, vertigo, Bladder, Lhermitte, Dementia, myokymia",
+    "question": "MED-C52-32"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Minor feature : Bladder",
+    "question": "MED-C52-32"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Minor feature : Dementia",
+    "question": "MED-C52-32"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Minor feature : Lhermitte",
+    "question": "MED-C52-32"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Other presentations : B/L INO",
+    "question": "MED-C52-33"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Other presentation : B/L trigeminal neuralgia",
+    "question": "MED-C52-33"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Pseudobulbar involvement; Acquired pendular nystagmus",
+    "question": "MED-C52-34"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "McDonald criteria : Dissemination in time + Dissemination in space",
+    "question": "MED-C52-35"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Clinical/radiological : 2 lesions : 4 weeks apart",
+    "question": "MED-C52-36"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Dissemination in time : T2 hyper-intense lesion",
+    "question": "MED-C52-36"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Dissemination in time : T1 enhancing with contrast",
+    "question": "MED-C52-36"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "or T2 hyper-intense lesion or T1 enhancing with contrast",
+    "question": "MED-C52-37"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "DIS : 2 lesions at different sites; Sites : Juxtacortical, Periventricular, Spinal cord, Infratentorial",
+    "question": "MED-C52-38"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "DIS site : Juxtacortical",
+    "question": "MED-C52-38"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "DIS site : Periventricular",
+    "question": "MED-C52-38"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "DIS site : Spinal cord",
+    "question": "MED-C52-38"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "DIS site : Infratentorial (Cerebellar & middle cerebellar peduncle)",
+    "question": "MED-C52-38"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "Infratentorial (Cerebellar & middle cerebellar peduncle)",
+    "question": "MED-C52-39"
+  },
+  {
+    "chapter": 52,
+    "page": 669,
+    "point": "McDonald : Dissemination in time (2 lesions 4 weeks apart) + Dissemination in space (2 lesions at different sites; periventricular and spinal cord listed)",
+    "question": "MED-C52-40"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Uhthoff's phenomenon : U/L blurring of vision during hot shower",
+    "question": "MED-C52-41"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Lhermitte's symptom : Flexion of neck produces pain in spine (Also seen in compressive myelopathy)",
+    "question": "MED-C52-42"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Pulfrich phenomenon : Altered visual perception (Two dimensional image perceived as three dimensional image)",
+    "question": "MED-C52-43"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Panels A, B, C caption : MRI showing hyper-intense lesion",
+    "question": "MED-C52-44"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Right-hand image caption : Periventricular lesion",
+    "question": "MED-C52-45"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "T2 hyperintensities : Periventricular white matter : Common; Corpus callosum (Dawson's fingers) : Typical",
+    "question": "MED-C52-46"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Corpus callosum (Dawson's fingers) : Typical",
+    "question": "MED-C52-47"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "CSF : Oligoclonal bands; IgG increased in 90%",
+    "question": "MED-C52-48"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Figure : Normal shows Oligoclonal Bands absent in CSF and Plasma; Abnormal shows Oligoclonal Bands present; caption Oligoclonal bands in CSF",
+    "question": "MED-C52-49"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Visually evoked response (VER) : Sensitivity : 80-85%",
+    "question": "MED-C52-50"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "TREATMENT — Acute attacks : IV steroids; Also for relapse/remission",
+    "question": "MED-C52-51"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Acute attacks : IV steroids; Also for relapse/remission",
+    "question": "MED-C52-52"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Prevention — Infusable : Natalizumab : Anti-α4 integrin",
+    "question": "MED-C52-53"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Natalizumab mechanism : Anti-α4 integrin",
+    "question": "MED-C52-53"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "S/E : Progressive multifocal leukoencephalopathy (PML)",
+    "question": "MED-C52-54"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Ocrelizumab : For 1° progressive type",
+    "question": "MED-C52-55"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Alemtuzumab : Anti-CD52",
+    "question": "MED-C52-56"
+  },
+  {
+    "chapter": 52,
+    "page": 670,
+    "point": "Injectable : Glatiramer acetate; IFN β",
+    "question": "MED-C52-57"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Oral : Fingolimod : Sphingosine receptor modulator",
+    "question": "MED-C52-58"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Teriflunomide : Dihydroorotate dehydrogenase inhibitor",
+    "question": "MED-C52-59"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Oral : Fingolimod, Teriflunomide, Dimethyl fumarate",
+    "question": "MED-C52-60"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Natalizumab : Anti-α4 integrin; S/E : Progressive multifocal leukoencephalopathy (PML)",
+    "question": "MED-C52-61"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Neuromyelitis Optica (NMO) : AKA Devic's disease",
+    "question": "MED-C52-62"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Antibody : Against aquaporin 4",
+    "question": "MED-C52-63"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "FEATURES : Sex : Females > males; Age : 40 years",
+    "question": "MED-C52-64"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Associated autoimmune disease (SLE) in 40% cases",
+    "question": "MED-C52-65"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "CLINICAL FEATURES : Optic neuritis +, myelitis ±, Hearing loss",
+    "question": "MED-C52-66"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Optic neuritis : B/L symmetrical; Involvement of chiasma",
+    "question": "MED-C52-67"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "NMO optic neuritis : Poor response to Rx",
+    "question": "MED-C52-67"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "NMO optic neuritis : Severe visual loss",
+    "question": "MED-C52-67"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Poor response to Rx; Severe visual loss — versus MS optic neuritis which is printed as drug responsive",
+    "question": "MED-C52-68"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "myelitis : Long segment involvement; Longitudinal extension of transverse myelitis",
+    "question": "MED-C52-69"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "NMO myelitis : Poor prognosis",
+    "question": "MED-C52-69"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "NMO myelitis : monophasic course",
+    "question": "MED-C52-69"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "Recurrent intractable hiccup d/t involvement of area postrema",
+    "question": "MED-C52-70"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "INVESTIGATION : Oligoclonal bands (30%); MRI brain : Normal",
+    "question": "MED-C52-71"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "TREATMENT : Steroids; Plasma exchange",
+    "question": "MED-C52-72"
+  },
+  {
+    "chapter": 52,
+    "page": 671,
+    "point": "NMO features: Associated autoimmune disease (SLE) in 40% cases; Antibody against aquaporin 4; Optic neuritis B/L symmetrical; Long segment involvement; Oligoclonal bands (30%); MRI brain : Normal",
+    "question": "MED-C52-73"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Anti MOG diseases : Optic neuritis, myelitis, Aquaporin 4 negative NMO spectrum disorders, ADEM — the AQP4-positive form is not in this list",
+    "question": "MED-C52-74"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Aquaporin 4 negative NMO spectrum disorders",
+    "question": "MED-C52-75"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "ADEM : Age : < 12 yrs",
+    "question": "MED-C52-76"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "ADEM : males > females in children",
+    "question": "MED-C52-76"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "males > females in children",
+    "question": "MED-C52-77"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Etiology : Post infectious : measles > chicken pox",
+    "question": "MED-C52-78"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Incubation period : 4-21 days",
+    "question": "MED-C52-79"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Etiology : Post infectious (measles > chicken pox); Post vaccination",
+    "question": "MED-C52-80"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Pathology : molecular mimicry of myelin basic protein, myelin oligodendrocyte protein",
+    "question": "MED-C52-81"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Clinical manifestations : Acute inflammatory demyelination + Encephalitis",
+    "question": "MED-C52-82"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Site : White matter (Predominant), grey matter, basal ganglia, thalamus",
+    "question": "MED-C52-83"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "monophasic; Large foci of hyper-intensities; Fluffy lesions",
+    "question": "MED-C52-84"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Encephalitis : Seizure; ↑ICT; Loss of consciousness",
+    "question": "MED-C52-85"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "B/L hypertonia, hyper-extensive response; meningismus, encephalopathy",
+    "question": "MED-C52-86"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "Encephalitis arm : meningismus, encephalopathy",
+    "question": "MED-C52-86"
+  },
+  {
+    "chapter": 52,
+    "page": 672,
+    "point": "visual loss, paresthesia, hemiparesis, ataxia, sphincter disturbance, myoclonus, choreoathetosis",
+    "question": "MED-C52-87"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "INVESTIGATION : MRI : Large foci of hyperintense lesions",
+    "question": "MED-C52-88"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Image caption : Hyper-intensity in MRI",
+    "question": "MED-C52-88"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Age — ADEM : <12 years; MS : >12 years",
+    "question": "MED-C52-89"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Gender — ADEM : males > females in children; MS : Females > males (3:1)",
+    "question": "MED-C52-90"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Triggers +/− and Constitutional symptoms +/− for ADEM versus MS",
+    "question": "MED-C52-91"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Constitutional symptoms — ADEM +, MS −",
+    "question": "MED-C52-91"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Optic neuritis — ADEM : B/L; MS : U/L",
+    "question": "MED-C52-92"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Complete myelopathy — ADEM : Rare; MS : Common",
+    "question": "MED-C52-93"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Encephalopathy — ADEM : Common; MS : Less common",
+    "question": "MED-C52-94"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Pattern of disease — ADEM : monophasic; MS : Relapsing remitting",
+    "question": "MED-C52-95"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "MRI — ADEM : Large lesions, usually symmetrical; MS : variable size, Asymmetric",
+    "question": "MED-C52-96"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Location — ADEM : Centripetal; MS : Periventricular",
+    "question": "MED-C52-97"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "Other features — ADEM : mass effect, Grey matter involvement; MS : −",
+    "question": "MED-C52-98"
+  },
+  {
+    "chapter": 52,
+    "page": 673,
+    "point": "ADEM column : Age <12 years, Trigger +, Optic neuritis B/L, Pattern monophasic, MRI large usually symmetrical, Location centripetal, Other features mass effect/grey matter involvement",
+    "question": "MED-C52-99"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Terminal branches : mnemonic OPAAm",
+    "question": "MED-C53-01"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Ophthalmic Artery",
+    "question": "MED-C53-02"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Posterior Communicating Artery (PCAA) as printed for the second item",
+    "question": "MED-C53-03"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Terminal branches : Ophthalmic, Posterior Communicating, Anterior Choroidal, Anterior Cerebral, middle Cerebral arteries",
+    "question": "MED-C53-04"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Terminal branch : Anterior Choroidal Artery",
+    "question": "MED-C53-04"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Terminal branch : Anterior Cerebral Artery",
+    "question": "MED-C53-04"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Terminal branch : middle Cerebral Artery",
+    "question": "MED-C53-04"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Brachiocephalic trunk",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Right common carotid artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Right internal carotid artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Right vertebral artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Right subclavian artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure labels : C1 to C6",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Basilar artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Posterior communicating artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Anterior cerebral artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Middle cerebral artery",
+    "question": "MED-C53-05"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure caption : Terminal branches of internal carotid artery",
+    "question": "MED-C53-06"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Circle of Willis : A1 Segment bracketed on the ACA proximal to Acomm, A2 Segment distal to it",
+    "question": "MED-C53-07"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : A2 Segment (distal to Anterior communicating artery (Acomm))",
+    "question": "MED-C53-08"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure : P1 Segment and Pa Segment (P2) labelled on the posterior cerebreal artery relative to the posterior communicating artery",
+    "question": "MED-C53-09"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Basilar branches labelled are Superior cerebellar artery, Pontine branches and Anterior inferior cerebellar artery; the posterior inferior cerebellar artery is labelled off the vertebral artery",
+    "question": "MED-C53-10"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Pontine branches",
+    "question": "MED-C53-10"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Superior cerebellar artery",
+    "question": "MED-C53-10"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Anterior inferior cerebellar artery",
+    "question": "MED-C53-10"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure : Posterior inferior cerebellar artery labelled with the vertebral artery",
+    "question": "MED-C53-11"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label : Anterior spinal artery",
+    "question": "MED-C53-12"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure labels at the ICA : Ophthalmic artery; Anterior choroidal artery",
+    "question": "MED-C53-13"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Figure label printed as Posterior cerebreal artery (PCA) — a printer's typo for posterior cerebral artery",
+    "question": "MED-C53-14"
+  },
+  {
+    "chapter": 53,
+    "page": 674,
+    "point": "Circle diagram : ICA gives off the middle cerebral artery, anterior choroidal artery and the ACA via A1; ophthalmic artery also arises here",
+    "question": "MED-C53-15"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Diagram captions : Superolateral surface; medial surface; Inferior surface",
+    "question": "MED-C53-16"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Colour legend : Anterior cerebral artery; Middle cerebral artery; Posterior cerebral artery",
+    "question": "MED-C53-16"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "ACA — Area supplied : most of medial Surface",
+    "question": "MED-C53-17"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "ACA area supplied : most of medial Surface; Paracentral lobule/Cingulate gyrus; Narrow strip of cerebral cortex adjoining superomedial border",
+    "question": "MED-C53-18"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "ACA area : Narrow strip of cerebral cortex adjoining superomedial border",
+    "question": "MED-C53-18"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA — Area supplied : most of superolateral surface",
+    "question": "MED-C53-19"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA : most of Primary motor and Sensory area; Frontal eye field; Broca & Wernicke's area (Dominant hemisphere); Temporal pole",
+    "question": "MED-C53-20"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA area : most of Primary motor and Sensory area",
+    "question": "MED-C53-20"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA area : Temporal pole",
+    "question": "MED-C53-20"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Broca & Wernicke's area (Dominant hemisphere)",
+    "question": "MED-C53-21"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "PCA — Area supplied : most of inferior Surface except : Temporal pole",
+    "question": "MED-C53-22"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "ACA supplies most of the medial surface including paracentral lobule; PCA supplies most of the inferior surface except the temporal pole",
+    "question": "MED-C53-23"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA : most of Primary motor and Sensory area; the ACA column lists paracentral lobule, cingulate gyrus and the superomedial strip",
+    "question": "MED-C53-24"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "PCA : most of inferior Surface except : Temporal pole",
+    "question": "MED-C53-25"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA area supplied includes Temporal pole, which is excluded from the PCA",
+    "question": "MED-C53-26"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "ACA Injury : Weakness : LL > UL",
+    "question": "MED-C53-27"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Paracentral lobule involvement : urinary incontinence",
+    "question": "MED-C53-28"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Cingulate gyrus : Apathy (mild form), Abulia, Amotivation, Akinetic mutism (severe form)",
+    "question": "MED-C53-29"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Cingulate gyrus : Abulia",
+    "question": "MED-C53-29"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Cingulate gyrus : Amotivation",
+    "question": "MED-C53-29"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Cingulate gyrus : Akinetic mutism (severe form)",
+    "question": "MED-C53-29"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "ACA Injury : Weakness LL > UL; Cingulate gyrus — Apathy (mild form) to Akinetic mutism (severe form)",
+    "question": "MED-C53-30"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA Injury : weakness : UL > LL",
+    "question": "MED-C53-31"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA Injury : Temporal pole involvement : macular involvement",
+    "question": "MED-C53-32"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Cortical lesion : Broca's area (inferior frontal gyrus)",
+    "question": "MED-C53-33"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Wernicke's area (Sup. temporal gyrus)",
+    "question": "MED-C53-33"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "No aphasia in internal capsule lesion",
+    "question": "MED-C53-34"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Brace : Aphasia (cortical)",
+    "question": "MED-C53-35"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "PCA Injury : Visual area injury C/L homonymous hemianopia with macular sparing",
+    "question": "MED-C53-36"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA : Temporal pole involvement : macular involvement; PCA : C/L homonymous hemianopia with macular sparing",
+    "question": "MED-C53-37"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "PCA Injury : Visual area injury",
+    "question": "MED-C53-38"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "MCA Injury : weakness UL > LL; cortical lesion with Broca's and Wernicke's areas giving aphasia; MCA territory includes the dominant-hemisphere language cortex",
+    "question": "MED-C53-39"
+  },
+  {
+    "chapter": 53,
+    "page": 675,
+    "point": "Order printed : Apathy (mild form), Abulia, Amotivation, Akinetic mutism (severe form)",
+    "question": "MED-C53-40"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure label at the Genu : Corticobulbar tract",
+    "question": "MED-C53-41"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure labels : Medial geniculate nucleus; Lateral: geniculate nucleus",
+    "question": "MED-C53-42"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure structures : Head of caudate nucleus; Putamen; Globus pallidus; Thalamus",
+    "question": "MED-C53-42"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure label : Auditory radiation (inferior thalamic peduncle)",
+    "question": "MED-C53-43"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure label : Optic radiation (posterior thalamic peduncle)",
+    "question": "MED-C53-44"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure label : Superior thalamic radiation (includes somatosensory radiation)",
+    "question": "MED-C53-45"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Anterior limb : Anterior thalamic radiation; Frontopontine and other corticofugal fibers",
+    "question": "MED-C53-46"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Posterior limb label : Corticopontine and other corticofugal fibers",
+    "question": "MED-C53-46"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Coronal figure labels : Corona radiata; Internal capsule; Caudate; Putamen; Globus pallidus; Thalamus",
+    "question": "MED-C53-47"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Anterior limb : Frontopontine fibers : Lacunar stroke (Cerebellar involvement)",
+    "question": "MED-C53-48"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Genu : Cortico spinal fibers : Head & neck; Corticobulbar fiber (Predominantly)",
+    "question": "MED-C53-49"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Genu : corticospinal fibres for head and neck with corticobulbar fibre predominating — the leg area and the thalamic radiations are not genu fibres",
+    "question": "MED-C53-50"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Posterior limb : Corticospinal tract : Anterior 2/3 of Post limb",
+    "question": "MED-C53-51"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Posterior limb weakness : UL = LL (Dense : Hemiplegia)",
+    "question": "MED-C53-52"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Posterior limb : Corticorubral fibers",
+    "question": "MED-C53-53"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Retrolentiform : Posterior thalamic radiation (Optic)",
+    "question": "MED-C53-54"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Sublentiform part : Inferior thalamic radiation (Auditory)",
+    "question": "MED-C53-55"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Posterior limb : Corticospinal tract : Anterior 2/3 of Post limb — weakness UL = LL (Dense : Hemiplegia)",
+    "question": "MED-C53-56"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "U/L corticobulbar injury : No cranial nerve palsy (B/L innervation in cortex)",
+    "question": "MED-C53-57"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Except : 7th UMN palsy (D/t C/L supply)",
+    "question": "MED-C53-58"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "B/L corticobulbar injury/Pseudobulbar palsy : Seen in ALS or motor neuron disease",
+    "question": "MED-C53-59"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Note : Dense capsule lesion/hemiplegia : C/L facial palsy & hemiplegia",
+    "question": "MED-C53-60"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Internal capsule lesion : H H H Triad — 1. Hemiplegia, 2. Hemisensory loss, 3. Homonymous hemianopia",
+    "question": "MED-C53-61"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "HHH item 1 : Hemiplegia : Dense UL = LL",
+    "question": "MED-C53-61"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "HHH item 1 : 7th N. UMN (C/L to injury)",
+    "question": "MED-C53-61"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "HHH item 2 : Hemisensory loss",
+    "question": "MED-C53-61"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "HHH item 3 : Homonymous hemianopia",
+    "question": "MED-C53-61"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Hemiplegia : Dense UL = LL",
+    "question": "MED-C53-62"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Closing note : MCA involvement : UL > LL",
+    "question": "MED-C53-62"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Closing note : ACA involvement : LL > UL",
+    "question": "MED-C53-62"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Closing note : Post limb : UL = LL",
+    "question": "MED-C53-62"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "7th N. UMN (C/L to injury)",
+    "question": "MED-C53-63"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Internal capsule lesion : H H H Triad — Hemiplegia with dense UL = LL and 7th N UMN, Hemisensory loss, Homonymous hemianopia",
+    "question": "MED-C53-64"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Note : MCA involvement : UL > LL; ACA involvement : LL > UL; Post limb : UL = LL",
+    "question": "MED-C53-65"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Figure structures : Head of caudate nucleus; Putamen; Globus pallidus; Thalamus, with the capsule drawn between them",
+    "question": "MED-C53-66"
+  },
+  {
+    "chapter": 53,
+    "page": 676,
+    "point": "Section heading : Internal Capsule",
+    "question": "MED-C53-66"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Anterior limb : Striate branches of Anterior cerebral (including the longest branch - recurrent artery of Heubner) and Middle cerebral",
+    "question": "MED-C53-67"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Anterior limb supply : longest branch = recurrent artery of Heubner",
+    "question": "MED-C53-67"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Genu : Striate branches of Anterior cerebral, Middle cerebral and direct branches from Internal carotid",
+    "question": "MED-C53-68"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Posterior limb : Striate branches from Middle cerebral (including large Charcot artery of cerebral haemorrhage) and Anterior Choroidal",
+    "question": "MED-C53-69"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Retrolentiform Part : Striate Branches from Posterior cerebral; Sublentiform Part : Striate Branches from Posterior cerebral and anterior choroidal",
+    "question": "MED-C53-70"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Sublentiform Part supply : Striate Branches from Posterior cerebral and anterior choroidal",
+    "question": "MED-C53-70"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Annotation : Injury : HHH triad — mild form, Hemisensory loss predominant",
+    "question": "MED-C53-71"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Figure labels : Anterior cerebral A.; Middle cerebral A.; Internal carotid A.; Anterior choroidal A.; Posterior cerebral A.",
+    "question": "MED-C53-72"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Upper diagram : By branches from internal carotid & post. communicating arteries",
+    "question": "MED-C53-73"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Upper diagram : By striate branches of middle cerebral a.",
+    "question": "MED-C53-74"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Upper diagram : By recurrent branch of anterior cerebral a.",
+    "question": "MED-C53-75"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Figure labels : horizontal M1; Sylvian M2; Cortical M3-segment",
+    "question": "MED-C53-76"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Figure labels : Lenticulo-striate arteries — medial and lateral",
+    "question": "MED-C53-77"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Figure labels : Putamen; Globus Pallidus; Internal capsule; Caudate Head",
+    "question": "MED-C53-77"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "M2 segment annotation : Supplies sylvian fissure (hand-written subscript read as M2)",
+    "question": "MED-C53-78"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Superior division → Stroke → C/L Hemiplegia with Broca's aphasia",
+    "question": "MED-C53-79"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "M2 flowchart : Inferior division → Wernicke's aphasia without weakness",
+    "question": "MED-C53-80"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Fluent comprehension-poor aphasia without weakness matches the inferior-division branch, since the superior-division branch adds C/L hemiplegia",
+    "question": "MED-C53-81"
+  },
+  {
+    "chapter": 53,
+    "page": 677,
+    "point": "Involvement of both division → C/L Hemiplegia with global aphasia",
+    "question": "MED-C53-82"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "M1 segment Supplies : Internal capsule, Caudate nucleus, Putamen, Globus pallidus",
+    "question": "MED-C53-83"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "M1 supply : Globus pallidus",
+    "question": "MED-C53-83"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Perforator vessels (30-300µm)",
+    "question": "MED-C53-84"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Lenticulostriate artery — Occlusion → Internal capsule stroke",
+    "question": "MED-C53-85"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Internal capsule stroke → HHH triad + UMN 7th palsy + Parkinson features (B/L Occlusion)",
+    "question": "MED-C53-86"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Lipohyalinosis → Lacunar stroke — Pure motor hemiparesis",
+    "question": "MED-C53-87"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Perforator vessels (30-300µm) → Lipohyalinosis → Lacunar stroke → Pure motor hemiparesis",
+    "question": "MED-C53-88"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Complete MCA Syndrome : Involvement of M1 + M2 + M3 Segment",
+    "question": "MED-C53-89"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Aphasia + 7th nerve palsy (Only if B/L Corticobulbar involvement)",
+    "question": "MED-C53-90"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Complete MCA syndrome also lists the HHH triad",
+    "question": "MED-C53-90"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Common features : HHH triad",
+    "question": "MED-C53-91"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Complete MCA syndrome : Aphasia, Agnosia, Apraxia, LOC and seizure",
+    "question": "MED-C53-92"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "MCA different features : Non dominant finding : unstructured/dressing apraxia",
+    "question": "MED-C53-92"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "MCA different feature : Hemispatial neglect",
+    "question": "MED-C53-92"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Internal Capsule Lesions : Dense Hemiplegia (UL = LL)",
+    "question": "MED-C53-93"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Internal Capsule Lesions : Dense Hemiplegia (UL = LL), versus the MCA column's aphasia, agnosia, apraxia, LOC and seizure",
+    "question": "MED-C53-94"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "A1 Segment : Proximal to Anterior communicating artery",
+    "question": "MED-C53-95"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "A1 structures supplied : Hypothalamus (Anterior hypothalamus), Caudate lobe (Antero-inferior part of Head of caudate), Internal capsule (Anterior limb)",
+    "question": "MED-C53-96"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Occlusion of Segment → No clinical Symptoms (D/t presence of significant collaterals)",
+    "question": "MED-C53-97"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "A2 Segment : Distal to Anterior communicating artery — Structures supplied : medial Cerebral surface, Paracentral lobule, Cingulate gyrus",
+    "question": "MED-C53-98"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "medial Cerebral surface : C/L hemiplegia (LL > UL)",
+    "question": "MED-C53-99"
+  },
+  {
+    "chapter": 53,
+    "page": 678,
+    "point": "Cingulate gyrus — Apathy, Abulia",
+    "question": "MED-C53-100"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Gait apraxia (B/L involvement) : Also seen in Normal Pressure Hydrocephalus",
+    "question": "MED-C53-101"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "ACA note : Corticosensory loss (Partial)",
+    "question": "MED-C53-101"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "ACA note : Primitive reflex : loss of C/L grasp & sucking reflex",
+    "question": "MED-C53-101"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Primitive reflex : loss of C/L grasp & sucking reflex",
+    "question": "MED-C53-102"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "P1 Segment : Proximal to P. com",
+    "question": "MED-C53-103"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "P2 Segment : Distal to P. com",
+    "question": "MED-C53-103"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "P1 Supplies : mid brain; Subthalamus; Thalamus",
+    "question": "MED-C53-104"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "medial-Temporal — Involvement : Visual agnosia; Peduncular hallucinosis (Complex visual hallucination)",
+    "question": "MED-C53-105"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Peduncular hallucinosis (Complex visual hallucination)",
+    "question": "MED-C53-106"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Splenium : Alexia without agraphia",
+    "question": "MED-C53-107"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Hippocampus : memory disturbances",
+    "question": "MED-C53-107"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Hippocampal involvement in the medial-temporal list produces memory disturbances",
+    "question": "MED-C53-108"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Occipital lobe involvement (characteristic of P2 lesion) : C/L homonymous hemianopia (congruent hemianopia); macular sparing",
+    "question": "MED-C53-109"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "(congruent hemianopia)",
+    "question": "MED-C53-110"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Anton syndrome : Cortical blindness with pupillary sparing",
+    "question": "MED-C53-111"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Balint's syndrome : Optic ataxia (Overshooting of visual field); Oculomotor apraxia; Simultanagnosia (missing forest for the trees); Palinopsia",
+    "question": "MED-C53-112"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Balint feature : Optic ataxia (Overshooting of visual field)",
+    "question": "MED-C53-112"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Balint feature : Oculomotor apraxia",
+    "question": "MED-C53-112"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Balint feature : Palinopsia (Abnormal persistence of an image in time)",
+    "question": "MED-C53-112"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Simultanagnosia (missing forest for the trees)",
+    "question": "MED-C53-113"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Palinopsia (Abnormal persistence of an image in time)",
+    "question": "MED-C53-114"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Note : Ataxia with agraphia : Gerstmann syndrome",
+    "question": "MED-C53-115"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "a. B/L involvement → Anton syndrome : Cortical blindness with pupillary sparing",
+    "question": "MED-C53-116"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "C/L homonymous hemianopia (congruent hemianopia) with macular sparing",
+    "question": "MED-C53-117"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "SYNDROMES : Types of posterior circulation — Type I, Type IIA, Type IIB, Type III",
+    "question": "MED-C53-118"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Schematic labels : Midbrain; Thalamus (both sides); Posterior cerebral artery; Basilar artery",
+    "question": "MED-C53-118"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Type IIB is the diagram annotated with 1. Artery of percheron (AOP)",
+    "question": "MED-C53-119"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "1. Artery of percheron (AOP)",
+    "question": "MED-C53-120"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Artery of percheron → Infarct → Triad : Drowsy/confusion, vertical gaze palsy, memory disturbance",
+    "question": "MED-C53-121"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Triad lists Drowsy/confusion, vertical gaze palsy and memory disturbance",
+    "question": "MED-C53-122"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "2. Dejerine Roussy syndrome : AKA burning hand syndrome",
+    "question": "MED-C53-123"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Thalamogeniculate artery occlusion",
+    "question": "MED-C53-124"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Dejerine-Roussy features : C/L hemisensory loss",
+    "question": "MED-C53-124"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Dejerine-Roussy : Burning pain in UL & LL",
+    "question": "MED-C53-124"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Dejerine Roussy syndrome : AKA burning hand syndrome; Thalamogeniculate artery occlusion; Features : C/L hemisensory loss, Burning pain in UL & LL",
+    "question": "MED-C53-125"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Image caption : Dejerine Roussy syndrome",
+    "question": "MED-C53-126"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "P1 : Proximal to P. com and P2 : Distal to P. com — the posterior communicating artery is the landmark",
+    "question": "MED-C53-127"
+  },
+  {
+    "chapter": 53,
+    "page": 679,
+    "point": "Section heading : Posterior Cerebral Artery",
+    "question": "MED-C53-127"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Schematic labels : Cortical border zone between ACA and MCA; Internal border zone between LCA and MCA; Cortical border zone between MCA and PCA",
+    "question": "MED-C53-128"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Watershed areas prone to infarct",
+    "question": "MED-C53-129"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Predisposing conditions : Hypoalbuminemia, Sudden Hypotension, Dehydration (Adequate hydration of patient)",
+    "question": "MED-C53-130"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Dehydration (Adequate hydration of patient)",
+    "question": "MED-C53-131"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Panel letters a-d top row and b-d lower row illustrate the border-zone hyperintensities",
+    "question": "MED-C53-132"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Heading : Watershed territories",
+    "question": "MED-C53-132"
+  },
+  {
+    "chapter": 53,
+    "page": 680,
+    "point": "Watershed areas prone to infarct; Predisposing conditions : Sudden Hypotension, Dehydration, Hypoalbuminemia; cortical border zone between ACA and MCA is labelled",
+    "question": "MED-C53-133"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Weakness — Embolic stroke : Full weakness at onset",
+    "question": "MED-C54-01"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Weakness — Thrombotic stroke : Weakness evolves over 48-72 hr",
+    "question": "MED-C54-01"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Thrombotic stroke : Weakness evolves over 48-72 hr",
+    "question": "MED-C54-02"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Rapid recovery of consciousness & cortical findings — Embolic +; Thrombotic −",
+    "question": "MED-C54-03"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Multiple lesions at different areas — Embolic +; Thrombotic −",
+    "question": "MED-C54-04"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Embolic row : Involvement of grey matter - white matter interphase (+; thrombotic −)",
+    "question": "MED-C54-04"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Hemorrhagic transformation — Embolic +; Thrombotic −",
+    "question": "MED-C54-05"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Vessels involved — Embolic : Small vessel; Thrombotic : Large vessel",
+    "question": "MED-C54-06"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Thrombectomy useful + Better prognosis — Embolic −; Thrombotic +",
+    "question": "MED-C54-07"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Involvement of grey matter - white matter interphase : + in embolic stroke",
+    "question": "MED-C54-08"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Thrombotic column : weakness evolves over 48-72 hr, no rapid recovery, no multiple lesions, no interphase involvement, no hemorrhagic transformation, large vessel, thrombectomy useful + better prognosis",
+    "question": "MED-C54-09"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Note : Weakness evolving beyond 72 hrs : Bleeding/tumor",
+    "question": "MED-C54-10"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "MCA stroke flow : m1/Lenticulostriate artery from m1 : Internal capsule findings",
+    "question": "MED-C54-11"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "MCA stroke flow : m2 — ± C/L weakness; Aphasia",
+    "question": "MED-C54-12"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "M2 superior division : Broca's aphasia",
+    "question": "MED-C54-12"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "M2 inferior division : Wernicke's aphasia without weakness",
+    "question": "MED-C54-12"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Superior division : Broca's aphasia",
+    "question": "MED-C54-13"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Inferior division : Wernicke's aphasia without weakness",
+    "question": "MED-C54-14"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Fluent jargon aphasia with intact power follows the inferior-division arm of the MCA flowchart",
+    "question": "MED-C54-15"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Complete MCA : Weakness; Hemianopia; Hemisensory loss; Cortical findings; Global aphasia",
+    "question": "MED-C54-16"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Complete MCA lists weakness, hemianopia, hemisensory loss, cortical findings and global aphasia, whereas M2 lists only ± C/L weakness and aphasia",
+    "question": "MED-C54-17"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Heading : Stroke 00:00:40",
+    "question": "MED-C54-18"
+  },
+  {
+    "chapter": 54,
+    "page": 681,
+    "point": "Chapter heading : APPROACH TO UMN LESION",
+    "question": "MED-C54-18"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Internal capsule lesions : Dense hemiplegia; Hemisensory loss; Homonymous hemianopia; 7th CN palsy more prominent; Absence of cortical findings",
+    "question": "MED-C54-19"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Capsular list : Dense hemiplegia",
+    "question": "MED-C54-19"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Capsular list : Hemisensory loss",
+    "question": "MED-C54-19"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Capsular list : Homonymous hemianopia",
+    "question": "MED-C54-19"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Capsular list : 7th CN palsy more prominent",
+    "question": "MED-C54-19"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Brain stem lesions : Crossed hemiplegia : I/L LMN cranial nerve (CN) nuclei + C/L weakness",
+    "question": "MED-C54-20"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "An ipsilateral LMN cranial nerve nucleus palsy with contralateral weakness is the crossed pattern of a brainstem lesion",
+    "question": "MED-C54-21"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Spinal cord lesions : BIL involvement; Specific level of lesion +",
+    "question": "MED-C54-22"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Internal capsule lesions : 7th CN palsy more prominent",
+    "question": "MED-C54-23"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Absence of cortical findings is the closing entry under internal capsule lesions",
+    "question": "MED-C54-24"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Bilateral involvement with a specific level marks the cord entry, unlike the hemispheric and crossed brainstem entries",
+    "question": "MED-C54-25"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Upper Motor Neurons : Descending fibres which merge on : Anterior Horn Cell (AHC) in spinal cord; Cranial Nerve (CN) nuclei in brain stem",
+    "question": "MED-C54-26"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Corticospinal tract : Integrate highly skilled fine discrete movements of distal extremities",
+    "question": "MED-C54-27"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Supply lower centres with inhibitory impulses",
+    "question": "MED-C54-28"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Lesion in spinal cord → At the level : LMN feature; Below the level : UMN features",
+    "question": "MED-C54-29"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Extrapyramidal system : maintain tone & posture",
+    "question": "MED-C54-30"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Extrapyramidal function : Inhibit proximal & antagonistic muscles",
+    "question": "MED-C54-30"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Inhibit proximal & antagonistic muscles",
+    "question": "MED-C54-31"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Tracts/Fibres included : Pyramidal tract/Corticospinal Tract (CST) — merge on AHC",
+    "question": "MED-C54-32"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Pyramidal tract/CST and Extrapyramidal fibers are bracketed : merge on AHC",
+    "question": "MED-C54-33"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Rubrospinal : Lateral white matter, while vestibulospinal, tectospinal and reticulospinal are bracketed as ventral white matter",
+    "question": "MED-C54-34"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Vestibulospinal, Tectospinal, Reticulospinal — ventral white matter",
+    "question": "MED-C54-35"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Functions : Corticospinal tract ; Extrapyramidal system",
+    "question": "MED-C54-36"
+  },
+  {
+    "chapter": 54,
+    "page": 682,
+    "point": "Section heading : Upper Motor Neurons",
+    "question": "MED-C54-36"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Note : Corticobulbar fibres → merge on CN nuclei",
+    "question": "MED-C54-37"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "B/L involvement → Pseudobulbar palsy (Seen in ALS)",
+    "question": "MED-C54-38"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "U/L involvement : usually symptomless d/t B/L representation",
+    "question": "MED-C54-39"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Exception : VIIth CN — (Lesion in internal capsule or cortex) → UMN VIIth CN palsy (C/L innervation only for lower half)",
+    "question": "MED-C54-40"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "VIIth CN — (Lesion in internal capsule or cortex) → UMN VIIth CN palsy",
+    "question": "MED-C54-41"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Diagram A : Supranuclear lesion/UMN lesion, labelled Drooping of angle of mouth and Supranuclear lesion",
+    "question": "MED-C54-42"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Diagram B : LMN lesion/Facial nerve lesion (Bell's palsy), labelled Deviation of angle of mouth and Lesion in facial nerve",
+    "question": "MED-C54-43"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Diagram labels : Facial nerve; Nucleus of facial nerve; Lesion in facial nerve",
+    "question": "MED-C54-43"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Exception : VIIth CN — UMN VIIth CN palsy (C/L innervation only for lower half); panel A shows drooping of the angle of mouth with a supranuclear lesion",
+    "question": "MED-C54-44"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "ACA lesions → Lower limb involvement; MCA lesions → upper limb & face involvement",
+    "question": "MED-C54-45"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "MCA lesions → upper limb & face involvement",
+    "question": "MED-C54-46"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Homunculus labels begin with Hip, Leg, Foot, Toes, Genitals on the medial aspect",
+    "question": "MED-C54-47"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Homunculus labels : Trunk, Neck, Head, Shoulder, Arm, Elbow, Forearm, Wrist, Hand",
+    "question": "MED-C54-47"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Homunculus labels : Little, Ring, Middle, Index, Thumb",
+    "question": "MED-C54-47"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Homunculus labels : Eye, Nose, Face, Lips, Teeth gums and jaw, Tongue, Pharynx",
+    "question": "MED-C54-47"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "Figure caption : motor homunculus",
+    "question": "MED-C54-47"
+  },
+  {
+    "chapter": 54,
+    "page": 683,
+    "point": "The drawing enlarges the hand, digits, mouth, tongue and pharynx relative to the trunk and lower limb",
+    "question": "MED-C54-48"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Primary motor cortex : (Pyramidal cells of Betz : Lowest threshold) (30%)",
+    "question": "MED-C54-49"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Primary motor cortex : Pyramidal cells of Betz",
+    "question": "MED-C54-49"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Primary motor cortex : Lowest threshold",
+    "question": "MED-C54-49"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Premotor/supplementary motor cortex : (30%)",
+    "question": "MED-C54-50"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Primary sensory cortex (40%)",
+    "question": "MED-C54-51"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Cortex : Primary motor cortex, Premotor/supplementary motor cortex, Primary sensory cortex",
+    "question": "MED-C54-52"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Figure labels : Pre-central gyrus; Sub cortex",
+    "question": "MED-C54-53"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Corona Radiata → Internal capsule",
+    "question": "MED-C54-54"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Internal capsule : Anterior 2/3 rd of posterior limb",
+    "question": "MED-C54-55"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Accompanied by : Corticonuclear & corticorubral fibres",
+    "question": "MED-C54-56"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Figure labels : Cerebral peduncle; Midbrain; Medulla; Pyramids; Decussation of pyramids; Lateral corticospinal tract; Anterior corticospinal tract",
+    "question": "MED-C54-57"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Figure labels : Lateral corticospinal tract; Anterior corticospinal tract — both drawn continuing to the spinal cord",
+    "question": "MED-C54-58"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Key : Upper motor neuron (orange arrow); Lower motor neuron (black arrow)",
+    "question": "MED-C54-59"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Figure : Lower motor neuron → To skeletal muscles",
+    "question": "MED-C54-60"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Midbrain section labels : Middle 3/5th — Corticospinal and corticonuclear fibres",
+    "question": "MED-C54-61"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Midbrain labels : Crus cerebri / Cerebral peduncle",
+    "question": "MED-C54-62"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Midbrain labels : Superior colliculus; Tectum; Tegmentum",
+    "question": "MED-C54-62"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Midbrain labels : Oculomotor nucleus; Red nucleus; Substantia nigra",
+    "question": "MED-C54-62"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Midbrain labels : Cerebral aqueduct; Medial longitudinal fasciculus; Lemnisci (Sensory); Frontopontine fibres",
+    "question": "MED-C54-62"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Midbrain label : Decussation of rubrospinal tract; Oculomotor nerve",
+    "question": "MED-C54-62"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Labels include Superior colliculus, Oculomotor nucleus, Tectum, Tegmentum, Crus cerebri, Red nucleus, Substantia nigra, MLF, lemnisci and frontopontine fibres, not the facial colliculus",
+    "question": "MED-C54-63"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Label : Lemnisci (Sensory)",
+    "question": "MED-C54-64"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Note : Trochlear N. not seen at superior colliculus level of midbrain",
+    "question": "MED-C54-65"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Flow : Pons : Basilar part",
+    "question": "MED-C54-66"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "medulla : Decussation at pyramidal level in caudal medulla",
+    "question": "MED-C54-67"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Flow → Cervical (50%) / Thoracic (30%) / Lumbosacral (30%)",
+    "question": "MED-C54-68"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Cervical 50% is the largest, with thoracic and lumbosacral at 30% each",
+    "question": "MED-C54-69"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Label : Corticospinal and corticonuclear fibres in the middle 3/5th",
+    "question": "MED-C54-70"
+  },
+  {
+    "chapter": 54,
+    "page": 684,
+    "point": "Corona radiata fibres are collected and pass into the internal capsule, pyramidal tract in the anterior 2/3 rd of the posterior limb",
+    "question": "MED-C54-71"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "UMN facial nerve palsy : Lower half involved (upper half spared)",
+    "question": "MED-C54-72"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Pyramidal weakness : Voluntary fibres (skilled learned actions) > emotional fibres",
+    "question": "MED-C54-72"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Voluntary fibres (skilled learned actions) > emotional fibres",
+    "question": "MED-C54-73"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Deglutition/articulation not affected",
+    "question": "MED-C54-74"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Shoulder : Abduction lost → Adducted; External rotation lost → Internally rotated",
+    "question": "MED-C54-75"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Elbow : Extension lost → Flexed; Supination lost → Prone",
+    "question": "MED-C54-76"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Wrist : Dorsiflexion lost → Palmar flexed",
+    "question": "MED-C54-77"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Hip : Adduction & flexion lost → Abducted; Internal rotation lost → Externally rotated",
+    "question": "MED-C54-78"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Knee : Flexion lost → Extended",
+    "question": "MED-C54-79"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Foot : Dorsiflexion lost → Plantar flexed; Eversion lost → Inverted",
+    "question": "MED-C54-80"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Foot changes → Circumduction gait",
+    "question": "MED-C54-81"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Shoulder : Abduction lost, External rotation lost; Elbow : Extension lost, Supination lost; Wrist : Dorsiflexion lost",
+    "question": "MED-C54-82"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "The shoulder row lists abduction and external rotation as the lost pair",
+    "question": "MED-C54-83"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "The hip entry precedes knee and foot, leaving the limb abducted and externally rotated",
+    "question": "MED-C54-84"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Clinical features : Pyramidal pattern of weakness",
+    "question": "MED-C54-85"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Tone : Pyramidal lesion → Clasp knife spasticity",
+    "question": "MED-C54-86"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Velocity & length dependent — Spasticity +; Rigidity −",
+    "question": "MED-C54-87"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Resistance to movement — Spasticity : In one direction (initial part of movement)",
+    "question": "MED-C54-88"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Rigidity : Resistance in both directions",
+    "question": "MED-C54-88"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Types — Spasticity : Clasp knife; Rigidity : Lead pipe/cog wheel",
+    "question": "MED-C54-89"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Note : Root values — C5, C6 : Biceps jerk",
+    "question": "MED-C54-90"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Root values : C7 : Triceps jerk",
+    "question": "MED-C54-90"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Root values : C8, T1 : Finger flexion",
+    "question": "MED-C54-90"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Root values : L3, L4 : knee jerk",
+    "question": "MED-C54-90"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Root values : S1 : Ankle jerk",
+    "question": "MED-C54-90"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "C8, T1 : Finger flexion",
+    "question": "MED-C54-91"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "L3, L4 : knee jerk; S1 : Ankle jerk",
+    "question": "MED-C54-92"
+  },
+  {
+    "chapter": 54,
+    "page": 685,
+    "point": "Velocity & length dependent +, resistance in one direction (initial part of movement), Types : Clasp knife — Pyramidal lesion → Clasp knife spasticity",
+    "question": "MED-C54-93"
   }
 ]

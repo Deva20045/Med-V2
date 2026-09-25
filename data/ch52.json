@@ -1,0 +1,1683 @@
+{
+  "chapter": 52,
+  "title": "Multiple Sclerosis",
+  "pageRange": "668-673",
+  "questions": [
+    {
+      "id": "MED-C52-01",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "oddoneout",
+      "q": "Which of these is NOT among the chronic inflammatory demyelinating disorders of the CNS listed at the head of the chapter?",
+      "opts": [
+        "Progressive multifocal leukoencephalopathy",
+        "Neuromyelitis optica",
+        "Anti MOG antibody disease",
+        "Sarcoidosis"
+      ],
+      "ans": 0,
+      "exp": "Chronic inflammatory demyelinating disorder of CNS : multiple sclerosis, Neuromyelitis optica, Anti MOG antibody disease, Sarcoidosis, Chronic graft vs host disease (Book p668)"
+    },
+    {
+      "id": "MED-C52-02",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The note on non-inflammatory demyelination points to which entity and cause?",
+      "opts": [
+        "Hypoxic demyelination from carbon monoxide",
+        "Osmotic demyelination from rapid sodium correction",
+        "Marchiafava-Bignami disease from alcohol",
+        "Extrapontine myelinolysis from hypokalaemia"
+      ],
+      "ans": 1,
+      "exp": "Note : Non inflammatory demyelination → Osmotic demyelination (Rapid sodium correction) (Book p668)"
+    },
+    {
+      "id": "MED-C52-03",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "recall",
+      "q": "MS is printed as chronic inflammatory demyelination of which four territories?",
+      "opts": [
+        "Basal ganglia, thalamus, midbrain and cerebellum",
+        "Corpus callosum only",
+        "Subcortical area, brainstem, spinal cord and cortical area",
+        "Peripheral nerve, root, plexus and nerve terminal"
+      ],
+      "ans": 2,
+      "exp": "1. Chronic inflammatory demyelination of : Subcortical area; Brainstem; Spinal cord; Cortical area (Book p668)"
+    },
+    {
+      "id": "MED-C52-04",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The 'sparing of' column in the MS definition lists which two?",
+      "opts": [
+        "Cortical area and brainstem",
+        "Spinal cord and subcortical area",
+        "Optic nerve and retina",
+        "Peripheral nerve system and organ system"
+      ],
+      "ans": 3,
+      "exp": "2. Sparing of : Peripheral nerve system; Organ system (Book p668)"
+    },
+    {
+      "id": "MED-C52-05",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "recall",
+      "q": "Which HLA typing is printed in the features of MS?",
+      "opts": [
+        "HLA DR2/15",
+        "HLA B27",
+        "HLA DR4",
+        "HLA DQ2"
+      ],
+      "ans": 0,
+      "exp": "Features : Autoimmune; Females > males; Significant family history; HLA DR2/15 (Book p668)"
+    },
+    {
+      "id": "MED-C52-06",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The sex predilection printed for MS is:",
+      "opts": [
+        "Males only before 40 years",
+        "Females > males",
+        "Males > females",
+        "Equal in both sexes"
+      ],
+      "ans": 1,
+      "exp": "Features : Females > males (Book p668)"
+    },
+    {
+      "id": "MED-C52-07",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "oddoneout",
+      "q": "Which of these is NOT printed as a risk factor for MS?",
+      "opts": [
+        "Vitamin D deficiency",
+        "EBV",
+        "Low socio-economic status",
+        "Smoking"
+      ],
+      "ans": 2,
+      "exp": "Risk factors : EBV, Smoking, Vitamin D deficiency, High socio-economic status (Book p668)"
+    },
+    {
+      "id": "MED-C52-08",
+      "sec": "The Demyelinating Family",
+      "page": 668,
+      "fmt": "scenario",
+      "q": "A 28-year-old nurse from a northern city with low sun exposure and a sister with MS asks about her risk. Which printed risk-factor cluster applies to her?",
+      "opts": [
+        "Hepatitis B, alcohol, low socio-economic status and HLA B27",
+        "Diabetes, hypertension and smoking",
+        "Prior chemotherapy and cranial irradiation",
+        "EBV, smoking, vitamin D deficiency and high socio-economic status"
+      ],
+      "ans": 3,
+      "exp": "Risk factors : EBV; Smoking; Vitamin D deficiency; High socio-economic status; Features : Females > males, HLA DR2/15 (Book p668)"
+    },
+    {
+      "id": "MED-C52-09",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The four-step pathogenesis printed for MS is:",
+      "opts": [
+        "Inflammation, demyelination, gliosis, secondary neuronal injury",
+        "Ischaemia, necrosis, cavitation, gliosis",
+        "Demyelination only, without gliosis",
+        "Axonal transection with Wallerian degeneration only"
+      ],
+      "ans": 0,
+      "exp": "PATHOGENESIS : Inflammation, demyelination, gliosis, secondary neuronal injury (Book p668)"
+    },
+    {
+      "id": "MED-C52-10",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "In the pathogenesis flow, astrocytes are shown to cause:",
+      "opts": [
+        "Oligodendrocyte apoptosis alone",
+        "Disruption of blood brain barrier",
+        "Direct myelin lysis",
+        "Axonal transection"
+      ],
+      "ans": 1,
+      "exp": "Astrocytes → Disruption of blood brain barrier (Book p668)"
+    },
+    {
+      "id": "MED-C52-11",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The capillary change that follows raised VEGF in the flow is:",
+      "opts": [
+        "Neovascular proliferation",
+        "Vasospasm of the vasa vasorum",
+        "Exudation from capillary",
+        "Capillary thrombosis"
+      ],
+      "ans": 2,
+      "exp": "↑VEGF → Exudation from capillary (Book p668)"
+    },
+    {
+      "id": "MED-C52-12",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "In the printed pathogenesis flow, capillary exudation is followed by which imaging sequence of lesions?",
+      "opts": [
+        "Exudation → T1 hyperintensity → T2 enhancement",
+        "Exudation → diffusion restriction only",
+        "Exudation → susceptibility blooming only",
+        "T2-weighted hyper-intense lesion, then T1-weighted contrast enhanced lesion"
+      ],
+      "ans": 3,
+      "exp": "Flow : Exudation from capillary → Ta-weighted : Hyper intense lesion → T1-weighted : Contrast enhanced lesion (Book p668)"
+    },
+    {
+      "id": "MED-C52-13",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The two cell types placed above the target antigens are:",
+      "opts": [
+        "T cells and B cells",
+        "Macrophages and neutrophils",
+        "Natural killer cells and mast cells",
+        "Dendritic cells and microglia only"
+      ],
+      "ans": 0,
+      "exp": "Flow : T cells + B cells (Book p668)"
+    },
+    {
+      "id": "MED-C52-14",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "oddoneout",
+      "q": "Which is NOT one of the printed target antigens?",
+      "opts": [
+        "Both MBP and MOG listed",
+        "Myelin-associated glycoprotein (MAG)",
+        "Myelin basic protein (MBP)",
+        "Myelin oligodendrocyte glycoprotein (MOG)"
+      ],
+      "ans": 1,
+      "exp": "Target antigens : myelin basic protein (MBP); myelin oligo dendrocyte glycoprotein (MOAP/MOG) (Book p668)"
+    },
+    {
+      "id": "MED-C52-15",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "Demyelination is followed in the flow by:",
+      "opts": [
+        "Node of Ranvier hypertrophy",
+        "Immediate Wallerian degeneration",
+        "Loss of saltatory conduction",
+        "Loss of axoplasmic transport only"
+      ],
+      "ans": 2,
+      "exp": "Demyelination → Loss of saltatory conduction (Book p668)"
+    },
+    {
+      "id": "MED-C52-16",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "Cumulative axonal destruction is shown to produce which two outcomes?",
+      "opts": [
+        "Cerebellar atrophy and hydrocephalus",
+        "Spinal atrophy and syringomyelia",
+        "Temporal gliosis and hippocampal sclerosis",
+        "Cortical atrophy and progressive neuronal damage"
+      ],
+      "ans": 3,
+      "exp": "Cumulative axonal destruction → Cortical atrophy / Progressive neuronal damage (Book p668)"
+    },
+    {
+      "id": "MED-C52-17",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The figure labels the endothelial specialisation involved in barrier function as:",
+      "opts": [
+        "Tight junction",
+        "Desmosome",
+        "Gap junction only",
+        "Adherens belt of the pia"
+      ],
+      "ans": 0,
+      "exp": "Figure labels : Tight junction; Peg-socket junction (Book p668)"
+    },
+    {
+      "id": "MED-C52-18",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "Which cells are labelled in and around the capillary in this figure?",
+      "opts": [
+        "Ependymal and choroidal cells",
+        "Pericyte, astrocyte, microglia, endothelial cell, leukocyte and neuron",
+        "Only endothelial cells",
+        "Only neurons and oligodendrocytes"
+      ],
+      "ans": 1,
+      "exp": "Figure labels : Pericyte; Astrocyte; Endothelial cell; Microglia; Leukocyte; Neuron; Basement membrane (Book p668)"
+    },
+    {
+      "id": "MED-C52-19",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "page": 668,
+      "fmt": "recall",
+      "q": "The connective-tissue layer labelled beneath the endothelium is the:",
+      "opts": [
+        "Tunica adventitia",
+        "Glial limitans externa",
+        "Basement membrane",
+        "Internal elastic lamina"
+      ],
+      "ans": 2,
+      "exp": "Figure label : Basement membrane (Book p668)"
+    },
+    {
+      "id": "MED-C52-20",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "numeric",
+      "q": "The relapsing-remitting pattern accounts for what proportion on the printed disability curve?",
+      "opts": [
+        "5-6%",
+        "50%",
+        "25%",
+        "90%"
+      ],
+      "ans": 3,
+      "exp": "DISEASE PATTERNS : Relapsing-remitting 90% (Book p669)"
+    },
+    {
+      "id": "MED-C52-21",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "numeric",
+      "q": "Secondary progressive MS accounts for which proportion, and arises how?",
+      "opts": [
+        "5-6%, following relapsing-remitting disease",
+        "90%, from onset",
+        "15%, after a single attack",
+        "5-6%, only after treatment failure"
+      ],
+      "ans": 0,
+      "exp": "Secondary progressive 5-6% (Following relapsing-remitting) (Book p669)"
+    },
+    {
+      "id": "MED-C52-22",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "The primary-progressive curve carries which printed treatment note?",
+      "opts": [
+        "No therapy listed",
+        "Rx : Anti CD-20, Ocrelizumab",
+        "Rx : Natalizumab infusion only",
+        "Rx : Interferon beta as disease modifier"
+      ],
+      "ans": 1,
+      "exp": "Primary-progressive : Rx : Anti CD-20, Ocrelizumab (Book p669)"
+    },
+    {
+      "id": "MED-C52-23",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "Sensory manifestations in MS are labelled as which kind of symptoms?",
+      "opts": [
+        "Plexus symptoms",
+        "Neuropathic small-fibre symptoms only",
+        "Long tract symptoms",
+        "Radicular symptoms"
+      ],
+      "ans": 2,
+      "exp": "sensory manifestations : (Long tract symptoms) (Book p669)"
+    },
+    {
+      "id": "MED-C52-24",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "Among the major features, which category is tagged m/c?",
+      "opts": [
+        "Motor manifestations",
+        "Optic neuritis",
+        "Bladder features",
+        "Sensory manifestations"
+      ],
+      "ans": 3,
+      "exp": "sensory manifestations (Long tract symptoms) : m/c (Book p669)"
+    },
+    {
+      "id": "MED-C52-25",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "oddoneout",
+      "q": "Which sensory descriptor is NOT in the printed list?",
+      "opts": [
+        "Hyperpathia of the palms",
+        "Tingling",
+        "Numbness",
+        "Allodynia"
+      ],
+      "ans": 0,
+      "exp": "Tingling, numbness, paraesthesia, hypaesthesia; unpleasant sensations; Allodynia (Book p669)"
+    },
+    {
+      "id": "MED-C52-26",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "The motor weakness of MS is printed as:",
+      "opts": [
+        "Distal asymmetric weakness with wasting",
+        "UMN weakness with loss of strength and speed",
+        "LMN weakness with fasciculations",
+        "Fatigable proximal weakness only"
+      ],
+      "ans": 1,
+      "exp": "motor manifestations : UMN weakness with loss of strength, speed (Book p669)"
+    },
+    {
+      "id": "MED-C52-27",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "Alongside weakness, the printed motor list includes:",
+      "opts": [
+        "Myoclonus and chorea",
+        "Cerebellar ataxia with intention tremor",
+        "Loss of tone, loss of dexterity, spasticity",
+        "Rigidity and resting tremor"
+      ],
+      "ans": 2,
+      "exp": "Loss of tone, loss of dexterity, spasticity (Book p669)"
+    },
+    {
+      "id": "MED-C52-28",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "The fatigue of MS is characterized as:",
+      "opts": [
+        "Morning stiffness improving with activity",
+        "Post-prandial somnolence",
+        "Fatigue only after febrile illness",
+        "Exercise induced fatigue"
+      ],
+      "ans": 3,
+      "exp": "exercise induced fatigue (Book p669)"
+    },
+    {
+      "id": "MED-C52-29",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "scenario",
+      "q": "A 30-year-old woman's legs give way after a hot walk and her handwriting has become clumsy; tone is increased with spastic catch. Which printed cluster explains this?",
+      "opts": [
+        "UMN weakness with loss of strength and speed, loss of dexterity and spasticity",
+        "Optic neuritis with anterior pathway involvement",
+        "Long-tract sensory loss with allodynia only",
+        "Minor-feature ataxia and vertigo"
+      ],
+      "ans": 0,
+      "exp": "motor manifestations : UMN weakness with loss of strength, speed; Loss of tone, loss of dexterity, spasticity; exercise induced fatigue (Book p669)"
+    },
+    {
+      "id": "MED-C52-30",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "oddoneout",
+      "q": "Which is NOT a printed feature of MS-associated optic neuritis?",
+      "opts": [
+        "Diplopia",
+        "Painless vision loss with normal fundus always",
+        "Unilateral involvement",
+        "Retrobulbar pain"
+      ],
+      "ans": 1,
+      "exp": "Optic neuritis : Unilateral; Asymmetric (if bilateral); Retrobulbar pain; Involvement of anterior pathway; Drug responsive; Diplopia (Book p669)"
+    },
+    {
+      "id": "MED-C52-31",
+      "sec": "Disease Patterns and Major Features",
+      "page": 669,
+      "fmt": "recall",
+      "q": "If both optic nerves are involved in MS, the printed pattern is:",
+      "opts": [
+        "Alternating day by day",
+        "Always with chiasmal syndrome",
+        "Asymmetric",
+        "Symmetric"
+      ],
+      "ans": 2,
+      "exp": "Optic neuritis : Asymmetric (if bilateral) (Book p669)"
+    },
+    {
+      "id": "MED-C52-32",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "oddoneout",
+      "q": "Which is NOT among the printed minor features of MS?",
+      "opts": [
+        "Ataxia",
+        "Vertigo",
+        "Myokymia",
+        "Fasciculations of the tongue"
+      ],
+      "ans": 3,
+      "exp": "Minor features : Ataxia, vertigo, Bladder, Lhermitte, Dementia, myokymia (Book p669)"
+    },
+    {
+      "id": "MED-C52-33",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "recall",
+      "q": "Among other presentations, the ocular motility pattern printed is:",
+      "opts": [
+        "Bilateral INO",
+        "Unilateral sixth nerve palsy",
+        "One-and-a-half syndrome only",
+        "Oculogyric crises"
+      ],
+      "ans": 0,
+      "exp": "Other presentations : B/L INO (Book p669)"
+    },
+    {
+      "id": "MED-C52-34",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "oddoneout",
+      "q": "Which pair completes the 'other presentations' list with bilateral INO and bilateral trigeminal neuralgia?",
+      "opts": [
+        "Chorea and dystonia",
+        "Pseudobulbar involvement and acquired pendular nystagmus",
+        "Ptosis and miosis",
+        "Nystagmus with hyporeflexia only"
+      ],
+      "ans": 1,
+      "exp": "Pseudobulbar involvement; Acquired pendular nystagmus (Book p669)"
+    },
+    {
+      "id": "MED-C52-35",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "recall",
+      "q": "The McDonald criteria are printed as a combination of:",
+      "opts": [
+        "MRI lesions plus VEP only",
+        "Steroid response plus relapse frequency",
+        "Dissemination in time + dissemination in space",
+        "Two attacks plus CSF oligoclonal bands"
+      ],
+      "ans": 2,
+      "exp": "McDonald criteria : Dissemination in time + Dissemination in space (Book p669)"
+    },
+    {
+      "id": "MED-C52-36",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "numeric",
+      "q": "For dissemination in time, two lesions must be separated by:",
+      "opts": [
+        "48 hours",
+        "6 months",
+        "1 week",
+        "4 weeks apart"
+      ],
+      "ans": 3,
+      "exp": "Clinical/radiological : 2 lesions : 4 weeks apart (Book p669)"
+    },
+    {
+      "id": "MED-C52-37",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "recall",
+      "q": "The radiological alternatives that satisfy dissemination in time are:",
+      "opts": [
+        "A T2 hyper-intense lesion, or a T1 lesion enhancing with contrast",
+        "A T1 hypointense 'black hole' only",
+        "Diffusion restriction in a vascular territory",
+        "Susceptibility-weighted microbleeds"
+      ],
+      "ans": 0,
+      "exp": "or T2 hyper-intense lesion or T1 enhancing with contrast (Book p669)"
+    },
+    {
+      "id": "MED-C52-38",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "numeric",
+      "q": "Dissemination in space requires how many lesions, and where?",
+      "opts": [
+        "4 lesions including the basal ganglia",
+        "2 lesions at different sites among juxtacortical, periventricular, spinal cord and infratentorial",
+        "3 lesions in the same hemisphere",
+        "1 lesion with mass effect"
+      ],
+      "ans": 1,
+      "exp": "DIS : 2 lesions at different sites; Sites : Juxtacortical, Periventricular, Spinal cord, Infratentorial (Book p669)"
+    },
+    {
+      "id": "MED-C52-39",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "recall",
+      "q": "The infratentorial site is specified as the cerebellum and which structure?",
+      "opts": [
+        "Inferior olive",
+        "Flocculonodular lobe",
+        "Middle cerebellar peduncle",
+        "Superior cerebellar peduncle"
+      ],
+      "ans": 2,
+      "exp": "Infratentorial (Cerebellar & middle cerebellar peduncle) (Book p669)"
+    },
+    {
+      "id": "MED-C52-40",
+      "sec": "Minor Features and McDonald Criteria",
+      "page": 669,
+      "fmt": "scenario",
+      "q": "A 26-year-old has an optic-neuritis attack, then myelitis 6 weeks later; MRI shows three periventricular and one cord lesion. Which printed criteria does this satisfy?",
+      "opts": [
+        "Dissemination in space only",
+        "Neither: MS requires four lesions",
+        "Dissemination in time only",
+        "Dissemination in time by two lesions 4 weeks apart and dissemination in space by lesions at different sites"
+      ],
+      "ans": 3,
+      "exp": "McDonald : Dissemination in time (2 lesions 4 weeks apart) + Dissemination in space (2 lesions at different sites; periventricular and spinal cord listed) (Book p669)"
+    },
+    {
+      "id": "MED-C52-41",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "Uhthoff's phenomenon is printed as:",
+      "opts": [
+        "U/L blurring of vision during hot shower",
+        "Worsening of weakness in cold weather",
+        "Electric shock down the spine on neck flexion",
+        "Painful eye movement with proptosis"
+      ],
+      "ans": 0,
+      "exp": "Uhthoff's phenomenon : U/L blurring of vision during hot shower (Book p670)"
+    },
+    {
+      "id": "MED-C52-42",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "Lhermitte's symptom, and its other printed association, is:",
+      "opts": [
+        "Shock-like arm pain on coughing; also seen in disc herniation",
+        "Flexion of neck produces pain in spine; also seen in compressive myelopathy",
+        "Extension of neck produces vertigo; also seen in BPPV",
+        "Back pain relieved by flexion; also seen in ankylosing spondylitis"
+      ],
+      "ans": 1,
+      "exp": "Lhermitte's symptom : Flexion of neck produces pain in spine (Also seen in compressive myelopathy) (Book p670)"
+    },
+    {
+      "id": "MED-C52-43",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "The Pulfrich phenomenon is defined in the book as:",
+      "opts": [
+        "Red desaturation with preserved acuity",
+        "Binocular diplopia in upgaze",
+        "Altered visual perception where a two-dimensional image is perceived as three-dimensional",
+        "Transient monocular blindness on exertion"
+      ],
+      "ans": 2,
+      "exp": "Pulfrich phenomenon : Altered visual perception (Two dimensional image perceived as three dimensional image) (Book p670)"
+    },
+    {
+      "id": "MED-C52-44",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "The three axial MRI panels with yellow arrows carry which caption?",
+      "opts": [
+        "Dawson's fingers in corpus callosum",
+        "Periventricular lesion",
+        "Oligoclonal bands in CSF",
+        "MRI showing hyper-intense lesion"
+      ],
+      "ans": 3,
+      "exp": "Panels A, B, C caption : MRI showing hyper-intense lesion (Book p670)"
+    },
+    {
+      "id": "MED-C52-45",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "The single axial FLAIR image with arrows on the right is captioned:",
+      "opts": [
+        "Periventricular lesion",
+        "Corpus callosum atrophy",
+        "Juxtacortical U-fibre lesion",
+        "Infratentorial plaque"
+      ],
+      "ans": 0,
+      "exp": "Right-hand image caption : Periventricular lesion (Book p670)"
+    },
+    {
+      "id": "MED-C52-46",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "oddoneout",
+      "q": "Which T2 hyperintensity pattern is described as common rather than typical?",
+      "opts": [
+        "Neither is described",
+        "Periventricular white matter",
+        "Corpus callosum with Dawson's fingers",
+        "Both are common"
+      ],
+      "ans": 1,
+      "exp": "T2 hyperintensities : Periventricular white matter : Common; Corpus callosum (Dawson's fingers) : Typical (Book p670)"
+    },
+    {
+      "id": "MED-C52-47",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "Dawson's fingers are placed in which structure on this page?",
+      "opts": [
+        "Middle cerebellar peduncle",
+        "Optic chiasma",
+        "Corpus callosum",
+        "Internal capsule"
+      ],
+      "ans": 2,
+      "exp": "Corpus callosum (Dawson's fingers) : Typical (Book p670)"
+    },
+    {
+      "id": "MED-C52-48",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "The two CSF findings printed are:",
+      "opts": [
+        "Raised protein with low glucose",
+        "Xanthochromia and 100 RBCs",
+        "Neutrophilic pleocytosis in 90%",
+        "Oligoclonal bands and IgG increased in 90%"
+      ],
+      "ans": 3,
+      "exp": "CSF : Oligoclonal bands; IgG increased in 90% (Book p670)"
+    },
+    {
+      "id": "MED-C52-49",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "recall",
+      "q": "In the electrophoresis figure, the abnormal lane is identified by:",
+      "opts": [
+        "Oligoclonal bands present in CSF compared with plasma",
+        "A single broad albumin band",
+        "Absence of bands in both CSF and plasma",
+        "IgM spike in plasma only"
+      ],
+      "ans": 0,
+      "exp": "Figure : Normal shows Oligoclonal Bands absent in CSF and Plasma; Abnormal shows Oligoclonal Bands present; caption Oligoclonal bands in CSF (Book p670)"
+    },
+    {
+      "id": "MED-C52-50",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "page": 670,
+      "fmt": "numeric",
+      "q": "The sensitivity printed for visually evoked response in MS is:",
+      "opts": [
+        "70%",
+        "80-85%",
+        "50-60%",
+        "90-95%"
+      ],
+      "ans": 1,
+      "exp": "Visually evoked response (VER) : Sensitivity : 80-85% (Book p670)"
+    },
+    {
+      "id": "MED-C52-51",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "management",
+      "q": "The printed treatment for acute attacks of MS is:",
+      "opts": [
+        "Plasma exchange first line",
+        "IV immunoglobulin",
+        "IV steroids",
+        "Oral prednisolone taper"
+      ],
+      "ans": 2,
+      "exp": "TREATMENT — Acute attacks : IV steroids; Also for relapse/remission (Book p670)"
+    },
+    {
+      "id": "MED-C52-52",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "recall",
+      "q": "IV steroids are printed as useful for which two situations?",
+      "opts": [
+        "Primary progressive disease only",
+        "Long-term prevention",
+        "Optic atrophy",
+        "Acute attacks and relapse/remission"
+      ],
+      "ans": 3,
+      "exp": "Acute attacks : IV steroids; Also for relapse/remission (Book p670)"
+    },
+    {
+      "id": "MED-C52-53",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "recall",
+      "q": "Natalizumab is classified under which route in the printed table of preventives?",
+      "opts": [
+        "Infusable",
+        "Injectable",
+        "Oral",
+        "Intrathecal"
+      ],
+      "ans": 0,
+      "exp": "Prevention — Infusable : Natalizumab : Anti-α4 integrin (Book p670)"
+    },
+    {
+      "id": "MED-C52-54",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "recall",
+      "q": "The side effect printed for natalizumab is:",
+      "opts": [
+        "Drug-induced lupus",
+        "Progressive multifocal leukoencephalopathy (PML)",
+        "Haemorrhagic cystitis",
+        "Bradyarrhythmia on first dose"
+      ],
+      "ans": 1,
+      "exp": "S/E : Progressive multifocal leukoencephalopathy (PML) (Book p670)"
+    },
+    {
+      "id": "MED-C52-55",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "recall",
+      "q": "Ocrelizumab is printed for which MS category?",
+      "opts": [
+        "For clinically isolated syndrome",
+        "For secondary progressive only",
+        "For 1° progressive type",
+        "For relapsing-remitting only"
+      ],
+      "ans": 2,
+      "exp": "Ocrelizumab : For 1° progressive type (Book p670)"
+    },
+    {
+      "id": "MED-C52-56",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "recall",
+      "q": "Alemtuzumab is described as an antibody against:",
+      "opts": [
+        "CD20",
+        "CD34",
+        "α4 integrin",
+        "CD52"
+      ],
+      "ans": 3,
+      "exp": "Alemtuzumab : Anti-CD52 (Book p670)"
+    },
+    {
+      "id": "MED-C52-57",
+      "sec": "Treatment of MS",
+      "page": 670,
+      "fmt": "oddoneout",
+      "q": "Which pair is listed under injectable preventives?",
+      "opts": [
+        "Glatiramer acetate and IFN β",
+        "Fingolimod and teriflunomide",
+        "Natalizumab and ocrelizumab",
+        "Dimethyl fumarate and IFN β"
+      ],
+      "ans": 0,
+      "exp": "Injectable : Glatiramer acetate; IFN β (Book p670)"
+    },
+    {
+      "id": "MED-C52-58",
+      "sec": "Treatment of MS",
+      "page": 671,
+      "fmt": "recall",
+      "q": "Fingolimod is printed as which kind of drug?",
+      "opts": [
+        "Fumarate ester",
+        "Sphingosine receptor modulator",
+        "Dihydroorotate dehydrogenase inhibitor",
+        "Anti-CD20 monoclonal antibody"
+      ],
+      "ans": 1,
+      "exp": "Oral : Fingolimod : Sphingosine receptor modulator (Book p671)"
+    },
+    {
+      "id": "MED-C52-59",
+      "sec": "Treatment of MS",
+      "page": 671,
+      "fmt": "recall",
+      "q": "Teriflunomide's printed mechanism is inhibition of:",
+      "opts": [
+        "Dihydrofolate reductase",
+        "Calcineurin",
+        "Dihydroorotate dehydrogenase",
+        "Inosine monophosphate dehydrogenase"
+      ],
+      "ans": 2,
+      "exp": "Teriflunomide : Dihydroorotate dehydrogenase inhibitor (Book p671)"
+    },
+    {
+      "id": "MED-C52-60",
+      "sec": "Treatment of MS",
+      "page": 671,
+      "fmt": "oddoneout",
+      "q": "Which drug is listed as an oral preventive in this chapter?",
+      "opts": [
+        "Glatiramer acetate",
+        "Natalizumab",
+        "Alemtuzumab",
+        "Dimethyl fumarate"
+      ],
+      "ans": 3,
+      "exp": "Oral : Fingolimod, Teriflunomide, Dimethyl fumarate (Book p671)"
+    },
+    {
+      "id": "MED-C52-61",
+      "sec": "Treatment of MS",
+      "page": 671,
+      "fmt": "management",
+      "q": "A 34-year-old with relapsing-remitting MS develops PML while on natalizumab. The drug target that explains this risk, as printed, is:",
+      "opts": [
+        "α4 integrin",
+        "CD20",
+        "CD52",
+        "Sphingosine-1-phosphate receptor"
+      ],
+      "ans": 0,
+      "exp": "Natalizumab : Anti-α4 integrin; S/E : Progressive multifocal leukoencephalopathy (PML) (Book p671)"
+    },
+    {
+      "id": "MED-C52-62",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "recall",
+      "q": "Neuromyelitis optica is also printed as:",
+      "opts": [
+        "Baló concentric sclerosis",
+        "Devic's disease",
+        "Marburg disease",
+        "Schilder's disease"
+      ],
+      "ans": 1,
+      "exp": "Neuromyelitis Optica (NMO) : AKA Devic's disease (Book p671)"
+    },
+    {
+      "id": "MED-C52-63",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "recall",
+      "q": "The antibody printed in NMO is directed against:",
+      "opts": [
+        "MOG",
+        "VGCC",
+        "Aquaporin 4",
+        "Myelin basic protein"
+      ],
+      "ans": 2,
+      "exp": "Antibody : Against aquaporin 4 (Book p671)"
+    },
+    {
+      "id": "MED-C52-64",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "numeric",
+      "q": "The age printed for NMO, and its female predominance, are:",
+      "opts": [
+        "20 years, males > females",
+        "60 years, equal sexes",
+        "12 years, females > males",
+        "40 years, females > males"
+      ],
+      "ans": 3,
+      "exp": "FEATURES : Sex : Females > males; Age : 40 years (Book p671)"
+    },
+    {
+      "id": "MED-C52-65",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "numeric",
+      "q": "Associated autoimmune disease (SLE) occurs in what proportion of NMO cases?",
+      "opts": [
+        "40%",
+        "10%",
+        "70%",
+        "90%"
+      ],
+      "ans": 0,
+      "exp": "Associated autoimmune disease (SLE) in 40% cases (Book p671)"
+    },
+    {
+      "id": "MED-C52-66",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "oddoneout",
+      "q": "Which clinical element in the NMO triad is marked as variable rather than definite?",
+      "opts": [
+        "Dementia",
+        "Myelitis",
+        "Optic neuritis",
+        "Hearing loss"
+      ],
+      "ans": 1,
+      "exp": "CLINICAL FEATURES : Optic neuritis +, myelitis ±, Hearing loss (Book p671)"
+    },
+    {
+      "id": "MED-C52-67",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "recall",
+      "q": "The optic neuritis of NMO is printed as:",
+      "opts": [
+        "Alternating and drug responsive",
+        "Painless with normal acuity",
+        "B/L symmetrical with involvement of chiasma",
+        "Unilateral with retrobulbar pain"
+      ],
+      "ans": 2,
+      "exp": "Optic neuritis : B/L symmetrical; Involvement of chiasma (Book p671)"
+    },
+    {
+      "id": "MED-C52-68",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "oddoneout",
+      "q": "Compared with MS optic neuritis, NMO optic neuritis is printed as having:",
+      "opts": [
+        "Full recovery with steroids",
+        "Isolated colour desaturation",
+        "Papilloedema only",
+        "Poor response to Rx and severe visual loss"
+      ],
+      "ans": 3,
+      "exp": "Poor response to Rx; Severe visual loss — versus MS optic neuritis which is printed as drug responsive (Book p671)"
+    },
+    {
+      "id": "MED-C52-69",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "recall",
+      "q": "The myelitis of NMO is characterized by:",
+      "opts": [
+        "Long segment involvement with longitudinal extension of transverse myelitis",
+        "Short-segment dorsal column plaque",
+        "Conus-only involvement",
+        "Anterior horn cell restricted disease"
+      ],
+      "ans": 0,
+      "exp": "myelitis : Long segment involvement; Longitudinal extension of transverse myelitis (Book p671)"
+    },
+    {
+      "id": "MED-C52-70",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "recall",
+      "q": "Recurrent intractable hiccup in NMO is attributed to involvement of the:",
+      "opts": [
+        "Solitary tract of the thoracic cord",
+        "Area postrema",
+        "Nucleus ambiguus",
+        "Dorsal motor nucleus of vagus only"
+      ],
+      "ans": 1,
+      "exp": "Recurrent intractable hiccup d/t involvement of area postrema (Book p671)"
+    },
+    {
+      "id": "MED-C52-71",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "recall",
+      "q": "The investigation findings printed for NMO are:",
+      "opts": [
+        "CSF pleocytosis >100 cells with low glucose",
+        "Normal CSF and typical periventricular lesions",
+        "Oligoclonal bands in 30% and MRI brain normal",
+        "Oligoclonal bands in 90% and Dawson's fingers"
+      ],
+      "ans": 2,
+      "exp": "INVESTIGATION : Oligoclonal bands (30%); MRI brain : Normal (Book p671)"
+    },
+    {
+      "id": "MED-C52-72",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "management",
+      "q": "The treatment printed for NMO is:",
+      "opts": [
+        "Natalizumab infusion",
+        "Interferon beta",
+        "Cyclophosphamide alone",
+        "Steroids and plasma exchange"
+      ],
+      "ans": 3,
+      "exp": "TREATMENT : Steroids; Plasma exchange (Book p671)"
+    },
+    {
+      "id": "MED-C52-73",
+      "sec": "Neuromyelitis Optica",
+      "page": 671,
+      "fmt": "scenario",
+      "q": "A 42-year-old woman with SLE becomes blind in both eyes over a week and develops paraplegia; CSF oligoclonal bands are absent and brain MRI is normal. Which printed pattern fits best?",
+      "opts": [
+        "NMO: B/L symmetrical optic neuritis, long-segment myelitis, OCB in only 30%, normal brain MRI",
+        "Relapsing-remitting MS with typical Dawson's fingers",
+        "Acute transverse myelitis post-infectious",
+        "ADEM after measles"
+      ],
+      "ans": 0,
+      "exp": "NMO features: Associated autoimmune disease (SLE) in 40% cases; Antibody against aquaporin 4; Optic neuritis B/L symmetrical; Long segment involvement; Oligoclonal bands (30%); MRI brain : Normal (Book p671)"
+    },
+    {
+      "id": "MED-C52-74",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "oddoneout",
+      "q": "Which of these is NOT listed among the anti-MOG antibody diseases?",
+      "opts": [
+        "Acute disseminated encephalomyelitis (ADEM)",
+        "Neuromyelitis optica with aquaporin-4 antibody positivity",
+        "Optic neuritis",
+        "Myelitis"
+      ],
+      "ans": 1,
+      "exp": "Anti MOG diseases : Optic neuritis, myelitis, Aquaporin 4 negative NMO spectrum disorders, ADEM — the AQP4-positive form is not in this list (Book p672)"
+    },
+    {
+      "id": "MED-C52-75",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The NMO spectrum disorders included under anti-MOG disease are those that are:",
+      "opts": [
+        "MOG antibody negative",
+        "Steroid responsive only",
+        "Aquaporin 4 negative",
+        "Aquaporin 4 positive"
+      ],
+      "ans": 2,
+      "exp": "Aquaporin 4 negative NMO spectrum disorders (Book p672)"
+    },
+    {
+      "id": "MED-C52-76",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "numeric",
+      "q": "ADEM is printed as affecting children of which age?",
+      "opts": [
+        "Less than 2 years",
+        "12-18 years",
+        "Over 40 years",
+        "Less than 12 years"
+      ],
+      "ans": 3,
+      "exp": "ADEM : Age : < 12 yrs (Book p672)"
+    },
+    {
+      "id": "MED-C52-77",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The sex pattern printed for ADEM in children is:",
+      "opts": [
+        "Males > females",
+        "Females > males",
+        "Equal",
+        "Females only"
+      ],
+      "ans": 0,
+      "exp": "males > females in children (Book p672)"
+    },
+    {
+      "id": "MED-C52-78",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The post-infectious hierarchy printed for ADEM is:",
+      "opts": [
+        "Enterovirus > adenovirus",
+        "Measles > chicken pox",
+        "Chicken pox > measles",
+        "Rubella > mumps"
+      ],
+      "ans": 1,
+      "exp": "Etiology : Post infectious : measles > chicken pox (Book p672)"
+    },
+    {
+      "id": "MED-C52-79",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "numeric",
+      "q": "The incubation period printed after the infection is:",
+      "opts": [
+        "1-2 months",
+        "6 weeks to 3 months",
+        "4-21 days",
+        "1-3 days"
+      ],
+      "ans": 2,
+      "exp": "Incubation period : 4-21 days (Book p672)"
+    },
+    {
+      "id": "MED-C52-80",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "oddoneout",
+      "q": "Which of the following completes the two printed aetiologies of ADEM?",
+      "opts": [
+        "Post cranial irradiation",
+        "Post operative hypotension",
+        "Post chemotherapy",
+        "Post vaccination"
+      ],
+      "ans": 3,
+      "exp": "Etiology : Post infectious (measles > chicken pox); Post vaccination (Book p672)"
+    },
+    {
+      "id": "MED-C52-81",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The printed pathology mechanism of ADEM is:",
+      "opts": [
+        "Molecular mimicry of myelin basic protein and myelin oligodendrocyte protein",
+        "Complement-mediated astrocytopathy",
+        "Direct viral invasion of oligodendrocytes",
+        "Prion-related spongiform change"
+      ],
+      "ans": 0,
+      "exp": "Pathology : molecular mimicry of myelin basic protein, myelin oligodendrocyte protein (Book p672)"
+    },
+    {
+      "id": "MED-C52-82",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The two arms of the clinical-manifestation flowchart are:",
+      "opts": [
+        "Encephalitis + cerebellitis",
+        "Acute inflammatory demyelination + encephalitis",
+        "Meningitis + vasculitis",
+        "Myelitis + radiculitis"
+      ],
+      "ans": 1,
+      "exp": "Clinical manifestations : Acute inflammatory demyelination + Encephalitis (Book p672)"
+    },
+    {
+      "id": "MED-C52-83",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "oddoneout",
+      "q": "Which site is NOT in the printed list of demyelination sites in ADEM?",
+      "opts": [
+        "Grey matter",
+        "Basal ganglia and thalamus",
+        "Brainstem cranial nerve nuclei",
+        "White matter (predominant)"
+      ],
+      "ans": 2,
+      "exp": "Site : White matter (Predominant), grey matter, basal ganglia, thalamus (Book p672)"
+    },
+    {
+      "id": "MED-C52-84",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The demyelination arm lists which lesion description?",
+      "opts": [
+        "Small ovoid periventricular lesions, multiphasic",
+        "Ring-enhancing lesions with oedema only",
+        "Deep grey matter calcifications",
+        "Large foci of hyper-intensities and fluffy lesions, monophasic"
+      ],
+      "ans": 3,
+      "exp": "monophasic; Large foci of hyper-intensities; Fluffy lesions (Book p672)"
+    },
+    {
+      "id": "MED-C52-85",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The encephalitis arm lists seizure, raised ICP and which further feature?",
+      "opts": [
+        "Loss of consciousness",
+        "Fluent aphasia",
+        "Rest tremor",
+        "Fasciculations"
+      ],
+      "ans": 0,
+      "exp": "Encephalitis : Seizure; ↑ICT; Loss of consciousness (Book p672)"
+    },
+    {
+      "id": "MED-C52-86",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "oddoneout",
+      "q": "Which motor sign is printed on the encephalitis side of ADEM?",
+      "opts": [
+        "Isolated hemifacial spasm",
+        "B/L hypertonia, hyper-extensive response",
+        "LMN weakness with areflexia",
+        "Rigidity with pill-rolling tremor"
+      ],
+      "ans": 1,
+      "exp": "B/L hypertonia, hyper-extensive response; meningismus, encephalopathy (Book p672)"
+    },
+    {
+      "id": "MED-C52-87",
+      "sec": "Anti-MOG Disease and ADEM",
+      "page": 672,
+      "fmt": "recall",
+      "q": "The long list of accompanying features in the encephalitis arm includes visual loss, paresthesia, hemiparesis, ataxia, sphincter disturbance and which two movement findings?",
+      "opts": [
+        "Dystonia and myotonia",
+        "Tics and stereotypy",
+        "Myoclonus and choreoathetosis",
+        "Ballism and asterixis"
+      ],
+      "ans": 2,
+      "exp": "visual loss, paresthesia, hemiparesis, ataxia, sphincter disturbance, myoclonus, choreoathetosis (Book p672)"
+    },
+    {
+      "id": "MED-C52-88",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "The investigation printed for ADEM is:",
+      "opts": [
+        "CT showing basal ganglia calcification",
+        "CSF with neutrophilic pleocytosis",
+        "Angiography showing vasculitic beading",
+        "MRI showing large foci of hyperintense lesions"
+      ],
+      "ans": 3,
+      "exp": "INVESTIGATION : MRI : Large foci of hyperintense lesions (Book p673)"
+    },
+    {
+      "id": "MED-C52-89",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "numeric",
+      "q": "The age row of the ADEM versus MS table reads:",
+      "opts": [
+        "ADEM <12 years; MS >12 years",
+        "ADEM >12 years; MS <12 years",
+        "ADEM any age; MS after 40 years",
+        "Both under 12 years"
+      ],
+      "ans": 0,
+      "exp": "Age — ADEM : <12 years; MS : >12 years (Book p673)"
+    },
+    {
+      "id": "MED-C52-90",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "The gender row prints MS as:",
+      "opts": [
+        "Males only in children",
+        "Females > males (3:1)",
+        "Males > females (3:1)",
+        "Equal in both"
+      ],
+      "ans": 1,
+      "exp": "Gender — ADEM : males > females in children; MS : Females > males (3:1) (Book p673)"
+    },
+    {
+      "id": "MED-C52-91",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "oddoneout",
+      "q": "Which row is positive in ADEM but negative in MS in this table?",
+      "opts": [
+        "Complete myelopathy",
+        "Periventricular location",
+        "Triggers and constitutional symptoms",
+        "Optic neuritis"
+      ],
+      "ans": 2,
+      "exp": "Triggers +/− and Constitutional symptoms +/− for ADEM versus MS (Book p673)"
+    },
+    {
+      "id": "MED-C52-92",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "Optic neuritis laterality in the table is:",
+      "opts": [
+        "U/L in ADEM, B/L in MS",
+        "B/L in both",
+        "U/L in both",
+        "B/L in ADEM, U/L in MS"
+      ],
+      "ans": 3,
+      "exp": "Optic neuritis — ADEM : B/L; MS : U/L (Book p673)"
+    },
+    {
+      "id": "MED-C52-93",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "Complete myelopathy in this table is:",
+      "opts": [
+        "Rare in ADEM, common in MS",
+        "Common in ADEM, rare in MS",
+        "Common in both",
+        "Absent in both"
+      ],
+      "ans": 0,
+      "exp": "Complete myelopathy — ADEM : Rare; MS : Common (Book p673)"
+    },
+    {
+      "id": "MED-C52-94",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "oddoneout",
+      "q": "Encephalopathy in the comparison table is printed as common in ADEM; in MS it is:",
+      "opts": [
+        "The presenting feature",
+        "Less common",
+        "Also common",
+        "Never seen"
+      ],
+      "ans": 1,
+      "exp": "Encephalopathy — ADEM : Common; MS : Less common (Book p673)"
+    },
+    {
+      "id": "MED-C52-95",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "The pattern-of-disease row reads:",
+      "opts": [
+        "Monophasic in both",
+        "Secondary progressive in ADEM",
+        "Monophasic in ADEM, relapsing-remitting in MS",
+        "Relapsing-remitting in both"
+      ],
+      "ans": 2,
+      "exp": "Pattern of disease — ADEM : monophasic; MS : Relapsing remitting (Book p673)"
+    },
+    {
+      "id": "MED-C52-96",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "The MRI row separates the two by:",
+      "opts": [
+        "Small lesions in ADEM, large in MS",
+        "Symmetrical in MS, asymmetric in ADEM",
+        "Enhancement only in MS",
+        "Large, usually symmetrical lesions in ADEM versus variable size and asymmetric in MS"
+      ],
+      "ans": 3,
+      "exp": "MRI — ADEM : Large lesions, usually symmetrical; MS : variable size, Asymmetric (Book p673)"
+    },
+    {
+      "id": "MED-C52-97",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "recall",
+      "q": "The location row prints ADEM lesions as:",
+      "opts": [
+        "Centripetal",
+        "Periventricular",
+        "Juxtacortical only",
+        "Infratentorial only"
+      ],
+      "ans": 0,
+      "exp": "Location — ADEM : Centripetal; MS : Periventricular (Book p673)"
+    },
+    {
+      "id": "MED-C52-98",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "oddoneout",
+      "q": "Which feature appears only in the ADEM column under other features?",
+      "opts": [
+        "Black holes on T1",
+        "Grey matter involvement with mass effect",
+        "Dawson's fingers",
+        "Oligoclonal bands"
+      ],
+      "ans": 1,
+      "exp": "Other features — ADEM : mass effect, Grey matter involvement; MS : − (Book p673)"
+    },
+    {
+      "id": "MED-C52-99",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "page": 673,
+      "fmt": "scenario",
+      "q": "A 7-year-old boy develops encephalopathy with large symmetrical lesions and bilateral optic neuritis 10 days after measles. Which combination of table rows supports ADEM over MS?",
+      "opts": [
+        "Females > males, oligoclonal bands, Dawson's fingers",
+        "Complete myelopathy common, encephalopathy less common, variable-size asymmetric lesions",
+        "Age <12, triggers present, B/L optic neuritis, monophasic, centripetal large symmetrical lesions with mass effect",
+        "Age >12, no triggers, U/L optic neuritis, relapsing-remitting, periventricular lesions"
+      ],
+      "ans": 2,
+      "exp": "ADEM column : Age <12 years, Trigger +, Optic neuritis B/L, Pattern monophasic, MRI large usually symmetrical, Location centripetal, Other features mass effect/grey matter involvement (Book p673)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U52-1",
+      "ch": 52,
+      "n": 1,
+      "title": "1. Chronic Inflammatory Demyelinating Disorders of the CNS",
+      "sec": "The Demyelinating Family",
+      "guide": "The chapter opens by listing the chronic inflammatory demyelinating disorders of the CNS: multiple sclerosis, neuromyelitis optica, anti-MOG antibody disease, sarcoidosis and chronic graft-vs-host disease, with a note that non-inflammatory demyelination means osmotic demyelination from rapid sodium correction.\nMS is defined as chronic inflammatory demyelination of the subcortical area, brainstem, spinal cord and cortical area while sparing the peripheral nerve system and organ systems.\nFeatures are autoimmune disease, females greater than males, significant family history and HLA DR2/15; risk factors are EBV, smoking, vitamin D deficiency and high socio-economic status.",
+      "qs": [
+        "MED-C52-01",
+        "MED-C52-02",
+        "MED-C52-03",
+        "MED-C52-04",
+        "MED-C52-05",
+        "MED-C52-06",
+        "MED-C52-07",
+        "MED-C52-08"
+      ]
+    },
+    {
+      "id": "MED-U52-2",
+      "ch": 52,
+      "n": 2,
+      "title": "2. Pathogenesis, Target Antigens, Imaging Correlates and the BBB Figure",
+      "sec": "Pathogenesis and Blood-Brain Barrier",
+      "guide": "Pathogenesis is inflammation, demyelination, gliosis and secondary neuronal injury; astrocytes disrupt the blood-brain barrier and raised VEGF causes exudation from capillaries, giving hyperintense lesions on T2 and contrast enhancement on T1.\nT cells and B cells act on the target antigens myelin basic protein and myelin oligodendrocyte glycoprotein, producing demyelination with loss of saltatory conduction and cumulative axonal destruction that branches into cortical atrophy and progressive neuronal damage.\nThe blood-brain-barrier figure labels tight junction, pericyte, astrocyte, endothelial cell, microglia, basement membrane, peg-socket junction, leukocyte and neuron.",
+      "qs": [
+        "MED-C52-09",
+        "MED-C52-10",
+        "MED-C52-11",
+        "MED-C52-12",
+        "MED-C52-13",
+        "MED-C52-14",
+        "MED-C52-15",
+        "MED-C52-16",
+        "MED-C52-17",
+        "MED-C52-18",
+        "MED-C52-19"
+      ]
+    },
+    {
+      "id": "MED-U52-3",
+      "ch": 52,
+      "n": 3,
+      "title": "3. Disease Patterns, Sensory and Motor Features and Optic Neuritis",
+      "sec": "Disease Patterns and Major Features",
+      "guide": "Disability curves divide MS into relapsing-remitting in 90%, secondary progressive in 5-6% following the relapsing-remitting form, and primary progressive, for which the printed Rx is anti-CD20 with ocrelizumab.\nMajor features are long-tract sensory manifestations, the m/c complaint, with tingling, numbness, paraesthesia, hypaesthesia, unpleasant sensations and allodynia; UMN motor weakness with loss of strength and speed, loss of tone, loss of dexterity, spasticity and exercise-induced fatigue; and optic neuritis that is unilateral, asymmetric if bilateral, with retrobulbar pain, anterior-pathway involvement, drug responsiveness and diplopia.",
+      "qs": [
+        "MED-C52-20",
+        "MED-C52-21",
+        "MED-C52-22",
+        "MED-C52-23",
+        "MED-C52-24",
+        "MED-C52-25",
+        "MED-C52-26",
+        "MED-C52-27",
+        "MED-C52-28",
+        "MED-C52-29",
+        "MED-C52-30",
+        "MED-C52-31"
+      ]
+    },
+    {
+      "id": "MED-U52-4",
+      "ch": 52,
+      "n": 4,
+      "title": "4. Minor Features, Other Presentations and the McDonald Criteria",
+      "sec": "Minor Features and McDonald Criteria",
+      "guide": "Minor features are ataxia, vertigo, bladder involvement, Lhermitte sign, dementia and myokymia, while other presentations include bilateral internuclear ophthalmoplegia, bilateral trigeminal neuralgia, pseudobulbar involvement and acquired pendular nystagmus.\nMcDonald criteria need dissemination in time plus dissemination in space: dissemination in time is satisfied clinically or radiologically by two lesions four weeks apart, a new T2 hyperintense lesion, or a T1 lesion enhancing with contrast; dissemination in space requires two lesions at different sites among juxtacortical, periventricular, spinal cord and infratentorial (cerebellar and middle cerebellar peduncle).",
+      "qs": [
+        "MED-C52-32",
+        "MED-C52-33",
+        "MED-C52-34",
+        "MED-C52-35",
+        "MED-C52-36",
+        "MED-C52-37",
+        "MED-C52-38",
+        "MED-C52-39",
+        "MED-C52-40"
+      ]
+    },
+    {
+      "id": "MED-U52-5",
+      "ch": 52,
+      "n": 5,
+      "title": "5. Ancillary Symptoms, MRI Patterns, CSF and VER",
+      "sec": "Imaging, CSF and Evoked Potentials",
+      "guide": "Ancillary symptoms are Uhthoff's phenomenon with unilateral blurring of vision during a hot shower, Lhermitte's symptom from neck flexion which is also seen in compressive myelopathy, and the Pulfrich phenomenon in which a two-dimensional image is perceived as three-dimensional.\nT2 hyperintensities are common in periventricular white matter and typical in the corpus callosum as Dawson's fingers, illustrated by the MRI panels showing hyper-intense lesions and a periventricular lesion; CSF shows oligoclonal bands with IgG increased in 90%, and the visually evoked response has a sensitivity of 80-85%.",
+      "qs": [
+        "MED-C52-41",
+        "MED-C52-42",
+        "MED-C52-43",
+        "MED-C52-44",
+        "MED-C52-45",
+        "MED-C52-46",
+        "MED-C52-47",
+        "MED-C52-48",
+        "MED-C52-49",
+        "MED-C52-50"
+      ]
+    },
+    {
+      "id": "MED-U52-6",
+      "ch": 52,
+      "n": 6,
+      "title": "6. Acute Attack Therapy and Disease-Modifying Options",
+      "sec": "Treatment of MS",
+      "guide": "Acute attacks and relapse-remission episodes are treated with IV steroids, and the prevention list is grouped by route.\nInfusables are natalizumab (anti-α4 integrin, side effect progressive multifocal leukoencephalopathy), ocrelizumab for the primary-progressive type and alemtuzumab (anti-CD52); injectables are glatiramer acetate and IFN β.\nOrals are fingolimod as a sphingosine receptor modulator, teriflunomide as a dihydroorotate dehydrogenase inhibitor and dimethyl fumarate.",
+      "qs": [
+        "MED-C52-51",
+        "MED-C52-52",
+        "MED-C52-53",
+        "MED-C52-54",
+        "MED-C52-55",
+        "MED-C52-56",
+        "MED-C52-57",
+        "MED-C52-58",
+        "MED-C52-59",
+        "MED-C52-60",
+        "MED-C52-61"
+      ]
+    },
+    {
+      "id": "MED-U52-7",
+      "ch": 52,
+      "n": 7,
+      "title": "7. NMO (Devic's Disease) and Its Distinction from MS",
+      "sec": "Neuromyelitis Optica",
+      "guide": "Neuromyelitis optica, also called Devic's disease, is a chronic inflammatory demyelinating disease of females more than males, around 40 years of age, associated with autoimmune disease such as SLE in 40% of cases, and driven by antibody against aquaporin 4.\nClinically optic neuritis is present and myelitis is variable, with hearing loss also listed: optic neuritis is bilateral and symmetrical with chiasmal involvement, poor response to treatment and severe visual loss, while myelitis shows long-segment involvement with longitudinal extension of transverse myelitis, poor prognosis and a monophasic course; recurrent intractable hiccup is attributed to area postrema involvement.\nInvestigations show oligoclonal bands in only 30% and a normal MRI brain, and treatment is steroids with plasma exchange.",
+      "qs": [
+        "MED-C52-62",
+        "MED-C52-63",
+        "MED-C52-64",
+        "MED-C52-65",
+        "MED-C52-66",
+        "MED-C52-67",
+        "MED-C52-68",
+        "MED-C52-69",
+        "MED-C52-70",
+        "MED-C52-71",
+        "MED-C52-72",
+        "MED-C52-73"
+      ]
+    },
+    {
+      "id": "MED-U52-8",
+      "ch": 52,
+      "n": 8,
+      "title": "8. Anti-MOG Antibody Disease and Acute Disseminated Encephalomyelitis",
+      "sec": "Anti-MOG Disease and ADEM",
+      "guide": "Anti-myelin oligodendrocyte glycoprotein disease is printed as covering optic neuritis, myelitis, aquaporin-4-negative NMO spectrum disorders and acute disseminated encephalomyelitis.\nADEM is a disease of children under 12 years with males more than females, usually post-infectious after measles more often than chicken pox with an incubation of 4-21 days, or post-vaccination, and pathologically driven by molecular mimicry of myelin basic protein and myelin oligodendrocyte protein.\nClinically it combines acute inflammatory demyelination of white matter predominantly with grey matter, basal ganglia and thalamus in a monophasic course with large foci of hyperintensity and fluffy lesions, together with encephalitis producing seizure, raised intracranial tension, loss of consciousness, bilateral hypertonia with hyper-extensive response, meningismus and a wide motor and sensory repertoire.",
+      "qs": [
+        "MED-C52-74",
+        "MED-C52-75",
+        "MED-C52-76",
+        "MED-C52-77",
+        "MED-C52-78",
+        "MED-C52-79",
+        "MED-C52-80",
+        "MED-C52-81",
+        "MED-C52-82",
+        "MED-C52-83",
+        "MED-C52-84",
+        "MED-C52-85",
+        "MED-C52-86",
+        "MED-C52-87"
+      ]
+    },
+    {
+      "id": "MED-U52-9",
+      "ch": 52,
+      "n": 9,
+      "title": "9. ADEM Imaging and the Printed ADEM versus MS Comparison",
+      "sec": "ADEM Imaging and the ADEM-MS Table",
+      "guide": "Investigation of ADEM is MRI showing large foci of hyperintense lesions, illustrated by sagittal brain and cervical cord and axial FLAIR images captioned hyper-intensity in MRI.\nThe comparison table separates ADEM (under 12 years, males more than females in children, triggers and constitutional symptoms present, bilateral optic neuritis, complete myelopathy rare, encephalopathy common, monophasic, large usually symmetrical lesions, centripetal location, mass effect and grey matter involvement) from MS (over 12 years, females more than males at 3:1, no triggers or constitutional symptoms, unilateral optic neuritis, complete myelopathy common, encephalopathy less common, relapsing-remitting, variable-size asymmetric lesions, periventricular location and none of the other features).",
+      "qs": [
+        "MED-C52-88",
+        "MED-C52-89",
+        "MED-C52-90",
+        "MED-C52-91",
+        "MED-C52-92",
+        "MED-C52-93",
+        "MED-C52-94",
+        "MED-C52-95",
+        "MED-C52-96",
+        "MED-C52-97",
+        "MED-C52-98",
+        "MED-C52-99"
+      ]
+    }
+  ]
+}

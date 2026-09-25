@@ -1,0 +1,2563 @@
+{
+  "chapter": 51,
+  "title": "Diseases of Spinal Cord",
+  "pageRange": "660-667",
+  "questions": [
+    {
+      "id": "MED-C51-01",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The chapter opens myelopathy with which definition?",
+      "opts": [
+        "Cortical sensory loss with normal reflexes",
+        "Sensory, motor or ANS symptoms d/t disease of spinal cord",
+        "Radicular pain alone, without long-tract signs",
+        "Lower-motor-neuron weakness from anterior horn cell loss alone"
+      ],
+      "ans": 1,
+      "exp": "myelopathy : Sensory, motor or ANS symptoms d/t disease of spinal cord (Book p660)"
+    },
+    {
+      "id": "MED-C51-02",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The first printed division of myelopathy is into:",
+      "opts": [
+        "Acute, subacute and chronic",
+        "Demyelinating and axonal",
+        "Compressive and non-compressive",
+        "Upper and lower motor neuron"
+      ],
+      "ans": 2,
+      "exp": "Types : Compressive, Non-compressive (Book p660)"
+    },
+    {
+      "id": "MED-C51-03",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "Compressive myelopathy is introduced with which temporal profile?",
+      "opts": [
+        "Apoptic, single-hour onset",
+        "Relapsing fever pattern",
+        "Strictly nocturnal course",
+        "Chronic course"
+      ],
+      "ans": 3,
+      "exp": "Compressive Myelopathy : Chronic course (Book p660)"
+    },
+    {
+      "id": "MED-C51-04",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "In the printed flowchart, compressive myelopathy first branches into:",
+      "opts": [
+        "Intramedullary and extramedullary",
+        "Central and peripheral",
+        "Anterior and posterior",
+        "Cervical and thoracolumbar"
+      ],
+      "ans": 0,
+      "exp": "Flowchart : Compressive myelopathy → Intramedullary / Extramedullary (Book p660)"
+    },
+    {
+      "id": "MED-C51-05",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The extramedullary branch is subdivided into which two columns?",
+      "opts": [
+        "Epidural and subdural only",
+        "Intradural and extradural",
+        "Intramedullary and osseous",
+        "Ventral and dorsal"
+      ],
+      "ans": 1,
+      "exp": "Extramedullary → Intradural : / Extradural (m/c) (Book p660)"
+    },
+    {
+      "id": "MED-C51-06",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "Which compartment is explicitly tagged (m/c) for compressive myelopathy?",
+      "opts": [
+        "Intradural-extramedullary",
+        "Subpial",
+        "Extradural",
+        "Intramedullary"
+      ],
+      "ans": 2,
+      "exp": "Extradural (m/c) (Book p660)"
+    },
+    {
+      "id": "MED-C51-07",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "oddoneout",
+      "q": "Which tumour is NOT listed in the intramedullary column?",
+      "opts": [
+        "Ependymoma",
+        "Oligodendroglioma",
+        "Medulloblastoma",
+        "Meningioma"
+      ],
+      "ans": 3,
+      "exp": "Intramedullary tumors : Ependymoma, Oligodendroglioma, medulloblastoma (meningioma appears under Intradural) (Book p660)"
+    },
+    {
+      "id": "MED-C51-08",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The intramedullary column's 'expansion of cavity' cause is:",
+      "opts": [
+        "Syringomyelia",
+        "Arachnoid cyst",
+        "Pyogenic abscess",
+        "Tarlov cyst"
+      ],
+      "ans": 0,
+      "exp": "Expansion of cavity : Syringomyelia (Book p660)"
+    },
+    {
+      "id": "MED-C51-09",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The four intradural causes printed are:",
+      "opts": [
+        "IVDP, aortic aneurysm, metastasis, discitis",
+        "Neurofibroma, meningioma, arachnoid cyst and pachymeningitis",
+        "Ependymoma, oligodendroglioma, medulloblastoma, syringomyelia",
+        "Fracture, TB, syphilis, pyogenic abscess"
+      ],
+      "ans": 1,
+      "exp": "Intradural Cause : Neurofibroma, meningioma, Arachnoid cyst, Pachymeningitis (Book p660)"
+    },
+    {
+      "id": "MED-C51-10",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "Under extradural 'lesion of vertebrae', the infections printed are:",
+      "opts": [
+        "Lyme and HSV",
+        "JP virus and malaria",
+        "TB and syphilis",
+        "Listeria and TB"
+      ],
+      "ans": 2,
+      "exp": "Lesion of vertebrae - Infection : Te (TB), syphilis (Book p660)"
+    },
+    {
+      "id": "MED-C51-11",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "Also listed under extradural vertebral lesions, besides fracture and infection, is:",
+      "opts": [
+        "Ependymoma",
+        "Arachnoid cyst",
+        "Pachymeningitis",
+        "Pyogenic abscess"
+      ],
+      "ans": 3,
+      "exp": "Pyogenic abscess (Book p660)"
+    },
+    {
+      "id": "MED-C51-12",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The metastatic primaries named for extradural vertebral lesions are:",
+      "opts": [
+        "Prostate and ovary Ca",
+        "Lung and breast Ca",
+        "Renal and thyroid Ca",
+        "Melanoma and lymphoma"
+      ],
+      "ans": 0,
+      "exp": "metastasis (Prostate & ovary Ca) (Book p660)"
+    },
+    {
+      "id": "MED-C51-13",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The disc lesion tagged (m/c) in the extradural column is:",
+      "opts": [
+        "Spinal stenosis from ligamentum flavum hypertrophy",
+        "IVDP",
+        "Spondylolisthesis",
+        "Ankylosing spondylitis"
+      ],
+      "ans": 1,
+      "exp": "Disc pathology : IVDP (m/c) (Book p660)"
+    },
+    {
+      "id": "MED-C51-14",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "Which vascular lesion completes the extradural list?",
+      "opts": [
+        "Spinal dural AV fistula",
+        "Arteriovenous malformation of conus",
+        "Aneurysm of aorta",
+        "Cavernous malformation of cord"
+      ],
+      "ans": 2,
+      "exp": "Aneurysm of aorta (Book p660)"
+    },
+    {
+      "id": "MED-C51-15",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "scenario",
+      "q": "A 63-year-old man treated for prostate carcinoma develops three months of progressive spastic legs with a T10 sensory level. On this page's classification, where does the compression sit?",
+      "opts": [
+        "Intramedullary, by ependymoma",
+        "Intradural-extramedullary, by meningioma",
+        "Intramedullary, by syringomyelia",
+        "Extradural, by vertebral metastasis"
+      ],
+      "ans": 3,
+      "exp": "Extradural (m/c) - Lesion of vertebrae : metastasis (Prostate & ovary Ca); chronic course fits compressive myelopathy (Book p660)"
+    },
+    {
+      "id": "MED-C51-16",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The axial canal diagram labels which combination of layers and spaces?",
+      "opts": [
+        "Dura mater, epidural space, subarachnoid space and arachnoid membrane",
+        "Pia, arachnoid only",
+        "Epidural and subperiosteal plexus only",
+        "Anterior and posterior longitudinal ligaments only"
+      ],
+      "ans": 0,
+      "exp": "Figure labels : Dura mater; Epidural space; Subarachnoid space; Arachnoid membrane; Extradural tumor (Book p660)"
+    },
+    {
+      "id": "MED-C51-17",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The three lower schematic columns are captioned in printed order as:",
+      "opts": [
+        "Conus, epiconus and cauda equina",
+        "Extradural extramedullary, intradural extramedullary, intramedullary",
+        "Intramedullary, intradural extramedullary, extradural extramedullary",
+        "Ventral, central and dorsal cord compression"
+      ],
+      "ans": 1,
+      "exp": "Bottom row captions : Extradural extramedullary; Intradural extramedullary; Intramedullary (Book p660)"
+    },
+    {
+      "id": "MED-C51-18",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The three sagittal MRI panels a-c carry which caption?",
+      "opts": [
+        "Levels of principal dermatomes",
+        "MRI : Hyperintensities in spinal cord",
+        "Tumors of spinal cord",
+        "Types of compressive myelopathy"
+      ],
+      "ans": 2,
+      "exp": "MRI panel caption : Tumors of spinal cord (Book p660)"
+    },
+    {
+      "id": "MED-C51-19",
+      "sec": "Myelopathy and Compressive Types",
+      "page": 660,
+      "fmt": "recall",
+      "q": "The single sagittal MRI at the bottom right is labelled:",
+      "opts": [
+        "IVDD with haematomyelia",
+        "Syringomyelia",
+        "Spinal arachnoid cyst",
+        "IVDP"
+      ],
+      "ans": 3,
+      "exp": "Bottom-right image label : IVDP (Book p660)"
+    },
+    {
+      "id": "MED-C51-20",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "The back pain of compressive myelopathy is described as:",
+      "opts": [
+        "Chronic, moderate to severe intensity",
+        "Brief, sharp, only nocturnal",
+        "Painless with isolated weakness",
+        "Migratory and joint-related"
+      ],
+      "ans": 0,
+      "exp": "Chronic back pain : moderate to severe intensity (Book p661)"
+    },
+    {
+      "id": "MED-C51-21",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "The printed reason pain is worse on erect posture is:",
+      "opts": [
+        "Facet joint synovitis on extension",
+        "Canal diameter ↓ in standing/erect position",
+        "Disc hydration rises on standing",
+        "Paraspinal muscle spasm at night"
+      ],
+      "ans": 1,
+      "exp": "worse on erect posture : (Neurogenic claudication : Canal diameter ↓ in standing/erect position) (Book p661)"
+    },
+    {
+      "id": "MED-C51-22",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Which posture relieves this pain, as printed?",
+      "opts": [
+        "Lying prone with neck rotation",
+        "Walking downhill fast",
+        "Bending forward, as in cycling",
+        "Prolonged standing still"
+      ],
+      "ans": 2,
+      "exp": "Relief on bending (Cycling) (Book p661)"
+    },
+    {
+      "id": "MED-C51-23",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "The brace beside the erect-posture and bending entries labels them as:",
+      "opts": [
+        "Red flags for infection",
+        "Features of myopathy",
+        "Early LMN signs",
+        "Definitive symptoms of compression"
+      ],
+      "ans": 3,
+      "exp": "Bracket : Definitive symptoms of compression (Book p661)"
+    },
+    {
+      "id": "MED-C51-24",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Tingling, numbness and paresthesia in these patients are usually:",
+      "opts": [
+        "On both lower limbs bilaterally, depending on level",
+        "Unilateral in a single dermatome",
+        "Confined to the hands",
+        "Dermatomal and migratory"
+      ],
+      "ans": 0,
+      "exp": "Tingling, numbness, paresthesia : Usually on both lower limbs (LL) bilaterally depending on level (Book p661)"
+    },
+    {
+      "id": "MED-C51-25",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "The band-like sensation at the level of involvement is printed as:",
+      "opts": [
+        "Anaesthesia dolorosa",
+        "Hyperesthesia",
+        "Allodynia of scalp",
+        "Dysesthesia of palms"
+      ],
+      "ans": 1,
+      "exp": "Band like sensation (Hyperesthesia) at the level of involvement (Book p661)"
+    },
+    {
+      "id": "MED-C51-26",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "numeric",
+      "q": "The printed example of a band-like sensation at the umbilicus corresponds to which level?",
+      "opts": [
+        "T12",
+        "L1",
+        "T10",
+        "T4"
+      ],
+      "ans": 2,
+      "exp": "Eg : Umbilicus if T10 level is involved (Book p661)"
+    },
+    {
+      "id": "MED-C51-27",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "In the neurogenic-vascular claudication table, walking distance is:",
+      "opts": [
+        "Fixed in neurogenic, variable in vascular",
+        "Variable in both",
+        "Fixed in both",
+        "Variable in neurogenic, fixed in vascular"
+      ],
+      "ans": 3,
+      "exp": "Note table : Walking distance — Neurogenic variable; Vascular fixed (Book p661)"
+    },
+    {
+      "id": "MED-C51-28",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Neurogenic claudication is relieved by:",
+      "opts": [
+        "Sitting or bending",
+        "Standing erect",
+        "Walking faster",
+        "Lying prone"
+      ],
+      "ans": 0,
+      "exp": "Relieved on — Neurogenic : Sitting/bending; Vascular : Standing (Book p661)"
+    },
+    {
+      "id": "MED-C51-29",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Vascular claudication is worsened specifically by:",
+      "opts": [
+        "Standing still",
+        "Walking",
+        "Sitting",
+        "Bending forward"
+      ],
+      "ans": 1,
+      "exp": "Worsened on — Neurogenic : Walking/standing (erect posture); Vascular : walking (Book p661)"
+    },
+    {
+      "id": "MED-C51-30",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "oddoneout",
+      "q": "Walking uphill is painful in vascular claudication; for neurogenic claudication the table prints it as:",
+      "opts": [
+        "Cramping distal to proximal",
+        "Associated with calf tightness only",
+        "Painless",
+        "Painful"
+      ],
+      "ans": 2,
+      "exp": "Walking uphill — Neurogenic : Painless; Vascular : Painful (Book p661)"
+    },
+    {
+      "id": "MED-C51-31",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "scenario",
+      "q": "A diabetic man gets calf pain after a fixed distance of walking which is relieved by standing still; pedal pulses are absent. Which column of this table fits him?",
+      "opts": [
+        "Neurogenic claudication",
+        "Root pain of disc herniation",
+        "Funicular tract pain",
+        "Vascular claudication"
+      ],
+      "ans": 3,
+      "exp": "Vascular claudication : fixed distance, relieved on standing, pulse absent, painful uphill, bicycle test positive (Painful) (Book p661)"
+    },
+    {
+      "id": "MED-C51-32",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "The bicycle test rows read:",
+      "opts": [
+        "Negative in neurogenic, positive (painful) in vascular",
+        "Positive in neurogenic, negative in vascular",
+        "Negative in both",
+        "Positive in both"
+      ],
+      "ans": 0,
+      "exp": "Bicycle test — Neurogenic : Negative; Vascular : Positive (Painful) (Book p661)"
+    },
+    {
+      "id": "MED-C51-33",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "oddoneout",
+      "q": "Which finding points to vascular rather than neurogenic claudication?",
+      "opts": [
+        "Back pain commonly present",
+        "Absent pulses",
+        "Variable walking distance",
+        "Relief on sitting or bending"
+      ],
+      "ans": 1,
+      "exp": "Pulse : Absent in vascular claudication (Present in neurogenic) (Book p661)"
+    },
+    {
+      "id": "MED-C51-34",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Weakness on the two rows of the table is printed as:",
+      "opts": [
+        "Always in neurogenic",
+        "Never in either",
+        "Occasionally in neurogenic, rarely in vascular",
+        "Rarely in neurogenic, occasionally in vascular"
+      ],
+      "ans": 2,
+      "exp": "Weakness — Neurogenic : Occasionally; Vascular : Rarely (Book p661)"
+    },
+    {
+      "id": "MED-C51-35",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Back pain frequency across the table is:",
+      "opts": [
+        "Occasionally in neurogenic, commonly in vascular",
+        "Absent in neurogenic",
+        "Universal in vascular",
+        "Commonly in neurogenic, occasionally in vascular"
+      ],
+      "ans": 3,
+      "exp": "Back pain — Neurogenic : Commonly; Vascular : Occasionally (Book p661)"
+    },
+    {
+      "id": "MED-C51-36",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "The pain-character row prints neurogenic pain as:",
+      "opts": [
+        "Numbness and aching, proximal to distal",
+        "Cramping, distal to proximal",
+        "Burning sole pain only",
+        "Shock-like radiation to the toes"
+      ],
+      "ans": 0,
+      "exp": "Pain character — Neurogenic : Numbness, aching, proximal to distal (Book p661)"
+    },
+    {
+      "id": "MED-C51-37",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Vascular pain character in the same row is:",
+      "opts": [
+        "Nocturnal rest pain only",
+        "Cramping, distal to proximal",
+        "Numbness and aching, proximal to distal",
+        "Band-like constriction"
+      ],
+      "ans": 1,
+      "exp": "Pain character — Vascular : Cramping : Distal to proximal (Book p661)"
+    },
+    {
+      "id": "MED-C51-38",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "scenario",
+      "q": "A clerk reports bilateral leg numbness after standing in a queue, relieved by squatting, with normal pedal pulses and no pain on cycling. The mechanism printed for his symptoms is:",
+      "opts": [
+        "Anterior horn cell degeneration",
+        "Dorsal root ganglion inflammation",
+        "Canal diameter falls in the erect posture",
+        "Peripheral arterial atherosclerotic stenosis"
+      ],
+      "ans": 2,
+      "exp": "Neurogenic claudication : Canal diameter ↓ in standing/erect position; relieved on bending, bicycle test negative, pulse present (Book p661)"
+    },
+    {
+      "id": "MED-C51-39",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "In the examination list, higher mental function and cranial nerves are:",
+      "opts": [
+        "Slowed with nystagmus",
+        "Pseudobulbar",
+        "Abnormal only in conus lesions",
+        "Normal"
+      ],
+      "ans": 3,
+      "exp": "Examination findings : Higher mental function (HMF), cranial nerves (CN) : Normal (Book p661)"
+    },
+    {
+      "id": "MED-C51-40",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "With compression below T1, upper-limb motor power is:",
+      "opts": [
+        "Power intact (S/S)",
+        "Reduced in a myotomal pattern",
+        "Spastic with clonus",
+        "Flaccid with wasting"
+      ],
+      "ans": 0,
+      "exp": "motor : Upper limb : Compression below T1 → Power intact (S/S) (Book p661)"
+    },
+    {
+      "id": "MED-C51-41",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Lower-limb motor findings in compressive myelopathy are:",
+      "opts": [
+        "Unilateral foot drop only",
+        "Reduced power with B/L UMN features",
+        "Reduced power with B/L LMN features",
+        "Normal power with sensory loss only"
+      ],
+      "ans": 1,
+      "exp": "Lower limb : Reduced power; B/L UMN features (Book p661)"
+    },
+    {
+      "id": "MED-C51-42",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "oddoneout",
+      "q": "Which pair of sensory pathways is printed as lost in the lower limbs?",
+      "opts": [
+        "Posterior column only",
+        "Central sensitisation of pain only",
+        "Spinothalamic tract and posterior column",
+        "Spinothalamic tract only"
+      ],
+      "ans": 2,
+      "exp": "Sensory Lower limb : Spinothalamic tract loss + Posterior column loss → Loss (Book p661)"
+    },
+    {
+      "id": "MED-C51-43",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Reflex findings in the lower limbs are:",
+      "opts": [
+        "Absent knee jerk, brisk ankle jerk",
+        "Inverted radial jerk",
+        "Normal with silent plantars",
+        "Exaggerated knee jerk and ankle jerk"
+      ],
+      "ans": 3,
+      "exp": "Reflexes : Lower limb : Exaggerated (Knee jerk, ankle jerk) (Book p661)"
+    },
+    {
+      "id": "MED-C51-44",
+      "sec": "Clinical Features of Compression",
+      "page": 661,
+      "fmt": "recall",
+      "q": "Bowel and bladder involvement is tied to which pattern?",
+      "opts": [
+        "In intramedullary compression",
+        "Only in extradural fracture",
+        "Only after cord transection",
+        "Never in compressive disease"
+      ],
+      "ans": 0,
+      "exp": "Bowel & bladder involvement : In intramedullary compression (Book p661)"
+    },
+    {
+      "id": "MED-C51-45",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "LMN findings, wasting, band-like sensation, hyperesthesia, hypesthesia and hypoalgesia are printed as occurring:",
+      "opts": [
+        "Only in the arms",
+        "At the level of lesion",
+        "Below the level of lesion",
+        "Above the level of lesion"
+      ],
+      "ans": 1,
+      "exp": "Level localization : LMN findings, wasting atrophy, band like sensation, hyperesthesia, hypesthesia, hypoalgesia : At the level of lesion (Book p662)"
+    },
+    {
+      "id": "MED-C51-46",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "UMN findings appear below the lesion, with which reflex pattern?",
+      "opts": [
+        "Deep reflexes lost, superficial exaggerated",
+        "Both normal until late",
+        "Superficial reflexes lost, deep reflexes exaggerated",
+        "Both superficial and deep reflexes lost"
+      ],
+      "ans": 2,
+      "exp": "UMN findings : Below the level of lesion (Superficial reflexes lost, deep reflexes exaggerated) (Book p662)"
+    },
+    {
+      "id": "MED-C51-47",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "A normal upper limb indicates the lesion lies:",
+      "opts": [
+        "Above C5",
+        "At the cervicomedullary junction",
+        "In the brachial plexus",
+        "Below T1, with levels above the involvement spared"
+      ],
+      "ans": 3,
+      "exp": "upper limb normal : Lesion below T1 (Above level of involvement : Spared) (Book p662)"
+    },
+    {
+      "id": "MED-C51-48",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Sensory symptoms plus weakness in both lower limbs are bracketed as a lesion:",
+      "opts": [
+        "Above L1 spinal segment",
+        "Below L5",
+        "Above T4",
+        "Between S2 and S4 only"
+      ],
+      "ans": 0,
+      "exp": "Sensory symptoms in both lower limb + weakness of both lower limb → Lesion above L1 spinal segment (Book p662)"
+    },
+    {
+      "id": "MED-C51-49",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "A positive Beevor's sign localises the lesion:",
+      "opts": [
+        "Below S3",
+        "Below T9",
+        "Above T4",
+        "At C7"
+      ],
+      "ans": 1,
+      "exp": "Beevor's sign positive : Lesion below T9 (Book p662)"
+    },
+    {
+      "id": "MED-C51-50",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Once the spinal segment is localized, the next printed step is to:",
+      "opts": [
+        "Assume a vertebral level equal to the dermatome",
+        "Skip to surgical decompression",
+        "Localize compression to the corresponding vertebral segment",
+        "Order a CT myelogram immediately"
+      ],
+      "ans": 2,
+      "exp": "Once spinal segment is localized : Localize compression to corresponding vertebral segment (Book p662)"
+    },
+    {
+      "id": "MED-C51-51",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Which finding is given the best localizing value?",
+      "opts": [
+        "Pain level",
+        "Blood pressure",
+        "Tone of the abdominals",
+        "Reflex level"
+      ],
+      "ans": 3,
+      "exp": "Reflex level : Best localizing value (Book p662)"
+    },
+    {
+      "id": "MED-C51-52",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "recall",
+      "q": "The printed procedure for eliciting Beevor's sign is to:",
+      "opts": [
+        "Ask the patient to get up from the supine position",
+        "Ask the patient to cough with feet standing",
+        "Raise both arms while supine",
+        "Perform a Valsalva in sitting"
+      ],
+      "ans": 0,
+      "exp": "Beevor's sign : Procedure : Ask patient to get up from supine position (Book p662)"
+    },
+    {
+      "id": "MED-C51-53",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "numeric",
+      "q": "The normal segmental supply of the abdominal wall is printed as:",
+      "opts": [
+        "Upper C8-T1 and lower T6-T9",
+        "Upper T7-T9 and lower T9-T12 contracting together",
+        "Upper T4-T6 and lower T10-T12",
+        "Upper T9-T12 and lower L1-L2"
+      ],
+      "ans": 1,
+      "exp": "Normal : upper (T7-T9) & lower (T9-T12) abdomen contracts together → No deviation of umbilicus (Book p662)"
+    },
+    {
+      "id": "MED-C51-54",
+      "sec": "Level Localization and Beevor's Sign",
+      "page": 662,
+      "fmt": "scenario",
+      "q": "On a sit-up test the patient's umbilicus is pulled upward because the lower abdominal wall is weak. Which interpretation does the book give?",
+      "opts": [
+        "Upper-motor-neuron lesion above C5",
+        "Isolated ilioinguinal nerve palsy",
+        "Beevor sign positive, implying a lesion below T9",
+        "Beevor sign negative, no cord lesion"
+      ],
+      "ans": 2,
+      "exp": "weakness of lower abdomen : upper abdominal muscle contraction pull umbilicus above (Beevor sign positive) (Book p662)"
+    },
+    {
+      "id": "MED-C51-55",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "The printed direction of damage in intramedullary compression is:",
+      "opts": [
+        "Centripetal (periphery → centre)",
+        "Segmental only, without spread",
+        "Retrograde along the roots",
+        "Centrifugal (centre → periphery of spinal cord)"
+      ],
+      "ans": 3,
+      "exp": "Damage — Intramedullary : Centrifugal (Centre → Periphery of spinal cord) (Book p662)"
+    },
+    {
+      "id": "MED-C51-56",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "oddoneout",
+      "q": "Pain in the extramedullary column is of which type?",
+      "opts": [
+        "Root pain",
+        "Funicular",
+        "Referred visceral pain",
+        "Chest-wall pleuritic pain"
+      ],
+      "ans": 0,
+      "exp": "Pain — Intramedullary : Funicular; Extramedullary : Root pain (Book p662)"
+    },
+    {
+      "id": "MED-C51-57",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Dissociative and suspended sensory loss appear in which column?",
+      "opts": [
+        "Suspended in extramedullary only",
+        "Both positive in intramedullary, both negative in extramedullary",
+        "Both positive in extramedullary",
+        "Dissociative in extramedullary only"
+      ],
+      "ans": 1,
+      "exp": "Dissociative sensory loss + / − and Suspended sensory loss + / − for intramedullary vs extramedullary (Book p662)"
+    },
+    {
+      "id": "MED-C51-58",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Sacral sparing is printed as:",
+      "opts": [
+        "Present in both",
+        "Assessable only on MRI",
+        "Present in intramedullary, absent in extramedullary",
+        "Absent in intramedullary, present in extramedullary"
+      ],
+      "ans": 2,
+      "exp": "Sacral sparing — Intramedullary +; Extramedullary − (Book p662)"
+    },
+    {
+      "id": "MED-C51-59",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Trophic changes in the table are attributed to:",
+      "opts": [
+        "Posterior column loss, positive in extramedullary",
+        "Sympathetic overactivity in extramedullary",
+        "Root avulsion in both",
+        "Pain and temperature loss, positive in intramedullary"
+      ],
+      "ans": 3,
+      "exp": "Trophic changes (D/t pain & temperature loss) — Intramedullary +; Extramedullary − (Book p662)"
+    },
+    {
+      "id": "MED-C51-60",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Pyramidal (UMN) signs appear in which temporal pattern?",
+      "opts": [
+        "Late in intramedullary, early in extramedullary",
+        "Early in intramedullary, late in extramedullary",
+        "Early in both",
+        "Late in both"
+      ],
+      "ans": 0,
+      "exp": "Pyramidal signs (UMN) — Intramedullary : Late; Extramedullary : Early (Book p662)"
+    },
+    {
+      "id": "MED-C51-61",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "LMN signs follow which pattern in the table?",
+      "opts": [
+        "Always first in extramedullary",
+        "Early in intramedullary, late in extramedullary",
+        "Late in intramedullary, early in extramedullary",
+        "Absent in intramedullary"
+      ],
+      "ans": 1,
+      "exp": "LMN signs — Intramedullary : Early; Extramedullary : Late (Book p662)"
+    },
+    {
+      "id": "MED-C51-62",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "recall",
+      "q": "Bowel and bladder involvement is printed as:",
+      "opts": [
+        "Early in both",
+        "Only with conus lesions",
+        "Early in intramedullary, late in extramedullary",
+        "Late in intramedullary, early in extramedullary"
+      ],
+      "ans": 2,
+      "exp": "Bowel/bladder — Intramedullary : Early; Extramedullary : Late (Book p662)"
+    },
+    {
+      "id": "MED-C51-63",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "oddoneout",
+      "q": "Which of these is a feature of extramedullary rather than intramedullary compression?",
+      "opts": [
+        "Sacral sparing",
+        "Suspended sensory loss",
+        "Dissociative sensory loss",
+        "Spinal deformity"
+      ],
+      "ans": 3,
+      "exp": "Spinal deformity — Intramedullary −; Extramedullary + (Book p662)"
+    },
+    {
+      "id": "MED-C51-64",
+      "sec": "Intramedullary versus Extramedullary",
+      "page": 662,
+      "fmt": "scenario",
+      "q": "A young woman has 2 years of cape-like dissociated loss with sacral sparing, early bladder symptoms and only mild pyramidal signs. Which mechanism does the printed comparison imply?",
+      "opts": [
+        "Centrifugal intramedullary damage from the central cord outward",
+        "Centripetal extramedullary compression of the surface tracts",
+        "Isolated dorsal root ganglionopathy",
+        "Peripheral demyelinating neuropathy"
+      ],
+      "ans": 0,
+      "exp": "Intramedullary : Centrifugal damage, dissociative and suspended sensory loss +, sacral sparing +, bowel/bladder early, pyramidal signs late (Book p662)"
+    },
+    {
+      "id": "MED-C51-65",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "The two fasciculi labelled in the posterior columns of the cross-section are:",
+      "opts": [
+        "Anterior and posterior external arcuate fibres",
+        "Fasciculus cuneatus and fasciculus gracilis",
+        "Gowers tract and Lissauer tract",
+        "Medial lemniscus and external cuneate nucleus"
+      ],
+      "ans": 1,
+      "exp": "Figure labels : Fasciculus cuneatus; Fasciculus gracilis (Book p663)"
+    },
+    {
+      "id": "MED-C51-66",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "The bracket joining lateral corticospinal (pyramidal) and rubrospinal tracts assigns which action?",
+      "opts": [
+        "Pain and temperature",
+        "Pressure and touch",
+        "Distal limb movements",
+        "Axial and proximal limb movements"
+      ],
+      "ans": 2,
+      "exp": "Lateral corticospinal (pyramidal) tract + Rubrospinal tract → Distal limb movements (Book p663)"
+    },
+    {
+      "id": "MED-C51-67",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Lateral reticulospinal, vestibulospinal, ventral reticulospinal and tectospinal tracts are grouped for:",
+      "opts": [
+        "Distal limb movements (minor role)",
+        "Two-point discrimination",
+        "Vibration and joint position only",
+        "Axial and proximal limb movements"
+      ],
+      "ans": 3,
+      "exp": "Figure bracket : Lateral reticulospinal; Vestibulospinal; Ventral reticulospinal; Tectospinal → Axial and proximal limb movements (Book p663)"
+    },
+    {
+      "id": "MED-C51-68",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "oddoneout",
+      "q": "Which structure is NOT labelled on this mid-thoracic cross-section figure?",
+      "opts": [
+        "Fasciculus proprius",
+        "Fasciculus cuneatus",
+        "Dorsal spinocerebellar tract",
+        "Tectospinal tract"
+      ],
+      "ans": 0,
+      "exp": "The figure labels fasciculus cuneatus and gracilis, dorsal and ventral spinocerebellar tracts, lateral and ventral spinothalamic tracts, the anterior horn, corticospinal, rubrospinal, reticulospinal, vestibulospinal and tectospinal tracts, not the fasciculus proprius (Book p663)"
+    },
+    {
+      "id": "MED-C51-69",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "The ventral (uncrossed) corticospinal tract is labelled with which role?",
+      "opts": [
+        "Sacral parasympathetic outflow",
+        "Distal limb movements (minor role)",
+        "Axial extension (major role)",
+        "Pain modulation"
+      ],
+      "ans": 1,
+      "exp": "Ventral (uncrossed) corticospinal tract : Distal limb movements (minor role) (Book p663)"
+    },
+    {
+      "id": "MED-C51-70",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Root pain or girdle pain is characterized as:",
+      "opts": [
+        "Burning pain relieved by coughing",
+        "Shooting pain only on neck flexion",
+        "Brief shock-like pain along distribution, initially unilateral then bilateral",
+        "Constant dull ache from within the cord"
+      ],
+      "ans": 2,
+      "exp": "Root pain/girdle pain : Character — Brief shock like pain along distribution (initially U/L → B/L) (Book p663)"
+    },
+    {
+      "id": "MED-C51-71",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Lhermitte sign is characterized as:",
+      "opts": [
+        "Band-like constriction at the level",
+        "Aching pain worse on standing",
+        "Shortness of breath with neck extension",
+        "Shooting pain along spinal cord till sacrum"
+      ],
+      "ans": 3,
+      "exp": "Lhermitte sign : Character — Shooting pain along spinal cord till sacrum (Book p663)"
+    },
+    {
+      "id": "MED-C51-72",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "oddoneout",
+      "q": "Coughing or Valsalva aggravates which printed entity?",
+      "opts": [
+        "Root pain/girdle pain",
+        "Lhermitte sign",
+        "Funicular pain",
+        "Suspended sensory loss"
+      ],
+      "ans": 0,
+      "exp": "Exacerbated by — Root pain : Coughing/valsava; Lhermitte : On flexion of neck (Book p663)"
+    },
+    {
+      "id": "MED-C51-73",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "The cause given for Lhermitte sign is:",
+      "opts": [
+        "Dorsal root ganglion infarction",
+        "Posterior compression (extramedullary)",
+        "Posterolateral compression",
+        "Anterior horn cell loss"
+      ],
+      "ans": 1,
+      "exp": "Cause — Lhermitte sign : Posterior compression (Extramedullary) (Book p663)"
+    },
+    {
+      "id": "MED-C51-74",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "For localization, the table prints:",
+      "opts": [
+        "Lhermitte useful, root pain not",
+        "Neither useful",
+        "Root pain useful (+), Lhermitte sign not useful (−)",
+        "Both useful"
+      ],
+      "ans": 2,
+      "exp": "Useful for localization — Root pain +; Lhermitte sign − (Book p663)"
+    },
+    {
+      "id": "MED-C51-75",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Funicular or tract pain is described as:",
+      "opts": [
+        "Brief electric shocks on neck flexion",
+        "Colicky pain with coughing",
+        "Positional headache",
+        "Constant, dull, aching pain from within"
+      ],
+      "ans": 3,
+      "exp": "Funicular pain/tract pain : Constant, dull, aching pain from within (Book p663)"
+    },
+    {
+      "id": "MED-C51-76",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Suspended sensory loss is explained by:",
+      "opts": [
+        "Loss of crossing over ST tract fibres at the level",
+        "Complete transection of the spinothalamic tract",
+        "Posterior column demyelination",
+        "Dorsal root ganglion infarction"
+      ],
+      "ans": 0,
+      "exp": "Suspended sensory loss : D/t loss of crossing over ST tract fibres at the level (Book p663)"
+    },
+    {
+      "id": "MED-C51-77",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "In suspended sensory loss, the sensation above and below the involved level is:",
+      "opts": [
+        "Lost only in the arms",
+        "Normal",
+        "Also lost in a stocking pattern",
+        "Hyperesthetic"
+      ],
+      "ans": 1,
+      "exp": "Above and below level of involvement : Normal (Book p663)"
+    },
+    {
+      "id": "MED-C51-78",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Dissociative sensory loss means:",
+      "opts": [
+        "Complete loss of all modalities",
+        "Loss restricted to one dermatome",
+        "Loss of spinothalamic sensation with intact posterior column",
+        "Loss of posterior column with intact pain sensation"
+      ],
+      "ans": 2,
+      "exp": "Dissociative sensory loss : Loss of spinothalamic tract sensation with intact posterior column (Book p663)"
+    },
+    {
+      "id": "MED-C51-79",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "An early LMN finding in intramedullary disease occurs when the lesion reaches the:",
+      "opts": [
+        "Dorsal root entry zone",
+        "Lateral corticospinal tract",
+        "Spinothalamic decussation",
+        "Anterior horn cell (AHC)"
+      ],
+      "ans": 3,
+      "exp": "Early LMN finding : when lesion reach anterior horn cell (AHC) (Book p663)"
+    },
+    {
+      "id": "MED-C51-80",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "The lamination of spinothalamic fibres from centre to periphery is printed as:",
+      "opts": [
+        "CTLS (cervical, thoracic, lumbar, sacral)",
+        "STLC from centre outwards",
+        "SLTC from centre outwards",
+        "Random, without lamination"
+      ],
+      "ans": 0,
+      "exp": "Spinothalamic tract fibres : Centre → Periphery : CTLS (C : cervical, T : Thoracic, L : Lumbar, S : Sacral) (Book p663)"
+    },
+    {
+      "id": "MED-C51-81",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Bowel and bladder fibres are placed where, and with what consequence?",
+      "opts": [
+        "In the posterior columns, so sensory-only bladder symptoms",
+        "In the centre, so early involvement in intramedullary disease",
+        "At the periphery, so late involvement",
+        "Only in the conus, so absent in cord disease"
+      ],
+      "ans": 1,
+      "exp": "Bowel & bladder fibres are in the centre : Early involvement in intramedullary (Book p663)"
+    },
+    {
+      "id": "MED-C51-82",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "Because the corticospinal tract lies towards the periphery, intramedullary lesions give:",
+      "opts": [
+        "No UMN involvement ever",
+        "Alternating UMN and LMN signs",
+        "Late UMN involvement",
+        "Early UMN involvement"
+      ],
+      "ans": 2,
+      "exp": "Corticospinal tract situated towards periphery : Late UMN involvement in intramedullary (Book p663)"
+    },
+    {
+      "id": "MED-C51-83",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "recall",
+      "q": "The mechanism printed for raised CSF protein in extramedullary disease is:",
+      "opts": [
+        "Cord necrosis alone",
+        "Vasogenic oedema of the conus",
+        "Meningeal biopsy reaction",
+        "Due to root involvement"
+      ],
+      "ans": 3,
+      "exp": "CSF protein : D/t root involvement (Book p663)"
+    },
+    {
+      "id": "MED-C51-84",
+      "sec": "Cord Cross-section and Cord Pain",
+      "page": 663,
+      "fmt": "scenario",
+      "q": "A central cervical cord lesion starts producing ptosis and miosis on one side. Which printed explanation fits?",
+      "opts": [
+        "Intramedullary extension damaging sympathetic fibres at the cervical level → Horner's syndrome",
+        "Compression of the trochlear nerve in its cisternal course",
+        "Ischemia of the Edinger-Westphal nucleus",
+        "Pre-ganglionic T1 root avulsion from trauma"
+      ],
+      "ans": 0,
+      "exp": "Intramedullary : Extension can damage sympathetic fibre in cervical level → Horner's syndrome (Book p663)"
+    },
+    {
+      "id": "MED-C51-85",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Conus medullaris involvement is printed as affecting:",
+      "opts": [
+        "Only the filum terminale",
+        "B/L S3 → C1 inside the spinal cord",
+        "Asymmetrical L2 → C1 roots",
+        "Only S2-S4 roots"
+      ],
+      "ans": 1,
+      "exp": "Involvement — Conus medullaris : B/L S3 → C1 inside spinal cord (printed C1 for the coccygeal segment, as in Ch50) (Book p664)"
+    },
+    {
+      "id": "MED-C51-86",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "oddoneout",
+      "q": "Onset in the two columns is printed as:",
+      "opts": [
+        "Sudden in both",
+        "Insidious in both",
+        "Sudden in conus, insidious in cauda equina",
+        "Insidious in conus, sudden in cauda equina"
+      ],
+      "ans": 2,
+      "exp": "Onset — Conus : Sudden onset; Cauda equina : Insidious (Book p664)"
+    },
+    {
+      "id": "MED-C51-87",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Root pain in the two columns is described as:",
+      "opts": [
+        "Common in conus, absent in cauda equina",
+        "Bilateral in conus only",
+        "Only nocturnal in both",
+        "Uncommon in conus, unilateral in leg, thigh and bladder regions in cauda equina"
+      ],
+      "ans": 3,
+      "exp": "Root pain — Conus : Uncommon; Cauda equina : U/L in leg, thigh, bladder (Book p664)"
+    },
+    {
+      "id": "MED-C51-88",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Sensory loss patterns are:",
+      "opts": [
+        "Saddle distribution in conus, saddle or any part of the lower limb in cauda equina",
+        "Stocking in conus, saddle in cauda equina only",
+        "Dissociated loss in cauda equina only",
+        "Identical in both"
+      ],
+      "ans": 0,
+      "exp": "Sensory loss — Conus : Saddle distribution; Cauda equina : Saddle/any part of LL (Book p664)"
+    },
+    {
+      "id": "MED-C51-89",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Motor findings in the two columns are:",
+      "opts": [
+        "Isolated foot drop in conus",
+        "No weakness in conus; weakness and wasting of LL muscles in cauda equina",
+        "Wasting in conus, none in cauda equina",
+        "Spastic quadriparesis in both"
+      ],
+      "ans": 1,
+      "exp": "motor — Conus : No weakness; Cauda equina : weakness & wasting of LL muscles (Book p664)"
+    },
+    {
+      "id": "MED-C51-90",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Deep tendon reflexes in conus lesions are printed as:",
+      "opts": [
+        "Exaggerated with clonus",
+        "Normal with preserved anal reflex",
+        "Normal, with anal and bulbocavernous reflexes lost",
+        "Lost knee and ankle jerks always"
+      ],
+      "ans": 2,
+      "exp": "Deep tendon reflex (DTR) — Conus : Normal (Anal & bulbocavernous reflexes lost) (Book p664)"
+    },
+    {
+      "id": "MED-C51-91",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Bladder, bowel and sexual function rows read:",
+      "opts": [
+        "Negative in conus, positive in cauda equina",
+        "Positive in both equally",
+        "Only bowel is involved in conus",
+        "Positive in conus for all three; negative in cauda equina for all three"
+      ],
+      "ans": 3,
+      "exp": "Bladder +/−, Bowel +/− and Sexual +/− for conus versus cauda equina (Book p664)"
+    },
+    {
+      "id": "MED-C51-92",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "scenario",
+      "q": "An elderly man has 6 months of asymmetric radicular pain, asymmetric areflexic leg weakness with wasting, saddle numbness and only late urinary symptoms. Which syndrome is printed for this pattern?",
+      "opts": [
+        "Cauda equina",
+        "Conus medullaris",
+        "Epiconus",
+        "High thoracic cord compression"
+      ],
+      "ans": 0,
+      "exp": "Cauda equina : asymmetrical L2 → C1 roots, insidious, U/L root pain, weakness & wasting of LL muscles, loss of knee & ankle jerk, bladder/bowel/sexual − (Book p664)"
+    },
+    {
+      "id": "MED-C51-93",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "numeric",
+      "q": "The epiconus is printed as involving which segments?",
+      "opts": [
+        "T12, L1, L2, L3",
+        "L4, L5, S1, S2",
+        "L2, L3, L4, L5",
+        "S3, S4, S5, C1"
+      ],
+      "ans": 1,
+      "exp": "Epiconus : Involves : L4, L5, S1, S2 (Book p664)"
+    },
+    {
+      "id": "MED-C51-94",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "oddoneout",
+      "q": "In epiconus lesions, which movement is spared?",
+      "opts": [
+        "Ankle dorsiflexion",
+        "Toe flexion",
+        "Hip flexion and adduction",
+        "Knee extension"
+      ],
+      "ans": 2,
+      "exp": "Lower limb weakness : Hip flexion/adduction spared (Book p664)"
+    },
+    {
+      "id": "MED-C51-95",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Bladder involvement in epiconus lesions is printed as:",
+      "opts": [
+        "LMN areflexic type",
+        "Absent",
+        "Only sensory urgency",
+        "UMN type"
+      ],
+      "ans": 3,
+      "exp": "Bladder : UMN (Book p664)"
+    },
+    {
+      "id": "MED-C51-96",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "The mnemonic printed for non-compressive myelopathy causes is:",
+      "opts": [
+        "VITAMIN",
+        "VINDICATE",
+        "MINT",
+        "SATVDN"
+      ],
+      "ans": 0,
+      "exp": "Non Compressive Myelopathy — Causes : mnemonic : VITAMIN (Book p664)"
+    },
+    {
+      "id": "MED-C51-97",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "The vascular entry under the first VITAMIN category is:",
+      "opts": [
+        "Aortic coarctation",
+        "Anterior spinal artery (ASA) thrombosis",
+        "Posterior inferior cerebellar artery occlusion",
+        "Vertebral artery dissection"
+      ],
+      "ans": 1,
+      "exp": "Vascular : Anterior spinal artery (ASA) thrombosis (Book p664)"
+    },
+    {
+      "id": "MED-C51-98",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "oddoneout",
+      "q": "Which entity is NOT printed as a demyelinating cause of non-compressive myelopathy?",
+      "opts": [
+        "Neuromyelitis optica",
+        "Sarcoidosis",
+        "Acute disseminated encephalomyelitis",
+        "Multiple sclerosis"
+      ],
+      "ans": 2,
+      "exp": "Demyelinating causes printed are multiple sclerosis (MS) and Neuromyelitis optica (NMO); sarcoid is printed separately under Autoimmune (Book p664)"
+    },
+    {
+      "id": "MED-C51-99",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "The inherited cause printed under VITAMIN is:",
+      "opts": [
+        "Ataxia-telangiectasia",
+        "Refsum disease",
+        "Abetalipoproteinaemia",
+        "Friedreich's ataxia"
+      ],
+      "ans": 3,
+      "exp": "Inherited : Friedreich's ataxia (Book p664)"
+    },
+    {
+      "id": "MED-C51-100",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "The toxin entry is:",
+      "opts": [
+        "Arsenic",
+        "Lead",
+        "Thallium",
+        "n-Hexane"
+      ],
+      "ans": 0,
+      "exp": "Toxin : Arsenic (Book p664)"
+    },
+    {
+      "id": "MED-C51-101",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "The autoimmune entry is:",
+      "opts": [
+        "SLE",
+        "Sarcoid",
+        "Sjogren's syndrome",
+        "Behcet's disease"
+      ],
+      "ans": 1,
+      "exp": "Autoimmune : Sarcoid (Book p664)"
+    },
+    {
+      "id": "MED-C51-102",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "The metabolic entry names which disease?",
+      "opts": [
+        "X-linked adrenomyeloneuropathy",
+        "Copper-transport Menkes disease",
+        "Sub acute combined degeneration",
+        "Krabbe disease"
+      ],
+      "ans": 2,
+      "exp": "Metabolic : Sub acute combined degeneration (Book p664)"
+    },
+    {
+      "id": "MED-C51-103",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "recall",
+      "q": "Subacute combined degeneration is otherwise printed as:",
+      "opts": [
+        "Anterolateral cord syndrome, due to vitamin E excess",
+        "Central cord syndrome, due to folate deficiency",
+        "Posterior root radiculopathy due to vitamin B1 deficiency",
+        "Posterolateral cord syndrome, due to vitamin B12 deficiency"
+      ],
+      "ans": 3,
+      "exp": "Sub acute combined degeneration : Posterolateral cord syndrome; D/t vitamin B12 deficiency (Book p664)"
+    },
+    {
+      "id": "MED-C51-104",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "oddoneout",
+      "q": "Which is NOT among the printed differential diagnoses of subacute combined degeneration?",
+      "opts": [
+        "Vitamin B6 deficiency",
+        "Vitamin E deficiency",
+        "Copper deficiency",
+        "HTLV-1"
+      ],
+      "ans": 0,
+      "exp": "Differential diagnosis : Vitamin E deficiency, Copper deficiency, HIV, HTLV-1 (Book p664)"
+    },
+    {
+      "id": "MED-C51-105",
+      "sec": "Conus, Cauda and Epiconus",
+      "page": 664,
+      "fmt": "scenario",
+      "q": "A 34-year-old strict vegan has 1 year of numb feet, sensory ataxia and extensor plantars with macrocytic anaemia. Under which VITAMIN heading is his disease printed?",
+      "opts": [
+        "Toxin, as arsenic neuropathy",
+        "Metabolic, as subacute combined degeneration",
+        "Vascular, as ASA thrombosis",
+        "Inherited, as Friedreich's ataxia"
+      ],
+      "ans": 1,
+      "exp": "Metabolic : Sub acute combined degeneration — D/t vitamin B12 deficiency, aetiology also given as arsenic under Toxin but not B12 (Book p664)"
+    },
+    {
+      "id": "MED-C51-106",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "Under 'Infection' among VITAMIN causes, the two entities printed are:",
+      "opts": [
+        "Lyme neuroborreliosis and HIV vacuolar myelopathy",
+        "Japanese encephalitis and enterovirus D68",
+        "Acute transverse myelitis as a post-infectious complication, and syphilis (tabes dorsalis) with TB",
+        "HSV myelitis and CMV polyradiculitis"
+      ],
+      "ans": 2,
+      "exp": "Infection : Acute transverse myelitis (Post infectious complication); Syphilis (Tabes dorsalis), TB (Book p665)"
+    },
+    {
+      "id": "MED-C51-107",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "Acute transverse myelitis is defined in the book as:",
+      "opts": [
+        "Chronic progressive demyelination limited to one root",
+        "Suppurative infection of the epidural space",
+        "Vascular malformation of the conus with haematomyelia",
+        "Rapid onset full thickness/segmented monophasic inflammation of the spinal cord"
+      ],
+      "ans": 3,
+      "exp": "ACUTE TRANSVERSE MYELITIS : Rapid onset full thickness/segmented monophasic inflammation of the spinal cord (myelitis : inflammation of cord) (Book p665)"
+    },
+    {
+      "id": "MED-C51-108",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The second definitional line describes ATM as a demyelinating disease that:",
+      "opts": [
+        "Can affect a variable number of segments",
+        "Always affects exactly one segment",
+        "Spares the grey matter entirely",
+        "Involves only the thoracic cord"
+      ],
+      "ans": 0,
+      "exp": "Demyelinating disease which can affect variable number of segments (Book p665)"
+    },
+    {
+      "id": "MED-C51-109",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "numeric",
+      "q": "The dermatome table pairs the level of the nipples with:",
+      "opts": [
+        "T10",
+        "T4",
+        "T2",
+        "T6"
+      ],
+      "ans": 1,
+      "exp": "Dermatome table : T4 Level of nipples (Book p665)"
+    },
+    {
+      "id": "MED-C51-110",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "numeric",
+      "q": "The level of the umbilicus is printed as:",
+      "opts": [
+        "T12",
+        "L1",
+        "T10",
+        "T8"
+      ],
+      "ans": 2,
+      "exp": "Dermatome table : T10 Level of umbilicus (Book p665)"
+    },
+    {
+      "id": "MED-C51-111",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The lateral parts of the upper limbs are supplied by:",
+      "opts": [
+        "C8 and T1",
+        "T2 and T3",
+        "L1-L3",
+        "C5, C6, C7"
+      ],
+      "ans": 3,
+      "exp": "Dermatome table : C5,6,7 Lateral parts of upper limbs; C8, T1 Medial sides of upper limbs (Book p665)"
+    },
+    {
+      "id": "MED-C51-112",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The thumb and the ring/little fingers are assigned to which dermatomes?",
+      "opts": [
+        "C6 for the thumb, C8 for ring and little fingers",
+        "C5 for the thumb, T1 for ring and little fingers",
+        "C7 for the thumb, C8 for ring and little fingers",
+        "C6 for the thumb, T1 for ring and little fingers"
+      ],
+      "ans": 0,
+      "exp": "Dermatome table : C6 Thumb; C8 Ring and little fingers (Book p665)"
+    },
+    {
+      "id": "MED-C51-113",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "oddoneout",
+      "q": "Which pairing is NOT as printed in the dermatome table?",
+      "opts": [
+        "L1,2,3,4 : anterior and inner surfaces of lower limbs",
+        "L5 : medial side of great toe",
+        "L4 : medial side of great toe",
+        "L4,5, S1 : Foot"
+      ],
+      "ans": 1,
+      "exp": "Dermatome table : L4 Medial side of great toe; L4,5, S1 Foot; L1.2.3.4 Anterior and inner surfaces of lower limbs (Book p665)"
+    },
+    {
+      "id": "MED-C51-114",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The perineum is supplied by which dermatomes in this table?",
+      "opts": [
+        "L1 and L2",
+        "T12 and L1",
+        "S2, S3, S4",
+        "S1 and S2 only"
+      ],
+      "ans": 2,
+      "exp": "Dermatome table : S2,3,4 Perineum (Book p665)"
+    },
+    {
+      "id": "MED-C51-115",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The m/c cause printed for acute transverse myelitis is:",
+      "opts": [
+        "Vaccination",
+        "Paraneoplastic",
+        "Behcet's disease",
+        "Post-infectious"
+      ],
+      "ans": 3,
+      "exp": "Causes : Post infectious (m/c) (Book p665)"
+    },
+    {
+      "id": "MED-C51-116",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "oddoneout",
+      "q": "Which of these causes is NOT printed in the ATM list?",
+      "opts": [
+        "Systemic lupus erythematosus",
+        "Paraneoplastic",
+        "Neuromyelitis optica",
+        "Behcet's disease"
+      ],
+      "ans": 0,
+      "exp": "Causes : Post infectious (m/c), Vaccination, multiple sclerosis, Sarcoidosis, Paraneoplastic, Neuromyelitis optica, Bechet's disease (Book p665)"
+    },
+    {
+      "id": "MED-C51-117",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The bracket in the ATM causes list groups the longitudinally extending transverse myelitis set, which runs from:",
+      "opts": [
+        "Neoplasia and toxins",
+        "Multiple sclerosis through Behcet's disease (MS, sarcoidosis, paraneoplastic, NMO, Behcet's)",
+        "Post-infectious causes alone",
+        "Vaccination and sarcoidosis only"
+      ],
+      "ans": 1,
+      "exp": "Bracket over multiple sclerosis, Sarcoidosis, Paraneoplastic, Neuromyelitis optica, Bechet's disease : Longitudinally extending transverse myelitis (Book p665)"
+    },
+    {
+      "id": "MED-C51-118",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The sensory onset of ATM is printed as:",
+      "opts": [
+        "Perioral numbness with vertigo",
+        "Isolated sacral numbness",
+        "Paresthesia beginning in the feet and extending upward to the trunk",
+        "Cape-like loss starting in the hands"
+      ],
+      "ans": 2,
+      "exp": "Clinical features : Paresthesia beginning in the feet and extending upward to trunk (Book p665)"
+    },
+    {
+      "id": "MED-C51-119",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The initial back pain and paraesthesia of ATM evolve into:",
+      "opts": [
+        "Flaccid areflexic weakness",
+        "Isolated urinary retention",
+        "Cauda equina syndrome",
+        "Spastic weakness"
+      ],
+      "ans": 3,
+      "exp": "Back pain, paraesthesia → Evolve into spastic weakness (Book p665)"
+    },
+    {
+      "id": "MED-C51-120",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "numeric",
+      "q": "The peak of deficits in ATM is reached within:",
+      "opts": [
+        "4 hours to 21 days",
+        "1 to 3 hours",
+        "2 to 6 weeks",
+        "3 to 6 months"
+      ],
+      "ans": 0,
+      "exp": "Peak reached within : 4 hours to 21 days (Book p665)"
+    },
+    {
+      "id": "MED-C51-121",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "numeric",
+      "q": "The plateau phase of ATM has which mean duration?",
+      "opts": [
+        "3 months",
+        "1 week",
+        "1 day",
+        "1 month"
+      ],
+      "ans": 1,
+      "exp": "Plateau phase : mean duration 1 week (Book p665)"
+    },
+    {
+      "id": "MED-C51-122",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "The band-like constriction of ATM occurs:",
+      "opts": [
+        "Only in both hands",
+        "In a glove and stocking pattern",
+        "At the level of the definite sensory level",
+        "Diffusely over the whole trunk"
+      ],
+      "ans": 2,
+      "exp": "Definite sensory level : Band like constriction at the level (Book p665)"
+    },
+    {
+      "id": "MED-C51-123",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "Below the sensory level in ATM, sensation shows:",
+      "opts": [
+        "Loss of pain only",
+        "Preserved pin-prick with lost vibration",
+        "Normal sensation",
+        "Complete loss of all sensory modalities"
+      ],
+      "ans": 3,
+      "exp": "Complete loss of all sensory modalities below the level (Book p665)"
+    },
+    {
+      "id": "MED-C51-124",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "scenario",
+      "q": "A patient with half-thickness cord inflammation has ipsilateral loss of vibration and position with contralateral pain-temperature loss. How is this printed?",
+      "opts": [
+        "If half thickness involvement : U/L posterior column loss + C/L spinothalamic loss",
+        "Bilateral posterior column loss only",
+        "Dissociated loss confined to the arms",
+        "Sacral sparing with normal modality testing"
+      ],
+      "ans": 0,
+      "exp": "If half thickness involvement : U/L posterior column loss + C/L spinothalamic loss (Book p665)"
+    },
+    {
+      "id": "MED-C51-125",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "Motor weakness in ATM is described as:",
+      "opts": [
+        "Ocular and bulbar first",
+        "Below the level of involvement, paraparesis symmetrical or asymmetrical",
+        "Above the level of involvement, monoparesis",
+        "Proximal limb-girdle pattern"
+      ],
+      "ans": 1,
+      "exp": "motor weakness : Below the level of involvement (Paraparesis : Symmetrical/asymmetrical) (Book p665)"
+    },
+    {
+      "id": "MED-C51-126",
+      "sec": "Acute Transverse Myelitis",
+      "page": 665,
+      "fmt": "recall",
+      "q": "Significant bowel and bladder involvement in ATM presents as:",
+      "opts": [
+        "Nocturnal enuresis with normal post-void residual",
+        "Isolated constipation",
+        "Urinary retention",
+        "Stress incontinence only"
+      ],
+      "ans": 2,
+      "exp": "Significant bowel/bladder involvement : urinary retention (Book p665)"
+    },
+    {
+      "id": "MED-C51-127",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "oddoneout",
+      "q": "Which feature of GBS is listed to separate it from ATM?",
+      "opts": [
+        "A definite sensory level",
+        "Urinary retention at onset",
+        "Band-like trunk sensation",
+        "Progressive lower limb weakness, proximal greater than distal"
+      ],
+      "ans": 3,
+      "exp": "GBS : Progressive lower limb weakness (Proximal > distal) (Book p666)"
+    },
+    {
+      "id": "MED-C51-128",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "Regarding sensory and bladder findings, GBS is printed as:",
+      "opts": [
+        "Normal sensory examination, no band-like sensation and no bladder symptoms",
+        "Definite sensory level with urinary retention",
+        "Band-like trunk pain with brisk reflexes",
+        "Sacral sensory loss with extensor plantars"
+      ],
+      "ans": 0,
+      "exp": "Normal sensory examination; No band like sensation (Definite sensory level); No bladder symptoms (Book p666)"
+    },
+    {
+      "id": "MED-C51-129",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "The sagittal MRI with a red arrow pointing to a cord hyperintensity is captioned:",
+      "opts": [
+        "Syringomyelia cavity",
+        "Acute transverse myelitis",
+        "Tumors of spinal cord",
+        "Conus medullaris haemorrhage"
+      ],
+      "ans": 1,
+      "exp": "Image annotation : Hyperintensity, caption Acute transverse myelitis (level markers C3 to T8) (Book p666)"
+    },
+    {
+      "id": "MED-C51-130",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "The investigations printed for ATM are:",
+      "opts": [
+        "Spinal angiography and serum B12 only",
+        "Nerve biopsy and VEP",
+        "MRI T2 of spine showing hyperintensities at the level, and CSF pleocytosis >10 cells with raised IgG index",
+        "CT myelogram with somatosensory evoked potentials"
+      ],
+      "ans": 2,
+      "exp": "Investigations : MRI T2 of spine : Hyperintensities at the level; CSF : Pleocytosis (>10 cells), ↑ IgG index (Book p666)"
+    },
+    {
+      "id": "MED-C51-131",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "numeric",
+      "q": "The printed steroid regimen for ATM is:",
+      "opts": [
+        "Hydrocortisone 100 mg IV every 8 hours",
+        "Dexamethasone 4 mg orally twice daily",
+        "Methylprednisolone 40 mg IV once",
+        "Methylprednisolone 500-1000 mg IV in 100 ml NS over 1 hour"
+      ],
+      "ans": 3,
+      "exp": "Treatment : High dose methylprednisolone (500-1000 mg IV in 100ml NS over 1 hour) (Book p666)"
+    },
+    {
+      "id": "MED-C51-132",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "management",
+      "q": "When high-dose methylprednisolone fails in ATM, the printed next step is:",
+      "opts": [
+        "Plasma exchange",
+        "Intravenous immunoglobulin",
+        "Cyclophosphamide pulses",
+        "Decompressive laminectomy"
+      ],
+      "ans": 0,
+      "exp": "High dose methylprednisolone — No response → Plasma exchange (Book p666)"
+    },
+    {
+      "id": "MED-C51-133",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "oddoneout",
+      "q": "Which is NOT among the printed indications for plasma exchange?",
+      "opts": [
+        "Sensory loss in lower extremities",
+        "Absence of a sensory level",
+        "Inability to walk",
+        "Markedly impaired autonomic function"
+      ],
+      "ans": 1,
+      "exp": "Indications for plasma exchange : Inability to walk; markedly impaired autonomic function; Sensory loss in lower extremities; No/little improvement after 5-7 days of IV steroids (Book p666)"
+    },
+    {
+      "id": "MED-C51-134",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "Subacute combined degeneration is printed as an abbreviation of:",
+      "opts": [
+        "Central cord syndrome of periventricular white matter",
+        "Combined systems atrophy of the basal ganglia",
+        "Posterolateral cord syndrome of the white matter",
+        "Anterolateral cord syndrome of grey matter"
+      ],
+      "ans": 2,
+      "exp": "SUBACUTE COMBINED DEGENERATION (SACD) : AKA posterolateral cord syndrome (white matter); D/t vitamin B12 deficiency (Book p666)"
+    },
+    {
+      "id": "MED-C51-135",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "The first tract involved in the printed progression is:",
+      "opts": [
+        "Lateral corticospinal tract",
+        "Spinothalamic tract",
+        "Large myelinated peripheral fibres",
+        "Posterior tract, with posterior column sensations lost"
+      ],
+      "ans": 3,
+      "exp": "Progression of disease : Posterior tract : Posterior column sensations lost (Book p666)"
+    },
+    {
+      "id": "MED-C51-136",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "The first symptom and first sign of SCD are printed respectively as:",
+      "opts": [
+        "Tingling and paraesthesia of the distal extremity; vibration sense lost first",
+        "Sensory ataxia; extensor plantar",
+        "Bladder retention; lost ankle jerk",
+        "Glove-and-stocking numbness; lost knee jerk"
+      ],
+      "ans": 0,
+      "exp": "Tingling, paraesthesia of distal extremity : First symptom; Vibration sense lost first : First sign (Book p666)"
+    },
+    {
+      "id": "MED-C51-137",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "oddoneout",
+      "q": "After the posterior column, which pair of sensations is printed as lost next?",
+      "opts": [
+        "Two-point discrimination of the palms only",
+        "Fine touch and proprioception",
+        "Pain and temperature only",
+        "Taste and smell"
+      ],
+      "ans": 1,
+      "exp": "Fine touch and proprioception lost; then sensory ataxia, gait abnormality (Book p666)"
+    },
+    {
+      "id": "MED-C51-138",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "The lateral-tract step of the flowchart includes which two tracts?",
+      "opts": [
+        "Rubrospinal and tectospinal tracts",
+        "Gracilis and cuneatus",
+        "Spinothalamic tract and corticospinal tract",
+        "Dorsal and ventral spinocerebellar tracts"
+      ],
+      "ans": 2,
+      "exp": "Lateral tract : Spinothalamic tract; Corticospinal tract (Book p666)"
+    },
+    {
+      "id": "MED-C51-139",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "recall",
+      "q": "The final arrow of the progression adds which peripheral finding?",
+      "opts": [
+        "Small-fibre neuropathy with allodynia",
+        "Mononeuritis multiplex",
+        "Carpal tunnel syndrome",
+        "Large fibre neuropathy with reflexes lost and glove and stocking neuropathy"
+      ],
+      "ans": 3,
+      "exp": "Large fibre neuropathy : Reflex lost (knee jerk, ankle jerk), glove & stocking neuropathy (Book p666)"
+    },
+    {
+      "id": "MED-C51-140",
+      "sec": "ATM Differential, Work-up and SCD",
+      "page": 666,
+      "fmt": "oddoneout",
+      "q": "If SCD is left untreated, the complication arrow lists dementia and which other feature?",
+      "opts": [
+        "Optic atrophy",
+        "Ptosis",
+        "Chorea",
+        "Hearing loss"
+      ],
+      "ans": 0,
+      "exp": "If not treated — Complication → Dementia, optic atrophy (Book p666)"
+    },
+    {
+      "id": "MED-C51-141",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "Friedreich's ataxia is introduced as:",
+      "opts": [
+        "A peripheral demyelinating neuropathy only",
+        "Commonest form of spinocerebellar degeneration",
+        "Second commonest after ataxia-telangiectasia",
+        "A pure cerebellar cortical degeneration"
+      ],
+      "ans": 1,
+      "exp": "FRIEDREICH'S ATAXIA : Commonest form of spinocerebellar degeneration (Book p667)"
+    },
+    {
+      "id": "MED-C51-142",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "The cerebellum itself in Friedreich's ataxia is:",
+      "opts": [
+        "Hypertrophic with folial thickening",
+        "Cavitated",
+        "Normal",
+        "Atrophic"
+      ],
+      "ans": 2,
+      "exp": "Cerebellum is normal (Book p667)"
+    },
+    {
+      "id": "MED-C51-143",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "The inheritance rows are printed as:",
+      "opts": [
+        "X-linked recessive only",
+        "Mitochondrial with maternal transmission",
+        "Autosomal dominant in all cases",
+        "Autosomal recessive more common with early onset, autosomal dominant with later onset"
+      ],
+      "ans": 3,
+      "exp": "Inheritance : Autosomal recessive : more common, early onset (8-20 yrs); Autosomal dominant : Later onset (Book p667)"
+    },
+    {
+      "id": "MED-C51-144",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "numeric",
+      "q": "The early-onset age window printed for the autosomal-recessive form is:",
+      "opts": [
+        "8-20 years",
+        "2-5 years",
+        "25-40 years",
+        "After 50 years"
+      ],
+      "ans": 0,
+      "exp": "Autosomal recessive : more common, early onset (8-20 yrs) (Book p667)"
+    },
+    {
+      "id": "MED-C51-145",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "The gene defect printed for Friedreich's ataxia is:",
+      "opts": [
+        "FXN expansion on chromosome X",
+        "FRATAXIN on chromosome 9 with GAA repetition",
+        "ATM on chromosome 11",
+        "PMP22 duplication on chromosome 17"
+      ],
+      "ans": 1,
+      "exp": "Gene defect : FRATAXIN (Chr 9) : GAA repetition (Book p667)"
+    },
+    {
+      "id": "MED-C51-146",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "oddoneout",
+      "q": "Which two structures are explicitly printed as spared in Friedreich's ataxia?",
+      "opts": [
+        "Peripheral nerves and DRG",
+        "Anterior horn cells and roots",
+        "Cerebrum and cranial nerves",
+        "Cerebellum and dorsal columns"
+      ],
+      "ans": 2,
+      "exp": "Cerebrum & cranial nerve spared (Book p667)"
+    },
+    {
+      "id": "MED-C51-147",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "The printed order of involvement in Friedreich's ataxia is:",
+      "opts": [
+        "Cerebellum → cord → DRG → nerve",
+        "Anterior horn → root → dorsal column",
+        "Nerve → cord → DRG",
+        "Dorsal root ganglion → spinocerebellar tract → cord → lastly nerve"
+      ],
+      "ans": 3,
+      "exp": "Involvement : DSC : Dorsal root ganglion → Spinocerebellar tract → Cord → Lastly nerve (Book p667)"
+    },
+    {
+      "id": "MED-C51-148",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "DRG involvement produces which printed feature?",
+      "opts": [
+        "Severe sensory ataxia",
+        "Painful autonomic crisis",
+        "Isolated internuclear ophthalmoplegia",
+        "Facial myokymia"
+      ],
+      "ans": 0,
+      "exp": "DRG : Severe sensory ataxia (Book p667)"
+    },
+    {
+      "id": "MED-C51-149",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "Cord involvement in Friedreich's ataxia affects which columns, and gives what?",
+      "opts": [
+        "Only conus → areflexic bladder",
+        "Posterior and lateral columns → UMN findings with extensor plantar",
+        "Anterior and posterior columns → LMN findings",
+        "Only lateral spinothalamic tract → suspended sensory loss"
+      ],
+      "ans": 1,
+      "exp": "Cord : Posterior and lateral columns → UMN findings (Extensor plantar) (Book p667)"
+    },
+    {
+      "id": "MED-C51-150",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "The peripheral-nerve row lists neuropathy with which two features?",
+      "opts": [
+        "Neuralgic amyotrophy",
+        "Mononeuritis multiplex with vasculitis",
+        "Reflexes lost and demyelination",
+        "Axonal degeneration with preserved reflexes"
+      ],
+      "ans": 2,
+      "exp": "Peripheral nerves : Neuropathy → Reflexes lost; Demyelination (Book p667)"
+    },
+    {
+      "id": "MED-C51-151",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "oddoneout",
+      "q": "Which of these is NOT in the printed non-neurological list for Friedreich's ataxia?",
+      "opts": [
+        "Scoliosis",
+        "Diabetes mellitus",
+        "Pes cavus",
+        "Hypertrophic obstructive cardiomyopathy with systemic hypertension"
+      ],
+      "ans": 3,
+      "exp": "Non neurological manifestations : Scoliosis, Cardiac symptoms (myocardial fibrosis in 90%, cardiomyopathy), Diabetic mellitus, Optic atrophy, Deafness, Pes cavus, Hammer toe (Book p667)"
+    },
+    {
+      "id": "MED-C51-152",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "numeric",
+      "q": "Myocardial fibrosis in Friedreich's ataxia is printed as occurring in:",
+      "opts": [
+        "90%",
+        "10%",
+        "50%",
+        "25%"
+      ],
+      "ans": 0,
+      "exp": "Cardiac symptoms : myocardial fibrosis in 90%, cardiomyopathy (Book p667)"
+    },
+    {
+      "id": "MED-C51-153",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "recall",
+      "q": "Tabes dorsalis is introduced as a manifestation of:",
+      "opts": [
+        "Lyme neuroborreliosis",
+        "Neurosyphilis",
+        "Lupus myelitis",
+        "Tuberculous meningitis"
+      ],
+      "ans": 1,
+      "exp": "TABES DORSALIS : manifestation of neurosyphilis (Book p667)"
+    },
+    {
+      "id": "MED-C51-154",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "page": 667,
+      "fmt": "oddoneout",
+      "q": "Which is NOT among the printed tabes dorsalis involvement rows?",
+      "opts": [
+        "Bowel and bladder involvement",
+        "Severe radicular pain from nerve root involvement",
+        "Extensor plantar response",
+        "DRG sensory ataxia"
+      ],
+      "ans": 2,
+      "exp": "Involvement : DRG : Sensory ataxia; Bowel and bladder involvement; Nerve root : Severe radicular pain, Loss of reflexes, Absent plantar response (Book p667)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U51-1",
+      "ch": 51,
+      "n": 1,
+      "title": "1. Myelopathy Definition and the Compressive Compartments",
+      "sec": "Myelopathy and Compressive Types",
+      "guide": "Myelopathy is printed as sensory, motor or ANS symptoms d/t disease of spinal cord, divided into compressive and non-compressive; compressive myelopathy runs a chronic course.\nThe type table splits compressive myelopathy into intramedullary versus extramedullary, and extramedullary into intradural versus extradural, with extradural marked m/c.\nIntramedullary = tumours (ependymoma, oligodendroglioma, medulloblastoma) plus expansion of cavity (syringomyelia); intradural = neurofibroma, meningioma, arachnoid cyst, pachymeningitis; extradural = vertebral lesions (fracture, TB/syphilis, pyogenic abscess, prostate & ovary metastasis), IVDP (m/c) and aneurysm of aorta.",
+      "qs": [
+        "MED-C51-01",
+        "MED-C51-02",
+        "MED-C51-03",
+        "MED-C51-04",
+        "MED-C51-05",
+        "MED-C51-06",
+        "MED-C51-07",
+        "MED-C51-08",
+        "MED-C51-09",
+        "MED-C51-10",
+        "MED-C51-11",
+        "MED-C51-12",
+        "MED-C51-13",
+        "MED-C51-14",
+        "MED-C51-15",
+        "MED-C51-16",
+        "MED-C51-17",
+        "MED-C51-18",
+        "MED-C51-19"
+      ]
+    },
+    {
+      "id": "MED-U51-2",
+      "ch": 51,
+      "n": 2,
+      "title": "2. Clinical Features, Claudication Table and Examination",
+      "sec": "Clinical Features of Compression",
+      "guide": "Chronic back pain is moderate to severe, worse on erect posture (canal diameter ↓ in standing) and relieved on bending or cycling; with band-like hyperesthesia at the involved level (umbilicus if T10), these are printed as definitive symptoms of compression.\nThe note table separates neurogenic claudication (variable distance, relieved by sitting/bending, painless uphill, bicycle test negative, pulses present, back pain common, numbness proximal→distal) from vascular claudication (fixed distance, relieved by standing, painful uphill, bicycle test positive, pulses absent, cramping distal→proximal).\nExamination shows normal HMF and cranial nerves, intact upper-limb power and sensation with compression below T1, reduced lower-limb power with B/L UMN features, spinothalamic plus posterior-column loss, exaggerated knee and ankle jerks, extensor plantars, and bowel-bladder involvement in intramedullary compression.",
+      "qs": [
+        "MED-C51-20",
+        "MED-C51-21",
+        "MED-C51-22",
+        "MED-C51-23",
+        "MED-C51-24",
+        "MED-C51-25",
+        "MED-C51-26",
+        "MED-C51-27",
+        "MED-C51-28",
+        "MED-C51-29",
+        "MED-C51-30",
+        "MED-C51-31",
+        "MED-C51-32",
+        "MED-C51-33",
+        "MED-C51-34",
+        "MED-C51-35",
+        "MED-C51-36",
+        "MED-C51-37",
+        "MED-C51-38",
+        "MED-C51-39",
+        "MED-C51-40",
+        "MED-C51-41",
+        "MED-C51-42",
+        "MED-C51-43",
+        "MED-C51-44"
+      ]
+    },
+    {
+      "id": "MED-U51-3",
+      "ch": 51,
+      "n": 3,
+      "title": "3. Level Localization and the Beevor Procedure",
+      "sec": "Level Localization and Beevor's Sign",
+      "guide": "LMN findings, wasting, band-like sensation, hyperesthesia, hypesthesia and hypoalgesia localise at the level of lesion, while UMN findings with lost superficial and exaggerated deep reflexes sit below it; upper limbs normal means the lesion is below T1, with everything above spared.\nSensory symptoms plus weakness in both legs place the lesion above L1; a positive Beevor's sign indicates a lesion below T9; once the spinal segment is found, the compression is localized to the corresponding vertebral segment, and the reflex level carries the best localizing value.\nBeevor's sign: ask the patient to rise from supine; normally upper (T7-T9) and lower (T9-T12) abdomen contract together with no umbilical deviation, whereas lower-abdominal weakness lets the upper muscles pull the umbilicus upward, which is a positive sign.",
+      "qs": [
+        "MED-C51-45",
+        "MED-C51-46",
+        "MED-C51-47",
+        "MED-C51-48",
+        "MED-C51-49",
+        "MED-C51-50",
+        "MED-C51-51",
+        "MED-C51-52",
+        "MED-C51-53",
+        "MED-C51-54"
+      ]
+    },
+    {
+      "id": "MED-U51-4",
+      "ch": 51,
+      "n": 4,
+      "title": "4. The Centrifugal-Centripetal Comparison Table",
+      "sec": "Intramedullary versus Extramedullary",
+      "guide": "Intramedullary damage runs centrifugal from centre to periphery; extramedullary damage runs centripetal from periphery to centre, so pain is funicular inside the cord and root pain outside it.\nThe table marks dissociative sensory loss, suspended sensory loss, sacral sparing and trophic changes as intramedullary positives; pyramidal signs are late intramedullary but early extramedullary, LMN signs and bowel-bladder involvement early intramedullary but late extramedullary, while spinal deformity, spinal tenderness and raised CSF protein favour the extramedullary side.",
+      "qs": [
+        "MED-C51-55",
+        "MED-C51-56",
+        "MED-C51-57",
+        "MED-C51-58",
+        "MED-C51-59",
+        "MED-C51-60",
+        "MED-C51-61",
+        "MED-C51-62",
+        "MED-C51-63",
+        "MED-C51-64"
+      ]
+    },
+    {
+      "id": "MED-U51-5",
+      "ch": 51,
+      "n": 5,
+      "title": "5. Tract Layout, Root Pain versus Lhermitte Sign and the Intramedullary Logic",
+      "sec": "Cord Cross-section and Cord Pain",
+      "guide": "The mid-thoracic cross-section labels fasciculus cuneatus and gracilis (CTLS from lateral to medial), dorsal and ventral roots, dorsal and ventral spinocerebellar tracts, lateral spinothalamic (pain, temperature) and ventral spinothalamic (pressure, touch), ventral uncrossed corticospinal (distal limb, minor role), anterior horn motor neurons, and the lateral corticospinal plus rubrospinal tracts for distal limb movements with reticulospinal, vestibulospinal and tectospinal tracts for axial and proximal limb movements.\nRoot or girdle pain is brief, shock-like, initially unilateral then bilateral, provoked by coughing or Valsalva, caused by posterolateral compression and useful for localization; Lhermitte sign is shooting pain down the cord to the sacrum on neck flexion from posterior extramedullary compression but is not useful for localization.\nFunicular pain is constant and dull from within; suspended sensory loss reflects loss of crossing spinothalamic fibres at the level with normal sensation above and below; CTLS lamination explains sacral sparing, central bladder fibres explain early sphincter involvement, peripheral corticospinal tracts explain late UMN signs, raised CSF protein reflects root involvement, and cervical intramedullary extension can interrupt sympathetics to give Horner's syndrome.",
+      "qs": [
+        "MED-C51-65",
+        "MED-C51-66",
+        "MED-C51-67",
+        "MED-C51-68",
+        "MED-C51-69",
+        "MED-C51-70",
+        "MED-C51-71",
+        "MED-C51-72",
+        "MED-C51-73",
+        "MED-C51-74",
+        "MED-C51-75",
+        "MED-C51-76",
+        "MED-C51-77",
+        "MED-C51-78",
+        "MED-C51-79",
+        "MED-C51-80",
+        "MED-C51-81",
+        "MED-C51-82",
+        "MED-C51-83",
+        "MED-C51-84"
+      ]
+    },
+    {
+      "id": "MED-U51-6",
+      "ch": 51,
+      "n": 6,
+      "title": "6. Conus versus Cauda Equina, Epiconus and the VITAMIN Causes",
+      "sec": "Conus, Cauda and Epiconus",
+      "guide": "Conus medullaris involvement is printed as B/L S3-C1 inside the spinal cord with sudden onset, uncommon root pain, saddle sensory loss, dissociated sensory loss, no weakness, normal knee and ankle jerks with lost anal and bulbocavernous reflexes, and early bladder, bowel and sexual involvement; cauda equina is asymmetrical L2-C1 roots with insidious onset, unilateral root pain in leg, thigh and bladder, saddle or any-leg sensory loss, weakness and wasting of leg muscles, lost knee and ankle jerks, and later sphincter involvement.\nEpiconus involves L4, L5, S1 and S2 with hip flexion and adduction spared, thigh sensation spared, both knee and ankle jerks lost and an UMN-type bladder.\nNon-compressive myelopathy causes run on the VITAMIN mnemonic: vascular (ASA thrombosis) and demyelinating (MS, NMO), inherited Friedreich's ataxia, arsenic toxin, sarcoid autoimmunity, metabolic subacute combined degeneration, infection and neoplasia.",
+      "qs": [
+        "MED-C51-85",
+        "MED-C51-86",
+        "MED-C51-87",
+        "MED-C51-88",
+        "MED-C51-89",
+        "MED-C51-90",
+        "MED-C51-91",
+        "MED-C51-92",
+        "MED-C51-93",
+        "MED-C51-94",
+        "MED-C51-95",
+        "MED-C51-96",
+        "MED-C51-97",
+        "MED-C51-98",
+        "MED-C51-99",
+        "MED-C51-100",
+        "MED-C51-101",
+        "MED-C51-102",
+        "MED-C51-103",
+        "MED-C51-104",
+        "MED-C51-105"
+      ]
+    },
+    {
+      "id": "MED-U51-7",
+      "ch": 51,
+      "n": 7,
+      "title": "7. Dermatomes, Causes and Clinical Features of ATM",
+      "sec": "Acute Transverse Myelitis",
+      "guide": "Infection and neoplasia close the VITAMIN list: acute transverse myelitis as a post-infectious complication and syphilis or TB among the infections.\nAcute transverse myelitis is printed as rapid-onset full-thickness or segmented monophasic inflammation of the spinal cord, a demyelinating disease that can affect a variable number of segments; the dermatome table runs from C5 (clavicles) and C6 (thumb) through C8 (ring and little fingers), T4 (nipples), T10 (umbilicus), T12 (groin), L1-L4 anterior and inner leg, L4 great toe, L4-L5-S1 foot, S1 outer foot and little toe and S2-S4 perineum.\nCauses are post-infectious (m/c), vaccination, MS, sarcoidosis, paraneoplastic, neuromyelitis optica and Behcet's disease, the last four bracketed as longitudinally extending transverse myelitis; features are ascending paresthesia from the feet, back pain evolving into spastic weakness, peak within 4 hours to 21 days, a plateau of about a week, a definite sensory level with band-like constriction, complete loss below it, half-cord patterns, symmetrical or asymmetrical paraparesis, prominent sphincter involvement with urinary retention and brisk reflexes below the level.",
+      "qs": [
+        "MED-C51-106",
+        "MED-C51-107",
+        "MED-C51-108",
+        "MED-C51-109",
+        "MED-C51-110",
+        "MED-C51-111",
+        "MED-C51-112",
+        "MED-C51-113",
+        "MED-C51-114",
+        "MED-C51-115",
+        "MED-C51-116",
+        "MED-C51-117",
+        "MED-C51-118",
+        "MED-C51-119",
+        "MED-C51-120",
+        "MED-C51-121",
+        "MED-C51-122",
+        "MED-C51-123",
+        "MED-C51-124",
+        "MED-C51-125",
+        "MED-C51-126"
+      ]
+    },
+    {
+      "id": "MED-U51-8",
+      "ch": 51,
+      "n": 8,
+      "title": "8. Differentiating ATM from GBS, Investigations, Treatment and Combined Degeneration",
+      "sec": "ATM Differential, Work-up and SCD",
+      "guide": "GBS is separated from ATM by progressive lower-limb weakness that is proximal greater than distal, ascending paralysis, areflexia, a normal sensory examination, absence of a band-like definite sensory level and absence of bladder symptoms.\nWork-up is MRI T2 of the spine showing hyperintensities at the level, with CSF pleocytosis above 10 cells and a raised IgG index; treatment is high-dose methylprednisolone 500-1000 mg IV in 100 ml NS over 1 hour, escalating to plasma exchange when there is no response, the exchange indications being inability to walk, markedly impaired autonomic function, sensory loss in the lower extremities and no or little improvement after 5-7 days of IV steroids.\nSubacute combined degeneration is printed as posterolateral cord syndrome from B12 deficiency, progressing from posterior-column first symptom of distal tingling and first sign of lost vibration, to lateral-tract spinothalamic and corticospinal involvement with extensor plantars, then large-fibre neuropathy with lost reflexes and glove-and-stocking changes, and, if untreated, dementia and optic atrophy.",
+      "qs": [
+        "MED-C51-127",
+        "MED-C51-128",
+        "MED-C51-129",
+        "MED-C51-130",
+        "MED-C51-131",
+        "MED-C51-132",
+        "MED-C51-133",
+        "MED-C51-134",
+        "MED-C51-135",
+        "MED-C51-136",
+        "MED-C51-137",
+        "MED-C51-138",
+        "MED-C51-139",
+        "MED-C51-140"
+      ]
+    },
+    {
+      "id": "MED-U51-9",
+      "ch": 51,
+      "n": 9,
+      "title": "9. Friedreich's Ataxia and Tabes Dorsalis",
+      "sec": "Friedreich Ataxia and Tabes Dorsalis",
+      "guide": "Friedreich's ataxia is printed as the commonest spinocerebellar degeneration with a normal cerebellum, FRATAXIN gene defect on chromosome 9 with GAA repetition, autosomal-recessive early onset between 8 and 20 years and a later-onset autosomal-dominant form, cerebrum and cranial nerves spared, males greater than females, and sagittal MRI showing a normal cerebellum while ataxia-telangiectasia shows an atrophic one.\nInvolvement runs dorsally from root ganglion to spinocerebellar tract, cord and finally nerve: severe sensory ataxia, cerebellar ataxia with horizontal nystagmus and dysarthria, extensor plantars from posterior and lateral columns, then reflexes lost from demyelinating neuropathy, with scoliosis, myocardial fibrosis in 90%, cardiomyopathy, diabetes, optic atrophy, deafness, pes cavus and hammer toe.\nTabes dorsalis, a neurosyphilis manifestation, gives DRG sensory ataxia with bowel and bladder involvement plus root pain, lost reflexes and absent plantar responses.",
+      "qs": [
+        "MED-C51-141",
+        "MED-C51-142",
+        "MED-C51-143",
+        "MED-C51-144",
+        "MED-C51-145",
+        "MED-C51-146",
+        "MED-C51-147",
+        "MED-C51-148",
+        "MED-C51-149",
+        "MED-C51-150",
+        "MED-C51-151",
+        "MED-C51-152",
+        "MED-C51-153",
+        "MED-C51-154"
+      ]
+    }
+  ]
+}
