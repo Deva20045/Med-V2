@@ -25,8 +25,11 @@ with sync_playwright() as p:
           const check = (ok, message) => {if (!ok) throw new Error(message);};
           localStorage.clear(); render();
           check(CHAPTERS.length === 57, '57-chapter roadmap');
-          const expectedLive = [...Array.from({length: 32}, (_, i) => i + 1), 33, 34, 35, 36, 37, 38];
-          check(CHAPTERS.filter(c => c.live).map(c => c.n).join(',') === expectedLive.join(','), 'live chapters');
+          // This release ships Chapters 1-54 live; the roadmap keeps the rest locked.
+          const liveNums = CHAPTERS.filter(c => c.live).map(c => c.n);
+          check(liveNums.length === 54, '54 live chapters in this release');
+          check(liveNums.join(',') === Array.from({length: 54}, (_, i) => i + 1).join(','), 'live chapters run 1-54 with no gap');
+          check(CHAPTERS.filter(c => !c.live).map(c => c.n).join(',') === '55,56,57', 'remaining roadmap chapters stay locked');
           show('chapters');
           check(document.querySelectorAll('.chrow').length === 57, 'roadmap DOM');
           check(document.querySelectorAll('.chrow:not(.locked)').length === CHAPTERS.filter(c => c.live).length, 'live roadmap DOM');

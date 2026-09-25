@@ -1,0 +1,1587 @@
+{
+  "chapter": 54,
+  "title": "Approach to UMN Lesion",
+  "pageRange": "681-685",
+  "questions": [
+    {
+      "id": "MED-C54-01",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "oddoneout",
+      "q": "In the printed comparison, the weakness of embolic stroke is:",
+      "opts": [
+        "Evolving beyond 72 hours",
+        "Restricted to sleep",
+        "Full weakness at onset",
+        "Evolving over 48-72 hours"
+      ],
+      "ans": 2,
+      "exp": "Weakness — Embolic stroke : Full weakness at onset (Book p681)"
+    },
+    {
+      "id": "MED-C54-02",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "numeric",
+      "q": "Thrombotic stroke weakness is printed as evolving over which window?",
+      "opts": [
+        "1-6 hr",
+        "10-14 days",
+        "Beyond 1 week only",
+        "48-72 hr"
+      ],
+      "ans": 3,
+      "exp": "Thrombotic stroke : Weakness evolves over 48-72 hr (Book p681)"
+    },
+    {
+      "id": "MED-C54-03",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "recall",
+      "q": "Rapid recovery of consciousness and cortical findings is printed as:",
+      "opts": [
+        "Positive in embolic, negative in thrombotic",
+        "Negative in embolic, positive in thrombotic",
+        "Positive in both",
+        "Assessable only on angiography"
+      ],
+      "ans": 0,
+      "exp": "Rapid recovery of consciousness & cortical findings — Embolic +; Thrombotic − (Book p681)"
+    },
+    {
+      "id": "MED-C54-04",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "oddoneout",
+      "q": "Which row favours embolic stroke rather than thrombotic stroke?",
+      "opts": [
+        "Weakness evolving over 48-72 hr",
+        "Multiple lesions at different areas",
+        "Large vessel involvement",
+        "Thrombectomy useful with better prognosis"
+      ],
+      "ans": 1,
+      "exp": "Multiple lesions at different areas — Embolic +; Thrombotic − (Book p681)"
+    },
+    {
+      "id": "MED-C54-05",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "recall",
+      "q": "Haemorrhagic transformation in this table is a feature of:",
+      "opts": [
+        "Both equally",
+        "Neither",
+        "Embolic stroke",
+        "Thrombotic stroke"
+      ],
+      "ans": 2,
+      "exp": "Hemorrhagic transformation — Embolic +; Thrombotic − (Book p681)"
+    },
+    {
+      "id": "MED-C54-06",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "recall",
+      "q": "The vessels involved row prints:",
+      "opts": [
+        "Large vessel in embolic, small vessel in thrombotic",
+        "Small vessel in both",
+        "Only the aortic arch",
+        "Small vessel in embolic, large vessel in thrombotic"
+      ],
+      "ans": 3,
+      "exp": "Vessels involved — Embolic : Small vessel; Thrombotic : Large vessel (Book p681)"
+    },
+    {
+      "id": "MED-C54-07",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "management",
+      "q": "Thrombectomy with a better prognosis is printed for:",
+      "opts": [
+        "Thrombotic stroke",
+        "Embolic stroke",
+        "Both equally",
+        "Neither, it is contraindicated"
+      ],
+      "ans": 0,
+      "exp": "Thrombectomy useful + Better prognosis — Embolic −; Thrombotic + (Book p681)"
+    },
+    {
+      "id": "MED-C54-08",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "recall",
+      "q": "The grey-white matter interphase row refers to involvement of:",
+      "opts": [
+        "The corpus callosum",
+        "The junction between grey and white matter, positive in embolic stroke",
+        "The internal capsule only",
+        "The periventricular white matter of MS"
+      ],
+      "ans": 1,
+      "exp": "Involvement of grey matter - white matter interphase : + in embolic stroke (Book p681)"
+    },
+    {
+      "id": "MED-C54-09",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "scenario",
+      "q": "A patient's deficits worsened stepwise over three days; imaging shows a single large-vessel territory lesion without transformation. Which row-set supports thrombotic rather than embolic stroke?",
+      "opts": [
+        "Rapid recovery of consciousness with cortical findings",
+        "Multiple lesions at different areas with grey-white interphase involvement",
+        "Weakness evolving over 48-72 hr, large vessel, thrombectomy useful, no haemorrhagic transformation",
+        "Full weakness at onset with small-vessel multifocal lesions"
+      ],
+      "ans": 2,
+      "exp": "Thrombotic column : weakness evolves over 48-72 hr, no rapid recovery, no multiple lesions, no interphase involvement, no hemorrhagic transformation, large vessel, thrombectomy useful + better prognosis (Book p681)"
+    },
+    {
+      "id": "MED-C54-10",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "page": 681,
+      "fmt": "recall",
+      "q": "Weakness evolving beyond 72 hours should prompt consideration of:",
+      "opts": [
+        "Typical embolic stroke",
+        "A lacunar syndrome",
+        "Functional weakness",
+        "Bleeding or tumour"
+      ],
+      "ans": 3,
+      "exp": "Note : Weakness evolving beyond 72 hrs : Bleeding/tumor (Book p681)"
+    },
+    {
+      "id": "MED-C54-11",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "recall",
+      "q": "In the MCA flowchart, the branch arising from M1 that produces internal capsule findings is the:",
+      "opts": [
+        "Lenticulostriate artery",
+        "Anterior choroidal artery",
+        "Recurrent artery of Heubner",
+        "Lateral striate branch of the ACA"
+      ],
+      "ans": 0,
+      "exp": "MCA stroke flow : m1/Lenticulostriate artery from m1 : Internal capsule findings (Book p681)"
+    },
+    {
+      "id": "MED-C54-12",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "oddoneout",
+      "q": "An M2 lesion in this flowchart is printed as producing which pair?",
+      "opts": [
+        "Hemisensory loss without weakness",
+        "Variable C/L weakness and aphasia",
+        "Broca's aphasia only",
+        "Pure motor hemiparesis"
+      ],
+      "ans": 1,
+      "exp": "MCA stroke flow : m2 — ± C/L weakness; Aphasia (Book p681)"
+    },
+    {
+      "id": "MED-C54-13",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "recall",
+      "q": "The superior division of the M2 branch is characterized by:",
+      "opts": [
+        "Global aphasia with no weakness",
+        "Pure word mutation only",
+        "Broca's aphasia",
+        "Wernicke's aphasia without weakness"
+      ],
+      "ans": 2,
+      "exp": "Superior division : Broca's aphasia (Book p681)"
+    },
+    {
+      "id": "MED-C54-14",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "recall",
+      "q": "The inferior division branch is printed as:",
+      "opts": [
+        "Broca's aphasia with hemiplegia",
+        "Anomic aphasia with ataxia",
+        "Hemineglect without aphasia",
+        "Wernicke's aphasia without weakness"
+      ],
+      "ans": 3,
+      "exp": "Inferior division : Wernicke's aphasia without weakness (Book p681)"
+    },
+    {
+      "id": "MED-C54-15",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "scenario",
+      "q": "A right-handed man has fluent meaningless speech with poor comprehension and normal power. Which printed division does the flowchart assign to him?",
+      "opts": [
+        "Inferior division of M2",
+        "Superior division of M2",
+        "Lenticulostriate branches from M1",
+        "Complete MCA territory"
+      ],
+      "ans": 0,
+      "exp": "Fluent jargon aphasia with intact power follows the inferior-division arm of the MCA flowchart (Book p681)"
+    },
+    {
+      "id": "MED-C54-16",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "recall",
+      "q": "The complete MCA column lists which five findings?",
+      "opts": [
+        "Pure sensory stroke with hemianopia",
+        "Weakness, hemianopia, hemisensory loss, cortical findings and global aphasia",
+        "Weakness, ataxia, tremor, rigidity and apraxia",
+        "Isolated aphasia without weakness"
+      ],
+      "ans": 1,
+      "exp": "Complete MCA : Weakness; Hemianopia; Hemisensory loss; Cortical findings; Global aphasia (Book p681)"
+    },
+    {
+      "id": "MED-C54-17",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "oddoneout",
+      "q": "Which feature distinguishes complete MCA involvement from an M2 lesion in this flowchart?",
+      "opts": [
+        "Isolated Broca's aphasia",
+        "Internal capsule findings alone",
+        "Global aphasia with hemisensory loss and hemianopia",
+        "Aphasia with variable weakness"
+      ],
+      "ans": 2,
+      "exp": "Complete MCA lists weakness, hemianopia, hemisensory loss, cortical findings and global aphasia, whereas M2 lists only ± C/L weakness and aphasia (Book p681)"
+    },
+    {
+      "id": "MED-C54-18",
+      "sec": "MCA Stroke Patterns",
+      "page": 681,
+      "fmt": "recall",
+      "q": "The stroke section heading carries which printed timer?",
+      "opts": [
+        "Upper Motor Neurons 00:11:01",
+        "00:27:09",
+        "00:44:40",
+        "Stroke 00:00:40"
+      ],
+      "ans": 3,
+      "exp": "Heading : Stroke 00:00:40 (Book p681)"
+    },
+    {
+      "id": "MED-C54-19",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "oddoneout",
+      "q": "Which feature is listed for internal capsule lesions?",
+      "opts": [
+        "Absence of cortical findings",
+        "Cortical findings with neglect",
+        "Crossed cranial nerve palsy",
+        "A specific spinal level"
+      ],
+      "ans": 0,
+      "exp": "Internal capsule lesions : Dense hemiplegia; Hemisensory loss; Homonymous hemianopia; 7th CN palsy more prominent; Absence of cortical findings (Book p682)"
+    },
+    {
+      "id": "MED-C54-20",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "recall",
+      "q": "Crossed hemiplegia is defined in the brainstem entry as:",
+      "opts": [
+        "Ipsilateral hemiplegia with contralateral sensory loss",
+        "I/L LMN cranial nerve nuclei palsy plus C/L weakness",
+        "Bilateral LMN cranial nerve palsies",
+        "C/L weakness with cortical sensory loss"
+      ],
+      "ans": 1,
+      "exp": "Brain stem lesions : Crossed hemiplegia : I/L LMN cranial nerve (CN) nuclei + C/L weakness (Book p682)"
+    },
+    {
+      "id": "MED-C54-21",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "scenario",
+      "q": "A patient has a left facial weakness of LMN type with right hemiplegia. Which printed site does the differential list favour?",
+      "opts": [
+        "Spinal cord lesion",
+        "Muscle disease",
+        "Brain stem lesion with crossed hemiplegia",
+        "Internal capsule lesion"
+      ],
+      "ans": 2,
+      "exp": "An ipsilateral LMN cranial nerve nucleus palsy with contralateral weakness is the crossed pattern of a brainstem lesion (Book p682)"
+    },
+    {
+      "id": "MED-C54-22",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "recall",
+      "q": "Spinal cord lesions in this list are characterized by:",
+      "opts": [
+        "Unilateral involvement without any level",
+        "Specific level of lesion +",
+        "Dense hemiplegia with hemianopia",
+        "B/L involvement with a specific level of lesion"
+      ],
+      "ans": 3,
+      "exp": "Spinal cord lesions : BIL involvement; Specific level of lesion + (Book p682)"
+    },
+    {
+      "id": "MED-C54-23",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "recall",
+      "q": "In the capsular column, why is the facial palsy emphasized?",
+      "opts": [
+        "Because the 7th CN palsy is more prominent",
+        "Because it is always absent",
+        "Because it is bilateral LMN",
+        "Because only the upper face is involved"
+      ],
+      "ans": 0,
+      "exp": "Internal capsule lesions : 7th CN palsy more prominent (Book p682)"
+    },
+    {
+      "id": "MED-C54-24",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The feature separating a capsular lesion from a cortical one in this list is:",
+      "opts": [
+        "Presence of seizures",
+        "Absence of cortical findings",
+        "Presence of aphasia",
+        "Presence of neglect"
+      ],
+      "ans": 1,
+      "exp": "Absence of cortical findings is the closing entry under internal capsule lesions (Book p682)"
+    },
+    {
+      "id": "MED-C54-25",
+      "sec": "Localizing the Lesion",
+      "page": 682,
+      "fmt": "scenario",
+      "q": "A patient has bilateral leg weakness with a T10 sensory level and no cranial nerve deficit. Which printed differential fits?",
+      "opts": [
+        "Brainstem crossed hemiplegia",
+        "Complete MCA syndrome",
+        "Spinal cord lesion, B/L involvement with a specific level",
+        "Internal capsule lesion"
+      ],
+      "ans": 2,
+      "exp": "Bilateral involvement with a specific level marks the cord entry, unlike the hemispheric and crossed brainstem entries (Book p682)"
+    },
+    {
+      "id": "MED-C54-26",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "Upper motor neurons are defined as descending fibres that merge on:",
+      "opts": [
+        "The posterior columns only",
+        "The thalamic relay nuclei",
+        "The cerebellar cortex",
+        "Anterior horn cells in the spinal cord and cranial nerve nuclei in the brainstem"
+      ],
+      "ans": 3,
+      "exp": "Upper Motor Neurons : Descending fibres which merge on : Anterior Horn Cell (AHC) in spinal cord; Cranial Nerve (CN) nuclei in brain stem (Book p682)"
+    },
+    {
+      "id": "MED-C54-27",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The corticospinal tract's first printed function is to integrate:",
+      "opts": [
+        "Highly skilled fine discrete movements of distal extremities",
+        "Axial posture and proximal tone",
+        "Reflex eye movements",
+        "Swallowing automation"
+      ],
+      "ans": 0,
+      "exp": "Corticospinal tract : Integrate highly skilled fine discrete movements of distal extremities (Book p682)"
+    },
+    {
+      "id": "MED-C54-28",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The second corticospinal function is to supply lower centres with:",
+      "opts": [
+        "Sympathetic outflow",
+        "Inhibitory impulses",
+        "Excitatory impulses to alpha motor neurons only",
+        "Sensory feedback only"
+      ],
+      "ans": 1,
+      "exp": "Supply lower centres with inhibitory impulses (Book p682)"
+    },
+    {
+      "id": "MED-C54-29",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "A corticospinal lesion inside the spinal cord is printed as producing:",
+      "opts": [
+        "LMN features below the level",
+        "No deficit at all",
+        "LMN features at the level and UMN features below the level",
+        "UMN features at the level only"
+      ],
+      "ans": 2,
+      "exp": "Lesion in spinal cord → At the level : LMN feature; Below the level : UMN features (Book p682)"
+    },
+    {
+      "id": "MED-C54-30",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The extrapyramidal system is printed as functioning to:",
+      "opts": [
+        "Generate skilled finger movements",
+        "Mediate the stretch reflex arc",
+        "Carry pain and temperature",
+        "Maintain tone and posture"
+      ],
+      "ans": 3,
+      "exp": "Extrapyramidal system : maintain tone & posture (Book p682)"
+    },
+    {
+      "id": "MED-C54-31",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The extrapyramidal inhibition is directed at which muscles?",
+      "opts": [
+        "Proximal and antagonistic muscles",
+        "Distal phalangeal muscles only",
+        "Extraocular muscles",
+        "Muscles of mastication only"
+      ],
+      "ans": 0,
+      "exp": "Inhibit proximal & antagonistic muscles (Book p682)"
+    },
+    {
+      "id": "MED-C54-32",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "Which tract is equated with the pyramidal tract in the list?",
+      "opts": [
+        "Dorsal spinocerebellar tract",
+        "Corticospinal tract (CST)",
+        "Rubrospinal tract",
+        "Tectospinal tract"
+      ],
+      "ans": 1,
+      "exp": "Tracts/Fibres included : Pyramidal tract/Corticospinal Tract (CST) — merge on AHC (Book p682)"
+    },
+    {
+      "id": "MED-C54-33",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The bracket marking 'merge on AHC' groups which two entries?",
+      "opts": [
+        "The tectospinal and reticulospinal tracts",
+        "The dorsal columns and corticospinal tract",
+        "The pyramidal corticospinal tract and the extrapyramidal fibres",
+        "The rubrospinal and vestibulospinal tracts only"
+      ],
+      "ans": 2,
+      "exp": "Pyramidal tract/CST and Extrapyramidal fibers are bracketed : merge on AHC (Book p682)"
+    },
+    {
+      "id": "MED-C54-34",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "oddoneout",
+      "q": "Which extrapyramidal tract is placed in the lateral white matter rather than the ventral group?",
+      "opts": [
+        "Rubrospinal",
+        "Vestibulospinal",
+        "Tectospinal",
+        "Reticulospinal"
+      ],
+      "ans": 3,
+      "exp": "Rubrospinal : Lateral white matter, while vestibulospinal, tectospinal and reticulospinal are bracketed as ventral white matter (Book p682)"
+    },
+    {
+      "id": "MED-C54-35",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "The three tracts bracketed as ventral white matter are:",
+      "opts": [
+        "Vestibulospinal, tectospinal and reticulospinal",
+        "Rubrospinal, reticulospinal and olivospinal",
+        "Anterior and posterior spinocerebellar tracts",
+        "Lateral corticospinal and rubrospinal tracts"
+      ],
+      "ans": 0,
+      "exp": "Vestibulospinal, Tectospinal, Reticulospinal — ventral white matter (Book p682)"
+    },
+    {
+      "id": "MED-C54-36",
+      "sec": "UMN Definition and Functions",
+      "page": 682,
+      "fmt": "recall",
+      "q": "Under Functions, the upper motor neuron system is split into which two entries?",
+      "opts": [
+        "Somatic and autonomic descending systems",
+        "Corticospinal tract and extrapyramidal system",
+        "Pyramidal and parapyramidal systems",
+        "Lateral and medial lemniscal systems"
+      ],
+      "ans": 1,
+      "exp": "Functions : Corticospinal tract ; Extrapyramidal system (Book p682)"
+    },
+    {
+      "id": "MED-C54-37",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Corticobulbar fibres are printed as merging on the:",
+      "opts": [
+        "Red nucleus",
+        "Clarke's column",
+        "Cranial nerve nuclei",
+        "Anterior horn cells"
+      ],
+      "ans": 2,
+      "exp": "Note : Corticobulbar fibres → merge on CN nuclei (Book p683)"
+    },
+    {
+      "id": "MED-C54-38",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Bilateral corticobulbar involvement produces:",
+      "opts": [
+        "Bell's palsy",
+        "Wallenberg syndrome",
+        "Myasthenic bulbar palsy",
+        "Pseudobulbar palsy, seen in ALS"
+      ],
+      "ans": 3,
+      "exp": "B/L involvement → Pseudobulbar palsy (Seen in ALS) (Book p683)"
+    },
+    {
+      "id": "MED-C54-39",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Unilateral corticobulbar involvement is usually symptomless because:",
+      "opts": [
+        "Of bilateral representation of the cranial nerve nuclei",
+        "The fibres decussate twice",
+        "The nuclei are bilaterally anoxic",
+        "Only the seventh nerve receives cortical input"
+      ],
+      "ans": 0,
+      "exp": "U/L involvement : usually symptomless d/t B/L representation (Book p683)"
+    },
+    {
+      "id": "MED-C54-40",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "oddoneout",
+      "q": "The single exception to that rule is which cranial nerve, and why?",
+      "opts": [
+        "The third, because the levator is ipsilateral",
+        "The seventh, because the lower face has contralateral innervation only",
+        "The fifth, because the muscles of mastication are ipsilateral",
+        "The twelfth, because the tongue is unilaterally innervated"
+      ],
+      "ans": 1,
+      "exp": "Exception : VIIth CN — (Lesion in internal capsule or cortex) → UMN VIIth CN palsy (C/L innervation only for lower half) (Book p683)"
+    },
+    {
+      "id": "MED-C54-41",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "The site specified for producing an UMN seventh nerve palsy is a lesion in the:",
+      "opts": [
+        "Cerebellopontine angle",
+        "Stylomastoid foramen",
+        "Internal capsule or cortex",
+        "Facial nucleus in the pons"
+      ],
+      "ans": 2,
+      "exp": "VIIth CN — (Lesion in internal capsule or cortex) → UMN VIIth CN palsy (Book p683)"
+    },
+    {
+      "id": "MED-C54-42",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "In panel A of the paired face diagrams, the labelled finding is:",
+      "opts": [
+        "Complete ipsilateral facial paralysis of Bell type",
+        "Bilateral ptosis",
+        "Isolated loss of forehead wrinkling",
+        "Drooping of angle of mouth with a supranuclear UMN lesion"
+      ],
+      "ans": 3,
+      "exp": "Diagram A : Supranuclear lesion/UMN lesion, labelled Drooping of angle of mouth and Supranuclear lesion (Book p683)"
+    },
+    {
+      "id": "MED-C54-43",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Panel B is captioned as:",
+      "opts": [
+        "LMN lesion/Facial nerve lesion (Bell's palsy), with deviation of angle of mouth",
+        "Supranuclear lesion with preserved forehead",
+        "Nuclear sparing pseudobulbar palsy",
+        "Cortical lower-face weakness"
+      ],
+      "ans": 0,
+      "exp": "Diagram B : LMN lesion/Facial nerve lesion (Bell's palsy), labelled Deviation of angle of mouth and Lesion in facial nerve (Book p683)"
+    },
+    {
+      "id": "MED-C54-44",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "scenario",
+      "q": "After a right capsular infarct a patient cannot smile symmetrically but can raise both eyebrows and close the eyes tightly. Which printed mechanism explains the forehead sparing?",
+      "opts": [
+        "Corticobulbar fibres do not reach the pons",
+        "The upper face has bilateral cortical innervation while the lower half is contralateral only",
+        "The facial nucleus is completely destroyed",
+        "The trigeminal nerve supplies the forehead muscles"
+      ],
+      "ans": 1,
+      "exp": "Exception : VIIth CN — UMN VIIth CN palsy (C/L innervation only for lower half); panel A shows drooping of the angle of mouth with a supranuclear lesion (Book p683)"
+    },
+    {
+      "id": "MED-C54-45",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "The motor homunculus note assigns lower-limb involvement to which artery?",
+      "opts": [
+        "PCA lesions",
+        "Lenticulostriate branches",
+        "ACA lesions",
+        "MCA lesions"
+      ],
+      "ans": 2,
+      "exp": "ACA lesions → Lower limb involvement; MCA lesions → upper limb & face involvement (Book p683)"
+    },
+    {
+      "id": "MED-C54-46",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Upper limb and face involvement is attributed to:",
+      "opts": [
+        "ACA lesions",
+        "Vertebral artery lesions",
+        "Anterior spinal artery lesions",
+        "MCA lesions"
+      ],
+      "ans": 3,
+      "exp": "MCA lesions → upper limb & face involvement (Book p683)"
+    },
+    {
+      "id": "MED-C54-47",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Reading the homunculus from the medial surface upwards, the first body parts labelled are:",
+      "opts": [
+        "Hip, leg, foot, toes and genitals",
+        "Tongue, pharynx and larynx",
+        "Hand, wrist and forearm",
+        "Shoulder and neck"
+      ],
+      "ans": 0,
+      "exp": "Homunculus labels begin with Hip, Leg, Foot, Toes, Genitals on the medial aspect (Book p683)"
+    },
+    {
+      "id": "MED-C54-48",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "page": 683,
+      "fmt": "recall",
+      "q": "Which group occupies the largest lateral strip of the homunculus, as drawn?",
+      "opts": [
+        "Genitals",
+        "Hand and digits with the face, lips and tongue",
+        "Trunk and hip",
+        "Foot and toes"
+      ],
+      "ans": 1,
+      "exp": "The drawing enlarges the hand, digits, mouth, tongue and pharynx relative to the trunk and lower limb (Book p683)"
+    },
+    {
+      "id": "MED-C54-49",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "numeric",
+      "q": "The printed contribution of the primary motor cortex to the pyramidal tract is:",
+      "opts": [
+        "50%",
+        "60%",
+        "30%",
+        "40%"
+      ],
+      "ans": 2,
+      "exp": "Primary motor cortex : (Pyramidal cells of Betz : Lowest threshold) (30%) (Book p684)"
+    },
+    {
+      "id": "MED-C54-50",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "numeric",
+      "q": "Premotor and supplementary motor cortex contribute which percentage?",
+      "opts": [
+        "40%",
+        "20%",
+        "50%",
+        "30%"
+      ],
+      "ans": 3,
+      "exp": "Premotor/supplementary motor cortex : (30%) (Book p684)"
+    },
+    {
+      "id": "MED-C54-51",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "numeric",
+      "q": "The largest printed cortical contribution, 40%, comes from the:",
+      "opts": [
+        "Primary sensory cortex",
+        "Primary motor cortex",
+        "Premotor cortex",
+        "Supplementary motor cortex"
+      ],
+      "ans": 0,
+      "exp": "Primary sensory cortex (40%) (Book p684)"
+    },
+    {
+      "id": "MED-C54-52",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "oddoneout",
+      "q": "The cortical areas listed for the pathway's origin include all of the following EXCEPT:",
+      "opts": [
+        "Primary sensory cortex",
+        "Visual cortex of the calcarine sulcus",
+        "Primary motor cortex",
+        "Premotor and supplementary motor cortex"
+      ],
+      "ans": 1,
+      "exp": "Cortex : Primary motor cortex, Premotor/supplementary motor cortex, Primary sensory cortex (Book p684)"
+    },
+    {
+      "id": "MED-C54-53",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The figure shows the fibres arising from which gyrus and its subcortical white matter?",
+      "opts": [
+        "Superior temporal gyrus",
+        "Cingulate gyrus",
+        "Pre-central gyrus",
+        "Post-central gyrus only"
+      ],
+      "ans": 2,
+      "exp": "Figure labels : Pre-central gyrus; Sub cortex (Book p684)"
+    },
+    {
+      "id": "MED-C54-54",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "Between the cortex and the internal capsule the fibres are collected into the:",
+      "opts": [
+        "External capsule",
+        "Sagittal stratum",
+        "Medial lemniscus",
+        "Corona radiata"
+      ],
+      "ans": 3,
+      "exp": "Corona Radiata → Internal capsule (Book p684)"
+    },
+    {
+      "id": "MED-C54-55",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "numeric",
+      "q": "Within the internal capsule the pyramidal fibres lie in which part?",
+      "opts": [
+        "Anterior 2/3 rd of posterior limb",
+        "Posterior 1/3 of posterior limb",
+        "Genu only",
+        "Anterior limb entirely"
+      ],
+      "ans": 0,
+      "exp": "Internal capsule : Anterior 2/3 rd of posterior limb (Book p684)"
+    },
+    {
+      "id": "MED-C54-56",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The fibres printed as accompanying the pyramidal tract in the capsule are:",
+      "opts": [
+        "Rubrospinal and tectospinal tracts",
+        "Corticonuclear and corticorubral fibres",
+        "Optic and auditory radiations",
+        "Frontopontine fibres only"
+      ],
+      "ans": 1,
+      "exp": "Accompanied by : Corticonuclear & corticorubral fibres (Book p684)"
+    },
+    {
+      "id": "MED-C54-57",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "Descending through the brainstem, the labelled structures in order are:",
+      "opts": [
+        "Superior colliculus, inferior colliculus, tectospinal tract",
+        "Crus cerebri, middle cerebellar peduncle, restiform body",
+        "Cerebral peduncle, midbrain, medulla, pyramids and decussation of pyramids",
+        "Tegmentum, pons, cerebellar peduncles, flocculus"
+      ],
+      "ans": 2,
+      "exp": "Figure labels : Cerebral peduncle; Midbrain; Medulla; Pyramids; Decussation of pyramids; Lateral corticospinal tract; Anterior corticospinal tract (Book p684)"
+    },
+    {
+      "id": "MED-C54-58",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "oddoneout",
+      "q": "Below the decussation the figure shows which two corticospinal tracts?",
+      "opts": [
+        "Rubrospinal and vestibulospinal tracts",
+        "Dorsal and ventral spinocerebellar tracts",
+        "Cuneate and gracile fasciculi",
+        "Lateral and anterior corticospinal tracts"
+      ],
+      "ans": 3,
+      "exp": "Figure labels : Lateral corticospinal tract; Anterior corticospinal tract — both drawn continuing to the spinal cord (Book p684)"
+    },
+    {
+      "id": "MED-C54-59",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The key distinguishes which two neuron populations by colour?",
+      "opts": [
+        "Upper motor neuron in orange and lower motor neuron in black",
+        "Sensory and motor afferents",
+        "Pyramidal and extrapyramidal origins",
+        "Cortical and spinal interneurons"
+      ],
+      "ans": 0,
+      "exp": "Key : Upper motor neuron (orange arrow); Lower motor neuron (black arrow) (Book p684)"
+    },
+    {
+      "id": "MED-C54-60",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The final arrow of the left-hand diagram points from the lower motor neuron to:",
+      "opts": [
+        "The thalamus",
+        "Skeletal muscles",
+        "The dorsal root ganglion",
+        "The cerebellar cortex"
+      ],
+      "ans": 1,
+      "exp": "Figure : Lower motor neuron → To skeletal muscles (Book p684)"
+    },
+    {
+      "id": "MED-C54-61",
+      "sec": "Pyramidal Tract Pathway",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The right-hand brainstem diagram places the corticospinal and corticonuclear fibres in which portion?",
+      "opts": [
+        "Posterior 2/5th",
+        "Tegmentum",
+        "Middle 3/5th",
+        "Anterior 1/5th"
+      ],
+      "ans": 2,
+      "exp": "Midbrain section labels : Middle 3/5th — Corticospinal and corticonuclear fibres (Book p684)"
+    },
+    {
+      "id": "MED-C54-62",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "At the midbrain level, the cerebral peduncle is specified as the:",
+      "opts": [
+        "Middle cerebellar peduncle",
+        "Superior cerebellar peduncle",
+        "Inferior olive",
+        "Crus cerebri"
+      ],
+      "ans": 3,
+      "exp": "Midbrain labels : Crus cerebri / Cerebral peduncle (Book p684)"
+    },
+    {
+      "id": "MED-C54-63",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "oddoneout",
+      "q": "Which structure is NOT among the labelled midbrain elements?",
+      "opts": [
+        "Facial colliculus",
+        "Red nucleus",
+        "Substantia nigra",
+        "Superior colliculus"
+      ],
+      "ans": 0,
+      "exp": "Labels include Superior colliculus, Oculomotor nucleus, Tectum, Tegmentum, Crus cerebri, Red nucleus, Substantia nigra, MLF, lemnisci and frontopontine fibres, not the facial colliculus (Book p684)"
+    },
+    {
+      "id": "MED-C54-64",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The sensory ascending bundles labelled in this section are the:",
+      "opts": [
+        "Medial forebrain bundles",
+        "Lemnisci, marked as sensory",
+        "Superior cerebellar peduncles",
+        "Lateral spinothalamic tracts"
+      ],
+      "ans": 1,
+      "exp": "Label : Lemnisci (Sensory) (Book p684)"
+    },
+    {
+      "id": "MED-C54-65",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The note beneath the midbrain diagram states that the trochlear nerve:",
+      "opts": [
+        "Exits through the oculomotor nucleus",
+        "Decussates in the pons",
+        "Is not seen at the superior colliculus level of the midbrain",
+        "Runs in the crus cerebri"
+      ],
+      "ans": 2,
+      "exp": "Note : Trochlear N. not seen at superior colliculus level of midbrain (Book p684)"
+    },
+    {
+      "id": "MED-C54-66",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "After the midbrain, the fibres are printed as passing through which pontine part?",
+      "opts": [
+        "Tegmentum only",
+        "Middle cerebellar peduncle",
+        "Inferior colliculus",
+        "Basilar part of the pons"
+      ],
+      "ans": 3,
+      "exp": "Flow : Pons : Basilar part (Book p684)"
+    },
+    {
+      "id": "MED-C54-67",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The pyramidal decussation is placed at which medullary level?",
+      "opts": [
+        "Decussation at pyramidal level in caudal medulla",
+        "Rostral medulla at the olive",
+        "Cervicomedullary junction only",
+        "Within the pons"
+      ],
+      "ans": 0,
+      "exp": "medulla : Decussation at pyramidal level in caudal medulla (Book p684)"
+    },
+    {
+      "id": "MED-C54-68",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "numeric",
+      "q": "The printed segmental distribution in the spinal cord is:",
+      "opts": [
+        "Equal thirds in all segments",
+        "Cervical 50%, thoracic 30%, lumbosacral 30%",
+        "Cervical 30%, thoracic 50%, lumbosacral 20%",
+        "Cervical 40%, thoracic 40%, lumbosacral 20%"
+      ],
+      "ans": 1,
+      "exp": "Flow → Cervical (50%) / Thoracic (30%) / Lumbosacral (30%) (Book p684)"
+    },
+    {
+      "id": "MED-C54-69",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "Which segment carries the largest share of fibres on this printed distribution?",
+      "opts": [
+        "Lumbosacral",
+        "All equal",
+        "Cervical",
+        "Thoracic"
+      ],
+      "ans": 2,
+      "exp": "Cervical 50% is the largest, with thoracic and lumbosacral at 30% each (Book p684)"
+    },
+    {
+      "id": "MED-C54-70",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "recall",
+      "q": "The fibres supplying the face before the pyramidal decussation are labelled as:",
+      "opts": [
+        "Corticopontine fibres",
+        "Corticoreticular fibres",
+        "Callosal fibres",
+        "Corticonuclear fibres"
+      ],
+      "ans": 3,
+      "exp": "Label : Corticospinal and corticonuclear fibres in the middle 3/5th (Book p684)"
+    },
+    {
+      "id": "MED-C54-71",
+      "sec": "Brainstem Course and Decussation",
+      "page": 684,
+      "fmt": "scenario",
+      "q": "A small infarct confined to the internal capsule leaves the face, arm and leg all weak, far out of proportion to the size of the lesion. Which printed step of the descending pathway accounts for this?",
+      "opts": [
+        "The corona radiata fibres are collected together as they pass into the capsule",
+        "They are distributed through the cerebellar peduncles on each side",
+        "The rubrospinal tract takes over below the decussation",
+        "Most of the voluntary drive runs in the ventral white matter"
+      ],
+      "ans": 0,
+      "exp": "Corona radiata fibres are collected and pass into the internal capsule, pyramidal tract in the anterior 2/3 rd of the posterior limb (Book p684)"
+    },
+    {
+      "id": "MED-C54-72",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "In the pyramidal pattern, the UMN facial nerve palsy is printed as:",
+      "opts": [
+        "Only the forehead and eye",
+        "Lower half involved (upper half spared)",
+        "Upper half involved with the lower half spared",
+        "Both halves equally involved"
+      ],
+      "ans": 1,
+      "exp": "UMN facial nerve palsy : Lower half involved (upper half spared) (Book p685)"
+    },
+    {
+      "id": "MED-C54-73",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "Which fibre group fails first in the printed hierarchy?",
+      "opts": [
+        "Reflex fibres of the stretch response",
+        "Autonomic fibres",
+        "Voluntary fibres for skilled learned actions",
+        "Emotional fibres"
+      ],
+      "ans": 2,
+      "exp": "Voluntary fibres (skilled learned actions) > emotional fibres (Book p685)"
+    },
+    {
+      "id": "MED-C54-74",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The preserved functions listed in this pattern are:",
+      "opts": [
+        "Respiration and cough",
+        "Eye movements and accommodation",
+        "Micturition only",
+        "Deglutition and articulation"
+      ],
+      "ans": 3,
+      "exp": "Deglutition/articulation not affected (Book p685)"
+    },
+    {
+      "id": "MED-C54-75",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The shoulder in a pyramidal arm is:",
+      "opts": [
+        "Adducted and internally rotated",
+        "Abducted and externally rotated",
+        "Elevated and laterally rotated",
+        "Retracted and extended"
+      ],
+      "ans": 0,
+      "exp": "Shoulder : Abduction lost → Adducted; External rotation lost → Internally rotated (Book p685)"
+    },
+    {
+      "id": "MED-C54-76",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The elbow and forearm in this pattern are printed as:",
+      "opts": [
+        "Flexed with the wrist dropped",
+        "Flexed, with supination lost so it lies prone",
+        "Extended and supinated",
+        "Hyperextended with the wrist dorsiflexed"
+      ],
+      "ans": 1,
+      "exp": "Elbow : Extension lost → Flexed; Supination lost → Prone (Book p685)"
+    },
+    {
+      "id": "MED-C54-77",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The wrist is left in which position?",
+      "opts": [
+        "Radially deviated",
+        "Neutral with finger drop only",
+        "Palmar flexed, because dorsiflexion is lost",
+        "Dorsiflexed"
+      ],
+      "ans": 2,
+      "exp": "Wrist : Dorsiflexion lost → Palmar flexed (Book p685)"
+    },
+    {
+      "id": "MED-C54-78",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The hip in a pyramidal leg is:",
+      "opts": [
+        "Adducted and internally rotated",
+        "Flexed and adducted",
+        "Extended and internally rotated",
+        "Abducted and externally rotated"
+      ],
+      "ans": 3,
+      "exp": "Hip : Adduction & flexion lost → Abducted; Internal rotation lost → Externally rotated (Book p685)"
+    },
+    {
+      "id": "MED-C54-79",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The knee position printed for this pattern is:",
+      "opts": [
+        "Extended, because flexion is lost",
+        "Flexed, because extension is lost",
+        "Locked in 90° flexion",
+        "Recurvatum with hip flexion"
+      ],
+      "ans": 0,
+      "exp": "Knee : Flexion lost → Extended (Book p685)"
+    },
+    {
+      "id": "MED-C54-80",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The ankle and subtalar joints are left:",
+      "opts": [
+        "Everted and dorsiflexed",
+        "Plantar flexed and inverted",
+        "Dorsiflexed and everted",
+        "Neutral with toe drop only"
+      ],
+      "ans": 1,
+      "exp": "Foot : Dorsiflexion lost → Plantar flexed; Eversion lost → Inverted (Book p685)"
+    },
+    {
+      "id": "MED-C54-81",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The gait produced by this lower-limb pattern is:",
+      "opts": [
+        "Ataxic broad-based gait",
+        "Waddling Trendelenburg gait",
+        "Circumduction gait",
+        "Steppage gait"
+      ],
+      "ans": 2,
+      "exp": "Foot changes → Circumduction gait (Book p685)"
+    },
+    {
+      "id": "MED-C54-82",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "scenario",
+      "q": "On examination an arm lies adducted and internally rotated with a flexed elbow, pronated forearm and palmar-flexed wrist. Which printed mechanism describes the lost movements?",
+      "opts": [
+        "Loss of adduction, internal rotation, flexion and plantar flexion",
+        "Loss of shoulder flexion and elbow supination only",
+        "Global loss of all movements equally",
+        "Loss of abduction, external rotation, extension, supination and dorsiflexion"
+      ],
+      "ans": 3,
+      "exp": "Shoulder : Abduction lost, External rotation lost; Elbow : Extension lost, Supination lost; Wrist : Dorsiflexion lost (Book p685)"
+    },
+    {
+      "id": "MED-C54-83",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The list of upper-limb losses includes which pair of antagonised movements?",
+      "opts": [
+        "Abduction and external rotation",
+        "Adduction and internal rotation",
+        "Flexion and supination",
+        "Dorsiflexion and eversion"
+      ],
+      "ans": 0,
+      "exp": "The shoulder row lists abduction and external rotation as the lost pair (Book p685)"
+    },
+    {
+      "id": "MED-C54-84",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "Lower-limb losses printed before the knee entry are:",
+      "opts": [
+        "Ankle eversion only",
+        "Hip adduction and flexion, and internal rotation",
+        "Hip abduction and extension",
+        "Knee extension and ankle dorsiflexion"
+      ],
+      "ans": 1,
+      "exp": "The hip entry precedes knee and foot, leaving the limb abducted and externally rotated (Book p685)"
+    },
+    {
+      "id": "MED-C54-85",
+      "sec": "Pyramidal Weakness Pattern",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The pattern of weakness in this chapter is labelled as:",
+      "opts": [
+        "Neuropathic distal pattern",
+        "Hemisensory pattern",
+        "Pyramidal pattern of weakness",
+        "Myopathic proximal pattern"
+      ],
+      "ans": 2,
+      "exp": "Clinical features : Pyramidal pattern of weakness (Book p685)"
+    },
+    {
+      "id": "MED-C54-86",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The tone change printed for a pyramidal lesion is:",
+      "opts": [
+        "Lead-pipe rigidity",
+        "Cog-wheel rigidity",
+        "Normal tone with hyporeflexia",
+        "Clasp knife spasticity"
+      ],
+      "ans": 3,
+      "exp": "Tone : Pyramidal lesion → Clasp knife spasticity (Book p685)"
+    },
+    {
+      "id": "MED-C54-87",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "recall",
+      "q": "Velocity and length dependence in this table is a property of:",
+      "opts": [
+        "Spasticity",
+        "Rigidity",
+        "Both",
+        "Neither"
+      ],
+      "ans": 0,
+      "exp": "Velocity & length dependent — Spasticity +; Rigidity − (Book p685)"
+    },
+    {
+      "id": "MED-C54-88",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "recall",
+      "q": "Resistance to movement in spasticity is described as:",
+      "opts": [
+        "Present equally in flexion and extension",
+        "In one direction, in the initial part of movement",
+        "In both directions throughout",
+        "Only at the end of movement"
+      ],
+      "ans": 1,
+      "exp": "Resistance to movement — Spasticity : In one direction (initial part of movement) (Book p685)"
+    },
+    {
+      "id": "MED-C54-89",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "recall",
+      "q": "The types row gives which pair for rigidity?",
+      "opts": [
+        "Waxy and episodic",
+        "Paratonic only",
+        "Lead pipe/cog wheel",
+        "Clasp knife only"
+      ],
+      "ans": 2,
+      "exp": "Types — Spasticity : Clasp knife; Rigidity : Lead pipe/cog wheel (Book p685)"
+    },
+    {
+      "id": "MED-C54-90",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "numeric",
+      "q": "The biceps jerk is printed as supplied by which roots?",
+      "opts": [
+        "C7, C8",
+        "C8, T1",
+        "T1, T2",
+        "C5, C6"
+      ],
+      "ans": 3,
+      "exp": "Note : Root values — C5, C6 : Biceps jerk (Book p685)"
+    },
+    {
+      "id": "MED-C54-91",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "numeric",
+      "q": "Finger flexion reflexes are assigned to which roots?",
+      "opts": [
+        "C8, T1",
+        "C5, C6",
+        "C7 only",
+        "L1, L2"
+      ],
+      "ans": 0,
+      "exp": "C8, T1 : Finger flexion (Book p685)"
+    },
+    {
+      "id": "MED-C54-92",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "numeric",
+      "q": "The knee jerk and ankle jerk are printed as which root levels?",
+      "opts": [
+        "Both at L4 only",
+        "Knee jerk L3, L4 and ankle jerk S1",
+        "Knee jerk L1, L2 and ankle jerk L5",
+        "Knee jerk S1, S2 and ankle jerk S3"
+      ],
+      "ans": 1,
+      "exp": "L3, L4 : knee jerk; S1 : Ankle jerk (Book p685)"
+    },
+    {
+      "id": "MED-C54-93",
+      "sec": "Tone and Root Values",
+      "page": 685,
+      "fmt": "scenario",
+      "q": "A patient has a velocity-dependent catch on rapid stretch of the quadriceps that gives way, with an extensor plantar. Which column and type apply?",
+      "opts": [
+        "Rigidity, cog-wheel type",
+        "Normal tone with root-level hyporeflexia",
+        "Spasticity, clasp-knife type, from a pyramidal lesion",
+        "Rigidity, lead-pipe type"
+      ],
+      "ans": 2,
+      "exp": "Velocity & length dependent +, resistance in one direction (initial part of movement), Types : Clasp knife — Pyramidal lesion → Clasp knife spasticity (Book p685)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U54-1",
+      "ch": 54,
+      "n": 1,
+      "title": "1. Embolic versus Thrombotic Stroke",
+      "sec": "Embolic versus Thrombotic Stroke",
+      "guide": "The opening comparison table separates embolic from thrombotic stroke by the tempo of deficit and by recovery, site and vessel size.\nEmbolic stroke presents with full weakness at onset, rapid recovery of consciousness and cortical findings, multiple lesions at different areas, grey-white matter interphase involvement, hemorrhagic transformation and small-vessel involvement, and the table marks thrombectomy as not useful with a worse prognosis; thrombotic stroke evolves its weakness over 48-72 hours, lacks those rapid recoveries and multifocal features, involves large vessels, and is the one for which thrombectomy is useful with better prognosis.\nThe note adds that weakness evolving beyond 72 hours suggests bleeding or tumour.",
+      "qs": [
+        "MED-C54-01",
+        "MED-C54-02",
+        "MED-C54-03",
+        "MED-C54-04",
+        "MED-C54-05",
+        "MED-C54-06",
+        "MED-C54-07",
+        "MED-C54-08",
+        "MED-C54-09",
+        "MED-C54-10"
+      ]
+    },
+    {
+      "id": "MED-U54-2",
+      "ch": 54,
+      "n": 2,
+      "title": "2. MCA Stroke Patterns in the UMN Approach",
+      "sec": "MCA Stroke Patterns",
+      "guide": "The MCA flowchart splits the approach into three arms, beginning with the lenticulostriate branches from M1, which produce internal capsule findings.\nThe M2 arm gives variable contralateral weakness with aphasia, separating into a superior division with Broca's aphasia and an inferior division with Wernicke's aphasia without weakness.\nThe third arm is complete MCA involvement, printed as weakness, hemianopia, hemisensory loss, cortical findings and global aphasia.",
+      "qs": [
+        "MED-C54-11",
+        "MED-C54-12",
+        "MED-C54-13",
+        "MED-C54-14",
+        "MED-C54-15",
+        "MED-C54-16",
+        "MED-C54-17",
+        "MED-C54-18"
+      ]
+    },
+    {
+      "id": "MED-U54-3",
+      "ch": 54,
+      "n": 3,
+      "title": "3. Differential Diagnosis by Lesion Site",
+      "sec": "Localizing the Lesion",
+      "guide": "The differentials open with internal capsule lesions: dense hemiplegia, hemisensory loss, homonymous hemianopia, a more prominent seventh nerve palsy and an absence of cortical findings.\nBrainstem lesions are printed as crossed hemiplegia, with an ipsilateral LMN cranial nerve nuclear palsy plus contralateral weakness.\nSpinal cord lesions are the third entry, marked by bilateral involvement with a specific level of lesion.",
+      "qs": [
+        "MED-C54-19",
+        "MED-C54-20",
+        "MED-C54-21",
+        "MED-C54-22",
+        "MED-C54-23",
+        "MED-C54-24",
+        "MED-C54-25"
+      ]
+    },
+    {
+      "id": "MED-U54-4",
+      "ch": 54,
+      "n": 4,
+      "title": "4. Upper Motor Neurons: Definition, Functions and Tracts",
+      "sec": "UMN Definition and Functions",
+      "guide": "Upper motor neurons are descending fibres that merge on the anterior horn cell in the spinal cord and on the cranial nerve nuclei in the brainstem.\nThe corticospinal tract integrates highly skilled fine discrete movements of the distal extremities and supplies lower centres with inhibitory impulses, so a lesion inside the spinal cord gives LMN features at the level and UMN features below it; the extrapyramidal system maintains tone and posture and inhibits proximal and antagonistic muscles.\nThe fibres included are the pyramidal corticospinal tract, which merges on the AHC, and the extrapyramidal fibres, with the rubrospinal tract in the lateral white matter and the vestibulospinal, tectospinal and reticulospinal tracts in the ventral white matter.",
+      "qs": [
+        "MED-C54-26",
+        "MED-C54-27",
+        "MED-C54-28",
+        "MED-C54-29",
+        "MED-C54-30",
+        "MED-C54-31",
+        "MED-C54-32",
+        "MED-C54-33",
+        "MED-C54-34",
+        "MED-C54-35",
+        "MED-C54-36"
+      ]
+    },
+    {
+      "id": "MED-U54-5",
+      "ch": 54,
+      "n": 5,
+      "title": "5. Corticobulbar Fibres, Facial Palsy and the Motor Homunculus",
+      "sec": "Corticobulbar Fibres and the Homunculus",
+      "guide": "Corticobulbar fibres merge on the cranial nerve nuclei, and the note divides them into bilateral involvement, which produces pseudobulbar palsy as seen in ALS, and unilateral involvement, which is usually symptomless because of bilateral representation.\nThe single printed exception is the seventh cranial nerve, whose lower half receives contralateral innervation only, so an internal capsule or cortical lesion gives an UMN seventh nerve palsy; the paired diagrams contrast a supranuclear UMN lesion, with drooping of the angle of the mouth and preserved forehead movement, against a facial nerve nucleus or nerve lesion, with deviation of the angle of the mouth and a Bell's palsy picture.\nThe motor homunculus places the lower limb with ACA lesions and the upper limb and face with MCA lesions, running from hip, leg, trunk, neck, head, shoulder and arm through the wrist, hand and individual digits to the eye, nose, face, lips, teeth and jaw, tongue and pharynx.",
+      "qs": [
+        "MED-C54-37",
+        "MED-C54-38",
+        "MED-C54-39",
+        "MED-C54-40",
+        "MED-C54-41",
+        "MED-C54-42",
+        "MED-C54-43",
+        "MED-C54-44",
+        "MED-C54-45",
+        "MED-C54-46",
+        "MED-C54-47",
+        "MED-C54-48"
+      ]
+    },
+    {
+      "id": "MED-U54-6",
+      "ch": 54,
+      "n": 6,
+      "title": "6. Pyramidal Tract: Cortical Origin and Capsular Course",
+      "sec": "Pyramidal Tract Pathway",
+      "guide": "The pathway begins in the cortex, with the primary motor cortex in the precentral gyrus providing pyramidal cells of Betz with the lowest threshold at 30%, premotor and supplementary motor cortex at 30% and the primary sensory cortex at 40%.\nFibres converge on the corona radiata and pass through the internal capsule at the anterior two-thirds of the posterior limb, accompanied by corticonuclear and corticorubral fibres, and then run in the cerebral peduncle and brainstem towards the medullary pyramids, the decussation of pyramids and the lateral and anterior corticospinal tracts to the upper and lower motor neurons and skeletal muscles.",
+      "qs": [
+        "MED-C54-49",
+        "MED-C54-50",
+        "MED-C54-51",
+        "MED-C54-52",
+        "MED-C54-53",
+        "MED-C54-54",
+        "MED-C54-55",
+        "MED-C54-56",
+        "MED-C54-57",
+        "MED-C54-58",
+        "MED-C54-59",
+        "MED-C54-60",
+        "MED-C54-61"
+      ]
+    },
+    {
+      "id": "MED-U54-7",
+      "ch": 54,
+      "n": 7,
+      "title": "7. Midbrain to Cord: Brainstem Levels, Decussation and Segmental Distribution",
+      "sec": "Brainstem Course and Decussation",
+      "guide": "The midbrain panel labels the superior colliculus, oculomotor nucleus, tectum, tegmentum, crus cerebri as the cerebral peduncle, red nucleus, decussation of the rubrospinal tract, oculomotor nerve, cerebral aqueduct, medial longitudinal fasciculus, lemnisci as sensory, substantia nigra, the middle three-fifths carrying corticospinal and corticonuclear fibres and the frontopontine fibres, with a note that the trochlear nerve is not seen at the superior collicular level.\nThe fibres then run through the basilar part of the pons and decussate at the pyramidal level in the caudal medulla before entering the spinal cord, where the printed distribution is cervical 50%, thoracic 30% and lumbosacral 30%.",
+      "qs": [
+        "MED-C54-62",
+        "MED-C54-63",
+        "MED-C54-64",
+        "MED-C54-65",
+        "MED-C54-66",
+        "MED-C54-67",
+        "MED-C54-68",
+        "MED-C54-69",
+        "MED-C54-70",
+        "MED-C54-71"
+      ]
+    },
+    {
+      "id": "MED-U54-8",
+      "ch": 54,
+      "n": 8,
+      "title": "8. Clinical Features: The Pyramidal Pattern of Weakness",
+      "sec": "Pyramidal Weakness Pattern",
+      "guide": "The clinical features begin with an UMN facial palsy involving the lower half with sparing of the upper half, voluntary fibres for skilled learned actions failing before emotional fibres, and preserved deglutition and articulation.\nThe upper limb loses shoulder abduction and external rotation, leaving it adducted and internally rotated, loses elbow extension and supination, leaving it flexed and prone, and loses wrist dorsiflexion, leaving the hand palmar flexed.\nThe lower limb loses hip adduction and flexion, leaving it abducted and externally rotated, loses knee flexion, leaving it extended, and loses ankle dorsiflexion and eversion, leaving the foot plantarflexed and inverted, which produces a circumduction gait.",
+      "qs": [
+        "MED-C54-72",
+        "MED-C54-73",
+        "MED-C54-74",
+        "MED-C54-75",
+        "MED-C54-76",
+        "MED-C54-77",
+        "MED-C54-78",
+        "MED-C54-79",
+        "MED-C54-80",
+        "MED-C54-81",
+        "MED-C54-82",
+        "MED-C54-83",
+        "MED-C54-84",
+        "MED-C54-85"
+      ]
+    },
+    {
+      "id": "MED-U54-9",
+      "ch": 54,
+      "n": 9,
+      "title": "9. Tone: Spasticity versus Rigidity, and the Reflex Root Values",
+      "sec": "Tone and Root Values",
+      "guide": "Tone change in a pyramidal lesion is printed as clasp-knife spasticity, and the comparison table separates spasticity as velocity and length dependent, resisting movement in one direction during the initial part, and typed as clasp-knife, from rigidity, which is neither velocity nor length dependent, resists in both directions and is typed as lead-pipe or cog-wheel.\nThe closing root-value note gives biceps jerk C5-C6, triceps jerk C7, finger flexion C8-T1, knee jerk L3-L4 and ankle jerk S1.",
+      "qs": [
+        "MED-C54-86",
+        "MED-C54-87",
+        "MED-C54-88",
+        "MED-C54-89",
+        "MED-C54-90",
+        "MED-C54-91",
+        "MED-C54-92",
+        "MED-C54-93"
+      ]
+    }
+  ]
+}

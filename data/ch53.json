@@ -1,0 +1,2247 @@
+{
+  "chapter": 53,
+  "title": "Vascular Anatomy of Brain",
+  "pageRange": "674-680",
+  "questions": [
+    {
+      "id": "MED-C53-01",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The printed mnemonic for the terminal branches of the internal carotid artery is:",
+      "opts": [
+        "MCAPO",
+        "PALMO",
+        "OPAMM",
+        "OPAAm"
+      ],
+      "ans": 3,
+      "exp": "Terminal branches : mnemonic OPAAm (Book p674)"
+    },
+    {
+      "id": "MED-C53-02",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "Which artery is the first item expanded from the mnemonic O?",
+      "opts": [
+        "Ophthalmic Artery",
+        "Occipital artery",
+        "Olfactory artery",
+        "Orbital artery"
+      ],
+      "ans": 0,
+      "exp": "Ophthalmic Artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-03",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The second item of the mnemonic lists which artery?",
+      "opts": [
+        "Recurrent artery of Heubner",
+        "Posterior Communicating Artery (PCoA)",
+        "Anterior communicating artery",
+        "PICA"
+      ],
+      "ans": 1,
+      "exp": "Posterior Communicating Artery (PCAA) as printed for the second item (Book p674)"
+    },
+    {
+      "id": "MED-C53-04",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "oddoneout",
+      "q": "Which vessel is NOT one of the printed terminal branches of the internal carotid?",
+      "opts": [
+        "Anterior Cerebral Artery",
+        "Middle Cerebral Artery",
+        "Anterior inferior cerebellar artery",
+        "Anterior Choroidal Artery"
+      ],
+      "ans": 2,
+      "exp": "Terminal branches : Ophthalmic, Posterior Communicating, Anterior Choroidal, Anterior Cerebral, middle Cerebral arteries (Book p674)"
+    },
+    {
+      "id": "MED-C53-05",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The vessel labelled at the origin of the right common carotid in the neck figure is the:",
+      "opts": [
+        "Left subclavian artery",
+        "Thyrocervical trunk",
+        "Internal thoracic artery",
+        "Brachiocephalic trunk"
+      ],
+      "ans": 3,
+      "exp": "Figure label : Brachiocephalic trunk (Book p674)"
+    },
+    {
+      "id": "MED-C53-06",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The caption under the neck-and-head figure reads:",
+      "opts": [
+        "Terminal branches of internal carotid artery",
+        "Circle of Willis",
+        "Blood supply of the brainstem",
+        "Extracranial-intracranial anastomoses"
+      ],
+      "ans": 0,
+      "exp": "Figure caption : Terminal branches of internal carotid artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-07",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "In the circle-of-Willis diagram, the A1 segment is placed:",
+      "opts": [
+        "Between the basilar and posterior communicating arteries",
+        "Between the internal carotid and the anterior communicating artery",
+        "Distal to the anterior communicating artery",
+        "On the middle cerebral artery"
+      ],
+      "ans": 1,
+      "exp": "Circle of Willis : A1 Segment bracketed on the ACA proximal to Acomm, A2 Segment distal to it (Book p674)"
+    },
+    {
+      "id": "MED-C53-08",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The segment labelled distal to the anterior communicating artery is:",
+      "opts": [
+        "M1 Segment",
+        "P1 Segment",
+        "A2 Segment",
+        "A1 Segment"
+      ],
+      "ans": 2,
+      "exp": "Figure label : A2 Segment (distal to Anterior communicating artery (Acomm)) (Book p674)"
+    },
+    {
+      "id": "MED-C53-09",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "Which two arteries are bracketed on the posterior cerebral artery as P1 and P2 segments?",
+      "opts": [
+        "Both on the middle cerebral artery",
+        "Both on the basilar trunk before the AICA",
+        "P1 on the vertebral and P2 on the SCA",
+        "P1 Segment proximal and P2 Segment distal to the posterior communicating artery"
+      ],
+      "ans": 3,
+      "exp": "Figure : P1 Segment and Pa Segment (P2) labelled on the posterior cerebreal artery relative to the posterior communicating artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-10",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "oddoneout",
+      "q": "Which branch is NOT labelled off the basilar artery in the circle diagram?",
+      "opts": [
+        "Posterior inferior cerebellar artery",
+        "Pontine branches",
+        "Superior cerebellar artery",
+        "Anterior inferior cerebellar artery"
+      ],
+      "ans": 0,
+      "exp": "Basilar branches labelled are Superior cerebellar artery, Pontine branches and Anterior inferior cerebellar artery; the posterior inferior cerebellar artery is labelled off the vertebral artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-11",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The posterior inferior cerebellar artery is shown arising from the:",
+      "opts": [
+        "Internal carotid artery",
+        "Vertebral artery",
+        "Basilar artery",
+        "Posterior cerebral artery"
+      ],
+      "ans": 1,
+      "exp": "Figure : Posterior inferior cerebellar artery labelled with the vertebral artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-12",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "Which spinal branch is drawn continuing downwards from the vertebral junction?",
+      "opts": [
+        "Posterior spinal artery",
+        "Radicular feeder",
+        "Anterior spinal artery",
+        "Artery of Adamkiewicz"
+      ],
+      "ans": 2,
+      "exp": "Figure label : Anterior spinal artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-13",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The two arteries labelled immediately around each ICA in the circle diagram are:",
+      "opts": [
+        "Superior cerebellar and pontine arteries",
+        "Recurrent artery of Heubner and medial striate artery",
+        "Anterior and posterior spinal arteries",
+        "Ophthalmic artery and anterior choroidal artery"
+      ],
+      "ans": 3,
+      "exp": "Figure labels at the ICA : Ophthalmic artery; Anterior choroidal artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-14",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "recall",
+      "q": "The printed label for the posterior cerebral artery in this figure reads:",
+      "opts": [
+        "Posterior cerebreal artery (PCA)",
+        "Posterior central artery",
+        "Posterolateral choroidal artery",
+        "Posterior cerebral communicating artery"
+      ],
+      "ans": 0,
+      "exp": "Figure label printed as Posterior cerebreal artery (PCA) — a printer's typo for posterior cerebral artery (Book p674)"
+    },
+    {
+      "id": "MED-C53-15",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "page": 674,
+      "fmt": "scenario",
+      "q": "An aneurysm at the junction of the ICA and the anterior choroidal artery is suspected. Which other vessel arises from the same ICA segment in this diagram?",
+      "opts": [
+        "Anterior spinal artery",
+        "Middle cerebral artery",
+        "Superior cerebellar artery",
+        "Posterior inferior cerebellar artery"
+      ],
+      "ans": 1,
+      "exp": "Circle diagram : ICA gives off the middle cerebral artery, anterior choroidal artery and the ACA via A1; ophthalmic artery also arises here (Book p674)"
+    },
+    {
+      "id": "MED-C53-16",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The three surface diagrams are drawn for which surfaces, in printed order?",
+      "opts": [
+        "Medial, basal and dorsolateral",
+        "Orbital, temporal and occipital",
+        "Superolateral, medial and inferior surface",
+        "Lateral, superior and inferior"
+      ],
+      "ans": 2,
+      "exp": "Diagram captions : Superolateral surface; medial surface; Inferior surface (Book p675)"
+    },
+    {
+      "id": "MED-C53-17",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "In the area-supplied row, the ACA territory is:",
+      "opts": [
+        "Most of superolateral surface",
+        "Most of inferior surface except the temporal pole",
+        "The whole occipital lobe",
+        "Most of medial surface"
+      ],
+      "ans": 3,
+      "exp": "ACA — Area supplied : most of medial Surface (Book p675)"
+    },
+    {
+      "id": "MED-C53-18",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "oddoneout",
+      "q": "Which structure is NOT listed under the ACA area supplied?",
+      "opts": [
+        "Inferior temporal gyrus",
+        "Paracentral lobule",
+        "Cingulate gyrus",
+        "Narrow strip of cortex adjoining the superomedial border"
+      ],
+      "ans": 0,
+      "exp": "ACA area supplied : most of medial Surface; Paracentral lobule/Cingulate gyrus; Narrow strip of cerebral cortex adjoining superomedial border (Book p675)"
+    },
+    {
+      "id": "MED-C53-19",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The MCA territory in the table covers:",
+      "opts": [
+        "The brainstem and cerebellum",
+        "Most of the superolateral surface",
+        "Most of the medial surface",
+        "Only the inferior surface"
+      ],
+      "ans": 1,
+      "exp": "MCA — Area supplied : most of superolateral surface (Book p675)"
+    },
+    {
+      "id": "MED-C53-20",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "oddoneout",
+      "q": "Which of these is included in the printed MCA area-supplied list?",
+      "opts": [
+        "Cingulate gyrus",
+        "Inferior occipitotemporal cortex",
+        "Frontal eye field",
+        "Paracentral lobule"
+      ],
+      "ans": 2,
+      "exp": "MCA : most of Primary motor and Sensory area; Frontal eye field; Broca & Wernicke's area (Dominant hemisphere); Temporal pole (Book p675)"
+    },
+    {
+      "id": "MED-C53-21",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "Broca's and Wernicke's areas are assigned to the MCA on which side?",
+      "opts": [
+        "Non-dominant hemisphere",
+        "Both equally",
+        "Only in the left thalamus",
+        "Dominant hemisphere"
+      ],
+      "ans": 3,
+      "exp": "Broca & Wernicke's area (Dominant hemisphere) (Book p675)"
+    },
+    {
+      "id": "MED-C53-22",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The PCA territory is printed as:",
+      "opts": [
+        "Most of inferior surface except the temporal pole",
+        "Most of the medial surface",
+        "The entire superolateral surface",
+        "The paracentral lobule only"
+      ],
+      "ans": 0,
+      "exp": "PCA — Area supplied : most of inferior Surface except : Temporal pole (Book p675)"
+    },
+    {
+      "id": "MED-C53-23",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "scenario",
+      "q": "A tumor compresses the orbital surface of the frontal lobe and medial parietal cortex. Which two columns of this table account for the supply of those regions?",
+      "opts": [
+        "MCA for the paracentral lobule",
+        "ACA for the medial surface and paracentral lobule; PCA for the inferior surface",
+        "MCA for both",
+        "PCA for the medial surface"
+      ],
+      "ans": 1,
+      "exp": "ACA supplies most of the medial surface including paracentral lobule; PCA supplies most of the inferior surface except the temporal pole (Book p675)"
+    },
+    {
+      "id": "MED-C53-24",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "oddoneout",
+      "q": "Which cortical area is supplied by the MCA rather than the ACA, per the table?",
+      "opts": [
+        "Paracentral lobule",
+        "Narrow strip at the superomedial border",
+        "Primary motor and sensory areas",
+        "Cingulate gyrus"
+      ],
+      "ans": 2,
+      "exp": "MCA : most of Primary motor and Sensory area; the ACA column lists paracentral lobule, cingulate gyrus and the superomedial strip (Book p675)"
+    },
+    {
+      "id": "MED-C53-25",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The structure explicitly excluded from the PCA territory is the:",
+      "opts": [
+        "Occipital pole",
+        "Splenium",
+        "Parahippocampal gyrus",
+        "Temporal pole"
+      ],
+      "ans": 3,
+      "exp": "PCA : most of inferior Surface except : Temporal pole (Book p675)"
+    },
+    {
+      "id": "MED-C53-26",
+      "sec": "Cortical Territories",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The temporal pole appears in which column of the area-supplied row?",
+      "opts": [
+        "MCA",
+        "ACA",
+        "PCA",
+        "Anterior choroidal"
+      ],
+      "ans": 0,
+      "exp": "MCA area supplied includes Temporal pole, which is excluded from the PCA (Book p675)"
+    },
+    {
+      "id": "MED-C53-27",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "oddoneout",
+      "q": "In ACA injury the weakness pattern printed is:",
+      "opts": [
+        "Face and arm only",
+        "LL > UL",
+        "UL > LL",
+        "UL = LL"
+      ],
+      "ans": 1,
+      "exp": "ACA Injury : Weakness : LL > UL (Book p675)"
+    },
+    {
+      "id": "MED-C53-28",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "Urinary incontinence in ACA injury is attributed to involvement of the:",
+      "opts": [
+        "Caudate head",
+        "Internal capsule anterior limb",
+        "Paracentral lobule",
+        "Cingulate gyrus"
+      ],
+      "ans": 2,
+      "exp": "Paracentral lobule involvement : urinary incontinence (Book p675)"
+    },
+    {
+      "id": "MED-C53-29",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The cingulate-gyrus features in ACA injury are listed as:",
+      "opts": [
+        "Hyperorality and hypersexuality",
+        "Visual hallucinations",
+        "Chorea and athetosis",
+        "Apathy as the mild form, abulia, amotivation and akinetic mutism as the severe form"
+      ],
+      "ans": 3,
+      "exp": "Cingulate gyrus : Apathy (mild form), Abulia, Amotivation, Akinetic mutism (severe form) (Book p675)"
+    },
+    {
+      "id": "MED-C53-30",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "scenario",
+      "q": "A patient after an ACA infarct sits silent and motionless, not responding to pain, with both legs weaker than the arms. Which printed descriptor fits the behavioural state?",
+      "opts": [
+        "Akinetic mutism, the severe form of the cingulate picture",
+        "Fluent Wernicke's aphasia",
+        "Peduncular hallucinosis",
+        "Global aphasia"
+      ],
+      "ans": 0,
+      "exp": "ACA Injury : Weakness LL > UL; Cingulate gyrus — Apathy (mild form) to Akinetic mutism (severe form) (Book p675)"
+    },
+    {
+      "id": "MED-C53-31",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "MCA injury weakness is printed as:",
+      "opts": [
+        "Proximal pelvic girdle only",
+        "UL > LL",
+        "LL > UL",
+        "UL = LL"
+      ],
+      "ans": 1,
+      "exp": "MCA Injury : weakness : UL > LL (Book p675)"
+    },
+    {
+      "id": "MED-C53-32",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "Temporal pole involvement in MCA injury produces:",
+      "opts": [
+        "Alexia without agraphia",
+        "Hemispatial neglect only",
+        "Macular involvement",
+        "Cortical blindness with pupillary sparing"
+      ],
+      "ans": 2,
+      "exp": "MCA Injury : Temporal pole involvement : macular involvement (Book p675)"
+    },
+    {
+      "id": "MED-C53-33",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "Broca's area is localized in this table to the:",
+      "opts": [
+        "Middle frontal gyrus",
+        "Superior temporal gyrus",
+        "Inferior parietal lobule",
+        "Inferior frontal gyrus"
+      ],
+      "ans": 3,
+      "exp": "Cortical lesion : Broca's area (inferior frontal gyrus) (Book p675)"
+    },
+    {
+      "id": "MED-C53-34",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The cortical aphasia of an MCA lesion is contrasted with:",
+      "opts": [
+        "No aphasia in internal capsule lesion",
+        "Global aphasia in every capsular infarct",
+        "Aphasia only with PCA occlusion",
+        "Wernicke aphasia with ACA occlusion"
+      ],
+      "ans": 0,
+      "exp": "No aphasia in internal capsule lesion (Book p675)"
+    },
+    {
+      "id": "MED-C53-35",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "Both Broca's and Wernicke's areas grouped by a brace in the table are labelled as:",
+      "opts": [
+        "Mutism of the dominant hemisphere",
+        "Aphasia (cortical)",
+        "Dysarthria-clumsy hand",
+        "Apraxia of speech"
+      ],
+      "ans": 1,
+      "exp": "Brace : Aphasia (cortical) (Book p675)"
+    },
+    {
+      "id": "MED-C53-36",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The visual field defect printed for PCA injury is:",
+      "opts": [
+        "Bitemporal hemianopia",
+        "Altitudinal field loss",
+        "Contralateral homonymous hemianopia with macular sparing",
+        "Ipsilateral homonymous hemianopia with macular sparing"
+      ],
+      "ans": 2,
+      "exp": "PCA Injury : Visual area injury C/L homonymous hemianopia with macular sparing (Book p675)"
+    },
+    {
+      "id": "MED-C53-37",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "Macular sparing in PCA injury is contrasted on this page with macular involvement from which lesion?",
+      "opts": [
+        "ACA injury with paracentral lobule involvement",
+        "Anterior choroidal artery occlusion",
+        "Lateral geniculate body infarct",
+        "MCA injury with temporal pole involvement"
+      ],
+      "ans": 3,
+      "exp": "MCA : Temporal pole involvement : macular involvement; PCA : C/L homonymous hemianopia with macular sparing (Book p675)"
+    },
+    {
+      "id": "MED-C53-38",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The PCA visual deficit is described as arising from injury of the:",
+      "opts": [
+        "Visual area",
+        "Optic chiasma",
+        "Lateral geniculate nucleus",
+        "Frontal eye field"
+      ],
+      "ans": 0,
+      "exp": "PCA Injury : Visual area injury (Book p675)"
+    },
+    {
+      "id": "MED-C53-39",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "scenario",
+      "q": "A right-handed patient has arm greater than leg weakness, a fluent comprehension-poor aphasia and contralateral upper quadrantic field loss on the same side of the lesion as Broca's area involvement. Which artery column fits best?",
+      "opts": [
+        "Anterior spinal",
+        "MCA",
+        "ACA",
+        "PCA"
+      ],
+      "ans": 1,
+      "exp": "MCA Injury : weakness UL > LL; cortical lesion with Broca's and Wernicke's areas giving aphasia; MCA territory includes the dominant-hemisphere language cortex (Book p675)"
+    },
+    {
+      "id": "MED-C53-40",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "page": 675,
+      "fmt": "recall",
+      "q": "The amotivation entry in the ACA column sits between which two features?",
+      "opts": [
+        "Akinetic mutism and aphasia",
+        "Incontinence and weakness",
+        "Abulia and akinetic mutism",
+        "Apathy and abulia"
+      ],
+      "ans": 2,
+      "exp": "Order printed : Apathy (mild form), Abulia, Amotivation, Akinetic mutism (severe form) (Book p675)"
+    },
+    {
+      "id": "MED-C53-41",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "In the internal capsule figure, the tract labelled at the genu is the:",
+      "opts": [
+        "Optic radiation",
+        "Frontopontine fibres",
+        "Superior thalamic radiation",
+        "Corticobulbar tract"
+      ],
+      "ans": 3,
+      "exp": "Figure label at the Genu : Corticobulbar tract (Book p676)"
+    },
+    {
+      "id": "MED-C53-42",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "Which two nuclei form the medial and lateral boundaries drawn at the level of the thalamus?",
+      "opts": [
+        "Medial and lateral geniculate nuclei",
+        "Subthalamic and red nuclei",
+        "Caudate head and putamen",
+        "Claustrum and amygdala"
+      ],
+      "ans": 0,
+      "exp": "Figure labels : Medial geniculate nucleus; Lateral: geniculate nucleus (Book p676)"
+    },
+    {
+      "id": "MED-C53-43",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The auditory radiation is placed on which peduncle in the figure?",
+      "opts": [
+        "Cerebral peduncle",
+        "Inferior thalamic peduncle",
+        "Superior thalamic peduncle",
+        "Middle cerebellar peduncle"
+      ],
+      "ans": 1,
+      "exp": "Figure label : Auditory radiation (inferior thalamic peduncle) (Book p676)"
+    },
+    {
+      "id": "MED-C53-44",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The optic radiation is labelled on which peduncle?",
+      "opts": [
+        "Superior cerebellar peduncle",
+        "Internal medullary lamina",
+        "Posterior thalamic peduncle",
+        "Inferior thalamic peduncle"
+      ],
+      "ans": 2,
+      "exp": "Figure label : Optic radiation (posterior thalamic peduncle) (Book p676)"
+    },
+    {
+      "id": "MED-C53-45",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The superior thalamic radiation is printed as including which fibres?",
+      "opts": [
+        "Auditory radiation only",
+        "Corticospinal fibres for the leg",
+        "Fornix fibres",
+        "Somatosensory radiation"
+      ],
+      "ans": 3,
+      "exp": "Figure label : Superior thalamic radiation (includes somatosensory radiation) (Book p676)"
+    },
+    {
+      "id": "MED-C53-46",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The anterior limb of the figure carries which fibre groups?",
+      "opts": [
+        "Anterior thalamic radiation and frontopontine and other corticofugal fibres",
+        "Corticospinal tract and optic radiation",
+        "Cortico-pontine fibres only",
+        "Auditory radiation only"
+      ],
+      "ans": 0,
+      "exp": "Anterior limb : Anterior thalamic radiation; Frontopontine and other corticofugal fibers (Book p676)"
+    },
+    {
+      "id": "MED-C53-47",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The coronal-section figure labels which two radiating structures above the capsule?",
+      "opts": [
+        "External capsule and claustrum",
+        "Corona radiata and internal capsule",
+        "Superior longitudinal fasciculus and fornix",
+        "Corticobulbar tract and medial lemniscus"
+      ],
+      "ans": 1,
+      "exp": "Coronal figure labels : Corona radiata; Internal capsule; Caudate; Putamen; Globus pallidus; Thalamus (Book p676)"
+    },
+    {
+      "id": "MED-C53-48",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The anterior limb is clinically linked in the parts list to:",
+      "opts": [
+        "Dysarthria-clumsy hand only",
+        "Homonymous hemianopia",
+        "Lacunar stroke with cerebellar involvement",
+        "Pure sensory stroke"
+      ],
+      "ans": 2,
+      "exp": "Anterior limb : Frontopontine fibers : Lacunar stroke (Cerebellar involvement) (Book p676)"
+    },
+    {
+      "id": "MED-C53-49",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The genu is printed as carrying which corticospinal representation?",
+      "opts": [
+        "Lower limb",
+        "Upper limb",
+        "Trunk and shoulder",
+        "Head & neck"
+      ],
+      "ans": 3,
+      "exp": "Genu : Cortico spinal fibers : Head & neck; Corticobulbar fiber (Predominantly) (Book p676)"
+    },
+    {
+      "id": "MED-C53-50",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "oddoneout",
+      "q": "Which statement about the genu's fibre content is as printed?",
+      "opts": [
+        "Corticobulbar fibres predominate, with corticospinal fibres for head and neck",
+        "Corticospinal fibres for the leg predominate",
+        "Only thalamic radiations pass here",
+        "Optic and auditory radiations arise here"
+      ],
+      "ans": 0,
+      "exp": "Genu : corticospinal fibres for head and neck with corticobulbar fibre predominating — the leg area and the thalamic radiations are not genu fibres (Book p676)"
+    },
+    {
+      "id": "MED-C53-51",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "numeric",
+      "q": "The corticospinal tract occupies which part of the posterior limb?",
+      "opts": [
+        "Only the retrolentiform part",
+        "Anterior 2/3 of the posterior limb",
+        "Posterior 1/3",
+        "The whole limb equally"
+      ],
+      "ans": 1,
+      "exp": "Posterior limb : Corticospinal tract : Anterior 2/3 of Post limb (Book p676)"
+    },
+    {
+      "id": "MED-C53-52",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "Weakness from a posterior-limb lesion is printed as:",
+      "opts": [
+        "LL > UL",
+        "Face only",
+        "UL = LL, dense when hemiplegia",
+        "UL > LL"
+      ],
+      "ans": 2,
+      "exp": "Posterior limb weakness : UL = LL (Dense : Hemiplegia) (Book p676)"
+    },
+    {
+      "id": "MED-C53-53",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "Besides the corticospinal tract, the posterior limb list includes:",
+      "opts": [
+        "Frontopontine fibers",
+        "Corticobulbar fibers predominantly",
+        "Thalamocortical radiations only",
+        "Corticorubral fibers"
+      ],
+      "ans": 3,
+      "exp": "Posterior limb : Corticorubral fibers (Book p676)"
+    },
+    {
+      "id": "MED-C53-54",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The retrolentiform part carries which radiation?",
+      "opts": [
+        "Posterior thalamic radiation, for optic fibres",
+        "Inferior thalamic radiation, for auditory fibres",
+        "Anterior thalamic radiation",
+        "Superior thalamic somatosensory radiation"
+      ],
+      "ans": 0,
+      "exp": "Retrolentiform : Posterior thalamic radiation (Optic) (Book p676)"
+    },
+    {
+      "id": "MED-C53-55",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "recall",
+      "q": "Auditory fibres are placed in which part of the capsule?",
+      "opts": [
+        "Genu",
+        "Sublentiform part, as the inferior thalamic radiation",
+        "Retrolentiform part",
+        "Anterior limb"
+      ],
+      "ans": 1,
+      "exp": "Sublentiform part : Inferior thalamic radiation (Auditory) (Book p676)"
+    },
+    {
+      "id": "MED-C53-56",
+      "sec": "Internal Capsule Anatomy",
+      "page": 676,
+      "fmt": "scenario",
+      "q": "A patient has a dense equal weakness of arm and leg with no cortical sign. Which capsular part and fibre bundle does the printed anatomy implicate?",
+      "opts": [
+        "Anterior limb, frontopontine fibres",
+        "Retrolentiform part, optic radiation",
+        "Posterior limb, corticospinal tract in its anterior two-thirds",
+        "Genu, corticobulbar fibres"
+      ],
+      "ans": 2,
+      "exp": "Posterior limb : Corticospinal tract : Anterior 2/3 of Post limb — weakness UL = LL (Dense : Hemiplegia) (Book p676)"
+    },
+    {
+      "id": "MED-C53-57",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "Unilateral corticobulbar injury is printed as causing:",
+      "opts": [
+        "Bilateral facial palsy",
+        "Isolated seventh nerve palsy always",
+        "Bulbar palsy with fasciculations",
+        "No cranial nerve palsy, because of B/L innervation in cortex"
+      ],
+      "ans": 3,
+      "exp": "U/L corticobulbar injury : No cranial nerve palsy (B/L innervation in cortex) (Book p676)"
+    },
+    {
+      "id": "MED-C53-58",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The one exception to that rule is the:",
+      "opts": [
+        "7th UMN palsy, due to contralateral supply",
+        "5th nerve UMN palsy",
+        "12th nerve LMN palsy",
+        "3rd nerve palsy"
+      ],
+      "ans": 0,
+      "exp": "Except : 7th UMN palsy (D/t C/L supply) (Book p676)"
+    },
+    {
+      "id": "MED-C53-59",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "Bilateral corticobulbar injury is equated with:",
+      "opts": [
+        "Wallenberg lateral medullary syndrome",
+        "Pseudobulbar palsy, seen in ALS or motor neuron disease",
+        "Bulbar polio",
+        "Myasthenic bulbar weakness"
+      ],
+      "ans": 1,
+      "exp": "B/L corticobulbar injury/Pseudobulbar palsy : Seen in ALS or motor neuron disease (Book p676)"
+    },
+    {
+      "id": "MED-C53-60",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The note on a dense capsular lesion prints which combination?",
+      "opts": [
+        "Isolated hemisensory loss",
+        "Crossed alternating hemiplegia",
+        "C/L facial palsy and hemiplegia",
+        "B/L facial palsy only"
+      ],
+      "ans": 2,
+      "exp": "Note : Dense capsule lesion/hemiplegia : C/L facial palsy & hemiplegia (Book p676)"
+    },
+    {
+      "id": "MED-C53-61",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "The HHH triad of internal capsule lesion consists of:",
+      "opts": [
+        "Hemiplegia, hemianopia and hearing loss",
+        "Headache, hemiplegia and hypertonia",
+        "Hemiparesis, hyperreflexia and hypotonia",
+        "Hemiplegia, hemisensory loss and homonymous hemianopia"
+      ],
+      "ans": 3,
+      "exp": "Internal capsule lesion : H H H Triad — 1. Hemiplegia, 2. Hemisensory loss, 3. Homonymous hemianopia (Book p676)"
+    },
+    {
+      "id": "MED-C53-62",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "In the triad, the hemiplegia is printed as:",
+      "opts": [
+        "Dense, with UL = LL",
+        "Dense, with UL greater than LL",
+        "Mild and restricted to the leg",
+        "Alternating from side to side"
+      ],
+      "ans": 0,
+      "exp": "Hemiplegia : Dense UL = LL (Book p676)"
+    },
+    {
+      "id": "MED-C53-63",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "numeric",
+      "q": "The triad adds which cranial-nerve finding, and of what type?",
+      "opts": [
+        "12th nerve fasciculations contralateral",
+        "7th nerve UMN palsy contralateral to the injury",
+        "6th nerve LMN palsy ipsilateral",
+        "3rd nerve palsy bilateral"
+      ],
+      "ans": 1,
+      "exp": "7th N. UMN (C/L to injury) (Book p676)"
+    },
+    {
+      "id": "MED-C53-64",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "scenario",
+      "q": "A hypertensive patient has dense equal arm-and-leg weakness, loss of all sensation on the same side and a right homonymous hemianopia, with a left UMN facial palsy after a right capsular bleed. Which printed entity does this represent?",
+      "opts": [
+        "ACA infarct with akinetic mutism",
+        "Lateral medullary syndrome",
+        "Internal capsule lesion with the H H H triad",
+        "Complete MCA syndrome"
+      ],
+      "ans": 2,
+      "exp": "Internal capsule lesion : H H H Triad — Hemiplegia with dense UL = LL and 7th N UMN, Hemisensory loss, Homonymous hemianopia (Book p676)"
+    },
+    {
+      "id": "MED-C53-65",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "oddoneout",
+      "q": "Which comparison is printed correctly in the closing note?",
+      "opts": [
+        "MCA : LL > UL",
+        "ACA : UL > LL",
+        "MCA : UL = LL",
+        "Post limb : UL = LL"
+      ],
+      "ans": 3,
+      "exp": "Note : MCA involvement : UL > LL; ACA involvement : LL > UL; Post limb : UL = LL (Book p676)"
+    },
+    {
+      "id": "MED-C53-66",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "page": 676,
+      "fmt": "recall",
+      "q": "In the anatomical drawing, the capsule wedge is framed between which structures?",
+      "opts": [
+        "Head of caudate medially and anteriorly, lentiform nucleus laterally and the thalamus posteromedially",
+        "Claustrum only laterally and the septum pellucidum medially",
+        "The cerebellar peduncles and the tectum",
+        "The occipital horn and the atrium of the lateral ventricle"
+      ],
+      "ans": 0,
+      "exp": "Figure structures : Head of caudate nucleus; Putamen; Globus pallidus; Thalamus, with the capsule drawn between them (Book p676)"
+    },
+    {
+      "id": "MED-C53-67",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The anterior limb of the internal capsule is supplied by:",
+      "opts": [
+        "The ophthalmic artery",
+        "Striate branches of the anterior cerebral, including the recurrent artery of Heubner, and of the middle cerebral",
+        "The posterior cerebral artery only",
+        "The anterior inferior cerebellar artery"
+      ],
+      "ans": 1,
+      "exp": "Anterior limb : Striate branches of Anterior cerebral (including the longest branch - recurrent artery of Heubner) and Middle cerebral (Book p677)"
+    },
+    {
+      "id": "MED-C53-68",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The genu receives supply from which three sources?",
+      "opts": [
+        "Only lenticulostriate branches of MCA",
+        "Posterior cerebral and superior cerebellar arteries",
+        "Striate branches of anterior cerebral, middle cerebral and direct branches from the internal carotid",
+        "Only the anterior choroidal artery"
+      ],
+      "ans": 2,
+      "exp": "Genu : Striate branches of Anterior cerebral, Middle cerebral and direct branches from Internal carotid (Book p677)"
+    },
+    {
+      "id": "MED-C53-69",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The large vessel named for capsular haemorrhage in the posterior-limb box is:",
+      "opts": [
+        "Recurrent artery of Heubner",
+        "Artery of Percheron",
+        "Inferior lenticular artery",
+        "Charcot artery of cerebral haemorrhage"
+      ],
+      "ans": 3,
+      "exp": "Posterior limb : Striate branches from Middle cerebral (including large Charcot artery of cerebral haemorrhage) and Anterior Choroidal (Book p677)"
+    },
+    {
+      "id": "MED-C53-70",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "oddoneout",
+      "q": "Which part of the capsule is NOT matched to its printed arterial source?",
+      "opts": [
+        "Retrolentiform part : middle cerebral striate branches",
+        "Posterior limb : anterior choroidal",
+        "Sublentiform part : posterior cerebral and anterior choroidal",
+        "Retrolentiform part : posterior cerebral"
+      ],
+      "ans": 0,
+      "exp": "Retrolentiform Part : Striate Branches from Posterior cerebral; Sublentiform Part : Striate Branches from Posterior cerebral and anterior choroidal (Book p677)"
+    },
+    {
+      "id": "MED-C53-71",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The diagram's annotation on retrolentiform injury reads:",
+      "opts": [
+        "Injury : no deficit",
+        "Injury : HHH triad, mild form, hemisensory loss predominant",
+        "Injury : pure motor hemiparesis",
+        "Injury : global aphasia"
+      ],
+      "ans": 1,
+      "exp": "Annotation : Injury : HHH triad — mild form, Hemisensory loss predominant (Book p677)"
+    },
+    {
+      "id": "MED-C53-72",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The artery labelled between the internal carotid and posterior cerebral systems on the left of the figure is the:",
+      "opts": [
+        "Posterior inferior cerebellar artery",
+        "Anterior spinal artery",
+        "Anterior choroidal artery",
+        "Recurrent artery of Heubner"
+      ],
+      "ans": 2,
+      "exp": "Figure labels : Anterior cerebral A.; Middle cerebral A.; Internal carotid A.; Anterior choroidal A.; Posterior cerebral A. (Book p677)"
+    },
+    {
+      "id": "MED-C53-73",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "Another supply line drawn to the posterior limb region in the upper diagram comes from:",
+      "opts": [
+        "Anterior spinal artery",
+        "Superior cerebellar artery",
+        "Recurrent meningeal artery",
+        "Branches from internal carotid and posterior communicating arteries"
+      ],
+      "ans": 3,
+      "exp": "Upper diagram : By branches from internal carotid & post. communicating arteries (Book p677)"
+    },
+    {
+      "id": "MED-C53-74",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "Which supply line is drawn to the capsule 'By striate branches of' which vessel?",
+      "opts": [
+        "Middle cerebral artery",
+        "Posterior cerebral artery",
+        "Anterior spinal artery",
+        "Vertebral artery"
+      ],
+      "ans": 0,
+      "exp": "Upper diagram : By striate branches of middle cerebral a. (Book p677)"
+    },
+    {
+      "id": "MED-C53-75",
+      "sec": "Capsular Blood Supply",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The anterior limb is also shown receiving fibres from which named branch of the ACA?",
+      "opts": [
+        "Callosomarginal branch",
+        "Recurrent branch of anterior cerebral artery",
+        "Orbital branch",
+        "Polar branch"
+      ],
+      "ans": 1,
+      "exp": "Upper diagram : By recurrent branch of anterior cerebral a. (Book p677)"
+    },
+    {
+      "id": "MED-C53-76",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The MCA segments labelled in the figure are:",
+      "opts": [
+        "P1, P2 and M3",
+        "A1, A2 and M1",
+        "Horizontal M1, Sylvian M2 and Cortical M3",
+        "M1 only"
+      ],
+      "ans": 2,
+      "exp": "Figure labels : horizontal M1; Sylvian M2; Cortical M3-segment (Book p677)"
+    },
+    {
+      "id": "MED-C53-77",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The two sets of small branches labelled rising from the M1 portion are the:",
+      "opts": [
+        "Anterior and posterior choroidal arteries",
+        "Striate branches of the ACA only",
+        "Recurrent meningeal arteries",
+        "Medial and lateral lenticulo-striate arteries"
+      ],
+      "ans": 3,
+      "exp": "Figure labels : Lenticulo-striate arteries — medial and lateral (Book p677)"
+    },
+    {
+      "id": "MED-C53-78",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The M2 annotation states that this segment supplies the:",
+      "opts": [
+        "Sylvian fissure",
+        "Medial occipital surface",
+        "Parahippocampal gyrus",
+        "Anterior perforated substance only"
+      ],
+      "ans": 0,
+      "exp": "M2 segment annotation : Supplies sylvian fissure (hand-written subscript read as M2) (Book p677)"
+    },
+    {
+      "id": "MED-C53-79",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "recall",
+      "q": "An infarct of the superior division of the M2 territory is printed as causing:",
+      "opts": [
+        "Pure motor hemiparesis",
+        "C/L hemiplegia with Broca's aphasia",
+        "Wernicke's aphasia without weakness",
+        "Global aphasia"
+      ],
+      "ans": 1,
+      "exp": "Superior division → Stroke → C/L Hemiplegia with Broca's aphasia (Book p677)"
+    },
+    {
+      "id": "MED-C53-80",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "recall",
+      "q": "The inferior division stroke is printed as:",
+      "opts": [
+        "Hemineglect without aphasia",
+        "Dysarthria-clumsy hand",
+        "Wernicke's aphasia without weakness",
+        "C/L hemiplegia with global aphasia"
+      ],
+      "ans": 2,
+      "exp": "M2 flowchart : Inferior division → Wernicke's aphasia without weakness (Book p677)"
+    },
+    {
+      "id": "MED-C53-81",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "scenario",
+      "q": "A patient speaks fluent jargon with poor comprehension and has normal power. Which division is implicated by the printed flowchart?",
+      "opts": [
+        "Superior division of the MCA",
+        "M1 lenticulostriate perforators",
+        "Anterior choroidal artery",
+        "Inferior division of the MCA"
+      ],
+      "ans": 3,
+      "exp": "Fluent comprehension-poor aphasia without weakness matches the inferior-division branch, since the superior-division branch adds C/L hemiplegia (Book p677)"
+    },
+    {
+      "id": "MED-C53-82",
+      "sec": "MCA Segments and Divisions",
+      "page": 677,
+      "fmt": "recall",
+      "q": "Involvement of both divisions produces:",
+      "opts": [
+        "C/L hemiplegia with global aphasia",
+        "Only transcortical motor aphasia",
+        "Pure sensory stroke",
+        "Locked-in syndrome"
+      ],
+      "ans": 0,
+      "exp": "Involvement of both division → C/L Hemiplegia with global aphasia (Book p677)"
+    },
+    {
+      "id": "MED-C53-83",
+      "sec": "MCA Segments and Divisions",
+      "page": 678,
+      "fmt": "oddoneout",
+      "q": "The M1 segment supplies all of the following EXCEPT the:",
+      "opts": [
+        "Putamen",
+        "Cerebellar hemisphere",
+        "Internal capsule",
+        "Caudate nucleus"
+      ],
+      "ans": 1,
+      "exp": "M1 segment Supplies : Internal capsule, Caudate nucleus, Putamen, Globus pallidus (Book p678)"
+    },
+    {
+      "id": "MED-C53-84",
+      "sec": "MCA Segments and Divisions",
+      "page": 678,
+      "fmt": "numeric",
+      "q": "The perforator vessels described for the M1 segment measure:",
+      "opts": [
+        "1-2 mm",
+        "500-900 µm",
+        "30-300 µm",
+        "1-5 µm"
+      ],
+      "ans": 2,
+      "exp": "Perforator vessels (30-300µm) (Book p678)"
+    },
+    {
+      "id": "MED-C53-85",
+      "sec": "MCA Segments and Divisions",
+      "page": 678,
+      "fmt": "recall",
+      "q": "Occlusion of the lenticulostriate arteries is shown to produce:",
+      "opts": [
+        "Cortical blindness",
+        "Acalculia",
+        "Gerstmann syndrome",
+        "Internal capsule stroke"
+      ],
+      "ans": 3,
+      "exp": "Lenticulostriate artery — Occlusion → Internal capsule stroke (Book p678)"
+    },
+    {
+      "id": "MED-C53-86",
+      "sec": "MCA Segments and Divisions",
+      "page": 678,
+      "fmt": "recall",
+      "q": "Internal capsule stroke from that occlusion is expanded into:",
+      "opts": [
+        "HHH triad + UMN 7th palsy + Parkinson features with B/L occlusion",
+        "Pure motor hemiparesis only",
+        "Global aphasia only",
+        "Ataxic hemiparesis only"
+      ],
+      "ans": 0,
+      "exp": "Internal capsule stroke → HHH triad + UMN 7th palsy + Parkinson features (B/L Occlusion) (Book p678)"
+    },
+    {
+      "id": "MED-C53-87",
+      "sec": "MCA Segments and Divisions",
+      "page": 678,
+      "fmt": "recall",
+      "q": "The perforator disease printed downstream of lipohyalinosis is:",
+      "opts": [
+        "Cortical laminar necrosis",
+        "Lacunar stroke presenting as pure motor hemiparesis",
+        "Hemorrhagic transformation",
+        "Watershed infarct"
+      ],
+      "ans": 1,
+      "exp": "Lipohyalinosis → Lacunar stroke — Pure motor hemiparesis (Book p678)"
+    },
+    {
+      "id": "MED-C53-88",
+      "sec": "MCA Segments and Divisions",
+      "page": 678,
+      "fmt": "scenario",
+      "q": "A chronic hypertensive smoker wakes with a pure motor hemiparesis and no cortical signs. Which printed mechanism fits?",
+      "opts": [
+        "A2 ACA occlusion",
+        "Posterior communicating artery aneurysm",
+        "Lipohyalinosis of 30-300 µm perforators giving a lacunar stroke",
+        "Occlusion of the M2 superior division"
+      ],
+      "ans": 2,
+      "exp": "Perforator vessels (30-300µm) → Lipohyalinosis → Lacunar stroke → Pure motor hemiparesis (Book p678)"
+    },
+    {
+      "id": "MED-C53-89",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "Complete MCA syndrome is defined as involvement of which segments?",
+      "opts": [
+        "M1 only",
+        "M2 and M3 only",
+        "P1 and P2",
+        "M1 + M2 + M3 segments"
+      ],
+      "ans": 3,
+      "exp": "Complete MCA Syndrome : Involvement of M1 + M2 + M3 Segment (Book p678)"
+    },
+    {
+      "id": "MED-C53-90",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "In complete MCA syndrome, the seventh nerve palsy appears:",
+      "opts": [
+        "Only if B/L corticobulbar involvement",
+        "Always, with aphasia",
+        "Never, it spares the face",
+        "Only with concomitant PCA occlusion"
+      ],
+      "ans": 0,
+      "exp": "Aphasia + 7th nerve palsy (Only if B/L Corticobulbar involvement) (Book p678)"
+    },
+    {
+      "id": "MED-C53-91",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "oddoneout",
+      "q": "The common feature shared by complete MCA syndrome and internal capsule lesions is:",
+      "opts": [
+        "Hemispatial neglect",
+        "The HHH triad",
+        "Agnosia",
+        "Dressing apraxia"
+      ],
+      "ans": 1,
+      "exp": "Common features : HHH triad (Book p678)"
+    },
+    {
+      "id": "MED-C53-92",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "The different-feature list for complete MCA syndrome includes:",
+      "opts": [
+        "Pure motor hemiparesis",
+        "Ataxic hemiparesis",
+        "Aphasia, agnosia, apraxia, LOC and seizure",
+        "Dense hemiplegia with UL = LL"
+      ],
+      "ans": 2,
+      "exp": "Complete MCA syndrome : Aphasia, Agnosia, Apraxia, LOC and seizure (Book p678)"
+    },
+    {
+      "id": "MED-C53-93",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "Against those cortical features, internal capsule lesions are printed as showing:",
+      "opts": [
+        "Agnosia and neglect",
+        "Global aphasia with seizure",
+        "Akinetic mutism",
+        "Dense hemiplegia with UL = LL"
+      ],
+      "ans": 3,
+      "exp": "Internal Capsule Lesions : Dense Hemiplegia (UL = LL) (Book p678)"
+    },
+    {
+      "id": "MED-C53-94",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "scenario",
+      "q": "A patient has dense equal arm and leg weakness with hemisensory loss and homonymous hemianopia but no aphasia, apraxia or neglect. Which column does the table support?",
+      "opts": [
+        "Internal capsule lesion",
+        "Complete MCA syndrome",
+        "ACA A2 occlusion",
+        "Lacunar pure motor stroke"
+      ],
+      "ans": 0,
+      "exp": "Internal Capsule Lesions : Dense Hemiplegia (UL = LL), versus the MCA column's aphasia, agnosia, apraxia, LOC and seizure (Book p678)"
+    },
+    {
+      "id": "MED-C53-95",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "The A1 segment of the ACA is defined as lying:",
+      "opts": [
+        "Within the sylvian fissure",
+        "Proximal to the anterior communicating artery",
+        "Distal to the anterior communicating artery",
+        "Distal to the posterior communicating artery"
+      ],
+      "ans": 1,
+      "exp": "A1 Segment : Proximal to Anterior communicating artery (Book p678)"
+    },
+    {
+      "id": "MED-C53-96",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "Structures supplied by A1 are listed as:",
+      "opts": [
+        "Globus pallidus and putamen only",
+        "Medial temporal lobe",
+        "Anterior hypothalamus, caudate lobe and the anterior limb of the internal capsule",
+        "Paracentral lobule and cingulate gyrus"
+      ],
+      "ans": 2,
+      "exp": "A1 structures supplied : Hypothalamus (Anterior hypothalamus), Caudate lobe (Antero-inferior part of Head of caudate), Internal capsule (Anterior limb) (Book p678)"
+    },
+    {
+      "id": "MED-C53-97",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "Occlusion of the A1 segment is printed as producing:",
+      "opts": [
+        "Akinetic mutism",
+        "Complete HHH triad",
+        "Contralateral hemiplegia LL > UL",
+        "No clinical symptoms, due to significant collaterals"
+      ],
+      "ans": 3,
+      "exp": "Occlusion of Segment → No clinical Symptoms (D/t presence of significant collaterals) (Book p678)"
+    },
+    {
+      "id": "MED-C53-98",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "The A2 segment is defined and supplied as:",
+      "opts": [
+        "Distal to the anterior communicating artery, supplying the medial cerebral surface, paracentral lobule and cingulate gyrus",
+        "Proximal to the anterior communicating artery, supplying the hypothalamus",
+        "Distal to the posterior communicating artery",
+        "Proximal to the posterior communicating artery"
+      ],
+      "ans": 0,
+      "exp": "A2 Segment : Distal to Anterior communicating artery — Structures supplied : medial Cerebral surface, Paracentral lobule, Cingulate gyrus (Book p678)"
+    },
+    {
+      "id": "MED-C53-99",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "The hemiplegia from A2 medial-surface involvement is printed as:",
+      "opts": [
+        "Bilateral UL = LL",
+        "C/L hemiplegia with LL > UL",
+        "C/L hemiplegia with UL > LL",
+        "Ipsilateral UL > LL"
+      ],
+      "ans": 1,
+      "exp": "medial Cerebral surface : C/L hemiplegia (LL > UL) (Book p678)"
+    },
+    {
+      "id": "MED-C53-100",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 678,
+      "fmt": "recall",
+      "q": "The A2 cingulate list is limited to which two features?",
+      "opts": [
+        "Hyperorality and hypermetamorphosis",
+        "Seizures and myoclonus",
+        "Apathy and abulia",
+        "Amotivation and akinetic mutism"
+      ],
+      "ans": 2,
+      "exp": "Cingulate gyrus — Apathy, Abulia (Book p678)"
+    },
+    {
+      "id": "MED-C53-101",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Gait apraxia with bilateral involvement is also seen in:",
+      "opts": [
+        "Idiopathic Parkinson's disease",
+        "Progressive supranuclear palsy only",
+        "Cerebellar degeneration only",
+        "Normal pressure hydrocephalus"
+      ],
+      "ans": 3,
+      "exp": "Gait apraxia (B/L involvement) : Also seen in Normal Pressure Hydrocephalus (Book p679)"
+    },
+    {
+      "id": "MED-C53-102",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The primitive-reflex line in these ACA notes prints:",
+      "opts": [
+        "Loss of C/L grasp and sucking reflex",
+        "Loss of corneal reflex",
+        "Brisk jaw jerk only",
+        "Positive palmomental with hyperreflexia"
+      ],
+      "ans": 0,
+      "exp": "Primitive reflex : loss of C/L grasp & sucking reflex (Book p679)"
+    },
+    {
+      "id": "MED-C53-103",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The P1 segment is defined as:",
+      "opts": [
+        "Within the calcarine sulcus only",
+        "Proximal to the posterior communicating artery",
+        "Distal to the posterior communicating artery",
+        "Proximal to the anterior communicating artery"
+      ],
+      "ans": 1,
+      "exp": "P1 Segment : Proximal to P. com (Book p679)"
+    },
+    {
+      "id": "MED-C53-104",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Structures supplied by P1 are listed as:",
+      "opts": [
+        "Pons and medulla",
+        "Cerebellum and vermis",
+        "Mid brain, subthalamus and thalamus",
+        "Occipital lobe and medial temporal lobe"
+      ],
+      "ans": 2,
+      "exp": "P1 Supplies : mid brain; Subthalamus; Thalamus (Book p679)"
+    },
+    {
+      "id": "MED-C53-105",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Visual agnosia and peduncular hallucinosis are placed in which structure's involvement?",
+      "opts": [
+        "Occipital lobe involvement",
+        "P1 midbrain involvement",
+        "Splenium of the corpus callosum only",
+        "Medial temporal involvement of P2"
+      ],
+      "ans": 3,
+      "exp": "medial-Temporal — Involvement : Visual agnosia; Peduncular hallucinosis (Complex visual hallucination) (Book p679)"
+    },
+    {
+      "id": "MED-C53-106",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Peduncular hallucinosis is described as:",
+      "opts": [
+        "Complex visual hallucination",
+        "Auditory hallucination",
+        "Tactile formication",
+        "Visual illusion of movement only"
+      ],
+      "ans": 0,
+      "exp": "Peduncular hallucinosis (Complex visual hallucination) (Book p679)"
+    },
+    {
+      "id": "MED-C53-107",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "oddoneout",
+      "q": "Alexia without agraphia in this list is attributed to involvement of the:",
+      "opts": [
+        "Lateral geniculate body",
+        "Splenium",
+        "Hippocampus",
+        "Fusiform gyrus"
+      ],
+      "ans": 1,
+      "exp": "Splenium : Alexia without agraphia (Book p679)"
+    },
+    {
+      "id": "MED-C53-108",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Memory disturbance after a P2 lesion is attributed to the:",
+      "opts": [
+        "Mammillary body",
+        "Dorsomedial thalamic nucleus",
+        "Hippocampus",
+        "Amygdala only"
+      ],
+      "ans": 2,
+      "exp": "Hippocampal involvement in the medial-temporal list produces memory disturbances (Book p679)"
+    },
+    {
+      "id": "MED-C53-109",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The occipital-lobe involvement characteristic of a P2 lesion prints:",
+      "opts": [
+        "Bitemporal hemianopia",
+        "Altitudinal defect with pupils fixed",
+        "Cortical blindness with normal fundus only",
+        "C/L homonymous hemianopia, congruent, with macular sparing"
+      ],
+      "ans": 3,
+      "exp": "Occipital lobe involvement (characteristic of P2 lesion) : C/L homonymous hemianopia (congruent hemianopia); macular sparing (Book p679)"
+    },
+    {
+      "id": "MED-C53-110",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The hemianopia of a P2 occipital lesion is qualified as:",
+      "opts": [
+        "Congruent",
+        "Non-congruent",
+        "Alternating",
+        "Quadrantic only"
+      ],
+      "ans": 0,
+      "exp": "(congruent hemianopia) (Book p679)"
+    },
+    {
+      "id": "MED-C53-111",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Bilateral involvement producing cortical blindness with pupillary sparing is called:",
+      "opts": [
+        "Charles Bonnet syndrome",
+        "Anton syndrome",
+        "Balint's syndrome",
+        "Kluver-Bucy syndrome"
+      ],
+      "ans": 1,
+      "exp": "Anton syndrome : Cortical blindness with pupillary sparing (Book p679)"
+    },
+    {
+      "id": "MED-C53-112",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "oddoneout",
+      "q": "Which feature is NOT in the printed Balint syndrome list?",
+      "opts": [
+        "Oculomotor apraxia",
+        "Simultanagnosia",
+        "Oscillopsia from nystagmus",
+        "Optic ataxia"
+      ],
+      "ans": 2,
+      "exp": "Balint's syndrome : Optic ataxia (Overshooting of visual field); Oculomotor apraxia; Simultanagnosia (missing forest for the trees); Palinopsia (Book p679)"
+    },
+    {
+      "id": "MED-C53-113",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Simultanagnosia is glossed in the book as:",
+      "opts": [
+        "Seeing objects doubled",
+        "Inability to recognize faces",
+        "Loss of colour perception",
+        "Missing the forest for the trees"
+      ],
+      "ans": 3,
+      "exp": "Simultanagnosia (missing forest for the trees) (Book p679)"
+    },
+    {
+      "id": "MED-C53-114",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Palinopsia is defined on this page as:",
+      "opts": [
+        "Abnormal persistence of an image in time",
+        "Persistent oscillopsia",
+        "Loss of colour vision afterimage",
+        "Illusory visual spread"
+      ],
+      "ans": 0,
+      "exp": "Palinopsia (Abnormal persistence of an image in time) (Book p679)"
+    },
+    {
+      "id": "MED-C53-115",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The note at the foot of the PCA list assigns ataxia with agraphia to:",
+      "opts": [
+        "Dejerine-Roussy syndrome",
+        "Gerstmann syndrome",
+        "Balint syndrome",
+        "Anton syndrome"
+      ],
+      "ans": 1,
+      "exp": "Note : Ataxia with agraphia : Gerstmann syndrome (Book p679)"
+    },
+    {
+      "id": "MED-C53-116",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "scenario",
+      "q": "A patient denies blindness yet collides with furniture; pupils react normally and fundus is normal. Which printed PCA syndrome fits, and how?",
+      "opts": [
+        "Dejerine-Roussy syndrome of the thalamus",
+        "P1 midbrain infarct with vertical gaze palsy",
+        "Anton syndrome, from bilateral P2 involvement causing cortical blindness with pupillary sparing",
+        "Balint syndrome, from unilateral occipital involvement"
+      ],
+      "ans": 2,
+      "exp": "a. B/L involvement → Anton syndrome : Cortical blindness with pupillary sparing (Book p679)"
+    },
+    {
+      "id": "MED-C53-117",
+      "sec": "PCA Segments and Syndromes",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Macular sparing in a P2 occipital lesion is listed alongside which defect?",
+      "opts": [
+        "Bitemporal hemianopia",
+        "Monocular transient blindness",
+        "Enlarged blind spot",
+        "Contralateral congruent homonymous hemianopia"
+      ],
+      "ans": 3,
+      "exp": "C/L homonymous hemianopia (congruent hemianopia) with macular sparing (Book p679)"
+    },
+    {
+      "id": "MED-C53-118",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The four posterior-circulation schematics are labelled:",
+      "opts": [
+        "Type I, Type IIA, Type IIB and Type III",
+        "Type A to Type D",
+        "Variant 1 to Variant 4",
+        "Group I to Group IV"
+      ],
+      "ans": 0,
+      "exp": "SYNDROMES : Types of posterior circulation — Type I, Type IIA, Type IIB, Type III (Book p679)"
+    },
+    {
+      "id": "MED-C53-119",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The variant that carries the named thalamic perforator annotation is:",
+      "opts": [
+        "Type III",
+        "Type IIB",
+        "Type I",
+        "Type IIA"
+      ],
+      "ans": 1,
+      "exp": "Type IIB is the diagram annotated with 1. Artery of percheron (AOP) (Book p679)"
+    },
+    {
+      "id": "MED-C53-120",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "AOP abbreviates which artery in this figure?",
+      "opts": [
+        "Artery of the posterior choroid",
+        "Anterior olfactory peduncle",
+        "Artery of percheron",
+        "Anterior occipital perforator"
+      ],
+      "ans": 2,
+      "exp": "1. Artery of percheron (AOP) (Book p679)"
+    },
+    {
+      "id": "MED-C53-121",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The printed triad of artery-of-Percheron infarct is:",
+      "opts": [
+        "Aphasia, hemiplegia and hemianopia",
+        "Ataxia, nystagmus and vertigo",
+        "Burning pain, allodynia and hyperpathia",
+        "Drowsy/confusion, vertical gaze palsy and memory disturbance"
+      ],
+      "ans": 3,
+      "exp": "Artery of percheron → Infarct → Triad : Drowsy/confusion, vertical gaze palsy, memory disturbance (Book p679)"
+    },
+    {
+      "id": "MED-C53-122",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "oddoneout",
+      "q": "Which element is NOT part of the Percheron triad?",
+      "opts": [
+        "Horizontal gaze palsy",
+        "Drowsiness or confusion",
+        "Vertical gaze palsy",
+        "Memory disturbance"
+      ],
+      "ans": 0,
+      "exp": "Triad lists Drowsy/confusion, vertical gaze palsy and memory disturbance (Book p679)"
+    },
+    {
+      "id": "MED-C53-123",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "Dejerine-Roussy syndrome is otherwise printed as:",
+      "opts": [
+        "Thalamic pain of syringomyelia",
+        "Burning hand syndrome",
+        "Shoulder-hand syndrome of reflex dystrophy",
+        "Cheiro-oral syndrome"
+      ],
+      "ans": 1,
+      "exp": "2. Dejerine Roussy syndrome : AKA burning hand syndrome (Book p679)"
+    },
+    {
+      "id": "MED-C53-124",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The occluded vessel in Dejerine-Roussy syndrome is the:",
+      "opts": [
+        "Anterior choroidal artery",
+        "Recurrent artery of Heubner",
+        "Thalamogeniculate artery",
+        "Thalamoperforating artery"
+      ],
+      "ans": 2,
+      "exp": "Thalamogeniculate artery occlusion (Book p679)"
+    },
+    {
+      "id": "MED-C53-125",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "scenario",
+      "q": "Six weeks after a posterior-cerebral territory infarct a patient reports agonising burning pain over the whole right half of the body. Which printed mechanism and vessel apply?",
+      "opts": [
+        "Artery of Percheron infarct with vertical gaze palsy",
+        "Lateral medullary spinothalamic infarct",
+        "Capsular genu corticobulbar lesion",
+        "Dejerine-Roussy syndrome from thalamogeniculate artery occlusion"
+      ],
+      "ans": 3,
+      "exp": "Dejerine Roussy syndrome : AKA burning hand syndrome; Thalamogeniculate artery occlusion; Features : C/L hemisensory loss, Burning pain in UL & LL (Book p679)"
+    },
+    {
+      "id": "MED-C53-126",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The axial MRI on this page is captioned:",
+      "opts": [
+        "Dejerine Roussy syndrome",
+        "Artery of Percheron infarct",
+        "Anton syndrome",
+        "Watershed infarct"
+      ],
+      "ans": 0,
+      "exp": "Image caption : Dejerine Roussy syndrome (Book p679)"
+    },
+    {
+      "id": "MED-C53-127",
+      "sec": "Posterior Circulation Variants",
+      "page": 679,
+      "fmt": "recall",
+      "q": "The PCA branch point used to define P1 and P2 segments is the:",
+      "opts": [
+        "Basilar tip bifurcation only",
+        "Posterior communicating artery",
+        "Anterior choroidal artery",
+        "Superior cerebellar artery"
+      ],
+      "ans": 1,
+      "exp": "P1 : Proximal to P. com and P2 : Distal to P. com — the posterior communicating artery is the landmark (Book p679)"
+    },
+    {
+      "id": "MED-C53-128",
+      "sec": "Watershed Territories",
+      "page": 680,
+      "fmt": "recall",
+      "q": "The three border zones labelled on the schematic are:",
+      "opts": [
+        "Subcortical U-fibre, callosal and fornical zones",
+        "Striotegmental, periventricular and hippocampal zones",
+        "Cortical border zone between ACA and MCA, internal border zone between LCA and MCA, cortical border zone between MCA and PCA",
+        "Anterior, middle and posterior choroidal zones"
+      ],
+      "ans": 2,
+      "exp": "Schematic labels : Cortical border zone between ACA and MCA; Internal border zone between LCA and MCA; Cortical border zone between MCA and PCA (Book p680)"
+    },
+    {
+      "id": "MED-C53-129",
+      "sec": "Watershed Territories",
+      "page": 680,
+      "fmt": "recall",
+      "q": "The printed general property of watershed areas is that they are:",
+      "opts": [
+        "Resistant to ischaemia",
+        "Supplied only by the PCA",
+        "Never affected by hypotension",
+        "Prone to infarct"
+      ],
+      "ans": 3,
+      "exp": "Watershed areas prone to infarct (Book p680)"
+    },
+    {
+      "id": "MED-C53-130",
+      "sec": "Watershed Territories",
+      "page": 680,
+      "fmt": "oddoneout",
+      "q": "Which is NOT among the printed predisposing conditions?",
+      "opts": [
+        "Severe hypertension with hypertensive encephalopathy",
+        "Hypoalbuminemia",
+        "Sudden hypotension",
+        "Dehydration"
+      ],
+      "ans": 0,
+      "exp": "Predisposing conditions : Hypoalbuminemia, Sudden Hypotension, Dehydration (Adequate hydration of patient) (Book p680)"
+    },
+    {
+      "id": "MED-C53-131",
+      "sec": "Watershed Territories",
+      "page": 680,
+      "fmt": "recall",
+      "q": "The parenthetical printed with dehydration is:",
+      "opts": [
+        "Rapid normal-saline bolus only",
+        "Adequate hydration of patient",
+        "Aggressive diuresis",
+        "Hypotonic fluid restriction"
+      ],
+      "ans": 1,
+      "exp": "Dehydration (Adequate hydration of patient) (Book p680)"
+    },
+    {
+      "id": "MED-C53-132",
+      "sec": "Watershed Territories",
+      "page": 680,
+      "fmt": "recall",
+      "q": "The watershed images are arranged as:",
+      "opts": [
+        "Two coronal sections only",
+        "One axial CT without contrast",
+        "A top row of three axial FLAIR panels and a lower row of three diffusion panels",
+        "A single sagittal T1 image"
+      ],
+      "ans": 2,
+      "exp": "Panel letters a-d top row and b-d lower row illustrate the border-zone hyperintensities (Book p680)"
+    },
+    {
+      "id": "MED-C53-133",
+      "sec": "Watershed Territories",
+      "page": 680,
+      "fmt": "scenario",
+      "q": "A dialysis patient becomes acutely hypotensive and afterwards has bilateral arm-girdle weakness with border-zone hyperintensities on FLAIR. Which printed combination fits?",
+      "opts": [
+        "Lacunar infarct from lipohyalinosis",
+        "Complete MCA syndrome involving M1 to M3",
+        "Dejerine-Roussy syndrome from thalamogeniculate occlusion",
+        "Watershed infarct predisposed by sudden hypotension and dehydration in the cortical border zone between ACA and MCA"
+      ],
+      "ans": 3,
+      "exp": "Watershed areas prone to infarct; Predisposing conditions : Sudden Hypotension, Dehydration, Hypoalbuminemia; cortical border zone between ACA and MCA is labelled (Book p680)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U53-1",
+      "ch": 53,
+      "n": 1,
+      "title": "1. Blood Supply of the Brain and the Circle of Willis",
+      "sec": "Carotid Terminal Branches and Circle of Willis",
+      "guide": "The anterior circulation figure traces the brachiocephalic trunk to the right common carotid and the right internal carotid artery, with the basilar, vertebral, subclavian and posterior communicating arteries and the C1-C6 levels all labelled, and gives the terminal branches of the internal carotid artery under the mnemonic OPAAm.\nThose branches are the ophthalmic artery, posterior communicating artery, anterior choroidal artery, anterior cerebral artery and middle cerebral artery.\nThe circle-of-Willis diagram then names the A1 and A2 segments of the ACA around the anterior communicating artery, the MCA, anterior choroidal and posterior communicating arteries at the ICA, and the P1 and P2 segments of the posterior cerebral artery on the basilar artery with its superior cerebellar, pontine, anterior inferior cerebellar and posterior inferior cerebellar branches, the vertebral arteries and the anterior spinal artery.",
+      "qs": [
+        "MED-C53-01",
+        "MED-C53-02",
+        "MED-C53-03",
+        "MED-C53-04",
+        "MED-C53-05",
+        "MED-C53-06",
+        "MED-C53-07",
+        "MED-C53-08",
+        "MED-C53-09",
+        "MED-C53-10",
+        "MED-C53-11",
+        "MED-C53-12",
+        "MED-C53-13",
+        "MED-C53-14",
+        "MED-C53-15"
+      ]
+    },
+    {
+      "id": "MED-U53-2",
+      "ch": 53,
+      "n": 2,
+      "title": "2. Blood Supply of the Surface of the Brain",
+      "sec": "Cortical Territories",
+      "guide": "The three colour-coded brain diagrams shade the anterior, middle and posterior cerebral artery territories over the superolateral, medial and inferior surfaces.\nIn the ACA-MCA-PCA table the ACA supplies most of the medial surface with the paracentral lobule, cingulate gyrus and a narrow strip of cortex along the superomedial border; the MCA supplies most of the superolateral surface including most of the primary motor and sensory areas, the frontal eye field, Broca's and Wernicke's areas in the dominant hemisphere and the temporal pole; the PCA supplies most of the inferior surface except the temporal pole.",
+      "qs": [
+        "MED-C53-16",
+        "MED-C53-17",
+        "MED-C53-18",
+        "MED-C53-19",
+        "MED-C53-20",
+        "MED-C53-21",
+        "MED-C53-22",
+        "MED-C53-23",
+        "MED-C53-24",
+        "MED-C53-25",
+        "MED-C53-26"
+      ]
+    },
+    {
+      "id": "MED-U53-3",
+      "ch": 53,
+      "n": 3,
+      "title": "3. ACA, MCA and PCA Injury Features",
+      "sec": "Injury Syndromes of the Three Arteries",
+      "guide": "ACA injury gives weakness that is LL greater than UL, urinary incontinence from paracentral lobule involvement, and the cingulate gyrus picture of apathy as the mild form, abulia, amotivation and akinetic mutism as the severe form.\nMCA injury gives UL greater than LL weakness, temporal-pole involvement with macular involvement, and a cortical aphasia pairing Broca's area in the inferior frontal gyrus with Wernicke's area in the superior temporal gyrus, in contrast to internal capsule lesions where there is no aphasia.\nPCA injury produces contralateral homonymous hemianopia with macular sparing from visual-area damage.",
+      "qs": [
+        "MED-C53-27",
+        "MED-C53-28",
+        "MED-C53-29",
+        "MED-C53-30",
+        "MED-C53-31",
+        "MED-C53-32",
+        "MED-C53-33",
+        "MED-C53-34",
+        "MED-C53-35",
+        "MED-C53-36",
+        "MED-C53-37",
+        "MED-C53-38",
+        "MED-C53-39",
+        "MED-C53-40"
+      ]
+    },
+    {
+      "id": "MED-U53-4",
+      "ch": 53,
+      "n": 4,
+      "title": "4. Parts of the Internal Capsule and Their Fibre Content",
+      "sec": "Internal Capsule Anatomy",
+      "guide": "The internal capsule is drawn between the caudate head, lentiform nucleus and thalamus, with the genu carrying the corticobulbar tract, the anterior limb the anterior thalamic radiation and frontopontine and other corticofugal fibres, and the posterior limb the corticospinal tract with superior thalamic, auditory and optic radiations around the medial and lateral geniculate nuclei; the corona radiata, caudate, putamen, globus pallidus and thalamus are labelled on the coronal section.\nThe parts list assigns frontopontine fibres with lacunar strokes and cerebellar involvement to the anterior limb, corticospinal fibres for head and neck with predominant corticobulbar fibres to the genu, the corticospinal tract in the anterior two-thirds of the posterior limb with UL equal to LL weakness and corticorubral fibres, the posterior thalamic optic radiation to the retrolentiform part and the inferior thalamic auditory radiation to the sublentiform part.",
+      "qs": [
+        "MED-C53-41",
+        "MED-C53-42",
+        "MED-C53-43",
+        "MED-C53-44",
+        "MED-C53-45",
+        "MED-C53-46",
+        "MED-C53-47",
+        "MED-C53-48",
+        "MED-C53-49",
+        "MED-C53-50",
+        "MED-C53-51",
+        "MED-C53-52",
+        "MED-C53-53",
+        "MED-C53-54",
+        "MED-C53-55",
+        "MED-C53-56"
+      ]
+    },
+    {
+      "id": "MED-U53-5",
+      "ch": 53,
+      "n": 5,
+      "title": "5. Corticobulbar Injury Patterns, Capsular Notes and the HHH Triad",
+      "sec": "Corticobulbar Patterns and the HHH Triad",
+      "guide": "Unilateral corticobulbar injury produces no cranial nerve palsy because of bilateral cortical innervation, except a contralateral upper-motor-neuron seventh palsy due to its contralateral supply, while bilateral corticobulbar injury gives pseudobulbar palsy as seen in ALS or motor neuron disease; a dense capsular lesion causes contralateral facial palsy with hemiplegia.\nAn internal capsule lesion is printed as the HHH triad of hemiplegia that is dense with UL equal to LL and a contralateral UMN seventh palsy, hemisensory loss, and homonymous hemianopia, and the closing note separates MCA involvement with UL greater than LL, ACA involvement with LL greater than UL, and posterior-limb weakness with UL equal to LL.",
+      "qs": [
+        "MED-C53-57",
+        "MED-C53-58",
+        "MED-C53-59",
+        "MED-C53-60",
+        "MED-C53-61",
+        "MED-C53-62",
+        "MED-C53-63",
+        "MED-C53-64",
+        "MED-C53-65",
+        "MED-C53-66"
+      ]
+    },
+    {
+      "id": "MED-U53-6",
+      "ch": 53,
+      "n": 6,
+      "title": "6. Arterial Supply of the Internal Capsule",
+      "sec": "Capsular Blood Supply",
+      "guide": "The upper diagram lists four supply lines: striate branches of the middle cerebral artery, the recurrent branch of the anterior cerebral artery, branches from the internal carotid and posterior communicating arteries, and the anterior choroidal artery, with the annotation that retrolentiform injury gives a mild HHH triad in which hemisensory loss predominates.\nThe boxed anterior limb is supplied by anterior cerebral striate branches, including the longest branch, the recurrent artery of Heubner, together with middle cerebral branches; the genu receives anterior and middle cerebral striate branches plus direct internal carotid branches.\nThe posterior limb is supplied by middle cerebral striate branches including the large Charcot artery of cerebral haemorrhage and by the anterior choroidal artery, while the sublentiform part takes posterior cerebral and anterior choroidal branches and the retrolentiform part takes posterior cerebral branches only.",
+      "qs": [
+        "MED-C53-67",
+        "MED-C53-68",
+        "MED-C53-69",
+        "MED-C53-70",
+        "MED-C53-71",
+        "MED-C53-72",
+        "MED-C53-73",
+        "MED-C53-74",
+        "MED-C53-75"
+      ]
+    },
+    {
+      "id": "MED-U53-7",
+      "ch": 53,
+      "n": 7,
+      "title": "7. MCA Segments, Sylvian Divisions and Lenticulostriate Occlusion",
+      "sec": "MCA Segments and Divisions",
+      "guide": "The MCA figure labels the horizontal M1, sylvian M2 and cortical M3 segments with the medial and lateral lenticulo-striate arteries against the putamen, globus pallidus, internal capsule and caudate head.\nThe M2 annotation supplies the sylvian fissure and splits into a superior division whose stroke causes contralateral hemiplegia with Broca's aphasia and an inferior division whose stroke causes Wernicke's aphasia without weakness, while both divisions together give contralateral hemiplegia with global aphasia.\nThe M1 segment supplies the internal capsule, caudate nucleus, putamen and globus pallidus through lenticulostriate arteries and 30-300 micrometre perforators; occlusion gives internal capsule stroke with the HHH triad plus a UMN seventh palsy and parkinsonian features when bilateral, and lipohyalinosis of the perforators gives lacunar stroke with pure motor hemiparesis.",
+      "qs": [
+        "MED-C53-76",
+        "MED-C53-77",
+        "MED-C53-78",
+        "MED-C53-79",
+        "MED-C53-80",
+        "MED-C53-81",
+        "MED-C53-82",
+        "MED-C53-83",
+        "MED-C53-84",
+        "MED-C53-85",
+        "MED-C53-86",
+        "MED-C53-87",
+        "MED-C53-88"
+      ]
+    },
+    {
+      "id": "MED-U53-8",
+      "ch": 53,
+      "n": 8,
+      "title": "8. Complete MCA Syndrome versus Capsular Lesions, and the ACA Segments",
+      "sec": "Complete MCA Syndrome and the ACA",
+      "guide": "Complete MCA syndrome follows involvement of the M1, M2 and M3 segments, giving aphasia with a seventh nerve palsy only if corticobulbar involvement is bilateral, plus the HHH triad; the comparison table keeps the HHH triad as the common feature but separates the cortical syndrome by aphasia, agnosia, apraxia, loss of consciousness and seizures, with non-dominant unstructured dressing apraxia and hemispatial neglect, against the dense hemiplegia with UL equal to LL of a capsular lesion.\nThe ACA splits at the anterior communicating artery: the A1 segment proximal to it supplies the anterior hypothalamus, caudate lobe and anterior limb of the internal capsule and, because of significant collaterals, its occlusion produces no clinical symptoms, while the A2 segment distal to it supplies the medial cerebral surface with contralateral hemiplegia worse in the leg, the paracentral lobule with urinary incontinence and the cingulate gyrus with apathy and abulia.",
+      "qs": [
+        "MED-C53-89",
+        "MED-C53-90",
+        "MED-C53-91",
+        "MED-C53-92",
+        "MED-C53-93",
+        "MED-C53-94",
+        "MED-C53-95",
+        "MED-C53-96",
+        "MED-C53-97",
+        "MED-C53-98",
+        "MED-C53-99",
+        "MED-C53-100",
+        "MED-C53-101",
+        "MED-C53-102"
+      ]
+    },
+    {
+      "id": "MED-U53-9",
+      "ch": 53,
+      "n": 9,
+      "title": "9. PCA Segments, Unilateral and Bilateral Involvement",
+      "sec": "PCA Segments and Syndromes",
+      "guide": "The PCA is divided at the posterior communicating artery into a P1 segment supplying the midbrain, subthalamus and thalamus, and a P2 segment whose unilateral involvement produces the medial-temporal picture of visual agnosia, peduncular hallucinosis, alexia without agraphia from splenium involvement and memory disturbance from the hippocampus, and occipital involvement giving congruent contralateral homonymous hemianopia with macular sparing.\nBilateral P2 involvement produces Anton syndrome of cortical blindness with pupillary sparing and Balint syndrome of optic ataxia, oculomotor apraxia, simultanagnosia and palinopsia, and a note separates ataxia with agraphia as Gerstmann syndrome.",
+      "qs": [
+        "MED-C53-103",
+        "MED-C53-104",
+        "MED-C53-105",
+        "MED-C53-106",
+        "MED-C53-107",
+        "MED-C53-108",
+        "MED-C53-109",
+        "MED-C53-110",
+        "MED-C53-111",
+        "MED-C53-112",
+        "MED-C53-113",
+        "MED-C53-114",
+        "MED-C53-115",
+        "MED-C53-116",
+        "MED-C53-117"
+      ]
+    },
+    {
+      "id": "MED-U53-10",
+      "ch": 53,
+      "n": 10,
+      "title": "10. Types of Posterior Circulation, Artery of Percheron and Dejerine-Roussy Syndrome",
+      "sec": "Posterior Circulation Variants",
+      "guide": "Four schematic types of posterior circulation are drawn, each labelling the midbrain, both thalami, the posterior cerebral artery and the basilar artery, with type IIB showing the artery of Percheron.\nInfarction of that single thalamic perforator is printed as a triad of drowsiness or confusion, vertical gaze palsy and memory disturbance.\nDejerine-Roussy syndrome, the burning hand syndrome from thalamogeniculate artery occlusion, produces contralateral hemisensory loss with burning pain in the upper and lower limb, illustrated by the axial MRI captioned for that syndrome.",
+      "qs": [
+        "MED-C53-118",
+        "MED-C53-119",
+        "MED-C53-120",
+        "MED-C53-121",
+        "MED-C53-122",
+        "MED-C53-123",
+        "MED-C53-124",
+        "MED-C53-125",
+        "MED-C53-126",
+        "MED-C53-127"
+      ]
+    },
+    {
+      "id": "MED-U53-11",
+      "ch": 53,
+      "n": 11,
+      "title": "11. Watershed Territories and Their Predisposing Conditions",
+      "sec": "Watershed Territories",
+      "guide": "The watershed panel of axial FLAIR and diffusion images is set against a schematic that labels the cortical border zone between the ACA and MCA, the internal border zone between the lenticulostriate circulation, printed as LCA, and the MCA, and the cortical border zone between the MCA and PCA.\nWatershed areas are stated to be prone to infarct, with predisposing conditions of hypoalbuminaemia, sudden hypotension and dehydration, alongside the printed reminder to maintain adequate hydration of the patient.",
+      "qs": [
+        "MED-C53-128",
+        "MED-C53-129",
+        "MED-C53-130",
+        "MED-C53-131",
+        "MED-C53-132",
+        "MED-C53-133"
+      ]
+    }
+  ]
+}

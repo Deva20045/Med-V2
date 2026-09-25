@@ -1,14 +1,34 @@
 # PULSE Medicine Vol 2 — Progress
 
-Updated **2026-09-25**. Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
+Updated **2026-09-25** (Chapters 51–54 shipped). Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0d7b2-med-v2`
+- Session branch: `arena/01a0d7cd-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 50 live chapters / 57 · 2617 questions / 225 units.** Chapters 51–57 remain `live:false`.
+- **Build status: 54 live chapters / 57 · 3096 questions / 263 units.** Chapters 55–57 remain `live:false`.
 
-## This release — Chapters 48 to 50
+## This release — Chapters 51 to 54
+
+Four consecutive neurology chapters — Diseases of Spinal Cord, Multiple Sclerosis, Vascular Anatomy of Brain and Approach to UMN Lesion — were rendered line-to-line from `uploads/04.pdf` at 3× (PDF35–60 = Book p660–685, all 26 sheets upright portrait, no rotation needed), source-ordered and made live. This completes the spinal-cord-disease → demyelination → cerebral-vascular → UMN-lesion block and leaves only the stroke chapters (p686–702) unread.
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 51 | Diseases of Spinal Cord | 660–667 | 154 | 9 |
+| 52 | Multiple Sclerosis | 668–673 | 99 | 9 |
+| 53 | Vascular Anatomy of Brain | 674–680 | 133 | 11 |
+| 54 | Approach to UMN Lesion | 681–685 | 93 | 9 |
+| **Release total** |  | **26 book pages** | **479** | **38** |
+
+### Quality and ordering contract delivered
+
+1. All 26 pages were read top-to-bottom in printed order at 3× (`.audit-render/r04_35_3x.png` … `r04_60_3x.png`), because the scan has no text layer; a 4× RapidOCR pass (`tools/ocr_pages.py`, `.audit-render/ocr_0435.txt` … `ocr_0460.txt`) served only as a mechanical first pass and every numeric, abbreviation and table cell was confirmed visually, with 6× crops used to settle the p664 conus/cauda involvement cells, the p674 "OPAAm" mnemonic line and the handwritten p677 "M2 SEGMENT" heading. Visual extraction covered every heading, table cell, flowchart arm, arterial and tract diagram label, MRI-panel caption, photograph caption, numeric dose/percentage/root value, lecture timer, note and mnemonic in exact book order. Verified page map: 04.pdf PDF35 = p660 Ch51 start, PDF42 = p667 Ch51 end, PDF43 = p668 Ch52 start, PDF48 = p673 Ch52 end, PDF49 = p674 Ch53 start, PDF55 = p680 Ch53 end, PDF56 = p681 Ch54 start, PDF60 = p685 Ch54 end, PDF61 = p686 Ch55 title page ("APPROACH TO STROKE"). No sheets missing in p660–685.
+2. Chapters 51–54 add **667 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **3392 mappings** for Chapters 2–54; `tools/generate_ch51_54.py` regenerates all four chapter files and appends the ledger idempotently, and every ledger point resolves to exactly one question.
+3. Questions use no fill-up, matching or true/false worksheets and no predictable stems; only recall, scenario, numeric, oddoneout and management formats are used, with plausible medical distractors and reasoning-first stems (Ch51 113/21/9/10/1, Ch52 62/19/5/10/3, Ch53 103/15/12/3, Ch54 65/10/8/9/1 for recall/oddoneout/scenario/numeric/management). Printed quirks (`IVDP (m/c)`, conus `C1` for the coccygeal segment, `FRATAXIN (Chr 9)`, `Diabetic mellitus`, `Ta-weighted`, `myelin oligo dendrocyte glycoprotein (MOAP)`, `Loss of tone … spasticity`, `unstructured/ dressing apraxia`, `Posterior cerebreal artery (PCA)`, `Middle 3/5th`, `Corticorubral fibers`, `30-300µm`, `Type IIB / Artery of percheron (AOP)`, `Anterior a/3 of Post limb`) are quoted as printed and qualified in the audit. A word-overlap key audit over all 479 questions flagged ten answer keys whose correct option did not match the printed sentence (upper-half vs lower-half facial weakness, largest fibre share, velocity/length dependence, elbow and knee posture, cord-lesion laterality, homunculus artery, PCA field defect, corticospinal function list); all ten were corrected in the generator, not patched in the JSON.
+4. IDs are sequential `MED-C51-01..154`, `MED-C52-01..99`, `MED-C53-01..133`, `MED-C54-01..93`; question arrays are strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation.
+5. All four chapters are embedded in the standalone app and live flags for 51–54 are set; 54/57 roadmap chapters are now live with 3096 questions and 263 units.
+
+## Previous release — Chapters 48 to 50
 
 Three consecutive neurology chapters — Myasthenia Gravis, Amyotrophic Lateral Sclerosis and Anatomy of Spinal Cord — were rendered line-to-line from `uploads/04.pdf` at 3× (PDF21–34 = Book p646–659; PDF27 = p652 is a landscape sheet read upright via a 90° CCW prerotate), source-ordered and made live. This completes the MG–ALS–spinal-cord-anatomy block.
 

@@ -316,12 +316,45 @@ Chapter spans: Ch42 p618–623 = 03.pdf PDF54–59 · Ch43 p624–626 = 03.pdf P
 | 32 | 657 | Verified (remaining ascending tracks, lateral CST, rubrospinal / decorticate-decerebrate) |
 | 33 | 658 | Verified (ventral tracts, Brown-Sequard, blood-supply figure) |
 | 34 | 659 | Verified (vertebral origin, Adamkiewicz, ASA thrombosis, denticulate ligament; Ch50 end) |
-| 35–76 | 660 onward | Not read in this session (Ch51 onward starts at p660 per roadmap) |
+| 35 | 660 | Verified (Ch51 "DISEASES OF SPINAL CORD" title page, myelopathy types, compressive compartments, cord-tumour figures) |
+| 36 | 661 | Verified (clinical features, neurogenic vs vascular claudication table, examination findings) |
+| 37 | 662 | Verified (level localization, Beevor's sign, intramedullary vs extramedullary table) |
+| 38 | 663 | Verified (mid-thoracic cord cross-section, root pain vs Lhermitte table, CTLS lamination bullets) |
+| 39 | 664 | Verified (conus vs cauda equina table, epiconus, VITAMIN causes of non-compressive myelopathy) |
+| 40 | 665 | Verified (infection/neoplasia, ATM definition, principal dermatomes table, ATM causes and features) |
+| 41 | 666 | Verified (ATM vs GBS points, MRI figures, investigations, steroid/plasma-exchange ladder, SACD progression) |
+| 42 | 667 | Verified (Friedreich's ataxia with MRI panels, non-neurological list, Tabes dorsalis start; Ch51 end) |
+| 43 | 668 | Verified (Ch52 "MULTIPLE SCLEROSIS" title page, demyelinating list, MS definition columns, features, risk factors, pathogenesis, BBB figure) |
+| 44 | 669 | Verified (disease-pattern curves, major/minor features, other presentations, McDonald criteria) |
+| 45 | 670 | Verified (MRI panels, ancillary symptoms, T2 patterns, CSF/oligoclonal bands figure, VER, acute and infusable/injectable treatment) |
+| 46 | 671 | Verified (oral preventives; NMO/Devic features, clinical triad, investigations, treatment) |
+| 47 | 672 | Verified (anti-MOG disease list, ADEM demographics, aetiology, pathology, two-arm clinical flow) |
+| 48 | 673 | Verified (ADEM MRI investigation and the eleven-row ADEM vs MS table; Ch52 end) |
+| 49 | 674 | Verified (Ch53 "VASCULAR ANATOMY OF BRAIN" title page, ICA terminal branches OPAAm, circle of Willis diagram) |
+| 50 | 675 | Verified (surface blood-supply colour figures, ACA vs MCA vs PCA area and injury table) |
+| 51 | 676 | Verified (internal capsule figures, PARTS list, corticobulbar arms, H H H triad, closing UL/LL note) |
+| 52 | 677 | Verified (capsular blood supply boxes, MCA segment figure with M2 sylvian note and division strokes) |
+| 53 | 678 | Verified (M1 segment and lenticulostriate occlusion, complete MCA syndrome vs capsular table, ACA A1/A2 split) |
+| 54 | 679 | Verified (ACA notes, PCA P1/P2 with Anton and Balint, posterior-circulation types with artery of Percheron, Dejerine-Roussy) |
+| 55 | 680 | Verified (watershed MRI panels and border-zone schematic, predisposing conditions; Ch53 end) |
+| 56 | 681 | Verified (Ch54 "APPROACH TO UMN LESION" title page, embolic vs thrombotic table, MCA stroke flowchart) |
+| 57 | 682 | Verified (lesion-site differentials, UMN definition, functions, tract/fibre list) |
+| 58 | 683 | Verified (corticobulbar note, UMN vs LMN facial diagrams, motor homunculus) |
+| 59 | 684 | Verified (pyramidal tract pathway percentages, capsule segment, midbrain section, descent and cord distribution) |
+| 60 | 685 | Verified (pyramidal pattern of weakness, spasticity vs rigidity table, root-value note; Ch54 end) |
+| 61 | 686 | Verified (Ch55 "APPROACH TO STROKE" title page — chapter remains Soon) |
+| 62–76 | 687–701 | Not read in this session (Ch55 continues to Ch57; `uploads/05.pdf` sheet 1 is the closing page) |
 
-`uploads/04.pdf` PDF1–20 carry Book p626–645 (Ch43 close through Ch47); PDF21–34 carry Book p646–659 (Ch48–50) with **no missing printed page** (14 sheets, 14 pages; PDF27 landscape). PDF35 onward (p660+, Ch51) remain unread.
+`uploads/04.pdf` PDF1–20 carry Book p626–645 (Ch43 close through Ch47); PDF21–34 carry Book p646–659 (Ch48–50) with **no missing printed page** (14 sheets, 14 pages; PDF27 landscape); PDF35–60 carry Book p660–685 (Ch51–54) with **no missing printed page** (26 sheets, 26 pages, all upright portrait). PDF61 = p686 is the Chapter 55 title page.
 
 ## Chapter 48–50 source-map
 
 Verified at 3× zoom in `.audit-render/r04_21_3x..r04_34_3x.png` (PDF27 also as `r04_27_3x_ccw.png`): 04.pdf PDF21–26 and PDF28–34 are upright portrait; PDF27 is a landscape-scanned sheet read upright via `Matrix(3,3)` + 90° CCW prerotate. Printed page numbers were read on every sheet: PDF21–34 = Book p646–659 with **no missing printed page**.
 
 Chapter spans: Ch48 p646–649 = 04.pdf PDF21–24 · Ch49 p650–652 = 04.pdf PDF25–27 · Ch50 p653–659 = 04.pdf PDF28–34. Ch51 begins at p660 (04.pdf PDF35, not yet live).
+
+## uploads/04.pdf PDF35–60 — Chapter 51–54 source-map
+
+Verified at 3× zoom in `.audit-render/r04_35_3x.png` … `r04_60_3x.png`, with 6× crops used to settle the p664 conus/cauda Involvement cells (`.audit-render/v0439_100_200_6x.png`), the p674 mnemonic line (`.audit-render/v0449_290_400_6x.png`) and the p677 handwritten M2 segment heading (`.audit-render/v0452_700_800_6x.png`). Printed page numbers were read on every sheet: PDF35 prints 660 and PDF60 prints 685, consecutively, so **no sheet is missing and no printed page is skipped**.
+
+Chapter spans: Ch51 p660–667 = 04.pdf PDF35–42 · Ch52 p668–673 = PDF43–48 · Ch53 p674–680 = PDF49–55 · Ch54 p681–685 = PDF56–60. Ch55 (Approach to Stroke) begins at p686 = PDF61, verified from its title-page crop `.audit-render/num_61.png`; the remaining roadmap therefore runs PDF61–76 (p686–701) plus the single sheet of `uploads/05.pdf` (p702).
