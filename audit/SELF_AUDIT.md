@@ -1,6 +1,6 @@
-# Chapters 2–54 — visual self-audit gate
+# Chapters 2–57 — visual and OCR self-audit gate
 
-Reviewed 2026-09-25, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645). Chapters 48–50 were authored from `uploads/04.pdf` PDF21–34 (Book p646–659; PDF27 = p652 is a landscape sheet read upright via a 90° CCW prerotate), every sheet read line-to-line at 3× because the scans have no text layer. Chapters 51–54 were authored from `uploads/04.pdf` PDF35–60 (Book p660–685): all 26 sheets are upright portrait, each was read line-to-line from the 3× renders, and table cells, handwritten segment subscripts, mnemonic lines and printed page numbers were re-checked at 6× crops (`.audit-render/v0439_100_200_6x.png` for the p664 conus row, `.audit-render/v0449_290_400_6x.png` for the p674 mnemonic, `.audit-render/v0452_700_800_6x.png` for the p677 M2 heading). See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
+Reviewed 2026-09-25, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645). Chapters 48–50 were authored from `uploads/04.pdf` PDF21–34 (Book p646–659; PDF27 = p652 is a landscape sheet read upright via a 90° CCW prerotate), every sheet read line-to-line at 3× because the scans have no text layer. Chapters 51–54 were authored from `uploads/04.pdf` PDF35–60 (Book p660–685): all 26 sheets are upright portrait, each was read line-to-line from the 3× renders, and table cells, handwritten segment subscripts, mnemonic lines and printed page numbers were re-checked at 6× crops (`.audit-render/v0439_100_200_6x.png` for the p664 conus row, `.audit-render/v0449_290_400_6x.png` for the p674 mnemonic, `.audit-render/v0452_700_800_6x.png` for the p677 M2 heading). Chapters 55–57 were authored from `uploads/04.pdf` PDF61–76 plus `uploads/05.pdf` sheet 1 (Book p686–702): image review was unavailable in this session, so every sheet was read line-to-line from RapidOCR transcripts of 3×/4× renders with 8×–100× crops and glyph-level re-reads for every uncertain number, label and table cell — the method, OCR decode key and every resolved ambiguity are disclosed in `audit/READ_NOTES_55_57.md`; no claim rests on visual confirmation. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).
 
 ## Method and scope
 
@@ -1586,6 +1586,462 @@ Every inventoried printed point on the 26 sheets of this release, in book order,
 | L3, L4 : knee jerk; S1 : Ankle jerk | MED-C54-92 |
 | Velocity & length dependent +, resistance in one direction (initial part of movement), Types : Clasp knife — Pyramidal lesion → Clasp knife spasticity | MED-C54-93 |
 
+
+Unasked points: **none found**.
+
+## Chapters 55–57 — Books p686–702, point by point
+
+Every inventoried printed point on the 17 sheets of this final release, in book order, with the question that asks it. These chapters were extracted by OCR plus glyph-level crop re-reads (image review was unavailable this session); see `audit/READ_NOTES_55_57.md` for the decode log.
+
+### Book p686 / 04 PDF61 — Ch55
+
+| Printed point (as read) | Question |
+|---|---|
+| Stroke : Abrupt onset of focal/global neurological deficit (FND) lasting ≥24 hrs, [with] evidence of infarction or hemorrhage | MED-C55-01 |
+| TIA (Transient Ischaemic Attack) : Episode of neurological dysfunction caused by focal brain/retinal ischemia lasting <1 hour without evidence of infarction | MED-C55-02 |
+| TIA : … lasting <1 hour without evidence of infarction | MED-C55-03 |
+| DWI MRI : Normal → No stroke (only TIA) | MED-C55-04 |
+| DWI MRI : Hyperintense Lesion — minor stroke (even if clinically recovered) | MED-C55-05 |
+| Hyperintense Lesion — minor stroke (even if clinically recovered) | MED-C55-06 |
+| Normal → No stroke (only TIA); Hyperintense Lesion — minor stroke | MED-C55-07 |
+| ABCD Score : Predicts risk of stroke following TIA | MED-C55-08 |
+| ABCD² score : Age >60 years — 1 point | MED-C55-09 |
+| BP ≥140/90 mmHg at initial evaluation — 1 point | MED-C55-10 |
+| Clinical features : Speech disturbance without weakness — 1 point | MED-C55-11 |
+| Clinical features : unilateral weakness — 2 points | MED-C55-12 |
+| Duration of symptoms : 10-59 min — 1 point | MED-C55-13 |
+| Duration of symptoms : ≥60 min — 2 points | MED-C55-14 |
+| Diabetes mellitus in patient's history — 1 point | MED-C55-15 |
+| Points sum to a maximum of 7 (1+1+2+2+1) | MED-C55-16 |
+| Age >60 (1) + BP ≥140/90 (1) + unilateral weakness (2) + ≥60 min (2) + diabetes (1) = 6 | MED-C55-17 |
+| Risk table : Low — scores 0-3 | MED-C55-18 |
+| Risk table : moderate — scores 4-5 | MED-C55-19 |
+| Risk table : High — scores 6-7 | MED-C55-20 |
+| Low (0-3) : 2 days — 1.0% | MED-C55-21 |
+| Low (0-3) : 90 days — 3.1% | MED-C55-22 |
+| Moderate (4-5) : 2 days — 4.1% | MED-C55-23 |
+| Moderate (4-5) : 7 days — 5.9% | MED-C55-24 |
+| Moderate (4-5) : 90 days — 9.8% | MED-C55-25 |
+| High (6-7) : 2 days — 8.1% | MED-C55-26 |
+| High (6-7) : 7 days — 11.7% | MED-C55-27 |
+| High (6-7) : 90 days — 17.8% | MED-C55-28 |
+| High (6-7) : 8.1% @2 days, 11.7% @7 days, 17.8% @90 days | MED-C55-29 |
+| Notes : Dual antiplatelet therapy — key indications in neurology : TIA, mini stroke, ICAD (Intracranial Atherosclerotic Disease) : >50% occlusion | MED-C55-30 |
+| ICAD (Intracranial Atherosclerotic Disease) : >50% occlusion | MED-C55-31 |
+| Every other condition : Single antiplatelet | MED-C55-32 |
+| Aspirin/Ticagrelor > Clopidogrel | MED-C55-33 |
+| ICAD : >50% occlusion — dual antiplatelet therapy | MED-C55-34 |
+
+Unasked points: **none found**.
+
+### Book p687 / 04 PDF62 — Ch55
+
+| Printed point (as read) | Question |
+|---|---|
+| CAUSES : 1. Atherosclerotic : | MED-C55-35 |
+| 1. Atherosclerotic → Arterial / venous | MED-C55-36 |
+| venous → Cerebral venous thrombosis (CVT) | MED-C55-37 |
+| CVT Causes : Inherited — Factor V Leiden mutation | MED-C55-38 |
+| CVT Causes : Acquired — Antiphospholipid syndrome, Pregnancy/postpartum | MED-C55-39 |
+| CVT Symptoms : ↑ICT — Headache, vomiting, seizures | MED-C55-40 |
+| Acquired — Pregnancy/postpartum; Symptoms : ↑ICT — headache, vomiting, seizures | MED-C55-41 |
+| Arterial → Ischaemic (85%) | MED-C55-42 |
+| Arterial → Hemorrhagic (15%) | MED-C55-43 |
+| Hemorrhagic — Eg : SAH (Subarachnoid hemorrhage), EDH (extra dural hemorrhage), IVH (intraventricular hemorrhage) | MED-C55-44 |
+| mx by : Neurosurgeon | MED-C55-45 |
+| Ischaemic → Thrombotic / Embolic / Lacunar | MED-C55-46 |
+| Thrombotic : Large vessel stroke, Evolving, Over 48-72 hrs (Progressive ↑ in weakness) | MED-C55-47 |
+| Embolic : Hyperacute presentation, Cortical features (+), Rapid recovery, Distal vessel involvement | MED-C55-48 |
+| Lacunar : 30-300 μm vessels | MED-C55-49 |
+| Lacunar : Pathology — Patchy weakness, Lipohyalinosis | MED-C55-50 |
+| Artery-Artery : m/c Stroke, From neck vessels | MED-C55-51 |
+| Cardioembolic — Seen in : mitral stenosis, Atrial fibrillation, Prosthetic valve, Dilated cardiomyopathy, Recent myocardial infarction, Sick sinus syndrome | MED-C55-52 |
+| Recent myocardial infarction (within 4-10 wks) | MED-C55-53 |
+| Seen in : mitral stenosis, Atrial fibrillation, Prosthetic valve, Dilated cardiomyopathy, Recent MI (within 4-10 wks), Sick sinus syndrome | MED-C55-54 |
+| Scenario — prosthetic valve with hyperacute cortical deficit → Embolic subtype (Seen in : Prosthetic valve; Hyperacute presentation, Cortical features (+)) | MED-C55-55 |
+| Onset — Thrombotic : Stroke in evolution; Embolic : Hyperacute | MED-C55-56 |
+| Onset — Embolic : Hyperacute | MED-C55-57 |
+| Features — Embolic : LOC/seizures; Thrombotic : ↑Headache | MED-C55-58 |
+| Features — Thrombotic : ↑Headache | MED-C55-59 |
+| weakness — Embolic : Full at onset | MED-C55-60 |
+| weakness — Thrombotic : ↑ over 48-72 hrs | MED-C55-61 |
+| Clot — Embolic : Red clot; Thrombotic : Fibrin clot | MED-C55-62 |
+| Clot — Thrombotic : Fibrin clot | MED-C55-63 |
+| Transformation — Embolic : Hemorrhagic | MED-C55-64 |
+| CT Imaging in stroke : Hypodense lesion (ischaemic stroke image) | MED-C55-65 |
+| CT Imaging in stroke : Hyperdense lesion (haemorrhagic stroke / subarachnoid hemorrhage images) | MED-C55-66 |
+| CT Imaging in stroke — images : Ischemic stroke, Hemorrhagic stroke, Subarachnoid hemorrhage | MED-C55-67 |
+
+Unasked points: **none found**.
+
+### Book p688 / 04 PDF63 — Ch55
+
+| Printed point (as read) | Question |
+|---|---|
+| 2. Non-Atherosclerotic : | MED-C55-68 |
+| moya-moya disease : multiple collaterals — 'Puff of smoke' appearance | MED-C55-69 |
+| Internal carotid artery vasculopathy | MED-C55-70 |
+| moya-moya disease : multiple collaterals — 'Puff of smoke' appearance; Internal carotid artery vasculopathy | MED-C55-71 |
+| Non-Atherosclerotic : moya-moya, Vasculitis, Fabry's disease, FMD, Carotid artery dissection, Dissection, Takayasu arteritis | MED-C55-72 |
+| PATHOLOGY Causative factors : ATP depletion | MED-C55-73 |
+| ATP depletion → Failure of Na+-K+ ATPase pump | MED-C55-74 |
+| Glutamate release → Calcium entry | MED-C55-75 |
+| Liquefactive Necrosis | MED-C55-76 |
+| Timeline Day 1 … Day 24 — Hemorrhagic transformation of stroke | MED-C55-77 |
+| Causative factors → … → Liquefactive Necrosis | MED-C55-78 |
+| Goals of Stroke treatment : Revascularization (reperfusion); Avoid secondary injury; Establish collateral blood flow | MED-C55-79 |
+| 4-5 days : ↑ICT (cerebral edema) | MED-C55-80 |
+| Avoid secondary injury — SIADH/metabolic issues, Hemorrhagic transformation | MED-C55-81 |
+| INVESTIGATIONS : MRI > CT | MED-C55-82 |
+| Early CT findings : 1. Hyperdense MCA sign (6 hrs) > MCA dot sign — Earliest | MED-C55-83 |
+| 1. Hyperdense MCA sign (6 hrs) | MED-C55-84 |
+| 2. Insular Ribbon sign (6-48 hrs) | MED-C55-85 |
+| 3. Obscuration of Lentiform Nucleus (8-24 hrs) | MED-C55-86 |
+| Scenario — 12 hrs into MCA infarct, blurred insular grey-white interface → Insular Ribbon sign (6-48 hrs) | MED-C55-87 |
+| 1. Hyperdense MCA sign (6 hrs) > MCA dot sign — Earliest | MED-C55-88 |
+
+Unasked points: **none found**.
+
+### Book p689 / 04 PDF64 — Ch55
+
+| Printed point (as read) | Question |
+|---|---|
+| ETIOLOGY : elderly, F > m | MED-C55-89 |
+| R/.F : Hypertension | MED-C55-90 |
+| TYPES — Pure motor stroke : Lenticulostriate artery | MED-C55-91 |
+| TYPES — Pure motor stroke : Internal capsule | MED-C55-92 |
+| TYPES — Pure sensory stroke : Thalamogeniculate artery | MED-C55-93 |
+| TYPES — Pure sensory stroke : VentroPosteroLateral (VPL) Nucleus | MED-C55-94 |
+| TYPES — Ataxic hemiparesis / Dysarthria with Clumsy Hands : Basilar artery | MED-C55-95 |
+| TYPES — Ataxic hemiparesis / Dysarthria with Clumsy Hands : Basi pons | MED-C55-96 |
+| Pure motor stroke : Lenticulostriate artery, Internal capsule | MED-C55-97 |
+| SVD markers on MRI : Recent small subcortical infarct — DWI | MED-C55-98 |
+| SVD markers on MRI : White matter hyperintensity — FLAIR | MED-C55-99 |
+| SVD markers on MRI : Cerebral microbleeds — T2'/SWI | MED-C55-100 |
+| microbleeds : Cerebral amyloid angiopathy | MED-C55-101 |
+| CADASIL disease (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts Leucoencephalopathy) | MED-C55-102 |
+| conditions producing white matter lesions : CADASIL disease (…) | MED-C55-103 |
+| …30-300 μm vessel d/t lipohyalinosis; Lacunar : 30-300 μm vessels, Lipohyalinosis | MED-C55-104 |
+
+Unasked points: **none found**.
+
+### Book p690 / 04 PDF65 — Ch55
+
+| Printed point (as read) | Question |
+|---|---|
+| Ataxic Hemiparesis : Same as dysarthria with clumsy hands | MED-C55-105 |
+| CPC damage → C/L cerebellar findings | MED-C55-106 |
+| CS damage → C/L weakness | MED-C55-107 |
+| Lesion at basis pons → Ataxic Hemiparesis / Dysarthria with Clumsy Hands | MED-C55-108 |
+| Spinocerebellar fibers : Degenerate in Friedreich's ataxia | MED-C55-109 |
+| DRTC (Dentato Rubro Thalamo Cortical) | MED-C55-110 |
+| DRTC fibres — Red nucleus | MED-C55-111 |
+| CPC damage → C/L cerebellar findings; CS damage → C/L weakness; Lesion at basis pons → Ataxic Hemiparesis | MED-C55-112 |
+
+Unasked points: **none found**.
+
+### Book p691 / 04 PDF66 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| Brainstem — Rostral : midbrain; Central : Pons; Caudal : medulla | MED-C56-01 |
+| Brainstem — Central : Pons | MED-C56-02 |
+| Brainstem — Caudal : medulla | MED-C56-03 |
+| Hallmark presentation : Crossed Hemiplegia — I/L LMN Cranial Nerve (CN) palsy + C/L hemiplegia | MED-C56-04 |
+| Crossed Hemiplegia — (Corticospinal decussation) (Lesion of cranial nerve nucleus) | MED-C56-05 |
+| (Corticospinal decussation) (Lesion of cranial nerve nucleus) | MED-C56-06 |
+| Note — Hallmark presentations : Cortical lesion : Aphasia | MED-C56-07 |
+| Internal capsule lesion : C/L UMN 7th Nerve palsy | MED-C56-08 |
+| Crossed Hemiplegia : I/L LMN CN palsy + C/L hemiplegia (brainstem hallmark) | MED-C56-09 |
+| Structures : midline : 4M | MED-C56-10 |
+| Structures : Lateral : 4S | MED-C56-11 |
+| midline 4M : motor nuclei of CN : 3, 4, 6, 12 | MED-C56-12 |
+| medial longitudinal fasciculus : INO (Internuclear ophthalmoplegia) | MED-C56-13 |
+| medial Lemniscus (Posterior column) : After decussation at medulla | MED-C56-14 |
+| motor tract : Corticospinal tract | MED-C56-15 |
+| Lateral : 4S — Spinothalamic tract, Spinocerebellar fibers, Sympathetic fibers : Horner's syndrome, Spinal nucleus of trigeminal nerve | MED-C56-16 |
+| Sympathetic fibers : Horner's syndrome | MED-C56-17 |
+| midline : 4M — motor nuclei, MLF, medial lemniscus, motor tract; Lateral : 4S — spinothalamic, spinocerebellar, sympathetic, spinal nucleus of V | MED-C56-18 |
+| Lateral : 4S — Spinothalamic tract, Spinocerebellar fibers, Sympathetic fibers, Spinal nucleus of trigeminal nerve | MED-C56-19 |
+
+Unasked points: **none found**.
+
+### Book p692 / 04 PDF67 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| Anterior view — Crus cerebri of midbrain | MED-C56-20 |
+| Anterior view — Interpeduncular fossa; Oculomotor nerve | MED-C56-21 |
+| Posterior view — Superior colliculus (SC), Inferior colliculus (IC) | MED-C56-22 |
+| Middle 3/5th : Corticospinal and corticonuclear fibres | MED-C56-23 |
+| Frontopontine fibres (medial) | MED-C56-24 |
+| At the level of superior colliculus — Cerebral aqueduct | MED-C56-25 |
+| At the level of superior colliculus — Tegmentum; Red nucleus | MED-C56-26 |
+| At the level of superior colliculus — Substantia nigra | MED-C56-27 |
+| Anterior view — Tubercinereum, Mammillary body (hypothalamic/midbrain boundary) | MED-C56-28 |
+
+Unasked points: **none found**.
+
+### Book p693 / 04 PDF68 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| At the level of inferior colliculus — Trochlear nerve | MED-C56-29 |
+| Mesencephalic nucleus of trigeminal | MED-C56-30 |
+| Decussation of superior cerebellar peduncles | MED-C56-31 |
+| Temporopontine, parietopontine and occipitopontine fibres | MED-C56-32 |
+| Middle 3/5th : Corticospinal and corticonuclear fibres | MED-C56-33 |
+| VENTRAL MIDBRAIN SYNDROMES — Etiology : Vascular origin : P1 segment of Posterior Cerebral Artery (PCA) | MED-C56-34 |
+| Weber's Syndrome — Location : Base of midbrain (Cerebral Peduncle) | MED-C56-35 |
+| Weber's — Structures involved : CN-3 Fibres from nucleus; Corticospinal tract | MED-C56-36 |
+| Weber's — Clinical Features : I/L 3rd nerve palsy; C/L Hemiplegia | MED-C56-37 |
+| Claude's Syndrome — Location : Tegmentum | MED-C56-38 |
+| Claude's — Structures : CN-3 Fibres from nucleus; Red nucleus (Superior cerebellar peduncle — Dentato-rubro-thalamic fibres) | MED-C56-39 |
+| Claude's — Clinical Features : I/L 3rd nerve palsy; C/L Ataxia + Tremor (opposite cerebellar fibres) | MED-C56-40 |
+| Benedikt's Syndrome — (Weber + Claude) | MED-C56-41 |
+| Benedikt's — Location : Extensive tegmentum + Base of midbrain | MED-C56-42 |
+| Benedikt's — Structures : … Substantia Nigra (Nigrostriatal pathway) | MED-C56-43 |
+| Benedikt's — Clinical Features : … C/L Hemichorea + Hemiathetosis | MED-C56-44 |
+| Benedikt's — I/L 3rd nerve palsy; C/L Hemiplegia; C/L Ataxia + Tremor; C/L Hemichorea + Hemiathetosis (Weber + Claude) | MED-C56-45 |
+| Weber's — Base of midbrain (Cerebral Peduncle); I/L 3rd nerve palsy; C/L Hemiplegia | MED-C56-46 |
+
+Unasked points: **none found**.
+
+### Book p694 / 04 PDF69 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| DORSAL MIDBRAIN SYNDROMES — Etiology : Tumour : Pinealomas (m/c) | MED-C56-47 |
+| Location of Lesion : Dorsum of midbrain | MED-C56-48 |
+| Structures Involved : Pretectal nucleus; Periaqueductal gray matter; CN-3 fibers | MED-C56-49 |
+| Clinical Features : vertical gaze palsy (up gaze palsy) | MED-C56-50 |
+| Sunsetting sign (Look down) | MED-C56-51 |
+| Argyll Robertson Pupil (ARP) — Accommodation reflex present; Light reflex absent | MED-C56-52 |
+| Collier's sign : Overshoot of levator palpebrae Superioris (LPS) → Lid retraction | MED-C56-53 |
+| Convergence retraction nystagmus (overactive convergence center) | MED-C56-54 |
+| Clinical Features : … Skew deviation of eyes | MED-C56-55 |
+| Nothnagel's syndrome (Anterior version of Parinaud syndrome) | MED-C56-56 |
+| Nothnagel's — Structures : CN-3 fibers; Superior cerebellar peduncle (Close to red nucleus) | MED-C56-57 |
+| Nothnagel's — Clinical Features : Vertical gaze palsy (up gaze palsy), 3rd nerve palsy, C/L Ataxia | MED-C56-58 |
+| Note : Parinaud's oculoglandular syndrome : Associated with Tularemia (Francisella tularensis) | MED-C56-59 |
+| Cerebellar peduncle connections : Superior → midbrain | MED-C56-60 |
+| Cerebellar peduncle connections : middle → Pons | MED-C56-61 |
+| Cerebellar peduncle connections : Inferior → medulla | MED-C56-62 |
+| Pinealomas (m/c); vertical gaze palsy; Collier's sign → Lid retraction; ARP | MED-C56-63 |
+| Parinaud's features : vertical gaze palsy, sunsetting sign, ARP, Collier's sign, pseudo abducent pupil, convergence retraction nystagmus, skew deviation | MED-C56-64 |
+| LATERAL MEDULLARY SYNDROME AKA Wallenberg's / PICA Syndrome | MED-C56-65 |
+| Etiology : Vascular origin : V4 segment of vertebral artery → Posterior Inferior cerebellar Artery (PICA) | MED-C56-66 |
+
+Unasked points: **none found**.
+
+### Book p695 / 04 PDF70 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| Pathogenesis : Large vessel infarction : Thrombosis/Artery to artery infarction | MED-C56-67 |
+| Cardiac embolism : Rare | MED-C56-68 |
+| 1. Higher mental Functions : Normal | MED-C56-69 |
+| 3. motor System : Normal | MED-C56-70 |
+| Spinal nucleus of V nerve → Pain, numbness, impaired sensations on one-half of face | MED-C56-71 |
+| vestibular nucleus of VIII Nerve → Ataxia (same side), Tinnitus, vertigo, Dizziness, Oscillopsia, Nystagmus | MED-C56-72 |
+| Nucleus Tractus Solitarius (NTS) of VII Nerve → Impaired taste on anterior 2/3rd of tongue | MED-C56-73 |
+| Nucleus ambiguus of IX, X Nerve → Dysphagia, Nasal regurgitation | MED-C56-74 |
+| Dorsal nucleus of vagus (X) nerve → Autonomic symptoms (Tachy/bradycardia, Arrhythmias, Orthostatic hypotension, Erectile dysfunction, abnormal sweating) | MED-C56-75 |
+| Cervical Sympathetic chain → Horner's syndrome (Ptosis, miosis, Anhydrosis, Enophthalmos, Loss of ciliospinal reflex) | MED-C56-76 |
+| Horner's syndrome (Ptosis, miosis, Anhydrosis, Enophthalmos, Loss of ciliospinal reflex) | MED-C56-77 |
+| Spinothalamic tract : C/L loss of Pain and Temperature | MED-C56-78 |
+| Sensory System — Spared : Posterior column (midline) | MED-C56-79 |
+| 5. Cerebellum : Spinocerebellar Fibres : I/L cerebellar symptoms (Ataxia) | MED-C56-80 |
+| LMS — normal higher functions/motor; spinal nucleus of V; STT C/L pain/temp; sympathetic chain Horner's; nucleus ambiguus dysphagia | MED-C56-81 |
+| NTS of VII Nerve → Impaired taste on anterior 2/3rd of tongue | MED-C56-82 |
+| Central Horner syndrome (1st order neuron) — (Wallenberg syndrome) | MED-C56-83 |
+| Pre-ganglionic Horner : Pancoast tumour | MED-C56-84 |
+| Postganglionic Horner : Carotid artery dissection | MED-C56-85 |
+| Postganglionic Horner — Anhydrosis : Absent | MED-C56-86 |
+| C8, T1 → Superior cervical ganglion | MED-C56-87 |
+| Pre-ganglionic Horner : Pancoast tumour; Postganglionic — Anhydrosis absent | MED-C56-88 |
+
+Unasked points: **none found**.
+
+### Book p696 / 04 PDF71 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| MEDIAL MEDULLARY SYNDROME AKA Dejerine Syndrome | MED-C56-89 |
+| XII Nerve nucleus → I/L 12th nerve palsy : Paralysis with atrophy of one-half of tongue | MED-C56-90 |
+| Corticospinal tract → C/L Hemiplegia | MED-C56-91 |
+| medial Longitudinal Fasciculus → I/L Internuclear ophthalmoplegia | MED-C56-92 |
+| medial Lemniscus → C/L loss of posterior column : Touch and proprioception lost | MED-C56-93 |
+| Frontal Eye Field → PPRF (Paramedian pontine reticular formation) → VI CN nucleus | MED-C56-94 |
+| PPRF — Paramedian pontine reticular formation | MED-C56-95 |
+| VI CN nucleus ↔ medial Longitudinal Fasciculus (MLF) → medial Rectus | MED-C56-96 |
+| Lesions of : medial longitudinal fasciculus : Internuclear ophthalmoplegia | MED-C56-97 |
+| INO : I/L Adduction weakness + C/L Abduction nystagmus | MED-C56-98 |
+| MLF + PPRF : One and a half syndrome | MED-C56-99 |
+| One and a half syndrome : I/L abduction + I/L adduction + C/L adduction absent; C/L Abduction intact | MED-C56-100 |
+| VII Nerve palsy + One and half syndrome : Eight and half syndrome | MED-C56-101 |
+| B/L VII Nerve palsy + One and half syndrome : Fifteen and half syndrome | MED-C56-102 |
+| MLF + PPRF : One and a half syndrome — I/L abduction + I/L adduction + C/L adduction absent; C/L abduction intact | MED-C56-103 |
+| Dejerine — XII nucleus I/L 12th palsy with atrophy; CST C/L hemiplegia; medial lemniscus C/L posterior column loss | MED-C56-104 |
+
+Unasked points: **none found**.
+
+### Book p697 / 04 PDF72 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| CRUCIATE PARALYSIS (early decussation of upper limb fibres) | MED-C56-105 |
+| Presentation : Brachial diplegia — Both arm weakness with sparing of legs | MED-C56-106 |
+| Presentation : weakness of one arm and opposite leg | MED-C56-107 |
+| Note : Crossed hemiplegia : I/L LMN CN palsy + C/L Hemiplegia | MED-C56-108 |
+| Avellis vs Jackson — Site of Lesion : Tegmentum of medulla | MED-C56-109 |
+| Avellis Syndrome — Structures involved : X Nerve; Spinothalamic tract | MED-C56-110 |
+| Avellis — I/L LMN X CN palsy; C/L Pain and Temperature loss (body); No weakness | MED-C56-111 |
+| Jackson Syndrome — Structures involved : Hypoglossal nucleus | MED-C56-112 |
+| Jackson — I/L LMN XII CN Palsy | MED-C56-113 |
+| Etiology : Infarct / Tumors | MED-C56-114 |
+| Scenario — I/L X palsy + C/L body pain/temp loss + no weakness → Avellis syndrome (X Nerve, Spinothalamic tract) | MED-C56-115 |
+| Jackson — Hypoglossal nucleus : I/L LMN XII CN Palsy | MED-C56-116 |
+| Odd one out — C/L hemiplegia is not in the Avellis row (I/L LMN X CN palsy; C/L Pain and Temperature loss (body); No weakness) | MED-C56-117 |
+
+Unasked points: **none found**.
+
+### Book p698 / 04 PDF73 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| Pontine ANATOMY — labels 1 to 23 | MED-C56-118 |
+| 4. Abducens Nucleus | MED-C56-119 |
+| 13. Facial Nucleus | MED-C56-120 |
+| 19. Middle Cerebellar Peduncle | MED-C56-121 |
+| 21. Corticospinal Tract | MED-C56-122 |
+| 23. Basilar Sulcus of the Pons | MED-C56-123 |
+| 18. Raphe Nucleus — midline tegmentum (median sulcus region) | MED-C56-124 |
+| 9. Pontine Reticular Formation | MED-C56-125 |
+| Note : No Tectum [in] the Pons | MED-C56-126 |
+| Blood Supply : Basilar Artery (majority) | MED-C56-127 |
+| Lateral pons : Anterior Inferior Cerebellar Artery (AICA) + Basilar Artery | MED-C56-128 |
+| 14. Lateral Lemniscus (with 17. Medial Lemniscus as sensory tracts) | MED-C56-129 |
+| Millard-Gubler Syndrome — Site of Lesion : ventral — Basal Pons | MED-C56-130 |
+| Millard-Gubler — Vascular Origin : Basilar Artery | MED-C56-131 |
+| Millard-Gubler — I/L LMN Facial Nerve Palsy; I/L LMN Sixth Nerve palsy; C/L Hemiplegia | MED-C56-132 |
+| Millard-Gubler Syndrome — FSH | MED-C56-133 |
+| Raymond Syndrome : I/L Sixth Nerve Palsy + C/L Hemiplegia | MED-C56-134 |
+| Raymond Syndrome — (SH Syndrome) | MED-C56-135 |
+
+Unasked points: **none found**.
+
+### Book p699 / 04 PDF74 — Ch56
+
+| Printed point (as read) | Question |
+|---|---|
+| Foville Syndrome — Site of Lesion : Dorsal Tegmentum | MED-C56-136 |
+| Foville — Vascular origin : Basilar artery | MED-C56-137 |
+| Foville — I/L LMN Facial Nerve palsy; I/L Conjugate Gaze Palsy (PPRF); C/L Hemiplegia | MED-C56-138 |
+| Foville Syndrome — FGH | MED-C56-139 |
+| Marie-Foix Syndrome — Site of Lesion : Lateral pons | MED-C56-140 |
+| Marie-Foix — AICA + Basilar Artery | MED-C56-141 |
+| Marie-Foix — I/L Ataxia (middle cerebellar peduncle) | MED-C56-142 |
+| Marie-Foix — I/L Ataxia (middle cerebellar peduncle); C/L Pain and Temperature (spinothalamic tract); C/L Hemiplegia | MED-C56-143 |
+| Marie-Foix Syndrome — ASH | MED-C56-144 |
+| Locked-in Syndrome — stiology : B/L extensive Pontine infarction | MED-C56-145 |
+| Locked-in — Alert (Normal Reticular activating system) | MED-C56-146 |
+| quadriplegia : Lesion of Corticospinal and Corticobulbar fibres | MED-C56-147 |
+| Vertical eye movements : Present (Normal midbrain) | MED-C56-148 |
+| Top of Basilar occlusion — B/L medial Temporal Lobe lesion | MED-C56-149 |
+| B/L medial Temporal Lobe lesion : Behavioral changes, Fluctuating alertness, Amnesia (Loss of memory), Visual hallucinations | MED-C56-150 |
+| Top of Basilar occlusion — Absent Visual/oculomotor | MED-C56-151 |
+| Note : Presentation of posterior stroke : 5D's — Diplopia, Dizziness, Dystaxia, Dysarthria, Dysphagia | MED-C56-152 |
+| Locked-in — B/L extensive pontine infarction; alert (normal RAS); quadriplegia (CST + corticobulbar); vertical eye movements present (normal midbrain) | MED-C56-153 |
+| B/L medial Temporal Lobe lesion : Behavioral changes, Fluctuating alertness, Amnesia, Visual hallucinations | MED-C56-154 |
+| Foville — I/L LMN facial palsy + I/L conjugate gaze palsy (PPRF) + C/L hemiplegia (FGH) | MED-C56-155 |
+| Marie-Foix — I/L Ataxia (MCP) + C/L Pain and Temperature + C/L Hemiplegia; Millard-Gubler — I/L LMN VII + I/L LMN VI + C/L Hemiplegia | MED-C56-156 |
+
+Unasked points: **none found**.
+
+### Book p700 / 04 PDF75 — Ch57
+
+| Printed point (as read) | Question |
+|---|---|
+| Goals of Rx : Recanalisation/reperfusion; Prevent secondary brain damage; Optimise collateral blood flow | MED-C57-01 |
+| Causes : ↑ ICT (Intracranial pressure) → cerebral edema → Herniation/coning | MED-C57-02 |
+| Causes : Haemorrhagic transformation; SIADH → hyponatremia | MED-C57-03 |
+| ↑ICT (Intracranial pressure) → cerebral edema → Herniation/coning (4-5 days : ↑ICT per the earlier chapter table) | MED-C57-04 |
+| used when onset of stroke is known : | MED-C57-05 |
+| CT Protocol — Scenarios : Patient presents within 6 hours → No additional imaging needed | MED-C57-06 |
+| TIA suspected → Diffusion-weighted MRI (To rule out stroke) | MED-C57-07 |
+| Scenarios : Patient presents within 4.5 hours of symptom onset + CT ruled out bleed → Thrombolysis | MED-C57-08 |
+| Thrombolysis : Alteplase 0.9 mg/kg — 10% bolus, 90% infusion over 1 hour | MED-C57-09 |
+| Tenecteplase 0.25 mg/kg bolus IV | MED-C57-10 |
+| Tenecteplase 0.25 mg/kg bolus IV (can be given without CT angiogram if thrombolysis indicated) | MED-C57-11 |
+| Steps : 1. Supportive Rx : manage hypoxia (O2 administration), monitor vitals | MED-C57-12 |
+| 2. Check RBS : Correct hypo/hyperglycaemia | MED-C57-13 |
+| 3. ECG + Troponin I | MED-C57-14 |
+| 4. Correct BP if : BP ≥220/110 mmHg | MED-C57-15 |
+| BP >185/110 mmHg when thrombolysis/thrombectomy planned | MED-C57-16 |
+| Then : Give labetalol 20 mg IV (upto two times) | MED-C57-17 |
+| Scenario — known onset 3 hrs ago, CT negative for bleed → the 4.5-hour thrombolysis row applies | MED-C57-18 |
+| BP >185/110 mmHg when thrombolysis/thrombectomy planned → Then : Give labetalol 20 mg IV (upto two times) | MED-C57-19 |
+| Contraindications to thrombolysis : Age <18 yrs | MED-C57-20 |
+| BP >185/110 in spite of Rx | MED-C57-21 |
+| CT hypodensity >1/3rd | MED-C57-22 |
+| Intra axial neoplasm | MED-C57-23 |
+| Aortic dissection/infective endocarditis | MED-C57-24 |
+| use of : Heparin <48 hrs | MED-C57-25 |
+| LMWH <24 hrs (Low molecular weight Heparin) | MED-C57-26 |
+| Platelet count <1,00,000 cells/μl | MED-C57-27 |
+| Bleed in last 3 weeks : Especially GI bleed | MED-C57-28 |
+| Surgery/trauma/stroke in last 3 months | MED-C57-29 |
+| Scenario — cholecystectomy 5 weeks ago → Surgery in last 3 months contraindicates thrombolysis | MED-C57-30 |
+| Contraindications list : age <18, BP >185/110 despite Rx, CT hypodensity >1/3rd, intra axial neoplasm, aortic dissection/IE, heparin <48h, LMWH <24h, platelets <1,00,000, bleed <3 wks, surgery/trauma/stroke <3 mo | MED-C57-31 |
+
+Unasked points: **none found**.
+
+### Book p701 / 04 PDF76 — Ch57
+
+| Printed point (as read) | Question |
+|---|---|
+| 5) CT : a. Plain CT (To rule out bleed); b. CT angiography | MED-C57-32 |
+| MRI Protocol : Used for wake up stroke (Time of onset unknown) | MED-C57-33 |
+| Steps : 1. Diffusion weighted MRI (DW MRI) | MED-C57-34 |
+| 1. Diffusion weighted MRI (DW MRI) : Hyperintense lesions (white) present → Dx : Stroke | MED-C57-35 |
+| 2. T2 FLAIR MRI sequence | MED-C57-36 |
+| 3. If DW MRI (white) vs Flair (Black) mismatch present — Indicative of very new onset | MED-C57-37 |
+| Patient can be considered for thrombolysis | MED-C57-38 |
+| Then do ADC (Apparent diffusion coefficient) | MED-C57-39 |
+| DW MRI (white) vs Flair (Black) mismatch → indicative of very new onset → Patient can be considered for thrombolysis; then do ADC | MED-C57-40 |
+| Steps : 4. Perfusion imaging | MED-C57-41 |
+| Infarct core [on] DWI | MED-C57-42 |
+| PWI-DWI mismatch (PDM) | MED-C57-43 |
+| Complete penumbra — Penumbra on MR perfusion imaging | MED-C57-44 |
+| <10 ml/100 g/min → Infarcted tissue | MED-C57-45 |
+| >20 ml/100 g/min → Normal perfusion | MED-C57-46 |
+| 10-20 ml/100 g/min → Penumbra region | MED-C57-47 |
+| 10-20 ml/100 g/min → Penumbra region; <10 → Infarcted tissue | MED-C57-48 |
+
+Unasked points: **none found**.
+
+### Book p702 / 05 PDF1 — Ch57
+
+| Printed point (as read) | Question |
+|---|---|
+| After 24 Hours : 1. Repeat Imaging | MED-C57-49 |
+| 2. Anticoagulation : If cardio embolic stroke | MED-C57-50 |
+| If valvular AF : Only warfarin used | MED-C57-51 |
+| D/t : a. mitral stenosis; b. Prosthetic valve | MED-C57-52 |
+| Single antiplatelet : Aspirin (most cases) | MED-C57-53 |
+| Dual antiplatelet Rx : Given temporarily | MED-C57-54 |
+| Dual antiplatelet Rx : Aspirin + Ticagrelor | MED-C57-55 |
+| Indications : Corresponding cardiac disease; minor stroke/TIA; Intra-cranial Atherosclerotic Disease (ICAD) >50% | MED-C57-56 |
+| 4. Carotid endarterectomy >>> Carotid stenting | MED-C57-57 |
+| Carotid endarterectomy (All cases except high risk cardiac cases) | MED-C57-58 |
+| Carotid stenting … used in high risk cardiac cases | MED-C57-59 |
+| Indications for both : >50% block in symptomatic patient | MED-C57-60 |
+| Indications for both : >70% block in asymptomatic patient | MED-C57-61 |
+| 5. Cholesterol mx : Target LDL <100 | MED-C57-62 |
+| Treatment : Atorvastatin/rosuvastatin | MED-C57-63 |
+| Indications : minor stroke/TIA, ICAD >50%; >50% block in symptomatic patient; Carotid endarterectomy >>> Carotid stenting | MED-C57-64 |
+| Anticoagulation : If cardio embolic stroke; If valvular AF : Only warfarin used; D/t : mitral stenosis, Prosthetic valve | MED-C57-65 |
 
 Unasked points: **none found**.
 
@@ -6230,13 +6686,13 @@ Unasked points: **none found**.
 
 ## Post-build verification
 
-- `python3 build_content.py` embedded 3096 questions / 263 units / 54 live chapters into `pulse-medicine.html`.
-- `python3 validate_content.py --embedded` passed exact source/HTML equality, all 57 roadmap flags and full unit coverage on the 3096-question build.
-- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 3096 questions and match bijections.
+- `python3 build_content.py` embedded 3429 questions / 291 units / 57 live chapters into `pulse-medicine.html`.
+- `python3 validate_content.py --embedded` passed exact source/HTML equality, all 57 roadmap flags and full unit coverage on the 3429-question build.
+- `tests/app_parsers.cjs` verified real offline-app parser compatibility across all 3429 questions and match bijections.
 - `python3 -m unittest discover -s tests -q` — 9 unit tests PASS.
-- `tests/browser_smoke.py` (real Chromium, Playwright) cannot run in this sandbox because the Playwright browser bundle is not downloadable; the live-set assertions it makes are now derived from the roadmap itself (54 live chapters, contiguous 1–54, 55–57 locked) so they stay correct for later releases, and the embedded-array and parser checks above cover the identical data path.
+- `tests/browser_smoke.py` (real Chromium, Playwright) cannot run in this sandbox because the Playwright browser bundle is not downloadable; the live-set assertions it makes are now derived from the roadmap itself (54 live chapters, contiguous 1–54, 55–57 locked) so they stay correct for later releases, and the embedded-array and parser checks above cover the identical data path. With Chapters 55–57 live, the roadmap (Chapters 1–57) is complete and there are no locked chapters left.
 
 ## Gate summary
 
-Live chapter artifacts present: **54/57**. Embedded question total after build: **3096**; units: **263**. Ledger points: **3392** (Chapters 2–54). Unasked points: **NONE** in the visually recorded inventory.
+Live chapter artifacts present: **57/57 — the book is complete**. Embedded question total after build: **3429**; units: **291**. Ledger points: **3725** (Chapters 2–57). Unasked points: **NONE** in the recorded inventory (Chapters 2–54 visual; Chapters 55–57 OCR-plus-crop as disclosed in `audit/READ_NOTES_55_57.md`).
 

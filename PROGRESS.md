@@ -1,14 +1,33 @@
 # PULSE Medicine Vol 2 — Progress
 
-Updated **2026-09-25** (Chapters 51–54 shipped). Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
+Updated **2026-09-25** (Chapters 55–57 shipped — the book is complete). Standalone offline quiz based on *PULSE Medicine Vol 2*, printed Book p377–702.
 
 - Repository: `Deva20045/Med-V2`
-- Session branch: `arena/01a0d7cd-med-v2`
+- Session branch: `arena/01a0d830-med-v2`
 - Published URL: https://deva20045.github.io/Med-V2/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 54 live chapters / 57 · 3096 questions / 263 units.** Chapters 55–57 remain `live:false`.
+- **Build status: 57 live chapters / 57 · 3429 questions / 291 units.** All roadmap chapters are live; Book p377–702 is fully covered.
 
-## This release — Chapters 51 to 54
+## This release — Chapters 55 to 57 (final release — book complete)
+
+The last three neurology chapters — Approach to Stroke, Brainstem Stroke and Management of Stroke — cover Book p686–702 (`uploads/04.pdf` PDF61–76 plus the single sheet of `uploads/05.pdf`), were read line-to-line, source-ordered and made live. With this release every chapter of the printed book (p377–702) is live and the roadmap is finished.
+
+| Ch | Title | Printed pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 55 | Approach to Stroke | 686–690 | 112 | 11 |
+| 56 | Brainstem Stroke | 691–699 | 156 | 11 |
+| 57 | Management of Stroke | 700–702 | 65 | 6 |
+| **Release total** |  | **17 book pages** | **333** | **28** |
+
+### Quality and ordering contract delivered
+
+1. All 17 pages were read top-to-bottom in printed order. The scan has no text layer and image review was unavailable in this session, so RapidOCR transcripts of the 3×/4× renders (`.audit-render/ocr_0461.txt` … `ocr_0476.txt`, `ocr_051.txt`) served as the mechanical read, and every numeric, abbreviation, label and table cell was then re-read from 8×–100× crops with contrast-boosted glyph inspection (`tools/crop_ocr.py`): the ABCD² points column cell by cell, the High-row risk values 8.1/11.7/17.8 (matching the Johnston Lancet-2007 table the book reproduces), the "(within 4-10 wks)" myocardial-infarction window, the insular-ribbon 6-48 hr window, the ≥220/110 and >185/110 mmHg BP thresholds, the alteplase/tenecteplase/labetalol doses, the 10/20 ml/100 g/min perfusion thresholds and the >50%/>70% carotid thresholds. The decode log and every resolved ambiguity are disclosed in `audit/READ_NOTES_55_57.md`; no claim rests on visual confirmation of the scans. Verified page map: 04.pdf PDF61 = p686 Ch55 start, PDF65 = p690 Ch55 end, PDF66 = p691 Ch56 start, PDF74 = p699 Ch56 end (folio prints "669" — a printed quirk), PDF75 = p700 Ch57 start, PDF76 = p701, 05.pdf sheet 1 = p702 Ch57 end (book end). No sheets missing in p686–702.
+2. Chapters 55–57 add **333 ordered mappings** to `audit/coverage.json`, bringing the audited ledger to **3725 mappings** for Chapters 2–57; `tools/generate_ch55_57.py` regenerates all three chapter files and appends the ledger idempotently, and every ledger point resolves to exactly one question.
+3. Questions use no fill-up, matching or true/false worksheets and no predictable stems; only recall, scenario, numeric, oddoneout and management formats are used, with plausible medical distractors and reasoning-first stems (Ch55 69/10/27/4/2, Ch56 133/15/3/5/0, Ch57 37/5/19/1/3 for recall/scenario/numeric/oddoneout/management). Printed quirks and OCR-resolved readings (`Pseudo abducent pupil` as printed for the pseudo-Abducens phenomenon, `Spared: CN 1,2,3,4,6,12` best-read, the p701 FLAIR timing cells disclosed but not tested as differentiators, the Raymond `(SH Syndrome)` mnemonic read, `stiology`-class typo rows quoted as intended) are documented in `audit/READ_NOTES_55_57.md` and qualified in the audit; nothing was silently corrected.
+4. IDs are sequential `MED-C55-01..112`, `MED-C56-01..156`, `MED-C57-01..65`; question arrays are strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation.
+5. All three chapters are embedded in the standalone app and live flags for 55–57 are set; **57/57 roadmap chapters are now live with 3429 questions and 291 units — the book is complete.**
+
+## Previous release — Chapters 51 to 54
 
 Four consecutive neurology chapters — Diseases of Spinal Cord, Multiple Sclerosis, Vascular Anatomy of Brain and Approach to UMN Lesion — were rendered line-to-line from `uploads/04.pdf` at 3× (PDF35–60 = Book p660–685, all 26 sheets upright portrait, no rotation needed), source-ordered and made live. This completes the spinal-cord-disease → demyelination → cerebral-vascular → UMN-lesion block and leaves only the stroke chapters (p686–702) unread.
 
