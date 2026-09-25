@@ -1,0 +1,2111 @@
+{
+  "chapter": 50,
+  "title": "Anatomy of Spinal Cord",
+  "pageRange": "653-659",
+  "questions": [
+    {
+      "id": "MED-C50-01",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Printed function of the spinal cord is:",
+      "opts": [
+        "Autonomic supply of viscera alone",
+        "Cerebellar coordination of gait",
+        "Motor output to and sensory output from trunk and limbs",
+        "Only motor output to the head"
+      ],
+      "ans": 2,
+      "exp": "Function : motor output to and sensory output from trunk and limbs (Book p653)"
+    },
+    {
+      "id": "MED-C50-02",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "Length of the spinal cord is:",
+      "opts": [
+        "70 cm",
+        "20 cm",
+        "33 cm",
+        "45cm"
+      ],
+      "ans": 3,
+      "exp": "Length : 45cm (Book p653)"
+    },
+    {
+      "id": "MED-C50-03",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Extent of the cord is:",
+      "opts": [
+        "Continuation of medulla",
+        "Continuation of the pons",
+        "A neural-crest derivative only",
+        "A muscle-tube remnant"
+      ],
+      "ans": 0,
+      "exp": "Extent : Continuation of medulla (Book p653)"
+    },
+    {
+      "id": "MED-C50-04",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Upper limit of the spinal cord is:",
+      "opts": [
+        "T1 vertebra",
+        "Upper border of atlas (C1)",
+        "Foramen magnum only",
+        "Lower border of C3"
+      ],
+      "ans": 1,
+      "exp": "Upper limit : Upper border of atlas (C1) (Book p653)"
+    },
+    {
+      "id": "MED-C50-05",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Adult lower limit of the cord is:",
+      "opts": [
+        "Tip of coccyx",
+        "S2 dural sac",
+        "Junction between L1 and L2",
+        "Junction between L3-L4"
+      ],
+      "ans": 2,
+      "exp": "Adult : Junction between L1 and L2 (Book p653)"
+    },
+    {
+      "id": "MED-C50-06",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Children lower limit of the cord is:",
+      "opts": [
+        "Junction between L1 and L2",
+        "T12 epiconus",
+        "S2",
+        "Junction between L3-L4"
+      ],
+      "ans": 3,
+      "exp": "Children : Junction between L3-L4 (Book p653)"
+    },
+    {
+      "id": "MED-C50-07",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Piamater lower attachment is:",
+      "opts": [
+        "Tip of coccyx",
+        "S2",
+        "L1-L2",
+        "Foramen magnum"
+      ],
+      "ans": 0,
+      "exp": "Piamater : Tip of coccyx (Book p653)"
+    },
+    {
+      "id": "MED-C50-08",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Dura and Arachnoid mater end at:",
+      "opts": [
+        "C1",
+        "S2",
+        "Tip of coccyx",
+        "L1"
+      ],
+      "ans": 1,
+      "exp": "Dura and Arachnoid mater : S2 (Book p653)"
+    },
+    {
+      "id": "MED-C50-09",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "Neural tube forms in which week of embryonic life?",
+      "opts": [
+        "12th week",
+        "2nd week only",
+        "4th week of embryonic life",
+        "8th week"
+      ],
+      "ans": 2,
+      "exp": "Neural tube : 4th week of embryonic life (Book p653)"
+    },
+    {
+      "id": "MED-C50-10",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Caudal part of the neural tube:",
+      "opts": [
+        "Caudal part → Cerebral hemispheres",
+        "Caudal part → Cerebellum",
+        "Caudal part → Thymus",
+        "Caudal part (Tubular) → Spinal cord"
+      ],
+      "ans": 3,
+      "exp": "Caudal part (Tubular) → Spinal cord (Book p653)"
+    },
+    {
+      "id": "MED-C50-11",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "Spinal canal length in the note is:",
+      "opts": [
+        "70 cm",
+        "45cm",
+        "20 cm",
+        "31 cm"
+      ],
+      "ans": 0,
+      "exp": "Note: Spinal canal : 70 cm (Book p653)"
+    },
+    {
+      "id": "MED-C50-12",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "Total vertebrae are printed as:",
+      "opts": [
+        "26 including sacrum as one",
+        "33 (C7, T12, L5, S5, C4)",
+        "31 (C8, T12, L5, S5, C1)",
+        "24 mobile vertebrae only"
+      ],
+      "ans": 1,
+      "exp": "Total vertebrae : 33 (C7, T12, L5, S5, C4) (Book p653)"
+    },
+    {
+      "id": "MED-C50-13",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "A spinal nerve root is:",
+      "opts": [
+        "Ventral root only",
+        "White ramus only",
+        "Dorsal + Ventral nerve root",
+        "Dorsal root only"
+      ],
+      "ans": 2,
+      "exp": "Spinal nerve root : Dorsal + Ventral nerve root (Book p653)"
+    },
+    {
+      "id": "MED-C50-14",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "Spinal segment levels are:",
+      "opts": [
+        "33 vertebrae counts",
+        "24 segments",
+        "12 thoracic only",
+        "31 segments (C8, T12, L5, S5, C1)"
+      ],
+      "ans": 3,
+      "exp": "Levels : 31 segments (C8, T12, L5, S5, C1) (Book p653)"
+    },
+    {
+      "id": "MED-C50-15",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Upper cervical vertebrae map to cord segments how?",
+      "opts": [
+        "Same",
+        "+1",
+        "+2",
+        "+3"
+      ],
+      "ans": 0,
+      "exp": "Upper cervical | Same (Book p653)"
+    },
+    {
+      "id": "MED-C50-16",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "Lower cervical vertebrae map to segments by:",
+      "opts": [
+        "Epiconus",
+        "+1",
+        "Same",
+        "+2"
+      ],
+      "ans": 1,
+      "exp": "Lower cervical | +1 (Book p653)"
+    },
+    {
+      "id": "MED-C50-17",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "T1-T6 vertebrae map to segments by:",
+      "opts": [
+        "+3",
+        "Same",
+        "+2",
+        "+1"
+      ],
+      "ans": 2,
+      "exp": "T1-T6 | +2 (Book p653)"
+    },
+    {
+      "id": "MED-C50-18",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "numeric",
+      "q": "T7-T9 vertebrae map to segments by:",
+      "opts": [
+        "+2",
+        "+1",
+        "Conus",
+        "+3"
+      ],
+      "ans": 3,
+      "exp": "T7-T9 | +3 (Book p653)"
+    },
+    {
+      "id": "MED-C50-19",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "T10 vertebra corresponds to which segments?",
+      "opts": [
+        "L1, L2",
+        "L3, L4",
+        "Epiconus",
+        "Conus"
+      ],
+      "ans": 0,
+      "exp": "T10 | L1, L2 (Book p653)"
+    },
+    {
+      "id": "MED-C50-20",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "T11 vertebra corresponds to which segments?",
+      "opts": [
+        "Conus",
+        "L3, L4",
+        "L1, L2",
+        "Epiconus"
+      ],
+      "ans": 1,
+      "exp": "T11 | L3, L4 (Book p653)"
+    },
+    {
+      "id": "MED-C50-21",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "T12 and L1 vertebrae correspond to:",
+      "opts": [
+        "Same and +1",
+        "L1,L2 and L3,L4",
+        "Epiconus and Conus respectively",
+        "Conus and Cauda respectively"
+      ],
+      "ans": 2,
+      "exp": "T12 | Epiconus; L1 | Conus (Book p653)"
+    },
+    {
+      "id": "MED-C50-22",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Conus medullaris in the figure is labelled:",
+      "opts": [
+        "Dural sac termination",
+        "External terminal filum",
+        "Coccygeal nerve origin",
+        "Spinal cord termination"
+      ],
+      "ans": 3,
+      "exp": "Conus medullaris (spinal cord termination) (Book p653)"
+    },
+    {
+      "id": "MED-C50-23",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "Internal vs external terminal filum are labelled:",
+      "opts": [
+        "Pial aspect vs dural aspect",
+        "Dural aspect vs pial aspect",
+        "Both pial",
+        "Both dural"
+      ],
+      "ans": 0,
+      "exp": "Internal terminal filum (pial aspect); External terminal filum (dural aspect) (Book p653)"
+    },
+    {
+      "id": "MED-C50-24",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "page": 653,
+      "fmt": "recall",
+      "q": "The bundle of roots below the conus is labelled:",
+      "opts": [
+        "Arteria vasocorona",
+        "Cauda equina",
+        "Filum terminale only",
+        "Denticulate ligament"
+      ],
+      "ans": 1,
+      "exp": "Figure label: Cauda equina (Book p653)"
+    },
+    {
+      "id": "MED-C50-25",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Conus medullaris is:",
+      "opts": [
+        "Dura ending at S2",
+        "Neural tube of week 4",
+        "Terminal portion of Spinal cord",
+        "The entire cervical enlargement"
+      ],
+      "ans": 2,
+      "exp": "Conus medullaris : Terminal portion of Spinal cord (Book p654)"
+    },
+    {
+      "id": "MED-C50-26",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Cervical enlargement is labelled:",
+      "opts": [
+        "C8-T1 only",
+        "L2-L3",
+        "S3-C0",
+        "C3-T2"
+      ],
+      "ans": 3,
+      "exp": "Cervical enlargement (C3-T2) (Book p654)"
+    },
+    {
+      "id": "MED-C50-27",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Lumbar enlargement B/L roots in the table are:",
+      "opts": [
+        "L2, L3",
+        "L4, L5, S1, S2",
+        "S3, S4, S5, C0",
+        "C3-T2"
+      ],
+      "ans": 0,
+      "exp": "1. Lumbar Enlargement | L2, L3 (Book p654)"
+    },
+    {
+      "id": "MED-C50-28",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Epiconus B/L roots are:",
+      "opts": [
+        "C8-T1",
+        "L4, L5, S1, S2",
+        "L2, L3",
+        "S3, S4, S5, C0"
+      ],
+      "ans": 1,
+      "exp": "2. Epiconus | L4, L5, S1, S2 (Book p654)"
+    },
+    {
+      "id": "MED-C50-29",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Conus B/L roots as printed are:",
+      "opts": [
+        "L4, L5, S1, S2",
+        "C3-T2",
+        "S3, S4, S5, C0",
+        "L2, L3"
+      ],
+      "ans": 2,
+      "exp": "3. Conus | S3, S4, S5, C0 (Book p654)"
+    },
+    {
+      "id": "MED-C50-30",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Filum terminale is:",
+      "opts": [
+        "Extension of dura to L1",
+        "A radicular artery",
+        "Ligamentum denticulatum of the CST",
+        "Extension of Pia mater to tip of coccyx"
+      ],
+      "ans": 3,
+      "exp": "Filum terminale : Extension of Pia mater to tip of coccyx (Book p654)"
+    },
+    {
+      "id": "MED-C50-31",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "numeric",
+      "q": "Length of filum terminale is:",
+      "opts": [
+        "20 cm",
+        "45cm",
+        "70 cm",
+        "33 cm"
+      ],
+      "ans": 0,
+      "exp": "Filum terminale: Length : 20 cm (Book p654)"
+    },
+    {
+      "id": "MED-C50-32",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Symmetry of conus medullaris vs cauda equina syndrome is:",
+      "opts": [
+        "Motor vs sensory only",
+        "B/L Symmetric vs Asymmetric radiculopathy",
+        "Asymmetric vs B/L symmetric",
+        "Always unilateral vs always sacral"
+      ],
+      "ans": 1,
+      "exp": "Symmetry: B/L Symmetric vs Asymmetric radiculopathy (Book p654)"
+    },
+    {
+      "id": "MED-C50-33",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Roots involved in conus vs cauda as printed:",
+      "opts": [
+        "C8-T1 vs lumbar enlargement",
+        "T10 vs T12",
+        "S3, S4, S5, C1 vs L2-L5, S1-S5, C1",
+        "L2, L3 vs C3-T2"
+      ],
+      "ans": 2,
+      "exp": "Roots involved: S3, S4, S5, C1 vs L2-L5, S1-S5, C1 (Book p654)"
+    },
+    {
+      "id": "MED-C50-34",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Motor weakness in conus medullaris syndrome is:",
+      "opts": [
+        "Present as the dominant feature",
+        "Spastic paraplegia in extension",
+        "Fasciculating tongue weakness",
+        "Absent (Not involved in motor supply)"
+      ],
+      "ans": 3,
+      "exp": "Motor weakness: Absent (Not involved in motor supply) (Book p654)"
+    },
+    {
+      "id": "MED-C50-35",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Motor weakness in cauda equina syndrome is:",
+      "opts": [
+        "Present",
+        "Absent (Not involved in motor supply)",
+        "Pure UMN",
+        "Ocular only"
+      ],
+      "ans": 0,
+      "exp": "Cauda Equina Syndrome motor weakness: Present (Book p654)"
+    },
+    {
+      "id": "MED-C50-36",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Sensory involvement in conus vs cauda is:",
+      "opts": [
+        "None vs complete",
+        "B/L Saddle anaesthesia vs Variable loss",
+        "Stocking-glove vs cape distribution",
+        "Dissociated vs sacral sparing"
+      ],
+      "ans": 1,
+      "exp": "Sensory: B/L Saddle anaesthesia vs Variable loss (Book p654)"
+    },
+    {
+      "id": "MED-C50-37",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Micturition centre printed with urinary symptoms is:",
+      "opts": [
+        "L1-L2",
+        "Midbrain",
+        "S3, S4",
+        "C8-T1"
+      ],
+      "ans": 2,
+      "exp": "Urinary symptoms (micturition Center : S3, S4) (Book p654)"
+    },
+    {
+      "id": "MED-C50-38",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Urinary pattern in conus medullaris syndrome is:",
+      "opts": [
+        "Present only in extensive disease",
+        "Never involved",
+        "Acute retention with hyperreflexia",
+        "Dribbling of urine and Urinary incontinence"
+      ],
+      "ans": 3,
+      "exp": "Conus urinary: Dribbling of urine; Urinary incontinence (Book p654)"
+    },
+    {
+      "id": "MED-C50-39",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Urinary symptoms in cauda equina syndrome are:",
+      "opts": [
+        "Present only in extensive disease",
+        "Always dribbling from day 1",
+        "Never involved",
+        "Always acute with brisk reflexes"
+      ],
+      "ans": 0,
+      "exp": "Cauda urinary: Present only in extensive disease (Book p654)"
+    },
+    {
+      "id": "MED-C50-40",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Reflexes in conus medullaris syndrome are:",
+      "opts": [
+        "Hung-up ankle jerk",
+        "Bulbocavernosus reflex : Absent; Anal reflex : Absent (Patulous anal canal)",
+        "Exaggerated gag and jaw jerk",
+        "Brisk knee and ankle jerks"
+      ],
+      "ans": 1,
+      "exp": "Conus reflexes: Bulbocavernosus reflex : Absent; Anal reflex : Absent (Patulous anal canal) (Book p654)"
+    },
+    {
+      "id": "MED-C50-41",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Pathology of conus vs cauda is:",
+      "opts": [
+        "Trauma vs LEMS",
+        "Syrinx vs plaque",
+        "Tumour vs Disc abnormality",
+        "Disc vs Tumour"
+      ],
+      "ans": 2,
+      "exp": "Pathology: Tumour vs Disc abnormality (Book p654)"
+    },
+    {
+      "id": "MED-C50-42",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "Onset of conus vs cauda is:",
+      "opts": [
+        "Hyperacute in both",
+        "Only congenital",
+        "Only stepwise vascular",
+        "Insidious/acute (malignancy) vs Insidious"
+      ],
+      "ans": 3,
+      "exp": "Onset: Insidious/acute (malignancy) vs Insidious (Book p654)"
+    },
+    {
+      "id": "MED-C50-43",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "L1 > L2 root action is:",
+      "opts": [
+        "Hip flexion",
+        "Hip adduction",
+        "Knee extension",
+        "Plantar flexion"
+      ],
+      "ans": 0,
+      "exp": "L1 > L2 | Hip flexion (Book p654)"
+    },
+    {
+      "id": "MED-C50-44",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "L2 > L3 root action is:",
+      "opts": [
+        "Hip extension",
+        "Hip adduction",
+        "Hip flexion",
+        "Hip abduction"
+      ],
+      "ans": 1,
+      "exp": "L2 > L3 | Hip adduction (Book p654)"
+    },
+    {
+      "id": "MED-C50-45",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "L4 > L3 movements and reflex as printed are:",
+      "opts": [
+        "Hip extension, knee flexion, plantar flexion, ankle jerk",
+        "Hip flexion only",
+        "Knee : Extension; Foot : Dorsiflexion and Inversion (Tibialis anterior); Reflex : Knee jerk",
+        "EHL dorsiflexion, eversion, hip abduction"
+      ],
+      "ans": 2,
+      "exp": "L4 > L3: Knee extension; Foot dorsiflexion + inversion (Tibialis anterior); Reflex : Knee jerk (Book p654)"
+    },
+    {
+      "id": "MED-C50-46",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "L5 root actions are:",
+      "opts": [
+        "Knee extension and knee jerk",
+        "Hip flexion",
+        "Plantar flexion and ankle jerk",
+        "Dorsiflexion : Extensor hallucis longus; Eversion; Hip abduction"
+      ],
+      "ans": 3,
+      "exp": "L5: Dorsiflexion : Extensor hallucis longus; Eversion; Hip abduction (Book p654)"
+    },
+    {
+      "id": "MED-C50-47",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "page": 654,
+      "fmt": "recall",
+      "q": "S1 movements and reflex are:",
+      "opts": [
+        "Hip : Extension; Knee : Flexion; Foot : Plantar flexion; Reflex : Ankle jerk",
+        "Hip flexion and knee jerk",
+        "EHL and eversion",
+        "Masseter fatigue"
+      ],
+      "ans": 0,
+      "exp": "S1: Hip extension; Knee flexion; Foot plantar flexion; Reflex : Ankle jerk (Book p654)"
+    },
+    {
+      "id": "MED-C50-48",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Posterior column in the cross-section is labelled with:",
+      "opts": [
+        "Tectospinal tract",
+        "Fasciculus cuneatus and Fasciculus gracilis",
+        "Lateral spinothalamic tract",
+        "Vestibulospinal tract"
+      ],
+      "ans": 1,
+      "exp": "Posterior column: Fasciculus cuneatus; Fasciculus gracilis (Book p655)"
+    },
+    {
+      "id": "MED-C50-49",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Lateral spinothalamic tract in the figure carries:",
+      "opts": [
+        "Proprioception",
+        "Distal limb movements",
+        "Pain, temperature",
+        "Pressure, touch (minor role)"
+      ],
+      "ans": 2,
+      "exp": "Lateral spinothalamic tract: Pain, temperature (Book p655)"
+    },
+    {
+      "id": "MED-C50-50",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Ventral spinothalamic tract is annotated:",
+      "opts": [
+        "Pain, temperature",
+        "Fine touch and vibration",
+        "Flexion of upper limb",
+        "Pressure, touch (minor role)"
+      ],
+      "ans": 3,
+      "exp": "Ventral spinothalamic tract: Pressure, touch (minor role) (Book p655)"
+    },
+    {
+      "id": "MED-C50-51",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Ventral (uncrossed) corticospinal tract is annotated:",
+      "opts": [
+        "Distal limb movements (minor role)",
+        "Pain and temperature",
+        "Axial and proximal limb movements only",
+        "Proprioception"
+      ],
+      "ans": 0,
+      "exp": "Ventral (uncrossed) corticospinal tract: Distal limb movements (minor role) (Book p655)"
+    },
+    {
+      "id": "MED-C50-52",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Lateral corticospinal tract is qualified as:",
+      "opts": [
+        "A dorsal-column fasciculus",
+        "(Pyramidal) tract",
+        "Uncrossed only",
+        "The only extrapyramidal path"
+      ],
+      "ans": 1,
+      "exp": "Lateral corticospinal (Pyramidal) tract (Book p655)"
+    },
+    {
+      "id": "MED-C50-53",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Lateral corticospinal and rubrospinal tracts are bracketed to:",
+      "opts": [
+        "Pain, temperature",
+        "Pressure, touch",
+        "Distal limb movements",
+        "Axial and proximal limb movements"
+      ],
+      "ans": 2,
+      "exp": "Bracket: Distal limb movements (Book p655)"
+    },
+    {
+      "id": "MED-C50-54",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Vestibulospinal, ventral reticulospinal and tectospinal tracts are bracketed to:",
+      "opts": [
+        "Distal limb movements",
+        "Pain, temperature",
+        "Fine touch",
+        "Axial and proximal limb movements"
+      ],
+      "ans": 3,
+      "exp": "Bracket: Axial and proximal limb movements (Book p655)"
+    },
+    {
+      "id": "MED-C50-55",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Myelopathies are defined as:",
+      "opts": [
+        "Sensory/Autonomic/motor symptoms d/t spinal cord disease",
+        "Peripheral nerve demyelination",
+        "NMJ antibody disease",
+        "Anterior horn cell SOD defect only"
+      ],
+      "ans": 0,
+      "exp": "Myelopathies : Sensory/Autonomic/motor symptoms d/t spinal cord disease (Book p655)"
+    },
+    {
+      "id": "MED-C50-56",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Non-compressive myelopathy in the flowchart is:",
+      "opts": [
+        "Syringomyelia",
+        "Transverse myelitis",
+        "Disc compression",
+        "Ependymoma"
+      ],
+      "ans": 1,
+      "exp": "Non-compressive : Transverse myelitis (Book p655)"
+    },
+    {
+      "id": "MED-C50-57",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Intramedullary compressive causes listed are:",
+      "opts": [
+        "Transverse myelitis",
+        "Anterior spinal artery thrombosis only",
+        "Tumour : Ependymoma; Syringomyelia (Cavity expansion)",
+        "Disc compression only"
+      ],
+      "ans": 2,
+      "exp": "Intramedullary: Tumour : Ependymoma; Syringomyelia (Cavity expansion) (Book p655)"
+    },
+    {
+      "id": "MED-C50-58",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Extramedullary compressive cause listed is:",
+      "opts": [
+        "Ependymoma",
+        "Syringomyelia",
+        "Transverse myelitis",
+        "Disc compression"
+      ],
+      "ans": 3,
+      "exp": "Extramedullary : Disc compression (Book p655)"
+    },
+    {
+      "id": "MED-C50-59",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Above the level of lesion the presentation is:",
+      "opts": [
+        "Normal (Complete sparing)",
+        "Motor (UMN) and sensory loss",
+        "Based on Anterior Horn cells",
+        "Always LMN"
+      ],
+      "ans": 0,
+      "exp": "Above level of lesion : Normal (Complete sparing) (Book p655)"
+    },
+    {
+      "id": "MED-C50-60",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "At the level of lesion presentation is:",
+      "opts": [
+        "Sensory only",
+        "Based on Anterior Horn cells",
+        "Normal (Complete sparing)",
+        "Pure UMN below"
+      ],
+      "ans": 1,
+      "exp": "At level of lesion : Based on Anterior Horn cells (Book p655)"
+    },
+    {
+      "id": "MED-C50-61",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Below the level of lesion presentation is:",
+      "opts": [
+        "Pure LMN fasciculations only",
+        "Autonomic only",
+        "Motor (UMN) and sensory loss",
+        "Normal (Complete sparing)"
+      ],
+      "ans": 2,
+      "exp": "Below level of lesion : motor (UMN) and sensory loss (Book p655)"
+    },
+    {
+      "id": "MED-C50-62",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "Ventral column grey matter holds:",
+      "opts": [
+        "Clarke's column only",
+        "Dorsal root ganglion cells",
+        "Sympathetic chain",
+        "Anterior Horn cells (α and γ motor neurons)"
+      ],
+      "ans": 3,
+      "exp": "Ventral column : Anterior Horn cells (α and γ motor neurons) (Book p655)"
+    },
+    {
+      "id": "MED-C50-63",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "recall",
+      "q": "At the level of a grey-matter lesion:",
+      "opts": [
+        "Motor LMN symptoms; Absent Reflexes (maximum localizing value); Sensory symptoms",
+        "Pure UMN with brisk reflexes",
+        "Only autonomic failure",
+        "Only dorsal-column loss"
+      ],
+      "ans": 0,
+      "exp": "At level of lesion: motor LMN symptoms; Absent Reflexes (maximum localizing value); Sensory symptoms (Book p655)"
+    },
+    {
+      "id": "MED-C50-64",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "page": 655,
+      "fmt": "scenario",
+      "q": "An L4 spinal segment lesion, per the example, shows which reflex and motor picture?",
+      "opts": [
+        "EHL weakness with preserved knee jerk",
+        "Reflex : Absent Knee jerk; Motor : Weakness in knee extension, atrophy of quadriceps, fasciculation",
+        "Ankle jerk lost with plantar flexion weakness",
+        "Hip flexion lost with brisk knee jerk"
+      ],
+      "ans": 1,
+      "exp": "Eg : L4 spinal segment lesion — Reflex : Absent Knee jerk; Motor : Weakness in knee extension, atrophy of quadriceps, fasciculation (Book p655)"
+    },
+    {
+      "id": "MED-C50-65",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "WHITE MATTER is introduced as:",
+      "opts": [
+        "Anterior horn cells only",
+        "Neural tube remnants",
+        "Tracts/funiculi (Funicular pain)",
+        "Columns / Horns"
+      ],
+      "ans": 2,
+      "exp": "WHITE MATTER: Tracts/funiculi (Funicular pain) (Book p656)"
+    },
+    {
+      "id": "MED-C50-66",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Dorsal column/Posterior column is:",
+      "opts": [
+        "Descending pyramidal",
+        "Uncrossed ventral CST",
+        "An extrapyramidal lateral path",
+        "Ascending"
+      ],
+      "ans": 3,
+      "exp": "Dorsal column/Posterior column (Ascending) (Book p656)"
+    },
+    {
+      "id": "MED-C50-67",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Postcentral gyrus Brodmann areas labelled are:",
+      "opts": [
+        "(3, 1, 2)",
+        "(4, 6)",
+        "(17, 18, 19)",
+        "(41, 42)"
+      ],
+      "ans": 0,
+      "exp": "Postcentral gyrus (3, 1, 2) (Book p656)"
+    },
+    {
+      "id": "MED-C50-68",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Thalamic relay labelled for the dorsal column path is:",
+      "opts": [
+        "Geniculate body",
+        "Ventro lateral nucleus of thalamus",
+        "Anterior nucleus of thalamus",
+        "Pulvinar"
+      ],
+      "ans": 1,
+      "exp": "Ventro lateral nucleus of thalamus (Book p656)"
+    },
+    {
+      "id": "MED-C50-69",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Medullary crossing of dorsal-column fibres is:",
+      "opts": [
+        "Midbrain red nucleus",
+        "Pyramidal decussation only",
+        "Level of decussation : Medulla (Internal arcuate fibers)",
+        "Spinal cord 1 to 2 segments above"
+      ],
+      "ans": 2,
+      "exp": "Level of decussation : Medulla (Internal arcuate fibers) (Book p656)"
+    },
+    {
+      "id": "MED-C50-70",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "The medullary ribbon is labelled with the printed spelling:",
+      "opts": [
+        "Lateral laminiscus",
+        "Medial lemniscus (re-spelled)",
+        "Spinal lemniscus",
+        "Medial leminiscus"
+      ],
+      "ans": 3,
+      "exp": "Figure label as printed: Medial leminiscus (Book p656)"
+    },
+    {
+      "id": "MED-C50-71",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "First-order neuron of the dorsal column sits in:",
+      "opts": [
+        "Dorsal root ganglion",
+        "Anterior horn",
+        "Postcentral gyrus",
+        "Red nucleus"
+      ],
+      "ans": 0,
+      "exp": "First-order neuron; Dorsal root ganglion (Book p656)"
+    },
+    {
+      "id": "MED-C50-72",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Dorsal-column sensations listed are:",
+      "opts": [
+        "Itch and tickle",
+        "Proprioception, fine touch, Vibration, position and joint sense",
+        "Pain and temperature",
+        "Pressure, crude touch only"
+      ],
+      "ans": 1,
+      "exp": "Sensations : Proprioception, fine touch; Vibration, position and joint sense (Book p656)"
+    },
+    {
+      "id": "MED-C50-73",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Complete hemisection (Brown-Sequard syndrome) for posterior column gives:",
+      "opts": [
+        "Bilateral suspended loss",
+        "Sacral sparing of vibration",
+        "I/L loss of posterior column sensations",
+        "C/L loss of posterior column sensations"
+      ],
+      "ans": 2,
+      "exp": "Complete hemisection of spinal cord (Brown-Sequard syndrome) : I/L loss of posterior column sensations (Book p656)"
+    },
+    {
+      "id": "MED-C50-74",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Posterior compression (glove and stocking / cervical compression myelopathy) progresses:",
+      "opts": [
+        "Sacral first then cervical",
+        "Hands and feet simultaneously always",
+        "Face then arms",
+        "Cervical (Sensation of upper limb) → Sacral (Sensation of Lower limb)"
+      ],
+      "ans": 3,
+      "exp": "Posterior compression: Cervical (Sensation of upper limb) Progresses Sacral (Sensation of Lower limb) (Book p656)"
+    },
+    {
+      "id": "MED-C50-75",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "The diabetic neuropathy note is:",
+      "opts": [
+        "Stocking and glove neuropathy",
+        "Cape-like suspended loss",
+        "Pure motor MMN",
+        "Dissociative pain loss only"
+      ],
+      "ans": 0,
+      "exp": "Note: Diabetic Neuropathy : Stocking and glove neuropathy (Book p656)"
+    },
+    {
+      "id": "MED-C50-76",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Lateral tracts continue as 'Ascending tracks' starting with:",
+      "opts": [
+        "Tectospinal tract",
+        "1. Lateral spinothalamic tract",
+        "Lateral corticospinal tract",
+        "Rubrospinal tract"
+      ],
+      "ans": 1,
+      "exp": "Ascending tracks: 1. Lateral spinothalamic tract (Book p656)"
+    },
+    {
+      "id": "MED-C50-77",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Hemisection of spinal cord for spinothalamic sensation gives:",
+      "opts": [
+        "No sensory loss",
+        "Only dorsal-column loss",
+        "C/L sensory loss",
+        "I/L sensory loss"
+      ],
+      "ans": 2,
+      "exp": "Hemisection of spinal cord : C/L sensory loss (Book p656)"
+    },
+    {
+      "id": "MED-C50-78",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Dissociative sensory loss is defined as:",
+      "opts": [
+        "Loss of both columns equally",
+        "Pure vibration loss",
+        "Face-sparing hemianopia",
+        "Sparing of posterior column + involvement of spinothalamic tract"
+      ],
+      "ans": 3,
+      "exp": "Dissociative sensory loss (Sparing of posterior column + involvement of spinothalamic tract) (Book p656)"
+    },
+    {
+      "id": "MED-C50-79",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Sacral sparing is printed as:",
+      "opts": [
+        "Cervical > Sacral",
+        "Sacral > Cervical",
+        "Equal at all levels",
+        "Lumbar only"
+      ],
+      "ans": 0,
+      "exp": "Sacral sparing (Cervical > Sacral) (Book p656)"
+    },
+    {
+      "id": "MED-C50-80",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Suspended sensory loss at the level of lesion means:",
+      "opts": [
+        "Glove-and-stocking length-dependent loss",
+        "No loss above/below the lesion (D/t crossover of spinothalamic tract)",
+        "Complete loss below the lesion",
+        "I/L dorsal-column loss only"
+      ],
+      "ans": 1,
+      "exp": "Suspended sensory loss at level of lesion : No loss above/below the lesion (D/t crossover of spinothalamic tract) (Book p656)"
+    },
+    {
+      "id": "MED-C50-81",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "A further intradural/extramedullary feature listed is:",
+      "opts": [
+        "Pure cerebellar ataxia",
+        "Ocular bobbing",
+        "Prominent and early LMN lesion features",
+        "Late UMN only"
+      ],
+      "ans": 2,
+      "exp": "d) Prominent and early LMN lesion features (Book p656)"
+    },
+    {
+      "id": "MED-C50-82",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Spinothalamic decussation is:",
+      "opts": [
+        "Medulla (Internal arcuate fibers)",
+        "Midbrain",
+        "Pyramids",
+        "Spinal cord (Same (1 to 2 segments above)"
+      ],
+      "ans": 3,
+      "exp": "Level of Decussation : Spinal cord (Same (1 to 2 segments above) (Book p656)"
+    },
+    {
+      "id": "MED-C50-83",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "Lateral spinothalamic sensations are:",
+      "opts": [
+        "Pain and temperature",
+        "Proprioception and vibration",
+        "Pressure and crude touch only",
+        "Two-point discrimination"
+      ],
+      "ans": 0,
+      "exp": "Sensations : Pain and temperature (Book p656)"
+    },
+    {
+      "id": "MED-C50-84",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "page": 656,
+      "fmt": "recall",
+      "q": "The pontine/midbrain ribbon of the spinothalamic path is labelled:",
+      "opts": [
+        "Pyramids",
+        "Lateral laminiscus",
+        "Medial leminiscus",
+        "Internal arcuate fibers"
+      ],
+      "ans": 1,
+      "exp": "Figure label as printed: Lateral laminiscus (Book p656)"
+    },
+    {
+      "id": "MED-C50-85",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Ascending tracks 2 and 3 listed after lateral spinothalamic are:",
+      "opts": [
+        "Corticospinal and rubrospinal",
+        "Vestibulospinal and tectospinal",
+        "Spinocerebellar and Spinotectal",
+        "Spinoreticular and Spino-olivary"
+      ],
+      "ans": 2,
+      "exp": "2. Spinocerebellar; 3. Spinotectal (Book p657)"
+    },
+    {
+      "id": "MED-C50-86",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Ascending tracks 4 and 5 are:",
+      "opts": [
+        "Spinocerebellar and Spinotectal",
+        "Gracilis and cuneatus",
+        "CST and CBT",
+        "Spinoreticular and Spino-olivary"
+      ],
+      "ans": 3,
+      "exp": "4. Spinoreticular; 5. Spino-olivary (Book p657)"
+    },
+    {
+      "id": "MED-C50-87",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Descending tracts open with:",
+      "opts": [
+        "1. Lateral Corticospinal tract",
+        "Rubrospinal tract only",
+        "Vestibulospinal tract",
+        "Tectospinal tract"
+      ],
+      "ans": 0,
+      "exp": "Descending tracts : 1. Lateral Corticospinal tract (Book p657)"
+    },
+    {
+      "id": "MED-C50-88",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Cortical origin labelled for CST is:",
+      "opts": [
+        "Transverse temporal gyrus",
+        "Pre-central gyrus",
+        "Postcentral gyrus (3, 1, 2)",
+        "Occipital pole"
+      ],
+      "ans": 1,
+      "exp": "Figure: Pre-central gyrus (Book p657)"
+    },
+    {
+      "id": "MED-C50-89",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Midbrain CST fibres are labelled at:",
+      "opts": [
+        "Red nucleus only",
+        "Inferior colliculus",
+        "Cerebral peduncle",
+        "Medial leminiscus"
+      ],
+      "ans": 2,
+      "exp": "Cerebral peduncle; Midbrain (Book p657)"
+    },
+    {
+      "id": "MED-C50-90",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Level of CST decussation is:",
+      "opts": [
+        "Spinal cord 1-2 segments above",
+        "Internal arcuate fibers of gracilis",
+        "Pontine tegmentum",
+        "Medulla — Pyramids / Decussation of pyramids"
+      ],
+      "ans": 3,
+      "exp": "Level of decussation: Medulla; Pyramids; Decussation of pyramids (Book p657)"
+    },
+    {
+      "id": "MED-C50-91",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "After pyramidal decussation the figure shows:",
+      "opts": [
+        "Lateral corticospinal tract and Anterior corticospinal tract",
+        "Only dorsal columns",
+        "Only vestibulospinal tract",
+        "Only tectospinal tract"
+      ],
+      "ans": 0,
+      "exp": "Lateral corticospinal tract; Anterior corticospinal tract (Book p657)"
+    },
+    {
+      "id": "MED-C50-92",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "CST pathology: extramedullary lesion causes:",
+      "opts": [
+        "No motor signs",
+        "Early involvement",
+        "Late involvement only after grey matter",
+        "Sacral sparing first"
+      ],
+      "ans": 1,
+      "exp": "Extramedullary lesion: Early involvement (Book p657)"
+    },
+    {
+      "id": "MED-C50-93",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Hemisection of spinal cord for CST gives:",
+      "opts": [
+        "Bilateral flaccid areflexia only",
+        "No motor deficit",
+        "I/L motor weakness",
+        "C/L motor weakness"
+      ],
+      "ans": 2,
+      "exp": "Hemisection of spinal cord : I/L motor weakness (Book p657)"
+    },
+    {
+      "id": "MED-C50-94",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Rubrospinal tract is:",
+      "opts": [
+        "The pyramidal tract itself",
+        "An ascending pain path",
+        "A dorsal-column fasciculus",
+        "Only Extra pyramidal pathway in lateral column"
+      ],
+      "ans": 3,
+      "exp": "Only Extra pyramidal pathway in lateral column (Book p657)"
+    },
+    {
+      "id": "MED-C50-95",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Action of rubrospinal tract is:",
+      "opts": [
+        "Flexion of upper limb",
+        "Extension of all four limbs",
+        "Axial rotation",
+        "Foot dorsiflexion"
+      ],
+      "ans": 0,
+      "exp": "Action : Flexion of upper limb (Book p657)"
+    },
+    {
+      "id": "MED-C50-96",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Decorticate vs decerebrate lesion w.r.t red nucleus of mid brain is:",
+      "opts": [
+        "Both in the cord",
+        "Above vs Below",
+        "Below vs Above",
+        "Both at the medulla"
+      ],
+      "ans": 1,
+      "exp": "Lesion w.r.t Red nucleus of mid Brain: Above vs Below (Book p657)"
+    },
+    {
+      "id": "MED-C50-97",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Rubrospinal tract in decorticate vs decerebrate rigidity is:",
+      "opts": [
+        "Absent in both",
+        "Hypertrophic in both",
+        "Spared vs Affected",
+        "Affected vs Spared"
+      ],
+      "ans": 2,
+      "exp": "Rubrospinal tract: Spared vs Affected (Book p657)"
+    },
+    {
+      "id": "MED-C50-98",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Upper-limb posture in decorticate vs decerebrate rigidity is:",
+      "opts": [
+        "Extended vs Flexed",
+        "Flexed in both",
+        "Flaccid in both",
+        "Flexed vs Extended"
+      ],
+      "ans": 3,
+      "exp": "Posture upper limb: Flexed vs Extended (Book p657)"
+    },
+    {
+      "id": "MED-C50-99",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "page": 657,
+      "fmt": "recall",
+      "q": "Lower-limb posture in both decorticate and decerebrate rigidity is:",
+      "opts": [
+        "Extended in both",
+        "Flexed in both",
+        "Flexed vs Extended",
+        "Extended vs Flexed"
+      ],
+      "ans": 0,
+      "exp": "Posture lower limb: Extended vs Extended (Book p657)"
+    },
+    {
+      "id": "MED-C50-100",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Ventral/Anterior spinothalamic tract sensations are:",
+      "opts": [
+        "Two-point discrimination",
+        "Pressure, crude touch (minor role)",
+        "Pain and temperature",
+        "Proprioception"
+      ],
+      "ans": 1,
+      "exp": "Ascending tracts: Ventral/Anterior spinothalamic tract; Sensations : Pressure, crude touch (minor role) (Book p658)"
+    },
+    {
+      "id": "MED-C50-101",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Ventral (uncrossed) corticospinal tract action is:",
+      "opts": [
+        "Pain and temperature",
+        "Flexion of upper limb only",
+        "Distal limb movements (minor role)",
+        "Extension of axial muscles"
+      ],
+      "ans": 2,
+      "exp": "Ventral (uncrossed) corticospinal tract: Distal limb movements (minor role) (Book p658)"
+    },
+    {
+      "id": "MED-C50-102",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Descending extrapyramidal ventral tracts listed are:",
+      "opts": [
+        "Lateral CST and anterior CST only",
+        "Gracilis and cuneatus",
+        "Spinocerebellar and spino-olivary",
+        "Vestibulospinal tract, Ventral reticulospinal tract, Tectospinal tract"
+      ],
+      "ans": 3,
+      "exp": "Descending tracts : 1) extrapyramidal — Vestibulospinal; Ventral reticulospinal; Tectospinal (Book p658)"
+    },
+    {
+      "id": "MED-C50-103",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Action printed for those ventral extrapyramidal tracts is:",
+      "opts": [
+        "Extension",
+        "Flexion of upper limb",
+        "Distal limb movements (major role)",
+        "Pain and temperature"
+      ],
+      "ans": 0,
+      "exp": "Action : Extension (Book p658)"
+    },
+    {
+      "id": "MED-C50-104",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Early pathology of descending tracts is:",
+      "opts": [
+        "Flaccid areflexia only",
+        "Paraplegia in extension (D/t corticospinal tract involvement)",
+        "Paraplegia in flexion from the outset",
+        "Hemiplegia with aphasia"
+      ],
+      "ans": 1,
+      "exp": "Early : Paraplegia in extension (D/t corticospinal tract involvement) (Book p658)"
+    },
+    {
+      "id": "MED-C50-105",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Late pathology of descending tracts is:",
+      "opts": [
+        "Spastic catch in the jaw",
+        "Ocular bobbing",
+        "Paraplegia in flexion (Disease progression → Involve extrapyramidal tracts)",
+        "Paraplegia in extension from CST only"
+      ],
+      "ans": 2,
+      "exp": "Late : Paraplegia in flexion (Disease progression → Involve extrapyramidal tracts) (Book p658)"
+    },
+    {
+      "id": "MED-C50-106",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Brown Sequard Syndrome is:",
+      "opts": [
+        "Complete transection of the cord",
+        "Anterior spinal artery thrombosis only",
+        "A dorsal-root ganglionitis",
+        "Hemisection of spinal cord"
+      ],
+      "ans": 3,
+      "exp": "Brown Sequard Syndrome : Hemisection of spinal cord (Book p658)"
+    },
+    {
+      "id": "MED-C50-107",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Ipsilateral Brown-Sequard findings are:",
+      "opts": [
+        "Posterior column sensation lost and motor weakness",
+        "Lateral spinothalamic pain and temperature lost",
+        "Bilateral saddle anaesthesia",
+        "Tongue fasciculations"
+      ],
+      "ans": 0,
+      "exp": "Ipsilateral : Posterior column sensation lost; motor weakness (Book p658)"
+    },
+    {
+      "id": "MED-C50-108",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Contralateral Brown-Sequard finding is:",
+      "opts": [
+        "Patulous anal canal",
+        "Lateral Spinothalamic sensation lost (Pain and temperature)",
+        "Posterior column sensation lost",
+        "I/L motor weakness"
+      ],
+      "ans": 1,
+      "exp": "Contralateral : Lateral Spinothalamic sensation lost (Pain and temperature) (Book p658)"
+    },
+    {
+      "id": "MED-C50-109",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Arteries labelled on the cord cross-section include:",
+      "opts": [
+        "Only PICA",
+        "Only intercostal arteries",
+        "Dorsal spinal artery, Dorsal radicular artery, Ventral radicular artery, Ventral spinal artery",
+        "Only the artery of Adamkiewicz"
+      ],
+      "ans": 2,
+      "exp": "Figure: Dorsal spinal artery; Dorsal radicular artery; Spinal artery; Ventral radicular artery; Ventral spinal artery (Book p658)"
+    },
+    {
+      "id": "MED-C50-110",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Which pair of cerebellar/brainstem arteries is labelled on the blood-supply figure?",
+      "opts": [
+        "Anterior inferior cerebellar artery only",
+        "Callosomarginal and pericallosal arteries",
+        "MCA and ACA",
+        "Superior cerebellar artery and Posterior inferior cerebellar artery"
+      ],
+      "ans": 3,
+      "exp": "Labels: Superior cerebellar artery; Posterior inferior cerebellar artery (Book p658)"
+    },
+    {
+      "id": "MED-C50-111",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "Feeder arteries named on the longitudinal diagrams include:",
+      "opts": [
+        "Ascending cervical artery, Intercostal artery, Lumbar artery",
+        "Coronary arteries",
+        "Renal arteries",
+        "Bronchial arteries only"
+      ],
+      "ans": 0,
+      "exp": "Ascending cervical artery; Intercostal artery; Lumbar artery (Book p658)"
+    },
+    {
+      "id": "MED-C50-112",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "page": 658,
+      "fmt": "recall",
+      "q": "The figure caption under the vascular diagrams is:",
+      "opts": [
+        "MRI : BMA",
+        "Blood supply of spinal cord",
+        "Finding of Madras MND",
+        "Cross section of spinal cord"
+      ],
+      "ans": 1,
+      "exp": "Caption: Blood supply of spinal cord (Book p658)"
+    },
+    {
+      "id": "MED-C50-113",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Origin of the spinal arterial tree is:",
+      "opts": [
+        "External carotid artery",
+        "Aorta directly at T1 only",
+        "Vertebral Artery",
+        "Internal carotid artery"
+      ],
+      "ans": 2,
+      "exp": "Origin : Vertebral Artery (Book p659)"
+    },
+    {
+      "id": "MED-C50-114",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "numeric",
+      "q": "Posterior spinal arteries and territory are:",
+      "opts": [
+        "1 posterior spinal artery : Anterior 2/3rd",
+        "2 posterior spinal arteries : Anterior 2/3rd",
+        "3 posterior spinal arteries : Entire cord",
+        "2 posterior spinal arteries : Posterior 1/3rd of spinal cord"
+      ],
+      "ans": 3,
+      "exp": "2 posterior spinal arteries : Posterior 1/3rd of spinal cord (Book p659)"
+    },
+    {
+      "id": "MED-C50-115",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "numeric",
+      "q": "Anterior spinal artery and territory are:",
+      "opts": [
+        "1 Anterior spinal artery : Anterior 2/3rd of spinal cord",
+        "2 anterior spinal arteries : Posterior 1/3rd",
+        "1 anterior spinal artery : Posterior 1/3rd",
+        "3 anterior spinal arteries : Conus only"
+      ],
+      "ans": 0,
+      "exp": "1 Anterior spinal artery : Anterior 2/3rd of spinal cord (Book p659)"
+    },
+    {
+      "id": "MED-C50-116",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Radicular arteries are also called:",
+      "opts": [
+        "Denticulate arteries",
+        "Feeder arteries",
+        "Vasa vasorum",
+        "Arteria vasocorona"
+      ],
+      "ans": 1,
+      "exp": "Radicular arteries (Feeder arteries) (Book p659)"
+    },
+    {
+      "id": "MED-C50-117",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Radicular arteries reinforce blood supply:",
+      "opts": [
+        "Only inside the skull",
+        "Only at the filum",
+        "At each level (Lower cervical segment and below)",
+        "Only at the atlas"
+      ],
+      "ans": 2,
+      "exp": "Reinforce blood supply at each level (Lower cervical segment and below) (Book p659)"
+    },
+    {
+      "id": "MED-C50-118",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "The largest radicular artery is:",
+      "opts": [
+        "Arteria vasocorona",
+        "PICA",
+        "Ascending cervical artery",
+        "Artery of Adamkiewicz/Arteria radicularis magna"
+      ],
+      "ans": 3,
+      "exp": "Artery of Adamkiewicz/Arteria radicularis magna (Largest radicular artery) (Book p659)"
+    },
+    {
+      "id": "MED-C50-119",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Adamkiewicz origin and supply are:",
+      "opts": [
+        "Originates near T8-T12 vertebrae → Supplies entire lower half spinal cord",
+        "Originates at C1 → Supplies the posterior 1/3rd",
+        "Originates at L5 → Supplies the brain",
+        "Originates from ICA → Supplies the conus only"
+      ],
+      "ans": 0,
+      "exp": "Originates near T8-T12 vertebrae → Supplies entire lower half spinal cord (Book p659)"
+    },
+    {
+      "id": "MED-C50-120",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Which segments have fewer radicular arteries and higher ischaemic risk?",
+      "opts": [
+        "L5-S1 only",
+        "T4 - T5 Spinal Segments",
+        "C1-C2",
+        "S3-S5"
+      ],
+      "ans": 1,
+      "exp": "T4 - T5 Spinal Segments : Less radicular arteries → ↑ Risk of ischemia (Book p659)"
+    },
+    {
+      "id": "MED-C50-121",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Arteria Vasocorona is:",
+      "opts": [
+        "A branch of PICA only",
+        "The filum's artery",
+        "Circumferential anastomotic channels around spinal cord",
+        "The largest radicular artery"
+      ],
+      "ans": 2,
+      "exp": "Arteria Vasocorona : Circumferential anastomotic channels around spinal cord (Book p659)"
+    },
+    {
+      "id": "MED-C50-122",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Watershed note on arteria vasocorona is:",
+      "opts": [
+        "Dorsal column infarct first",
+        "Pure sensory ganglionopathy",
+        "Ocular MG",
+        "Corticospinal tract in watershed area → myelopathy"
+      ],
+      "ans": 3,
+      "exp": "(Corticospinal tract in watershed area → myelopathy) (Book p659)"
+    },
+    {
+      "id": "MED-C50-123",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Anterior spinal artery thrombosis onset and association are:",
+      "opts": [
+        "Onset : Acute; Associated with : Generalized atherosclerosis",
+        "Onset : Insidious tumour; Associated with disc",
+        "Onset : Congenital; Associated with SOD defect",
+        "Onset : Traumatic only"
+      ],
+      "ans": 0,
+      "exp": "Anterior Spinal artery thrombosis : Onset : Acute; Associated with : Generalized atherosclerosis (Book p659)"
+    },
+    {
+      "id": "MED-C50-124",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "A further ASA-thrombosis feature is:",
+      "opts": [
+        "Tongue fasciculations",
+        "Sparing of posterior column",
+        "Early dorsal-column loss",
+        "Suspended pain loss only"
+      ],
+      "ans": 1,
+      "exp": "Sparing of posterior column (Book p659)"
+    },
+    {
+      "id": "MED-C50-125",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Posterior spinal artery injury is linked to:",
+      "opts": [
+        "Thymoma",
+        "Small cell lung cancer",
+        "Traumatic accidents",
+        "Generalized atherosclerosis"
+      ],
+      "ans": 2,
+      "exp": "Posterior spinal artery injury : Traumatic accidents (Book p659)"
+    },
+    {
+      "id": "MED-C50-126",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "Ligamentum denticulatum is:",
+      "opts": [
+        "Extension of dura to the coccyx",
+        "A radicular feeder",
+        "The neural tube remnant",
+        "Extension of pia mater attaching spinal cord on duramater"
+      ],
+      "ans": 3,
+      "exp": "Ligamentum denticulatum : Extension of pia mater attaching spinal cord on duramater (Book p659)"
+    },
+    {
+      "id": "MED-C50-127",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "page": 659,
+      "fmt": "recall",
+      "q": "In compressive myelopathy the denticulate ligament:",
+      "opts": [
+        "Compresses corticospinal tract",
+        "Spares the CST and hits the dorsal column",
+        "Occludes Adamkiewicz",
+        "Tears the filum"
+      ],
+      "ans": 0,
+      "exp": "Compressive myelopathy : Denticulate ligament compresses corticospinal tract (Book p659)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U50-1",
+      "ch": 50,
+      "n": 1,
+      "title": "1. Spinal Cord, Vertebrae and Segment Levels",
+      "sec": "Spinal Cord, Vertebrae & Segment Levels",
+      "guide": "Cord function is printed as motor output to and sensory output from trunk and limbs; length 45 cm; continuation of medulla from the upper border of atlas (C1) to adult L1-L2 or childhood L3-L4. Pia reaches the tip of coccyx; dura and arachnoid end at S2.\nNeural tube forms in the 4th embryonic week; caudal tubular part becomes spinal cord. Spinal canal 70 cm; 33 vertebrae (C7, T12, L5, S5, C4); 31 segments (C8, T12, L5, S5, C1); roots are dorsal + ventral. Vertebra-to-segment offsets run same / +1 / +2 / +3 then T10 = L1,L2, T11 = L3,L4, T12 = epiconus, L1 = conus. The figure labels conus medullaris, internal and external terminal filum, cauda equina, dural sac termination and coccygeal nerve.",
+      "qs": [
+        "MED-C50-01",
+        "MED-C50-02",
+        "MED-C50-03",
+        "MED-C50-04",
+        "MED-C50-05",
+        "MED-C50-06",
+        "MED-C50-07",
+        "MED-C50-08",
+        "MED-C50-09",
+        "MED-C50-10",
+        "MED-C50-11",
+        "MED-C50-12",
+        "MED-C50-13",
+        "MED-C50-14",
+        "MED-C50-15",
+        "MED-C50-16",
+        "MED-C50-17",
+        "MED-C50-18",
+        "MED-C50-19",
+        "MED-C50-20",
+        "MED-C50-21",
+        "MED-C50-22",
+        "MED-C50-23",
+        "MED-C50-24"
+      ]
+    },
+    {
+      "id": "MED-U50-2",
+      "ch": 50,
+      "n": 2,
+      "title": "2. Conus Medullaris, Cauda Equina and Root Values",
+      "sec": "Conus, Filum, Cauda Equina & Root Values",
+      "guide": "Conus medullaris is the terminal portion of spinal cord. Cervical enlargement is C3-T2. Lumbar enlargement roots L2,L3; epiconus L4,L5,S1,S2; conus S3,S4,S5,C0. Filum terminale is pia to the tip of coccyx, length 20 cm.\nConus medullaris syndrome is B/L symmetric, roots S3-S5 & C1, motor weakness absent, B/L saddle anaesthesia, dribbling/incontinence (micturition centre S3,S4), absent bulbocavernosus and anal reflexes (patulous anal canal), tumour, insidious/acute (malignancy). Cauda equina is asymmetric radiculopathy of L2-L5, S1-S5, C1, motor weakness present, variable sensory loss, urinary symptoms only in extensive disease, absent and variable reflexes, disc abnormality, insidious.\nRoot actions: L1>L2 hip flexion; L2>L3 hip adduction; L4>L3 knee extension plus TA dorsiflexion/inversion and knee jerk; L5 EHL, eversion, hip abduction; S1 hip extension, knee flexion, plantar flexion, ankle jerk.",
+      "qs": [
+        "MED-C50-25",
+        "MED-C50-26",
+        "MED-C50-27",
+        "MED-C50-28",
+        "MED-C50-29",
+        "MED-C50-30",
+        "MED-C50-31",
+        "MED-C50-32",
+        "MED-C50-33",
+        "MED-C50-34",
+        "MED-C50-35",
+        "MED-C50-36",
+        "MED-C50-37",
+        "MED-C50-38",
+        "MED-C50-39",
+        "MED-C50-40",
+        "MED-C50-41",
+        "MED-C50-42",
+        "MED-C50-43",
+        "MED-C50-44",
+        "MED-C50-45",
+        "MED-C50-46",
+        "MED-C50-47"
+      ]
+    },
+    {
+      "id": "MED-U50-3",
+      "ch": 50,
+      "n": 3,
+      "title": "3. Cross-Section, Myelopathy Types and Grey Matter",
+      "sec": "Cord Tracts Cross-Section, Myelopathies & Grey Matter",
+      "guide": "Cross-section labels posterior column (cuneatus/gracilis), dorsal and ventral spinocerebellar tracts, lateral spinothalamic (pain, temperature), ventral spinothalamic (pressure, touch, minor role), ventral uncrossed corticospinal (distal limb, minor role), anterior horn, lateral corticospinal (pyramidal) with rubrospinal for distal limb movements, and vestibulospinal, ventral reticulospinal and tectospinal for axial and proximal limb movements.\nMyelopathies are sensory/autonomic/motor symptoms d/t spinal cord disease. Compressive splits into intramedullary tumour (ependymoma, syringomyelia cavity expansion) and extramedullary disc compression; non-compressive is transverse myelitis. Above the lesion is normal (complete sparing); at the lesion based on anterior horn cells; below is motor (UMN) and sensory loss. Grey ventral column is AHC (α and γ). At the level: motor LMN, absent reflexes (maximum localizing value), sensory symptoms; L4 example = absent knee jerk plus knee-extension weakness, quadriceps atrophy and fasciculation.",
+      "qs": [
+        "MED-C50-48",
+        "MED-C50-49",
+        "MED-C50-50",
+        "MED-C50-51",
+        "MED-C50-52",
+        "MED-C50-53",
+        "MED-C50-54",
+        "MED-C50-55",
+        "MED-C50-56",
+        "MED-C50-57",
+        "MED-C50-58",
+        "MED-C50-59",
+        "MED-C50-60",
+        "MED-C50-61",
+        "MED-C50-62",
+        "MED-C50-63",
+        "MED-C50-64"
+      ]
+    },
+    {
+      "id": "MED-U50-4",
+      "ch": 50,
+      "n": 4,
+      "title": "4. Dorsal Column and Lateral Spinothalamic Pathology",
+      "sec": "White Matter: Dorsal Column & Lateral Spinothalamic",
+      "guide": "White matter is tracts/funiculi (funicular pain). Dorsal column is ascending: first-order DRG, fasciculus gracilis/cuneatus, decussation in medulla (internal arcuate fibers) via medial leminiscus to VPL thalamus, third-order to postcentral gyrus (3,1,2). Sensations: proprioception, fine touch, vibration, position and joint sense.\nBrown-Sequard: I/L loss of posterior column sensations. Posterior compression (glove and stocking / cervical compression myelopathy) starts cervical (UL) and progresses to sacral (LL). Diabetic neuropathy is stocking and glove.\nLateral spinothalamic: pain and temperature; decussates in the cord 1 to 2 segments above; hemisection gives C/L sensory loss. Intradural/extramedullary lesion list: dissociative sensory loss, sacral sparing (cervical > sacral), suspended sensory loss, prominent early LMN features.",
+      "qs": [
+        "MED-C50-65",
+        "MED-C50-66",
+        "MED-C50-67",
+        "MED-C50-68",
+        "MED-C50-69",
+        "MED-C50-70",
+        "MED-C50-71",
+        "MED-C50-72",
+        "MED-C50-73",
+        "MED-C50-74",
+        "MED-C50-75",
+        "MED-C50-76",
+        "MED-C50-77",
+        "MED-C50-78",
+        "MED-C50-79",
+        "MED-C50-80",
+        "MED-C50-81",
+        "MED-C50-82",
+        "MED-C50-83",
+        "MED-C50-84"
+      ]
+    },
+    {
+      "id": "MED-U50-5",
+      "ch": 50,
+      "n": 5,
+      "title": "5. Remaining Ascending Tracts, Corticospinal and Rubrospinal",
+      "sec": "Other Ascending Tracts, CST & Rubrospinal",
+      "guide": "Remaining ascending tracks: 2 spinocerebellar, 3 spinotectal, 4 spinoreticular, 5 spino-olivary. Lateral CST: pre-central gyrus → cerebral peduncle/midbrain → pyramidal decussation in medulla → lateral CST (and anterior CST) to LMN and skeletal muscle. Extramedullary lesion: early involvement; hemisection: I/L motor weakness.\nRubrospinal tract is the only extra pyramidal pathway in the lateral column; action flexion of upper limb. Decorticate (lesion above red nucleus, tract spared, UL flexed, LL extended) vs decerebrate (below red nucleus, tract affected, UL and LL extended).",
+      "qs": [
+        "MED-C50-85",
+        "MED-C50-86",
+        "MED-C50-87",
+        "MED-C50-88",
+        "MED-C50-89",
+        "MED-C50-90",
+        "MED-C50-91",
+        "MED-C50-92",
+        "MED-C50-93",
+        "MED-C50-94",
+        "MED-C50-95",
+        "MED-C50-96",
+        "MED-C50-97",
+        "MED-C50-98",
+        "MED-C50-99"
+      ]
+    },
+    {
+      "id": "MED-U50-6",
+      "ch": 50,
+      "n": 6,
+      "title": "6. Ventral Tracts, Brown-Sequard and Blood Supply",
+      "sec": "Ventral Tracts, Brown-Sequard & Blood-Supply Figure",
+      "guide": "Ventral/anterior ascending: ventral/anterior spinothalamic tract = pressure, crude touch (minor role). Ventral (uncrossed) CST = distal limb movements (minor role). Descending extrapyramidal: vestibulospinal, ventral reticulospinal, tectospinal; action extension.\nEarly descending-tract pathology: paraplegia in extension (CST); late: paraplegia in flexion (extrapyramidal). Brown Sequard: ipsilateral posterior-column loss and motor weakness; contralateral lateral spinothalamic (pain and temperature) loss.\nBlood-supply figure labels gracilis, cuneatus, CST, rubrospinal, anterior lateral system, vestibulospinal, ventral spinal artery, dorsal spinal and radicular arteries, plus vertebral, basilar, anterior spinal, PICA, superior cerebellar, posterior spinal, ascending cervical, intercostal and lumbar feeders.",
+      "qs": [
+        "MED-C50-100",
+        "MED-C50-101",
+        "MED-C50-102",
+        "MED-C50-103",
+        "MED-C50-104",
+        "MED-C50-105",
+        "MED-C50-106",
+        "MED-C50-107",
+        "MED-C50-108",
+        "MED-C50-109",
+        "MED-C50-110",
+        "MED-C50-111",
+        "MED-C50-112"
+      ]
+    },
+    {
+      "id": "MED-U50-7",
+      "ch": 50,
+      "n": 7,
+      "title": "7. Arterial Supply, Infarction and Denticulate Ligament",
+      "sec": "Spinal Arteries, Watershed & Denticulate Ligament",
+      "guide": "Origin is the vertebral artery. Two posterior spinal arteries supply posterior 1/3; one anterior spinal artery supplies anterior 2/3. Radicular (feeder) arteries reinforce from the lower cervical segment down. Artery of Adamkiewicz / arteria radicularis magna (largest) originates near T8-T12 and supplies the entire lower half. T4-T5 has fewer radicular arteries and higher ischaemic risk. Arteria vasocorona is the circumferential anastomosis; CST in the watershed → myelopathy.\nASA thrombosis: acute, generalized atherosclerosis, posterior-column sparing. PSA injury: traumatic accidents. Ligamentum denticulatum: pia attaching cord to dura; in compressive myelopathy it compresses the corticospinal tract.",
+      "qs": [
+        "MED-C50-113",
+        "MED-C50-114",
+        "MED-C50-115",
+        "MED-C50-116",
+        "MED-C50-117",
+        "MED-C50-118",
+        "MED-C50-119",
+        "MED-C50-120",
+        "MED-C50-121",
+        "MED-C50-122",
+        "MED-C50-123",
+        "MED-C50-124",
+        "MED-C50-125",
+        "MED-C50-126",
+        "MED-C50-127"
+      ]
+    }
+  ]
+}

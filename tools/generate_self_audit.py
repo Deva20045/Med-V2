@@ -52,14 +52,17 @@ def page_to_sheet(page):
         return f"03 PDF{page - 564}"  # 618=54 .. 625=61 (PDF54 read upright via 90 deg prerotate)
     if 626 <= page <= 645:
         return f"04 PDF{page - 625}"  # 626=1 .. 645=20
+    if 646 <= page <= 659:
+        note = " (PDF27 landscape, 90 deg CCW prerotate)" if page == 652 else ""
+        return f"04 PDF{page - 625}{note}"  # 646=21 .. 659=34
     return "?"
 
 
-page_to_pdf = {page: page_to_sheet(page) for page in range(377, 646)}
+page_to_pdf = {page: page_to_sheet(page) for page in range(377, 660)}
 
 out = []
-out.append("# Chapters 2–47 — visual self-audit gate\n")
-out.append("Reviewed 2026-09-24, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645), every sheet read line-to-line at 3× because the scans have no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
+out.append("# Chapters 2–50 — visual self-audit gate\n")
+out.append("Reviewed 2026-09-25, before live deployment. Source: `uploads/01.pdf` PDF94–103 (Book p458–467), `uploads/02.pdf` PDF1–93 (Book p468–561; printed p527 is absent) and `uploads/03.pdf` PDF1–37 (Book p562–601; printed p586, p590 and p591 are absent), all read from 2× PyMuPDF renders. Chapters 30–31 were authored from `uploads/02.pdf` PDF87–93 (Book p555–561) plus `uploads/03.pdf` PDF1 (Book p562); Chapter 32 was authored from `uploads/03.pdf` PDF2–4 (Book p563–565), read at 2×/4× with OCR cross-checks because the scan has no text layer. Chapters 42–47 were authored from `uploads/03.pdf` PDF54–61 (Book p618–625; PDF54 is a landscape sheet read upright via a 90° prerotate) and `uploads/04.pdf` PDF1–20 (Book p626–645). Chapters 48–50 were authored from `uploads/04.pdf` PDF21–34 (Book p646–659; PDF27 = p652 is a landscape sheet read upright via a 90° CCW prerotate), every sheet read line-to-line at 3× because the scans have no text layer. See [every-page map](PAGE_MAP.md) and machine-readable [inventory](coverage.json).\n")
 out.append("## Method and scope\n")
 out.append("- Read every educational heading, bullet, sub-bullet, note, table cell, flowchart arm, diagram label, threshold, score, criteria and dose on printed p383–601 (the live chapters), top-to-bottom. Parallel comparison columns were treated as unified comparison blocks; diagrams remained with their adjacent text; publisher footers, lesson timestamps and 'Active space' furniture are excluded. Scans contain no extractable text, so every reading used 2× PyMuPDF renders (never `page.get_text()`); printed page numbers were verified against [PAGE_MAP.md](PAGE_MAP.md).")
 out.append("- Upside-down (rotated 180°) printed annotations on p461, p465, p474, p481, p483, p484, p485 and p487 were rotated and read; where a rotated value could not be resolved with confidence it is recorded in the discrepancy table below and no question relies on it.")
@@ -131,6 +134,18 @@ out.append("| 630 | Tangier's defect prints 'ATP binding cascade protein'; the c
 out.append("| 630 | Refsum's enzyme prints 'phytanic oxidase'; the contemporary name (phytanoyl-CoA hydroxylase) is not substituted. |")
 out.append("| 632 | 'Activates compliment' retains the printed spelling of complement. |")
 out.append("| 643 | Myotonic dystrophy prints 'trinucleotide repeat disease of Chr 19'; the repeat is retained as printed. |")
+out.append("| 646 | NMJ figure labels (V/Q Ca++ channel, Agrin, Active zone, ChAT, AChE) and the printed 'First 1 yr after ocular symptoms' crucial-period line are transcribed as source anatomy. |")
+out.append("| 647 | HLA-DR3, B8, DR9 and the 70%/10% hyperplasia/thymoma split of 80% seropositive cases are source percentages. |")
+out.append("| 648 | Edrophonium 2 mg IV and Neostigmine 1 mg IM, plus 'most specific' AChR vs 'most sensitive' SFEMG, are printed test statements. |")
+out.append("| 649 | '3,4 di-aminopyramidine' retains the printed spelling (diaminopyridine); Anti-CRPM5 is quoted as printed; DUMBELLS is the source mnemonic. Azathioprine listed among drugs that exacerbate MG is retained as printed. |")
+out.append("| 650 | UMN degeneration prints 'Corticospinal tract (CST)' and 'Corticospinal tract (CBT)'; CBT is quoted as printed (likely corticobulbar). |")
+out.append("| 651 | 'No effective drugs' / 'Riluzole & Edaravone maybe tried' are source treatment statements, not a substitute for current ALS guidance. |")
+out.append("| 652 | 04.pdf PDF27 is a landscape sheet read upright via 90° CCW prerotate. Kennedy calf 'pseudohypertrophy' and Hirayama 'tight dural canal tearing' wording are transcribed as printed. |")
+out.append("| 653 | Function prints 'sensory output from trunk and limbs' (usual teaching is sensory input); quoted as printed. Dura/arachnoid end at S2; total vertebrae 33 (C7 T12 L5 S5 C4); 31 segments (C8 T12 L5 S5 C1). |")
+out.append("| 654 | Conus B/L roots print S3, S4, S5, C0; the comparison table's conus roots print S3, S4, S5, C1. L4 > L3 for knee extension/TA is quoted as printed. |")
+out.append("| 656 | 'Medial leminiscus' and 'Lateral laminiscus' retain the printed spellings. 'Ascending tracks' (not tracts) is quoted as printed. Dissociative/sacral-sparing/suspended-loss/early-LMN features sit under the printed 'Intradural/extramedullary lesion' heading. |")
+out.append("| 659 | Artery of Adamkiewicz origin near T8–T12 and T4–T5 ischaemic watershed are source anatomy. |")
+
 out.append("| 483 | The rotated dysphagia-frequency annotation beside inclusion body myositis was not legible; no question relies on it. Steroid-unresponsive disease and red-rimmed vacuoles are the tested points. |")
 out.append("| 484 | The '50/25/5' outcome split and the testicular sparing statement are printed source epidemiology. |")
 out.append("| 485 | The rotated 'HLA DRB1*03 — Lofgren syndrome (good prognosis)' annotation is read after rotation and transcribed as printed. |")

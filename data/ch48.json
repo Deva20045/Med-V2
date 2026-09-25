@@ -1,0 +1,1361 @@
+{
+  "chapter": 48,
+  "title": "Myasthenia Gravis",
+  "pageRange": "646-649",
+  "questions": [
+    {
+      "id": "MED-C48-01",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "Myasthenia gravis is classified on the pathophysiology heading as which kind of disorder?",
+      "opts": [
+        "Neuromuscular junction (NMJ) disorder",
+        "Anterior horn cell disease",
+        "Demyelinating polyneuropathy",
+        "Muscle-membrane channelopathy"
+      ],
+      "ans": 0,
+      "exp": "Pathophysiology: Neuromuscular junction (NMJ) disorder (Book p646)"
+    },
+    {
+      "id": "MED-C48-02",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The printed definition of MG is:",
+      "opts": [
+        "Complement attack on myelin of peripheral nerve",
+        "Autoantibody (B-cell) + T-cell mediated attack on acetylcholine-receptors (AChR) on post synaptic membrane",
+        "Antibody attack on voltage-gated calcium channels on the pre-synaptic membrane",
+        "T-cell only attack on muscle sarcolemma"
+      ],
+      "ans": 1,
+      "exp": "Definition: Autoantibody (B-cell) + T-cell mediated attack on acetylcholine-receptors (AChR) on post synaptic membrane (Book p646)"
+    },
+    {
+      "id": "MED-C48-03",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "In the NMJ figure, acetate and choline are converted by which labelled enzyme?",
+      "opts": [
+        "Agrin",
+        "Choline kinase",
+        "ChAT",
+        "AChE"
+      ],
+      "ans": 2,
+      "exp": "NMJ figure: Acetate and Choline with ChAT at the terminal (Book p646)"
+    },
+    {
+      "id": "MED-C48-04",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The presynaptic calcium channel labelled on the axon terminal is:",
+      "opts": [
+        "L-type Ca++ channel",
+        "T-type Ca++ channel",
+        "Ryanodine Ca++ channel",
+        "V/Q Ca++ channel"
+      ],
+      "ans": 3,
+      "exp": "NMJ figure callout: V/Q Ca++ channel (Book p646)"
+    },
+    {
+      "id": "MED-C48-05",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The enzyme labelled in the synaptic cleft of the NMJ figure is:",
+      "opts": [
+        "AChE",
+        "ChAT",
+        "Agrin",
+        "MAO"
+      ],
+      "ans": 0,
+      "exp": "NMJ figure: AChE in the cleft (Book p646)"
+    },
+    {
+      "id": "MED-C48-06",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "Which protein is labelled beside the active zone on the presynaptic membrane?",
+      "opts": [
+        "Rapsyn",
+        "Agrin",
+        "Dystrophin",
+        "MuSK"
+      ],
+      "ans": 1,
+      "exp": "NMJ figure: Agrin labelled next to Active zone (Book p646)"
+    },
+    {
+      "id": "MED-C48-07",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "Voltage-gated channels labelled on the NMJ figure include:",
+      "opts": [
+        "Only ligand-gated Ca++ channels",
+        "Only stretch-activated Na+ channels",
+        "Voltage gated K+ channel, voltage gated Ca+ channel and voltage gated Na+ channels",
+        "Only voltage gated Cl- channels"
+      ],
+      "ans": 2,
+      "exp": "NMJ figure labels: Voltage gated K+ channel; Voltage gated Ca+ channel; Voltage gated Na+ channels (Book p646)"
+    },
+    {
+      "id": "MED-C48-08",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The right-hand NMJ flowchart sequences ACh as:",
+      "opts": [
+        "AChE hydrolyses ACh → binds MuSK → potassium efflux → relaxation",
+        "ACh binds presynaptic Ca channel → vesicle recycling → tetany",
+        "ACh binds muscle Na/K ATPase → calcium store dump → contracture",
+        "Ach released from vesicle → Binds to AChR on postsynaptic membrane → Causes influx of sodium → Muscle contractions"
+      ],
+      "ans": 3,
+      "exp": "Flow: Ach released from vesicle → Binds to AChR on postsynaptic membrane → Causes influx of sodium → Muscle contractions (Book p646)"
+    },
+    {
+      "id": "MED-C48-09",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The most common presentation printed in magenta is:",
+      "opts": [
+        "Ocular symptoms",
+        "Respiratory failure",
+        "Distal hand wasting",
+        "Sensory ataxia"
+      ],
+      "ans": 0,
+      "exp": "m/c presentation : Ocular symptoms (Book p646)"
+    },
+    {
+      "id": "MED-C48-10",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "numeric",
+      "q": "What fraction of patients have no progression of disease after ocular onset?",
+      "opts": [
+        "70-80%",
+        "15-20%",
+        "5-10%",
+        "40-50%"
+      ],
+      "ans": 1,
+      "exp": "No progression of disease (15-20%) (Book p646)"
+    },
+    {
+      "id": "MED-C48-11",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "Non-progressive ocular disease is labelled:",
+      "opts": [
+        "MuSK MG (Refractory)",
+        "LEMS (Paraneoplastic)",
+        "Ocular myasthenia (Good prognosis)",
+        "Generalised MG (Poor prognosis)"
+      ],
+      "ans": 2,
+      "exp": "No progression → Ocular myasthenia (Good prognosis) (Book p646)"
+    },
+    {
+      "id": "MED-C48-12",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "numeric",
+      "q": "When disease progresses after ocular onset, maximum progression is within:",
+      "opts": [
+        "First 6 months only",
+        "After 10 years",
+        "The neonatal period",
+        "First 2-3 years"
+      ],
+      "ans": 3,
+      "exp": "Disease progresses (maximum within first 2-3 years) (Book p646)"
+    },
+    {
+      "id": "MED-C48-13",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The progression ladder after ocular symptoms is:",
+      "opts": [
+        "Pharyngeal muscles → Proximal muscles → Respiratory muscles",
+        "Distal muscles → Sensory nerves → Autonomic nerves",
+        "Respiratory muscles first → then ocular",
+        "Axial muscles → then extraocular only"
+      ],
+      "ans": 0,
+      "exp": "Progression: Pharyngeal muscles → Proximal muscles → Respiratory muscles (Book p646)"
+    },
+    {
+      "id": "MED-C48-14",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "page": 646,
+      "fmt": "recall",
+      "q": "The most crucial period in the disease is printed as:",
+      "opts": [
+        "Any time after age 60",
+        "First 1 yr after ocular symptoms",
+        "First 1 month of pyridostigmine",
+        "The decade after thymectomy"
+      ],
+      "ans": 1,
+      "exp": "most crucial period in the disease : First 1 yr after ocular symptoms (Book p646)"
+    },
+    {
+      "id": "MED-C48-15",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Demographics of MG are introduced as:",
+      "opts": [
+        "Equal incidence at all ages",
+        "Exclusively neonatal",
+        "Bimodal peaking",
+        "Unimodal childhood peak"
+      ],
+      "ans": 2,
+      "exp": "Demographics : Bimodal peaking (Book p647)"
+    },
+    {
+      "id": "MED-C48-16",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "The first peak of MG is printed at:",
+      "opts": [
+        "0-10 yr",
+        "40-50 yr",
+        ">80 years",
+        "20-40 yr"
+      ],
+      "ans": 3,
+      "exp": "First peak: 20-40 yr (Book p647)"
+    },
+    {
+      "id": "MED-C48-17",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Sex ratio of the first MG peak is:",
+      "opts": [
+        "Females >>> males",
+        "Males > Females",
+        "Equal sex ratio",
+        "Males >>> females"
+      ],
+      "ans": 0,
+      "exp": "First peak: Females >>> males (Book p647)"
+    },
+    {
+      "id": "MED-C48-18",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "The second peak of MG is printed at:",
+      "opts": [
+        "The neonatal period",
+        " >60 years",
+        "20-40 yr",
+        "Adolescence only"
+      ],
+      "ans": 1,
+      "exp": "Second peak: >60 years (Book p647)"
+    },
+    {
+      "id": "MED-C48-19",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Sex ratio of the second MG peak is:",
+      "opts": [
+        "Females = males",
+        "Only females",
+        "males > Females",
+        "Females >>> males"
+      ],
+      "ans": 2,
+      "exp": "Second peak: males > Females (Book p647)"
+    },
+    {
+      "id": "MED-C48-20",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Which antibody is labelled Specific in the antibodies table?",
+      "opts": [
+        "Anti-MuSK antibody",
+        "Anti-LRP4",
+        "Anti-Hu antibody",
+        "Anti-acetylcholine receptor (AChR) antibody"
+      ],
+      "ans": 3,
+      "exp": "Anti-acetylcholine receptor (AChR) antibody : Specific (Book p647)"
+    },
+    {
+      "id": "MED-C48-21",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "AChR antibody incidence in generalised MG is:",
+      "opts": [
+        "85% cases of generalized MG",
+        "50% of ocular myasthenia only",
+        "10-20% of generalized MG",
+        "Absent in generalised MG"
+      ],
+      "ans": 0,
+      "exp": "AChR antibody: 85% cases of generalized MG (Book p647)"
+    },
+    {
+      "id": "MED-C48-22",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "AChR antibody incidence in ocular myasthenia is:",
+      "opts": [
+        "Zero in ocular myasthenia",
+        "50% of ocular myasthenia",
+        "85% of ocular myasthenia",
+        "10-20% of ocular myasthenia"
+      ],
+      "ans": 1,
+      "exp": "AChR antibody: 50% of ocular myasthenia (Book p647)"
+    },
+    {
+      "id": "MED-C48-23",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "Anti-MuSK antibody accounts for what share of generalised MG?",
+      "opts": [
+        "50% of ocular myasthenia",
+        "All double-negative MG",
+        "10-20% of generalized MG",
+        "85% of generalized MG"
+      ],
+      "ans": 2,
+      "exp": "Anti-MuSK antibody: 10-20% of generalized MG (Book p647)"
+    },
+    {
+      "id": "MED-C48-24",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "Among anti-AChR antibody-negative MG, anti-MuSK is:",
+      "opts": [
+        "10-20% of anti-AChR Ab (-) MG",
+        "85% of anti-AChR Ab (-) MG",
+        "Absent in seronegative MG",
+        "40-50% of anti-AChR Ab (-) MG"
+      ],
+      "ans": 3,
+      "exp": "Anti-MuSK: 40-50% of anti-AChR Ab (-) MG (Book p647)"
+    },
+    {
+      "id": "MED-C48-25",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Anti-LRP4 is tabulated against which population?",
+      "opts": [
+        "In double negative population (Both anti-MuSK & anti-AChR Ab (-) MG)",
+        "85% of generalised MG",
+        "All ocular myasthenia",
+        "Thymoma-associated MG only"
+      ],
+      "ans": 0,
+      "exp": "Anti-LRP4: In double negative population (Both anti-MuSK & anti-AChR Ab (-) MG) (Book p647)"
+    },
+    {
+      "id": "MED-C48-26",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Anti-MuSK antibodies are printed as absent in:",
+      "opts": [
+        "Females",
+        "Ocular myasthenia",
+        "Generalised MG",
+        "Neck extensor weakness"
+      ],
+      "ans": 1,
+      "exp": "Anti-MuSK antibodies: Absent in ocular myasthenia (Book p647)"
+    },
+    {
+      "id": "MED-C48-27",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Sex distribution printed for anti-MuSK antibodies is:",
+      "opts": [
+        "Equal",
+        "Only males",
+        "Females >>> males",
+        "Males > Females"
+      ],
+      "ans": 2,
+      "exp": "Anti-MuSK antibodies: Females >>> males (Book p647)"
+    },
+    {
+      "id": "MED-C48-28",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "The neck finding listed for anti-MuSK antibodies is:",
+      "opts": [
+        "Spasmodic torticollis",
+        "Ankylosing neck rigidity",
+        "Cervical radicular pain",
+        "Neck extensor weakness (Neck drop)"
+      ],
+      "ans": 3,
+      "exp": "Anti-MuSK antibodies: Neck extensor weakness (Neck drop) (Book p647)"
+    },
+    {
+      "id": "MED-C48-29",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Tongue finding listed for anti-MuSK antibodies is:",
+      "opts": [
+        "Tongue fasciculations (+)",
+        "Tongue hypertrophy",
+        "Spastic small tongue without fasciculations",
+        "Normal tongue"
+      ],
+      "ans": 0,
+      "exp": "Anti-MuSK antibodies: Tongue fasciculations (+) (Book p647)"
+    },
+    {
+      "id": "MED-C48-30",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Thymus status in anti-MuSK MG is:",
+      "opts": [
+        "Always thymectomy-responsive",
+        "No thymus involvement",
+        "Thymic hyperplasia in 70%",
+        "Thymoma in 80%"
+      ],
+      "ans": 1,
+      "exp": "Anti-MuSK antibodies: No thymus involvement (Book p647)"
+    },
+    {
+      "id": "MED-C48-31",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "management",
+      "q": "Drug response printed for anti-MuSK MG is:",
+      "opts": [
+        "Steroid-resistant by definition",
+        "AChE-inhibitor overdose obligatory",
+        "Drug (Pyridostigmine) refractory",
+        "Always pyridostigmine-responsive"
+      ],
+      "ans": 2,
+      "exp": "Anti-MuSK antibodies: Drug (Pyridostigmine) refractory (Book p647)"
+    },
+    {
+      "id": "MED-C48-32",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "Thymus involvement is discussed in what share of seropositive cases?",
+      "opts": [
+        "In 10% seropositive cases",
+        "In all MuSK cases",
+        "In 50% of ocular MG",
+        "In 80% seropositive cases"
+      ],
+      "ans": 3,
+      "exp": "Thymus: In 80% seropositive cases (Book p647)"
+    },
+    {
+      "id": "MED-C48-33",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "Of those seropositive thymus cases, thymic hyperplasia vs thymoma are:",
+      "opts": [
+        "70% : Thymic hyperplasia and 10% : Thymoma",
+        "10% hyperplasia and 70% thymoma",
+        "50% each",
+        "100% thymoma"
+      ],
+      "ans": 0,
+      "exp": "In 80% seropositive cases: 70% thymic hyperplasia; 10% thymoma (Book p647)"
+    },
+    {
+      "id": "MED-C48-34",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "management",
+      "q": "Thymectomy in adult onset generalised MG is printed to have:",
+      "opts": [
+        "Benefit only in MuSK MG",
+        "Very good prognosis",
+        "No role",
+        "Worse outcome than medical therapy alone"
+      ],
+      "ans": 1,
+      "exp": "Thymectomy in adult onset generalised MG : very good prognosis (Book p647)"
+    },
+    {
+      "id": "MED-C48-35",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Clinical features of MG begin with which syndrome type?",
+      "opts": [
+        "Pure sensory ganglionopathy",
+        "Autonomic failure",
+        "Pure motor syndrome",
+        "Sensorimotor polyneuropathy"
+      ],
+      "ans": 2,
+      "exp": "Clinical Features: Pure motor syndrome (Book p647)"
+    },
+    {
+      "id": "MED-C48-36",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "The time pattern listed among MG clinical features is:",
+      "opts": [
+        "No fluctuation across the day",
+        "Strictly nocturnal attacks",
+        "Fixed deficit from day 1",
+        "Diurnal variation"
+      ],
+      "ans": 3,
+      "exp": "Clinical Features: Diurnal variation (Book p647)"
+    },
+    {
+      "id": "MED-C48-37",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Fatiguability in MG is accompanied by which limb pattern?",
+      "opts": [
+        "Fluctuating weakness of UL proximal muscles with repetitive movements",
+        "Fixed distal wasting of the hands",
+        "Painful sensory cramps of the calves",
+        "Asymmetric foot drop without fatigue"
+      ],
+      "ans": 0,
+      "exp": "Fluctuating weakness of UL proximal muscles with repetitive movements (Book p647)"
+    },
+    {
+      "id": "MED-C48-38",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "numeric",
+      "q": "Early onset (Classical) MG accounts for:",
+      "opts": [
+        "85% of MG cases",
+        "65% of MG cases",
+        "15-20% of MG cases",
+        "10% of MG cases"
+      ],
+      "ans": 1,
+      "exp": "Early onset (Classical) MG: 65% of MG cases (Book p647)"
+    },
+    {
+      "id": "MED-C48-39",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Demographics of early onset (Classical) MG are:",
+      "opts": [
+        "Equal sex, childhood only",
+        "Males >>> females, neonatal",
+        "Females >>> males, 20-40 years",
+        "Males > Females, >60 years"
+      ],
+      "ans": 2,
+      "exp": "Early onset (Classical) MG: Females >>> males; 20-40 years (Book p647)"
+    },
+    {
+      "id": "MED-C48-40",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "Antibody and thymus notes for early onset (Classical) MG are:",
+      "opts": [
+        "Seronegative and no thymus involvement",
+        "MuSK only and thymoma in 70%",
+        "LRP4 only",
+        "Antibodies (++++) and Thymic hyperplasia (+)"
+      ],
+      "ans": 3,
+      "exp": "Early onset (Classical) MG: Antibodies (++++); Thymic hyperplasia (+) (Book p647)"
+    },
+    {
+      "id": "MED-C48-41",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "HLA associations printed for early onset (Classical) MG are:",
+      "opts": [
+        "HLA-DR3, B8, DR9",
+        "HLA-B27, DR4",
+        "HLA-DQ2, DR2",
+        "HLA-A3, B7"
+      ],
+      "ans": 0,
+      "exp": "Early onset (Classical) MG: HLA-DR3, B8, DR9 (Book p647)"
+    },
+    {
+      "id": "MED-C48-42",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — the ptosis note that is NOT how FSHD is printed:",
+      "opts": [
+        "A D/D listed under Note",
+        "Ptosis + ophthalmoplegia of mitochondrial myopathy",
+        "FSHD : Symmetrical ptosis",
+        "A comparison note beside early-onset MG"
+      ],
+      "ans": 1,
+      "exp": "Note: FSHD : Symmetrical ptosis (CPEO, not FSHD, is ptosis + ophthalmoplegia in mitochondrial myopathy) (Book p647)"
+    },
+    {
+      "id": "MED-C48-43",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "page": 647,
+      "fmt": "recall",
+      "q": "CPEO in the note is characterised as:",
+      "opts": [
+        "Fatiguing asymmetrical ptosis of MG",
+        "Painful ophthalmoplegia of Tolosa-Hunt",
+        "Ptosis + ophthalmoplegia — Chronic progressive external ophthalmoplegia — In mitochondrial myopathy",
+        "Symmetrical ptosis of FSHD"
+      ],
+      "ans": 2,
+      "exp": "CPEO : Ptosis + ophthalmoplegia; Chronic progressive external ophthalmoplegia; In mitochondrial myopathy (Book p647)"
+    },
+    {
+      "id": "MED-C48-44",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "The most common presenting feature of MG is:",
+      "opts": [
+        "Limb weakness in 90%",
+        "Fixed pupil-involving ophthalmoplegia",
+        "Sensory facial pain",
+        "Ocular symptoms : m/c"
+      ],
+      "ans": 3,
+      "exp": "Presenting features: Ocular symptoms : m/c (Book p648)"
+    },
+    {
+      "id": "MED-C48-45",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Ocular MG is described as:",
+      "opts": [
+        "Asymmetrical ptosis + diplopia + ophthalmoplegia",
+        "Symmetrical ptosis without diplopia",
+        "Painful pupil-involving third-nerve palsy",
+        "Internuclear ophthalmoplegia only"
+      ],
+      "ans": 0,
+      "exp": "Ocular: Asymmetrical ptosis + diplopia + ophthalmoplegia (Book p648)"
+    },
+    {
+      "id": "MED-C48-46",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Diplopia in MG is specified as:",
+      "opts": [
+        "Hemianopia",
+        "Binocular diplopia",
+        "Monocular diplopia",
+        "Complete blindness"
+      ],
+      "ans": 1,
+      "exp": "Ocular: Binocular diplopia (Book p648)"
+    },
+    {
+      "id": "MED-C48-47",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Pupils in MG ocular involvement are:",
+      "opts": [
+        "Always pinpoint",
+        "Light-near dissociation",
+        "Pupils spared",
+        "Always mid-dilated"
+      ],
+      "ans": 2,
+      "exp": "Ocular: Pupils spared (Book p648)"
+    },
+    {
+      "id": "MED-C48-48",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "The extraocular muscle with maximal involvement is:",
+      "opts": [
+        "Lateral rectus",
+        "Superior oblique",
+        "Levator palpebrae only",
+        "Medial rectus (MR)"
+      ],
+      "ans": 3,
+      "exp": "Muscle with maximal involvement : medial rectus (MR) (Book p648)"
+    },
+    {
+      "id": "MED-C48-49",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "numeric",
+      "q": "Limb weakness is printed in what share of cases?",
+      "opts": [
+        "10% cases",
+        "65% cases",
+        "85% cases",
+        "50% cases"
+      ],
+      "ans": 0,
+      "exp": "Limb weakness : 10% cases (Book p648)"
+    },
+    {
+      "id": "MED-C48-50",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Fatigue while chewing is attributed to which muscle and labelled:",
+      "opts": [
+        "Lateral pterygoid spasm : Specific for tetanus",
+        "Masseter muscle involvement : Specific for MG",
+        "Temporalis hypertrophy : Specific for LEMS",
+        "Tongue fasciculations : Specific for ALS"
+      ],
+      "ans": 1,
+      "exp": "Fatigue while chewing (D/t masseter muscle involvement) : Specific for MG (Book p648)"
+    },
+    {
+      "id": "MED-C48-51",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Bulbopharyngeal involvement also lists:",
+      "opts": [
+        "Conductive hearing loss",
+        "Spastic catch in the jaw",
+        "Dysarthria and Dysphagia",
+        "Anosmia and ageusia"
+      ],
+      "ans": 2,
+      "exp": "Bulbopharyngeal involvement: Dysarthria; Dysphagia (Book p648)"
+    },
+    {
+      "id": "MED-C48-52",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "The facies and posture listed among presenting features are:",
+      "opts": [
+        "Parkinsonian festinant gait",
+        "Opisthotonus",
+        "Hemifacial spasm",
+        "Expressionless facies and Drooped posture"
+      ],
+      "ans": 3,
+      "exp": "Expressionless facies; Drooped posture (Book p648)"
+    },
+    {
+      "id": "MED-C48-53",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Peek sign is defined as:",
+      "opts": [
+        "Eyelid closure weakness",
+        "Opposite eyelid droops on opening the ptotic eye",
+        "Eyelid overshoots after sustained down gaze",
+        "Unable to count 1-10"
+      ],
+      "ans": 0,
+      "exp": "Peek sign : Eyelid closure weakness (Book p648)"
+    },
+    {
+      "id": "MED-C48-54",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Curtain sign is:",
+      "opts": [
+        "Ptosis on sustained upgaze",
+        "On trying to open ptotic eye → Opposite eyelid droops",
+        "Eyelid closure weakness",
+        "Eyelid overshoots after down gaze"
+      ],
+      "ans": 1,
+      "exp": "Curtain sign : On trying to open ptotic eye → Opposite eyelid droops (Book p648)"
+    },
+    {
+      "id": "MED-C48-55",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Cogan's lid twitch is:",
+      "opts": [
+        "Ice-pack improvement of ptosis",
+        "Unable to count digits quickly",
+        "On trying to look up after a sustained down gaze → Eyelid overshoots",
+        "Opposite eyelid droops on opening the ptotic eye"
+      ],
+      "ans": 2,
+      "exp": "Cogan's lid twitch : On trying to look up after a sustained down gaze → Eyelid overshoots (Book p648)"
+    },
+    {
+      "id": "MED-C48-56",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "scenario",
+      "q": "Repeated sustained upgaze is used on examination. What does the book predict?",
+      "opts": [
+        "Pupils constrict",
+        "Nystagmus beats down",
+        "The opposite lid retracts permanently",
+        "Ptosis develops"
+      ],
+      "ans": 3,
+      "exp": "Sustained upgaze (Repeated activity) → Ptosis develops (Book p648)"
+    },
+    {
+      "id": "MED-C48-57",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "A bedside counting test printed for MG is:",
+      "opts": [
+        "Unable to count digits 1-10 quickly",
+        "Unable to count backwards from 100",
+        "Unable to name months in reverse",
+        "Unable to repeat 7 digits"
+      ],
+      "ans": 0,
+      "exp": "Unable to count digits 1-10 quickly (Book p648)"
+    },
+    {
+      "id": "MED-C48-58",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Ice pack test works via:",
+      "opts": [
+        "Vasodilatation of the lid",
+        "Cold temperature (Improves conduction)",
+        "Heating the orbit (Improves ACh release)",
+        "Local anaesthetic of orbicularis"
+      ],
+      "ans": 1,
+      "exp": "1. Ice pack test → Cold temperature (Improves conduction) (Book p648)"
+    },
+    {
+      "id": "MED-C48-59",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "numeric",
+      "q": "Edrophonium test dose and route printed are:",
+      "opts": [
+        "10 mg Edrophonium oral",
+        "2 mg Neostigmine IV",
+        "2 mg Edrophonium IV",
+        "1 mg Edrophonium IM"
+      ],
+      "ans": 2,
+      "exp": "2. Edrophonium test → 2 mg Edrophonium IV (Cholinesterase inhibitor) (Book p648)"
+    },
+    {
+      "id": "MED-C48-60",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "numeric",
+      "q": "Neostigmine test dose and route printed are:",
+      "opts": [
+        "Neostigmine 2 mg IV",
+        "Pyridostigmine 60 mg oral",
+        "Edrophonium 1 mg IM",
+        "Neostigmine 1 mg IM"
+      ],
+      "ans": 3,
+      "exp": "3. Neostigmine test → Neostigmine 1 mg IM (Book p648)"
+    },
+    {
+      "id": "MED-C48-61",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Ice pack, edrophonium and neostigmine tests are drawn converging on:",
+      "opts": [
+        "Symptoms improve",
+        "Symptoms worsen (cholinergic)",
+        "No change in ocular MG",
+        "CMAP becomes incremental"
+      ],
+      "ans": 0,
+      "exp": "All three tests arrow to: Symptoms improve (Book p648)"
+    },
+    {
+      "id": "MED-C48-62",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "The most specific investigation printed is:",
+      "opts": [
+        "High-frequency RNS : most specific test",
+        "AChR antibody : most specific test",
+        "Single nerve fibre EMG : most specific test",
+        "Ice pack test : most specific test"
+      ],
+      "ans": 1,
+      "exp": "4. AChR antibody : most specific test (Book p648)"
+    },
+    {
+      "id": "MED-C48-63",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "The most sensitive investigation printed is:",
+      "opts": [
+        "Ice pack test : most sensitive test",
+        "Baseline CMAP : most sensitive test",
+        "Single nerve fibre electromyography (↑ jitteriness) : most sensitive test",
+        "AChR antibody : most sensitive test"
+      ],
+      "ans": 2,
+      "exp": "5. Single nerve fibre electromyography (↑ jitteriness) : most sensitive test (Book p648)"
+    },
+    {
+      "id": "MED-C48-64",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Baseline compound motor action potential in the NCS table is:",
+      "opts": [
+        "Reduced in MG and Normal in LEMS",
+        "Incremental in both",
+        "Absent in both",
+        "Normal in MG and Reduced in LEMS"
+      ],
+      "ans": 3,
+      "exp": "Baseline CMAP: MG Normal; LEMS Reduced (Book p648)"
+    },
+    {
+      "id": "MED-C48-65",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "Low frequency (3 Hz) repetitive nerve stimulation is:",
+      "opts": [
+        "Decremental in MG and Variable in LEMS",
+        "Incremental in MG and Decremental in LEMS",
+        "Normal in both",
+        ">100% incremental in MG"
+      ],
+      "ans": 0,
+      "exp": "Low frequency (3 Hz) RNS: MG Decremental; LEMS Variable (Book p648)"
+    },
+    {
+      "id": "MED-C48-66",
+      "sec": "Presenting Features, Examination & Investigations",
+      "page": 648,
+      "fmt": "recall",
+      "q": "High frequency repetitive nerve stimulation is:",
+      "opts": [
+        "Variable in MG and normal in LEMS",
+        "Incremental in MG and >100% incremental in LEMS",
+        "Decremental in both",
+        ">100% incremental in MG and decremental in LEMS"
+      ],
+      "ans": 1,
+      "exp": "High frequency RNS: MG Incremental; LEMS >100% incremental (Book p648)"
+    },
+    {
+      "id": "MED-C48-67",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Lambert-Eaton myasthenic syndrome antibodies are against:",
+      "opts": [
+        "MuSK on the muscle membrane",
+        "Voltage-gated potassium channel of the node",
+        "V/Q Ca2+ channel on pre-synaptic membrane",
+        "AChR on post synaptic membrane"
+      ],
+      "ans": 2,
+      "exp": "LEMS: Antibodies against V/Q Ca2+ channel on pre-synaptic membrane (Book p649)"
+    },
+    {
+      "id": "MED-C48-68",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Paraneoplastic LEMS is associated with:",
+      "opts": [
+        "Thymoma",
+        "Breast adenocarcinoma",
+        "Hepatocellular carcinoma",
+        "Small cell lung cancer"
+      ],
+      "ans": 3,
+      "exp": "Paraneoplastic : Associated with small cell lung cancer (Book p649)"
+    },
+    {
+      "id": "MED-C48-69",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Limb involvement printed for LEMS is:",
+      "opts": [
+        "Involvement of Proximal lower limbs (+)",
+        "Distal upper limb wasting",
+        "Fatiguing medial rectus first",
+        "Neck drop as the presenting sign"
+      ],
+      "ans": 0,
+      "exp": "Involvement of Proximal lower limbs (+) (Book p649)"
+    },
+    {
+      "id": "MED-C48-70",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "ANS and ocular involvement in LEMS are:",
+      "opts": [
+        "Ocular m/c with pupils involved",
+        "ANS (+++) and Ocular : mild",
+        "ANS spared and ocular severe",
+        "ANS and ocular both absent"
+      ],
+      "ans": 1,
+      "exp": "LEMS: ANS (+++); Ocular : mild (Book p649)"
+    },
+    {
+      "id": "MED-C48-71",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "management",
+      "q": "LEMS is printed to improve with:",
+      "opts": [
+        "Ice pack to the lids",
+        "High-dose d-penicillamine",
+        "3,4 di-aminopyramidine",
+        "Pyridostigmine 30-60 mg 6th hourly"
+      ],
+      "ans": 2,
+      "exp": "Improves with 3,4 di-aminopyramidine (Book p649)"
+    },
+    {
+      "id": "MED-C48-72",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Anti-Hu antibody is mapped to:",
+      "opts": [
+        "Viral encephalitis",
+        "Thymic hyperplasia",
+        "MuSK MG",
+        "Ganglionopathy"
+      ],
+      "ans": 3,
+      "exp": "Note: Anti-Hu antibody : Ganglionopathy (Book p649)"
+    },
+    {
+      "id": "MED-C48-73",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Anti-MA2 and anti-CRPM5 are mapped to:",
+      "opts": [
+        "Viral encephalitis",
+        "Ganglionopathy",
+        "Small cell lung cancer LEMS",
+        "Ocular MG"
+      ],
+      "ans": 0,
+      "exp": "Note: Anti-MA2, anti-CRPM5 : Viral encephalitis (Book p649)"
+    },
+    {
+      "id": "MED-C48-74",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — not listed among drugs that exacerbate MG:",
+      "opts": [
+        "Macrolides",
+        "Pyridostigmine",
+        "Aminoglycosides",
+        "Quinolones"
+      ],
+      "ans": 1,
+      "exp": "Drugs that exacerbate MG include aminoglycosides, quinolones, macrolides, magnesium (antacids), d-penicillamine, azathioprine and propranolol; pyridostigmine is treatment, not an exacerbating drug (Book p649)"
+    },
+    {
+      "id": "MED-C48-75",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Which cardiovascular and rheumatologic pair is listed among MG-exacerbating drugs?",
+      "opts": [
+        "Amiodarone and colchicine",
+        "Verapamil and allopurinol",
+        "Propranolol and d-Penicillamine",
+        "Digoxin and methotrexate"
+      ],
+      "ans": 2,
+      "exp": "Drugs that exacerbate MG: d-Penicillamine; Propranolol (Book p649)"
+    },
+    {
+      "id": "MED-C48-76",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Magnesium is listed as an MG-exacerbating drug in the form of:",
+      "opts": [
+        "Magnesium sulphate tocolysis only",
+        "Dietary almonds",
+        "IV magnesium for eclampsia only",
+        "Magnesium (Antacids)"
+      ],
+      "ans": 3,
+      "exp": "Drugs that exacerbate MG: magnesium (Antacids) (Book p649)"
+    },
+    {
+      "id": "MED-C48-77",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "management",
+      "q": "First attack treatment is:",
+      "opts": [
+        "Cholinesterase inhibitors (Pyridostigmine 30-60 mg every 6th hourly)",
+        "Immediate thymectomy without drugs",
+        "IVIg as first-line in every case",
+        "3,4 di-aminopyramidine"
+      ],
+      "ans": 0,
+      "exp": "First attack : Cholinesterase inhibitors (Pyridostigmine 30-60 mg every 6th hourly) (Book p649)"
+    },
+    {
+      "id": "MED-C48-78",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "management",
+      "q": "From the second attack, initial vs maintenance Rx are:",
+      "opts": [
+        "Initial 3,4-DAP; maintenance ice pack",
+        "Initial Rx : Pyridostigmine; maintenance Rx : Steroids ± azathioprine",
+        "Initial steroids; maintenance pyridostigmine only",
+        "Initial plasma exchange; no maintenance"
+      ],
+      "ans": 1,
+      "exp": "From second attack: Initial Rx : Pyridostigmine; maintenance Rx : Steroids ± azathioprine (Book p649)"
+    },
+    {
+      "id": "MED-C48-79",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "management",
+      "q": "IVIg + plasma exchange indications include myasthenic crisis and:",
+      "opts": [
+        "First attack of every patient",
+        "MuSK MG exclusively",
+        "Life-threatening MG, Severe bulbar dysfunction, Refractory MG, Planned for surgery",
+        "Ocular MG with good prognosis only"
+      ],
+      "ans": 2,
+      "exp": "IVIg + plasma exchange indications: myasthenic crisis; Life-threatening MG; Severe bulbar dysfunction; Refractory MG; Planned for surgery (Book p649)"
+    },
+    {
+      "id": "MED-C48-80",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "Cholinergic crisis is:",
+      "opts": [
+        "D/t underdose of pyridostigmine",
+        "The same as myasthenic crisis",
+        "Caused by 3,4 di-aminopyramidine",
+        "D/t overdose of cholinesterase inhibitors"
+      ],
+      "ans": 3,
+      "exp": "Cholinergic crisis : D/t overdose of cholinesterase inhibitors (Book p649)"
+    },
+    {
+      "id": "MED-C48-81",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "The cholinergic-crisis mnemonic printed is:",
+      "opts": [
+        "DUMBELLS",
+        "SLUDGE only",
+        "AEIOU",
+        "FAST"
+      ],
+      "ans": 0,
+      "exp": "Symptoms : DUMBELLS (Book p649)"
+    },
+    {
+      "id": "MED-C48-82",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "page": 649,
+      "fmt": "recall",
+      "q": "DUMBELLS expands on the page to diarrhea, urination, miosis, bradycardia and:",
+      "opts": [
+        "Exophthalmos, Leukocytosis, Loud S1",
+        "Emesis, Lacrimation, Lethargy, Salivation",
+        "Euphoria, Limb spasticity, Loud speech",
+        "Extensor plantars, Lead-pipe rigidity"
+      ],
+      "ans": 1,
+      "exp": "DUMBELLS: Diarrhea; Urination; Miosis; Bradycardia; Emesis; Lacrimation; Lethargy; Salivation (Book p649)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U48-1",
+      "ch": 48,
+      "n": 1,
+      "title": "1. NMJ Pathophysiology and Ocular Progression",
+      "sec": "NMJ Pathophysiology & Ocular Progression",
+      "guide": "Myasthenia gravis is an NMJ disorder: autoantibody (B-cell) plus T-cell attack on postsynaptic AChR.\nThe NMJ figure labels ChAT, V/Q Ca++ channel, AChE, agrin, the active zone and voltage-gated Na+/K+/Ca+ channels; ACh vesicle release binds AChR, Na influx and muscle contraction.\nOcular symptoms are m/c; 15-20% stay ocular (good prognosis) while progressors (maximum first 2-3 years) go pharyngeal then proximal then respiratory; the most crucial period is the first 1 year after ocular symptoms.",
+      "qs": [
+        "MED-C48-01",
+        "MED-C48-02",
+        "MED-C48-03",
+        "MED-C48-04",
+        "MED-C48-05",
+        "MED-C48-06",
+        "MED-C48-07",
+        "MED-C48-08",
+        "MED-C48-09",
+        "MED-C48-10",
+        "MED-C48-11",
+        "MED-C48-12",
+        "MED-C48-13",
+        "MED-C48-14"
+      ]
+    },
+    {
+      "id": "MED-U48-2",
+      "ch": 48,
+      "n": 2,
+      "title": "2. Demographics, Antibodies, Thymus and Classical MG",
+      "sec": "Demographics, Antibodies, Thymus & Classical MG",
+      "guide": "Bimodal peaking: first peak 20-40 yr with females >>> males; second peak >60 years with males > females.\nAChR antibody is specific (85% generalised, 50% ocular); MuSK 10-20% of generalised and 40-50% of AChR-negative MG; LRP4 sits in the double-negative population.\nMuSK MG is absent in ocular disease, female-predominant, neck-drop with tongue fasciculations, no thymus involvement and pyridostigmine-refractory. In 80% of seropositive cases 70% have thymic hyperplasia and 10% thymoma; thymectomy in adult-onset generalised MG has very good prognosis. Clinical MG is a pure motor syndrome with diurnal variation, fatiguability and fluctuating UL proximal weakness on repetitive movement. Early-onset classical MG is 65% of cases, females >>> males, 20-40 years, antibodies (++++), HLA-DR3, B8, DR9 and thymic hyperplasia; FSHD has symmetrical ptosis and CPEO (mitochondrial) has ptosis + ophthalmoplegia.",
+      "qs": [
+        "MED-C48-15",
+        "MED-C48-16",
+        "MED-C48-17",
+        "MED-C48-18",
+        "MED-C48-19",
+        "MED-C48-20",
+        "MED-C48-21",
+        "MED-C48-22",
+        "MED-C48-23",
+        "MED-C48-24",
+        "MED-C48-25",
+        "MED-C48-26",
+        "MED-C48-27",
+        "MED-C48-28",
+        "MED-C48-29",
+        "MED-C48-30",
+        "MED-C48-31",
+        "MED-C48-32",
+        "MED-C48-33",
+        "MED-C48-34",
+        "MED-C48-35",
+        "MED-C48-36",
+        "MED-C48-37",
+        "MED-C48-38",
+        "MED-C48-39",
+        "MED-C48-40",
+        "MED-C48-41",
+        "MED-C48-42",
+        "MED-C48-43"
+      ]
+    },
+    {
+      "id": "MED-U48-3",
+      "ch": 48,
+      "n": 3,
+      "title": "3. Presenting Features, Signs and Investigations",
+      "sec": "Presenting Features, Examination & Investigations",
+      "guide": "Ocular symptoms are m/c: asymmetrical ptosis + diplopia + ophthalmoplegia, binocular diplopia, pupils spared, medial rectus maximal. Limb weakness is 10%; bulbopharyngeal involvement includes fatigue while chewing (masseter — specific for MG), dysarthria and dysphagia, plus expressionless facies and drooped posture.\nExamination: peek sign, curtain sign, Cogan's lid twitch, sustained upgaze producing ptosis, unable to count digits 1-10 quickly.\nIce pack (cold improves conduction), edrophonium 2 mg IV and neostigmine 1 mg IM all improve symptoms. AChR antibody is most specific; single-fibre EMG (increased jitter) is most sensitive. NCS: MG has normal baseline CMAP, 3 Hz decremental and high-frequency incremental responses; LEMS has reduced CMAP, variable 3 Hz and >100% high-frequency increment.",
+      "qs": [
+        "MED-C48-44",
+        "MED-C48-45",
+        "MED-C48-46",
+        "MED-C48-47",
+        "MED-C48-48",
+        "MED-C48-49",
+        "MED-C48-50",
+        "MED-C48-51",
+        "MED-C48-52",
+        "MED-C48-53",
+        "MED-C48-54",
+        "MED-C48-55",
+        "MED-C48-56",
+        "MED-C48-57",
+        "MED-C48-58",
+        "MED-C48-59",
+        "MED-C48-60",
+        "MED-C48-61",
+        "MED-C48-62",
+        "MED-C48-63",
+        "MED-C48-64",
+        "MED-C48-65",
+        "MED-C48-66"
+      ]
+    },
+    {
+      "id": "MED-U48-4",
+      "ch": 48,
+      "n": 4,
+      "title": "4. LEMS, Drugs, Treatment and Cholinergic Crisis",
+      "sec": "LEMS, Exacerbating Drugs, Treatment & Cholinergic Crisis",
+      "guide": "LEMS: antibodies against V/Q Ca2+ channel on the pre-synaptic membrane; paraneoplastic with small cell lung cancer; proximal lower limbs (+), ANS (+++), ocular mild; improves with 3,4 di-aminopyramidine. Notes: Anti-Hu is ganglionopathy; Anti-MA2 and anti-CRPM5 are viral encephalitis.\nDrugs that exacerbate MG: aminoglycosides, quinolones, macrolides, magnesium (antacids), d-penicillamine, azathioprine, propranolol.\nFirst attack: pyridostigmine 30-60 mg every 6th hourly. From second attack: initial pyridostigmine, maintenance steroids ± azathioprine. IVIg + plasma exchange for myasthenic crisis, life-threatening MG, severe bulbar dysfunction, refractory MG and planned surgery. Cholinergic crisis is overdose of cholinesterase inhibitors with DUMBELLS.",
+      "qs": [
+        "MED-C48-67",
+        "MED-C48-68",
+        "MED-C48-69",
+        "MED-C48-70",
+        "MED-C48-71",
+        "MED-C48-72",
+        "MED-C48-73",
+        "MED-C48-74",
+        "MED-C48-75",
+        "MED-C48-76",
+        "MED-C48-77",
+        "MED-C48-78",
+        "MED-C48-79",
+        "MED-C48-80",
+        "MED-C48-81",
+        "MED-C48-82"
+      ]
+    }
+  ]
+}
